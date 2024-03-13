@@ -1,0 +1,149 @@
+import tweepy
+import json
+import requests
+
+# client = tweepy.client(BEARER_TOKEN)
+
+def users_done_update(log_data_path: str, users: list):
+    with open(log_data_path+'users_done.txt', 'a'):
+        users_string = '\n'.join(users)
+        log_data_path.write('\n')
+        log_data_path.write(users_string)
+    return
+
+def users_to_do_update(input_data_path: str, log_data_path: str):
+    #update the file with remaining users to retreive tweets from
+    with open(log_data_path+'users_done.txt', 'r') as lfile:
+        lines = lfile.readlines()
+        users_done = [line.strip() for line in lines]
+    
+    with open(input_data_path+'users_to_do.txt', 'r') as ifile:
+        lines = ifile.readlines() 
+        users_to_do = [line.strip() for line in lines]
+    
+    res = filter(lambda i: i not in users_done, users_to_do)
+    
+    with open(input_data_path+'users_to_do.txt', 'w') as ofile:
+        users_to_do_string = '\n'.join(res)
+        ofile.write(users_to_do_string)
+    
+    return 
+
+def read_users(input_data_path: str):
+    with open(input_data_path+'users_to_do.txt', 'r') as ifile:
+        lines = ifile.readlines() 
+        users_to_do = [line.strip() for line in lines]
+    return users_to_do
+
+def compute_max_tweets(bearer_token: str):
+    url = 'https://api.twitter.com/2/usage/tweets'
+    headers = {
+        'Authorization': f'Bearer {bearer_token}'
+    }
+
+    response = requests.get(url, headers=headers)
+    
+    print(response)
+
+    if response.status_code == 200:
+        responsedict = response.json()
+        # Process the response data here
+        max_tweets_left = int(responsedict['data']['project_cap']) - int(responsedict['data']['project_usage']) - 1000
+        return max_tweets_left
+    else:
+        print("Error:", response.status_code)
+        
+def users_to_collect_from(client, users, count):
+    i = 0
+    while count >= 0:
+        user_id = client.get_user(username=users[i].replace('@', '')).data.id 
+        print(user_id)
+        user_object = client.get_user(id=user_id) 
+        print(user_object)
+        # fetching the statuses_count attribute 
+        users_tweets = user_object.data.statuses_count 
+        print(f"The number of statuses the user {users[i]} has posted are : " + str(statuses_count)) 
+        count -= user_tweets 
+        i += 1
+    #lista di utenti per cui colleziono i tweet
+    users = users[:i]
+    return users
+
+def get_tweets(client, username: str):
+    with open(log_data_path+'logfile.txt', 'a') as file:
+        print(f"retrieving tweets from {username} timeline")
+        file.write(f"START {username}: retrieving tweets from {username} timeline\n")
+        user_id = client.get_user(username=username).data.id
+        responses = tweepy.Paginator(client.get_users_tweets, user_id, start_date = datetime(year=2023, month=1, day=1, hour = 0, minute = 0), end_date = datetime(year=2023, month=12, day=31, hour=23, minute=59), max_results=1, limit=1)
+        counter = 0
+        tweet_list = []
+        for response in responses:
+            counter += 1
+            print(f"==> processing {counter * 100} to {(counter + 1) * 100} of {username}'s tweets")
+            file.write(f"==> processing {counter * 100} to {(counter + 1) * 100} of {username}'s tweets")
+            try:
+                for tweet in response.data:  # see any individual tweet by id at: twitter.com/anyuser/status/TWEET_ID_HERE
+                    print(tweet)
+                    tweet_list.append(dict(tweet))
+            except Exception as e:
+                print(e)
+        file.write(f"END {username}: finished retrieving tweets from {username} timeline\n")
+    return tweet_list
+
+def write_results(tweet_list, username, out_data_path):
+    with open(out_data_path+f'{username}_tweets.json', 'a') as ofile:
+        json.dump(tweet_list, ofile)
+    print(f"{username} tweets saved")
+
+def main():
+    BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
+    input_data_path = 'data/in/'
+    output_data_path = 'data/out/'
+    log_data_path = 'data/log/'
+    
+    # users_to_do_update(input_data_path, log_data_path)
+        
+    client = tweepy.Client(BEARER_TOKEN, wait_on_rate_limit=True)
+
+    users = read_users(input_data_path)
+
+    tweet_available_count = compute_max_tweets(BEARER_TOKEN)
+
+    usernames = users_to_collect_from(client, users, tweet_available_count)
+    
+    print(usernames)
+
+    # for username in usernames:
+    #     username = username.replace('@', '')
+    #     tweet_list = get_tweets(client, user)
+    #     write_results(tweet_list, username, out_data_path)
+    #     users_done_update(log_data_path, [username])
+       
+       
+### main
+        
+if __name__ == '__main__':
+    main()
+    
+### end of main
+    
+    
+        
+        
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
