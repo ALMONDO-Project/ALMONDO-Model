@@ -57,9 +57,7 @@ def users_to_collect_from(client, users, count):
     i = 0
     while count >= 0:
         user_id = client.get_user(username=users[i].replace('@', '')).data.id 
-        print(user_id)
         user_object = client.get_user(id=user_id) 
-        print(user_object)
         # fetching the statuses_count attribute 
         users_tweets = user_object.data.statuses_count 
         print(f"The number of statuses the user {users[i]} has posted are : " + str(statuses_count)) 
@@ -69,7 +67,7 @@ def users_to_collect_from(client, users, count):
     users = users[:i]
     return users
 
-def get_tweets(client, username: str):
+def get_tweets(client, log_data_path: str, username: str):
     with open(log_data_path+'logfile.txt', 'a') as file:
         print(f"retrieving tweets from {username} timeline")
         file.write(f"START {username}: retrieving tweets from {username} timeline\n")
@@ -95,37 +93,7 @@ def write_results(tweet_list, username, out_data_path):
         json.dump(tweet_list, ofile)
     print(f"{username} tweets saved")
 
-def main():
-    BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
-    input_data_path = 'data/in/'
-    output_data_path = 'data/out/'
-    log_data_path = 'data/log/'
-    
-    # users_to_do_update(input_data_path, log_data_path)
-        
-    client = tweepy.Client(BEARER_TOKEN, wait_on_rate_limit=True)
 
-    users = read_users(input_data_path)
-
-    tweet_available_count = compute_max_tweets(BEARER_TOKEN)
-
-    usernames = users_to_collect_from(client, users, tweet_available_count)
-    
-    print(usernames)
-
-    # for username in usernames:
-    #     username = username.replace('@', '')
-    #     tweet_list = get_tweets(client, user)
-    #     write_results(tweet_list, username, out_data_path)
-    #     users_done_update(log_data_path, [username])
-       
-       
-### main
-        
-if __name__ == '__main__':
-    main()
-    
-### end of main
     
     
         
