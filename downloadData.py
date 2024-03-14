@@ -1,7 +1,4 @@
 import os
-import json
-from datetime import datetime
-import logging
 from searchtweets import collect_results, load_credentials, gen_request_parameters
 from utils import compute_max_tweets, get_oldest_tweet_id
 
@@ -31,44 +28,40 @@ class UserDataDownloader:
         self.search_credentials = load_credentials(filename=f"{self.home}/cred.yaml", yaml_key="search_tweets_cred")
         self.query = f"from:{username} -is:retweet"
 
-        # Initialize logger
-        self.logger = logging.getLogger(__name__)
-        self.logger.setLevel(logging.INFO)
-        formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-
-        # Log to console
-        ch = logging.StreamHandler()
-        ch.setLevel(logging.INFO)
-        ch.setFormatter(formatter)
-        self.logger.addHandler(ch)
-
-        # Log to file
-        fh = logging.FileHandler(f"{self.home}/data/logs/{username}_log.txt")
-        fh.setLevel(logging.INFO)
-        fh.setFormatter(formatter)
-        self.logger.addHandler(fh)
+    def _handle_error(self, message):
+        print(f"Error: {message}")
 
     def make_dirs(self):
         try:
             if not os.path.exists(self.tweets_path):
                 os.makedirs(self.tweets_path)
-                self.logger.info(f'Created folder: {self.tweets_path}')
+                print(f'Created folder: {self.tweets_path}')
             else:
-                self.logger.info(f'{self.tweets_path} already exists')
+                print(f'{self.tweets_path} already exists')
         except OSError as e:
-            self.logger.error(f"Error creating directory: {self.tweets_path} - {e}")
+            self._handle_error(f"Error creating directory: {self.tweets_path} - {e}")
 
     def set_max_id(self):
         try:
             self.max_id = get_oldest_tweet_id(self.tweets_path)
             if not self.max_id:
                 raise FileNotFoundError("Empty file exists")
-            self.logger.info(f'Oldest tweet downloaded is {self.max_id} at {self.tweets_path}')
+            print(f'Oldest tweet downloaded is {self.max_id} at {self.tweets_path}')
         except FileNotFoundError:
             self.max_id = None
-            self.logger.info('No previous tweets downloaded, setting max_id to None')
+            print('No previous tweets downloaded, setting max_id to None')
 
-    # Define other methods similarly
+    def set_max_tweets(self, BEARER_TOKEN, n=None):
+        try:
+            left = compute_max_tweets(BEARER_TOKEN) - 1000
+            self.max_tweets = min(left, n) if n is not None else left
+            print(f'Asking to download {self.max_tweets} tweets at max')
+            if left <= 0:
+                raise NoTweetsLeftException('No tweets left to download')
+        except NoTweetsLeftException:
+            self._handle_error("No tweets left to download")
+        except Exception as e:
+            self._handle_error(f"Error setting max tweets: {e}")
 
     def download(self):
         try:
@@ -81,10 +74,9 @@ class UserDataDownloader:
                                                       start_time=self.start_time,
                                                       end_time=self.end_time)
 
-            self.logger.info(f"Collecting tweets for user {self.username}")
+            print(f"Collecting tweets for user {self.username}")
 
-            tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
-            self.tweets = tweets
+            self.tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
 
             # Save tweets to file with timestamp
             timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -92,7 +84,7 @@ class UserDataDownloader:
             with open(filename_with_timestamp, 'w') as file:
                 json.dump(self.tweets, file)
         except Exception as e:
-            self.logger.error(f"Error downloading tweets: {e}")
+            self._handle_error(f"Error downloading tweets: {e}")
 
     def save_tweets(self):
         try:
@@ -113,5 +105,7 @@ class UserDataDownloader:
                     json.dump(tweet_dict, ofile)
             else:
                 raise NoTweetsToSaveException('No tweets to save')
+        except NoTweetsToSaveException:
+            self._handle_error("No tweets to save")
         except Exception as e:
-            self.logger.error(f"Error saving tweets: {e}")
+            self._handle_error(f"Error saving tweets: {e}")
