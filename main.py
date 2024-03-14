@@ -8,20 +8,25 @@ def main():
     usernames = read_users(f'{home}/data/in/')
     
     for username in usernames:   
-        print(f'>>> process started for {username}')
+        if username == '-':
+            continue
+        
         try:
+            print(f'>>> process started for {username}')
             username = username.replace('@', '')     
             downloader = UserDataDownloader(username)
             downloader.make_dirs()
-            downloader.set_since_id()
+            downloader.set_max_id() #potrei dover usare max_id perché non so se sta richiesta me li da dal più recente al più vecchio o viceversa
             downloader.set_max_tweets(BEARER_TOKEN, 5)
             downloader.download()
             downloader.save_tweets()
             print(f'>>> process ended for user {username}')
+            print(f'>>> saving logs')
             users_done_update(f'{home}/data/log/', username)
             users_to_do_update(f'{home}/data/in/', f'{home}/data/log/')
         except:
             print(f'>>> process had some problems for user {username}')
+            print('>>> tring to do next username')
             continue
         
     print('>>> process ended')

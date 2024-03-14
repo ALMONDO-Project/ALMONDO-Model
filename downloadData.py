@@ -36,7 +36,7 @@ class UserDataDownloader():
         self.expansions = expansions
         self.results_per_call = results_per_call
         
-        self.since_id = None
+        self.max_id = None #potrei dover usare max_id perché non so se sta richiesta me li da dal più recente al più vecchio o viceversa
         self.tweets = {}     
         self.home = os.getcwd()
         self.path = f"{self.home}/data"       
@@ -53,15 +53,16 @@ class UserDataDownloader():
         else:
             print(f'>>> {self.tweets_path} is already present')
     
-    def set_since_id(self):
+    def set_max_id(self):
+        #potrei dover usare max_id perché non so se sta richiesta me li da dal più recente al più vecchio o viceversa
         try:
-            self.since_id = get_last_tweet_id(self.tweets_path)
-            if not self.since_id:
+            self.max_id = get_oldest_tweet_id(self.tweets_path)
+            if not self.max_id:
                 raise Exception("Empty file exists")
-            print(f'>>> oldest tweet downloaded is {self.since_id} at {self.tweets_path}')
+            print(f'>>> oldest tweet downloaded is {self.max_id} at {self.tweets_path}')
         except FileNotFoundError:
-            self.since_id = None
-            print(f'>>> No previous tweet downloaded, setting since_id to None')
+            self.max_id = None
+            print(f'>>> No previous tweet downloaded, setting max_id to None')
       
     def set_max_tweets(self, BEARER_TOKEN, n = None):
         left = compute_max_tweets(BEARER_TOKEN) - 1000
@@ -76,25 +77,19 @@ class UserDataDownloader():
             raise NoTweetsLeftException('No tweets left to download')  # Raised custom exception
         
     def download(self):
-        try:
-            self.search_rule = gen_request_parameters(self.query,
+        self.search_rule = gen_request_parameters(self.query,
                                         results_per_call=self.results_per_call,
                                         tweet_fields=self.tweet_fields,
                                         media_fields=self.media_fields,
                                         expansions=self.expansions,
-                                        since_id = self.since_id,
+                                        max_id = self.max_id, #potrei dover usare max_id perché non so se sta richiesta me li da dal più recente al più vecchio o viceversa
                                         start_time=self.start_time,
                                         end_time=self.end_time)
-        except:
-            print('>>> problems with generating request parameters and setting search rule')
         
         print(f"Collecting tweets for user {self.filename}")
         
-        try:
-            tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
-            self.tweets = tweets
-        except:
-            print('>>> problems with collect_results')
+        tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
+        self.tweets = tweets
         
         # Save tweets to file with timestamp
         timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -104,20 +99,15 @@ class UserDataDownloader():
             
     def save_tweets(self):
         if self.tweets:  # Changed condition to check if tweets is not empty
-            try: 
-                with open(self.filename, 'r') as ifile:
-                    tweet_dict = ifile.read(self.filename)
-                    i = max(tweet_dict.keys(), key=int) + 1
+            with open(self.filename, 'r') as ifile:
+                tweet_dict = ifile.read(self.filename)
+                progressive_tweet_id = max(tweet_dict.keys(), key=int) + 1
 
-                for tweet in tweet_dict:
-                    tweet_dict[i] = dict(tweet)
-                    i+1
-                    
-                with open(self.filename, 'w') as ofile:
-                    ofile.write(tweet_dict)
-                    
-            except:
-
-                print(f'Was not able to save downloaded tweets for {self.username}')
+            for tweet in tweet_dict:
+                tweet_dict[str(progressive_tweet_id)] = dict(tweet)
+                progressive_tweet_id += 1
+                
+            with open(self.filename, 'w') as ofile:
+                json.dump(tweet_dict, ofile)
         else:
             raise NoTweetsToSaveException
