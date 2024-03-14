@@ -1,138 +1,93 @@
 from searchtweets import collect_results, load_credentials, gen_request_parameters
-from datetime import date, timedelta
+import tweepy
+from utils import *
+from datetime import datetime, date, timedelta
 import pandas as pd
-import json as serializer
+import json 
 import requests
 import os
 from os.path import join as join, dirname
 import smtplib, ssl
 from dotenv import load_dotenv
 
-# Get today's date
-today = date.today()
+PROJECT_HOME = "C:/Users/valen/GitHub/almondo-tweets-retrieval" 
 
+class UserDataDownloader():
+    def __init__(self, 
+                 username, 
+                 start_time=(datetime(year=2023, month=1, day=1)).strftime("%Y-%m-%d"), 
+                 end_time=(datetime(year=2023, month=12, day=31)).strftime("%Y-%m-%d"), 
+                 tweet_fields='text,id,attachments,created_at,lang,author_id,entities,geo', 
+                 expansions='attachments.media_keys,geo.place_id', 
+                 media_fields='media_key,type,url,variants,preview_image_url', 
+                 results_per_call=100):
 
-base = "/home/paul/twitter/Twitter/"
-
-class DataDownloader():
-    def __init__(self, query, day=6, tweet_fields='text,id,attachments,created_at,lang,author_id,entities,geo', expansions='attachments.media_keys,geo.place_id', media_fields='media_key,type,url,variants,preview_image_url'):
-        # If i only want the tweet text i can use tweet_fields='' or tweet_fields=None
-        # Both will send no tweet fields, and you'll receive only the default fields (id, text, edit_history_tweet_ids)
-        if tweet_fields == '':
-            tweet_fields = None
-
-        self.day_downloded = day
-        self.filename = f"{str(today-timedelta(day))}"
-        # Filename for the day
-        
-        self.path = f"{base}data/"
-        if not os.path.exists(self.path):
-            os.makedirs(self.path)
-        
-        self.tweets_path = f"{self.path}tweets/"
-        if not self.tweets_path:
-            self.tweets_path = f"{self.path}tweets/"
-        
-        if not os.path.exists(self.tweets_path):
+        self.username = username
+        self.start_time = start_time
+        self.start_time = end_time
+        self.tweet_fields = tweet_fields
+        self.media_fields = media_fields
+        self.expansions = expansions
+        self.results_per_call = results_per_call
+        self.since_id = None
+        self.tweets = {}      
+        self.path = f"{PROJECT_HOME}/data"       
+        self.tweets_path = f"{self.path}/out/{username}"
+        self.filename = f"{self.tweets_path}/{username}_tweets.json"
+        self.search_credentials = load_credentials(filename=f"{PROJECT_HOME}/cred.yaml", yaml_key="search_tweets_cred")
+        self.query = f"from:{username} -is:retweet"
+    
+    def make_dirs(self):
+        if not os.makedirs(self.tweets_path):
+            print(f'>>> creating folder {self.tweets_path}')
             os.makedirs(self.tweets_path)
-            
-        self.search_credentials = load_credentials(filename=f"{base}cred.yaml", 
-                                        yaml_key="search_tweets_cred")
-        self.counts_credentials = load_credentials(filename=f"{base}cred.yaml", 
-                                        yaml_key="counts_tweets_cred")
-        self.search_rule = gen_request_parameters(query,
-                                        results_per_call=100,
-                                        tweet_fields=tweet_fields,
-                                        media_fields=media_fields,
-                                        expansions=expansions,
-                                        start_time=(today - timedelta(day)).strftime("%Y-%m-%d"),
-                                        end_time=(today - timedelta(day-1)).strftime("%Y-%m-%d"))
-    
-        self.counts_rule = gen_request_parameters(query, granularity="day")
-
-    def update_api_limits(self, day_downloded):
-        print('Updating api limits: ')
-        def check_usage():
-            cred = load_credentials(filename=f"{base}cred.yaml", yaml_key="usage_cred")
-            
-            def bearer_oauth(r):
-                """
-                Method required by bearer token authentication.
-                """
-
-                r.headers["Authorization"] = f"Bearer {cred['bearer_token']}"
-                r.headers["User-Agent"] = "v2UsageTweetsPython"
-                return r
-            
-            response = requests.request('GET', url=cred['endpoint'], auth=bearer_oauth)
-            if response.status_code != 200:
-                raise Exception(
-                    "Request returned an error: {} {}".format(
-                        response.status_code, response.text
-                    )
-                )
-            return response.json()
-        
-        usage = check_usage()['data']
-        # Check the api limits
-        counts = collect_results(self.counts_rule, result_stream_args=self.counts_credentials)
-        if os.path.exists(f"{self.path}limits.json"):
-            with open(f"{self.path}limits.json", "r") as f:
-                data = serializer.load(f)
+            print(f'>>> folder {self.tweets_path} created')
         else:
-            data = {}    
-            data['Started: '] = str(today) 
-            data['Remaining_Month_Cap_Limit'] = int(int(usage['project_cap']) - int(usage['project_usage']))
-            
-        data['Month_Cap_Limit'] = int(usage['project_cap'])
-        data['Used_Requests'] = int(usage['project_usage']) + int(counts[0]['data'][0]['tweet_count'])
-        data['Cap_Reset_Day'] = int(usage['cap_reset_day'])
-        
-        data['Remaining_Month_Cap_Limit'] = int(data['Month_Cap_Limit']) - int(data['Used_Requests'])
-        
-        if today.day > data['Cap_Reset_Day']:
-            data['Cap_Remaining_Days'] = int((date(today.year, today.month+1, int(data['Cap_Reset_Day'])) - today).days)
-        else:
-            data['Cap_Remaining_Days'] = int((date(today.year, today.month, int(data['Cap_Reset_Day'])) - today).days)
-        
-        data['Day_Cap_Limit'] = int(int(data['Remaining_Month_Cap_Limit']) / int(data['Cap_Remaining_Days']))
-        
-        self.max_tweets_per_day = int(data['Day_Cap_Limit'])
-        # Print the limits
-        print('#########################################################')
-        print(data)
-        print('#########################################################')
-        # Save the limits
-        
-        day_donwloading = (today - timedelta(day_downloded)).strftime("%Y-%m-%d")
-        serializer.dump(data, open(f"{self.path}limits.json", "w"))
-        serializer.dump(counts, open(f"{self.path}counts/{str(today)}_counts_{day_donwloading}.json", "w"))
+            print(f'>>> {self.tweets_path} is already present')
     
-    def join_and_save(self):
-        all_tweets_json = []
-        for file in os.listdir(f"{self.path}tweets/"):
-            if file.endswith(".json"):
-                file = serializer.loads(open(f"{self.path}tweets/{file}").read())
-                all_tweets_json.append(file)
-        all_tweets_json = [tweet for tweets in all_tweets_json for tweet in tweets]
-        serializer.dump(all_tweets_json, open(f"{self.path}all_tweets.json", "w"))
-
-    def download_and_save(self):
-        self.update_api_limits(self.day_downloded)
-        # Collecting tweets
-        print(f"Collecting tweets for day {self.filename}")
-        tweets = collect_results(self.search_rule, max_tweets=self.max_tweets_per_day, result_stream_args=self.search_credentials)
-        print(f"Dumping data...")
-        serializer.dump(tweets, open(f"{self.tweets_path}{self.filename}.json", "w"))
+    def set_since_id(self): #controllare che questo sia giusto non mi ricordo se è since_id o l'altro
         try:
-            self.join_and_save()
-        except:
-            print("Can't join the data")
-            pass
-        print(f"Done.\n")
+            self.since_id = get_last_tweet_id(self.tweets_path)
+            print(f'>>> oldest tweet downloaded is {self.since_id} at {self.tweets_path}') #come faccio a farmi dire se non ho altri tweet da scaricare?
+        except: 
+            self.since_id = None
+      
+    def set_max_tweets(self, BEARER_TOKEN):
+        left = compute_max_tweets(BEARER_TOKEN) - 1000
+        if left > 0:
+            self.max_tweets = left
+        else:
+            self.max_tweets = None #se questo è il caso si deve interrompere tutto e me lo deve dire che non ho più tweet da scaricare
+            raise Exception('No tweets left to download')
         
+    def download(self):
+        self.search_rule = gen_request_parameters(self.query,
+                                    results_per_call=self.results_per_call,
+                                    tweet_fields=self.tweet_fields,
+                                    media_fields=self.media_fields,
+                                    expansions=self.expansions,
+                                    since_id = self.since_id,
+                                    start_time=self.start_time,
+                                    end_time=self.end_time)
+        
+        print(f"Collecting tweets for user {self.filename}")
+        tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
+        self.tweets = tweets
+            
+    def save_tweets(self):
+        if self.tweets is not None:
+            with open(self.filename, 'a+') as ofile:
+                ofile.write(self.tweets)           
 
-        
-downloader = DataDownloader(day=1
-                            , query="lampedusa -is:retweet")
-downloader.download_and_save()
+usernames = read_users(f'PROJECT_HOME/data/in/')
+
+for username in usernames:   
+    username = username.replace('@', '')     
+    downloader = UserDataDownloader(username)
+    downloader.make_dirs()
+    downloader.set_since_id()
+    downloader.set_max_tweets()
+    downloader.download()
+    downloader.save_tweets()
+    print(f'>>> process ended for user {username}')
+print('>>> process ended')

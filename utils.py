@@ -4,11 +4,10 @@ import requests
 
 # client = tweepy.client(BEARER_TOKEN)
 
-def users_done_update(log_data_path: str, users: list):
+def users_done_update(log_data_path: str, user: str):
     with open(log_data_path+'users_done.txt', 'a'):
-        users_string = '\n'.join(users)
         log_data_path.write('\n')
-        log_data_path.write(users_string)
+        log_data_path.write(user)
     return
 
 def users_to_do_update(input_data_path: str, log_data_path: str):
@@ -74,10 +73,15 @@ def get_tweets(client, log_data_path: str, username: str):
         file.write(f"END {username}: finished retrieving tweets from {username} timeline\n")
     return tweet_list
 
-def write_results(tweet_list, username, out_data_path):
-    with open(out_data_path+f'{username}_tweets.json', 'a') as ofile:
-        json.dump(tweet_list, ofile)
-    print(f"{username} tweets saved")
+def get_last_tweet(file):
+    l = list(json.load(file)) #probabilmente da rivedere non so bene com'è la strttura dei dati scaricati e del file che salvo
+    return l[-1]
+    
+
+def get_last_tweet_id(path):
+    with open(path, 'r') as file:
+        last_tweet = get_last_tweet(file)
+    return last_tweet['id']
 
 
     
