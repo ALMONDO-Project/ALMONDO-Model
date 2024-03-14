@@ -53,20 +53,6 @@ def compute_max_tweets(bearer_token: str):
     else:
         print("Error:", response.status_code)
         
-def users_to_collect_from(client, users, count):
-    i = 0
-    while count >= 0:
-        user_id = client.get_user(username=users[i].replace('@', '')).data.id 
-        user_object = client.get_user(id=user_id) 
-        # fetching the statuses_count attribute 
-        users_tweets = user_object.data.statuses_count 
-        print(f"The number of statuses the user {users[i]} has posted are : " + str(statuses_count)) 
-        count -= user_tweets 
-        i += 1
-    #lista di utenti per cui colleziono i tweet
-    users = users[:i]
-    return users
-
 def get_tweets(client, log_data_path: str, username: str):
     with open(log_data_path+'logfile.txt', 'a') as file:
         print(f"retrieving tweets from {username} timeline")
