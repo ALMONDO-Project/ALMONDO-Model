@@ -10,7 +10,13 @@ from os.path import join as join, dirname
 import smtplib, ssl
 from dotenv import load_dotenv
 
-PROJECT_HOME = "C:/Users/valen/GitHub/almondo-tweets-retrieval" 
+class NoTweetsLeftException(Exception):
+    print('>>> The API limit for GET operations was reached. Wait untill the 20th of this month.')
+    pass
+
+class NoTweetsToSaveException(Exception):
+    print('>>> self.tweets is empty')
+    pass
 
 class UserDataDownloader():
     def __init__(self, 
@@ -24,70 +30,94 @@ class UserDataDownloader():
 
         self.username = username
         self.start_time = start_time
-        self.start_time = end_time
+        self.end_time = end_time  # Corrected assignment
         self.tweet_fields = tweet_fields
         self.media_fields = media_fields
         self.expansions = expansions
         self.results_per_call = results_per_call
+        
         self.since_id = None
-        self.tweets = {}      
-        self.path = f"{PROJECT_HOME}/data"       
+        self.tweets = {}     
+        self.home = os.getcwd()
+        self.path = f"{self.home}/data"       
         self.tweets_path = f"{self.path}/out/{username}"
         self.filename = f"{self.tweets_path}/{username}_tweets.json"
-        self.search_credentials = load_credentials(filename=f"{PROJECT_HOME}/cred.yaml", yaml_key="search_tweets_cred")
+        self.search_credentials = load_credentials(filename=f"{self.home}/cred.yaml", yaml_key="search_tweets_cred")
         self.query = f"from:{username} -is:retweet"
     
     def make_dirs(self):
-        if not os.makedirs(self.tweets_path):
+        if not os.path.exists(self.tweets_path):  # Corrected condition
             print(f'>>> creating folder {self.tweets_path}')
             os.makedirs(self.tweets_path)
             print(f'>>> folder {self.tweets_path} created')
         else:
             print(f'>>> {self.tweets_path} is already present')
     
-    def set_since_id(self): #controllare che questo sia giusto non mi ricordo se è since_id o l'altro
+    def set_since_id(self):
         try:
             self.since_id = get_last_tweet_id(self.tweets_path)
-            print(f'>>> oldest tweet downloaded is {self.since_id} at {self.tweets_path}') #come faccio a farmi dire se non ho altri tweet da scaricare?
-        except: 
+            if not self.since_id:
+                raise Exception("Empty file exists")
+            print(f'>>> oldest tweet downloaded is {self.since_id} at {self.tweets_path}')
+        except FileNotFoundError:
             self.since_id = None
+            print(f'>>> No previous tweet downloaded, setting since_id to None')
       
-    def set_max_tweets(self, BEARER_TOKEN):
+    def set_max_tweets(self, BEARER_TOKEN, n = None):
         left = compute_max_tweets(BEARER_TOKEN) - 1000
-        if left > 0:
+        if left > 0 and n is None:
             self.max_tweets = left
+            print(f'>>> asking to download {self.max_tweets} at max')
+        elif left > 0 and n is not None:
+            self.max_tweets = n
+            print(f'>>> asking to download {n} tweets at max')
         else:
-            self.max_tweets = None #se questo è il caso si deve interrompere tutto e me lo deve dire che non ho più tweet da scaricare
-            raise Exception('No tweets left to download')
+            self.max_tweets = None 
+            raise NoTweetsLeftException('No tweets left to download')  # Raised custom exception
         
     def download(self):
-        self.search_rule = gen_request_parameters(self.query,
-                                    results_per_call=self.results_per_call,
-                                    tweet_fields=self.tweet_fields,
-                                    media_fields=self.media_fields,
-                                    expansions=self.expansions,
-                                    since_id = self.since_id,
-                                    start_time=self.start_time,
-                                    end_time=self.end_time)
+        try:
+            self.search_rule = gen_request_parameters(self.query,
+                                        results_per_call=self.results_per_call,
+                                        tweet_fields=self.tweet_fields,
+                                        media_fields=self.media_fields,
+                                        expansions=self.expansions,
+                                        since_id = self.since_id,
+                                        start_time=self.start_time,
+                                        end_time=self.end_time)
+        except:
+            print('>>> problems with generating request parameters and setting search rule')
         
         print(f"Collecting tweets for user {self.filename}")
-        tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
-        self.tweets = tweets
+        
+        try:
+            tweets = collect_results(self.search_rule, max_tweets=self.max_tweets, result_stream_args=self.search_credentials)
+            self.tweets = tweets
+        except:
+            print('>>> problems with collect_results')
+        
+        # Save tweets to file with timestamp
+        timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        filename_with_timestamp = f"{self.home}/{self.username}_tweets_{timestamp}.json"
+        with open(filename_with_timestamp, 'w') as file:
+            json.dump(self.tweets, file)
             
     def save_tweets(self):
-        if self.tweets is not None:
-            with open(self.filename, 'a+') as ofile:
-                ofile.write(self.tweets)           
+        if self.tweets:  # Changed condition to check if tweets is not empty
+            try: 
+                with open(self.filename, 'r') as ifile:
+                    tweet_dict = ifile.read(self.filename)
+                    i = max(tweet_dict.keys(), key=int) + 1
 
-usernames = read_users(f'PROJECT_HOME/data/in/')
+                for tweet in tweet_dict:
+                    tweet_dict[i] = dict(tweet)
+                    i+1
+                    
+                with open(self.filename, 'w') as ofile:
+                    ofile.write(tweet_dict)
+                    
+            except:
 
-for username in usernames:   
-    username = username.replace('@', '')     
-    downloader = UserDataDownloader(username)
-    downloader.make_dirs()
-    downloader.set_since_id()
-    downloader.set_max_tweets()
-    downloader.download()
-    downloader.save_tweets()
-    print(f'>>> process ended for user {username}')
-print('>>> process ended')
+                print(f'Was not able to save downloaded tweets for {self.username}')
+        else:
+            raise NoTweetsToSaveException

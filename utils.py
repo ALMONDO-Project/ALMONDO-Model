@@ -5,7 +5,7 @@ import requests
 # client = tweepy.client(BEARER_TOKEN)
 
 def users_done_update(log_data_path: str, user: str):
-    with open(log_data_path+'users_done.txt', 'a'):
+    with open(log_data_path+'users_done.txt', 'a+'):
         log_data_path.write('\n')
         log_data_path.write(user)
     return
