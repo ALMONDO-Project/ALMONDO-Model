@@ -9,5 +9,5 @@ counts_tweets_cred:
   bearer_token: AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS
 
 usage_cred:
-  endpoint: https://api.twitter.com/2/usage/tweets
+  endpoint: https://api.twitter.com/2/usage/recent
   bearer_token: AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS
