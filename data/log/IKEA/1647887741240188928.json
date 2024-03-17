@@ -1,0 +1,81 @@
+{
+    "1647887741240188928": {
+        "attachments": {
+            "media_keys": [
+                "7_1647887633698177025"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2023-04-17T09:00:28.000Z",
+        "edit_history_tweet_ids": [
+            "1647887741240188928"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Nytillverkad",
+                    "probability": 0.5885,
+                    "start": 12,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4492,
+                    "start": 190,
+                    "type": "Place"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "Nytillverkad",
+                    "probability": 0.7581,
+                    "start": 196,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 189,
+                    "tag": "IKEA"
+                },
+                {
+                    "end": 208,
+                    "start": 195,
+                    "tag": "Nytillverkad"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/Newsroom/20\u2026",
+                    "end": 188,
+                    "expanded_url": "https://about.ikea.com/en/Newsroom/2023/04/17/IKEA-reveals-the-first-pieces-from-Nytillverkad-collection",
+                    "start": 165,
+                    "status": 200,
+                    "unwound_url": "https://about.ikea.com/en/404",
+                    "url": "https://t.co/q2m4jEqZfe"
+                },
+                {
+                    "display_url": "pic.twitter.com/afj11BQmzo",
+                    "end": 232,
+                    "expanded_url": "https://twitter.com/IKEA/status/1647887741240188928/video/1",
+                    "media_key": "7_1647887633698177025",
+                    "start": 209,
+                    "url": "https://t.co/afj11BQmzo"
+                }
+            ]
+        },
+        "id": "1647887741240188928",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9384,
+            "like_count": 22,
+            "quote_count": 2,
+            "reply_count": 5,
+            "retweet_count": 2
+        },
+        "text": "Introducing Nytillverkad, our newest collection celebrating our 80th anniversary. We've refreshed design classics from our archives for the future. Learn more here: https://t.co/q2m4jEqZfe\n#IKEA #Nytillverkad https://t.co/afj11BQmzo"
+    }
+}
