@@ -1,0 +1,92 @@
+{
+    "1747923903505109408": {
+        "attachments": {
+            "media_keys": [
+                "3_1747923767769157632",
+                "3_1747923795925430272",
+                "3_1747923796001017856"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2024-01-18T10:08:28.000Z",
+        "edit_history_tweet_ids": [
+            "1747923903505109408"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Maebashi",
+                    "probability": 0.4076,
+                    "start": 9,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Japan",
+                    "probability": 0.9764,
+                    "start": 73,
+                    "type": "Place"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "North Kanto region",
+                    "probability": 0.7353,
+                    "start": 170,
+                    "type": "Place"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "IKEA",
+                    "probability": 0.3887,
+                    "start": 214,
+                    "type": "Organization"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "Japan",
+                    "probability": 0.8997,
+                    "start": 219,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/BsAufF6i90",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/IKEA/status/1747923903505109408/photo/1",
+                    "media_key": "3_1747923767769157632",
+                    "start": 278,
+                    "url": "https://t.co/BsAufF6i90"
+                },
+                {
+                    "display_url": "pic.twitter.com/BsAufF6i90",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/IKEA/status/1747923903505109408/photo/1",
+                    "media_key": "3_1747923795925430272",
+                    "start": 278,
+                    "url": "https://t.co/BsAufF6i90"
+                },
+                {
+                    "display_url": "pic.twitter.com/BsAufF6i90",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/IKEA/status/1747923903505109408/photo/1",
+                    "media_key": "3_1747923796001017856",
+                    "start": 278,
+                    "url": "https://t.co/BsAufF6i90"
+                }
+            ]
+        },
+        "id": "1747923903505109408",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7314,
+            "like_count": 39,
+            "quote_count": 0,
+            "reply_count": 19,
+            "retweet_count": 5
+        },
+        "text": "Hej IKEA Maebashi \ud83d\udc4b Today, we celebrate the opening of our 10th store in Japan, bringing sustainable and affordable home furnishings closer to those of you living in the North Kanto region. Congratulations to team IKEA Japan for such an inspirational store experience. Welcome! https://t.co/BsAufF6i90"
+    }
+}

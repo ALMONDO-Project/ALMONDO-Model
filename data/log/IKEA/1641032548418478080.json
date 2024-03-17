@@ -1,0 +1,63 @@
+{
+    "1641032548418478080": {
+        "attachments": {
+            "media_keys": [
+                "7_1641032458740064256"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2023-03-29T11:00:23.000Z",
+        "edit_history_tweet_ids": [
+            "1641032548418478080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "SAMMANL\u00c4NKAD",
+                    "probability": 0.7216,
+                    "start": 11,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 115,
+                    "id": "570142930",
+                    "start": 102,
+                    "username": "LittleSunOrg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/Newsroom/20\u2026",
+                    "end": 186,
+                    "expanded_url": "https://about.ikea.com/en/Newsroom/2023/03/29/IKEA-and-Little-Sun-launch-SAMMANLANKAD-exploring-light-sources-powered-by-the-sun",
+                    "start": 163,
+                    "status": 200,
+                    "unwound_url": "https://about.ikea.com/en/Newsroom/2023/03/29/IKEA-and-Little-Sun-launch-SAMMANLANKAD-exploring-light-sources-powered-by-the-sun",
+                    "url": "https://t.co/NJ8z9utbq9"
+                },
+                {
+                    "display_url": "pic.twitter.com/TGPinWgE8Y",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/IKEA/status/1641032548418478080/video/1",
+                    "media_key": "7_1641032458740064256",
+                    "start": 187,
+                    "url": "https://t.co/TGPinWgE8Y"
+                }
+            ]
+        },
+        "id": "1641032548418478080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 10062,
+            "like_count": 47,
+            "quote_count": 2,
+            "reply_count": 6,
+            "retweet_count": 7
+        },
+        "text": "Say hej to SAMMANL\u00c4NKAD, a new collection of LED solar-powered lighting created in collaboration with @littlesunorg that explores solar energy at home. Read more: https://t.co/NJ8z9utbq9 https://t.co/TGPinWgE8Y"
+    }
+}

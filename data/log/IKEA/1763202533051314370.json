@@ -1,0 +1,108 @@
+{
+    "1763202533051314370": {
+        "attachments": {
+            "media_keys": [
+                "7_1763202468228300800"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2024-02-29T14:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1763202533051314370"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "Life at Home",
+                    "probability": 0.8861,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "IKEA",
+                    "probability": 0.5619,
+                    "start": 192,
+                    "type": "Organization"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "annieleibovitz",
+                    "probability": 0.4291,
+                    "start": 210,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 196,
+                    "start": 191,
+                    "tag": "IKEA"
+                },
+                {
+                    "end": 208,
+                    "start": 197,
+                    "tag": "lifeathome"
+                },
+                {
+                    "end": 224,
+                    "start": 209,
+                    "tag": "annieleibovitz"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "52672768",
+                    "start": 26,
+                    "username": "annieleibovitz"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Explore the realities of home life through the lens of American photographer, Annie Leibovitz.",
+                    "display_url": "lifeathome.ikea.com/annie-leibovit\u2026",
+                    "end": 189,
+                    "expanded_url": "https://lifeathome.ikea.com/annie-leibovitz/?utm_source=instagram&utm_medium=social_&utm_campaign=al_ikea_instagram_showcase_global&utm_term=awareness",
+                    "images": [
+                        {
+                            "height": 683,
+                            "url": "https://pbs.twimg.com/news_img/1766053664265773056/N3ecsHuF?format=jpg&name=orig",
+                            "width": 1024
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1766053664265773056/N3ecsHuF?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 166,
+                    "status": 200,
+                    "title": "Annie Leibovitz - IKEA Life at Home",
+                    "unwound_url": "https://lifeathome.ikea.com/annie-leibovitz/?utm_source=instagram&utm_medium=social_&utm_campaign=al_ikea_instagram_showcase_global&utm_term=awareness",
+                    "url": "https://t.co/uyPVbCb9Zu"
+                },
+                {
+                    "display_url": "pic.twitter.com/TM0xcQyQ3r",
+                    "end": 248,
+                    "expanded_url": "https://twitter.com/IKEA/status/1763202533051314370/video/1",
+                    "media_key": "7_1763202468228300800",
+                    "start": 225,
+                    "url": "https://t.co/TM0xcQyQ3r"
+                }
+            ]
+        },
+        "id": "1763202533051314370",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 1899,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 0
+        },
+        "text": "Go behind the scenes with @annieleibovitz as the iconic photographer captures the realities of Life at Home around the world. View all the videos and portraits here: https://t.co/uyPVbCb9Zu  #IKEA #lifeathome #annieleibovitz https://t.co/TM0xcQyQ3r"
+    }
+}

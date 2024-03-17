@@ -2,6 +2,9 @@
 import os
 import json
 import tweepy
+import tqdm
+import math
+from json.decoder import JSONDecodeError
 from utils import *
 
 #class definition
@@ -9,8 +12,8 @@ from utils import *
 class UserDataDownload():
     def __init__(self,
                  username='',
+                 expansions='attachments.media_keys,geo.place_id,author_id',
                  tweet_fields='text,id,attachments,created_at,lang,author_id,entities,geo,public_metrics',
-                 expansions='attachments.media_keys,geo.place_id',
                  media_fields='media_key,type,url,variants,preview_image_url',
                  user_fields='id,username,description,public_metrics,verified',
                  until_id = None,
@@ -24,17 +27,17 @@ class UserDataDownload():
         self.user_fields = user_fields.split(',')  # Split user fields into list
         self.until_id = until_id  # Set until_id for pagination
         self.max_tweets = max_tweets  # Maximum number of tweets to retrieve
-        self.limit = limit  # API request limit
         self.max_id = None  # Initialize max_id for pagination
         self.tweets = {}  # Dictionary to store tweets
         
     def set_client(self, bearer_token, wait_on_rate_limit=True):
         # Set Twitter API client with specified parameters
         self.client = tweepy.Client(bearer_token, 
-                                    expansions = self.expansions,
-                                    media_fields = self.media_fields,
-                                    tweet_fields = self.tweet_fields,
-                                    user_fields = self.user_fields,
+                                    # expansions = self.expansions,
+                                    # media_fields = self.media_fields,
+                                    # tweet_fields = self.tweet_fields,
+                                    # user_fields = self.user_fields,
+                                    # return_type=dict,
                                     wait_on_rate_limit=wait_on_rate_limit)
         
     def set_user_data(self):
@@ -43,21 +46,66 @@ class UserDataDownload():
         self.user_id = self.user.data.id
         
     def set_until_id(self):
-        # Set until_id for pagination based on existing data if available
         if os.path.exists(self.filename):
             with open(self.filename, 'r') as file:
-                d = json.load(file)
-            until_id = d[max(int(k) for k in d.keys())]['id'] if d else None
-            self.until_id = until_id
+                data = json.load(file)
+            # Initialize variables to store the most recent tweet ID and its creation date
+            less_recent_tweet_id = None
+            less_recent_creation_date = None
+
+            # Iterate through the tweets data to find the most recent tweet
+            for tweet_dict in data:
+                for tweet_id, tweet_info in tweet_dict.items():
+                    creation_date = tweet_info['created_at']
+                    if less_recent_creation_date is None or creation_date < less_recent_creation_date:
+                        less_recent_creation_date = creation_date
+                        less_recent_tweet_id = tweet_id
+            
+            print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+        
+        elif os.path.exists(self.userlogpath):
+            json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
+            json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
+            less_recent_tweet_id = json_files[0].replace('.json', '')
+            print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+            
         else:
-            self.until_id = None
+            less_recent_tweet_id = None
+            print('>>> no saved data for this user')
+            
+        self.until_id = less_recent_tweet_id
+            
+
         
     def set_paginator(self):
         # Initialize paginator for fetching user tweets
+        print()
+        print(f'Asking tweets of {self.username} {self.user_id} from tweet id {self.until_id}.\n \
+        Max number of tweets asked is {self.max_tweets}.\n\
+        Expansions asked are {self.expansions}\n\
+        Tweet fields asked are {self.tweet_fields}\n\
+        Media fields asked are {self.media_fields}\n\
+        User fields asked are {self.user_fields}')
+        
+        '''Se apro il codice di .get_user_tweets() mi dice che: 
+            max_results : int | None
+            Specifies the number of Tweets to try and retrieve, up to a maximum
+            of 100 per distinct request. By default, 10 results are returned if
+            this parameter is not supplied. The minimum permitted value is 5.
+            It is possible to receive less than the ``max_results`` per request
+            throughout the pagination process.            
+            '''
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                                            self.user_id,
+                                           exclude = ['retweets'],
                                            until_id = self.until_id,
-                                           max_results=self.max_tweets)
+                                           max_results=self.max_tweets, 
+                                           expansions = self.expansions,
+                                           tweet_fields = self.tweet_fields,
+                                           media_fields = self.media_fields,
+                                           user_fields = self.user_fields)
+        print()
+        print(f'{self.paginator} \n object was created')
     
     def make_dirs(self):
         try:
@@ -83,7 +131,7 @@ class UserDataDownload():
     def set_output_filename(self):
         # Set output filename for storing tweets
         self.make_dirs()
-        self.filename = os.path.join(self.useroutdatapath, f'{self.username}_tweets.json')
+        self.filename = f'{self.useroutdatapath}/{self.username}_tweets.json'
             
     def set_max_tweets(self, bearer_token, n=None):
         # Set the maximum number of tweets to download
@@ -96,32 +144,66 @@ class UserDataDownload():
             return None
 
     def download(self):
-        self.tweets = {}  # Reset tweets dictionary
-        exc = None  # Initialize exception variable
-        try: 
-            for i, tweet in enumerate(self.paginator.flatten()):  # Iterate through paginated tweets
-                self.tweets[i] = dict(tweet)  # Store tweet data in dictionary
-                with open(f'{self.filename}', 'a+') as file:
-                    json.dump(self.tweets[i], file)  # Write tweet data to file
-            print(f'{i} tweets downloaded')
-        except Exception as e:
-            exc = str(e)  # Store the exception message
-        
-        # Update the until_id only if tweets were retrieved successfully
-        if self.tweets:
-            self.until_id = self.tweets[max(self.tweets.keys())]['id']
-        
-        # Write download log
-        d = {'user': self.username, 'user_id': self.user_id, 'last_tweet_id': self.until_id, 'exception': exc}
-        with open(f'{self.userlogpath}/downloadlog.json', 'a') as file:
-            json.dump(d, file)
-        
-        return self.tweets
+        if os.path.exists(f'{self.filename}'):
+            with open(f'{self.filename}', 'r') as file:
+                self.tweets = list(json.load(file))
+        else:
+            self.tweets = []
+        print('>>> started retrieving tweets')
+        for page in tqdm.tqdm(self.paginator):
+            pagination_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
+            for tweet in page.data:#così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                tweet_data = {tweet.data['id']: tweet.data}
+                self.tweets.append(tweet_data)
+                with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
+                    json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
+            if not pagination_token:
+                print('>>> finished with this user')
+                with open(f'data/log/users_done.txt', 'r') as file:
+                    file.write(f'{self.username}\n')
+                break
+        count=len(self.tweets)
+        print(f'>>> {count} tweets downloaded')        
         
     def save(self):
-        # Save tweets data to file
-        with open(f'{self.filename}', 'a') as file:
-            json.dump(self.tweets, file)
+        if len(self.tweets) > 0:
+            # Save tweets data to file
+            with open(f'{self.filename}', 'w') as file:
+                json.dump(self.tweets, file, indent=4, sort_keys=True, default=str)
+        else:
+            print('there were no tweets to save')
+    
+    def mergedata(self):
+        # Directory containing the JSON files
+        directory = self.userlogpath
+
+        # Initialize an empty dictionary to store merged data
+        merged_data = {}
+
+        # Iterate over each JSON file in the directory
+        for filename in os.listdir(directory):
+            if filename.endswith('.json'):
+                filepath = os.path.join(directory, filename)
+                with open(filepath, 'r') as file:
+                    data = json.load(file)
+                    # Extract the tweet ID and its corresponding data
+                    tweet_id = list(data.keys())[0]
+                    tweet_data = data[tweet_id]
+                    # Store the data in the merged dictionary
+                    merged_data[tweet_id] = tweet_data
+
+        # Write the merged data into a new JSON file
+        output_file = f'{self.useroutdatapath}/{self.username}_tweets_merged.json'
+        with open(output_file, 'w') as outfile:
+            json.dump(merged_data, outfile, indent=4)
+
+        print("Merged JSON file created successfully:", output_file)
+            
+    def get_tweets(self):
+        return self.tweets
+
+    def get_paginator(self):
+        return self.paginator
 
 
 ''' 
