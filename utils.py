@@ -96,6 +96,12 @@ def new_start_time(path):
     # Ensure proper RFC3339 format
     updated_created_at_str = created_at_dt.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
     return updated_created_at_str
+
+# Function to log messages to a file
+def log_message(message):
+    LOG_FILE_PATH = "data/log/messages.log"
+    with open(LOG_FILE_PATH, "a") as log_file:
+        log_file.write(message + "\n")
     
 def is_before(start_date_str, end_date_str):
     start_date = datetime.strptime(start_date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
