@@ -31,15 +31,7 @@ def main():
     # # Download tweets and store them
     user_data.download()
     
-    # user_data.mergedata()
-
-    # # Save downloaded tweets
-    # user_data.save()
-    
-    print('>>> process ended')
-    
-    
-    
+    print('>>> process ended')    
     
     
 if __name__ == "__main__":

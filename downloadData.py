@@ -9,16 +9,17 @@ from utils import *
 
 #class definition
 
+BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
+
 class UserDataDownload():
     def __init__(self,
+                 bearer_token = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS',
                  username='',
                  expansions='attachments.media_keys,geo.place_id,author_id',
                  tweet_fields='text,id,attachments,created_at,lang,author_id,entities,geo,public_metrics',
                  media_fields='media_key,type,url,variants,preview_image_url',
                  user_fields='id,username,description,public_metrics,verified',
-                 until_id = None,
-                 max_tweets = 5,
-                 limit=100):
+                 until_id = None):
         # Initialize UserDataDownload object with required parameters and default values
         self.username = username.replace('@', '')  # Remove '@' from username if present
         self.tweet_fields = tweet_fields.split(',')  # Split tweet fields into list
@@ -26,8 +27,6 @@ class UserDataDownload():
         self.expansions = expansions.split(',')  # Split expansions into list
         self.user_fields = user_fields.split(',')  # Split user fields into list
         self.until_id = until_id  # Set until_id for pagination
-        self.max_tweets = max_tweets  # Maximum number of tweets to retrieve
-        self.max_id = None  # Initialize max_id for pagination
         self.tweets = {}  # Dictionary to store tweets
         
     def set_client(self, bearer_token, wait_on_rate_limit=True):
@@ -46,23 +45,7 @@ class UserDataDownload():
         self.user_id = self.user.data.id
         
     def set_until_id(self):
-        # if os.path.exists(self.filename):
-        #     with open(self.filename, 'r') as file:
-        #         data = json.load(file)
-        #     # Initialize variables to store the most recent tweet ID and its creation date
-        #     less_recent_tweet_id = None
-        #     less_recent_creation_date = None
-
-        #     # Iterate through the tweets data to find the most recent tweet
-        #     for tweet_dict in data:
-        #         for tweet_id, tweet_info in tweet_dict.items():
-        #             creation_date = tweet_info['created_at']
-        #             if less_recent_creation_date is None or creation_date < less_recent_creation_date:
-        #                 less_recent_creation_date = creation_date
-        #                 less_recent_tweet_id = tweet_id
-            
-        #     print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
-        
+        print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
         if os.path.exists(self.userlogpath):
             try:
                 json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
@@ -74,39 +57,14 @@ class UserDataDownload():
         else:
             less_recent_tweet_id = None
             print('>>> no saved data for this user')
-            
         self.until_id = less_recent_tweet_id
             
 
         
     def set_paginator(self):
         # Initialize paginator for fetching user tweets
-        print()
-        print(f'Asking tweets of {self.username} {self.user_id} from tweet id {self.until_id}.\n \
-        Max number of tweets asked is {self.max_tweets}.\n\
-        Expansions asked are {self.expansions}\n\
-        Tweet fields asked are {self.tweet_fields}\n\
-        Media fields asked are {self.media_fields}\n\
-        User fields asked are {self.user_fields}')
-        
-        '''Se apro il codice di .get_user_tweets() mi dice che: 
-            max_results : int | None
-            Specifies the number of Tweets to try and retrieve, up to a maximum
-            of 100 per distinct request. By default, 10 results are returned if
-            this parameter is not supplied. The minimum permitted value is 5.
-            It is possible to receive less than the ``max_results`` per request
-            throughout the pagination process.            
-            '''
-        self.paginator = tweepy.Paginator(self.client.get_users_tweets,
-                                           self.user_id,
-                                           exclude = ['retweets'],
-                                           until_id = self.until_id,
-                                           max_results=self.max_tweets, 
-                                           expansions = self.expansions,
-                                           tweet_fields = self.tweet_fields,
-                                           media_fields = self.media_fields,
-                                           user_fields = self.user_fields)
-        print()
+
+
         print(f'{self.paginator} \n object was created')
     
     def make_dirs(self):
@@ -135,15 +93,15 @@ class UserDataDownload():
         self.make_dirs()
         self.filename = f'{self.useroutdatapath}/{self.username}_tweets.json'
             
-    def set_max_tweets(self, bearer_token, n=None):
-        # Set the maximum number of tweets to download
-        left = compute_max_tweets(bearer_token)  # Compute remaining tweets allowed
-        print(f'>>> there are {left} tweets left to download')
-        self.max_tweets = min(left, n) if n is not None else left  # Set max_tweets to minimum of remaining tweets and n
-        print(f'Asking to download {self.max_tweets} tweets at max')
-        if left <= 0:
-            print('no tweets left')
-            return None
+    # def set_max_tweets(self, bearer_token, n=None):
+    #     # Set the maximum number of tweets to download
+    #     left = compute_max_tweets(bearer_token)  # Compute remaining tweets allowed
+    #     print(f'>>> there are {left} tweets left to download')
+    #     self.max_tweets = min(left, n) if n is not None else left  # Set max_tweets to minimum of remaining tweets and n
+    #     print(f'Asking to download {self.max_tweets} tweets at max')
+    #     if left <= 0:
+    #         print('no tweets left')
+    #         return None
         
     # def create_tweet_data_list(self):
     #     self.tweets = []
@@ -168,21 +126,40 @@ class UserDataDownload():
             file.write(f'{self.username}\n')
 
     def download(self):
-        print('>>> started retrieving tweets')
-        count = 0
-        while count < self.max_results:
-            for page in tqdm.tqdm(self.paginator):
-                next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
-                for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
-                    tweet_data = {tweet.data['id']: tweet.data}
-                    self.dump_tweets(tweet, tweet_data)
-                    count += 1
-                if not next_token:
-                    self.update_users_done()
-                    print(f'>>> {count} total tweets downloaded in this session')        
-                    return
-
+        count = compute_max_tweets(self.bearer_token)
+        print(f'>>> the maximum number of tweets i can retrieve is {count}')
         
+        max_results = 100
+        limit = math.ceil(count / max_results)
+        
+        print(f'>>> the process will do at most {limit} calls asking for at most {max_results} tweets per call')
+        
+        self.paginator = tweepy.Paginator(self.client.get_users_tweets,
+                                    self.user_id,
+                                    exclude = ['retweets'],
+                                    until_id = self.until_id,
+                                    expansions = self.expansions,
+                                    tweet_fields = self.tweet_fields,
+                                    media_fields = self.media_fields,
+                                    user_fields = self.user_fields,
+                                    limit = limit,
+                                    max_results = max_results)
+        
+        print('>>> started retrieving tweets')
+        for page in tqdm.tqdm(self.paginator):
+            
+            next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
+            for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                tweet_data = {tweet.data['id']: tweet.data}
+                self.dump_tweets(tweet, tweet_data)
+                count += 1
+                if count > self.max_results:
+                    return
+                
+            if not next_token:
+                self.update_users_done()
+                print(f'>>> {count} total tweets downloaded in this session')        
+                return     
         
     def save(self):
         if len(self.tweets) > 0:
