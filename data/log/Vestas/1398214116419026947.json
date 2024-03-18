@@ -1,0 +1,74 @@
+{
+    "1398214116419026947": {
+        "attachments": {
+            "media_keys": [
+                "3_1398214114477019140"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-05-28T09:46:37.000Z",
+        "edit_history_tweet_ids": [
+            "1398214116419026947"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7255,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Simo",
+                    "probability": 0.5665,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Finland",
+                    "probability": 0.9739,
+                    "start": 102,
+                    "type": "Place"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Nordics",
+                    "probability": 0.5765,
+                    "start": 195,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 33,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/vfc7bDzJx2",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/Vestas/status/1398214116419026947/photo/1",
+                    "media_key": "3_1398214114477019140",
+                    "start": 256,
+                    "url": "https://t.co/vfc7bDzJx2"
+                }
+            ]
+        },
+        "id": "1398214116419026947",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 81,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 11
+        },
+        "text": "Supported by ice-breakers, these #Vestas V162 blades were transported recently to our Simo project in Finland \ud83c\uddeb\ud83c\uddee. \n\u2744\ufe0fWhile spring is here for most of us, it is still freezing cold on some of our Nordics sites. The last 50 metres took 1.5 hours due to ice! https://t.co/vfc7bDzJx2"
+    }
+}

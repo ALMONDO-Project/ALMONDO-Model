@@ -1,0 +1,72 @@
+{
+    "1405162462329159683": {
+        "attachments": {
+            "media_keys": [
+                "3_1405162460529582087"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-16T13:56:52.000Z",
+        "edit_history_tweet_ids": [
+            "1405162462329159683"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5127,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9884,
+                    "start": 54,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 60,
+                    "start": 53,
+                    "tag": "Brazil"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/sgckzm0",
+                    "end": 260,
+                    "expanded_url": "https://fcld.ly/sgckzm0",
+                    "start": 237,
+                    "url": "https://t.co/RdONASJd3p"
+                },
+                {
+                    "display_url": "pic.twitter.com/U3xZG8ps5i",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/Vestas/status/1405162462329159683/photo/1",
+                    "media_key": "3_1405162460529582087",
+                    "start": 261,
+                    "url": "https://t.co/U3xZG8ps5i"
+                }
+            ]
+        },
+        "id": "1405162462329159683",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 34,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "#Vestas has received a 348 MW order for a project in #Brazil \ud83c\udde7\ud83c\uddf7 that includes supply of 81 V150-4.2 MW turbines delivered in 4.3 MW Power Optimised Mode, as well as a five-year Active Output Management 5000 service agreement.\nRead more: https://t.co/RdONASJd3p https://t.co/U3xZG8ps5i"
+    }
+}

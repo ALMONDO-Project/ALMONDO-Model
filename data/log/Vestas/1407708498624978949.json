@@ -1,0 +1,67 @@
+{
+    "1407708498624978949": {
+        "attachments": {
+            "media_keys": [
+                "3_1407708496993325057"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-23T14:33:54.000Z",
+        "edit_history_tweet_ids": [
+            "1407708498624978949"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6257,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Dominican Republic",
+                    "probability": 0.9232,
+                    "start": 61,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/xpvn6jq",
+                    "end": 279,
+                    "expanded_url": "https://fcld.ly/xpvn6jq",
+                    "start": 256,
+                    "url": "https://t.co/DfMRAOHq60"
+                },
+                {
+                    "display_url": "pic.twitter.com/meBZmtfBXv",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1407708498624978949/photo/1",
+                    "media_key": "3_1407708496993325057",
+                    "start": 280,
+                    "url": "https://t.co/meBZmtfBXv"
+                }
+            ]
+        },
+        "id": "1407708498624978949",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "#Vestas has received a 47 MW order for a wind project in the Dominican Republic \ud83c\udde9\ud83c\uddf4. The contract includes the supply and installation of wind turbines from the 4 MW platform, as well as a 10-year Active Output Management 5000 service agreement. Read more: https://t.co/DfMRAOHq60 https://t.co/meBZmtfBXv"
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "1402850752947752961": {
+        "author_id": "156646851",
+        "created_at": "2021-06-10T04:50:57.000Z",
+        "edit_history_tweet_ids": [
+            "1402850752947752961"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5528,
+                    "start": 34,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "MENA",
+                    "probability": 0.4575,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5641,
+                    "start": 122,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "UAE",
+                    "probability": 0.9301,
+                    "start": 176,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "MENA",
+                    "probability": 0.5019,
+                    "start": 186,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 46,
+                    "start": 41,
+                    "tag": "MENA"
+                },
+                {
+                    "end": 109,
+                    "start": 94,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 129,
+                    "start": 121,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 161,
+                    "start": 151,
+                    "tag": "windpower"
+                },
+                {
+                    "end": 179,
+                    "start": 175,
+                    "tag": "UAE"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1323177409752010754",
+                    "start": 1,
+                    "username": "MuhamedZeid"
+                },
+                {
+                    "end": 67,
+                    "id": "228981999",
+                    "start": 56,
+                    "username": "DubaiOneTV"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/DubaiOneTV/sta\u2026",
+                    "end": 258,
+                    "expanded_url": "https://twitter.com/DubaiOneTV/status/1400347590898511881",
+                    "start": 235,
+                    "url": "https://t.co/BMfdhWcUyl"
+                }
+            ]
+        },
+        "id": "1402850752947752961",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": ".@MuhamedZeid, General Manager of Vestas #MENA talks to @DubaiOneTV about where we are on the #sustainability roadmap to #NetZero 2050 targets and how #windpower can help the #UAE &amp; MENA get there faster. Watch his interview here\ud83d\udc47 https://t.co/BMfdhWcUyl"
+    }
+}

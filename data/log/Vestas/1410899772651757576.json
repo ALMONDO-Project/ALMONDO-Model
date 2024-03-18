@@ -1,0 +1,106 @@
+{
+    "1410899772651757576": {
+        "attachments": {
+            "media_keys": [
+                "3_1410899767341850626",
+                "3_1410899770441359363"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-07-02T09:54:53.000Z",
+        "edit_history_tweet_ids": [
+            "1410899772651757576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5519,
+                    "start": 31,
+                    "type": "Place"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Odense",
+                    "probability": 0.6939,
+                    "start": 121,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9635,
+                    "start": 129,
+                    "type": "Place"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3318,
+                    "start": 225,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 30,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 88,
+                    "start": 72,
+                    "tag": "electricvehicle"
+                },
+                {
+                    "end": 244,
+                    "start": 232,
+                    "tag": "windturbine"
+                },
+                {
+                    "end": 281,
+                    "start": 263,
+                    "tag": "sustainableenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 23,
+                    "id": "811190179549560832",
+                    "start": 15,
+                    "username": "OK_amba"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/QtlS3mWdvF",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Vestas/status/1410899772651757576/photo/1",
+                    "media_key": "3_1410899767341850626",
+                    "start": 283,
+                    "url": "https://t.co/QtlS3mWdvF"
+                },
+                {
+                    "display_url": "pic.twitter.com/QtlS3mWdvF",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Vestas/status/1410899772651757576/photo/1",
+                    "media_key": "3_1410899770441359363",
+                    "start": 283,
+                    "url": "https://t.co/QtlS3mWdvF"
+                }
+            ]
+        },
+        "id": "1410899772651757576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 27,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 9
+        },
+        "text": "\u267b\ufe0f\ud83d\udd0b This week, @OK_amba &amp; #Vestas inaugurated a 'first of its kind' #electricvehicle lightning charging station near Odense, Denmark. EV drivers will now have the option to charge their vehicles with energy provided by a Vestas #windturbine or a battery with #sustainableenergy! https://t.co/QtlS3mWdvF"
+    }
+}

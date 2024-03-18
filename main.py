@@ -8,7 +8,7 @@ def main():
     LOG = 'data/out'
     
     usernames = read_users(INPUT)    
-    count = compute_max_tweets(BEARER_TOKEN)
+    count = 5000
     for username in usernames:
         while count > 0:
             user_data = UserDataDownload(username=username)

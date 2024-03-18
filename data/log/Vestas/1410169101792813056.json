@@ -1,0 +1,82 @@
+{
+    "1410169101792813056": {
+        "attachments": {
+            "media_keys": [
+                "3_1410169099750154245"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-30T09:31:28.000Z",
+        "edit_history_tweet_ids": [
+            "1410169101792813056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6734,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "Baltic Eagle",
+                    "probability": 0.5966,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Baltic Sea",
+                    "probability": 0.914,
+                    "start": 194,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "293455710",
+                    "start": 12,
+                    "username": "Iberdrola_En"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/xaiuqud",
+                    "end": 277,
+                    "expanded_url": "https://fcld.ly/xaiuqud",
+                    "start": 254,
+                    "url": "https://t.co/Q49PAkGlL4"
+                },
+                {
+                    "display_url": "pic.twitter.com/kL5X4OVUtt",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Vestas/status/1410169101792813056/photo/1",
+                    "media_key": "3_1410169099750154245",
+                    "start": 278,
+                    "url": "https://t.co/kL5X4OVUtt"
+                }
+            ]
+        },
+        "id": "1410169101792813056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 44,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 12
+        },
+        "text": "#Vestas and @Iberdrola_En have finalised a turbine supply contract for the 476 MW Baltic Eagle project. The project, which will comprise V174-9.5 MW turbines, will span an area of 40 km2 in the Baltic Sea and is located 75 km off the German coast. More\u27a1 https://t.co/Q49PAkGlL4 https://t.co/kL5X4OVUtt"
+    }
+}

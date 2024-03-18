@@ -1,0 +1,61 @@
+{
+    "1410527045432614924": {
+        "attachments": {
+            "media_keys": [
+                "13_1410526944442077189"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-07-01T09:13:48.000Z",
+        "edit_history_tweet_ids": [
+            "1410527045432614924"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "Triton Knoll",
+                    "probability": 0.4656,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "UK",
+                    "probability": 0.9211,
+                    "start": 170,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 222,
+                    "id": "343436446",
+                    "start": 215,
+                    "username": "RWE_UK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ICcOM9MwET",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/Vestas/status/1410527045432614924/video/1",
+                    "media_key": "13_1410526944442077189",
+                    "start": 254,
+                    "url": "https://t.co/ICcOM9MwET"
+                }
+            ]
+        },
+        "id": "1410527045432614924",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 28,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "We are currently installing our turbines at the Triton Knoll offshore wind farm \ud83c\uddec\ud83c\udde7. \nThe project will provide enough power for the requirements of around 800,000 average UK households annually.\n\u00a0\n\ud83e\udd1dSpecial thanks to @RWE_UK for the ongoing collaboration! https://t.co/ICcOM9MwET"
+    }
+}

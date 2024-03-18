@@ -1,0 +1,107 @@
+{
+    "1410301462396162053": {
+        "attachments": {
+            "media_keys": [
+                "3_1410301460143915008"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-30T18:17:25.000Z",
+        "edit_history_tweet_ids": [
+            "1410301462396162053"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5079,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "EnVentus",
+                    "probability": 0.541,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Posio Murtotuuli",
+                    "probability": 0.8379,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Taaleri Energia",
+                    "probability": 0.8199,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Finland",
+                    "probability": 0.9393,
+                    "start": 117,
+                    "type": "Place"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4014,
+                    "start": 127,
+                    "type": "Other"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "Vestas Anti-Icing System",
+                    "probability": 0.7098,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 32,
+                    "start": 23,
+                    "tag": "EnVentus"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/5zbzhg3",
+                    "end": 275,
+                    "expanded_url": "https://fcld.ly/5zbzhg3",
+                    "start": 252,
+                    "url": "https://t.co/uclzGlxYNk"
+                },
+                {
+                    "display_url": "pic.twitter.com/0Dra08Kx4w",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Vestas/status/1410301462396162053/photo/1",
+                    "media_key": "3_1410301460143915008",
+                    "start": 276,
+                    "url": "https://t.co/0Dra08Kx4w"
+                }
+            ]
+        },
+        "id": "1410301462396162053",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 28,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "#Vestas has secured an #EnVentus order for the 126 MW Posio Murtotuuli project being developed by Taaleri Energia in Finland. \nVestas will supply, install and service 21 V162-6.0 MW, which will be equipped with the Vestas Anti-Icing System.\nRead more: https://t.co/uclzGlxYNk https://t.co/0Dra08Kx4w"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1403279843270217729": {
+        "attachments": {
+            "media_keys": [
+                "3_1403279841818972162"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-11T09:16:00.000Z",
+        "edit_history_tweet_ids": [
+            "1403279843270217729"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6573,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "ReNew Power",
+                    "probability": 0.5449,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Gujarat",
+                    "probability": 0.9581,
+                    "start": 106,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/nspxnxt",
+                    "end": 274,
+                    "expanded_url": "https://fcld.ly/nspxnxt",
+                    "start": 251,
+                    "url": "https://t.co/6tq8uQUtkP"
+                },
+                {
+                    "display_url": "pic.twitter.com/laKp0vffpO",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Vestas/status/1403279843270217729/photo/1",
+                    "media_key": "3_1403279841818972162",
+                    "start": 275,
+                    "url": "https://t.co/laKp0vffpO"
+                }
+            ]
+        },
+        "id": "1403279843270217729",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 34,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "#Vestas has secured a 101 MW order from ReNew Power for the extension of their existing project in Kutch, Gujarat \ud83c\uddee\ud83c\uddf3. The contract includes supply and supervision of 46 V120-2.2 MW turbines as well as a 10-year AOM 5000 service agreement.\n\nRead more: https://t.co/6tq8uQUtkP https://t.co/laKp0vffpO"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1410285718367318017": {
+        "attachments": {
+            "media_keys": [
+                "3_1410285715871645700"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-30T17:14:51.000Z",
+        "edit_history_tweet_ids": [
+            "1410285718367318017"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.484,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Storm Windpower",
+                    "probability": 0.6766,
+                    "start": 89,
+                    "type": "Other"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Belgium",
+                    "probability": 0.9813,
+                    "start": 185,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/sbko5fs",
+                    "end": 232,
+                    "expanded_url": "https://fcld.ly/sbko5fs",
+                    "start": 209,
+                    "url": "https://t.co/dVmRheYGym"
+                },
+                {
+                    "display_url": "pic.twitter.com/HDDElDTj2y",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/Vestas/status/1410285718367318017/photo/1",
+                    "media_key": "3_1410285715871645700",
+                    "start": 233,
+                    "url": "https://t.co/HDDElDTj2y"
+                }
+            ]
+        },
+        "id": "1410285718367318017",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#Vestas has received a 35 MW order to supply turbines to two projects being developed by Storm Windpower. The order includes three V162-6.0 MW the largest turbines installed onshore in Belgium. \ud83c\udde7\ud83c\uddea\nLearn more: https://t.co/dVmRheYGym https://t.co/HDDElDTj2y"
+    }
+}

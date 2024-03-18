@@ -1,0 +1,81 @@
+{
+    "1410938352392716290": {
+        "author_id": "156646851",
+        "created_at": "2021-07-02T12:28:11.000Z",
+        "edit_history_tweet_ids": [
+            "1410938352392716290"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Pedro Huarte Mendicoa",
+                    "probability": 0.5524,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Vestas",
+                    "probability": 0.284,
+                    "start": 45,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "MED",
+                    "probability": 0.5328,
+                    "start": 101,
+                    "type": "Organization"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Africa",
+                    "probability": 0.9521,
+                    "start": 110,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 44,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 116,
+                    "start": 109,
+                    "tag": "Africa"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 174,
+                    "id": "778599008126246912",
+                    "start": 163,
+                    "username": "RES4Africa"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/RES4Africa/sta\u2026",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/RES4Africa/status/1410872242062434307",
+                    "start": 187,
+                    "url": "https://t.co/3CKDR66alr"
+                }
+            ]
+        },
+        "id": "1410938352392716290",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We're delighted that Pedro Huarte Mendicoa, #Vestas Senior Director &amp; Head of Public Affairs for MED and #Africa, will form part of the executive committee of @RES4Africa Foundation. https://t.co/3CKDR66alr"
+    }
+}

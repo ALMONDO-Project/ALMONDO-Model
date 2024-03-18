@@ -1,0 +1,91 @@
+{
+    "1407284178304049156": {
+        "attachments": {
+            "media_keys": [
+                "3_1407284176387256322"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-22T10:27:48.000Z",
+        "edit_history_tweet_ids": [
+            "1407284178304049156"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "France",
+                    "probability": 0.9808,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6384,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Sud Marne",
+                    "probability": 0.8553,
+                    "start": 136,
+                    "type": "Place"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "Marne",
+                    "probability": 0.5799,
+                    "start": 159,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 42,
+                    "tag": "France"
+                },
+                {
+                    "end": 101,
+                    "start": 94,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 127,
+                    "start": 114,
+                    "tag": "windturbines"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/ddqjp36",
+                    "end": 279,
+                    "expanded_url": "https://fcld.ly/ddqjp36",
+                    "start": 256,
+                    "url": "https://t.co/PIeaPiPOpw"
+                },
+                {
+                    "display_url": "pic.twitter.com/lAYzbNoWNK",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1407284178304049156/photo/1",
+                    "media_key": "3_1407284176387256322",
+                    "start": 280,
+                    "url": "https://t.co/lAYzbNoWNK"
+                }
+            ]
+        },
+        "id": "1407284178304049156",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 46,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "We've secured our largest project ever in #France as TTR Energy places a 122 MW order for 30x #Vestas V150-4.2 MW #windturbines for the Sud Marne wind park in Marne department. The project will also include a 20-year AOM 5000 service agreement. Read more: https://t.co/PIeaPiPOpw https://t.co/lAYzbNoWNK"
+    }
+}
