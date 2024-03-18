@@ -52,21 +52,21 @@ class UserDataDownload():
         self.user = self.client.get_user(username=self.username)
         self.user_id = self.user.data.id
         
-    def set_until_id(self):
-        print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
-        if os.path.exists(self.userlogpath):
-            try:
-                json_files = [file.replace('.json', '') for file in os.listdir(self.userlogpath) if file.endswith('.json')]
-                json_files.sort()
-                smallest_id = json_files[0].replace('.json', '')
-            except IndexError:
-                smallest_id = None
-        else:
-            smallest_id = None
-            print(f'>>> no saved data for user {self.username}')
+    # def set_until_id(self):
+    #     print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+    #     if os.path.exists(self.userlogpath):
+    #         try:
+    #             json_files = [file.replace('.json', '') for file in os.listdir(self.userlogpath) if file.endswith('.json')]
+    #             json_files.sort()
+    #             smallest_id = json_files[0].replace('.json', '')
+    #         except IndexError:
+    #             smallest_id = None
+    #     else:
+    #         smallest_id = None
+    #         print(f'>>> no saved data for user {self.username}')
         
-        self.until_id = smallest_id
-        print(f'>>> retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+    #     self.until_id = smallest_id
+    #     print(f'>>> retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
               
     def make_dirs(self):
         try:
@@ -121,22 +121,25 @@ class UserDataDownload():
     def dump_tweets(self, tweet, tweet_data):
         if not os.path.exists(f'data/log/{self.username}/{tweet.id}.json'):
             with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
-                print(f'>>> dumping tweet {tweet.id}')
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
         else:
             print(f'>>> {tweet.id} already dumped, something went wrong')
             raise TweetAlreadyDumpedException
-            exit()
-        print(f'>>> dumped all requested tweets for {self.username}')
-        
+            exit()   
             
-    def update_users_done(self):
-        print(f'>>> finished with user {self.username}')
-        with open(f'data/log/users_done.txt', 'w') as file:
-            file.write(f'@{self.username}\n')
-
-    def download(self):
-        count = compute_max_tweets(self.bearer_token)
+    def set_time_limits(self):
+        self.end_time = "2023-12-31T23:59:59Z"
+        self.start_time = self.new_start_time(self.userlogpath)
+        
+        if not is_before(self.start_time, self.end_time):
+            return None 
+        
+        if is_before(self.start_time, "2023-01-01T00:00:00Z"):
+            return None   
+            
+           
+        
+    def download(self, count):
         print(f'>>> the maximum number of tweets i can retrieve is {count}')
         
         max_results = 100
@@ -144,19 +147,24 @@ class UserDataDownload():
         
         print(f'>>> the process will do at most {limit} calls asking for at most {max_results} tweets per call')
         
+        self.set_time_limits()
+        
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                                     self.user_id,
                                     exclude = ['retweets'],
-                                    until_id = self.until_id,
                                     expansions = self.expansions,
                                     tweet_fields = self.tweet_fields,
                                     media_fields = self.media_fields,
                                     user_fields = self.user_fields,
+                                    start_time = start_time,
+                                    end_time = end_time,
                                     limit = limit,
                                     max_results = max_results)
         
-        print('>>> started retrieving tweets')
+        print(f'>>> started retrieving tweets from {start_time} to {end_time}')
+        
         for page in self.paginator:
+            print(">>> starting a new request") 
             try:
                 next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             except KeyError:
@@ -173,7 +181,7 @@ class UserDataDownload():
                     if count <= 0:
                         return
             except TypeError:
-                self.update_users_done()
+                self.update_users_done(self.username)
                 return 
             except TweetAlreadyDumpedException:
                 print('>>> check if unitll_id is set properly')
@@ -185,15 +193,14 @@ class UserDataDownload():
             
             print('>>> going to sleep for 3 minutes')
             time.sleep(2 * 60) #in this way it does a request every two minutes so it does 7/8 requests every 15 minutes
-            print(">>> slept for three minutes") 
         
-    def save(self):
-        if len(self.tweets) > 0:
-            # Save tweets data to file
-            with open(f'{self.filename}', 'w') as file:
-                json.dump(self.tweets, file, indent=4, sort_keys=True, default=str)
-        else:
-            print('there were no tweets to save')
+    # def save(self):
+    #     if len(self.tweets) > 0:
+    #         # Save tweets data to file
+    #         with open(f'{self.filename}', 'w') as file:
+    #             json.dump(self.tweets, file, indent=4, sort_keys=True, default=str)
+    #     else:
+    #         print('there were no tweets to save')
     
     # def mergedata(self):
     #     # Directory containing the JSON files
@@ -226,41 +233,3 @@ class UserDataDownload():
 
     # def get_paginator(self):
     #     return self.paginator
-
-
-''' 
-Example:
-BEARER_TOKEN = 'some string indicating the token'
-# Initialize UserDataDownload object
-user_data = UserDataDownload(auth="your_auth_token",
-                             username="desired_username")
-
-# Set up client for accessing Twitter API
-user_data.set_client(bearer_token)
-
-# Retrieve user data from Twitter
-user_data.set_user_data()
-
-# Set the ID of the oldest tweet to retrieve
-user_data.set_until_id()
-
-# Set up paginator for retrieving tweets
-user_data.set_paginator()
-
-# Create necessary directories for data storage
-user_data.set_output_filename()
-
-# Set the maximum number of tweets to retrieve based on rate limit
-user_data.set_max_tweets(bearer_token)
-
-# Download tweets and store them
-user_data.download()
-
-# Save downloaded tweets
-user_data.save()
-
-
-'''
-        
-
-        

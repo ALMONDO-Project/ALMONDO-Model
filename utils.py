@@ -5,12 +5,6 @@ import requests
 
 # client = tweepy.client(BEARER_TOKEN)
 
-def users_done_update(log_data_path: str, user: str):
-    with open(log_data_path+'/users_done.txt', 'a+'):
-        log_data_path.write('\n')
-        log_data_path.write(user)
-    return
-
 def users_to_do_update(input_data_path: str, log_data_path: str):
     #update the file with remaining users to retreive tweets from
     with open(log_data_path+'/users_done.txt', 'r') as lfile:
@@ -85,11 +79,41 @@ def get_oldest_tweet_id(path):
             last_tweet = list(json.load(file))[-1]
         return last_tweet['id']
 
+def new_start_time(path):
+    try:
+        # Get the list of JSON files in the directory
+        json_files = [int(file.replace('.json', '')) for file in os.listdir(path) if file.endswith('.json')]
+    
+    except IndexError:
+        return None
 
+    json_files.sort()
+
+    # Load the first tweet from the JSON file
+    with open(f'{path}/{json_files[0]}.json', 'r') as file:
+        tweet = json.load(file)
+        created_at_str = tweet[str(json_files[0])]['created_at']
+
+    # Convert the created_at string to a datetime object
+    created_at_dt = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+
+    # Add a second to the datetime object
+    created_at_dt += timedelta(seconds=1)
+
+    # Convert the modified datetime object back to a string
+    updated_created_at_str = created_at_dt.strftime('%Y-%m-%dT%H:%M:%S.%fZ')
+
+    return updated_created_at_str
     
-    
+def is_before(start_date_str, end_date_str):
+    start_date = datetime.strptime(start_date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+    end_date = datetime.strptime(end_date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+    return start_date < end_date    
         
-        
+def update_users_done(username):
+    print(f'>>> finished with user {username}')
+    with open(f'data/log/users_done.txt', 'a') as file:
+        file.write(f'@{username}\n')        
     
     
 
