@@ -46,24 +46,24 @@ class UserDataDownload():
         self.user_id = self.user.data.id
         
     def set_until_id(self):
-        if os.path.exists(self.filename):
-            with open(self.filename, 'r') as file:
-                data = json.load(file)
-            # Initialize variables to store the most recent tweet ID and its creation date
-            less_recent_tweet_id = None
-            less_recent_creation_date = None
+        # if os.path.exists(self.filename):
+        #     with open(self.filename, 'r') as file:
+        #         data = json.load(file)
+        #     # Initialize variables to store the most recent tweet ID and its creation date
+        #     less_recent_tweet_id = None
+        #     less_recent_creation_date = None
 
-            # Iterate through the tweets data to find the most recent tweet
-            for tweet_dict in data:
-                for tweet_id, tweet_info in tweet_dict.items():
-                    creation_date = tweet_info['created_at']
-                    if less_recent_creation_date is None or creation_date < less_recent_creation_date:
-                        less_recent_creation_date = creation_date
-                        less_recent_tweet_id = tweet_id
+        #     # Iterate through the tweets data to find the most recent tweet
+        #     for tweet_dict in data:
+        #         for tweet_id, tweet_info in tweet_dict.items():
+        #             creation_date = tweet_info['created_at']
+        #             if less_recent_creation_date is None or creation_date < less_recent_creation_date:
+        #                 less_recent_creation_date = creation_date
+        #                 less_recent_tweet_id = tweet_id
             
-            print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+        #     print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
         
-        elif os.path.exists(self.userlogpath):
+        if os.path.exists(self.userlogpath):
             try:
                 json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
                 json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
@@ -71,7 +71,6 @@ class UserDataDownload():
             except FileNotFoundError:
                 less_recent_tweet_id = None
             print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
-            
         else:
             less_recent_tweet_id = None
             print('>>> no saved data for this user')
@@ -145,28 +144,51 @@ class UserDataDownload():
         if left <= 0:
             print('no tweets left')
             return None
+        
+    # def create_tweet_data_list(self):
+    #     self.tweets = []
+    #     if os.path.exists(self.userlogpath):
+    #         try:
+    #             json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
+    #             json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
+    #             for json_file in json_files:
+    #                 with open(json_file, 'r') as file:
+    #                     tweet = json.load(file)
+    #                     self.tweets.append(tweet)
+    #         except FileNotFoundError:
+    #             pass         
+            
+    def dump_tweets(self, tweet, tweet_data):
+        with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
+            json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
+            
+    def update_users_done(self):
+        print(f'>>> finished with user {self.username}')
+        with open(f'data/log/users_done.txt', 'r') as file:
+            file.write(f'{self.username}\n')
 
     def download(self):
-        if os.path.exists(f'{self.useroutdatapath}/{self.username}_tweets_merged.json'):
-            with open(f'{self.useroutdatapath}/{self.username}_tweets_merged.json', 'r') as file:
-                self.tweets = list(json.load(file))
-        else:
-            self.tweets = []
+   
+        # self.tweets = self.create_tweet_data_list()
+        
         print('>>> started retrieving tweets')
+        
+        count = 0
+        
         for page in tqdm.tqdm(self.paginator):
-            pagination_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
+            next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
                 tweet_data = {tweet.data['id']: tweet.data}
                 self.tweets.append(tweet_data)
-                with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
-                    json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
-            if not pagination_token:
-                print('>>> finished with this user')
-                with open(f'data/log/users_done.txt', 'r') as file:
-                    file.write(f'{self.username}\n')
+                self.dump_tweets(tweet, tweet_data)
+                count += 1
+            if not next_token:
+                self.update_users_done()
                 break
+
         count=len(self.tweets)
-        print(f'>>> {count} tweets downloaded')        
+        
+        print(f'>>> {count} total tweets downloaded in this session')        
         
     def save(self):
         if len(self.tweets) > 0:

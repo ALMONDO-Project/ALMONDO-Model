@@ -29,11 +29,11 @@ def main():
     user_data.set_max_tweets(bearer_token=BEARER_TOKEN, n=5)
 
     # # Download tweets and store them
-    # user_data.download()
+    user_data.download()
     
-    user_data.mergedata()
+    # user_data.mergedata()
 
-    # Save downloaded tweets
+    # # Save downloaded tweets
     # user_data.save()
     
     print('>>> process ended')
