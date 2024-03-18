@@ -1,0 +1,49 @@
+{
+    "1237015532978745344": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-09T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1237015532978745344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 128,
+                    "normalized_text": "EnergiaRenov\u00e1vel",
+                    "probability": 0.5072,
+                    "start": 113,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 129,
+                    "start": 112,
+                    "tag": "EnergiaRenov\u00e1vel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "olhardigital.com.br/ciencia-e-espa\u2026",
+                    "end": 153,
+                    "expanded_url": "https://olhardigital.com.br/ciencia-e-espaco/noticia/startup-armazena-energia-eolica-e-solar-usando-a-gravidade/96825",
+                    "start": 130,
+                    "status": 200,
+                    "unwound_url": "https://olhardigital.com.br/2020/02/14/noticias/startup-armazena-energia-eolica-e-solar-usando-a-gravidade/",
+                    "url": "https://t.co/7l6eBpqKNB"
+                }
+            ]
+        },
+        "id": "1237015532978745344",
+        "lang": "pt",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Imensos guindastes manobrando enormes blocos de concreto podem ser a solu\u00e7\u00e3o para a intermit\u00eancia nas usinas de #EnergiaRenov\u00e1vel\nhttps://t.co/7l6eBpqKNB"
+    }
+}

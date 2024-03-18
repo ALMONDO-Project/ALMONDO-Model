@@ -1,0 +1,54 @@
+{
+    "1250166941253283840": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-14T21:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1250166941253283840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "Coal",
+                    "probability": 0.3617,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "GreenEnergy",
+                    "probability": 0.4079,
+                    "start": 79,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 78,
+                    "tag": "GreenEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "euronews.com/living/2020/04\u2026",
+                    "end": 115,
+                    "expanded_url": "https://www.euronews.com/living/2020/04/06/coronavirus-crisis-fast-forwards-renewable-green-energy-10-years-into-the-future",
+                    "start": 92,
+                    "url": "https://t.co/OvD7NSMYsz"
+                }
+            ]
+        },
+        "id": "1250166941253283840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Coal has now become the most expensive fuel in the world in the face of cheap #GreenEnergy  https://t.co/OvD7NSMYsz"
+    }
+}

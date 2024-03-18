@@ -1,0 +1,54 @@
+{
+    "1247728875397730304": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-08T03:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1247728875397730304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.3591,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "U.S.",
+                    "probability": 0.7568,
+                    "start": 61,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "WindEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nsenergybusiness.com/features/wind-\u2026",
+                    "end": 140,
+                    "expanded_url": "https://www.nsenergybusiness.com/features/wind-power-states-us/",
+                    "start": 117,
+                    "url": "https://t.co/tjKY1KNf1f"
+                }
+            ]
+        },
+        "id": "1247728875397730304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#WindEnergy now delivers more than 10 percent of power in 14 U.S. states. Is your state one of them? Find out here \u00e0 https://t.co/tjKY1KNf1f"
+    }
+}

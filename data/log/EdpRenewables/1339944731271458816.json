@@ -1,0 +1,89 @@
+{
+    "1339944731271458816": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-18T14:44:53.000Z",
+        "edit_history_tweet_ids": [
+            "1339944731271458816"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Madison Wind Farm",
+                    "probability": 0.7006,
+                    "start": 50,
+                    "type": "Place"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "New York",
+                    "probability": 0.9805,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5383,
+                    "start": 141,
+                    "type": "Organization"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "New York",
+                    "probability": 0.9895,
+                    "start": 170,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 145,
+                    "start": 140,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 201,
+                    "start": 189,
+                    "tag": "cleanenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 125,
+                    "id": "202799722",
+                    "start": 113,
+                    "username": "ACE_newyork"
+                },
+                {
+                    "end": 138,
+                    "id": "66661102",
+                    "start": 130,
+                    "username": "NYSERDA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/hw0WwuRRonw",
+                    "end": 248,
+                    "expanded_url": "https://youtu.be/hw0WwuRRonw",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=hw0WwuRRonw&feature=youtu.be",
+                    "url": "https://t.co/3zf4xRwhP3"
+                }
+            ]
+        },
+        "id": "1339944731271458816",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83e\udd73\ud83c\udf82\ud83c\udf89 We're celebrating the 20th anniversary of our Madison Wind Farm, the first wind farm in New York! Along with @ACE_newyork and @NYSERDA, #EDPR is committed to helping New York reach its #cleanenergy goals. \n\nLearn more \ud83d\udc47  https://t.co/3zf4xRwhP3"
+    }
+}

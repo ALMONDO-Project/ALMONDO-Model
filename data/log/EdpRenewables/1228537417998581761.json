@@ -1,0 +1,55 @@
+{
+    "1228537417998581761": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-15T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1228537417998581761"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "U.S.Wind",
+                    "probability": 0.879,
+                    "start": 54,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 30,
+                    "tag": "TransformationTuesday"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 136,
+                    "id": "1902774798",
+                    "start": 132,
+                    "username": "eia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "csmonitor.com/Environment/20\u2026",
+                    "end": 179,
+                    "expanded_url": "https://www.csmonitor.com/Environment/2020/0204/Solar-and-wind-energy-trounced-the-forecasts.-Can-they-do-it-again",
+                    "start": 156,
+                    "url": "https://t.co/OBCdTEOAxR"
+                }
+            ]
+        },
+        "id": "1228537417998581761",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "A reason to celebrate on this #TransformationTuesday: U.S.Wind and solar power will produce 33 times more electricity than what the @EIA predicted in 2000. https://t.co/OBCdTEOAxR"
+    }
+}

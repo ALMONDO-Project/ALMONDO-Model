@@ -1,0 +1,66 @@
+{
+    "1267380365087342592": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-01T09:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1267380365087342592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "WindFloat",
+                    "probability": 0.4411,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "Atlantic",
+                    "probability": 0.7668,
+                    "start": 11,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "WindFloat"
+                },
+                {
+                    "end": 74,
+                    "start": 61,
+                    "tag": "WindTurbines"
+                },
+                {
+                    "end": 124,
+                    "start": 117,
+                    "tag": "energy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/0\u2026",
+                    "end": 248,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/05/28/last-platform-worlds-first-semi-submersible-floating-wind-farm-sets-sail",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/last-platform-worlds-first-semi-submersible-floating-wind-farm-sets-sail",
+                    "url": "https://t.co/hKUCaPirtF"
+                }
+            ]
+        },
+        "id": "1267380365087342592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "#WindFloat Atlantic is set to:\n\n\u2713support the world\u2019s largest #WindTurbines; \n\ud83c\udf2cproduce 25 MW of capacity; \n\u26a1\ufe0fgenerate #energy to supply 60,000 users each year; \n\ud83c\udf33save almost 1.1 million tons of CO2;\n\nRead more in the link. \ud83d\udc47  https://t.co/hKUCaPirtF"
+    }
+}

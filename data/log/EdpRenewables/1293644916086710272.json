@@ -1,0 +1,54 @@
+{
+    "1293644916086710272": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-12T20:25:57.000Z",
+        "edit_history_tweet_ids": [
+            "1293644916086710272"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Virtual Wind Farm Tour",
+                    "probability": 0.7475,
+                    "start": 8,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 198,
+                    "start": 178,
+                    "tag": "WindBuildsTheFuture"
+                },
+                {
+                    "end": 216,
+                    "start": 199,
+                    "tag": "AmericanWindWeek"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/c5Z_gRajJz0",
+                    "end": 175,
+                    "expanded_url": "https://youtu.be/c5Z_gRajJz0",
+                    "start": 152,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=c5Z_gRajJz0&feature=youtu.be",
+                    "url": "https://t.co/O0APsOnuCB"
+                }
+            ]
+        },
+        "id": "1293644916086710272",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Now our Virtual Wind Farm Tour is heading to the supply bay where the teams get the parts and equipment they\u2019ll need before heading out to the turbine: https://t.co/O0APsOnuCB \n\n#WindBuildsTheFuture #AmericanWindWeek @AWEA"
+    }
+}

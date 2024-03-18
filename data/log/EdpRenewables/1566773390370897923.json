@@ -1,0 +1,47 @@
+{
+    "1566773390370897923": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-09-05T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1566773390370897923"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "European Comission",
+                    "probability": 0.513,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "EU",
+                    "probability": 0.9454,
+                    "start": 174,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3BdPVYZ",
+                    "end": 256,
+                    "expanded_url": "https://bit.ly/3BdPVYZ",
+                    "start": 233,
+                    "url": "https://t.co/b1VKgZkkDM"
+                }
+            ]
+        },
+        "id": "1566773390370897923",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\uddea\ud83c\uddfa The European Comission has established the first list of renewable energy cross-border projects.\n\nThis is big news, as it underlines the importance of cooperation between EU countries in the development of green energy sources. \n\nhttps://t.co/b1VKgZkkDM"
+    }
+}

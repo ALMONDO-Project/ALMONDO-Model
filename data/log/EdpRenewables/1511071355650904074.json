@@ -1,0 +1,57 @@
+{
+    "1511071355650904074": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-04T20:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1511071355650904074"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 233,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7848,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 234,
+                    "start": 220,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 20,
+                    "id": "192942213",
+                    "start": 12,
+                    "username": "IPCC_CH"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3LC1MCE",
+                    "end": 262,
+                    "expanded_url": "https://bit.ly/3LC1MCE",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.theguardian.com/environment/2022/apr/03/scientists-urge-end-to-fossil-fuel-use-as-landmark-ippc-report-readied?linkId=100000118619990",
+                    "url": "https://t.co/3kWWrhfQfL"
+                }
+            ]
+        },
+        "id": "1511071355650904074",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udd25  It's the @IPCC_CH's word: the world must abandon fossil fuels as a matter of urgency. Now.\n\nThat's the main conclusion of the latest comprehensive assesment of climate science, focused on the main solutions to tackle #ClimateChange \ud83d\udc47 \n\nhttps://t.co/3kWWrhfQfL"
+    }
+}

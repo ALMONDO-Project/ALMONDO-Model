@@ -1,0 +1,75 @@
+{
+    "1452681610722258952": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-10-25T17:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1452681610722258952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5164,
+                    "start": 5,
+                    "type": "Organization"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "EDP",
+                    "probability": 0.3825,
+                    "start": 35,
+                    "type": "Organization"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Brasil",
+                    "probability": 0.7819,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Monte Verde",
+                    "probability": 0.7408,
+                    "start": 65,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Rio Grande",
+                    "probability": 0.9576,
+                    "start": 120,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 4,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3mcaZaT",
+                    "end": 206,
+                    "expanded_url": "https://bit.ly/3mcaZaT",
+                    "start": 183,
+                    "url": "https://t.co/WQ2iWvTMi3"
+                }
+            ]
+        },
+        "id": "1452681610722258952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udde7\ud83c\uddf7  #EDPR will co-invest alongside EDP Energias do Brasil in the Monte Verde solar power plant, located in the State of Rio Grande, which is expected to enter in operation in 2024. \n\nhttps://t.co/WQ2iWvTMi3"
+    }
+}

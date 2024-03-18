@@ -1,0 +1,56 @@
+{
+    "1410521304185311234": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-01T08:50:59.000Z",
+        "edit_history_tweet_ids": [
+            "1410521304185311234"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5716,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "Greencoat Capital",
+                    "probability": 0.5456,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "United States",
+                    "probability": 0.9157,
+                    "start": 123,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3hEEGOD",
+                    "end": 275,
+                    "expanded_url": "https://bit.ly/3hEEGOD",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2021/07/01/edpr-completes-asset-rotation-deal-a-405-mw-wind-portfolio-us-ev-100-07bn-0?linkId=100000052705212",
+                    "url": "https://t.co/NduSEcAJd2"
+                }
+            ]
+        },
+        "id": "1410521304185311234",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "EDPR has completed the sale to funds managed by Greencoat Capital of a 68% equity stake in a wind portfolio located in the United States for an EV (100%) of $0.7bn.\n\nThis transaction demonstrates that the market recognizes the quality of our assets \ud83d\udc4f\ud83c\udf43 https://t.co/NduSEcAJd2"
+    }
+}

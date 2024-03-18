@@ -1,0 +1,53 @@
+{
+    "1471950405353582595": {
+        "attachments": {
+            "media_keys": [
+                "3_1471950394511269888"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-12-17T21:08:18.000Z",
+        "edit_history_tweet_ids": [
+            "1471950405353582595"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "US",
+                    "probability": 0.9411,
+                    "start": 87,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3e8IdTD",
+                    "end": 159,
+                    "expanded_url": "https://bit.ly/3e8IdTD",
+                    "start": 136,
+                    "url": "https://t.co/cM2taiwrhS"
+                },
+                {
+                    "display_url": "pic.twitter.com/PBoI2dXaIf",
+                    "end": 183,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1471950405353582595/photo/1",
+                    "media_key": "3_1471950394511269888",
+                    "start": 160,
+                    "url": "https://t.co/PBoI2dXaIf"
+                }
+            ]
+        },
+        "id": "1471950405353582595",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We are proud to announce that we have secured a PPA for 400 MW of wind offshore in the US \ud83d\ude4c \ud83c\udf0a \n\nMarket Notifications is available here: https://t.co/cM2taiwrhS https://t.co/PBoI2dXaIf"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1302713432752271360": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-06T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1302713432752271360"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6839,
+                    "start": 23,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 22,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 151,
+                    "start": 135,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 171,
+                    "start": 152,
+                    "tag": "WeTrustInTheFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/investors/i\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.edpr.com/en/investors/investor-information/edpr-annual-report-online-2019",
+                    "start": 172,
+                    "url": "https://t.co/EUR2a2HmE7"
+                }
+            ]
+        },
+        "id": "1302713432752271360",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Did you know in 2019, #EDPR\u2019s production grew a 6% more than in 2018, and for the period 2020-22 our capacity will go up to 4.4 GW \ud83d\udcaa \n\n#RenewableEnergy #WeTrustInTheFuture\nhttps://t.co/EUR2a2HmE7"
+    }
+}

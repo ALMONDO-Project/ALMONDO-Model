@@ -1,0 +1,54 @@
+{
+    "1290682038136320000": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-04T16:12:32.000Z",
+        "edit_history_tweet_ids": [
+            "1290682038136320000"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "India",
+                    "probability": 0.9752,
+                    "start": 12,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4153,
+                    "start": 37,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 36,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "economictimes.indiatimes.com/industry/energ\u2026",
+                    "end": 79,
+                    "expanded_url": "https://economictimes.indiatimes.com/industry/energy/power/clean-energy-capacity-india-to-have-60-renewable-energy-by-2030-says-power-minister/articleshow/77092644.cms",
+                    "start": 56,
+                    "url": "https://t.co/92o4BPXldf"
+                }
+            ]
+        },
+        "id": "1290682038136320000",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "This is how India is moving towards #RenewableEnergy \ud83c\udf0f  https://t.co/92o4BPXldf"
+    }
+}

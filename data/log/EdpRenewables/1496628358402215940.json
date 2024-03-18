@@ -1,0 +1,60 @@
+{
+    "1496628358402215940": {
+        "attachments": {
+            "media_keys": [
+                "16_1496628334398222340"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-23T23:29:41.000Z",
+        "edit_history_tweet_ids": [
+            "1496628358402215940"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.5245,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 14,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3scnjeq",
+                    "end": 214,
+                    "expanded_url": "https://bit.ly/3scnjeq",
+                    "start": 191,
+                    "url": "https://t.co/dxQwbQNYjY"
+                },
+                {
+                    "display_url": "pic.twitter.com/p5x0z4Zx3b",
+                    "end": 238,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1496628358402215940/photo/1",
+                    "media_key": "16_1496628334398222340",
+                    "start": 215,
+                    "url": "https://t.co/p5x0z4Zx3b"
+                }
+            ]
+        },
+        "id": "1496628358402215940",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udf90  Last year, #RenewableEnergy development hit a record of 755 billion dollars. It falls a bit short of what will be needed to reach net-zero by 2050, but it's a 27% increase in comparison.\n\nhttps://t.co/dxQwbQNYjY https://t.co/p5x0z4Zx3b"
+    }
+}

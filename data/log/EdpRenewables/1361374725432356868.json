@@ -1,0 +1,77 @@
+{
+    "1361374725432356868": {
+        "attachments": {
+            "media_keys": [
+                "3_1361374723704291337"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-02-15T18:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1361374725432356868"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5219,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "CO2",
+                    "probability": 0.7381,
+                    "start": 191,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 90,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 259,
+                    "start": 247,
+                    "tag": "solarenergy"
+                },
+                {
+                    "end": 271,
+                    "start": 260,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3rwxqs1",
+                    "end": 246,
+                    "expanded_url": "http://bit.ly/3rwxqs1",
+                    "start": 223,
+                    "url": "https://t.co/9PQ7p7Hqhn"
+                },
+                {
+                    "display_url": "pic.twitter.com/chtS5nVQh0",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1361374725432356868/photo/1",
+                    "media_key": "3_1361374723704291337",
+                    "start": 272,
+                    "url": "https://t.co/chtS5nVQh0"
+                }
+            ]
+        },
+        "id": "1361374725432356868",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Solar energy\ud83c\udf1e and wind energy\ud83c\udf2c are the most environmentally friendly forms of energy.\ud83c\udf3f\nAt #EDPR, we are committed to them, and have managed to prevent the emission of over 19 million tons of CO2 \ud83d\udc9a\nLearn more about us here: https://t.co/9PQ7p7Hqhn\n#solarenergy #windenergy https://t.co/chtS5nVQh0"
+    }
+}

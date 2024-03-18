@@ -1,0 +1,47 @@
+{
+    "1233029266138378240": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-27T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1233029266138378240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4722,
+                    "start": 87,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 102,
+                    "start": 86,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "archdaily.com/933204/people-\u2026",
+                    "end": 159,
+                    "expanded_url": "https://www.archdaily.com/933204/people-power-19-public-buildings-that-generate-renewable-energy",
+                    "start": 136,
+                    "url": "https://t.co/L28QuBzv01"
+                }
+            ]
+        },
+        "id": "1233029266138378240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Even after the construction ends, some buildings go one step further by incorporating #RenewableEnergy sources into their performance. \nhttps://t.co/L28QuBzv01"
+    }
+}

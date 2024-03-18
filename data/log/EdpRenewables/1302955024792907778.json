@@ -1,0 +1,54 @@
+{
+    "1302955024792907778": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-07T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1302955024792907778"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Australia",
+                    "probability": 0.9862,
+                    "start": 47,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 140,
+                    "start": 126,
+                    "tag": "GreenRecovery"
+                },
+                {
+                    "end": 157,
+                    "start": 141,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "smartcompany.com.au/industries/ene\u2026",
+                    "end": 182,
+                    "expanded_url": "https://www.smartcompany.com.au/industries/energy-resources/australia-clean-energy-future/",
+                    "start": 159,
+                    "status": 200,
+                    "unwound_url": "https://www.smartcompany.com.au/industries/energy-resources/australia-clean-energy-future/",
+                    "url": "https://t.co/H3yi73d0h8"
+                }
+            ]
+        },
+        "id": "1302955024792907778",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Now is the time to harness the opportunity for Australia and the world to transition to a net-zero emissions global economy.\n\n#GreenRecovery #RenewableEnergy\n\nhttps://t.co/H3yi73d0h8"
+    }
+}

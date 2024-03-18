@@ -1,0 +1,68 @@
+{
+    "1354376798818226177": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-27T10:32:46.000Z",
+        "edit_history_tweet_ids": [
+            "1354376798818226177"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4252,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Spain",
+                    "probability": 0.9148,
+                    "start": 142,
+                    "type": "Place"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Italy",
+                    "probability": 0.9425,
+                    "start": 173,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 240,
+                    "start": 222,
+                    "tag": "SustainableFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2021/0\u2026",
+                    "end": 264,
+                    "expanded_url": "https://www.edpr.com/en/news/2021/01/27/edpr-awarded-long-term-cfds-187-mw-spanish-italian-renewable-auctions?linkId=100000030036234",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2021/01/27/edpr-awarded-long-term-cfds-187-mw-spanish-italian-renewable-auctions?linkId=100000030036234",
+                    "url": "https://t.co/D7eiy5xTqd"
+                }
+            ]
+        },
+        "id": "1354376798818226177",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#EDPR has been awarded with long-term CfDs for 187 MW at the Spanish &amp; Italian renewable auctions.\n\n\ud83d\udca8\u2600\ufe0f 143 MW wind and solar projects in Spain;\n\ud83d\udca8 44 MW wind project in Italy,\n\ud83d\udcc6 Expected to be operational in 2022/23.\n\n#SustainableFuture https://t.co/D7eiy5xTqd"
+    }
+}

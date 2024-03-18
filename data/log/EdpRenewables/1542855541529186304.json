@@ -1,0 +1,42 @@
+{
+    "1542855541529186304": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-07-01T13:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1542855541529186304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Gen Z",
+                    "probability": 0.6976,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.natgeo.com/3I3AO6h",
+                    "end": 208,
+                    "expanded_url": "https://on.natgeo.com/3I3AO6h",
+                    "start": 185,
+                    "status": 200,
+                    "unwound_url": "https://www.nationalgeographic.com/environment/article/climate-anxiety-is-widespread-among-youth-can-they-overcome-it?linkId=100000133448661",
+                    "url": "https://t.co/xndtGtuPi7"
+                }
+            ]
+        },
+        "id": "1542855541529186304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Millennials and Gen Z have grown up on a different planet with tougher contexts. Climate anxiety is one of the main factors affecting them. Can the rest of us do something to help? \ud83d\udc47 \n\nhttps://t.co/xndtGtuPi7"
+    }
+}

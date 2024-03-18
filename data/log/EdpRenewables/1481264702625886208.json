@@ -1,0 +1,63 @@
+{
+    "1481264702625886208": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-01-12T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1481264702625886208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Antarctica",
+                    "probability": 0.9496,
+                    "start": 55,
+                    "type": "Place"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Italy",
+                    "probability": 0.9751,
+                    "start": 81,
+                    "type": "Place"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.792,
+                    "start": 140,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 153,
+                    "start": 139,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3r7gsBb",
+                    "end": 239,
+                    "expanded_url": "https://bit.ly/3r7gsBb",
+                    "start": 216,
+                    "status": 200,
+                    "unwound_url": "https://www.vox.com/22797395/antarctica-was-once-a-rainforest-could-it-be-again?linkId=100000102868119",
+                    "url": "https://t.co/aOyceHAsli"
+                }
+            ]
+        },
+        "id": "1481264702625886208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u2744\ufe0f  Fossils suggest that roughly 90 million years ago, Antarctica was as warm as Italy... and a rainforest. \n\n\ud83d\udc49  Now the question is: will #ClimateChange bring back this landscape to the coldest place in the world?\n\nhttps://t.co/aOyceHAsli"
+    }
+}

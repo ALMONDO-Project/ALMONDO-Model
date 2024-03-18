@@ -1,0 +1,66 @@
+{
+    "1501604252283813888": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-03-09T17:02:06.000Z",
+        "edit_history_tweet_ids": [
+            "1501604252283813888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "REBELSFORCHANGE",
+                    "probability": 0.6223,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "InternationalWomenWeek",
+                    "probability": 0.4868,
+                    "start": 222,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 28,
+                    "start": 12,
+                    "tag": "REBELSFORCHANGE"
+                },
+                {
+                    "end": 48,
+                    "start": 43,
+                    "tag": "STEM"
+                },
+                {
+                    "end": 244,
+                    "start": 221,
+                    "tag": "InternationalWomenWeek"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Mz8zOT",
+                    "end": 268,
+                    "expanded_url": "https://bit.ly/3Mz8zOT",
+                    "start": 245,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=T0LpeXm_FXY",
+                    "url": "https://t.co/aErpo7mwbd"
+                }
+            ]
+        },
+        "id": "1501604252283813888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our goal at #REBELSFORCHANGE is to promote #STEM female professionals who may serve as role models for the next generation.\n\nIncreasing women's presence and diversity is key for developing a socially responsible future.\n\n#InternationalWomenWeek https://t.co/aErpo7mwbd"
+    }
+}

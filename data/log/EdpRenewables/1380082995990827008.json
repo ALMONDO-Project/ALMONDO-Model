@@ -1,0 +1,65 @@
+{
+    "1380082995990827008": {
+        "attachments": {
+            "media_keys": [
+                "3_1380082994254348294"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-04-08T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1380082995990827008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 225,
+                    "normalized_text": "Sonrisa Solar Park",
+                    "probability": 0.711,
+                    "start": 208,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 114,
+                    "start": 100,
+                    "tag": "energystorage"
+                },
+                {
+                    "end": 256,
+                    "start": 251,
+                    "tag": "edpr"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3tlG24T",
+                    "end": 250,
+                    "expanded_url": "https://bit.ly/3tlG24T",
+                    "start": 227,
+                    "url": "https://t.co/ZkESM4hReq"
+                },
+                {
+                    "display_url": "pic.twitter.com/13YFqG1MOJ",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1380082995990827008/photo/1",
+                    "media_key": "3_1380082994254348294",
+                    "start": 257,
+                    "url": "https://t.co/13YFqG1MOJ"
+                }
+            ]
+        },
+        "id": "1380082995990827008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "As we saw in January, price fluctuation affects consumers directly. \nThat's why we are committed to #energystorage\n\ud83d\udd18 Avoids price hikes in peak demand periods.\n\ud83d\udd18 Reduces the total cost of electricity supply.\nSonrisa Solar Park https://t.co/ZkESM4hReq\n#edpr https://t.co/13YFqG1MOJ"
+    }
+}

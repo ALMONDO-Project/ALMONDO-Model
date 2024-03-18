@@ -1,0 +1,66 @@
+{
+    "1268965812280463370": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-05T18:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1268965812280463370"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "Poland",
+                    "probability": 0.6481,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 97,
+                    "normalized_text": "Joaquim Barbosa",
+                    "probability": 0.9406,
+                    "start": 83,
+                    "type": "Person"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Poland",
+                    "probability": 0.9459,
+                    "start": 159,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 0,
+                    "tag": "SaveTheDate"
+                },
+                {
+                    "end": 198,
+                    "start": 190,
+                    "tag": "webinar"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "us02web.zoom.us/webinar/regist\u2026",
+                    "end": 223,
+                    "expanded_url": "https://us02web.zoom.us/webinar/register/WN_szuX4uSFRXGdn1vBZi02eA",
+                    "start": 200,
+                    "url": "https://t.co/vbJnXKD8or"
+                }
+            ]
+        },
+        "id": "1268965812280463370",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#SaveTheDate \ud83d\udcc6 June, 9 at 9.30am CET\n\nOur Country Manager of EDP Renewables Poland Joaquim Barbosa will be talking about the Energy Market and Power Prices in Poland. \n\nBook your spot now \ud83d\udc47 #webinar  https://t.co/vbJnXKD8or"
+    }
+}

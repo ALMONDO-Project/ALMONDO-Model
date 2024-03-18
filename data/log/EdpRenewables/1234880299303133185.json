@@ -1,0 +1,47 @@
+{
+    "1234880299303133185": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-03T16:36:20.000Z",
+        "edit_history_tweet_ids": [
+            "1234880299303133185"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.7045,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 14,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "intpolicydigest.org/2020/02/23/ren\u2026",
+                    "end": 177,
+                    "expanded_url": "https://intpolicydigest.org/2020/02/23/renewable-energy-our-only-future/",
+                    "start": 154,
+                    "url": "https://t.co/Q38R8gXS4R"
+                }
+            ]
+        },
+        "id": "1234880299303133185",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The switch to #RenewableEnergy can produce stable energy prices, reliable energy supplies, large scale job creation, and less pollution. Read more here:\n\nhttps://t.co/Q38R8gXS4R"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1537825967342755840": {
+        "attachments": {
+            "media_keys": [
+                "3_1537825085872123905"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-17T15:54:16.000Z",
+        "edit_history_tweet_ids": [
+            "1537825967342755840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Spain",
+                    "probability": 0.9654,
+                    "start": 47,
+                    "type": "Place"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "CSR",
+                    "probability": 0.4798,
+                    "start": 159,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 23,
+                    "tag": "KeepItLocal"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 62,
+                    "id": "156646851",
+                    "start": 55,
+                    "username": "Vestas"
+                },
+                {
+                    "end": 78,
+                    "id": "165859690",
+                    "start": 69,
+                    "username": "aeeolica"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2022/0\u2026",
+                    "end": 200,
+                    "expanded_url": "https://www.edpr.com/en/news/2022/06/17/edpr-and-vestas-boost-youth-employment-rural-areas-spain-through-their-keep-it-local-program",
+                    "start": 177,
+                    "url": "https://t.co/3MHqrTflv0"
+                },
+                {
+                    "display_url": "pic.twitter.com/GyN4dCSgIT",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1537825967342755840/photo/1",
+                    "media_key": "3_1537825085872123905",
+                    "start": 201,
+                    "url": "https://t.co/GyN4dCSgIT"
+                }
+            ]
+        },
+        "id": "1537825967342755840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "So proud of our latest #KeepItLocal edition in Spain \ud83d\udc4f @Vestas &amp; @aeeolica \n\nKudos to all the teams who participated in the 2nd Edition. \n\nGet to know the CSR program here: https://t.co/3MHqrTflv0 https://t.co/GyN4dCSgIT"
+    }
+}

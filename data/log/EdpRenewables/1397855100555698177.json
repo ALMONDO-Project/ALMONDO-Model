@@ -1,0 +1,86 @@
+{
+    "1397855100555698177": {
+        "attachments": {
+            "media_keys": [
+                "3_1397855099083444225"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-27T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1397855100555698177"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4986,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "ZAS",
+                    "probability": 0.3082,
+                    "start": 83,
+                    "type": "Organization"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "La Coru\u00f1a",
+                    "probability": 0.7985,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "Edpr",
+                    "probability": 0.3955,
+                    "start": 251,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 255,
+                    "start": 250,
+                    "tag": "Edpr"
+                },
+                {
+                    "end": 267,
+                    "start": 256,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3wnmf6O",
+                    "end": 249,
+                    "expanded_url": "https://bit.ly/3wnmf6O",
+                    "start": 226,
+                    "url": "https://t.co/7uLqqIhfkD"
+                },
+                {
+                    "display_url": "pic.twitter.com/kvpeQy1ctr",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1397855100555698177/photo/1",
+                    "media_key": "3_1397855099083444225",
+                    "start": 268,
+                    "url": "https://t.co/kvpeQy1ctr"
+                }
+            ]
+        },
+        "id": "1397855100555698177",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "One of the biggest challenges achieved at EDPR was to replace the old turbines\ud83c\udf00 at ZAS La Coru\u00f1a with more efficient ones, bringing significant environmental benefits and a big step forward in terms of innovation. \nKnow more: https://t.co/7uLqqIhfkD\n#Edpr #windenergy https://t.co/kvpeQy1ctr"
+    }
+}

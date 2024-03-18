@@ -1,0 +1,67 @@
+{
+    "1303438208416456704": {
+        "attachments": {
+            "media_keys": [
+                "3_1302999127463211008"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-08T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1303438208416456704"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 152,
+                    "normalized_text": "Karl Mielke",
+                    "probability": 0.8337,
+                    "start": 142,
+                    "type": "Person"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "Timber Road Wind Farm",
+                    "probability": 0.5313,
+                    "start": 174,
+                    "type": "Other"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "Paulding",
+                    "probability": 0.7892,
+                    "start": 199,
+                    "type": "Place"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "Ohio",
+                    "probability": 0.9195,
+                    "start": 216,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/MPRnQq6nfs",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1303438208416456704/photo/1",
+                    "media_key": "3_1302999127463211008",
+                    "start": 222,
+                    "url": "https://t.co/MPRnQq6nfs"
+                }
+            ]
+        },
+        "id": "1303438208416456704",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 23,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "\u201cWe raise beans. We raise corn. We raise oats as a cover crop to keep the dirt blowing from west to east. And now, we raise wind turbines.\u201d - Karl Mielke, a landowner at our Timber Road Wind Farm in Paulding County, Ohio. https://t.co/MPRnQq6nfs"
+    }
+}

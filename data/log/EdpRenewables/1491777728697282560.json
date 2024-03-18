@@ -1,0 +1,49 @@
+{
+    "1491777728697282560": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-10T14:15:01.000Z",
+        "edit_history_tweet_ids": [
+            "1491777728697282560"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "France",
+                    "probability": 0.9883,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "One Ocean summit",
+                    "probability": 0.5535,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3JeWbRy",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/3JeWbRy",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.theguardian.com/environment/2022/feb/08/blue-diplomacy-france-summit-puts-worlds-spotlight-on-oceans?linkId=100000108693308",
+                    "url": "https://t.co/O2e98DR3zR"
+                }
+            ]
+        },
+        "id": "1491777728697282560",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc0b  Did you know France is celebrating the One Ocean summit? Up to 40 world leaders have traveled there to make ambitious commitments towards combating illegal fishing and plastic pollution. \n\n\ud83d\udc49  It is the first high-level summit dedicated to the ocean\n\nhttps://t.co/O2e98DR3zR"
+    }
+}

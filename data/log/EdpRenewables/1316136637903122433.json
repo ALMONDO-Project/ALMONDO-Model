@@ -1,0 +1,70 @@
+{
+    "1316136637903122433": {
+        "attachments": {
+            "media_keys": [
+                "3_1316136636212809729"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-13T22:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1316136637903122433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "GreenEconomy",
+                    "probability": 0.6258,
+                    "start": 38,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 50,
+                    "start": 37,
+                    "tag": "GreenEconomy"
+                },
+                {
+                    "end": 92,
+                    "start": 76,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 109,
+                    "start": 93,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3lAjAkG",
+                    "end": 134,
+                    "expanded_url": "https://bit.ly/3lAjAkG",
+                    "start": 111,
+                    "url": "https://t.co/50Pr8YdjoF"
+                },
+                {
+                    "display_url": "pic.twitter.com/pVRtHmWSH5",
+                    "end": 158,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1316136637903122433/photo/1",
+                    "media_key": "3_1316136636212809729",
+                    "start": 135,
+                    "url": "https://t.co/pVRtHmWSH5"
+                }
+            ]
+        },
+        "id": "1316136637903122433",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Now is the best time to move towards #GreenEconomy, and that is a fact  \ud83c\udf31 \n\n#RenewableEnergy #Decarbonization\n\nhttps://t.co/50Pr8YdjoF https://t.co/pVRtHmWSH5"
+    }
+}

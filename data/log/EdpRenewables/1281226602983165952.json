@@ -1,0 +1,62 @@
+{
+    "1281226602983165952": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-09T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1281226602983165952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "Poland",
+                    "probability": 0.9572,
+                    "start": 78,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 66,
+                    "start": 50,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 165,
+                    "start": 147,
+                    "tag": "SustainableFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 31,
+                    "id": "877868124984442880",
+                    "start": 16,
+                    "username": "Ireneusz_Zyska"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "wbj.pl/ten-gw-from-re\u2026",
+                    "end": 195,
+                    "expanded_url": "https://wbj.pl/ten-gw-from-renewable-sources-claims-climate-ministry/post/127438",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://wbj.pl/ten-gw-from-renewable-sources-claims-climate-ministry/post/127438",
+                    "url": "https://t.co/PDpbRYN3lF"
+                }
+            ]
+        },
+        "id": "1281226602983165952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\uddf5\ud83c\uddf1 According to @Ireneusz_Zyska, \u201cthe capacity of #RenewableEnergy sources in Poland has already exceeded 10 gigawatts\u201d \ud83d\udc49 Let\u2019s keep on building a #SustainableFuture \u2600\ufe0f\ud83d\udca8\n\n https://t.co/PDpbRYN3lF"
+    }
+}

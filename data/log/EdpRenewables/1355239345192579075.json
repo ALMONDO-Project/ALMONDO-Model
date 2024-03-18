@@ -1,0 +1,70 @@
+{
+    "1355239345192579075": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-29T19:40:13.000Z",
+        "edit_history_tweet_ids": [
+            "1355239345192579075"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "EDPR",
+                    "probability": 0.3934,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Chalmers",
+                    "probability": 0.6684,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9683,
+                    "start": 54,
+                    "type": "Place"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "Meadow Lake Wind Farm",
+                    "probability": 0.5722,
+                    "start": 152,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 7,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsbug.info/monticello_her\u2026",
+                    "end": 200,
+                    "expanded_url": "https://www.newsbug.info/monticello_herald_journal/opinion/edp-renewables-caroll-white-remc-helped-chalmers-keep-holiday-lights-on/article_6d10e670-fb4e-5ce5-9903-f82a76b6547b.html",
+                    "start": 177,
+                    "status": 200,
+                    "unwound_url": "https://www.newsbug.info/monticello_herald_journal/opinion/edp-renewables-caroll-white-remc-helped-chalmers-keep-holiday-lights-on/article_6d10e670-fb4e-5ce5-9903-f82a76b6547b.html",
+                    "url": "https://t.co/H52jbWA5tf"
+                }
+            ]
+        },
+        "id": "1355239345192579075",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "ICYMI: #EDPR NA helped shine extra light in Chalmers, Indiana for the holidays. \n\nLearn more about our support of an important local tradition near our Meadow Lake Wind Farm \ud83d\udc47  https://t.co/H52jbWA5tf"
+    }
+}

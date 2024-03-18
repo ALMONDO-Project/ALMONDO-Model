@@ -1,0 +1,49 @@
+{
+    "1438859165854797827": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-17T13:35:32.000Z",
+        "edit_history_tweet_ids": [
+            "1438859165854797827"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "CleanAir",
+                    "probability": 0.5613,
+                    "start": 5,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "CleanAir"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3hHLQ5b",
+                    "end": 201,
+                    "expanded_url": "https://bit.ly/3hHLQ5b",
+                    "start": 178,
+                    "status": 200,
+                    "unwound_url": "https://news.un.org/en/story/2021/09/1099152?linkId=100000068310055",
+                    "url": "https://t.co/Tv1PIOfCjk"
+                }
+            ]
+        },
+        "id": "1438859165854797827",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u2601\ufe0f  #CleanAir is an urgent issue, and specific actions such as implementing integrated air quality policies can make a difference. Here's 5 facts you might not know about it \ud83d\udc47 \n\nhttps://t.co/Tv1PIOfCjk"
+    }
+}

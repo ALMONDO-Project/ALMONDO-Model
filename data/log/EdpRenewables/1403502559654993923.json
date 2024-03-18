@@ -1,0 +1,65 @@
+{
+    "1403502559654993923": {
+        "attachments": {
+            "media_keys": [
+                "3_1403502558480637959"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-06-12T00:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1403502559654993923"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "America",
+                    "probability": 0.9243,
+                    "start": 15,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 25,
+                    "tag": "decarbonization"
+                },
+                {
+                    "end": 235,
+                    "start": 209,
+                    "tag": "TowardsASustainableFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3gfEqFW",
+                    "end": 207,
+                    "expanded_url": "https://bit.ly/3gfEqFW",
+                    "start": 184,
+                    "url": "https://t.co/S9SHJFQ7Q4"
+                },
+                {
+                    "display_url": "pic.twitter.com/xeJWtUaXFO",
+                    "end": 259,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1403502559654993923/photo/1",
+                    "media_key": "3_1403502558480637959",
+                    "start": 236,
+                    "url": "https://t.co/xeJWtUaXFO"
+                }
+            ]
+        },
+        "id": "1403502559654993923",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\uddfa\ud83c\uddf8 Remember! \ud83d\udc49 America\u2019s #decarbonization has the potential to create 500,000 \u2013 600,000 new jobs for American workers across the solar, wind, and battery storage technologies by 2030. https://t.co/S9SHJFQ7Q4\n\n#TowardsASustainableFuture https://t.co/xeJWtUaXFO"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "1439167567285915649": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-18T10:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1439167567285915649"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Hungary",
+                    "probability": 0.9589,
+                    "start": 64,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 163,
+                    "start": 147,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3hImmVg",
+                    "end": 233,
+                    "expanded_url": "https://bit.ly/3hImmVg",
+                    "start": 210,
+                    "status": 200,
+                    "unwound_url": "https://www.euronews.com/green/2021/09/14/this-solar-powered-pavement-harvests-energy-from-under-your-feet?linkId=100000068375630",
+                    "url": "https://t.co/tvgC9KpHA2"
+                }
+            ]
+        },
+        "id": "1439167567285915649",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\u2600\ufe0f  A new pavement made of solar panels out of plastic waste in Hungary has the capacity of harvesting energy while people and lorries go over it. #RenewableEnergy\n\n\ud83c\udfd9\ufe0f  It's a great solution for dense cities.\n\nhttps://t.co/tvgC9KpHA2"
+    }
+}

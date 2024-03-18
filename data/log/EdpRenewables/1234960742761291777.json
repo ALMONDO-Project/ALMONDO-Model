@@ -1,0 +1,54 @@
+{
+    "1234960742761291777": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-03T21:56:00.000Z",
+        "edit_history_tweet_ids": [
+            "1234960742761291777"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Africa",
+                    "probability": 0.9671,
+                    "start": 11,
+                    "type": "Place"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.5537,
+                    "start": 40,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 50,
+                    "start": 39,
+                    "tag": "WindEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "qz.com/africa/1807518\u2026",
+                    "end": 90,
+                    "expanded_url": "https://qz.com/africa/1807518/renewable-energy-investment-takes-big-strides-in-africa/",
+                    "start": 67,
+                    "url": "https://t.co/V775rXr6cW"
+                }
+            ]
+        },
+        "id": "1234960742761291777",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Throughout Africa\u2019s leading economies, #WindEnergy is on the rise.\nhttps://t.co/V775rXr6cW"
+    }
+}

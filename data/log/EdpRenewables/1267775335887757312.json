@@ -1,0 +1,60 @@
+{
+    "1267775335887757312": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-02T11:09:28.000Z",
+        "edit_history_tweet_ids": [
+            "1267775335887757312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "SolarEnergy",
+                    "probability": 0.6898,
+                    "start": 35,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 46,
+                    "start": 34,
+                    "tag": "SolarEnergy"
+                },
+                {
+                    "end": 115,
+                    "start": 99,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "17596622",
+                    "start": 0,
+                    "username": "nature_org"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cleantechnica.com/2020/05/18/nat\u2026",
+                    "end": 141,
+                    "expanded_url": "https://cleantechnica.com/2020/05/18/nature-conservancy-solar-coal-mining-lands-virginia-appalachia/",
+                    "start": 118,
+                    "url": "https://t.co/jRVgrnID9i"
+                }
+            ]
+        },
+        "id": "1267775335887757312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@nature_org wants to help develop #SolarEnergy on up to 13,000 acres of cleared coal mine lands\u2600\ufe0f. #RenewableEnergy\n\n https://t.co/jRVgrnID9i"
+    }
+}

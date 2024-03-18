@@ -1,0 +1,47 @@
+{
+    "1306350398010261505": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-16T21:53:00.000Z",
+        "edit_history_tweet_ids": [
+            "1306350398010261505"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4901,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 71,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "weforum.org/agenda/2020/09\u2026",
+                    "end": 114,
+                    "expanded_url": "https://www.weforum.org/agenda/2020/09/minerals-critical-to-clean-energy-face-shortage/",
+                    "start": 91,
+                    "url": "https://t.co/Lcb2OK97n2"
+                }
+            ]
+        },
+        "id": "1306350398010261505",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "\ud83c\udf31Minerals are vital building blocks for many technologies that give us #RenewableEnergy. \n https://t.co/Lcb2OK97n2"
+    }
+}

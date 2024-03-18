@@ -1,0 +1,42 @@
+{
+    "1321176101079654402": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-27T19:45:03.000Z",
+        "edit_history_tweet_ids": [
+            "1321176101079654402"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Halloween",
+                    "probability": 0.7242,
+                    "start": 3,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/35FA0lf",
+                    "end": 191,
+                    "expanded_url": "https://bit.ly/35FA0lf",
+                    "start": 168,
+                    "status": 200,
+                    "unwound_url": "https://www.cbc.ca/news/science/what-on-earth-waste-free-halloween-1.5772910?linkId=100000017982251",
+                    "url": "https://t.co/K1wOLh2KRR"
+                }
+            ]
+        },
+        "id": "1321176101079654402",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf83  Halloween is around the corner, but are you ready to have a sustainable one? \n\nRemember: social distancing is the spookiest way to celebrate it while being safe \ud83d\udc7b . https://t.co/K1wOLh2KRR"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1417801036195057667": {
+        "attachments": {
+            "media_keys": [
+                "3_1417801032533413890"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-21T10:58:03.000Z",
+        "edit_history_tweet_ids": [
+            "1417801036195057667"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4321,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "UK",
+                    "probability": 0.9527,
+                    "start": 62,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 13,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3wUrrif",
+                    "end": 165,
+                    "expanded_url": "https://bit.ly/3wUrrif",
+                    "start": 142,
+                    "url": "https://t.co/Ken0RP81E9"
+                },
+                {
+                    "display_url": "pic.twitter.com/Cx69eE2IPz",
+                    "end": 189,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1417801036195057667/photo/1",
+                    "media_key": "3_1417801032533413890",
+                    "start": 166,
+                    "url": "https://t.co/Cx69eE2IPz"
+                }
+            ]
+        },
+        "id": "1417801036195057667",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Did you know #EDPR is growing? \ud83d\udc47 \n\n\ud83c\uddec\ud83c\udde7 \ud83d\udca8\ud83d\udd06  We just entered the UK onshore market with a 544 MW wind and solar portfolio.\n\nLet's find out more: https://t.co/Ken0RP81E9 https://t.co/Cx69eE2IPz"
+    }
+}

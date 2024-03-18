@@ -1,0 +1,60 @@
+{
+    "1303536606750662657": {
+        "attachments": {
+            "media_keys": [
+                "3_1302999268773572613"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-09T03:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1303536606750662657"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Turtle Creek Wind Farm",
+                    "probability": 0.4118,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Mitchell County",
+                    "probability": 0.8729,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Iowa",
+                    "probability": 0.9688,
+                    "start": 73,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/SPMG6Yqu0J",
+                    "end": 167,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1303536606750662657/photo/1",
+                    "media_key": "3_1302999268773572613",
+                    "start": 144,
+                    "url": "https://t.co/SPMG6Yqu0J"
+                }
+            ]
+        },
+        "id": "1303536606750662657",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Easy and breezy. \ud83d\udca8\nOur 199 MW Turtle Creek Wind Farm in Mitchell County, Iowa, consists of 40 3.6 MW wind turbines and 16 3.45 MW wind turbines https://t.co/SPMG6Yqu0J"
+    }
+}

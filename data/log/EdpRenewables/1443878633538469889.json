@@ -1,0 +1,60 @@
+{
+    "1443878633538469889": {
+        "attachments": {
+            "media_keys": [
+                "16_1443878606686638112"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-10-01T10:01:06.000Z",
+        "edit_history_tweet_ids": [
+            "1443878633538469889"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Iceland",
+                    "probability": 0.9716,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "CO2",
+                    "probability": 0.6568,
+                    "start": 186,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "wapo.st/3usiEEr",
+                    "end": 260,
+                    "expanded_url": "https://wapo.st/3usiEEr",
+                    "start": 237,
+                    "url": "https://t.co/6p78R4L8vS"
+                },
+                {
+                    "display_url": "pic.twitter.com/lI9GVe80xb",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1443878633538469889/photo/1",
+                    "media_key": "16_1443878606686638112",
+                    "start": 261,
+                    "url": "https://t.co/lI9GVe80xb"
+                }
+            ]
+        },
+        "id": "1443878633538469889",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u2601\ufe0f  A new carbon capturing plant located in Iceland will be catching 4,000 metric tons of carbon dioxide per year. These could be used as a natural ingredient to feed hundreds of crops. CO2 can also be mixed with hydrogen to make fuel.\n\nhttps://t.co/6p78R4L8vS https://t.co/lI9GVe80xb"
+    }
+}

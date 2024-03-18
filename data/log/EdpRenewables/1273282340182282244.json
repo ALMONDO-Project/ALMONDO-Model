@@ -1,0 +1,105 @@
+{
+    "1273282340182282244": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-17T15:52:20.000Z",
+        "edit_history_tweet_ids": [
+            "1273282340182282244"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Africa",
+                    "probability": 0.9557,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "EDP",
+                    "probability": 0.493,
+                    "start": 68,
+                    "type": "Organization"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Mozambique",
+                    "probability": 0.9546,
+                    "start": 153,
+                    "type": "Place"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Kenya",
+                    "probability": 0.9746,
+                    "start": 165,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Tanzania",
+                    "probability": 0.9759,
+                    "start": 172,
+                    "type": "Place"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Nigeria",
+                    "probability": 0.9655,
+                    "start": 182,
+                    "type": "Place"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Malawi",
+                    "probability": 0.9654,
+                    "start": 196,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 21,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 71,
+                    "start": 67,
+                    "tag": "EDP"
+                },
+                {
+                    "end": 107,
+                    "start": 95,
+                    "tag": "GreenEnergy"
+                },
+                {
+                    "end": 144,
+                    "start": 129,
+                    "tag": "AccessToEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edp.com/en/news/2020/0\u2026",
+                    "end": 272,
+                    "expanded_url": "https://www.edp.com/en/news/2020/06/16/edp-sponsors-eight-clean-energy-access-projects-africa-eu500000",
+                    "start": 249,
+                    "unwound_url": "https://www.edp.com/en/news/2020/06/16/edp-sponsors-eight-clean-energy-access-projects-africa-eu500000",
+                    "url": "https://t.co/Cxf46MCino"
+                }
+            ]
+        },
+        "id": "1273282340182282244",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udf31Sustainability \n+ \n\ud83d\udca8#RenewableEnergy \n= \nthe future of Africa \ud83c\udf0d \n\n#EDP will invest \u20ac500K in 8 #GreenEnergy projects through the #AccessToEnergy fund in Mozambique, Kenya, Tanzania, Nigeria &amp; Malawi, changing the lives of over a million people. https://t.co/Cxf46MCino"
+    }
+}

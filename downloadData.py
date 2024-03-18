@@ -5,6 +5,7 @@ import tweepy
 import tqdm
 import math
 import pickle
+import time
 from json.decoder import JSONDecodeError
 from utils import *
 
@@ -32,12 +33,19 @@ class UserDataDownload():
         self.expansions = expansions.split(',')  # Split expansions into list
         self.user_fields = user_fields.split(',')  # Split user fields into list
         self.until_id = until_id  # Set until_id for pagination
-        self.tweets = {}  # Dictionary to store tweets
+        print(f'>>> class initialized for user {self.username}')
+        print(f'>>> initial parameters are:')
+        print(f'>>> tweet fields = {self.tweet_fields}')
+        print(f'>>> media_fields = {self.media_fields}')
+        print(f'>>> user_fields = {self.user_fields}')
+        print(f'>>> expansions = {self.expansions}')
+        print(f'>>> until_id = {self.until_id}')
         
     def set_client(self, wait_on_rate_limit=True):
         # Set Twitter API client with specified parameters
         self.client = tweepy.Client(self.bearer_token, 
                                     wait_on_rate_limit=wait_on_rate_limit)
+        print('>>> client initialized')
         
     def set_user_data(self):
         # Get user data using Twitter API client
@@ -48,16 +56,17 @@ class UserDataDownload():
         print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
         if os.path.exists(self.userlogpath):
             try:
-                json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
-                json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
-                less_recent_tweet_id = json_files[0].replace('.json', '')
+                json_files = [file.replace('.json', '') for file in os.listdir(self.userlogpath) if file.endswith('.json')]
+                json_files.sort()
+                smallest_id = json_files[0].replace('.json', '')
             except IndexError:
-                less_recent_tweet_id = None
+                smallest_id = None
         else:
-            less_recent_tweet_id = None
-            print('>>> no saved data for this user')
-        self.until_id = less_recent_tweet_id
-        print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+            smallest_id = None
+            print(f'>>> no saved data for user {self.username}')
+        
+        self.until_id = smallest_id
+        print(f'>>> retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
               
     def make_dirs(self):
         try:
@@ -77,13 +86,14 @@ class UserDataDownload():
             self.userlogpath = f'data/log/{self.username}'
             if not os.path.exists(self.userlogpath):
                 os.makedirs(self.userlogpath) 
+            print('>>> necessary directories created')
         except OSError as e:
             print(e)
             
-    def set_output_filename(self):
-        # Set output filename for storing tweets
-        self.make_dirs()
-        self.filename = f'{self.useroutdatapath}/{self.username}_tweets.json'
+    # def set_output_filename(self):
+    #     # Set output filename for storing tweets
+    #     self.make_dirs()
+    #     self.filename = f'{self.useroutdatapath}/{self.username}_tweets.json'
             
     # def set_max_tweets(self, bearer_token, n=None):
     #     # Set the maximum number of tweets to download
@@ -111,9 +121,13 @@ class UserDataDownload():
     def dump_tweets(self, tweet, tweet_data):
         if not os.path.exists(f'data/log/{self.username}/{tweet.id}.json'):
             with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
+                print(f'>>> dumping tweet {tweet.id}')
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
         else:
+            print(f'>>> {tweet.id} already dumped, something went wrong')
             raise TweetAlreadyDumpedException
+            exit()
+        print(f'>>> dumped all requested tweets for {self.username}')
         
             
     def update_users_done(self):
@@ -142,7 +156,7 @@ class UserDataDownload():
                                     max_results = max_results)
         
         print('>>> started retrieving tweets')
-        for page in tqdm.tqdm(self.paginator):
+        for page in self.paginator:
             try:
                 next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             except KeyError:
@@ -152,7 +166,7 @@ class UserDataDownload():
                 pickle.dump(page, file)
             
             try:    
-                for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                for tweet in tqdm.tqdm(page.data): #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
                     tweet_data = {tweet.data['id']: tweet.data}
                     self.dump_tweets(tweet, tweet_data)
                     count -= 1
@@ -161,10 +175,17 @@ class UserDataDownload():
             except TypeError:
                 self.update_users_done()
                 return 
+            except TweetAlreadyDumpedException:
+                print('>>> check if unitll_id is set properly')
+                return
                
             if not next_token:
                 self.update_users_done()
                 return     
+            
+            print('>>> going to sleep for 3 minutes')
+            time.sleep(2 * 60) #in this way it does a request every two minutes so it does 7/8 requests every 15 minutes
+            print(">>> slept for three minutes") 
         
     def save(self):
         if len(self.tweets) > 0:
@@ -174,37 +195,37 @@ class UserDataDownload():
         else:
             print('there were no tweets to save')
     
-    def mergedata(self):
-        # Directory containing the JSON files
-        directory = self.userlogpath
+    # def mergedata(self):
+    #     # Directory containing the JSON files
+    #     directory = self.userlogpath
 
-        # Initialize an empty dictionary to store merged data
-        merged_data = {}
+    #     # Initialize an empty dictionary to store merged data
+    #     merged_data = {}
 
-        # Iterate over each JSON file in the directory
-        for filename in os.listdir(directory):
-            if filename.endswith('.json'):
-                filepath = os.path.join(directory, filename)
-                with open(filepath, 'r') as file:
-                    data = json.load(file)
-                    # Extract the tweet ID and its corresponding data
-                    tweet_id = list(data.keys())[0]
-                    tweet_data = data[tweet_id]
-                    # Store the data in the merged dictionary
-                    merged_data[tweet_id] = tweet_data
+    #     # Iterate over each JSON file in the directory
+    #     for filename in os.listdir(directory):
+    #         if filename.endswith('.json'):
+    #             filepath = os.path.join(directory, filename)
+    #             with open(filepath, 'r') as file:
+    #                 data = json.load(file)
+    #                 # Extract the tweet ID and its corresponding data
+    #                 tweet_id = list(data.keys())[0]
+    #                 tweet_data = data[tweet_id]
+    #                 # Store the data in the merged dictionary
+    #                 merged_data[tweet_id] = tweet_data
 
-        # Write the merged data into a new JSON file
-        output_file = f'{self.useroutdatapath}/{self.username}_tweets_merged.json'
-        with open(output_file, 'w') as outfile:
-            json.dump(merged_data, outfile, indent=4)
+    #     # Write the merged data into a new JSON file
+    #     output_file = f'{self.useroutdatapath}/{self.username}_tweets_merged.json'
+    #     with open(output_file, 'w') as outfile:
+    #         json.dump(merged_data, outfile, indent=4)
 
-        print("Merged JSON file created successfully:", output_file)
+    #     print("Merged JSON file created successfully:", output_file)
             
-    def get_tweets(self):
-        return self.tweets
+    # def get_tweets(self):
+    #     return self.tweets
 
-    def get_paginator(self):
-        return self.paginator
+    # def get_paginator(self):
+    #     return self.paginator
 
 
 ''' 

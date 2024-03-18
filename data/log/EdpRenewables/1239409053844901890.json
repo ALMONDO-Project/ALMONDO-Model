@@ -1,0 +1,60 @@
+{
+    "1239409053844901890": {
+        "attachments": {
+            "media_keys": [
+                "3_1237656536161419264"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-16T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1239409053844901890"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "America",
+                    "probability": 0.9298,
+                    "start": 29,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "U.S.",
+                    "probability": 0.8516,
+                    "start": 119,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 39,
+                    "tag": "windpower"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/fXzNH0eS4d",
+                    "end": 169,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1239409053844901890/photo/1",
+                    "media_key": "3_1237656536161419264",
+                    "start": 146,
+                    "url": "https://t.co/fXzNH0eS4d"
+                }
+            ]
+        },
+        "id": "1239409053844901890",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Rural areas represent 99% of America\u2019s #windpower\u00a0capacity, providing enough electricity to power more than 31 million U.S. homes and businesses. https://t.co/fXzNH0eS4d"
+    }
+}

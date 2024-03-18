@@ -1,0 +1,71 @@
+{
+    "1255339021259214848": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-29T03:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1255339021259214848"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6058,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 33,
+                    "normalized_text": "COVID19",
+                    "probability": 0.9769,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "U.S.",
+                    "probability": 0.9295,
+                    "start": 112,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 34,
+                    "start": 26,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 128,
+                    "start": 117,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "aweablog.org/american-wind-\u2026",
+                    "end": 181,
+                    "expanded_url": "https://www.aweablog.org/american-wind-power-supports-covid-19-relief-efforts-in-communities-across-the-country/",
+                    "start": 158,
+                    "url": "https://t.co/y9tb1K1sYv"
+                }
+            ]
+        },
+        "id": "1255339021259214848",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#EDPR is proud to support #COVID19 relief efforts in the communities where we operate. Learn more about how the U.S. #windenergy industry is responding here: https://t.co/y9tb1K1sYv"
+    }
+}

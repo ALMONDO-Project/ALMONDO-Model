@@ -1,0 +1,81 @@
+{
+    "1272011138365116417": {
+        "attachments": {
+            "media_keys": [
+                "3_1272011137098317825"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-14T03:41:02.000Z",
+        "edit_history_tweet_ids": [
+            "1272011138365116417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Turtle Creek Wind Farm",
+                    "probability": 0.5853,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "Mitchell County",
+                    "probability": 0.9006,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Iowa",
+                    "probability": 0.9598,
+                    "start": 47,
+                    "type": "Place"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4688,
+                    "start": 144,
+                    "type": "Organization"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "American",
+                    "probability": 0.45,
+                    "start": 157,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 148,
+                    "start": 143,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ukFOv2Hzyq",
+                    "end": 196,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1272011138365116417/photo/1",
+                    "media_key": "3_1272011137098317825",
+                    "start": 173,
+                    "url": "https://t.co/ukFOv2Hzyq"
+                }
+            ]
+        },
+        "id": "1272011138365116417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Our Turtle Creek Wind Farm in Mitchell County, Iowa, consists of 40 3.6 MW wind turbines and 16 3.45 MW wind turbines - some of the largest in #EDPR's North American fleet! https://t.co/ukFOv2Hzyq"
+    }
+}

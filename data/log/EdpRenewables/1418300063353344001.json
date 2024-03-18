@@ -1,0 +1,78 @@
+{
+    "1418300063353344001": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-22T20:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1418300063353344001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Sean Ratka",
+                    "probability": 0.7726,
+                    "start": 9,
+                    "type": "Person"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Paul Durrant",
+                    "probability": 0.9051,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "Francisco Boshell",
+                    "probability": 0.8425,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "IRENA",
+                    "probability": 0.4245,
+                    "start": 82,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 252,
+                    "start": 226,
+                    "tag": "TowardsASustainableFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 6,
+                    "id": "1926360631",
+                    "start": 0,
+                    "username": "IRENA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kPWcCJ",
+                    "end": 224,
+                    "expanded_url": "https://bit.ly/3kPWcCJ",
+                    "start": 201,
+                    "status": 200,
+                    "unwound_url": "https://www.smart-energy.com/renewable-energy/best-strategies-to-speed-up-buildings-transport-industry-decarbonisation/?linkId=100000056566642",
+                    "url": "https://t.co/9bUfFC0FIu"
+                }
+            ]
+        },
+        "id": "1418300063353344001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@IRENA\u2019s Sean Ratka, Paul Durrant and Francisco Boshell summarize the findings of IRENA\u2019s 4-day \u201cInnovation Week\u201d. They focus on the decarbonisation of end-use sectors: buildings, transport, industry. https://t.co/9bUfFC0FIu\n\n#TowardsASustainableFuture"
+    }
+}

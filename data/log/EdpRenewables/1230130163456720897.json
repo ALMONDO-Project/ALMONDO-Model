@@ -1,0 +1,47 @@
+{
+    "1230130163456720897": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-19T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1230130163456720897"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 155,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4801,
+                    "start": 141,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 156,
+                    "start": 140,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "finance.yahoo.com/news/renewable\u2026",
+                    "end": 181,
+                    "expanded_url": "https://finance.yahoo.com/news/renewable-energy-worldwide-100-200000145.html",
+                    "start": 158,
+                    "url": "https://t.co/gYMNoIsitR"
+                }
+            ]
+        },
+        "id": "1230130163456720897",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The next generation of people need to motivate their workplaces and their communities to install utility scale energy storage packaged with #RenewableEnergy.\nhttps://t.co/gYMNoIsitR"
+    }
+}

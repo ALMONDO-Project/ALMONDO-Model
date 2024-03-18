@@ -1,0 +1,64 @@
+{
+    "1291829933027856385": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-07T20:13:51.000Z",
+        "edit_history_tweet_ids": [
+            "1291829933027856385"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Siberia",
+                    "probability": 0.9674,
+                    "start": 36,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 115,
+                    "start": 101,
+                    "tag": "ClimateChange"
+                },
+                {
+                    "end": 124,
+                    "start": 118,
+                    "tag": "Fires"
+                },
+                {
+                    "end": 139,
+                    "start": 125,
+                    "tag": "ClimateAction"
+                },
+                {
+                    "end": 158,
+                    "start": 140,
+                    "tag": "TheWorldIsBurning"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "weforum.org/agenda/2020/07\u2026",
+                    "end": 182,
+                    "expanded_url": "https://www.weforum.org/agenda/2020/07/siberia-heatwave-forest-fire-climate-change/",
+                    "start": 159,
+                    "status": 200,
+                    "unwound_url": "https://www.weforum.org/agenda/2020/07/siberia-heatwave-forest-fire-climate-change/",
+                    "url": "https://t.co/IyLlkxgAD4"
+                }
+            ]
+        },
+        "id": "1291829933027856385",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83d\udd25 Recent heatwaves and fires across Siberia would have been 'almost impossible' without human-caused #ClimateChange.\n\n#Fires #ClimateAction #TheWorldIsBurning https://t.co/IyLlkxgAD4"
+    }
+}

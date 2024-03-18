@@ -1,0 +1,52 @@
+{
+    "1313858578487349250": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-07T15:07:50.000Z",
+        "edit_history_tweet_ids": [
+            "1313858578487349250"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Germany",
+                    "probability": 0.9844,
+                    "start": 0,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 25,
+                    "tag": "decarbonization"
+                },
+                {
+                    "end": 115,
+                    "start": 99,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/36FUzAh",
+                    "end": 141,
+                    "expanded_url": "https://bit.ly/36FUzAh",
+                    "start": 118,
+                    "url": "https://t.co/ykw5ZnHz1d"
+                }
+            ]
+        },
+        "id": "1313858578487349250",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Germany is on its way to #decarbonization \ud83d\udc49 by 2030 65% of the nation's electricity will come from #RenewableEnergy \n\nhttps://t.co/ykw5ZnHz1d"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1336430629467148300": {
+        "attachments": {
+            "media_keys": [
+                "16_1336430604817199108"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-08T22:01:06.000Z",
+        "edit_history_tweet_ids": [
+            "1336430629467148300"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Offshore",
+                    "probability": 0.4835,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 0,
+                    "tag": "Offshore"
+                },
+                {
+                    "end": 135,
+                    "start": 123,
+                    "tag": "BlueEconomy"
+                },
+                {
+                    "end": 195,
+                    "start": 179,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2Isbtc1",
+                    "end": 177,
+                    "expanded_url": "https://bit.ly/2Isbtc1",
+                    "start": 154,
+                    "url": "https://t.co/s5h9MlFdsG"
+                },
+                {
+                    "display_url": "pic.twitter.com/0ifFFWGE1c",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1336430629467148300/photo/1",
+                    "media_key": "16_1336430604817199108",
+                    "start": 196,
+                    "url": "https://t.co/0ifFFWGE1c"
+                }
+            ]
+        },
+        "id": "1336430629467148300",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#Offshore can help meet energy needs for shipping, cooling and water desalination, laying the foundation for a broad-based #BlueEconomy and industry. \ud83c\udf0a \ud83d\udc49 https://t.co/s5h9MlFdsG\n\n#RenewableEnergy https://t.co/0ifFFWGE1c"
+    }
+}

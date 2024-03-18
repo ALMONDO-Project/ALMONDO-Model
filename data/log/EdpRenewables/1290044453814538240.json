@@ -1,0 +1,63 @@
+{
+    "1290044453814538240": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-02T21:59:00.000Z",
+        "edit_history_tweet_ids": [
+            "1290044453814538240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5957,
+                    "start": 35,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 34,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Storage helps solar contribute to the electricity supply even when the sun isn\u2019t shining by releasing the energy when it's needed.",
+                    "display_url": "energy.gov/eere/solar/sol\u2026",
+                    "end": 148,
+                    "expanded_url": "https://www.energy.gov/eere/solar/solar-integration-solar-energy-and-storage-basics",
+                    "images": [
+                        {
+                            "height": 3723,
+                            "url": "https://pbs.twimg.com/news_img/1733392449249116160/vtLUxLLT?format=jpg&name=orig",
+                            "width": 5496
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1733392449249116160/vtLUxLLT?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 125,
+                    "status": 200,
+                    "title": "Solar Integration: Solar Energy and Storage Basics",
+                    "unwound_url": "https://www.energy.gov/eere/solar/solar-integration-solar-energy-and-storage-basics",
+                    "url": "https://t.co/UdfSDDalg8"
+                }
+            ]
+        },
+        "id": "1290044453814538240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udd0b Storage is a burgeoning area of #EDPR's growth plans. Curious about the science behind the technology? \n\nLearn more here:  https://t.co/UdfSDDalg8"
+    }
+}

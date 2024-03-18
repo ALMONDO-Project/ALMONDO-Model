@@ -1,0 +1,60 @@
+{
+    "1229624581608087553": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-18T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1229624581608087553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "EnergyTransition",
+                    "probability": 0.4807,
+                    "start": 23,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 22,
+                    "tag": "EnergyTransition"
+                },
+                {
+                    "end": 88,
+                    "start": 72,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 51,
+                    "id": "1926360631",
+                    "start": 45,
+                    "username": "IRENA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "irena.org/newsroom/press\u2026",
+                    "end": 169,
+                    "expanded_url": "https://irena.org/newsroom/pressreleases/2020/Jan/Energy-Transformation-Can-Create-More-than-40m-Jobs-in-Renewable-Energy",
+                    "start": 146,
+                    "url": "https://t.co/ucb4SmQQ95"
+                }
+            ]
+        },
+        "id": "1229624581608087553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Are you ready for the #EnergyTransition? New @IRENA report predicts the #renewableenergy sector could employ more than 40 million people by 2050. https://t.co/ucb4SmQQ95"
+    }
+}

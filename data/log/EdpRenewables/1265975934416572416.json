@@ -1,0 +1,98 @@
+{
+    "1265975934416572416": {
+        "attachments": {
+            "media_keys": [
+                "7_1265975901931671557"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-28T11:59:18.000Z",
+        "edit_history_tweet_ids": [
+            "1265975934416572416"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "WindFloat",
+                    "probability": 0.3988,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "Atlantic",
+                    "probability": 0.7844,
+                    "start": 24,
+                    "type": "Place"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "Ferrol",
+                    "probability": 0.9581,
+                    "start": 163,
+                    "type": "Place"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "WFA",
+                    "probability": 0.3751,
+                    "start": 262,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 23,
+                    "start": 13,
+                    "tag": "WindFloat"
+                },
+                {
+                    "end": 147,
+                    "start": 130,
+                    "tag": "floatingwindfarm"
+                },
+                {
+                    "end": 265,
+                    "start": 261,
+                    "tag": "WFA"
+                },
+                {
+                    "end": 275,
+                    "start": 266,
+                    "tag": "offshore"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/0\u2026",
+                    "end": 259,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/05/28/last-platform-worlds-first-semi-submersible-floating-wind-farm-sets-sail",
+                    "start": 236,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/last-platform-worlds-first-semi-submersible-floating-wind-farm-sets-sail",
+                    "url": "https://t.co/hKUCaPirtF"
+                },
+                {
+                    "display_url": "pic.twitter.com/LchKKJkViG",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1265975934416572416/video/1",
+                    "media_key": "7_1265975901931671557",
+                    "start": 276,
+                    "url": "https://t.co/LchKKJkViG"
+                }
+            ]
+        },
+        "id": "1265975934416572416",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Great news!! #WindFloat Atlantic is on its way to be fully operational!!\n\nThe last platform of the world\u2019s first semi-submersible #floatingwindfarm sets sail from Ferrol to its location 20km off the Portuguese coast \u26f5\ufe0f \n\nFind out more: https://t.co/hKUCaPirtF\n\n#WFA #offshore https://t.co/LchKKJkViG"
+    }
+}

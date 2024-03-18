@@ -1,0 +1,75 @@
+{
+    "1230099826295087106": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-19T12:00:27.000Z",
+        "edit_history_tweet_ids": [
+            "1230099826295087106"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4419,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "U.S.",
+                    "probability": 0.9013,
+                    "start": 48,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Meridian Way Wind Farm",
+                    "probability": 0.5609,
+                    "start": 116,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Cloud County",
+                    "probability": 0.8084,
+                    "start": 142,
+                    "type": "Place"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Kansas",
+                    "probability": 0.9455,
+                    "start": 156,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "usatoday.com/story/news/nat\u2026",
+                    "end": 193,
+                    "expanded_url": "https://www.usatoday.com/story/news/nation/2020/02/16/wind-energy-can-help-american-farmers-earn-money-avoid-bankruptcy/4695670002/",
+                    "start": 170,
+                    "url": "https://t.co/ASwKIqQUlV"
+                }
+            ]
+        },
+        "id": "1230099826295087106",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#EDPR supports rural communities throughout the U.S. at our wind farms and solar parks. Read more about our work at Meridian Way Wind Farm in Cloud County, Kansas here \ud83d\udc47\nhttps://t.co/ASwKIqQUlV"
+    }
+}

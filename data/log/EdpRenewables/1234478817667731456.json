@@ -1,0 +1,47 @@
+{
+    "1234478817667731456": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-02T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1234478817667731456"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 141,
+                    "normalized_text": "Energ\u00edaVerde",
+                    "probability": 0.3688,
+                    "start": 130,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 142,
+                    "start": 129,
+                    "tag": "Energ\u00edaVerde"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ielektro.es/2020/02/19/ind\u2026",
+                    "end": 166,
+                    "expanded_url": "https://ielektro.es/2020/02/19/industria-utilizar-energia-verde/",
+                    "start": 143,
+                    "url": "https://t.co/HpdyWR4GSP"
+                }
+            ]
+        },
+        "id": "1234478817667731456",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "En cinco a\u00f1os, las grandes empresas de la industria espa\u00f1ola que tengan altos costes energ\u00e9ticos tendr\u00e1n que cerrar contratos de #Energ\u00edaVerde\nhttps://t.co/HpdyWR4GSP"
+    }
+}

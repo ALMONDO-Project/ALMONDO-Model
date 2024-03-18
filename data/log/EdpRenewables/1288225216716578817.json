@@ -1,0 +1,63 @@
+{
+    "1288225216716578817": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-28T21:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1288225216716578817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4403,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "California",
+                    "probability": 0.9763,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "Texas",
+                    "probability": 0.9923,
+                    "start": 83,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 50,
+                    "start": 34,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "greenbiz.com/article/five-t\u2026",
+                    "end": 171,
+                    "expanded_url": "https://www.greenbiz.com/article/five-trends-us-cities-and-counties-are-going-renewable",
+                    "start": 148,
+                    "status": 200,
+                    "unwound_url": "https://www.greenbiz.com/article/five-trends-us-cities-and-counties-are-going-renewable",
+                    "url": "https://t.co/KK8bRUsxAf"
+                }
+            ]
+        },
+        "id": "1288225216716578817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Cities and states are leading the #RenewableEnergy revolution, with California and Texas representing 84 percent of purchases by local governments. https://t.co/KK8bRUsxAf"
+    }
+}

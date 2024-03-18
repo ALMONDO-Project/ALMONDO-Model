@@ -1,0 +1,95 @@
+{
+    "1246279323918581760": {
+        "attachments": {
+            "media_keys": [
+                "3_1245031254111793152"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-04T03:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1246279323918581760"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.3974,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "South Branch Wind Farm",
+                    "probability": 0.505,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "United",
+                    "probability": 0.4641,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Stormont",
+                    "probability": 0.751,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Dundas",
+                    "probability": 0.9401,
+                    "start": 97,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Glengarry",
+                    "probability": 0.7648,
+                    "start": 109,
+                    "type": "Place"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Ontario",
+                    "probability": 0.9534,
+                    "start": 120,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/S9sX6s1Mt9",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1246279323918581760/photo/1",
+                    "media_key": "3_1245031254111793152",
+                    "start": 201,
+                    "url": "https://t.co/S9sX6s1Mt9"
+                }
+            ]
+        },
+        "id": "1246279323918581760",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR brought our first Canadian project, South Branch Wind Farm in United Counties of Stormont, Dundas, and Glengarry, Ontario, online in 2014. The 30 MW project consists of 10 turbines at 3 MW each. https://t.co/S9sX6s1Mt9"
+    }
+}

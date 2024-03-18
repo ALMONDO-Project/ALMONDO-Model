@@ -1,0 +1,59 @@
+{
+    "1418556754795847684": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-23T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1418556754795847684"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.4904,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "G20",
+                    "probability": 0.5472,
+                    "start": 49,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 18,
+                    "tag": "WindEnergy"
+                },
+                {
+                    "end": 131,
+                    "start": 115,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/36UqLio",
+                    "end": 113,
+                    "expanded_url": "https://bit.ly/36UqLio",
+                    "start": 90,
+                    "url": "https://t.co/5DBggYxVHr"
+                }
+            ]
+        },
+        "id": "1418556754795847684",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "CEOs from leading #WindEnergy companies call for G20 to raise ambitions on clean power. \n\nhttps://t.co/5DBggYxVHr\n\n#RenewableEnergy"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "1327356575418363906": {
+        "attachments": {
+            "media_keys": [
+                "3_1327356567524663296",
+                "3_1327356573182791681"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-13T21:04:03.000Z",
+        "edit_history_tweet_ids": [
+            "1327356575418363906"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "Los Cuervos Solar Park",
+                    "probability": 0.7295,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "Aguascalientes",
+                    "probability": 0.9324,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4451,
+                    "start": 88,
+                    "type": "Organization"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Mexico",
+                    "probability": 0.7646,
+                    "start": 135,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 92,
+                    "start": 87,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 124,
+                    "start": 113,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/lWhNNKWLfu",
+                    "end": 169,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1327356575418363906/photo/1",
+                    "media_key": "3_1327356567524663296",
+                    "start": 146,
+                    "url": "https://t.co/lWhNNKWLfu"
+                },
+                {
+                    "display_url": "pic.twitter.com/lWhNNKWLfu",
+                    "end": 169,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1327356575418363906/photo/1",
+                    "media_key": "3_1327356573182791681",
+                    "start": 146,
+                    "url": "https://t.co/lWhNNKWLfu"
+                }
+            ]
+        },
+        "id": "1327356575418363906",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "With our 200 MW Los Cuervos Solar Park in Aguascalientes currently under construction, #EDPR is on track to be a #windenergy leader in Mexico. \ud83c\uddf2\ud83c\uddfd https://t.co/lWhNNKWLfu"
+    }
+}

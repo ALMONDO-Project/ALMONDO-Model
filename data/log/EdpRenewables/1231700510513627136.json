@@ -1,0 +1,81 @@
+{
+    "1231700510513627136": {
+        "attachments": {
+            "media_keys": [
+                "3_1229415644073988101"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-23T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1231700510513627136"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Eolica",
+                    "probability": 0.5182,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "Coahuila Wind Farm",
+                    "probability": 0.4285,
+                    "start": 47,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Coahuila",
+                    "probability": 0.8621,
+                    "start": 69,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Mexico",
+                    "probability": 0.9637,
+                    "start": 79,
+                    "type": "Place"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Coahuila",
+                    "probability": 0.9454,
+                    "start": 118,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "tbt"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/4nQqa8OHXY",
+                    "end": 177,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1231700510513627136/photo/1",
+                    "media_key": "3_1229415644073988101",
+                    "start": 154,
+                    "url": "https://t.co/4nQqa8OHXY"
+                }
+            ]
+        },
+        "id": "1231700510513627136",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#tbt to the dedication of our 200 MW Eolica de Coahuila Wind Farm in Coahuila, Mexico. The project was the largest in Coahuila when commissioned in 2017. https://t.co/4nQqa8OHXY"
+    }
+}

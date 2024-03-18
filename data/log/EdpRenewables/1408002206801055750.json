@@ -1,0 +1,49 @@
+{
+    "1408002206801055750": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-06-24T10:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1408002206801055750"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.8908,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 0,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nyti.ms/3j3ft2n",
+                    "end": 50,
+                    "expanded_url": "https://nyti.ms/3j3ft2n",
+                    "start": 27,
+                    "status": 200,
+                    "unwound_url": "https://www.nytimes.com/article/climate-change-global-warming-faq.html?linkId=100000051311990",
+                    "url": "https://t.co/8JN0Vm7I3P"
+                }
+            ]
+        },
+        "id": "1408002206801055750",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#ClimateChange explained \ud83d\udc49 https://t.co/8JN0Vm7I3P\n\n\ud83c\udf31"
+    }
+}

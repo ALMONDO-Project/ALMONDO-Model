@@ -1,0 +1,65 @@
+{
+    "1397941938331000832": {
+        "attachments": {
+            "media_keys": [
+                "3_1397941936057688066"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-27T15:45:05.000Z",
+        "edit_history_tweet_ids": [
+            "1397941938331000832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5697,
+                    "start": 16,
+                    "type": "Organization"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "DNA",
+                    "probability": 0.8516,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 15,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 52,
+                    "start": 30,
+                    "tag": "diversityandinclusion"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/JvBzp1A5jv",
+                    "end": 120,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1397941938331000832/photo/1",
+                    "media_key": "3_1397941936057688066",
+                    "start": 97,
+                    "url": "https://t.co/JvBzp1A5jv"
+                }
+            ]
+        },
+        "id": "1397941938331000832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udd1d Did you know #EDPR promotes #diversityandinclusion as essential elements of the company's DNA? https://t.co/JvBzp1A5jv"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "1471059102365270022": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-12-15T10:06:35.000Z",
+        "edit_history_tweet_ids": [
+            "1471059102365270022"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "ClimateCapital",
+                    "probability": 0.6418,
+                    "start": 4,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 3,
+                    "tag": "ClimateCapital"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3oUOrwB",
+                    "end": 187,
+                    "expanded_url": "https://bit.ly/3oUOrwB",
+                    "start": 164,
+                    "status": 200,
+                    "unwound_url": "https://www.greentechmedia.com/articles/read/what-emerging-climate-tech-sectors-are-ready-for-growth?linkId=100000095289504",
+                    "url": "https://t.co/lAcXId6nUj"
+                }
+            ]
+        },
+        "id": "1471059102365270022",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udcc8  #ClimateCapital is growing and billions of dollars are being used for wind, solar and batteries technologies. But some areas will be having a higher impact  \ud83d\udc47 \n\nhttps://t.co/lAcXId6nUj"
+    }
+}

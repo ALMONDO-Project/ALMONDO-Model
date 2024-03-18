@@ -1,0 +1,52 @@
+{
+    "1238948267876061188": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-14T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1238948267876061188"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7749,
+                    "start": 74,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 73,
+                    "tag": "ClimateChange"
+                },
+                {
+                    "end": 143,
+                    "start": 131,
+                    "tag": "CleanEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "techcrunch.com/2020/03/04/sus\u2026",
+                    "end": 167,
+                    "expanded_url": "https://techcrunch.com/2020/03/04/sustainable-microgrids-are-the-future-of-clean-energy/",
+                    "start": 144,
+                    "url": "https://t.co/9phaEASRbC"
+                }
+            ]
+        },
+        "id": "1238948267876061188",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Sustainable microgrids are emerging as a vital tool in the fight against #ClimateChange and increasingly common natural disasters. #CleanEnergy\nhttps://t.co/9phaEASRbC"
+    }
+}

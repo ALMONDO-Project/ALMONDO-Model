@@ -1,0 +1,62 @@
+{
+    "1248234457254858753": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-09T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1248234457254858753"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "EDPR",
+                    "probability": 0.7035,
+                    "start": 10,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 9,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 134,
+                    "start": 121,
+                    "tag": "Annualreport"
+                },
+                {
+                    "end": 151,
+                    "start": 135,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 171,
+                    "start": 152,
+                    "tag": "WeTrustInTheFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/investors/i\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.edpr.com/en/investors/investor-information/edpr-annual-report-online-2019",
+                    "start": 172,
+                    "url": "https://t.co/EUR2a2HmE7"
+                }
+            ]
+        },
+        "id": "1248234457254858753",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "In 2019, #EDPR\u2019s production grew a 6% more than in 2018, and for the period 2020-22 our capacity will go up to 4.4 GW \ud83d\udcaa. #Annualreport #RenewableEnergy #WeTrustInTheFuture\nhttps://t.co/EUR2a2HmE7"
+    }
+}

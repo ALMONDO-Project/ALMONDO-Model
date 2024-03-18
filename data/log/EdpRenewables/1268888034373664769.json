@@ -1,0 +1,57 @@
+{
+    "1268888034373664769": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-05T12:50:56.000Z",
+        "edit_history_tweet_ids": [
+            "1268888034373664769"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 179,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4726,
+                    "start": 176,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 0,
+                    "tag": "WindFloatAtlantic"
+                },
+                {
+                    "end": 60,
+                    "start": 45,
+                    "tag": "OffshoreEnergy"
+                },
+                {
+                    "end": 180,
+                    "start": 175,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nytimes.com/2020/06/04/cli\u2026",
+                    "end": 255,
+                    "expanded_url": "https://www.nytimes.com/2020/06/04/climate/floating-windmills-fight-climate-change.html",
+                    "start": 232,
+                    "url": "https://t.co/9TwoF2XC1u"
+                }
+            ]
+        },
+        "id": "1268888034373664769",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#WindFloatAtlantic is ready to revolutionize #OffshoreEnergy \ud83d\udca8\n\nAs our Project Director puts it \ud83d\udcac: \u201cWe can go to areas where we have never before harnessed the wind.\u201d \n\n\ud83c\udfc1 And #EDPR is looking forward to this bright (windy) future!\n https://t.co/9TwoF2XC1u"
+    }
+}

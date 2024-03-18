@@ -1,0 +1,42 @@
+{
+    "1493223507425218562": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-14T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1493223507425218562"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Winter Olympics",
+                    "probability": 0.9162,
+                    "start": 12,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3GOvYre",
+                    "end": 184,
+                    "expanded_url": "https://bit.ly/3GOvYre",
+                    "start": 161,
+                    "status": 200,
+                    "unwound_url": "https://www.vox.com/22905168/beijing-winter-olympics-2022-climate-change-snow?linkId=100000109548122",
+                    "url": "https://t.co/sKoBKJnn5h"
+                }
+            ]
+        },
+        "id": "1493223507425218562",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u26f7\ufe0f  Are the Winter Olympics in the brink of extinction? This the first time that the Games are using artificial snow, so... What's the future of winter sports?\n\nhttps://t.co/sKoBKJnn5h"
+    }
+}

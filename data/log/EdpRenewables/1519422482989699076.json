@@ -1,0 +1,49 @@
+{
+    "1519422482989699076": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-27T21:05:24.000Z",
+        "edit_history_tweet_ids": [
+            "1519422482989699076"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 182,
+                    "normalized_text": "South Pole",
+                    "probability": 0.7403,
+                    "start": 173,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 14,
+                    "tag": "WorldPenguinDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "reut.rs/3vKSKgw",
+                    "end": 212,
+                    "expanded_url": "https://reut.rs/3vKSKgw",
+                    "start": 189,
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/business/cop/penguins-offer-varied-clues-antarctic-climate-change-2022-02-01/?linkId=100000122619905",
+                    "url": "https://t.co/Ozcc581xJd"
+                }
+            ]
+        },
+        "id": "1519422482989699076",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc27  On today's #WorldPenguinDay we'd like to recall the importance of these cute animals.\n\nDid you know penguins are key indicators for understanding climate change near the South Pole? \ud83d\udc47 \n\nhttps://t.co/Ozcc581xJd"
+    }
+}

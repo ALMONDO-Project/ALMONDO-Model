@@ -1,0 +1,75 @@
+{
+    "1517510585004568576": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-22T14:28:12.000Z",
+        "edit_history_tweet_ids": [
+            "1517510585004568576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4096,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Mississippi County",
+                    "probability": 0.9391,
+                    "start": 103,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Madison County",
+                    "probability": 0.9478,
+                    "start": 136,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Randolph County",
+                    "probability": 0.94,
+                    "start": 165,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 47,
+                    "start": 35,
+                    "tag": "greenenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3MsKFnn",
+                    "end": 250,
+                    "expanded_url": "https://bit.ly/3MsKFnn",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2022/04/22/edpr-secures-ppas-a-425-mw-solar-portfolio-us?linkId=100000121717805",
+                    "url": "https://t.co/0UceMwHbVa"
+                }
+            ]
+        },
+        "id": "1517510585004568576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR has secured PPAs to sell the #greenenergy produced by a 425 MWac solar portfolio in the \ud83c\uddfa\ud83c\uddf8: \n\n\ud83d\udc49  Mississippi County (175 MWac)\n\ud83d\udc49  Madison County (100 MWac)\n\ud83d\udc49  Randolph County (150 MWac)\n\nFind out more on this deal here \ud83d\udc47 https://t.co/0UceMwHbVa"
+    }
+}

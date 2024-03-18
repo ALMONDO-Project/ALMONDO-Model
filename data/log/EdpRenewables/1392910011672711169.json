@@ -1,0 +1,60 @@
+{
+    "1392910011672711169": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-13T18:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1392910011672711169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "RenewableElectricity",
+                    "probability": 0.5171,
+                    "start": 5,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 4,
+                    "tag": "RenewableElectricity"
+                },
+                {
+                    "end": 205,
+                    "start": 189,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 160,
+                    "id": "84679163",
+                    "start": 156,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3bnNBlb",
+                    "end": 187,
+                    "expanded_url": "https://bit.ly/3bnNBlb",
+                    "start": 164,
+                    "url": "https://t.co/xbbqxok4bK"
+                }
+            ]
+        },
+        "id": "1392910011672711169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "New #RenewableElectricity capacity added in 2020 rose by 45%, compared with 2019, to 280GW, the fastest rate since 1999, according to a new report from the @IEA \ud83d\udc49  https://t.co/xbbqxok4bK\n\n#Decarbonization"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "1441056639004651525": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-23T15:07:30.000Z",
+        "edit_history_tweet_ids": [
+            "1441056639004651525"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5402,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Sharp Hills",
+                    "probability": 0.7557,
+                    "start": 78,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "361313270",
+                    "start": 34,
+                    "username": "TCEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kzNqIj",
+                    "end": 128,
+                    "expanded_url": "https://bit.ly/3kzNqIj",
+                    "start": 105,
+                    "unwound_url": "https://bit.ly/3kzNqIj",
+                    "url": "https://t.co/UYdQmdeTyQ"
+                }
+            ]
+        },
+        "id": "1441056639004651525",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "EDPR has closed an agreement with @TCEnergy to sell the green energy from its Sharp Hills wind farm. \ud83d\udc47 \ud83d\udc47 https://t.co/UYdQmdeTyQ"
+    }
+}

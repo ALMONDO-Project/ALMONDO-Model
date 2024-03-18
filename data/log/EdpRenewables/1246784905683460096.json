@@ -1,0 +1,55 @@
+{
+    "1246784905683460096": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-05T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1246784905683460096"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Europe",
+                    "probability": 0.9763,
+                    "start": 0,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 151,
+                    "start": 135,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 183,
+                    "id": "701779148679815169",
+                    "start": 175,
+                    "username": "EASE_ES"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theguardian.com/business/2020/\u2026",
+                    "end": 208,
+                    "expanded_url": "https://www.theguardian.com/business/2020/mar/23/energy-storage-boom-stalls-in-europe",
+                    "start": 185,
+                    "url": "https://t.co/D0tXC5x2f7"
+                }
+            ]
+        },
+        "id": "1246784905683460096",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Europe\u2019s energy storage boom stalled last year due to a slowdown in large-scale schemes designed to store clean electricity from major #RenewableEnergy projects, according to @EASE_ES.\nhttps://t.co/D0tXC5x2f7"
+    }
+}

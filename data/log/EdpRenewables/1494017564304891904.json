@@ -1,0 +1,60 @@
+{
+    "1494017564304891904": {
+        "attachments": {
+            "media_keys": [
+                "7_1494014240033812482"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-16T18:35:19.000Z",
+        "edit_history_tweet_ids": [
+            "1494017564304891904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5306,
+                    "start": 8,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 208,
+                    "start": 191,
+                    "tag": "EnergyTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/edpr-f\u2026",
+                    "end": 189,
+                    "expanded_url": "https://www.edpr.com/en/news/edpr-fy21-results-presentation",
+                    "start": 166,
+                    "url": "https://t.co/NrwAefsSkQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/PWzDN5rd4E",
+                    "end": 232,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1494017564304891904/video/1",
+                    "media_key": "7_1494014240033812482",
+                    "start": 209,
+                    "url": "https://t.co/PWzDN5rd4E"
+                }
+            ]
+        },
+        "id": "1494017564304891904",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udccaToday, EDPR presented its final year results to the market.\n\nGet to know some of the highlights and find all the details in our results report just released here\u2b07\ufe0f \nhttps://t.co/NrwAefsSkQ\n\n#EnergyTransition https://t.co/PWzDN5rd4E"
+    }
+}

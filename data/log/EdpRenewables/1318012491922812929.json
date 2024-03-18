@@ -1,0 +1,49 @@
+{
+    "1318012491922812929": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-19T02:14:00.000Z",
+        "edit_history_tweet_ids": [
+            "1318012491922812929"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "GreenInnovation",
+                    "probability": 0.4475,
+                    "start": 9,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 8,
+                    "tag": "GreenInnovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/31gETQm",
+                    "end": 67,
+                    "expanded_url": "https://bit.ly/31gETQm",
+                    "start": 44,
+                    "status": 200,
+                    "unwound_url": "https://www.thenationalnews.com/opinion/comment/innovation-in-renewable-energy-is-about-more-than-new-tech-1.1089953?linkId=100000016896889",
+                    "url": "https://t.co/hgGpqB5qzk"
+                }
+            ]
+        },
+        "id": "1318012491922812929",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "What is #GreenInnovation all about? \ud83d\udc47 \n\n\ud83c\udf31 \n\nhttps://t.co/hgGpqB5qzk"
+    }
+}

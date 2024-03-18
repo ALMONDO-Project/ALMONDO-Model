@@ -1,0 +1,55 @@
+{
+    "1260411947947823106": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-13T03:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1260411947947823106"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.3349,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 16,
+                    "start": 0,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 129,
+                    "id": "1614411",
+                    "start": 123,
+                    "username": "edans"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "forbes.com/sites/enriqued\u2026",
+                    "end": 203,
+                    "expanded_url": "https://www.forbes.com/sites/enriquedans/2020/05/03/in-a-post-pandemic-world-renewable-energy-is-the-only-wayforward/#5004392117b6",
+                    "start": 180,
+                    "url": "https://t.co/64fhZrmYQt"
+                }
+            ]
+        },
+        "id": "1260411947947823106",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "#RenewableEnergy represented 72% of new energy capacity last year. Will that total increase in a post-pandemic economy? As @edans writes, renewable energy is the only way forward. https://t.co/64fhZrmYQt"
+    }
+}

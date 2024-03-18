@@ -1,0 +1,86 @@
+{
+    "1232886072293543936": {
+        "attachments": {
+            "media_keys": [
+                "3_1232271949264556032"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-27T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1232886072293543936"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Prairie Star Wind Farm",
+                    "probability": 0.674,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5341,
+                    "start": 41,
+                    "type": "Organization"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Minnesota",
+                    "probability": 0.9762,
+                    "start": 54,
+                    "type": "Place"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "Mower County",
+                    "probability": 0.9674,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Minnesota",
+                    "probability": 0.9468,
+                    "start": 170,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 40,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 143,
+                    "start": 126,
+                    "tag": "cleanelectricity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FeMpB8rOyZ",
+                    "end": 220,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1232886072293543936/photo/1",
+                    "media_key": "3_1232271949264556032",
+                    "start": 197,
+                    "url": "https://t.co/FeMpB8rOyZ"
+                }
+            ]
+        },
+        "id": "1232886072293543936",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Did you know? Prairie Star Wind Farm is #EDPR\u2019s first Minnesota project. Located in Mower County, the project produces enough #cleanelectricity to power more than 34,000 Minnesota homes each year! https://t.co/FeMpB8rOyZ"
+    }
+}

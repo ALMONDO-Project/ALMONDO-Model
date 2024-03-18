@@ -1,0 +1,47 @@
+{
+    "1283239614644457472": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-15T03:19:00.000Z",
+        "edit_history_tweet_ids": [
+            "1283239614644457472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "solarrevolution",
+                    "probability": 0.6958,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 20,
+                    "tag": "solarrevolution"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "forbes.com/sites/enriqued\u2026",
+                    "end": 64,
+                    "expanded_url": "https://www.forbes.com/sites/enriquedans/2020/05/21/what-the-post-pandemic-world-needs-is-a-solar-energy-revolution/#797c2434151e",
+                    "start": 41,
+                    "url": "https://t.co/vFL9aAv1n3"
+                }
+            ]
+        },
+        "id": "1283239614644457472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Are you ready for a #solarrevolution? \u2600\ufe0f https://t.co/vFL9aAv1n3"
+    }
+}

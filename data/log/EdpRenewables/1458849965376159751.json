@@ -1,0 +1,94 @@
+{
+    "1458849965376159751": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-11-11T17:31:50.000Z",
+        "edit_history_tweet_ids": [
+            "1458849965376159751"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "WindFloat",
+                    "probability": 0.3582,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "Atlantic",
+                    "probability": 0.3533,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "Europe",
+                    "probability": 0.929,
+                    "start": 40,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "WebSummit",
+                    "probability": 0.702,
+                    "start": 183,
+                    "type": "Other"
+                },
+                {
+                    "end": 209,
+                    "normalized_text": "COP26",
+                    "probability": 0.8902,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 192,
+                    "start": 182,
+                    "tag": "WebSummit"
+                },
+                {
+                    "end": 210,
+                    "start": 204,
+                    "tag": "COP26"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 122,
+                    "id": "74720323",
+                    "start": 118,
+                    "username": "EIB"
+                },
+                {
+                    "end": 142,
+                    "id": "193301414",
+                    "start": 127,
+                    "username": "EUScienceInnov"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/EIB/status/145\u2026",
+                    "end": 235,
+                    "expanded_url": "https://twitter.com/EIB/status/1456181088494182402",
+                    "start": 212,
+                    "url": "https://t.co/UT4loTRrvI"
+                }
+            ]
+        },
+        "id": "1458849965376159751",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "\ud83c\udf90 You can now visit WindFloat Atlantic, Europe's first floating windfarm, from the comfort of your home thanks to the @EIB and @EUScienceInnov's virtual reality project showcased at #WebSummit as well as #COP26. https://t.co/UT4loTRrvI"
+    }
+}

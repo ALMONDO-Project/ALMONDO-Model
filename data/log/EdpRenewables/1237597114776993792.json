@@ -1,0 +1,54 @@
+{
+    "1237597114776993792": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-11T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1237597114776993792"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4479,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "U.S.",
+                    "probability": 0.9509,
+                    "start": 75,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/AWEA/status/12\u2026",
+                    "end": 103,
+                    "expanded_url": "https://twitter.com/AWEA/status/1235974192560066560",
+                    "start": 80,
+                    "url": "https://t.co/aHvOQMO55M"
+                }
+            ]
+        },
+        "id": "1237597114776993792",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#EDPR employs more than 650 wind and solar energy professionals across the U.S. https://t.co/aHvOQMO55M"
+    }
+}

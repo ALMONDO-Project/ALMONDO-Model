@@ -1,0 +1,54 @@
+{
+    "1416382177227550726": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-17T13:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1416382177227550726"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Germany",
+                    "probability": 0.9859,
+                    "start": 41,
+                    "type": "Place"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "ClimateCrisis",
+                    "probability": 0.6951,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 218,
+                    "start": 204,
+                    "tag": "ClimateCrisis"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3krhVAI",
+                    "end": 202,
+                    "expanded_url": "https://bit.ly/3krhVAI",
+                    "start": 179,
+                    "url": "https://t.co/ohHBUwGQSs"
+                }
+            ]
+        },
+        "id": "1416382177227550726",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The intensity and scale of the floods in Germany this week have shocked climate scientists, who did not expect records to be broken this much, over such a wide area or this soon. https://t.co/ohHBUwGQSs\n\n#ClimateCrisis"
+    }
+}

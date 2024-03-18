@@ -1,0 +1,66 @@
+{
+    "1328805359042048004": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-17T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1328805359042048004"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6073,
+                    "start": 8,
+                    "type": "Organization"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "Ohio",
+                    "probability": 0.985,
+                    "start": 54,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Buckeye State",
+                    "probability": 0.3553,
+                    "start": 90,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 7,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 41,
+                    "start": 29,
+                    "tag": "solarenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/63764/edpr-sea\u2026",
+                    "end": 154,
+                    "expanded_url": "https://renews.biz/63764/edpr-seals-100mw-ohio-pv-ppa/",
+                    "start": 131,
+                    "url": "https://t.co/gpYJKBew42"
+                }
+            ]
+        },
+        "id": "1328805359042048004",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "ICYMI: #EDPR is building new #solarenergy capacity in Ohio, bringing our footprint in the Buckeye State to nearly 700 MW by 2022.  https://t.co/gpYJKBew42"
+    }
+}

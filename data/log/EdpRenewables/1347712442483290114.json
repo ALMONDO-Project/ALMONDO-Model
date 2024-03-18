@@ -1,0 +1,52 @@
+{
+    "1347712442483290114": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-09T01:11:00.000Z",
+        "edit_history_tweet_ids": [
+            "1347712442483290114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "UK",
+                    "probability": 0.9215,
+                    "start": 17,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 60,
+                    "start": 44,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 209,
+                    "start": 193,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2XpXffq",
+                    "end": 190,
+                    "expanded_url": "https://bit.ly/2XpXffq",
+                    "start": 167,
+                    "url": "https://t.co/q6o3YkM7kk"
+                }
+            ]
+        },
+        "id": "1347712442483290114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddec\ud83c\udde7 \ud83c\udf2c\ufe0f \u2600\ufe0f  38% of UK consumers claim to have #RenewableEnergy tariffs for their homes and just over half (51%) expect to choose these the next time they change tariff. https://t.co/q6o3YkM7kk \n\n#Decarbonization"
+    }
+}

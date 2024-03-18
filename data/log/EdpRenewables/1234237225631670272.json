@@ -1,0 +1,47 @@
+{
+    "1234237225631670272": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-01T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1234237225631670272"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 117,
+                    "normalized_text": "Earth",
+                    "probability": 0.6891,
+                    "start": 113,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 157,
+                    "start": 145,
+                    "tag": "CleanEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "wired.com/story/want-unl\u2026",
+                    "end": 181,
+                    "expanded_url": "https://www.wired.com/story/want-unlimited-clean-energy-just-drill-the-worlds-hottest-well/",
+                    "start": 158,
+                    "url": "https://t.co/breNVbURNR"
+                }
+            ]
+        },
+        "id": "1234237225631670272",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "An engineering team bored 2 miles into hot rock without causing major earthquakes\u2014a good sign for harnessing the Earth's heat as a power source. #CleanEnergy\nhttps://t.co/breNVbURNR"
+    }
+}

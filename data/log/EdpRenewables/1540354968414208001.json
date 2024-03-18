@@ -1,0 +1,59 @@
+{
+    "1540354968414208001": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-24T15:23:37.000Z",
+        "edit_history_tweet_ids": [
+            "1540354968414208001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4937,
+                    "start": 23,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 22,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 57,
+                    "start": 43,
+                    "tag": "GlobalWindDay"
+                },
+                {
+                    "end": 157,
+                    "start": 141,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3brdYtg",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3brdYtg",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2022/06/20/edpr-celebrates-global-wind-day-raising-awareness-importance-renewable-energy-source?linkId=100000132382871",
+                    "url": "https://t.co/1UhwQdqdrr"
+                }
+            ]
+        },
+        "id": "1540354968414208001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "In the last few days, #EDPR celebrated the #GlobalWindDay by organizing open days at some of its wind farms and raising awareness about this #RenewableEnergy \ud83c\udf2c\ufe0f \ud83d\ude4c \n\nResidents from nearby towns were able to enjoy a fun and educational day! \n\nCheck it out:\n\nhttps://t.co/1UhwQdqdrr"
+    }
+}

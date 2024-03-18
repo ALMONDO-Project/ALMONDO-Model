@@ -1,0 +1,40 @@
+{
+    "1230613346921013248": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-20T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1230613346921013248"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Puerto Rico",
+                    "probability": 0.9217,
+                    "start": 0,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theintercept.com/2020/02/09/pue\u2026",
+                    "end": 89,
+                    "expanded_url": "https://theintercept.com/2020/02/09/puerto-rico-energy-electricity-solar-natural-gas/",
+                    "start": 66,
+                    "url": "https://t.co/SwCf70PpJj"
+                }
+            ]
+        },
+        "id": "1230613346921013248",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Puerto Rico\u2019s power failures inspired a rooftop solar movement \ud83d\udc47\ud83c\udf1e\nhttps://t.co/SwCf70PpJj"
+    }
+}

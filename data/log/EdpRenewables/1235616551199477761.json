@@ -1,0 +1,64 @@
+{
+    "1235616551199477761": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-05T17:21:57.000Z",
+        "edit_history_tweet_ids": [
+            "1235616551199477761"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "WOM2020",
+                    "probability": 0.5381,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "David Talavan",
+                    "probability": 0.6018,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 17,
+                    "start": 9,
+                    "tag": "WOM2020"
+                },
+                {
+                    "end": 281,
+                    "start": 265,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/RE_Windpower/s\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/RE_Windpower/status/1235496359349964800",
+                    "start": 282,
+                    "url": "https://t.co/m8pKYS6J27"
+                }
+            ]
+        },
+        "id": "1235616551199477761",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#EDPR at #WOM2020 \ud83d\udc49 David Talavan (our Central Asset Operations Director-EU&amp;BR) talks about the challenges and opportunities of wind O&amp;M, and Antonio Herrera Sierra (our Head of Civil and Mechanical Technolog) discusses life extension technical management. #RenewableEnergy https://t.co/m8pKYS6J27"
+    }
+}

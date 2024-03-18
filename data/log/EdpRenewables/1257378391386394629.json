@@ -1,0 +1,47 @@
+{
+    "1257378391386394629": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-04T18:35:44.000Z",
+        "edit_history_tweet_ids": [
+            "1257378391386394629"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 162,
+                    "normalized_text": "ClimateChangeAction",
+                    "probability": 0.7275,
+                    "start": 144,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 163,
+                    "start": 143,
+                    "tag": "ClimateChangeAction"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nationalgeographic.com/environment/20\u2026",
+                    "end": 189,
+                    "expanded_url": "https://www.nationalgeographic.com/environment/2019/09/environmental-victories-in-photos/",
+                    "start": 166,
+                    "url": "https://t.co/qwyEFu2gEQ"
+                }
+            ]
+        },
+        "id": "1257378391386394629",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udcf750 years of environmental victories to remember that half a century ago humankind became aware of the damage we were inflicting on our planet #ClimateChangeAction\n\n https://t.co/qwyEFu2gEQ"
+    }
+}

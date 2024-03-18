@@ -1,0 +1,60 @@
+{
+    "1624012400163753985": {
+        "author_id": "1112667704010436609",
+        "created_at": "2023-02-10T11:48:23.000Z",
+        "edit_history_tweet_ids": [
+            "1624012400163753985"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "ElectricityMarketDesign",
+                    "probability": 0.5569,
+                    "start": 78,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 77,
+                    "tag": "ElectricityMarketDesign"
+                },
+                {
+                    "end": 277,
+                    "start": 260,
+                    "tag": "energytransition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 183,
+                    "id": "23951122",
+                    "start": 171,
+                    "username": "KadriSimson"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/KadriSimson/st\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/KadriSimson/status/1623693794251087874",
+                    "start": 279,
+                    "url": "https://t.co/3jqolmPPDG"
+                }
+            ]
+        },
+        "id": "1624012400163753985",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6069,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 1
+        },
+        "text": "Energy players must have an effective role in the current discussions around #ElectricityMarketDesign. We appreciate the dialogue promoted by the Commissioner for Energy, @KadriSimson and we will continue to be an active voice in this matter to accelerate the #energytransition. https://t.co/3jqolmPPDG"
+    }
+}

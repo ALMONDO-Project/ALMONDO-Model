@@ -1,0 +1,60 @@
+{
+    "1509104382507425796": {
+        "attachments": {
+            "media_keys": [
+                "16_1509104359166164992"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-03-30T09:44:57.000Z",
+        "edit_history_tweet_ids": [
+            "1509104382507425796"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "US",
+                    "probability": 0.9417,
+                    "start": 11,
+                    "type": "Place"
+                },
+                {
+                    "end": 23,
+                    "normalized_text": "EU",
+                    "probability": 0.9782,
+                    "start": 22,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3uLwSRI",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/3uLwSRI",
+                    "start": 253,
+                    "url": "https://t.co/PeQNgYHzUt"
+                },
+                {
+                    "display_url": "pic.twitter.com/V8I6ABQFKE",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1509104382507425796/photo/1",
+                    "media_key": "16_1509104359166164992",
+                    "start": 277,
+                    "url": "https://t.co/V8I6ABQFKE"
+                }
+            ]
+        },
+        "id": "1509104382507425796",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\uddea\ud83c\uddfa \ud83c\uddfa\ud83c\uddf8  The US and the EU are setting up a joint task force on energy security that will include strategic cooperation on renewables (including offshore wind!)\n\nThis will also support collaboration to advance the production and use of clean hydrogen \ud83d\udc47 \n\nhttps://t.co/PeQNgYHzUt https://t.co/V8I6ABQFKE"
+    }
+}

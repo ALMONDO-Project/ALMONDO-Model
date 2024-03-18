@@ -1,0 +1,49 @@
+{
+    "1355701584907423745": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-31T02:17:00.000Z",
+        "edit_history_tweet_ids": [
+            "1355701584907423745"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "SolarEnergy",
+                    "probability": 0.6471,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 18,
+                    "tag": "SolarEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bloom.bg/2NlIlFj",
+                    "end": 161,
+                    "expanded_url": "http://bloom.bg/2NlIlFj",
+                    "start": 138,
+                    "status": 200,
+                    "unwound_url": "https://www.bloomberg.com/news/articles/2020-10-13/solar-pushes-aside-coal-as-the-favorite-fuel-for-power-iea-says?utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid=socialflow-twitter-climate&utm_content=climate",
+                    "url": "https://t.co/WMoaNMyFio"
+                }
+            ]
+        },
+        "id": "1355701584907423745",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "\ud83c\udd95 The new normal: #SolarEnergy now ranks among the cheapest form of electricity and is outpacing conventional energy development. \n\n\ud83d\udc47 \ud83d\udc47 \n\nhttps://t.co/WMoaNMyFio"
+    }
+}

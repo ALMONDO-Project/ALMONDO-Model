@@ -1,0 +1,50 @@
+{
+    "1272552463820881921": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-15T15:32:04.000Z",
+        "edit_history_tweet_ids": [
+            "1272552463820881921"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 210,
+                    "normalized_text": "Duarte Bello",
+                    "probability": 0.5689,
+                    "start": 199,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 251,
+                    "id": "632874834",
+                    "start": 243,
+                    "username": "Funseam"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=Srv_7z\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.youtube.com/watch?v=Srv_7z0zf5g&feature=youtu.be",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Srv_7z0zf5g&feature=youtu.be",
+                    "url": "https://t.co/KVVWIjNHSz"
+                }
+            ]
+        },
+        "id": "1272552463820881921",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u00bfSab\u00edas que\u00bf las subastas son un mecanismo eficiente, que da visibilidad y estabilidad a los ingresos de los inversores y que redunda en un menor coste para el consumidor. As\u00ed lo explica nuestro COO Duarte Bello en este webinar organizado por @Funseam \ud83d\udc47  https://t.co/KVVWIjNHSz"
+    }
+}

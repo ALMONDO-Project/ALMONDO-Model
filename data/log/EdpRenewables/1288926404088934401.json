@@ -1,0 +1,82 @@
+{
+    "1288926404088934401": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-30T19:56:16.000Z",
+        "edit_history_tweet_ids": [
+            "1288926404088934401"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Harvest Ridge Wind Farm",
+                    "probability": 0.5197,
+                    "start": 11,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Douglas County",
+                    "probability": 0.8707,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "Illinois",
+                    "probability": 0.8945,
+                    "start": 54,
+                    "type": "Place"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4717,
+                    "start": 91,
+                    "type": "Organization"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "Illinois",
+                    "probability": 0.842,
+                    "start": 212,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 90,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 134,
+                    "start": 123,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "globenewswire.com/news-release/2\u2026",
+                    "end": 276,
+                    "expanded_url": "https://www.globenewswire.com/news-release/2020/07/30/2070471/0/en/Harvest-Ridge-Wind-Farm-is-Generating-Clean-Energy-in-Douglas-County.html",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.globenewswire.com/news-release/2020/07/30/2070471/0/en/Harvest-Ridge-Wind-Farm-is-Generating-Clean-Energy-in-Douglas-County.html",
+                    "url": "https://t.co/IIJF76s5UY"
+                }
+            ]
+        },
+        "id": "1288926404088934401",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Our 200 MW Harvest Ridge Wind Farm in Douglas County, Illinois, is fully operational! \ud83d\udc4f \n\n#EDPR is the largest operator of #windenergy in the state, providing enough energy to power approximately 412,000 average Illinois homes each year. \n\nRead more \ud83d\udc47  https://t.co/IIJF76s5UY"
+    }
+}

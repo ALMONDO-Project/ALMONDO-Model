@@ -1,0 +1,61 @@
+{
+    "1453391038635184133": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-10-27T16:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1453391038635184133"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Lego",
+                    "probability": 0.7402,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "CoralReefs",
+                    "probability": 0.6524,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 25,
+                    "tag": "CoralReefs"
+                },
+                {
+                    "end": 231,
+                    "start": 220,
+                    "tag": "Innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bbc.in/2XOxNEi",
+                    "end": 257,
+                    "expanded_url": "https://bbc.in/2XOxNEi",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://www.bbc.com/news/av/world-asia-58784313?linkId=100000078929299",
+                    "url": "https://t.co/3OzppIIGXB"
+                }
+            ]
+        },
+        "id": "1453391038635184133",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83e\udde9  Can Lego blocks bring #CoralReefs back to life? A group of scientists is using them to attach loose coral bits and let them grow back again into larger colonies before putting them back in the sea. A great example of #Innovation.\n\nhttps://t.co/3OzppIIGXB"
+    }
+}

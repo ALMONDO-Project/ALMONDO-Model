@@ -1,0 +1,49 @@
+{
+    "1253294577525706753": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-23T12:08:07.000Z",
+        "edit_history_tweet_ids": [
+            "1253294577525706753"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 199,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6555,
+                    "start": 196,
+                    "type": "Organization"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "Brasil",
+                    "probability": 0.8182,
+                    "start": 201,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=4I_SNg\u2026",
+                    "end": 264,
+                    "expanded_url": "https://www.youtube.com/watch?v=4I_SNgORCrw&feature=youtu.be",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=4I_SNgORCrw&feature=youtu.be",
+                    "url": "https://t.co/UUeLBGrJau"
+                }
+            ]
+        },
+        "id": "1253294577525706753",
+        "lang": "pt",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83e\udd1arespeitar o distanciamento de 2 metros\n\n\ud83e\uddf9refor\u00e7ar a limpeza de \u00e1reas comuns\n\n\ud83e\uddf4\u00e1lcool gel em todos os servi\u00e7os\n\n\ud83d\ude37obrigatoriedade do uso de m\u00e1scaras\n\nEstas e outras medidas est\u00e3o sendo adotadas na EDPR Brasil. Assista ao v\u00eddeo e saiba mais.\n\nhttps://t.co/UUeLBGrJau"
+    }
+}

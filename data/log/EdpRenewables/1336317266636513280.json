@@ -1,0 +1,86 @@
+{
+    "1336317266636513280": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-08T14:30:38.000Z",
+        "edit_history_tweet_ids": [
+            "1336317266636513280"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Nick Watts",
+                    "probability": 0.9134,
+                    "start": 4,
+                    "type": "Person"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "Paris",
+                    "probability": 0.9488,
+                    "start": 60,
+                    "type": "Place"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "Covid-19",
+                    "probability": 0.9803,
+                    "start": 147,
+                    "type": "Other"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7136,
+                    "start": 178,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 191,
+                    "start": 177,
+                    "tag": "ClimateChange"
+                },
+                {
+                    "end": 233,
+                    "start": 219,
+                    "tag": "GreenRecovery"
+                },
+                {
+                    "end": 250,
+                    "start": 234,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 26,
+                    "id": "10215212",
+                    "start": 20,
+                    "username": "NHSuk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2K3RnoG",
+                    "end": 217,
+                    "expanded_url": "https://bit.ly/2K3RnoG",
+                    "start": 194,
+                    "url": "https://t.co/DqCk8YBReh"
+                }
+            ]
+        },
+        "id": "1336317266636513280",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Dr. Nick Watts from @NHSuk \ud83d\udc49 \u201cThe only way you can meet the Paris agreement is by taking advantage of this moment \u2026 by combining the recovery from Covid-19 with the response to #ClimateChange.\u201d https://t.co/DqCk8YBReh\n\n#GreenRecovery #Decarbonization"
+    }
+}

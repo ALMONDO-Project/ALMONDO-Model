@@ -1,0 +1,49 @@
+{
+    "1275535852920279040": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-23T21:07:00.000Z",
+        "edit_history_tweet_ids": [
+            "1275535852920279040"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "dioxide",
+                    "probability": 0.514,
+                    "start": 45,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 203,
+                    "start": 189,
+                    "tag": "ClimateAction"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ecowatch.com/atmospheric-ca\u2026",
+                    "end": 228,
+                    "expanded_url": "https://www.ecowatch.com/atmospheric-carbon-dioxide-levels-historic-2646152010.html?rebelltitem=2#rebelltitem2",
+                    "start": 205,
+                    "status": 200,
+                    "unwound_url": "https://www.ecowatch.com/atmospheric-carbon-dioxide-levels-historic-2646152010.html?rebelltitem=2#rebelltitem2",
+                    "url": "https://t.co/Srg2sJwknL"
+                }
+            ]
+        },
+        "id": "1275535852920279040",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Human activity has pushed atmospheric carbon dioxide to higher levels than ever in the last 23-million-years, potentially posing unprecedented disruptions in ecosystems across the planet. \n#ClimateAction\ud83c\udf31 https://t.co/Srg2sJwknL"
+    }
+}

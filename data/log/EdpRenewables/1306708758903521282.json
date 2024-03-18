@@ -1,0 +1,75 @@
+{
+    "1306708758903521282": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-17T21:37:00.000Z",
+        "edit_history_tweet_ids": [
+            "1306708758903521282"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4872,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 28,
+                    "normalized_text": "Riverstart Solar Park",
+                    "probability": 0.6145,
+                    "start": 8,
+                    "type": "Place"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Randolph County",
+                    "probability": 0.8659,
+                    "start": 33,
+                    "type": "Place"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9513,
+                    "start": 50,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 102,
+                    "start": 91,
+                    "tag": "solarpower"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pv-magazine-usa.com/2020/09/08/big\u2026",
+                    "end": 148,
+                    "expanded_url": "https://pv-magazine-usa.com/2020/09/08/big-new-solar-projects-are-doubling-indianas-pv-capacity/",
+                    "start": 125,
+                    "status": 200,
+                    "unwound_url": "https://pv-magazine-usa.com/2020/09/08/big-new-solar-projects-are-doubling-indianas-pv-capacity/",
+                    "url": "https://t.co/Geu1vX68XO"
+                }
+            ]
+        },
+        "id": "1306708758903521282",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#EDPR's Riverstart Solar Park in Randolph County, Indiana, will bring 200 MW of additional #solarpower to the state by 2022. https://t.co/Geu1vX68XO"
+    }
+}

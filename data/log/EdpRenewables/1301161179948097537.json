@@ -1,0 +1,80 @@
+{
+    "1301161179948097537": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-02T14:12:54.000Z",
+        "edit_history_tweet_ids": [
+            "1301161179948097537"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.564,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 29,
+                    "normalized_text": "Meridian Way Wind Farm",
+                    "probability": 0.7101,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Cloud County",
+                    "probability": 0.8584,
+                    "start": 96,
+                    "type": "Place"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Kansas",
+                    "probability": 0.9814,
+                    "start": 110,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "NorthwestKansasToday",
+                    "probability": 0.7132,
+                    "start": 154,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 174,
+                    "start": 153,
+                    "tag": "NorthwestKansasToday"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "danehansenfoundation.org/?page_id=7457",
+                    "end": 257,
+                    "expanded_url": "https://danehansenfoundation.org/?page_id=7457",
+                    "start": 234,
+                    "url": "https://t.co/XUSAozxw6b"
+                }
+            ]
+        },
+        "id": "1301161179948097537",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR\u2019s Meridian Way Wind Farm is bringing new jobs, additional income, and renewable energy to Cloud County, Kansas. Check out the Summer 2020 issue of #NorthwestKansasToday to learn more about the project\u2019s impact on the community. https://t.co/XUSAozxw6b"
+    }
+}

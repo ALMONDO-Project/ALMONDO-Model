@@ -1,0 +1,61 @@
+{
+    "1236509951079538688": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-08T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1236509951079538688"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "EmergenciaClim\u00e1tica",
+                    "probability": 0.5286,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "Energ\u00edaRenovable",
+                    "probability": 0.4446,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 96,
+                    "start": 76,
+                    "tag": "EmergenciaClim\u00e1tica"
+                },
+                {
+                    "end": 187,
+                    "start": 170,
+                    "tag": "Energ\u00edaRenovable"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "energias-renovables.com/panorama/la-co\u2026",
+                    "end": 252,
+                    "expanded_url": "https://www.energias-renovables.com/panorama/la-comision-europea-urge-a-las-ciudades-20200226",
+                    "start": 229,
+                    "status": 200,
+                    "unwound_url": "https://www.energias-renovables.com/panorama/la-comision-europea-urge-a-las-ciudades-20200226",
+                    "url": "https://t.co/gvykEJZphN"
+                }
+            ]
+        },
+        "id": "1236509951079538688",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Entre los principales desaf\u00edos a los que se enfrentan las ciudades est\u00e1n la #EmergenciaClim\u00e1tica, la contaminaci\u00f3n y la gesti\u00f3n de recursos como el agua y la energ\u00eda. La #Energ\u00edaRenovable es fundamental para humanizar las urbes.\nhttps://t.co/gvykEJZphN"
+    }
+}

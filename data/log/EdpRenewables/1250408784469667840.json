@@ -1,0 +1,56 @@
+{
+    "1250408784469667840": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-15T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1250408784469667840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "PV",
+                    "probability": 0.5775,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.9109,
+                    "start": 89,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 102,
+                    "start": 88,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pv-magazine-usa.com/2020/03/30/ass\u2026",
+                    "end": 129,
+                    "expanded_url": "https://pv-magazine-usa.com/2020/03/30/assessing-the-sustainability-of-existing-photovoltaic-technologies/",
+                    "start": 106,
+                    "status": 200,
+                    "unwound_url": "https://pv-magazine-usa.com/2020/03/30/assessing-the-sustainability-of-existing-photovoltaic-technologies/",
+                    "url": "https://t.co/58iIlU1Tp6"
+                }
+            ]
+        },
+        "id": "1250408784469667840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Solar PV technologies are expected to play a massive role in the world\u2019s battle against #ClimateChange \u2600\ufe0f https://t.co/58iIlU1Tp6"
+    }
+}

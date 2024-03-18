@@ -1,0 +1,89 @@
+{
+    "1313863649497411587": {
+        "attachments": {
+            "media_keys": [
+                "3_1313863605977337856"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-07T15:27:59.000Z",
+        "edit_history_tweet_ids": [
+            "1313863649497411587"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.3979,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "APREN2020",
+                    "probability": 0.5924,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "Rui Teixeira",
+                    "probability": 0.9416,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Portugal Renewable Energy Summit",
+                    "probability": 0.8014,
+                    "start": 67,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 19,
+                    "start": 9,
+                    "tag": "APREN2020"
+                },
+                {
+                    "end": 200,
+                    "start": 184,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 217,
+                    "start": 201,
+                    "tag": "decabornization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/5CflLSGDTS",
+                    "end": 241,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1313863649497411587/photo/1",
+                    "media_key": "3_1313863605977337856",
+                    "start": 218,
+                    "url": "https://t.co/5CflLSGDTS"
+                }
+            ]
+        },
+        "id": "1313863649497411587",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR at #APREN2020 Rui Teixeira, interim CEO, participates at the Portugal Renewable Energy Summit and talks about the main challenges for the Portuguese renewable electricity market #RenewableEnergy #decabornization https://t.co/5CflLSGDTS"
+    }
+}

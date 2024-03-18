@@ -1,0 +1,59 @@
+{
+    "1344358274641092614": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-30T19:02:44.000Z",
+        "edit_history_tweet_ids": [
+            "1344358274641092614"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 154,
+                    "normalized_text": "EDPR",
+                    "probability": 0.461,
+                    "start": 151,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 11,
+                    "tag": "SustainableFuture"
+                },
+                {
+                    "end": 155,
+                    "start": 150,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 172,
+                    "start": 156,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/sustainabil\u2026",
+                    "end": 148,
+                    "expanded_url": "https://www.edpr.com/en/sustainability/social-dimension",
+                    "start": 125,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/sustainability/social-dimension",
+                    "url": "https://t.co/9HTYIrgSBI"
+                }
+            ]
+        },
+        "id": "1344358274641092614",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Building a #SustainableFuture is only possible if we care about our environment and the communities in which we operate \ud83c\udf31 \ud83d\udc49  https://t.co/9HTYIrgSBI\n\n#EDPR #RenewableEnergy"
+    }
+}

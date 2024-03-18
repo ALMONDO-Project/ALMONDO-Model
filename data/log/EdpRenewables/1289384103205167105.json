@@ -1,0 +1,54 @@
+{
+    "1289384103205167105": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-01T02:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1289384103205167105"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7963,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 13,
+                    "tag": "ClimateChange"
+                },
+                {
+                    "end": 49,
+                    "start": 37,
+                    "tag": "CleanEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "washingtonpost.com/weather/2020/0\u2026",
+                    "end": 90,
+                    "expanded_url": "https://www.washingtonpost.com/weather/2020/07/07/warmest-june-siberia-planet/",
+                    "start": 67,
+                    "status": 200,
+                    "unwound_url": "https://www.washingtonpost.com/weather/2020/07/07/warmest-june-siberia-planet/",
+                    "url": "https://t.co/kQ9VF02YMB"
+                }
+            ]
+        },
+        "id": "1289384103205167105",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "In combating #ClimateChange, we know #CleanEnergy is the future. \ud83c\udf0e https://t.co/kQ9VF02YMB"
+    }
+}

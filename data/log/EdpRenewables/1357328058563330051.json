@@ -1,0 +1,72 @@
+{
+    "1357328058563330051": {
+        "attachments": {
+            "media_keys": [
+                "3_1357328057053421569"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-02-04T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1357328058563330051"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "Stocare Project",
+                    "probability": 0.7675,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Romania",
+                    "probability": 0.9858,
+                    "start": 112,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 211,
+                    "start": 200,
+                    "tag": "windenergy"
+                },
+                {
+                    "end": 226,
+                    "start": 212,
+                    "tag": "energystorage"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/36mjiJ5",
+                    "end": 199,
+                    "expanded_url": "https://bit.ly/36mjiJ5",
+                    "start": 176,
+                    "url": "https://t.co/Qbfq8BWVV2"
+                },
+                {
+                    "display_url": "pic.twitter.com/M9IHT924s9",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1357328058563330051/photo/1",
+                    "media_key": "3_1357328057053421569",
+                    "start": 227,
+                    "url": "https://t.co/M9IHT924s9"
+                }
+            ]
+        },
+        "id": "1357328058563330051",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "What if there\u2019s an energy scheduling prediction error? \ud83d\ude35\nIn the case of the \"Stocare Project,\" our wind farm in Romania, there are no supply issues thanks to energy storage\u26a1\ufe0f\n\ud83d\udc49https://t.co/Qbfq8BWVV2\n#windenergy #energystorage https://t.co/M9IHT924s9"
+    }
+}

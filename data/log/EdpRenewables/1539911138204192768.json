@@ -1,0 +1,61 @@
+{
+    "1539911138204192768": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-23T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1539911138204192768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Congo",
+                    "probability": 0.8437,
+                    "start": 3,
+                    "type": "Place"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "Brazil",
+                    "probability": 0.986,
+                    "start": 13,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7126,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 118,
+                    "start": 104,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3HOuxeU",
+                    "end": 196,
+                    "expanded_url": "https://bit.ly/3HOuxeU",
+                    "start": 173,
+                    "url": "https://t.co/9fXPWowxOH"
+                }
+            ]
+        },
+        "id": "1539911138204192768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf33  Congo and Brazil are home to the two largest rainforests in the world. However, their paths to fight #ClimateChange are very different. \n\nLearn how with this dialogue: \n\nhttps://t.co/9fXPWowxOH"
+    }
+}

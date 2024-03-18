@@ -1,0 +1,42 @@
+{
+    "1504178417742356481": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-03-16T19:30:55.000Z",
+        "edit_history_tweet_ids": [
+            "1504178417742356481"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "United Nations",
+                    "probability": 0.3706,
+                    "start": 69,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3wkNpy2",
+                    "end": 173,
+                    "expanded_url": "https://bit.ly/3wkNpy2",
+                    "start": 150,
+                    "status": 200,
+                    "unwound_url": "https://theconversation.com/plastic-waste-treaty-expert-qanda-on-the-promise-of-a-global-agreement-to-reduce-pollution-178446?linkId=100000115520196",
+                    "url": "https://t.co/6IpjKpVGbi"
+                }
+            ]
+        },
+        "id": "1504178417742356481",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc49  Remember the plastic waste crisis approved a few weeks ago by the United Nations?\n\nHere's a few Q&amp;A on the real implications of this decision\n\nhttps://t.co/6IpjKpVGbi"
+    }
+}

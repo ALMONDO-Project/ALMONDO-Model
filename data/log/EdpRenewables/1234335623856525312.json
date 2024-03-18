@@ -1,0 +1,60 @@
+{
+    "1234335623856525312": {
+        "attachments": {
+            "media_keys": [
+                "3_1232274394371760131"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-02T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1234335623856525312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5852,
+                    "start": 13,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 12,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/careers/wor\u2026",
+                    "end": 188,
+                    "expanded_url": "https://www.edpr.com/en/careers/work-us#job-opportunities",
+                    "start": 165,
+                    "url": "https://t.co/Z9EebZCIvz"
+                },
+                {
+                    "display_url": "pic.twitter.com/UvgK98SxQX",
+                    "end": 212,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1234335623856525312/photo/1",
+                    "media_key": "3_1232274394371760131",
+                    "start": 189,
+                    "url": "https://t.co/UvgK98SxQX"
+                }
+            ]
+        },
+        "id": "1234335623856525312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Why work at #EDPR? \nWe believe in and promote the talent of our people. \nWe are sustainable and efficient. \nWe rely on excellence and innovation.\nCome work with us \ud83d\udc47https://t.co/Z9EebZCIvz https://t.co/UvgK98SxQX"
+    }
+}

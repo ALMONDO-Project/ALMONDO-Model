@@ -1,0 +1,40 @@
+{
+    "1238321890428506112": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-13T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1238321890428506112"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 4,
+                    "tag": "EnergyTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "insideclimatenews.org/news/04032020/\u2026",
+                    "end": 61,
+                    "expanded_url": "https://insideclimatenews.org/news/04032020/inside-clean-energy-charts-2019-electricity-solar-wind-coal-use",
+                    "start": 38,
+                    "status": 200,
+                    "unwound_url": "https://insideclimatenews.org/news/05032020/inside-clean-energy-charts-2019-electricity-solar-wind-coal-use/",
+                    "url": "https://t.co/93DdqUWzyi"
+                }
+            ]
+        },
+        "id": "1238321890428506112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The #EnergyTransition in five graphs: https://t.co/93DdqUWzyi"
+    }
+}

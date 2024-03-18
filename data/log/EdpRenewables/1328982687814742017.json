@@ -1,0 +1,91 @@
+{
+    "1328982687814742017": {
+        "attachments": {
+            "media_keys": [
+                "3_1328982686510280709"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-18T08:45:38.000Z",
+        "edit_history_tweet_ids": [
+            "1328982687814742017"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4918,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5599,
+                    "start": 66,
+                    "type": "Organization"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "Rui Teixeira",
+                    "probability": 0.9127,
+                    "start": 75,
+                    "type": "Person"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "SustainableEnergyEU",
+                    "probability": 0.4903,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 38,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 70,
+                    "start": 65,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 111,
+                    "start": 91,
+                    "tag": "SustainableEnergyEU"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2TuhTJi",
+                    "end": 168,
+                    "expanded_url": "https://bit.ly/2TuhTJi",
+                    "start": 145,
+                    "url": "https://t.co/8vqTaxtIgU"
+                },
+                {
+                    "display_url": "pic.twitter.com/N2QFv47YNa",
+                    "end": 192,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1328982687814742017/photo/1",
+                    "media_key": "3_1328982686510280709",
+                    "start": 169,
+                    "url": "https://t.co/N2QFv47YNa"
+                }
+            ]
+        },
+        "id": "1328982687814742017",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Do you want to learn a bit more about #RenewableEnergy?\n\n\ud83d\udc49\ud83d\udda5 Join #EDPR CEO Rui Teixeira in #SustainableEnergyEU virtual summit. \n\nRegister here: https://t.co/8vqTaxtIgU https://t.co/N2QFv47YNa"
+    }
+}

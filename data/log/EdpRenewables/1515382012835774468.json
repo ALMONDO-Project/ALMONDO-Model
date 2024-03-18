@@ -1,0 +1,56 @@
+{
+    "1515382012835774468": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-16T17:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1515382012835774468"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "We Forum Agenda",
+                    "probability": 0.6481,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "GreenTransition",
+                    "probability": 0.3496,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 236,
+                    "start": 220,
+                    "tag": "GreenTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3E7NuqO",
+                    "end": 262,
+                    "expanded_url": "https://bit.ly/3E7NuqO",
+                    "start": 239,
+                    "status": 404,
+                    "unwound_url": "https://www.weforum.org/global_future_councils/gfc-on-responsible-investing/articles/why-private-companies-need-to-catch-up-on-sustainability?linkId=100000120136982",
+                    "url": "https://t.co/THCZGya9EB"
+                }
+            ]
+        },
+        "id": "1515382012835774468",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf43  In sustainability, we all need to work together, according to the We Forum Agenda. \n\n\ud83d\udc49  That also includes private companies: a diverse culture attracts the best talent, which leads to multiple advantages towards the #GreenTransition.\n\nhttps://t.co/THCZGya9EB"
+    }
+}

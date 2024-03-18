@@ -1,0 +1,45 @@
+{
+    "1507402187349143559": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-03-25T17:01:02.000Z",
+        "edit_history_tweet_ids": [
+            "1507402187349143559"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "EDPR",
+                    "probability": 0.635,
+                    "start": 123,
+                    "type": "Organization"
+                },
+                {
+                    "end": 225,
+                    "normalized_text": "Portugal",
+                    "probability": 0.9554,
+                    "start": 218,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 127,
+                    "start": 122,
+                    "tag": "EDPR"
+                }
+            ]
+        },
+        "id": "1507402187349143559",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Plus, there is regular contact with local authorities to whom aid will also be provided.\n \n\ud83c\udd98  In-house action launched by #EDPR volunteers has also been started up in the form of local initiatives, helping refugees in Portugal and other countries."
+    }
+}

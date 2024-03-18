@@ -1,0 +1,54 @@
+{
+    "1269467869072547840": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-07T03:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1269467869072547840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.3631,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "U.S.",
+                    "probability": 0.7635,
+                    "start": 61,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "WindEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "awea.org/policy-and-iss\u2026",
+                    "end": 141,
+                    "expanded_url": "https://www.awea.org/policy-and-issues/electricity-policy/market-design/reliability",
+                    "start": 118,
+                    "url": "https://t.co/jCXDsIXk1c"
+                }
+            ]
+        },
+        "id": "1269467869072547840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#WindEnergy now delivers more than 10 percent of power in 14 U.S. states. Is your state one of them? \n\nFind out here: https://t.co/jCXDsIXk1c"
+    }
+}

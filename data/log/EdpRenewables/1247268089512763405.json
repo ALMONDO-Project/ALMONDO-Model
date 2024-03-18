@@ -1,0 +1,54 @@
+{
+    "1247268089512763405": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-06T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1247268089512763405"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5471,
+                    "start": 25,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 24,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 171,
+                    "start": 155,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=XPOR_i\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.youtube.com/watch?v=XPOR_im-hHI&feature=youtu.be",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=XPOR_im-hHI&feature=youtu.be",
+                    "url": "https://t.co/pU3P2ZLNku"
+                }
+            ]
+        },
+        "id": "1247268089512763405",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Over the past 14 years, #EDPR has been designing an action network over the world with employees, suppliers and customers which creates a circle of trust. #RenewableEnergy\nhttps://t.co/pU3P2ZLNku"
+    }
+}

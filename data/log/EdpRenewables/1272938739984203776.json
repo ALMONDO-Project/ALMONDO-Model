@@ -1,0 +1,59 @@
+{
+    "1272938739984203776": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-16T17:07:00.000Z",
+        "edit_history_tweet_ids": [
+            "1272938739984203776"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "SolarEnergy",
+                    "probability": 0.4677,
+                    "start": 93,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 92,
+                    "tag": "SolarEnergy"
+                },
+                {
+                    "end": 139,
+                    "start": 123,
+                    "tag": "GreenInnovation"
+                },
+                {
+                    "end": 156,
+                    "start": 140,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "medium.com/predict/accele\u2026",
+                    "end": 183,
+                    "expanded_url": "https://medium.com/predict/accelerating-solar-energy-adoption-through-skyscrapers-7f851e62473b",
+                    "start": 160,
+                    "status": 200,
+                    "unwound_url": "https://medium.com/predict/accelerating-solar-energy-adoption-through-skyscrapers-7f851e62473b",
+                    "url": "https://t.co/UHKMaCT5w5"
+                }
+            ]
+        },
+        "id": "1272938739984203776",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udfd9 Innovation in utilizing the untapped potential of glass skyscrapers could help accelerate #SolarEnergy adoption globally #GreenInnovation #RenewableEnergy \u2600\ufe0f https://t.co/UHKMaCT5w5"
+    }
+}

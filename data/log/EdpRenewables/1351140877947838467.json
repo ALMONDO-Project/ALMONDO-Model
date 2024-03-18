@@ -1,0 +1,89 @@
+{
+    "1351140877947838467": {
+        "attachments": {
+            "media_keys": [
+                "3_1351140876572119041"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-18T12:14:22.000Z",
+        "edit_history_tweet_ids": [
+            "1351140877947838467"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "MorayEast",
+                    "probability": 0.4328,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Moray Firth",
+                    "probability": 0.5719,
+                    "start": 79,
+                    "type": "Place"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "UK",
+                    "probability": 0.9682,
+                    "start": 92,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 3,
+                    "tag": "MorayEast"
+                },
+                {
+                    "end": 161,
+                    "start": 145,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 171,
+                    "start": 162,
+                    "tag": "Offshore"
+                },
+                {
+                    "end": 190,
+                    "start": 172,
+                    "tag": "SustainableFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/38UkTaF",
+                    "end": 143,
+                    "expanded_url": "https://bit.ly/38UkTaF",
+                    "start": 120,
+                    "url": "https://t.co/FX8wGqxLx5"
+                },
+                {
+                    "display_url": "pic.twitter.com/s0ERNnzQrW",
+                    "end": 214,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1351140877947838467/photo/1",
+                    "media_key": "3_1351140876572119041",
+                    "start": 191,
+                    "url": "https://t.co/s0ERNnzQrW"
+                }
+            ]
+        },
+        "id": "1351140877947838467",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddec\ud83c\udde7 #MorayEast has safely installed the first of the 100 9.5 MW turbines in the Moray Firth (UK). \ud83d\udc4f \ud83d\udc4f \n\nFind out more \ud83d\udc49  https://t.co/FX8wGqxLx5\n\n#RenewableEnergy #Offshore #SustainableFuture https://t.co/s0ERNnzQrW"
+    }
+}

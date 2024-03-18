@@ -1,0 +1,63 @@
+{
+    "1541477964080193541": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-27T17:46:00.000Z",
+        "edit_history_tweet_ids": [
+            "1541477964080193541"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 112,
+                    "normalized_text": "US",
+                    "probability": 0.9644,
+                    "start": 111,
+                    "type": "Place"
+                },
+                {
+                    "end": 141,
+                    "normalized_text": "Maricopa County",
+                    "probability": 0.9701,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Arizona",
+                    "probability": 0.9489,
+                    "start": 144,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 26,
+                    "tag": "datajournalism"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/39T04j2",
+                    "end": 223,
+                    "expanded_url": "https://bit.ly/39T04j2",
+                    "start": 200,
+                    "status": 200,
+                    "unwound_url": "https://www.weforum.org/agenda/2022/06/population-growth-united-states/?linkId=100000132819032",
+                    "url": "https://t.co/50m9pVsXDV"
+                }
+            ]
+        },
+        "id": "1541477964080193541",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83e\udd29  We're loving this map! #datajournalism\n\nCheck out how population has grown and changed over a decade in the US. \n\nFun fact: Maricopa County (Arizona) saw the highest increase - +735,898 people \ud83d\udc47 \n\nhttps://t.co/50m9pVsXDV"
+    }
+}

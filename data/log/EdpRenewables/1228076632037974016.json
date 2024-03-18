@@ -1,0 +1,54 @@
+{
+    "1228076632037974016": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-13T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1228076632037974016"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Costa Rica",
+                    "probability": 0.9174,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "CarbonNeutral",
+                    "probability": 0.6759,
+                    "start": 84,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 97,
+                    "start": 83,
+                    "tag": "CarbonNeutral"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cleantechnica.com/2020/02/03/cos\u2026",
+                    "end": 154,
+                    "expanded_url": "https://cleantechnica.com/2020/02/03/costa-rica-is-at-nearly-100-renewable-energy-for-electricity/",
+                    "start": 131,
+                    "url": "https://t.co/Yjg2u1GlGy"
+                }
+            ]
+        },
+        "id": "1228076632037974016",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "With a population of less than 5 million, Costa Rica is committed to becoming 100% #CarbonNeutral this year, but is it possible? \ud83d\udc47\nhttps://t.co/Yjg2u1GlGy"
+    }
+}

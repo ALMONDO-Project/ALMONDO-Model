@@ -1,0 +1,72 @@
+{
+    "1389644258810990593": {
+        "attachments": {
+            "media_keys": [
+                "3_1389644257221349379"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-04T18:13:04.000Z",
+        "edit_history_tweet_ids": [
+            "1389644258810990593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "US",
+                    "probability": 0.9411,
+                    "start": 6,
+                    "type": "Place"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.501,
+                    "start": 40,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 39,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 147,
+                    "start": 131,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3xJqYkx",
+                    "end": 129,
+                    "expanded_url": "https://bit.ly/3xJqYkx",
+                    "start": 106,
+                    "url": "https://t.co/jyhpq9hlHW"
+                },
+                {
+                    "display_url": "pic.twitter.com/JQhUkpO2da",
+                    "end": 171,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1389644258810990593/photo/1",
+                    "media_key": "3_1389644257221349379",
+                    "start": 148,
+                    "url": "https://t.co/JQhUkpO2da"
+                }
+            ]
+        },
+        "id": "1389644258810990593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udf31 \ud83c\uddfa\ud83c\uddf8  US local governments bought more #RenewableEnergy in 2020 than ever before, and that's good news! \n\nhttps://t.co/jyhpq9hlHW\n\n#Decarbonization https://t.co/JQhUkpO2da"
+    }
+}

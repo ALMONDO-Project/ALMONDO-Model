@@ -1,0 +1,51 @@
+{
+    "1272468894398271489": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-15T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1272468894398271489"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 170,
+                    "start": 154,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 187,
+                    "start": 171,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 6,
+                    "id": "1926360631",
+                    "start": 0,
+                    "username": "IRENA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theguardian.com/business/2020/\u2026",
+                    "end": 212,
+                    "expanded_url": "https://www.theguardian.com/business/2020/jun/02/energy-firms-urged-to-mothball-coal-plants-as-cost-of-solar-tumbles#",
+                    "start": 189,
+                    "url": "https://t.co/qSroIA4XLg"
+                }
+            ]
+        },
+        "id": "1272468894398271489",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@IRENA has found that up to 1,200 gigawatts of the world\u2019s existing coal capacity could cost more to run than the cost of new utility-scale solar plants. #RenewableEnergy #Decarbonization\n https://t.co/qSroIA4XLg"
+    }
+}

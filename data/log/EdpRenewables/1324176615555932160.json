@@ -1,0 +1,74 @@
+{
+    "1324176615555932160": {
+        "attachments": {
+            "media_keys": [
+                "3_1324176613811118082"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-05T02:28:01.000Z",
+        "edit_history_tweet_ids": [
+            "1324176615555932160"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 191,
+                    "normalized_text": "\ufffd Francis Lys",
+                    "probability": 0.6171,
+                    "start": -1,
+                    "type": "Person"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "r Los Mirasoles Wind Fa",
+                    "probability": 0.5135,
+                    "start": 213,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "n Hidal",
+                    "probability": 0.7087,
+                    "start": 240,
+                    "type": "Place"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "d Starr Counti",
+                    "probability": 0.6172,
+                    "start": 252,
+                    "type": "Place"
+                },
+                {
+                    "end": 272,
+                    "normalized_text": ", Tex",
+                    "probability": 0.9282,
+                    "start": 268,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zWPvl6SD3M",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1324176615555932160/photo/1",
+                    "media_key": "3_1324176613811118082",
+                    "start": 277,
+                    "url": "https://t.co/zWPvl6SD3M"
+                }
+            ]
+        },
+        "id": "1324176615555932160",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\"I put wind turbines on my property because I saw it as a way to get a little more help to offset my farming costs\u2014and because I think they look interesting and I like them.\" \n\n\ud83d\udc68\u200d\ud83c\udf3e Francis Lyssy, a landowner at our Los Mirasoles Wind Farm in Hidalgo and Starr Counties, Texas. https://t.co/zWPvl6SD3M"
+    }
+}

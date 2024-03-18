@@ -1,0 +1,53 @@
+{
+    "1471842878276222979": {
+        "attachments": {
+            "media_keys": [
+                "3_1471842873415020544"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-12-17T14:01:02.000Z",
+        "edit_history_tweet_ids": [
+            "1471842878276222979"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Colombia",
+                    "probability": 0.9845,
+                    "start": 15,
+                    "type": "Place"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "Alpha",
+                    "probability": 0.4894,
+                    "start": 89,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/GgL0Lck7mD",
+                    "end": 246,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1471842878276222979/photo/1",
+                    "media_key": "3_1471842873415020544",
+                    "start": 223,
+                    "url": "https://t.co/GgL0Lck7mD"
+                }
+            ]
+        },
+        "id": "1471842878276222979",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "\ud83d\udc4b Say hello to Colombia! \n\nWe\u2019re ready to construct our first wind farms in this market: Alpha with a total installed capacity of 212 MW &amp; Beta with 280 MW, which are expected to commence commercial operations in 2022. https://t.co/GgL0Lck7mD"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1394750141064753156": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-18T20:22:01.000Z",
+        "edit_history_tweet_ids": [
+            "1394750141064753156"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4575,
+                    "start": 11,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 10,
+                    "tag": "EDPR"
+                }
+            ]
+        },
+        "id": "1394750141064753156",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\u2197\ufe0f So far #EDPR has increased its operating portfolio up to 12.5 GW\n\n\ud83c\udf2c\ufe0f This means +1.9 GW than in the same period of 2020"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1329359981146238976": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-19T09:44:52.000Z",
+        "edit_history_tweet_ids": [
+            "1329359981146238976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4821,
+                    "start": 4,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 3,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 235,
+                    "start": 219,
+                    "tag": "Decarbonization"
+                },
+                {
+                    "end": 254,
+                    "start": 236,
+                    "tag": "SustainableFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "17226612",
+                    "start": 32,
+                    "username": "Novartis"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/1\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/11/19/edp-renovaveis-secures-a-63-mw-ppa-spain",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edp-renovaveis-secures-a-63-mw-ppa-spain",
+                    "url": "https://t.co/Jo6JVxGpMD"
+                }
+            ]
+        },
+        "id": "1329359981146238976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\uddea\ud83c\uddf8 #EDPR has secured a PPA with @Novartis to sell electricity to be produced by a portfolio of 63 MW of renewable energy.\n\n\ud83d\udca8 36 MW wind farm project;\n\u2600\ufe0f 26,8 MW solar power plant;\n\ud83d\udcc6 Expected to be installed in 2022/23\n\n#Decarbonization #SustainableFuture https://t.co/Jo6JVxGpMD"
+    }
+}

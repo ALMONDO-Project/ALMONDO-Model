@@ -1,0 +1,46 @@
+{
+    "1268739319021342728": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-05T03:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1268739319021342728"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 83,
+                    "start": 69,
+                    "tag": "climatechange"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 107,
+                    "id": "1434251",
+                    "start": 94,
+                    "username": "nytimesbooks"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nytimes.com/interactive/20\u2026",
+                    "end": 133,
+                    "expanded_url": "https://www.nytimes.com/interactive/2020/climate/climate-change-books.html?smtyp=cur&smid=tw-nytclimate",
+                    "start": 110,
+                    "url": "https://t.co/PzhZLneCno"
+                }
+            ]
+        },
+        "id": "1268739319021342728",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Looking to expand your summer reading list? Check out these picks on #climatechange here from @nytimesbooks:  https://t.co/PzhZLneCno"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1248091263384948736": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-09T03:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1248091263384948736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5147,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 74,
+                    "id": "74872101",
+                    "start": 58,
+                    "username": "KidWind_Project"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "kidwind.org/online-challen\u2026",
+                    "end": 188,
+                    "expanded_url": "https://www.kidwind.org/online-challenge",
+                    "start": 165,
+                    "status": 200,
+                    "unwound_url": "https://www.kidwind.org/online-challenge",
+                    "url": "https://t.co/Tes6rf5GVO"
+                }
+            ]
+        },
+        "id": "1248091263384948736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR is proud to support science education by sponsoring @KidWind_Project. Check out these online challenges to construct and test your own wind and solar devices: https://t.co/Tes6rf5GVO"
+    }
+}

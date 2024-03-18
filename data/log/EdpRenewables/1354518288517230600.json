@@ -1,0 +1,82 @@
+{
+    "1354518288517230600": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-27T19:55:00.000Z",
+        "edit_history_tweet_ids": [
+            "1354518288517230600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.6912,
+                    "start": 74,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 0,
+                    "tag": "ClimateNews"
+                },
+                {
+                    "end": 87,
+                    "start": 73,
+                    "tag": "ClimateChange"
+                },
+                {
+                    "end": 149,
+                    "start": 135,
+                    "tag": "ClimateAction"
+                },
+                {
+                    "end": 166,
+                    "start": 150,
+                    "tag": "Decarbonization"
+                },
+                {
+                    "end": 183,
+                    "start": 167,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 202,
+                    "start": 184,
+                    "tag": "SustainableFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "14159148",
+                    "start": 16,
+                    "username": "UN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3iZOmU4",
+                    "end": 133,
+                    "expanded_url": "https://bit.ly/3iZOmU4",
+                    "start": 110,
+                    "status": 200,
+                    "unwound_url": "https://www.theguardian.com/environment/2021/jan/27/un-global-climate-poll-peoples-voice-is-clear-they-want-action?linkId=100000030127551",
+                    "url": "https://t.co/WoQyPH8QQM"
+                }
+            ]
+        },
+        "id": "1354518288517230600",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#ClimateNews \ud83d\udc49  @UN biggest ever survey finds two-thirds of people think #ClimateChange is a global emergency https://t.co/WoQyPH8QQM\n\n#ClimateAction #Decarbonization #RenewableEnergy #SustainableFuture"
+    }
+}

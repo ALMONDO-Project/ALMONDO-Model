@@ -1,0 +1,70 @@
+{
+    "1394750144038547457": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-18T20:22:02.000Z",
+        "edit_history_tweet_ids": [
+            "1394750144038547457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Europe",
+                    "probability": 0.9158,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Viesgo",
+                    "probability": 0.5369,
+                    "start": 91,
+                    "type": "Organization"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "North America",
+                    "probability": 0.9246,
+                    "start": 139,
+                    "type": "Place"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9471,
+                    "start": 171,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 272,
+                    "start": 256,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/33S3uvZ",
+                    "end": 255,
+                    "expanded_url": "https://bit.ly/33S3uvZ",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edprs-portfolio-reaches-125-gw-installed-capacity?linkId=100000045356261",
+                    "url": "https://t.co/qWmbdQvEOF"
+                }
+            ]
+        },
+        "id": "1394750144038547457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\uddfa\ufe0f \ud83d\udccd Let's talk about geographies\ud83d\udc47 \n\n\ud83c\udf0d 652 MW go to Europe (including the incorporation of Viesgo's renewables business)\n\n\ud83c\udf0e 1,025 MW go to North America \n\n\ud83c\udde7\ud83c\uddf7 105 MW go to Brazil\n\nWant to know even more? Check out our full results \ud83d\udc49 https://t.co/qWmbdQvEOF\n#RenewableEnergy"
+    }
+}

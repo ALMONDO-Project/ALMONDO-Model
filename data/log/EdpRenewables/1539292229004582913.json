@@ -1,0 +1,63 @@
+{
+    "1539292229004582913": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-21T17:00:40.000Z",
+        "edit_history_tweet_ids": [
+            "1539292229004582913"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Europe",
+                    "probability": 0.9517,
+                    "start": 72,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5743,
+                    "start": 99,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5984,
+                    "start": 108,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 103,
+                    "start": 98,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3n22Mpz",
+                    "end": 261,
+                    "expanded_url": "https://bit.ly/3n22Mpz",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2022/06/17/edpr-and-vestas-boost-youth-employment-rural-areas-spain-through-their-keep-it-local-program?linkId=100000131776471",
+                    "url": "https://t.co/U9q8blP4Bk"
+                }
+            ]
+        },
+        "id": "1539292229004582913",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc49  Youth employment rate in Spanish rural areas is one of the lowest in Europe.\n\nIn this context, #EDPR and Vestas have closed their II edition of 'Keep it local': a program that promotes training for young people in rural areas. \n\n[\ud83e\uddf5 ]\n\nhttps://t.co/U9q8blP4Bk"
+    }
+}

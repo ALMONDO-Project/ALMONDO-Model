@@ -1,0 +1,61 @@
+{
+    "1389867714303430658": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-05T09:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1389867714303430658"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 140,
+                    "normalized_text": "ClimateCrisis",
+                    "probability": 0.5585,
+                    "start": 128,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "SDGs",
+                    "probability": 0.6177,
+                    "start": 143,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 141,
+                    "start": 127,
+                    "tag": "ClimateCrisis"
+                },
+                {
+                    "end": 147,
+                    "start": 142,
+                    "tag": "SDGs"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3vU8sEz",
+                    "end": 126,
+                    "expanded_url": "https://bit.ly/3vU8sEz",
+                    "start": 103,
+                    "status": 200,
+                    "unwound_url": "https://www.theguardian.com/environment/2021/apr/23/climate-crisis-has-shifted-the-earths-axis-study-shows?linkId=100000043171308",
+                    "url": "https://t.co/LKC4Dyrl7x"
+                }
+            ]
+        },
+        "id": "1389867714303430658",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Massive melting of glaciers has tilted the planet\u2019s rotation, showing the impact of human activities \ud83d\udc49 https://t.co/LKC4Dyrl7x\n#ClimateCrisis #SDGs"
+    }
+}

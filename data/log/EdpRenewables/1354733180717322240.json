@@ -1,0 +1,75 @@
+{
+    "1354733180717322240": {
+        "attachments": {
+            "media_keys": [
+                "3_1354733179358339075"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-28T10:08:54.000Z",
+        "edit_history_tweet_ids": [
+            "1354733180717322240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "EDP",
+                    "probability": 0.5065,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "BloombergGEI",
+                    "probability": 0.6935,
+                    "start": 228,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 227,
+                    "tag": "BloombergGEI"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 56,
+                    "id": "104237736",
+                    "start": 46,
+                    "username": "Bloomberg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2NIh9Rs",
+                    "end": 226,
+                    "expanded_url": "https://bit.ly/2NIh9Rs",
+                    "start": 203,
+                    "url": "https://t.co/EPHOEx5Esg"
+                },
+                {
+                    "display_url": "pic.twitter.com/kvwr6NpS2v",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1354733180717322240/photo/1",
+                    "media_key": "3_1354733179358339075",
+                    "start": 241,
+                    "url": "https://t.co/kvwr6NpS2v"
+                }
+            ]
+        },
+        "id": "1354733180717322240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "EDP Renewables is proud to be included in the @Bloomberg Gender-Equality Index for the second year running. We are one of 380 companies committed to more equal and inclusive workplaces. Learn more here: https://t.co/EPHOEx5Esg #BloombergGEI https://t.co/kvwr6NpS2v"
+    }
+}

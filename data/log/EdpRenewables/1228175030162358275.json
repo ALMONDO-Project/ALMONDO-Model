@@ -1,0 +1,62 @@
+{
+    "1228175030162358275": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-14T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1228175030162358275"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.3782,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "U.S.",
+                    "probability": 0.8291,
+                    "start": 149,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 18,
+                    "tag": "WindEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 62,
+                    "id": "988519142855794688",
+                    "start": 58,
+                    "username": "Spp"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/SPPorg/status/\u2026",
+                    "end": 177,
+                    "expanded_url": "https://twitter.com/SPPorg/status/1224728540148641794",
+                    "start": 154,
+                    "url": "https://t.co/41MVrEWzSU"
+                }
+            ]
+        },
+        "id": "1228175030162358275",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Get wind of this! #WindEnergy penetration set a record in @SPP last Tuesday, powering more than 71.3 percent of the grid\u2019s total load in the central U.S. https://t.co/41MVrEWzSU"
+    }
+}

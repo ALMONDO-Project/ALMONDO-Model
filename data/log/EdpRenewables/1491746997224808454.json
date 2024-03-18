@@ -1,0 +1,49 @@
+{
+    "1491746997224808454": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-10T12:12:54.000Z",
+        "edit_history_tweet_ids": [
+            "1491746997224808454"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.8538,
+                    "start": 48,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 61,
+                    "start": 47,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3oEiKY2",
+                    "end": 206,
+                    "expanded_url": "https://bit.ly/3oEiKY2",
+                    "start": 183,
+                    "status": 200,
+                    "unwound_url": "https://theconversation.com/three-reasons-why-climate-change-models-are-our-best-hope-for-understanding-the-future-175936?linkId=100000108692152",
+                    "url": "https://t.co/w5rDHIagMb"
+                }
+            ]
+        },
+        "id": "1491746997224808454",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udccf  Can scientific models predict the future of #ClimateChange? It has been a debate for years, but this kind of predictions can provide real facts and help us make better decisions.\n\nhttps://t.co/w5rDHIagMb"
+    }
+}

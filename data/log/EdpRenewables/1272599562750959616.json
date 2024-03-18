@@ -1,0 +1,59 @@
+{
+    "1272599562750959616": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-15T18:39:14.000Z",
+        "edit_history_tweet_ids": [
+            "1272599562750959616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Diamundialdelviento",
+                    "probability": 0.6013,
+                    "start": 11,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6118,
+                    "start": 152,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 10,
+                    "tag": "Diamundialdelviento"
+                },
+                {
+                    "end": 156,
+                    "start": 151,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/aeeolica/statu\u2026",
+                    "end": 209,
+                    "expanded_url": "https://twitter.com/aeeolica/status/1272499424707649538",
+                    "start": 186,
+                    "url": "https://t.co/con7G1r9j2"
+                }
+            ]
+        },
+        "id": "1272599562750959616",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Hoy es el #Diamundialdelviento y nos gustar\u00eda celebrarlo con todas aquellas personas que lo transforman en energ\u00eda. \n\nGracias a todos los empleados de #EDPR en el \ud83c\udf0d por hacerlo posible. https://t.co/con7G1r9j2"
+    }
+}

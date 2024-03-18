@@ -1,0 +1,47 @@
+{
+    "1443153578210873345": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-29T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1443153578210873345"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Lathi",
+                    "probability": 0.6421,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "European Green Capital",
+                    "probability": 0.3429,
+                    "start": 55,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/39PhLfI",
+                    "end": 210,
+                    "expanded_url": "https://bit.ly/39PhLfI",
+                    "start": 187,
+                    "url": "https://t.co/LTuhBSPMkD"
+                }
+            ]
+        },
+        "id": "1443153578210873345",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\uddeb\ud83c\uddee  Lathi, a small finnish city, has won the award for European Green Capital this year. Its transition to a modern green city is an inspiration for the rest of the world. Here's why \ud83d\udc47 \n\nhttps://t.co/LTuhBSPMkD"
+    }
+}

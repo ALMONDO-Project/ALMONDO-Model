@@ -1,0 +1,67 @@
+{
+    "1344282096077070339": {
+        "attachments": {
+            "media_keys": [
+                "3_1344282094420242434"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-30T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1344282096077070339"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "Stocare Project",
+                    "probability": 0.8071,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4081,
+                    "start": 252,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 256,
+                    "start": 251,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3rjee0U",
+                    "end": 250,
+                    "expanded_url": "https://bit.ly/3rjee0U",
+                    "start": 227,
+                    "url": "https://t.co/KdkIaiAx3s"
+                },
+                {
+                    "display_url": "pic.twitter.com/gipMAHcg4c",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1344282096077070339/photo/1",
+                    "media_key": "3_1344282094420242434",
+                    "start": 257,
+                    "url": "https://t.co/gipMAHcg4c"
+                }
+            ]
+        },
+        "id": "1344282096077070339",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We would like to think that, in the future, wind farms will follow our Stocare Project model; storing wind energy\ud83c\udf2c in batteries at times of excess energy to be able to supply it in moments of low productivity or high demand  \n\ud83d\udc49https://t.co/KdkIaiAx3s\n#EDPR https://t.co/gipMAHcg4c"
+    }
+}

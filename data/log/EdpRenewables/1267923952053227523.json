@@ -1,0 +1,67 @@
+{
+    "1267923952053227523": {
+        "attachments": {
+            "media_keys": [
+                "3_1267923950438354956"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-02T21:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1267923952053227523"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Solarenergy",
+                    "probability": 0.5455,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "U.S.",
+                    "probability": 0.9459,
+                    "start": 80,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "America",
+                    "probability": 0.9396,
+                    "start": 116,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 14,
+                    "tag": "Solarenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/leGmwZyWmn",
+                    "end": 168,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1267923952053227523/photo/1",
+                    "media_key": "3_1267923950438354956",
+                    "start": 145,
+                    "url": "https://t.co/leGmwZyWmn"
+                }
+            ]
+        },
+        "id": "1267923952053227523",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Did you know? #Solarenergy could provide enough electricity to power the entire U.S. using less than 0.6 percent of America's total land area. \ud83d\udd06 https://t.co/leGmwZyWmn"
+    }
+}

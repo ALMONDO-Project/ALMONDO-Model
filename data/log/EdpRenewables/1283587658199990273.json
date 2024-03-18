@@ -1,0 +1,63 @@
+{
+    "1283587658199990273": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-16T02:22:00.000Z",
+        "edit_history_tweet_ids": [
+            "1283587658199990273"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9128,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4566,
+                    "start": 70,
+                    "type": "Organization"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Hoosier State",
+                    "probability": 0.5126,
+                    "start": 118,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 74,
+                    "start": 69,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "insideindianabusiness.com/story/42276617\u2026",
+                    "end": 157,
+                    "expanded_url": "https://www.insideindianabusiness.com/story/42276617/inpower-study-wind-energy-continuing-to-grow-in-indiana",
+                    "start": 134,
+                    "status": 200,
+                    "unwound_url": "https://www.insideindianabusiness.com/articles/inpower-study-wind-energy-continuing-to-grow-in-indiana",
+                    "url": "https://t.co/PUd4sE2LL6"
+                }
+            ]
+        },
+        "id": "1283587658199990273",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udca8More than 450 turbines are spinning at our Indiana projects, making #EDPR the largest operator of wind energy in the Hoosier State.  https://t.co/PUd4sE2LL6"
+    }
+}

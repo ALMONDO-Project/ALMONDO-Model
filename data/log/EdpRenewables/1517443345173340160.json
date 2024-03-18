@@ -1,0 +1,42 @@
+{
+    "1517443345173340160": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-22T10:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1517443345173340160"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Earth",
+                    "probability": 0.6959,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.natgeo.com/3MmCfh5",
+                    "end": 240,
+                    "expanded_url": "https://on.natgeo.com/3MmCfh5",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "https://www.nationalgeographic.com/environment/graphics/the-worlds-forests-decades-of-loss-and-change?linkId=100000121672380",
+                    "url": "https://t.co/70TWUBMyZi"
+                }
+            ]
+        },
+        "id": "1517443345173340160",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf33  The majority of Earth's biodiversity on land can be found in forests. Yet only 18% of these tracts are in legally protected areas. \n\nCheck out how forests have evolved (and disappeared) during the last decades \ud83d\udc47 \n\nhttps://t.co/70TWUBMyZi"
+    }
+}

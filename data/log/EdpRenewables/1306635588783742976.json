@@ -1,0 +1,54 @@
+{
+    "1306635588783742976": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-17T16:46:15.000Z",
+        "edit_history_tweet_ids": [
+            "1306635588783742976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6492,
+                    "start": 32,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 31,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 127,
+                    "start": 95,
+                    "tag": "EmpresaFamiliarmenteResponsable"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/es/noticias/20\u2026",
+                    "end": 250,
+                    "expanded_url": "https://www.edpr.com/es/noticias/2020/09/17/edpr-reconocida-como-empresa-excelente-en-conciliacion",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/es/noticias/2020/09/17/edpr-reconocida-como-empresa-excelente-en-conciliacion",
+                    "url": "https://t.co/eg4pPUmqWd"
+                }
+            ]
+        },
+        "id": "1306635588783742976",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\u2600\ufe0f70 iniciativas han hecho que #EDPR consiga el grado de \u2018Excelencia\u2019 en el certificado efr de #EmpresaFamiliarmenteResponsable\n\nEl equilibrio entre lo laboral y lo personal es clave para que una empresa est\u00e9 a la vanguardia.\n https://t.co/eg4pPUmqWd"
+    }
+}

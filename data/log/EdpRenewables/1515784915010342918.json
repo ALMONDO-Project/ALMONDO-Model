@@ -1,0 +1,57 @@
+{
+    "1515784915010342918": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-17T20:11:00.000Z",
+        "edit_history_tweet_ids": [
+            "1515784915010342918"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.8403,
+                    "start": 32,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 31,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 122,
+                    "id": "27860681",
+                    "start": 112,
+                    "username": "WorldBank"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3rmBexD",
+                    "end": 215,
+                    "expanded_url": "https://bit.ly/3rmBexD",
+                    "start": 192,
+                    "status": 200,
+                    "unwound_url": "https://www.worldbank.org/en/who-we-are/news/campaigns/2021/climate-explainer-series?linkId=100000120137507",
+                    "url": "https://t.co/004Jx7T81G"
+                }
+            ]
+        },
+        "id": "1515784915010342918",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Feeling there's still a lot of #ClimateChange jargon you don't really get?\n\n\ud83e\udd13  We've got you covered! Check the @WorldBank climate explainer series covering every single aspect of the issue!\n\nhttps://t.co/004Jx7T81G"
+    }
+}

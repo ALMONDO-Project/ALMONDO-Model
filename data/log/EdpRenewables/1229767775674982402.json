@@ -1,0 +1,47 @@
+{
+    "1229767775674982402": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-18T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1229767775674982402"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 118,
+                    "normalized_text": "Acci\u00f3nClim\u00e1tica",
+                    "probability": 0.5806,
+                    "start": 104,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 103,
+                    "tag": "Acci\u00f3nClim\u00e1tica"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ethic.es/2020/02/joaqui\u2026",
+                    "end": 143,
+                    "expanded_url": "https://ethic.es/2020/02/joaquin-phoenix-discurso-oscars-naturaleza/",
+                    "start": 120,
+                    "url": "https://t.co/VA4p5s3k7Y"
+                }
+            ]
+        },
+        "id": "1229767775674982402",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u00abNos hemos desconectado de la naturaleza y somos culpables de creernos que somos el centro del mundo\u00bb. #Acci\u00f3nClim\u00e1tica\nhttps://t.co/VA4p5s3k7Y"
+    }
+}

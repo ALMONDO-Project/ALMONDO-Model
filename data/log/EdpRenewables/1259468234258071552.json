@@ -1,0 +1,55 @@
+{
+    "1259468234258071552": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-10T13:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1259468234258071552"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "FossilFuel",
+                    "probability": 0.8406,
+                    "start": 45,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 44,
+                    "tag": "FossilFuel"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 94,
+                    "id": "5120691",
+                    "start": 90,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "weforum.org/agenda/2020/04\u2026",
+                    "end": 141,
+                    "expanded_url": "https://www.weforum.org/agenda/2020/04/heres-what-the-pandemic-means-for-the-energy-transition/",
+                    "start": 118,
+                    "url": "https://t.co/oIQ7ZoxqMd"
+                }
+            ]
+        },
+        "id": "1259468234258071552",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The pace of the global transition away from #FossilFuel systems is still not clear \ud83c\udf31. But @wef gives us some insight\ud83d\udc47 https://t.co/oIQ7ZoxqMd"
+    }
+}

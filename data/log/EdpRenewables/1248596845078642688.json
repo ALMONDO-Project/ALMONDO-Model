@@ -1,0 +1,47 @@
+{
+    "1248596845078642688": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-10T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1248596845078642688"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "EnergyStorage",
+                    "probability": 0.7172,
+                    "start": 28,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 27,
+                    "tag": "EnergyStorage"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "windpowerengineering.com/winds-of-chang\u2026",
+                    "end": 167,
+                    "expanded_url": "https://www.windpowerengineering.com/winds-of-change-lead-batteries-will-influence-the-future-of-renewable-energy-storage/",
+                    "start": 144,
+                    "url": "https://t.co/hI904rXwZF"
+                }
+            ]
+        },
+        "id": "1248596845078642688",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "As the demand for reliable #EnergyStorage continues to soar, it is matched by pressure to develop more innovative, higher performing batteries. https://t.co/hI904rXwZF"
+    }
+}

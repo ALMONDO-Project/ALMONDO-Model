@@ -1,0 +1,59 @@
+{
+    "1398337847707504640": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-28T17:58:17.000Z",
+        "edit_history_tweet_ids": [
+            "1398337847707504640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "EDPR",
+                    "probability": 0.405,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Chile",
+                    "probability": 0.9493,
+                    "start": 79,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 3,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 131,
+                    "start": 115,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2SA7u1F",
+                    "end": 113,
+                    "expanded_url": "https://bit.ly/2SA7u1F",
+                    "start": 90,
+                    "url": "https://t.co/JN9On6KMnT"
+                }
+            ]
+        },
+        "id": "1398337847707504640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\uddde\ufe0f #EDPR enters its 16th market acquiring a 628 MW wind and solar portfolio in Chile \ud83c\udde8\ud83c\uddf1  \ud83d\udc49https://t.co/JN9On6KMnT\n\n#RenewableEnergy"
+    }
+}

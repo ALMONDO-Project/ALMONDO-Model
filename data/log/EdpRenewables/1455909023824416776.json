@@ -1,0 +1,68 @@
+{
+    "1455909023824416776": {
+        "attachments": {
+            "media_keys": [
+                "3_1455909020758335498"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-11-03T14:45:35.000Z",
+        "edit_history_tweet_ids": [
+            "1455909023824416776"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6706,
+                    "start": 20,
+                    "type": "Organization"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "Asia-Pacific region",
+                    "probability": 0.77,
+                    "start": 56,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 138,
+                    "id": "938665377587871744",
+                    "start": 124,
+                    "username": "sunseap_group"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3nXq7bO",
+                    "end": 171,
+                    "expanded_url": "https://bit.ly/3nXq7bO",
+                    "start": 148,
+                    "url": "https://t.co/qqQPskxEpH"
+                },
+                {
+                    "display_url": "pic.twitter.com/ztRxpby1Nm",
+                    "end": 195,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1455909023824416776/photo/1",
+                    "media_key": "3_1455909020758335498",
+                    "start": 172,
+                    "url": "https://t.co/ztRxpby1Nm"
+                }
+            ]
+        },
+        "id": "1455909023824416776",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udcc5 Big news today! \n\nEDPR reinforces its presence in the Asia-Pacific region through the investment in the Singaporean group @sunseap_group. \n\n\ud83d\udc47 \ud83d\udc47 \n\nhttps://t.co/qqQPskxEpH https://t.co/ztRxpby1Nm"
+    }
+}

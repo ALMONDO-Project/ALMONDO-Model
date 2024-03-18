@@ -1,0 +1,79 @@
+{
+    "1235422787411390464": {
+        "attachments": {
+            "media_keys": [
+                "3_1235120287609430022"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-05T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1235422787411390464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Elkhorn Valley Wind Farm",
+                    "probability": 0.563,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Union County",
+                    "probability": 0.8859,
+                    "start": 66,
+                    "type": "Place"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Washington",
+                    "probability": 0.9315,
+                    "start": 80,
+                    "type": "Place"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Elkhorn Valley",
+                    "probability": 0.9401,
+                    "start": 92,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Throwback"
+                },
+                {
+                    "end": 141,
+                    "start": 130,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/vWnWISVQs4",
+                    "end": 189,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1235422787411390464/photo/1",
+                    "media_key": "3_1235120287609430022",
+                    "start": 166,
+                    "url": "https://t.co/vWnWISVQs4"
+                }
+            ]
+        },
+        "id": "1235422787411390464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#Throwback to the construction of our Elkhorn Valley Wind Farm in Union County, Washington. Elkhorn Valley has provided 100 MW of #windenergy for more than 10 years. https://t.co/vWnWISVQs4"
+    }
+}

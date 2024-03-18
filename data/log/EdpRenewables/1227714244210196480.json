@@ -1,0 +1,62 @@
+{
+    "1227714244210196480": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-12T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1227714244210196480"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "RenewablePower",
+                    "probability": 0.4535,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 47,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 84,
+                    "start": 69,
+                    "tag": "RenewablePower"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 186,
+                    "id": "122417788",
+                    "start": 178,
+                    "username": "ACEEEdc"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "facilityexecutive.com/2020/02/few-ci\u2026",
+                    "end": 210,
+                    "expanded_url": "https://facilityexecutive.com/2020/02/few-cities-include-robust-clean-energy-policies-in-resilience-plans/",
+                    "start": 187,
+                    "status": 200,
+                    "unwound_url": "https://facilityexecutive.com/few-cities-include-robust-clean-energy-policies-in-resilience-plans",
+                    "url": "https://t.co/8bGUvwJVbw"
+                }
+            ]
+        },
+        "id": "1227714244210196480",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "While many cities are taking steps to increase #EnergyEfficiency and #RenewablePower, only one-fifth include such initiatives in their resilience plans, finds a global survey by @ACEEEdc https://t.co/8bGUvwJVbw"
+    }
+}

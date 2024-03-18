@@ -1,0 +1,63 @@
+{
+    "1332053169929646080": {
+        "attachments": {
+            "media_keys": [
+                "3_1332052515031035907"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-26T20:06:38.000Z",
+        "edit_history_tweet_ids": [
+            "1332053169929646080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4474,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 36,
+                    "start": 27,
+                    "tag": "thankful"
+                },
+                {
+                    "end": 89,
+                    "start": 71,
+                    "tag": "HappyThanksgiving"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/gxBZTWAMOk",
+                    "end": 117,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1332053169929646080/photo/1",
+                    "media_key": "3_1332052515031035907",
+                    "start": 94,
+                    "url": "https://t.co/gxBZTWAMOk"
+                }
+            ]
+        },
+        "id": "1332053169929646080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#EDPR NA has so much to be #thankful for. \nFrom our families to yours, #HappyThanksgiving! \ud83d\ude4f\ud83c\udf8a https://t.co/gxBZTWAMOk"
+    }
+}

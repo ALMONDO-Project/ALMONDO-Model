@@ -1,0 +1,56 @@
+{
+    "1550209245278359553": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-07-21T20:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1550209245278359553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "UN",
+                    "probability": 0.5014,
+                    "start": 51,
+                    "type": "Organization"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Antonio Guterres",
+                    "probability": 0.8995,
+                    "start": 73,
+                    "type": "Person"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Europe",
+                    "probability": 0.9563,
+                    "start": 197,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3PqicAx",
+                    "end": 239,
+                    "expanded_url": "https://bit.ly/3PqicAx",
+                    "start": 216,
+                    "status": 200,
+                    "unwound_url": "https://www.euronews.com/green/2022/07/18/40-countries-meet-in-berlin-to-address-climate-change-as-europe-is-burning-in-the-heat?linkId=100000137503131",
+                    "url": "https://t.co/LmSatZINYA"
+                }
+            ]
+        },
+        "id": "1550209245278359553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc49 Senior officials from 40 countries have met with UN Secretary-General, Antonio Guterres, to talk about how to stay focused on fighting climate change amid the fires that are spreading throughout Europe right now.\n\nhttps://t.co/LmSatZINYA"
+    }
+}

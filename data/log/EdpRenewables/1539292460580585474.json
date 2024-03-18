@@ -1,0 +1,56 @@
+{
+    "1539292460580585474": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-21T17:01:35.000Z",
+        "edit_history_tweet_ids": [
+            "1539292460580585474"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Spain",
+                    "probability": 0.9789,
+                    "start": 46,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Europe",
+                    "probability": 0.9444,
+                    "start": 122,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 235,
+                    "start": 222,
+                    "tag": "biodiversity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3HGOJz8",
+                    "end": 269,
+                    "expanded_url": "https://bit.ly/3HGOJz8",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.theguardian.com/world/2022/jun/19/spain-battles-wildfires-fuelled-by-one-of-earliest-heatwaves-on-record?linkId=100000131776667",
+                    "url": "https://t.co/pJZie1j1m5"
+                }
+            ]
+        },
+        "id": "1539292460580585474",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udd25  Heatwaves have caused several wildfires in Spain. One of them has already burned 25,000 hectares of the home to one of Europe's largest wolf populations.\n\n\ud83d\udc49  Early prevention is key to avoid similar situations that put #biodiversity at risk.\n\nhttps://t.co/pJZie1j1m5"
+    }
+}

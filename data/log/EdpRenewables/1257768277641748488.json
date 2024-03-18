@@ -1,0 +1,54 @@
+{
+    "1257768277641748488": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-05T20:25:00.000Z",
+        "edit_history_tweet_ids": [
+            "1257768277641748488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Europe",
+                    "probability": 0.9668,
+                    "start": 43,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "Renewables"
+                },
+                {
+                    "end": 113,
+                    "start": 89,
+                    "tag": "DecarbonizationOfEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "eco-business.com/news/its-a-gal\u2026",
+                    "end": 139,
+                    "expanded_url": "https://www.eco-business.com/news/its-a-galloping-goodbye-to-europes-coal/",
+                    "start": 116,
+                    "status": 200,
+                    "unwound_url": "https://www.eco-business.com/news/its-a-galloping-goodbye-to-europes-coal/",
+                    "url": "https://t.co/93jAmE4IMQ"
+                }
+            ]
+        },
+        "id": "1257768277641748488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#Renewables are on the rise across most of Europe, while coal use is in sharp decline. \ud83c\udf0d #DecarbonizationOfEurope \n https://t.co/93jAmE4IMQ"
+    }
+}

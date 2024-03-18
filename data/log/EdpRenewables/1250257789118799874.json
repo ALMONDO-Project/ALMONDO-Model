@@ -1,0 +1,70 @@
+{
+    "1250257789118799874": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-15T03:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1250257789118799874"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Los Mirasoles Wind Farm",
+                    "probability": 0.6803,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Hidalgo",
+                    "probability": 0.7653,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Starr Counties",
+                    "probability": 0.6314,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Texas",
+                    "probability": 0.9609,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "EDPR",
+                    "probability": 0.384,
+                    "start": 130,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "windpowerengineering.com/edp-renewables\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.windpowerengineering.com/edp-renewables-completes-wind-project/",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://www.windpowerengineering.com/edp-renewables-completes-wind-project/",
+                    "url": "https://t.co/vWG003AQUd"
+                }
+            ]
+        },
+        "id": "1250257789118799874",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "The second phase of our Los Mirasoles Wind Farm recently completed construction in Hidalgo and Starr Counties in Texas, expanding EDPR's footprint in the state to 700 MW.  https://t.co/vWG003AQUd"
+    }
+}

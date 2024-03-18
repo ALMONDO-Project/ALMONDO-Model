@@ -1,0 +1,56 @@
+{
+    "1438956173659607044": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-17T20:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1438956173659607044"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "UK",
+                    "probability": 0.9737,
+                    "start": 8,
+                    "type": "Place"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.395,
+                    "start": 52,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 67,
+                    "start": 51,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2XseiRX",
+                    "end": 172,
+                    "expanded_url": "https://bit.ly/2XseiRX",
+                    "start": 149,
+                    "status": 200,
+                    "unwound_url": "https://www.theguardian.com/environment/2021/sep/13/uk-to-offer-265m-in-subsidies-for-renewable-energy-developers?linkId=100000068373773",
+                    "url": "https://t.co/k4GU9M99Iy"
+                }
+            ]
+        },
+        "id": "1438956173659607044",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddec\ud83c\udde7  The UK has passed its biggest auction round in #RenewableEnergy. A \u00a3265m subsidy to support a record number of wind, solar and tidal projects. \n\nhttps://t.co/k4GU9M99Iy"
+    }
+}

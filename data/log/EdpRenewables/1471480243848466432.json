@@ -1,0 +1,84 @@
+{
+    "1471480243848466432": {
+        "attachments": {
+            "media_keys": [
+                "3_1471480241554079749"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-12-16T14:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1471480243848466432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "EDPR",
+                    "probability": 0.468,
+                    "start": 6,
+                    "type": "Organization"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Westcheter County",
+                    "probability": 0.8726,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "NY",
+                    "probability": 0.8847,
+                    "start": 108,
+                    "type": "Place"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "New York State",
+                    "probability": 0.569,
+                    "start": 215,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 5,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 55,
+                    "start": 49,
+                    "tag": "solar"
+                },
+                {
+                    "end": 68,
+                    "start": 60,
+                    "tag": "storage"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/l3gSONgt2p",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1471480243848466432/photo/1",
+                    "media_key": "3_1471480241554079749",
+                    "start": 274,
+                    "url": "https://t.co/l3gSONgt2p"
+                }
+            ]
+        },
+        "id": "1471480243848466432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "\ud83e\udd1d \u26a1  #EDPR has reached completion of a community #solar and #storage facility located in Westcheter County, NY. \n\n\ud83c\udfd8\ufe0f  The project generates enough power to an annual offset of 1,052 metric tonnes of CO2, supporting New York State's environmental goals. \n\nBut there's more \ud83e\uddf5 https://t.co/l3gSONgt2p"
+    }
+}

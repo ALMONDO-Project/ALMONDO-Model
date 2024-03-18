@@ -1,0 +1,72 @@
+{
+    "1396556800581898240": {
+        "attachments": {
+            "media_keys": [
+                "3_1396556799059402755"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-23T20:01:02.000Z",
+        "edit_history_tweet_ids": [
+            "1396556800581898240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "PolishEnergy",
+                    "probability": 0.4137,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "European Commission",
+                    "probability": 0.7252,
+                    "start": 22,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 0,
+                    "tag": "PolishEnergy"
+                },
+                {
+                    "end": 170,
+                    "start": 154,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "reut.rs/3f76mvn",
+                    "end": 152,
+                    "expanded_url": "https://reut.rs/3f76mvn",
+                    "start": 129,
+                    "url": "https://t.co/9v1MN37d4v"
+                },
+                {
+                    "display_url": "pic.twitter.com/WZ2tVhJhPn",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1396556800581898240/photo/1",
+                    "media_key": "3_1396556799059402755",
+                    "start": 171,
+                    "url": "https://t.co/WZ2tVhJhPn"
+                }
+            ]
+        },
+        "id": "1396556800581898240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "#PolishEnergy\n\n\ud83c\uddea\ud83c\uddfa The European Commission has approved a Polish scheme to support offshore wind farms with 22.5 billion euros \ud83d\udc49  https://t.co/9v1MN37d4v\n\n#RenewableEnergy https://t.co/WZ2tVhJhPn"
+    }
+}

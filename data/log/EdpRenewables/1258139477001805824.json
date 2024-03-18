@@ -1,0 +1,66 @@
+{
+    "1258139477001805824": {
+        "attachments": {
+            "media_keys": [
+                "3_1258139475592372224"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-06T21:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1258139477001805824"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 130,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4681,
+                    "start": 127,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 131,
+                    "start": 126,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 210,
+                    "start": 194,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 26,
+                    "id": "74872101",
+                    "start": 10,
+                    "username": "KidWind_Project"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Css6pJSLP7",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1258139477001805824/photo/1",
+                    "media_key": "3_1258139475592372224",
+                    "start": 275,
+                    "url": "https://t.co/Css6pJSLP7"
+                }
+            ]
+        },
+        "id": "1258139477001805824",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Thanks to @KidWind_Project for helping bring our annual \u201cTake Our Daughters and Sons to Work Day\u201d event online! More than 100 #EDPR NA families participated in the virtual event, learning about #renewableenergy by constructing model turbines and solar-powered activity kits. https://t.co/Css6pJSLP7"
+    }
+}

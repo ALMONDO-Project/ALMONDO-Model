@@ -1,0 +1,54 @@
+{
+    "1258238123647131648": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-07T03:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1258238123647131648"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 145,
+                    "normalized_text": "United States",
+                    "probability": 0.9597,
+                    "start": 133,
+                    "type": "Place"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "GreenJobs",
+                    "probability": 0.4322,
+                    "start": 154,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 163,
+                    "start": 153,
+                    "tag": "GreenJobs"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theverge.com/2020/4/30/2124\u2026",
+                    "end": 221,
+                    "expanded_url": "https://www.theverge.com/2020/4/30/21243011/clean-energy-renewables-coronavirus-recession-stimulus-unemployment",
+                    "start": 198,
+                    "url": "https://t.co/ODl6GzeY5V"
+                }
+            ]
+        },
+        "id": "1258238123647131648",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u201cRight now is the ideal time to be investing in renewable energy that can produce millions of family-sustaining wage jobs across the United States.\u201d How #GreenJobs could get Americans back to work. https://t.co/ODl6GzeY5V"
+    }
+}

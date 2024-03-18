@@ -1,0 +1,65 @@
+{
+    "1534223888418320384": {
+        "attachments": {
+            "media_keys": [
+                "7_1534223751776198656"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-07T17:20:54.000Z",
+        "edit_history_tweet_ids": [
+            "1534223888418320384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 209,
+                    "normalized_text": "Earth",
+                    "probability": 0.5251,
+                    "start": 205,
+                    "type": "Other"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "EDPChangingTomorrowNow",
+                    "probability": 0.5888,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 220,
+                    "tag": "EDPChangingTomorrowNow"
+                },
+                {
+                    "end": 258,
+                    "start": 244,
+                    "tag": "WeChooseEarth"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/4eFaGu08lm",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1534223888418320384/video/1",
+                    "media_key": "7_1534223751776198656",
+                    "start": 259,
+                    "url": "https://t.co/4eFaGu08lm"
+                }
+            ]
+        },
+        "id": "1534223888418320384",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 1
+        },
+        "text": "We choose to change the energy for good.\n\nTo be 100% green by 2030 and to produce energy only from renewable resources. And we are doing it because we choose Earth. Because we choose positivity. We choose Earth. Do you?\n#EDPChangingTomorrowNow #WeChooseEarth https://t.co/4eFaGu08lm"
+    }
+}

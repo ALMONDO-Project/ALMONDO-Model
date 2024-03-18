@@ -1,0 +1,74 @@
+{
+    "1360346446558617605": {
+        "attachments": {
+            "media_keys": [
+                "3_1360346445031833607"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-02-12T21:54:01.000Z",
+        "edit_history_tweet_ids": [
+            "1360346446558617605"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4512,
+                    "start": 20,
+                    "type": "Organization"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "Lost Lakes Wind Farm",
+                    "probability": 0.7269,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Dickinson County",
+                    "probability": 0.794,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Iowa",
+                    "probability": 0.9583,
+                    "start": 69,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 19,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Zso5m90IOt",
+                    "end": 199,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1360346446558617605/photo/1",
+                    "media_key": "3_1360346445031833607",
+                    "start": 176,
+                    "url": "https://t.co/Zso5m90IOt"
+                }
+            ]
+        },
+        "id": "1360346446558617605",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "High in the sky at #EDPR\u2019s Lost Lakes Wind Farm in Dickinson County, Iowa, where our site team maintains and operates more than 60 turbines with a combined capacity of 100 MW. https://t.co/Zso5m90IOt"
+    }
+}

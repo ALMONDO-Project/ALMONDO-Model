@@ -1,0 +1,49 @@
+{
+    "1418617152941150210": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-23T17:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1418617152941150210"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "CO2",
+                    "probability": 0.8262,
+                    "start": 63,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 281,
+                    "start": 264,
+                    "tag": "EnergyTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kIsXRY",
+                    "end": 262,
+                    "expanded_url": "https://bit.ly/3kIsXRY",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.altenergymag.com/article/2021/07/the-future-of-energy-storage-microgrids/35380?linkId=100000056572955",
+                    "url": "https://t.co/8eDKG6IBAX"
+                }
+            ]
+        },
+        "id": "1418617152941150210",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "As electric utility companies look to drastically reduce their CO2 emissions over the next decades, significant steps are already being taken to begin modernizing the grid, &amp; microgrids represent a key component of that modernization. https://t.co/8eDKG6IBAX\n\n#EnergyTransition"
+    }
+}

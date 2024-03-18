@@ -1,0 +1,72 @@
+{
+    "1342047371111366657": {
+        "attachments": {
+            "media_keys": [
+                "3_1342047369618219016"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-24T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1342047371111366657"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "WindFloat Atlantic",
+                    "probability": 0.6044,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 241,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4258,
+                    "start": 238,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 242,
+                    "start": 237,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 252,
+                    "start": 243,
+                    "tag": "windfarm"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3nE68h5",
+                    "end": 236,
+                    "expanded_url": "https://bit.ly/3nE68h5",
+                    "start": 213,
+                    "url": "https://t.co/lOvBDwb6Ag"
+                },
+                {
+                    "display_url": "pic.twitter.com/PQAeOJZiiX",
+                    "end": 276,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1342047371111366657/photo/1",
+                    "media_key": "3_1342047369618219016",
+                    "start": 253,
+                    "url": "https://t.co/PQAeOJZiiX"
+                }
+            ]
+        },
+        "id": "1342047371111366657",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Do you know why we only have 3\u20e3 turbines at our floating windfarm, WindFloat Atlantic?\nTurbines installed on the sea floor are much more functional than those at surface level. \ud83c\udf0a\nYou can see more information here https://t.co/lOvBDwb6Ag\n#EDPR #windfarm https://t.co/PQAeOJZiiX"
+    }
+}

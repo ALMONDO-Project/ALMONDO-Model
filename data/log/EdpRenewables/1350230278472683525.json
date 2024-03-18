@@ -1,0 +1,47 @@
+{
+    "1350230278472683525": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-15T23:55:59.000Z",
+        "edit_history_tweet_ids": [
+            "1350230278472683525"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "GoGreen",
+                    "probability": 0.7413,
+                    "start": 63,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 70,
+                    "start": 62,
+                    "tag": "GoGreen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cnn.it/3hEZa9s",
+                    "end": 145,
+                    "expanded_url": "http://cnn.it/3hEZa9s",
+                    "start": 122,
+                    "url": "https://t.co/zwykVGG8LA"
+                }
+            ]
+        },
+        "id": "1350230278472683525",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Have you made your new year\u2019s resolutions? \n\nMake a pledge to #GoGreen in 2021 with these environmentally conscious tips: https://t.co/zwykVGG8LA"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1283145746657816582": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-14T21:06:00.000Z",
+        "edit_history_tweet_ids": [
+            "1283145746657816582"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "EU",
+                    "probability": 0.7184,
+                    "start": 6,
+                    "type": "Place"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "Europe",
+                    "probability": 0.9612,
+                    "start": 39,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 125,
+                    "start": 109,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "innovationorigins.com/innovative-eur\u2026",
+                    "end": 154,
+                    "expanded_url": "https://innovationorigins.com/innovative-european-solar-cells-boost-energy-transition/",
+                    "start": 131,
+                    "url": "https://t.co/vylj83ISe7"
+                }
+            ]
+        },
+        "id": "1283145746657816582",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddea\ud83c\uddfa An EU-funded project must now bring Europe closer to producing its own innovative solar cells and panels. #RenewableEnergy \u2600\ufe0f\ud83c\udf31\n https://t.co/vylj83ISe7"
+    }
+}

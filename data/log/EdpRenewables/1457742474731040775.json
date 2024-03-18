@@ -1,0 +1,48 @@
+{
+    "1457742474731040775": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-11-08T16:11:04.000Z",
+        "edit_history_tweet_ids": [
+            "1457742474731040775"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 114,
+                    "normalized_text": "Western United States",
+                    "probability": 0.7622,
+                    "start": 94,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 159,
+                    "id": "3293433438",
+                    "start": 145,
+                    "username": "LVchrisbrooks"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "t.co/Tl7K5du7as",
+                    "end": 231,
+                    "expanded_url": "https://t.co/Tl7K5du7as",
+                    "start": 208,
+                    "url": "https://t.co/Tl7K5du7as"
+                }
+            ]
+        },
+        "id": "1457742474731040775",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "This is how we will make energy more reliable and affordable for Nevadans and everyone in the Western United States. \n\nThank you @GovSisolak and @LVChrisBrooks for your leadership on advancing a Western RTO! https://t.co/Tl7K5du7as"
+    }
+}

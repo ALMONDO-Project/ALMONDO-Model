@@ -1,0 +1,69 @@
+{
+    "1266119053032198144": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-28T21:28:00.000Z",
+        "edit_history_tweet_ids": [
+            "1266119053032198144"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.6141,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "GreenEconomy",
+                    "probability": 0.5486,
+                    "start": 103,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 65,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 115,
+                    "start": 102,
+                    "tag": "GreenEconomy"
+                },
+                {
+                    "end": 183,
+                    "start": 167,
+                    "tag": "Decarbonization"
+                },
+                {
+                    "end": 201,
+                    "start": 184,
+                    "tag": "TheGreenRecovery"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theguardian.com/australia-news\u2026",
+                    "end": 226,
+                    "expanded_url": "https://www.theguardian.com/australia-news/commentisfree/2020/may/18/decarbonisation-is-our-future-it-must-be-factored-into-the-coronavirus-recovery",
+                    "start": 203,
+                    "url": "https://t.co/dgwHeOrjW6"
+                }
+            ]
+        },
+        "id": "1266119053032198144",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udf31With the economic recovery comes great opportunity to embrace a #LowCarbon future and refocus on the #GreenEconomy rather than stick to 20th century business models. #Decarbonization #TheGreenRecovery\n https://t.co/dgwHeOrjW6"
+    }
+}

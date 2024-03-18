@@ -1,0 +1,61 @@
+{
+    "1228680611918831616": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-15T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1228680611918831616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "FossilFuel",
+                    "probability": 0.7383,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "aCleanEnergy",
+                    "probability": 0.7302,
+                    "start": 123,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 76,
+                    "tag": "FossilFuel"
+                },
+                {
+                    "end": 161,
+                    "start": 144,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cleanenergy.org/blog/energy-ef\u2026",
+                    "end": 251,
+                    "expanded_url": "https://cleanenergy.org/blog/energy-efficiency-slows-climate-change-saves-money-why-havent-we-embraced-it-more/",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://cleanenergy.org/blog/energy-efficiency-slows-climate-change-saves-money-why-havent-we-embraced-it-more/",
+                    "url": "https://t.co/bJ0sOuED2X"
+                }
+            ]
+        },
+        "id": "1228680611918831616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The choices we make in the next decade will either lock us into a future of #FossilFuel dependence or transition us toward aCleanEnergy future. #EnergyEfficiency has the power to replace dirty energy and decarbonize the sector. https://t.co/bJ0sOuED2X"
+    }
+}

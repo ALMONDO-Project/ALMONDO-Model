@@ -1,0 +1,42 @@
+{
+    "1546131123876597763": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-07-10T13:56:00.000Z",
+        "edit_history_tweet_ids": [
+            "1546131123876597763"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Nepal",
+                    "probability": 0.958,
+                    "start": 60,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3PeBd8w",
+                    "end": 237,
+                    "expanded_url": "https://bit.ly/3PeBd8w",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://news.mongabay.com/2022/07/return-to-agroforestry-empowers-women-in-nepal/",
+                    "url": "https://t.co/irVJv3zM2i"
+                }
+            ]
+        },
+        "id": "1546131123876597763",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf33  Although farmers traditionally practiced agroforestry in Nepal, they gave it up with green revolution. Now, a women's group have decided to return to it not only to help conserve soil, but to gain empowerment.\n\nhttps://t.co/irVJv3zM2i"
+    }
+}

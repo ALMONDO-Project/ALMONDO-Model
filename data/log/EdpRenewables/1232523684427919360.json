@@ -1,0 +1,68 @@
+{
+    "1232523684427919360": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-26T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1232523684427919360"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6454,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 15,
+                    "normalized_text": "NIPSCO",
+                    "probability": 0.6665,
+                    "start": 10,
+                    "type": "Organization"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9762,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 82,
+                    "start": 71,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "wishtv.com/news/inside-in\u2026",
+                    "end": 118,
+                    "expanded_url": "https://www.wishtv.com/news/inside-indiana-business/will-indiana-be-the-crossroads-of-a-clean-energy-economy/",
+                    "start": 95,
+                    "status": 200,
+                    "unwound_url": "https://www.wishtv.com/news/inside-indiana-business/will-indiana-be-the-crossroads-of-a-clean-energy-economy/",
+                    "url": "https://t.co/ts4lzksSqy"
+                }
+            ]
+        },
+        "id": "1232523684427919360",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR and NIPSCO are working together to bring more than 400 MW of new #windenergy to Indiana.\nhttps://t.co/ts4lzksSqy"
+    }
+}

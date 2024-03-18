@@ -1,0 +1,49 @@
+{
+    "1441100302434766856": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-23T18:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1441100302434766856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "WindfloatAtlantic",
+                    "probability": 0.4368,
+                    "start": 34,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 33,
+                    "tag": "WindfloatAtlantic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kA1T6W",
+                    "end": 252,
+                    "expanded_url": "https://bit.ly/3kA1T6W",
+                    "start": 229,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/windfloat-atlantic-reaches-75-gwh-its-first-year-operation?linkId=100000069738370",
+                    "url": "https://t.co/U9REYZiN1Z"
+                }
+            ]
+        },
+        "id": "1441100302434766856",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udf0a \ud83d\udd1dWe are proud to announce that #WindfloatAtlantic reached 75 GWh in its first year of operation. \n\nThe energy produced is enough to \ud83c\udfe0 supply 60,000 inhabitants and \ud83c\udfde\ufe0f avoid the emission of 33,000 tons of CO2.\n\nDiscover more \ud83d\udc47  https://t.co/U9REYZiN1Z"
+    }
+}

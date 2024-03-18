@@ -1,0 +1,46 @@
+{
+    "1438424301204611072": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-16T08:47:32.000Z",
+        "edit_history_tweet_ids": [
+            "1438424301204611072"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4711,
+                    "start": 4,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 3,
+                    "tag": "EDPR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 88,
+                    "id": "27025414",
+                    "start": 74,
+                    "username": "ProcterGamble"
+                }
+            ]
+        },
+        "id": "1438424301204611072",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "\ud83e\udd1d  #EDPR has secured a 15-year power purchase agreement for 127.5 MW with @ProcterGamble. \n\n\ud83c\udf43  It will avoid annual emissions of over 130 thousand tons of CO2. \n\n[Thread \ud83e\uddf5]"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1395082599794622483": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-19T18:23:05.000Z",
+        "edit_history_tweet_ids": [
+            "1395082599794622483"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4904,
+                    "start": 28,
+                    "type": "Organization"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "MLE",
+                    "probability": 0.5279,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": ", ED",
+                    "probability": 0.5974,
+                    "start": 170,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 27,
+                    "tag": "EDPR"
+                }
+            ]
+        },
+        "id": "1395082599794622483",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "But why is it important to #EDPR, you may ask \ud83d\udc49 MLE program is in line with the company's commitment to innovative training solutions for its professionals. \ud83e\uddd1\u200d\ud83d\udcbb \n\nIn fact, EDPR employees have a full for free catalogue of on-site &amp; online training! \ud83c\udf93"
+    }
+}

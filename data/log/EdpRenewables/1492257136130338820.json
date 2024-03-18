@@ -1,0 +1,67 @@
+{
+    "1492257136130338820": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-11T22:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1492257136130338820"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "\n\nAna Cuen",
+                    "probability": 0.6137,
+                    "start": 114,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 4,
+                    "tag": "REBELSFORCHANGE"
+                },
+                {
+                    "end": 251,
+                    "start": 228,
+                    "tag": "EDPChangingTomorrowNow"
+                },
+                {
+                    "end": 264,
+                    "start": 252,
+                    "tag": "STEMCareers"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 150,
+                    "id": "1112667704010436609",
+                    "start": 136,
+                    "username": "EdpRenewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3HOsWon",
+                    "end": 226,
+                    "expanded_url": "https://bit.ly/3HOsWon",
+                    "start": 203,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=HIu9m0Gb2Jw&t=21s&linkId=100000108922976",
+                    "url": "https://t.co/MJUvIV0OCA"
+                }
+            ]
+        },
+        "id": "1492257136130338820",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc77\u200d\u2640\ufe0f#REBELSFORCHANGE | Engineering &amp; Construction\n\n \u00abIt's not a question of gender, but of effort and talent\u00bb \n\nAna Cuenca works at @EdpRenewables and she wants to encourage you \ud835\ude01\ud835\uddfc \ud835\uddef\ud835\uddf2 \ud835\uddee\ud835\uddfb \ud835\uddf2\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff. \n\nhttps://t.co/MJUvIV0OCA\n\n#EDPChangingTomorrowNow #STEMCareers"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1270449336657338375": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-09T20:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1270449336657338375"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4504,
+                    "start": 44,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 43,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 134,
+                    "start": 113,
+                    "tag": "EcologicalTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=3lrJYT\u2026",
+                    "end": 161,
+                    "expanded_url": "https://www.youtube.com/watch?v=3lrJYTsKdUM&feature=emb_title",
+                    "start": 138,
+                    "url": "https://t.co/6mK6CgMb7V"
+                }
+            ]
+        },
+        "id": "1270449336657338375",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Avoiding high-emission foods + Shifting to #RenewableEnergy\n\n=\n\nA huge climate impact and a step forward towards #EcologicalTransition \ud83c\udf31\n https://t.co/6mK6CgMb7V"
+    }
+}

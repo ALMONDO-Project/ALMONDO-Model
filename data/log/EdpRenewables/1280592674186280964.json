@@ -1,0 +1,52 @@
+{
+    "1280592674186280964": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-07T20:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1280592674186280964"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Spain",
+                    "probability": 0.9762,
+                    "start": 3,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 139,
+                    "start": 125,
+                    "tag": "GreenRecovery"
+                },
+                {
+                    "end": 156,
+                    "start": 140,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "af.reuters.com/article/commod\u2026",
+                    "end": 181,
+                    "expanded_url": "https://af.reuters.com/article/commoditiesNews/idAFL8N2E02BI",
+                    "start": 158,
+                    "url": "https://t.co/kQU45etylz"
+                }
+            ]
+        },
+        "id": "1280592674186280964",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\uddea\ud83c\uddf8 Spain wants to make use of rich natural resources including prodigious sunlight both to reduce pollution and create jobs. #GreenRecovery #RenewableEnergy\n https://t.co/kQU45etylz"
+    }
+}

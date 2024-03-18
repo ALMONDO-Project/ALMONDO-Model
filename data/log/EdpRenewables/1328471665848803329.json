@@ -1,0 +1,110 @@
+{
+    "1328471665848803329": {
+        "attachments": {
+            "media_keys": [
+                "3_1328471664376619011"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-11-16T22:55:01.000Z",
+        "edit_history_tweet_ids": [
+            "1328471665848803329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "REPoweringSchools",
+                    "probability": 0.3623,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5433,
+                    "start": 28,
+                    "type": "Organization"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6603,
+                    "start": 119,
+                    "type": "Organization"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "KidWind",
+                    "probability": 0.4883,
+                    "start": 177,
+                    "type": "Organization"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "Miguel Prado",
+                    "probability": 0.7688,
+                    "start": 236,
+                    "type": "Person"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5492,
+                    "start": 257,
+                    "type": "Organization"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "North America",
+                    "probability": 0.6677,
+                    "start": 262,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 0,
+                    "tag": "REPoweringSchools"
+                },
+                {
+                    "end": 32,
+                    "start": 27,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 103,
+                    "start": 87,
+                    "tag": "renewableenergy"
+                },
+                {
+                    "end": 123,
+                    "start": 118,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FU4lvKuYHU",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1328471665848803329/photo/1",
+                    "media_key": "3_1328471664376619011",
+                    "start": 277,
+                    "url": "https://t.co/FU4lvKuYHU"
+                }
+            ]
+        },
+        "id": "1328471665848803329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#REPoweringSchools honored #EDPR with an Industry Champion Award for our commitment to #renewableenergy education! \n\n\"#EDPR is proud to receive this award due to our support of KidWind activities and events across our footprint.\", said Miguel Prado, COO at EDPR North America. https://t.co/FU4lvKuYHU"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "1252341519421280261": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-20T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1252341519421280261"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 4,
+                    "tag": "renewable"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nasdaq.com/articles/whats\u2026",
+                    "end": 107,
+                    "expanded_url": "https://www.nasdaq.com/articles/whats-holding-the-renewable-revolution-back-2020-04-16",
+                    "start": 84,
+                    "status": 200,
+                    "unwound_url": "https://www.nasdaq.com/articles/whats-holding-the-renewable-revolution-back-2020-04-16",
+                    "url": "https://t.co/ZBXBJPQxBY"
+                }
+            ]
+        },
+        "id": "1252341519421280261",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The #renewable revolution has already started, but it needs to take a step further!\nhttps://t.co/ZBXBJPQxBY"
+    }
+}

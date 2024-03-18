@@ -1,0 +1,56 @@
+{
+    "1527077072304234498": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-05-19T00:02:00.000Z",
+        "edit_history_tweet_ids": [
+            "1527077072304234498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "covid-19",
+                    "probability": 0.9788,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Australia",
+                    "probability": 0.9779,
+                    "start": 149,
+                    "type": "Place"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9907,
+                    "start": 162,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3lnzbpO",
+                    "end": 196,
+                    "expanded_url": "https://bit.ly/3lnzbpO",
+                    "start": 173,
+                    "status": 200,
+                    "unwound_url": "https://www.weforum.org/videos/new-schemes-pay-workers-to-relocate-to-rural-areas/?linkId=100000125983500",
+                    "url": "https://t.co/X1MHOIzw8C"
+                }
+            ]
+        },
+        "id": "1527077072304234498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udfd8\ufe0f  Since covid-19, more and more people have been moving from big cities to rural areas. Even governments have driven this change in countries like Australia or Ireland. \n\nhttps://t.co/X1MHOIzw8C"
+    }
+}

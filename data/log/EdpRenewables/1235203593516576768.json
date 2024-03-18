@@ -1,0 +1,51 @@
+{
+    "1235203593516576768": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-04T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1235203593516576768"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 50,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 93,
+                    "start": 79,
+                    "tag": "climateaction"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 105,
+                    "id": "19777925",
+                    "start": 99,
+                    "username": "ICAEW"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "theguardian.com/business/2020/\u2026",
+                    "end": 207,
+                    "expanded_url": "https://www.theguardian.com/business/2020/feb/25/accountants-urged-to-help-firms-worldwide-combat-climate-crisis",
+                    "start": 184,
+                    "url": "https://t.co/2ZszEUrNo3"
+                }
+            ]
+        },
+        "id": "1235203593516576768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Accountants hold a \u201cunique position\u201d in promoting #sustainability and sparking #climateaction. Why @ICAEW and other industry groups seek to integrate climate risk into company audits:\nhttps://t.co/2ZszEUrNo3"
+    }
+}

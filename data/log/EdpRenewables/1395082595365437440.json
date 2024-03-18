@@ -1,0 +1,71 @@
+{
+    "1395082595365437440": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-19T18:23:04.000Z",
+        "edit_history_tweet_ids": [
+            "1395082595365437440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "MLE",
+                    "probability": 0.6247,
+                    "start": 12,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "Cegos Prize",
+                    "probability": 0.8735,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "EDPR",
+                    "probability": 0.409,
+                    "start": 150,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 154,
+                    "start": 149,
+                    "tag": "EDPR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 76,
+                    "id": "1003231257679892480",
+                    "start": 62,
+                    "username": "CegosChannels"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2QxSd0F",
+                    "end": 179,
+                    "expanded_url": "https://bit.ly/2QxSd0F",
+                    "start": 156,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edpr-wins-cegos-hr-best-practice-awards-its-mle-program-focused-management-and-leadership?linkId=100000045527221",
+                    "url": "https://t.co/xNMTpl8El5"
+                }
+            ]
+        },
+        "id": "1395082595365437440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Do you know MLE Program? It has been awarded the Cegos Prize (@CegosChannels), but let's find out a bit more about it and why it is so important for #EDPR \ud83d\udc49https://t.co/xNMTpl8El5  \n\n[Enter Thread \ud83e\uddf5\ud83d\udc47]"
+    }
+}

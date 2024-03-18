@@ -1,0 +1,80 @@
+{
+    "1438128077578637319": {
+        "attachments": {
+            "media_keys": [
+                "3_1438128074533507080"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-09-15T13:10:27.000Z",
+        "edit_history_tweet_ids": [
+            "1438128077578637319"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Roberto Pasqua",
+                    "probability": 0.9412,
+                    "start": 89,
+                    "type": "Person"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "EDPR",
+                    "probability": 0.702,
+                    "start": 106,
+                    "type": "Organization"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Italy",
+                    "probability": 0.971,
+                    "start": 132,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 38,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 110,
+                    "start": 105,
+                    "tag": "EDPR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 162,
+                    "id": "812714296530571264",
+                    "start": 154,
+                    "username": "NRGyear"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/cwv1UMCrH5",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1438128077578637319/photo/1",
+                    "media_key": "3_1438128074533507080",
+                    "start": 220,
+                    "url": "https://t.co/cwv1UMCrH5"
+                }
+            ]
+        },
+        "id": "1438128077578637319",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddee\ud83c\uddf9  What's the future for the Italian #RenewableEnergy like? \n\nAlong with other leaders, Roberto Pasqua, #EDPR's Country Manager in Italy, has covered on @NRGyear the trends that will define the market over the decades. https://t.co/cwv1UMCrH5"
+    }
+}

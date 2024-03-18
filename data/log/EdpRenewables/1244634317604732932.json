@@ -1,0 +1,60 @@
+{
+    "1244634317604732932": {
+        "attachments": {
+            "media_keys": [
+                "3_1244634291340029952"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-30T14:35:20.000Z",
+        "edit_history_tweet_ids": [
+            "1244634317604732932"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "Rattlesnake Road Wind Farm",
+                    "probability": 0.6221,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Gilliam County",
+                    "probability": 0.8537,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Oregon",
+                    "probability": 0.9391,
+                    "start": 103,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/C3rEFWfD5T",
+                    "end": 134,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1244634317604732932/photo/1",
+                    "media_key": "3_1244634291340029952",
+                    "start": 111,
+                    "url": "https://t.co/C3rEFWfD5T"
+                }
+            ]
+        },
+        "id": "1244634317604732932",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our blades keep on turning. Check out this view from our Rattlesnake Road Wind Farm in Gilliam County, Oregon. https://t.co/C3rEFWfD5T"
+    }
+}

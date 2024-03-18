@@ -1,0 +1,53 @@
+{
+    "1334235891905204227": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-12-02T20:40:00.000Z",
+        "edit_history_tweet_ids": [
+            "1334235891905204227"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "India",
+                    "probability": 0.966,
+                    "start": 40,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 16,
+                    "start": 0,
+                    "tag": "Decarbonization"
+                },
+                {
+                    "end": 78,
+                    "start": 62,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3qmybU0",
+                    "end": 235,
+                    "expanded_url": "https://bit.ly/3qmybU0",
+                    "start": 212,
+                    "unwound_url": "https://indiaclimatedialogue.net/2020/11/27/decentralised-renewables-can-build-resilient-rural-india/?linkId=100000022544229",
+                    "url": "https://t.co/lcKxecQGiH"
+                }
+            ]
+        },
+        "id": "1334235891905204227",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#Decarbonization changes the world \ud83c\udf0f \ud83d\udc49  India\u2019s decentralized #RenewableEnergy sector has become an enabler of economic growth, especially in rural areas, with a focus on livelihoods and income generation\n\n\ud83c\uddee\ud83c\uddf3 \ud83c\udf31  https://t.co/lcKxecQGiH"
+    }
+}

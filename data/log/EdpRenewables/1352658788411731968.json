@@ -1,0 +1,67 @@
+{
+    "1352658788411731968": {
+        "attachments": {
+            "media_keys": [
+                "3_1352658786482270208"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-22T16:46:00.000Z",
+        "edit_history_tweet_ids": [
+            "1352658788411731968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "Lone Valley Solar Park",
+                    "probability": 0.7662,
+                    "start": 31,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "San Bernardino County",
+                    "probability": 0.8821,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "California",
+                    "probability": 0.9379,
+                    "start": 138,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 85,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hzsuE2IPZv",
+                    "end": 173,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1352658788411731968/photo/1",
+                    "media_key": "3_1352658786482270208",
+                    "start": 150,
+                    "url": "https://t.co/hzsuE2IPZv"
+                }
+            ]
+        },
+        "id": "1352658788411731968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Sunrise to sunset, our 30.3 MW Lone Valley Solar Park powers thousands of homes with #renewableenergy in beautiful San Bernardino County, California. https://t.co/hzsuE2IPZv"
+    }
+}

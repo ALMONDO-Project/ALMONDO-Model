@@ -1,0 +1,49 @@
+{
+    "1346222374241390592": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-04T22:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1346222374241390592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4909,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 29,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/38f1vF3",
+                    "end": 250,
+                    "expanded_url": "https://bit.ly/38f1vF3",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "https://www.esi-africa.com/industry-sectors/future-energy/top-five-trends-accelerating-industry-convergence-in-renewable-energy/?linkId=100000026557313",
+                    "url": "https://t.co/aDObhOFrde"
+                }
+            ]
+        },
+        "id": "1346222374241390592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The potential for increasing #RenewableEnergy demand, combined with the electrification of transportation and oil and gas companies\u2019 increased participation in the electricity value chain, is accelerating industry convergence.\nhttps://t.co/aDObhOFrde"
+    }
+}

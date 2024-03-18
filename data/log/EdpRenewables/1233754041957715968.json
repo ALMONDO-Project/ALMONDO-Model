@@ -1,0 +1,48 @@
+{
+    "1233754041957715968": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-29T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1233754041957715968"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 68,
+                    "start": 56,
+                    "tag": "CleanEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "84679163",
+                    "start": 4,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "smart-energy.com/industry-secto\u2026",
+                    "end": 236,
+                    "expanded_url": "https://www.smart-energy.com/industry-sectors/business-finance-regulation/iea-announces-grand-coalition-to-bridge-energy-and-climate-goals/",
+                    "start": 213,
+                    "status": 200,
+                    "unwound_url": "https://www.smart-energy.com/policy-regulation/iea-announces-grand-coalition-to-bridge-energy-and-climate-goals/",
+                    "url": "https://t.co/DarVfkj5M3"
+                }
+            ]
+        },
+        "id": "1233754041957715968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The @IEA is focusing on both energy security and global #CleanEnergy transitions, helping governments steer the energy sector towards international climate targets in a secure, sustainable and affordable manner. \nhttps://t.co/DarVfkj5M3"
+    }
+}

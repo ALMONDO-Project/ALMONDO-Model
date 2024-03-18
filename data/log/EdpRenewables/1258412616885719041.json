@@ -1,0 +1,66 @@
+{
+    "1258412616885719041": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-07T15:05:22.000Z",
+        "edit_history_tweet_ids": [
+            "1258412616885719041"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 192,
+                    "normalized_text": "coronavirus",
+                    "probability": 0.8951,
+                    "start": 182,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6165,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 112,
+                    "start": 100,
+                    "tag": "CleanEnergy"
+                },
+                {
+                    "end": 193,
+                    "start": 181,
+                    "tag": "coronavirus"
+                },
+                {
+                    "end": 209,
+                    "start": 204,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/0\u2026",
+                    "end": 272,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/05/07/edp-renewables-1q-2020-results-execution-track-reaching-net-profit-eu62m",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edp-renewables-1q-2020-results-execution-track-reaching-net-profit-eu62m",
+                    "url": "https://t.co/s7gM0Nf635"
+                }
+            ]
+        },
+        "id": "1258412616885719041",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "First quarter of 2020 in numbers:\n\ud83d\udcb2 net profit of \u20ac62m\n\u2600\ufe0f\ud83c\udf2c portfolio amounts to 11.2 GW\n\ud83d\udc49 producing #CleanEnergy by levels of 7.8 TWh \n\ud83c\udf31 avoiding 5 mt of CO2 emissions\n\nDespite the #coronavirus pandemic, #EDPR continues on track to reach its goal \u2705 https://t.co/s7gM0Nf635"
+    }
+}

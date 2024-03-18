@@ -1,0 +1,75 @@
+{
+    "1281618085494034433": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-10T15:55:37.000Z",
+        "edit_history_tweet_ids": [
+            "1281618085494034433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6441,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Pandemia",
+                    "probability": 0.8137,
+                    "start": 106,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "\ufffd Maira Zanduz",
+                    "probability": 0.6093,
+                    "start": -1,
+                    "type": "Person"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "e Meio Ambien",
+                    "probability": 0.5211,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 2,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 32,
+                    "start": 22,
+                    "tag": "FicaNaSua"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/pt-pt/noticias\u2026",
+                    "end": 281,
+                    "expanded_url": "https://www.edpr.com/pt-pt/noticias/2020/05/15/edp-renovaveis-doa-r-450-mil-para-ajudar-na-luta-contra-a-covid-19",
+                    "start": 258,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/pt-pt/noticias/2020/05/15/edp-renovaveis-doa-r-450-mil-para-ajudar-na-luta-contra-a-covid-19",
+                    "url": "https://t.co/V13YKdXGCl"
+                }
+            ]
+        },
+        "id": "1281618085494034433",
+        "lang": "pt",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "A #EDPR participou no #FicaNaSua e falou sobre o \"Relacionamento com Comunidades e Audi\u00eancias P\u00fablicas na Pandemia\".\n\n\ud83d\udc69\u200d\ud83d\udcbb Maira Zanduzzo, gestora de Meio Ambiente, contou que medidas est\u00e3o a ser adotadas pela empresa nas comunidades onde estamos presentes.  https://t.co/V13YKdXGCl"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1268014543365640192": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-03T03:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1268014543365640192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "Congress",
+                    "probability": 0.85,
+                    "start": 93,
+                    "type": "Organization"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "U.S.",
+                    "probability": 0.946,
+                    "start": 124,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 149,
+                    "start": 129,
+                    "tag": "energyinfastructure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "thehill.com/blogs/congress\u2026",
+                    "end": 203,
+                    "expanded_url": "https://thehill.com/blogs/congress-blog/energy-environment/499456-no-better-time-to-modernize-americas-energy",
+                    "start": 180,
+                    "url": "https://t.co/lrMHiq7Z7v"
+                }
+            ]
+        },
+        "id": "1268014543365640192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u201cThe clean energy sector has projects ready to go. All that\u2019s needed is the green light from Congress.\u201d How modernizing the U.S. #energyinfastructure can prompt economic recovery: https://t.co/lrMHiq7Z7v"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1539172996790755331": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-21T09:06:53.000Z",
+        "edit_history_tweet_ids": [
+            "1539172996790755331"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "Andalusia",
+                    "probability": 0.9633,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Castilla-La Mancha",
+                    "probability": 0.9473,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Asturias",
+                    "probability": 0.9791,
+                    "start": 107,
+                    "type": "Place"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Castilla",
+                    "probability": 0.9604,
+                    "start": 117,
+                    "type": "Place"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Le\u00f3n",
+                    "probability": 0.5185,
+                    "start": 128,
+                    "type": "Place"
+                },
+                {
+                    "end": 141,
+                    "normalized_text": "Valencia",
+                    "probability": 0.9834,
+                    "start": 134,
+                    "type": "Place"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "The Basque Country",
+                    "probability": 0.4357,
+                    "start": 144,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Galicia",
+                    "probability": 0.9775,
+                    "start": 167,
+                    "type": "Place"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "Wind Farm Operation",
+                    "probability": 0.8098,
+                    "start": 229,
+                    "type": "Other"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "AEE",
+                    "probability": 0.6839,
+                    "start": 271,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1539172996790755331",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc6b  It has already offered more than half a hundred scholarships, focused on Andalusia, Castilla-La Mancha, Asturias, Castilla y Le\u00f3n, Valencia, The Basque Country and Galicia. \n\n\ud83d\udc49  Among them, 30 people were selected to take the Wind Farm Operation course offered by the AEE."
+    }
+}

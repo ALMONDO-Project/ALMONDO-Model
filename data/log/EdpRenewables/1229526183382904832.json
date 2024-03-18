@@ -1,0 +1,60 @@
+{
+    "1229526183382904832": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-17T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1229526183382904832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "Americas",
+                    "probability": 0.7842,
+                    "start": 94,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 72,
+                    "start": 59,
+                    "tag": "WindCapacity"
+                },
+                {
+                    "end": 179,
+                    "start": 163,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "2787688669",
+                    "start": 1,
+                    "username": "GWECGlobalWind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/57779/wind-pow\u2026",
+                    "end": 203,
+                    "expanded_url": "https://www.renews.biz/57779/wind-power-grows-12-in-americas/",
+                    "start": 180,
+                    "url": "https://t.co/QYqBjXWaIQ"
+                }
+            ]
+        },
+        "id": "1229526183382904832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": ".@GWECGlobalWind new research states that over 13GW of new #WindCapacity was installed in the Americas region in 2019, an increase of 12% on the previous year.  \ud83d\udca8 #RenewableEnergy https://t.co/QYqBjXWaIQ"
+    }
+}

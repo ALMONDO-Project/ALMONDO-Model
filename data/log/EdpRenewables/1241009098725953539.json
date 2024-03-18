@@ -1,0 +1,70 @@
+{
+    "1241009098725953539": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-20T14:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1241009098725953539"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "England",
+                    "probability": 0.5485,
+                    "start": 4,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 15,
+                    "tag": "GoingGreen"
+                },
+                {
+                    "end": 38,
+                    "start": 33,
+                    "tag": "wind"
+                },
+                {
+                    "end": 46,
+                    "start": 40,
+                    "tag": "solar"
+                },
+                {
+                    "end": 66,
+                    "start": 52,
+                    "tag": "energystorage"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 106,
+                    "id": "25516425",
+                    "start": 92,
+                    "username": "isonewengland"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "utilitydive.com/news/wind-sola\u2026",
+                    "end": 155,
+                    "expanded_url": "https://www.utilitydive.com/news/wind-solar-and-storage-take-up-95-of-iso-new-england-interconnection-queu/573680/",
+                    "start": 132,
+                    "url": "https://t.co/4E7pAzEd6E"
+                }
+            ]
+        },
+        "id": "1241009098725953539",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "New England is #GoingGreen, with #wind, #solar, and #energystorage comprising 95 percent of @isonewengland\u2019s interconnection queue. https://t.co/4E7pAzEd6E"
+    }
+}

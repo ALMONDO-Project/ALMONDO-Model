@@ -1,0 +1,56 @@
+{
+    "1239310655733125120": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-15T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1239310655733125120"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Tasmania",
+                    "probability": 0.9685,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "Australia",
+                    "probability": 0.9889,
+                    "start": 184,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 211,
+                    "start": 195,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "rechargenews.com/transition/aus\u2026",
+                    "end": 235,
+                    "expanded_url": "https://www.rechargenews.com/transition/australian-state-sets-200-renewable-energy-target-to-power-cheap-green-hydrogen/2-1-766988",
+                    "start": 212,
+                    "status": 200,
+                    "unwound_url": "https://www.rechargenews.com/transition/australian-state-sets-200-renewable-energy-target-to-power-cheap-green-hydrogen/2-1-766988",
+                    "url": "https://t.co/qlgNCbPXev"
+                }
+            ]
+        },
+        "id": "1239310655733125120",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Tasmania set a 200% renewables share target and big goals for lower-cost green hydrogen production as the island state ramped up its ambitions as a clean-power battery for the rest of Australia. #RenewableEnergy https://t.co/qlgNCbPXev"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "1272136705898938368": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-14T12:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1272136705898938368"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.6103,
+                    "start": 25,
+                    "type": "Other"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "EnergyStorage",
+                    "probability": 0.654,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 24,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 118,
+                    "start": 104,
+                    "tag": "EnergyStorage"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "forbes.com/sites/sujataku\u2026",
+                    "end": 145,
+                    "expanded_url": "https://www.forbes.com/sites/sujatakundu/2020/05/31/researchers-propose-new-diamond-nanostructure-for-efficient-energy-storage/#4a25006477fc",
+                    "start": 122,
+                    "status": 200,
+                    "unwound_url": "https://www.forbes.com/sites/sujatakundu/2020/05/31/researchers-propose-new-diamond-nanostructure-for-efficient-energy-storage/#4a25006477fc",
+                    "url": "https://t.co/m058ax3DsI"
+                }
+            ]
+        },
+        "id": "1272136705898938368",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Confirmed! \ud83d\udc49  \ud83d\udc8e are the #RenewableEnergy sector (new) best friend! (or at least a huge breakthrough for #EnergyStorage).  https://t.co/m058ax3DsI"
+    }
+}

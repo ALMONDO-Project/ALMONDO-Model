@@ -1,0 +1,63 @@
+{
+    "1266403290989854721": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-29T16:17:27.000Z",
+        "edit_history_tweet_ids": [
+            "1266403290989854721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4529,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4499,
+                    "start": 105,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Europe",
+                    "probability": 0.9487,
+                    "start": 169,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/0\u2026",
+                    "end": 253,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/05/28/edp-renovaveis-was-awarded-long-term-cfd-54-mw-italian-wind-energy-auction",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2020/05/28/edp-renovaveis-was-awarded-long-term-cfd-54-mw-italian-wind-energy-auction",
+                    "url": "https://t.co/vzyEWW7tgm"
+                }
+            ]
+        },
+        "id": "1266403290989854721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR was awarded long term CfD for 54 MW at the Italian wind energy auction. \n\nWith these new contracts EDPR has already secured ~1.3 GW of projects to be installed in Europe under the 2019-2022 Business Plan. \n\nFind out more \ud83d\udc47  https://t.co/vzyEWW7tgm"
+    }
+}

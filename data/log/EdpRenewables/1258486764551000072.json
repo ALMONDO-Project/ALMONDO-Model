@@ -1,0 +1,69 @@
+{
+    "1258486764551000072": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-07T20:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1258486764551000072"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.3995,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Sandrini Sol 1",
+                    "probability": 0.6928,
+                    "start": 195,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 74,
+                    "start": 57,
+                    "tag": "CleanElectricity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "981205394805542914",
+                    "start": 10,
+                    "username": "redwood_energy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/0\u2026",
+                    "end": 275,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/05/06/edp-renewables-secures-a-100-mw-solar-ppa-united-states",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/2020/05/06/edp-renewables-secures-a-100-mw-solar-ppa-united-states",
+                    "url": "https://t.co/oDUbNjGIVp"
+                }
+            ]
+        },
+        "id": "1258486764551000072",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR and @redwood_energy join forces to generate enough #CleanElectricity to annually power more than 46,000 average Californian homes &amp; save around 670 million liters of water a year.  \ud83c\udf31 \n\nSandrini Sol 1 solar pv project is now set in motion! \u2600\ufe0f https://t.co/oDUbNjGIVp"
+    }
+}

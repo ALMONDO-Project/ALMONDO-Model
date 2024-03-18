@@ -1,0 +1,62 @@
+{
+    "1246543313554952192": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-04-04T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1246543313554952192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "FEDigitalBootcamp",
+                    "probability": 0.7726,
+                    "start": 103,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 26,
+                    "tag": "energy"
+                },
+                {
+                    "end": 70,
+                    "start": 59,
+                    "tag": "quarantine"
+                },
+                {
+                    "end": 120,
+                    "start": 102,
+                    "tag": "FEDigitalBootcamp"
+                },
+                {
+                    "end": 153,
+                    "start": 135,
+                    "tag": "FreeElectrons2020"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/innovationatED\u2026",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/innovationatEDP/status/1245062718140436480?s=20",
+                    "start": 156,
+                    "url": "https://t.co/Eh6IyXKMZ9"
+                }
+            ]
+        },
+        "id": "1246543313554952192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Co-creating the future of #energy is possible, even during #quarantine\u26a1\ufe0f. Check out this video on how #FEDigitalBootcamp took place at #FreeElectrons2020\ud83d\udc47\n\nhttps://t.co/Eh6IyXKMZ9"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1356165398174035973": {
+        "attachments": {
+            "media_keys": [
+                "3_1356165396584345603"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-02-01T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1356165398174035973"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 177,
+                    "normalized_text": "Sonrisa Solar Park",
+                    "probability": 0.7722,
+                    "start": 160,
+                    "type": "Place"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "EDPR",
+                    "probability": 0.485,
+                    "start": 244,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 243,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 265,
+                    "start": 249,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2VVBdR6",
+                    "end": 242,
+                    "expanded_url": "http://bit.ly/2VVBdR6",
+                    "start": 219,
+                    "url": "https://t.co/36SpC7aIdy"
+                },
+                {
+                    "display_url": "pic.twitter.com/MAGkD43mUB",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1356165398174035973/photo/1",
+                    "media_key": "3_1356165396584345603",
+                    "start": 266,
+                    "url": "https://t.co/MAGkD43mUB"
+                }
+            ]
+        },
+        "id": "1356165398174035973",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Would you like to always pay the same price for your energy, and not have to worry about peaks in demand? \nThis is one of the goals we will achieve through the Sonrisa Solar Park, combining solar energy \ud83c\udf1eand storage \ud83d\udd0b\n\ud83d\udc49https://t.co/36SpC7aIdy\n#EDPR #renewableenergy https://t.co/MAGkD43mUB"
+    }
+}

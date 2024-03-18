@@ -1,0 +1,77 @@
+{
+    "1417944146078220288": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-21T20:26:43.000Z",
+        "edit_history_tweet_ids": [
+            "1417944146078220288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "EDPR",
+                    "probability": 0.6173,
+                    "start": 30,
+                    "type": "Organization"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Headwaters II Wind Farm",
+                    "probability": 0.5355,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9472,
+                    "start": 94,
+                    "type": "Place"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "US",
+                    "probability": 0.9228,
+                    "start": 103,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Facebook",
+                    "probability": 0.9381,
+                    "start": 184,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Walmart",
+                    "probability": 0.392,
+                    "start": 197,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3i1fZNL",
+                    "end": 278,
+                    "expanded_url": "https://bit.ly/3i1fZNL",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edprs-198-mw-wind-farm-located-indiana-starts-commercial-operations?linkId=100000056447444",
+                    "url": "https://t.co/CuF7twLz99"
+                }
+            ]
+        },
+        "id": "1417944146078220288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "\ud83d\udce2We\u2019re thrilled to share that EDPR's begun producing energy at the Headwaters II Wind Farm in Indiana (US).\n\nThrough executed power purchase agreements (PPAs), the wind farm will help Facebook and Walmart reach their sustainability goals.\n\nFind out more\ud83d\udc47\nhttps://t.co/CuF7twLz99"
+    }
+}

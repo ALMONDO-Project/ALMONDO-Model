@@ -1,0 +1,61 @@
+{
+    "1233512449829044225": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-28T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1233512449829044225"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.4366,
+                    "start": 3,
+                    "type": "Other"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9608,
+                    "start": 34,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 2,
+                    "tag": "WindEnergy"
+                },
+                {
+                    "end": 107,
+                    "start": 91,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "insideindianabusiness.com/story/41704183\u2026",
+                    "end": 247,
+                    "expanded_url": "https://www.insideindianabusiness.com/story/41704183/will-indiana-be-the-crossroads-of-a-clean-energy-economy",
+                    "start": 224,
+                    "status": 200,
+                    "unwound_url": "https://www.insideindianabusiness.com/articles/will-indiana-be-the-crossroads-of-a-clean-energy-economy",
+                    "url": "https://t.co/BK1rUmyfpL"
+                }
+            ]
+        },
+        "id": "1233512449829044225",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "A #WindEnergy advocacy group says Indiana has the potential to be a national leader in the #RenewableEnergy sector, especially as utility companies transition more power generation away from coal and towards wind and solar.\nhttps://t.co/BK1rUmyfpL"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1269207406610976769": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-06T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1269207406610976769"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 52,
+                    "tag": "energy"
+                },
+                {
+                    "end": 98,
+                    "start": 87,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 169,
+                    "start": 147,
+                    "tag": "CleanEnergyTransition"
+                },
+                {
+                    "end": 203,
+                    "start": 185,
+                    "tag": "SustainableFuture"
+                },
+                {
+                    "end": 220,
+                    "start": 204,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "84679163",
+                    "start": 4,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/60558/covid-19\u2026",
+                    "end": 244,
+                    "expanded_url": "https://renews.biz/60558/covid-19-global-energy-investment-to-plummet-by-400bn/",
+                    "start": 221,
+                    "url": "https://t.co/wOkIvgmL1z"
+                }
+            ]
+        },
+        "id": "1269207406610976769",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "The @IEA forecasts a $400bn (\u20ac359bn) drop in global #energy investment, affecting both #renewables and fossil fuels due to the pandemic. \n\nBut the #CleanEnergyTransition must go on \ud83c\udf31 \n\n#SustainableFuture #RenewableEnergy https://t.co/wOkIvgmL1z"
+    }
+}

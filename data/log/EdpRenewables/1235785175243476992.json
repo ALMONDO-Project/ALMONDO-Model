@@ -1,0 +1,64 @@
+{
+    "1235785175243476992": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-06T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1235785175243476992"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "BatteryStorage",
+                    "probability": 0.6737,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Mike Jacobs",
+                    "probability": 0.9635,
+                    "start": 102,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 0,
+                    "tag": "BatteryStorage"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 125,
+                    "id": "18696996",
+                    "start": 118,
+                    "username": "UCSUSA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "blog.ucsusa.org/mike-jacobs/st\u2026",
+                    "end": 150,
+                    "expanded_url": "https://blog.ucsusa.org/mike-jacobs/storage-could-catch-up-to-wind-solar-growth",
+                    "start": 127,
+                    "status": 200,
+                    "unwound_url": "https://blog.ucsusa.org/mike-jacobs/storage-could-catch-up-to-wind-solar-growth/",
+                    "url": "https://t.co/8wQXq92u3Y"
+                }
+            ]
+        },
+        "id": "1235785175243476992",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#BatteryStorage could mean \u201cthe end of investment in fossil fuels for electricity generation,\u201d writes Mike Jacobs for @UCSUSA: https://t.co/8wQXq92u3Y"
+    }
+}

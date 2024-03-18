@@ -1,0 +1,54 @@
+{
+    "1275794305639165952": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-06-24T14:14:00.000Z",
+        "edit_history_tweet_ids": [
+            "1275794305639165952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.493,
+                    "start": 41,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 14,
+                    "tag": "decarbonization"
+                },
+                {
+                    "end": 56,
+                    "start": 40,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "voltimum.co.uk/articles/now-t\u2026",
+                    "end": 140,
+                    "expanded_url": "https://www.voltimum.co.uk/articles/now-time-build-resilience",
+                    "start": 117,
+                    "status": 200,
+                    "unwound_url": "https://www.voltimum.co.uk/articles/now-time-build-resilience",
+                    "url": "https://t.co/D2Ks9qKSKt"
+                }
+            ]
+        },
+        "id": "1275794305639165952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "On the way to #decarbonization, we need #RenewableEnergy but also building resilience\ud83c\udf31, and this is how you do it \ud83d\udc47\n https://t.co/D2Ks9qKSKt"
+    }
+}

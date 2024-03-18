@@ -1,0 +1,61 @@
+{
+    "1236147563209752577": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-07T04:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1236147563209752577"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "EnergInnovation",
+                    "probability": 0.4688,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "California",
+                    "probability": 0.9416,
+                    "start": 33,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 13,
+                    "tag": "EnergInnovation"
+                },
+                {
+                    "end": 89,
+                    "start": 73,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ocregister.com/2020/02/23/one\u2026",
+                    "end": 164,
+                    "expanded_url": "https://www.ocregister.com/2020/02/23/one-idea-two-cool-things-desalinated-water-and-renewable-energy/",
+                    "start": 141,
+                    "status": 200,
+                    "unwound_url": "https://www.ocregister.com/2020/02/23/one-idea-two-cool-things-desalinated-water-and-renewable-energy/",
+                    "url": "https://t.co/ETpKBy6tO1"
+                }
+            ]
+        },
+        "id": "1236147563209752577",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "This week in #EnergInnovation: A California desalination plant could use #renewableenergy from solar and wind to pump salt water onshore. \ud83d\ude32\ud83c\udf2c\nhttps://t.co/ETpKBy6tO1"
+    }
+}

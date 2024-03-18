@@ -1,0 +1,63 @@
+{
+    "1318979171075358723": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-21T18:15:14.000Z",
+        "edit_history_tweet_ids": [
+            "1318979171075358723"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5232,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "Greece",
+                    "probability": 0.9876,
+                    "start": 29,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Greece",
+                    "probability": 0.9817,
+                    "start": 75,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/1\u2026",
+                    "end": 210,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/10/21/edpr-reached-agreement-greece-joint-development-wind-farms",
+                    "start": 187,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edpr-reached-agreement-greece-joint-development-wind-farms",
+                    "url": "https://t.co/a82TunYC9x"
+                }
+            ]
+        },
+        "id": "1318979171075358723",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#EDPR presence is growing in Greece \ud83c\udf0d\n\nThe company reached an agreement in Greece for the joint-development of wind farms of a wind portfolio with a capacity of 900 MW. \n\nFind out more \ud83d\udc47 https://t.co/a82TunYC9x"
+    }
+}

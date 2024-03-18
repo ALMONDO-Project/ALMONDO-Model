@@ -1,0 +1,47 @@
+{
+    "1238102696269426688": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-12T14:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1238102696269426688"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Mark",
+                    "probability": 0.6592,
+                    "start": 28,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 0,
+                    "tag": "Podcast"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "redgreenandblue.org/2020/03/01/pod\u2026",
+                    "end": 230,
+                    "expanded_url": "http://redgreenandblue.org/2020/03/01/podcast-talking-mark-z-jacobson-100-renewable-energy/",
+                    "start": 207,
+                    "url": "https://t.co/rHnJIvq5qm"
+                }
+            ]
+        },
+        "id": "1238102696269426688",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#Podcast \ud83d\udc49 By electrifying, Mark says the world can save energy, whether it is from the way electric heat pumps use less energy or the way electric vehicles are much more efficient than combustion vehicles. https://t.co/rHnJIvq5qm"
+    }
+}

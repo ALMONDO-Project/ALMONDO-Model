@@ -1,0 +1,59 @@
+{
+    "1301505473267597312": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-03T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1301505473267597312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4152,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 55,
+                    "start": 37,
+                    "tag": "SustainableFuture"
+                },
+                {
+                    "end": 239,
+                    "start": 223,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/0\u2026",
+                    "end": 264,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/09/03/edp-renewables-1h-2020-results-net-profit-eu255m-company-successfully-advances-its",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edp-renewables-1h-2020-results-net-profit-eu255m-company-successfully-advances-its-business",
+                    "url": "https://t.co/08GH7H02RU"
+                }
+            ]
+        },
+        "id": "1301505473267597312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#EDPR keeps growing &amp; building a #SustainableFuture. \n\nBetween January &amp; June 2020 \ud83d\udc47\n\n\u26a1\ufe0fwe supplied 14.7 TWh of clean electricity \n\n\ud83c\udf31we avoided 10mt of CO2 emissions\n\nAll of that while having revenues up to \u20ac913m \n\n#RenewableEnergy\n\nhttps://t.co/08GH7H02RU"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "1280701892860002310": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-07-08T03:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1280701892860002310"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 16,
+                    "start": 0,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 107,
+                    "start": 102,
+                    "tag": "wind"
+                },
+                {
+                    "end": 118,
+                    "start": 112,
+                    "tag": "solar"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pewresearch.org/science/2020/0\u2026",
+                    "end": 144,
+                    "expanded_url": "https://www.pewresearch.org/science/2020/06/23/two-thirds-of-americans-think-government-should-do-more-on-climate/",
+                    "start": 121,
+                    "url": "https://t.co/NuzMoDKsF0"
+                }
+            ]
+        },
+        "id": "1280701892860002310",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#RenewableEnergy is for everyone: 79% of Americans support developing alternative energy sources like #wind and #solar.  https://t.co/NuzMoDKsF0"
+    }
+}

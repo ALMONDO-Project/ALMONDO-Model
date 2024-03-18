@@ -1,0 +1,92 @@
+{
+    "1531786354010599425": {
+        "attachments": {
+            "media_keys": [
+                "3_1531786228131053568"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-05-31T23:55:00.000Z",
+        "edit_history_tweet_ids": [
+            "1531786354010599425"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "York",
+                    "probability": 0.8267,
+                    "start": 7,
+                    "type": "Place"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4382,
+                    "start": 15,
+                    "type": "Organization"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "New York",
+                    "probability": 0.9757,
+                    "start": 84,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 14,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 71,
+                    "start": 62,
+                    "tag": "hydrogen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 123,
+                    "id": "66661102",
+                    "start": 115,
+                    "username": "NYSERDA"
+                },
+                {
+                    "end": 130,
+                    "id": "111570564",
+                    "start": 125,
+                    "username": "Nypa"
+                },
+                {
+                    "end": 151,
+                    "id": "54588816",
+                    "start": 136,
+                    "username": "EmpireStateDev"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/CpTvN5duqo",
+                    "end": 176,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1531786354010599425/photo/1",
+                    "media_key": "3_1531786228131053568",
+                    "start": 153,
+                    "url": "https://t.co/CpTvN5duqo"
+                }
+            ]
+        },
+        "id": "1531786354010599425",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\ud83e\udd0dNew York!  #EDPR has pledged to advance the development of #hydrogen projects in New York in collaboration with @NYSERDA, @NYPA, and @EmpireStateDev. https://t.co/CpTvN5duqo"
+    }
+}

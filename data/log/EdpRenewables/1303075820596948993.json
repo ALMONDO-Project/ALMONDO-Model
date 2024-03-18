@@ -1,0 +1,52 @@
+{
+    "1303075820596948993": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-09-07T21:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1303075820596948993"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "BatteryStorage",
+                    "probability": 0.6562,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 0,
+                    "tag": "BatteryStorage"
+                },
+                {
+                    "end": 180,
+                    "start": 164,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "forbes.com/sites/kensilve\u2026",
+                    "end": 205,
+                    "expanded_url": "https://www.forbes.com/sites/kensilverstein/2020/08/06/battery-storage-is-delivering-value-for-solar-developers-and-energy-consumers-but-what-about-cost/#2d37154e6442",
+                    "start": 182,
+                    "url": "https://t.co/vFk6XVTaiK"
+                }
+            ]
+        },
+        "id": "1303075820596948993",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#BatteryStorage consumes excess power during the day and redeploys that electricity during the peak periods when conventional power generation would be turned on.\n\n#renewableenergy\n\nhttps://t.co/vFk6XVTaiK"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "1514283980983607300": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-13T16:46:49.000Z",
+        "edit_history_tweet_ids": [
+            "1514283980983607300"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4671,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.4817,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Meta",
+                    "probability": 0.4142,
+                    "start": 112,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 13,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 85,
+                    "start": 69,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "2425151",
+                    "start": 23,
+                    "username": "Meta"
+                }
+            ]
+        },
+        "id": "1514283980983607300",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u2714\ufe0f In total, #EDPR and @Meta are working together to bring 495 MW of #RenewableEnergy to the grid, supplying to Meta\u2019s goal of supporting its global operations with 100 percent renewable energy."
+    }
+}

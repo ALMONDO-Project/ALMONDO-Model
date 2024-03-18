@@ -1,0 +1,60 @@
+{
+    "1321810245279166464": {
+        "attachments": {
+            "media_keys": [
+                "3_1321810244188721154"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-29T13:44:55.000Z",
+        "edit_history_tweet_ids": [
+            "1321810245279166464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5165,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2020/1\u2026",
+                    "end": 189,
+                    "expanded_url": "https://www.edpr.com/en/news/2020/10/29/edp-renewables-9m-2020-net-profit-reaches-eu319-million",
+                    "start": 166,
+                    "url": "https://t.co/0jk0BSxoYu"
+                },
+                {
+                    "display_url": "pic.twitter.com/90U9oLz6x9",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1321810245279166464/photo/1",
+                    "media_key": "3_1321810244188721154",
+                    "start": 190,
+                    "url": "https://t.co/90U9oLz6x9"
+                }
+            ]
+        },
+        "id": "1321810245279166464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "#EDPR released a set of third quarter results and our strategy is well on track with 86% of the 7 GW capacity 19-22 target build-out completed. \ud83d\udcaa\ud83d\udcaa \n\nFind out more \ud83d\udc47 \nhttps://t.co/0jk0BSxoYu https://t.co/90U9oLz6x9"
+    }
+}

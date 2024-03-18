@@ -1,0 +1,49 @@
+{
+    "1542597591162130432": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-06-30T19:55:00.000Z",
+        "edit_history_tweet_ids": [
+            "1542597591162130432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "Xidian University",
+                    "probability": 0.895,
+                    "start": 90,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "China",
+                    "probability": 0.9032,
+                    "start": 109,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3y2LkX3",
+                    "end": 269,
+                    "expanded_url": "https://bit.ly/3y2LkX3",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.euronews.com/next/2022/06/26/solution-to-the-climate-crisis-earth-takes-a-step-closer-to-sustainable-space-based-solar-?linkId=100000133448195",
+                    "url": "https://t.co/y5C8aAtiYo"
+                }
+            ]
+        },
+        "id": "1542597591162130432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udf0c  Is it really possible to get space-based solar power? \n\nLooks like it!\n\nResearchers at Xidian University (China) are testing a prototype. The idea is that satellites could collect photons from the Sun and beam electricity as microwaves. Wow!\n\nhttps://t.co/y5C8aAtiYo"
+    }
+}

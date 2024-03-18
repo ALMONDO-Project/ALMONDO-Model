@@ -1,0 +1,58 @@
+{
+    "1453129770468880388": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-10-26T22:41:49.000Z",
+        "edit_history_tweet_ids": [
+            "1453129770468880388"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "AmericanCleanPowerWeek",
+                    "probability": 0.6228,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "UnitedStatesofCleanEnergy",
+                    "probability": 0.3258,
+                    "start": 251,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 20,
+                    "tag": "AmericanCleanPowerWeek"
+                },
+                {
+                    "end": 276,
+                    "start": 250,
+                    "tag": "UnitedStatesofCleanEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 62,
+                    "id": "22271644",
+                    "start": 49,
+                    "username": "USCleanPower"
+                }
+            ]
+        },
+        "id": "1453129770468880388",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udd1b We\u2019re celebrating #AmericanCleanPowerWeek with @USCleanPower  \n\nThe clean energy industry \u2013 wind, solar, energy storage, and transmission \u2013 is powering good-paying American jobs across all 50 states and driving investment into local communities. \n\n#UnitedStatesofCleanEnergy"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1321124333360713730": {
+        "attachments": {
+            "media_keys": [
+                "3_1321123726038106112"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-27T16:19:21.000Z",
+        "edit_history_tweet_ids": [
+            "1321124333360713730"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "BrazilWindpower",
+                    "probability": 0.3848,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5411,
+                    "start": 132,
+                    "type": "Organization"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Brasil",
+                    "probability": 0.9093,
+                    "start": 140,
+                    "type": "Place"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "Filipe Domingues",
+                    "probability": 0.6264,
+                    "start": 148,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 16,
+                    "start": 0,
+                    "tag": "BrazilWindpower"
+                },
+                {
+                    "end": 136,
+                    "start": 131,
+                    "tag": "EDPR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/rziQfMb1tb",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1321124333360713730/photo/1",
+                    "media_key": "3_1321123726038106112",
+                    "start": 258,
+                    "url": "https://t.co/rziQfMb1tb"
+                }
+            ]
+        },
+        "id": "1321124333360713730",
+        "lang": "pt",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#BrazilWindpower de 27 a 29 de outubro \ud83d\udd1b\n\nEvento 100% online que contar\u00e1 \u00e0s 15h30 (GMT-3) com a participa\u00e7\u00e3o do Country Manager da #EDPR no Brasil, Filipe Domingues, que ser\u00e1 moderador do Painel \"Acordo Verde Europeu e influ\u00eancias no mercado brasileiro\". \ud83c\udde7\ud83c\uddf7 https://t.co/rziQfMb1tb"
+    }
+}

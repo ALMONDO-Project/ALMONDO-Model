@@ -1,0 +1,60 @@
+{
+    "1570867647545212929": {
+        "attachments": {
+            "media_keys": [
+                "16_1570867620726935553"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-09-16T20:10:07.000Z",
+        "edit_history_tweet_ids": [
+            "1570867647545212929"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "United Nations",
+                    "probability": 0.5901,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "UN",
+                    "probability": 0.7599,
+                    "start": 81,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3QU5Tfr",
+                    "end": 275,
+                    "expanded_url": "https://bit.ly/3QU5Tfr",
+                    "start": 252,
+                    "url": "https://t.co/jCjqzr6MkE"
+                },
+                {
+                    "display_url": "pic.twitter.com/tjkulXj98w",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1570867647545212929/photo/1",
+                    "media_key": "16_1570867620726935553",
+                    "start": 276,
+                    "url": "https://t.co/tjkulXj98w"
+                }
+            ]
+        },
+        "id": "1570867647545212929",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udf10 Every September, world leaders from United Nations member states gather at the UN headquarters to debate the most important issues facing the world.\n\nThe theme this year: energy and the consequences of climate change.\n\nHere's what you need to know:\n\nhttps://t.co/jCjqzr6MkE https://t.co/tjkulXj98w"
+    }
+}

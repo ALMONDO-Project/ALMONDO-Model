@@ -1,0 +1,49 @@
+{
+    "1489403584705880070": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-02-04T01:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1489403584705880070"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Oxford",
+                    "probability": 0.4777,
+                    "start": 8,
+                    "type": "Organization"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "city",
+                    "probability": 0.4543,
+                    "start": 105,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bbc.in/3scncy5",
+                    "end": 268,
+                    "expanded_url": "https://bbc.in/3scncy5",
+                    "start": 245,
+                    "status": 200,
+                    "unwound_url": "https://www.bbc.com/news/uk-england-oxfordshire-60168801?linkId=100000107868518",
+                    "url": "https://t.co/7fEIiv4Qfy"
+                }
+            ]
+        },
+        "id": "1489403584705880070",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf06  Will Oxford inspire other cities in the world to build effective zero emission zones?\n\n\ud83d\udc49  The British city will charge all petrol and diesel vehicles circulating in the city to reduce air pollution. Zero emission cars are not included here.\n\nhttps://t.co/7fEIiv4Qfy"
+    }
+}

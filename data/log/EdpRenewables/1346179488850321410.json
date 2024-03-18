@@ -1,0 +1,75 @@
+{
+    "1346179488850321410": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-04T19:39:35.000Z",
+        "edit_history_tweet_ids": [
+            "1346179488850321410"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "EDPR",
+                    "probability": 0.32,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 17,
+                    "normalized_text": "US",
+                    "probability": 0.9573,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "Mississippi",
+                    "probability": 0.9424,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Indiana",
+                    "probability": 0.9737,
+                    "start": 62,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 3,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 116,
+                    "start": 100,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/news/2021/0\u2026",
+                    "end": 192,
+                    "expanded_url": "https://www.edpr.com/en/news/2021/01/04/edpr-secures-ppas-two-solar-projects-us-totalling-275-mw",
+                    "start": 169,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/news/edpr-secures-ppas-two-solar-projects-us-totalling-275-mw",
+                    "url": "https://t.co/hRVH1h5djL"
+                }
+            ]
+        },
+        "id": "1346179488850321410",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddfa\ud83c\uddf8 #EDPR in the US \ud83d\udc49 By 2023, the states of Mississippi &amp; Indiana will have installed 275 MW of #RenewableEnergy powered by two new solar PV plants.\n\nRead more \u2b07\ufe0f \n\nhttps://t.co/hRVH1h5djL"
+    }
+}

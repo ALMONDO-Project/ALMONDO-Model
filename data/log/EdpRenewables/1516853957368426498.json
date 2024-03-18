@@ -1,0 +1,71 @@
+{
+    "1516853957368426498": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-20T18:58:59.000Z",
+        "edit_history_tweet_ids": [
+            "1516853957368426498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5636,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "North America",
+                    "probability": 0.9728,
+                    "start": 95,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 164,
+                    "start": 155,
+                    "tag": "hydrogen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 52,
+                    "id": "1319017177211523072",
+                    "start": 39,
+                    "username": "GHC_hydrogen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edpr.com/en/innovation#\u2026",
+                    "end": 257,
+                    "expanded_url": "https://www.edpr.com/en/innovation#hydrogen",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://www.edpr.com/en/innovation#hydrogen",
+                    "url": "https://t.co/juV5yNh4JI"
+                },
+                {
+                    "display_url": "x.com/GHC_hydrogen/s\u2026",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/GHC_hydrogen/status/1516492266063294465",
+                    "start": 258,
+                    "url": "https://t.co/a3HnBNJvsQ"
+                }
+            ]
+        },
+        "id": "1516853957368426498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "EDPR is excited to be participating in @GHC_hydrogen  and working with stakeholders throughout North America on the benefits and opportunities surrounding #hydrogen deployment. \n\u00a0\n\ud83d\udce2For more information on our work in hydrogen, go to  https://t.co/juV5yNh4JI https://t.co/a3HnBNJvsQ"
+    }
+}

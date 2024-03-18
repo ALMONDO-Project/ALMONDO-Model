@@ -1,0 +1,86 @@
+{
+    "1317160937074417664": {
+        "attachments": {
+            "media_keys": [
+                "3_1317160934993989634"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-16T17:50:13.000Z",
+        "edit_history_tweet_ids": [
+            "1317160937074417664"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Miguel Stilwell d'Andrade",
+                    "probability": 0.6548,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 29,
+                    "normalized_text": "EDP",
+                    "probability": 0.5766,
+                    "start": 27,
+                    "type": "Organization"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "WindfloatAtlantic",
+                    "probability": 0.4382,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "Iberian peninsula",
+                    "probability": 0.5277,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Europe",
+                    "probability": 0.943,
+                    "start": 188,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 112,
+                    "start": 94,
+                    "tag": "WindfloatAtlantic"
+                },
+                {
+                    "end": 214,
+                    "start": 198,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ECaH0aSaRs",
+                    "end": 238,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1317160937074417664/photo/1",
+                    "media_key": "3_1317160934993989634",
+                    "start": 215,
+                    "url": "https://t.co/ECaH0aSaRs"
+                }
+            ]
+        },
+        "id": "1317160937074417664",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Miguel Stilwell d'Andrade, EDP's Interim CEO is paying a visit, with members of the press, to #WindfloatAtlantic, a revolutionary offshore floating wind farm for the Iberian peninsula and Europe! \n\n#RenewableEnergy https://t.co/ECaH0aSaRs"
+    }
+}

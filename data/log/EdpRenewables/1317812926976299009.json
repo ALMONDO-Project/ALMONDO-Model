@@ -1,0 +1,51 @@
+{
+    "1317812926976299009": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-10-18T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1317812926976299009"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 0,
+                    "tag": "GoodNews"
+                },
+                {
+                    "end": 148,
+                    "start": 137,
+                    "tag": "renewables"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 35,
+                    "id": "84679163",
+                    "start": 31,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3iZuWwQ",
+                    "end": 256,
+                    "expanded_url": "https://bit.ly/3iZuWwQ",
+                    "start": 233,
+                    "url": "https://t.co/SO68EqUTco"
+                }
+            ]
+        },
+        "id": "1317812926976299009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "#GoodNews for solar \u2600\ufe0f \ud83d\udc4f \ud83d\udc47 \ud83d\udc47 \n\n@IEA: Solar power now offers some of the cheapest electricity ever produced &amp; will lead to a surge in #renewables over the next decade (under current conditions).\n\nAre you ready to move to solar?? \nhttps://t.co/SO68EqUTco"
+    }
+}

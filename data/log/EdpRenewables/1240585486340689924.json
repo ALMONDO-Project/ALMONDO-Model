@@ -1,0 +1,63 @@
+{
+    "1240585486340689924": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-03-19T10:26:43.000Z",
+        "edit_history_tweet_ids": [
+            "1240585486340689924"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 4,
+                    "tag": "Energy"
+                },
+                {
+                    "end": 50,
+                    "start": 34,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 67,
+                    "start": 62,
+                    "tag": "wind"
+                },
+                {
+                    "end": 78,
+                    "start": 72,
+                    "tag": "solar"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 178,
+                    "id": "16380122",
+                    "start": 173,
+                    "username": "FERC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renewablesnow.com/news/overview-\u2026",
+                    "end": 210,
+                    "expanded_url": "https://renewablesnow.com/news/overview-renewables-dominate-us-electrical-capacity-additions-in-2019-690045/",
+                    "start": 187,
+                    "status": 200,
+                    "unwound_url": "https://renewablesnow.com/news/overview-renewables-dominate-us-electrical-capacity-additions-in-2019-690045/",
+                    "url": "https://t.co/8aG3wSpkac"
+                }
+            ]
+        },
+        "id": "1240585486340689924",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The #Energy Transition is coming! #RenewableEnergy, including #wind and #solar, represented more than half of new electrical generation capacity in 2019, according to a new @FERC report. https://t.co/8aG3wSpkac"
+    }
+}

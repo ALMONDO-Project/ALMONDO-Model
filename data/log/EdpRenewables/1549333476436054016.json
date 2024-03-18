@@ -1,0 +1,42 @@
+{
+    "1549333476436054016": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-07-19T10:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1549333476436054016"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 111,
+                    "normalized_text": "AI",
+                    "probability": 0.7896,
+                    "start": 110,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3aSB1NK",
+                    "end": 221,
+                    "expanded_url": "https://bit.ly/3aSB1NK",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://www.technologyreview.com/supertopic/2022-innovators?linkId=100000136928556",
+                    "url": "https://t.co/gNrbMd64ZY"
+                }
+            ]
+        },
+        "id": "1549333476436054016",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The future is young!\n\n\ud83d\udc49 Did you know there are dozens of innovators under 35 working to bring the best out of AI, biotech, computing and the fight against climate change?\n\nGet to know their names!\n\nhttps://t.co/gNrbMd64ZY"
+    }
+}

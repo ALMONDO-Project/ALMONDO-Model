@@ -1,0 +1,54 @@
+{
+    "1291381138779496449": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-06T14:30:30.000Z",
+        "edit_history_tweet_ids": [
+            "1291381138779496449"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "U.S.",
+                    "probability": 0.9669,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "RenewableEnergy",
+                    "probability": 0.3444,
+                    "start": 58,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 57,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "solarpowerworldonline.com/2020/07/renewa\u2026",
+                    "end": 154,
+                    "expanded_url": "https://www.solarpowerworldonline.com/2020/07/renewables-reach-new-high-provide-25-of-u-s-electricity-in-first-five-months-of-2020/",
+                    "start": 131,
+                    "url": "https://t.co/4mFzXwEmdk"
+                }
+            ]
+        },
+        "id": "1291381138779496449",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udca1 Nearly a quarter of the U.S. received electricity from #RenewableEnergy through the first five months of 2020 - a new record! \ud83d\udcaa  https://t.co/4mFzXwEmdk"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1362544449776193536": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-02-18T23:28:06.000Z",
+        "edit_history_tweet_ids": [
+            "1362544449776193536"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "ClimateNews",
+                    "probability": 0.5323,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "ParisAgreement",
+                    "probability": 0.8699,
+                    "start": 189,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 0,
+                    "tag": "ClimateNews"
+                },
+                {
+                    "end": 153,
+                    "start": 138,
+                    "tag": "ChangingFuture"
+                },
+                {
+                    "end": 172,
+                    "start": 154,
+                    "tag": "SustainableFuture"
+                },
+                {
+                    "end": 187,
+                    "start": 173,
+                    "tag": "ClimateAction"
+                },
+                {
+                    "end": 203,
+                    "start": 188,
+                    "tag": "ParisAgreement"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3azTuf3",
+                    "end": 136,
+                    "expanded_url": "https://bit.ly/3azTuf3",
+                    "start": 113,
+                    "url": "https://t.co/WqONgAxK0B"
+                }
+            ]
+        },
+        "id": "1362544449776193536",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "#ClimateNews \ud83d\udc49 Scientists surprised by marine organisms on boulder on sea floor beneath 900 meters of ice shelf. https://t.co/WqONgAxK0B\n\n#ChangingFuture #SustainableFuture #ClimateAction #ParisAgreement"
+    }
+}

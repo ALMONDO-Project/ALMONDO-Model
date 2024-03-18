@@ -1,0 +1,74 @@
+{
+    "1265024845575868417": {
+        "attachments": {
+            "media_keys": [
+                "3_1265024844384686088"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-05-25T21:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1265024845575868417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Oklahoma",
+                    "probability": 0.9787,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Oklahoma",
+                    "probability": 0.9784,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "\ufffd Deana Hardes",
+                    "probability": 0.4299,
+                    "start": -1,
+                    "type": "Person"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "n Grady Coun",
+                    "probability": 0.7575,
+                    "start": 197,
+                    "type": "Place"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": ", Oklaho",
+                    "probability": 0.9022,
+                    "start": 211,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/gsMOusgNz2",
+                    "end": 246,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1265024845575868417/photo/1",
+                    "media_key": "3_1265024844384686088",
+                    "start": 223,
+                    "url": "https://t.co/gsMOusgNz2"
+                }
+            ]
+        },
+        "id": "1265024845575868417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u201cIn Oklahoma, the wind blows. I think wind energy has helped Oklahoma. It\u2019s renewable, the footprint\u2019s not huge, and it\u2019s clean.\u201d  \n\n\ud83d\udc69\u200d\ud83d\udcbc Deana Hardesty, a landowner at our Redbed Plains Wind Farm in Grady County, Oklahoma. https://t.co/gsMOusgNz2"
+    }
+}

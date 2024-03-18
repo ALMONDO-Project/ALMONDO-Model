@@ -1,0 +1,57 @@
+{
+    "1509153720466092038": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-03-30T13:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1509153720466092038"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 127,
+                    "normalized_text": "ExtremeWeather",
+                    "probability": 0.7962,
+                    "start": 114,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 128,
+                    "start": 113,
+                    "tag": "ExtremeWeather"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 176,
+                    "id": "113062227",
+                    "start": 172,
+                    "username": "WMO"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bbc.in/3INq8rf",
+                    "end": 271,
+                    "expanded_url": "https://bbc.in/3INq8rf",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.bbc.com/news/science-environment-60847942?linkId=100000117800360",
+                    "url": "https://t.co/E6BqglUtRm"
+                }
+            ]
+        },
+        "id": "1509153720466092038",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udc49  Right now, one third of the global population has no early meteorological warning systems. This may result in #ExtremeWeather responses not working fast enough.\n\n\u26a1  The @WMO will now put together a plan of $1.5 bn to avoid future catastrophes.\n\nhttps://t.co/E6BqglUtRm"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "1233874837937901568": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-29T22:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1233874837937901568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 181,
+                    "normalized_text": "ClimateCrisis",
+                    "probability": 0.694,
+                    "start": 169,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 168,
+                    "tag": "ClimateCrisis"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "greenbiz.com/article/watch-\u2026",
+                    "end": 207,
+                    "expanded_url": "https://www.greenbiz.com/article/watch-these-four-clean-energy-trends-us-cities",
+                    "start": 184,
+                    "url": "https://t.co/Jmwt3Q6yZs"
+                }
+            ]
+        },
+        "id": "1233874837937901568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "At the start of this new decade, American cities, states and businesses already have come a long way on the road to cutting greenhouse gas emissions to help tackle the #ClimateCrisis.\nhttps://t.co/Jmwt3Q6yZs"
+    }
+}

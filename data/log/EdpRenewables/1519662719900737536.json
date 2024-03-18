@@ -1,0 +1,47 @@
+{
+    "1519662719900737536": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-28T13:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1519662719900737536"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Tokyo",
+                    "probability": 0.8666,
+                    "start": 19,
+                    "type": "Place"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "CO2",
+                    "probability": 0.6584,
+                    "start": 162,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "abcn.ws/3MCVpPQ",
+                    "end": 278,
+                    "expanded_url": "https://abcn.ws/3MCVpPQ",
+                    "start": 255,
+                    "url": "https://t.co/yzBAcskgrb"
+                }
+            ]
+        },
+        "id": "1519662719900737536",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83e\udd29  Just wow!!\n\n\ud83c\uddef\ud83c\uddf5  Tokyo's railway trains have switched to power generated only by solar and other renewable resources! \n\nThat's what we call a breakthrough: the CO2 reduction is equivalent to the annual average emissions of 56,000 japanese households. \n\nhttps://t.co/yzBAcskgrb"
+    }
+}

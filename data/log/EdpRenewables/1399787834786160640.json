@@ -1,0 +1,79 @@
+{
+    "1399787834786160640": {
+        "attachments": {
+            "media_keys": [
+                "3_1399787833414520833"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2021-06-01T18:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1399787834786160640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "Stocare Project",
+                    "probability": 0.9287,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "Romania",
+                    "probability": 0.9369,
+                    "start": 58,
+                    "type": "Place"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "EDPR",
+                    "probability": 0.429,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 245,
+                    "start": 240,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 262,
+                    "start": 246,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3wnmf6O",
+                    "end": 239,
+                    "expanded_url": "https://bit.ly/3wnmf6O",
+                    "start": 216,
+                    "url": "https://t.co/7uLqqIhfkD"
+                },
+                {
+                    "display_url": "pic.twitter.com/Rj44QZ9nnK",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1399787834786160640/photo/1",
+                    "media_key": "3_1399787833414520833",
+                    "start": 263,
+                    "url": "https://t.co/Rj44QZ9nnK"
+                }
+            ]
+        },
+        "id": "1399787834786160640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "One of our most pioneering projects is Stocare Project in Romania:\nAn innovative renewable energy management system that will bring major energy breakthroughs in the future.\u26a1\ufe0f\nWould you like to know more? Click here https://t.co/7uLqqIhfkD\n#EDPR #renewableenergy https://t.co/Rj44QZ9nnK"
+    }
+}

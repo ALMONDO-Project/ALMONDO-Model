@@ -1,0 +1,76 @@
+{
+    "1410165090477920258": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-06-30T09:15:31.000Z",
+        "edit_history_tweet_ids": [
+            "1410165090477920258"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Ocean Winds",
+                    "probability": 0.8238,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 24,
+                    "normalized_text": "JV",
+                    "probability": 0.4686,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 39,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4324,
+                    "start": 36,
+                    "type": "Organization"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "Poland",
+                    "probability": 0.9507,
+                    "start": 146,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 35,
+                    "tag": "EDPR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 56,
+                    "id": "88697269",
+                    "start": 45,
+                    "username": "ENGIEgroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3jrhmWO",
+                    "end": 184,
+                    "expanded_url": "https://bit.ly/3jrhmWO",
+                    "start": 161,
+                    "url": "https://t.co/kW4WpKiLhl"
+                }
+            ]
+        },
+        "id": "1410165090477920258",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Ocean Winds, the 50/50 JV owned by #EDPR and @ENGIEgroup, has secured a 25-year contract-for-difference for 369.5 MW of offshore wind projects in Poland. \ud83c\udf0a \ud83c\uddf5\ud83c\uddf1 \n https://t.co/kW4WpKiLhl"
+    }
+}

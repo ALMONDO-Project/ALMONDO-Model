@@ -1,0 +1,60 @@
+{
+    "1517965040183357440": {
+        "attachments": {
+            "media_keys": [
+                "3_1517965035439599620"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2022-04-23T20:34:02.000Z",
+        "edit_history_tweet_ids": [
+            "1517965040183357440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "China",
+                    "probability": 0.9787,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "Shanxi Province",
+                    "probability": 0.7825,
+                    "start": 53,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.natgeo.com/3MlX6kL",
+                    "end": 157,
+                    "expanded_url": "https://on.natgeo.com/3MlX6kL",
+                    "start": 134,
+                    "url": "https://t.co/XsiKCUvJo0"
+                },
+                {
+                    "display_url": "pic.twitter.com/pLLSB2YBhD",
+                    "end": 181,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1517965040183357440/photo/1",
+                    "media_key": "3_1517965035439599620",
+                    "start": 158,
+                    "url": "https://t.co/pLLSB2YBhD"
+                }
+            ]
+        },
+        "id": "1517965040183357440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udde8\ud83c\uddf3  China consumes half of the world's coal. But the Shanxi Province is leading its solar revolution. \n\nCheck this region's story \ud83d\udc47 \n\nhttps://t.co/XsiKCUvJo0 https://t.co/pLLSB2YBhD"
+    }
+}

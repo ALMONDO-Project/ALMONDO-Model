@@ -1,0 +1,69 @@
+{
+    "1228967251824517120": {
+        "author_id": "1112667704010436609",
+        "created_at": "2020-02-16T09:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1228967251824517120"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5542,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "megawatt",
+                    "probability": 0.6291,
+                    "start": 133,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 141,
+                    "start": 132,
+                    "tag": "megawatt"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 165,
+                    "id": "1576670370",
+                    "start": 159,
+                    "username": "UsusC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ucsusa.org/resources/how-\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.ucsusa.org/resources/how-electricity-measured",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://www.ucsusa.org/resources/how-electricity-measured",
+                    "url": "https://t.co/Tlu9ET6yS3"
+                }
+            ]
+        },
+        "id": "1228967251824517120",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#EDPR\u2019s North American wind and solar projects produce nearly 6,500 megawatts of power throughout the course of a year. What\u2019s in a #megawatt? Learn more from @USUSC here: https://t.co/Tlu9ET6yS3"
+    }
+}

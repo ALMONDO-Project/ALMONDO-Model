@@ -1,0 +1,77 @@
+{
+    "1293209639119708160": {
+        "attachments": {
+            "media_keys": [
+                "3_1293209637785870338"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2020-08-11T15:36:19.000Z",
+        "edit_history_tweet_ids": [
+            "1293209639119708160"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4204,
+                    "start": 52,
+                    "type": "Organization"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "U.S.",
+                    "probability": 0.8814,
+                    "start": 114,
+                    "type": "Place"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "AmericanWindWeek",
+                    "probability": 0.5064,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 0,
+                    "tag": "WindBuildsTheFuture"
+                },
+                {
+                    "end": 56,
+                    "start": 51,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 279,
+                    "start": 262,
+                    "tag": "AmericanWindWeek"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/e9M2qvBYnU",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1293209639119708160/photo/1",
+                    "media_key": "3_1293209637785870338",
+                    "start": 280,
+                    "url": "https://t.co/e9M2qvBYnU"
+                }
+            ]
+        },
+        "id": "1293209639119708160",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#WindBuildsTheFuture in the five communities where #EDPR has nearly 800MW of wind projects in construction in the U.S. These projects represent an estimated $1.1billion in capital investment and will power the post-pandemic economic recovery for years to come.\n\n#AmericanWindWeek https://t.co/e9M2qvBYnU"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1420368740802248706": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-07-28T13:01:11.000Z",
+        "edit_history_tweet_ids": [
+            "1420368740802248706"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.4055,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                }
+            ]
+        },
+        "id": "1420368740802248706",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#EDPR has added a total of 691 MW of wind and solar capacity since December 2020 \ud83d\udc47 \n\n\ud83c\udf2c\ufe0f \u2600\ufe0f of which 648 MW have been fully consolidated"
+    }
+}

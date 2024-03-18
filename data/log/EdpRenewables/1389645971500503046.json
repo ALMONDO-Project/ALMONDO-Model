@@ -1,0 +1,62 @@
+{
+    "1389645971500503046": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-05-04T18:19:52.000Z",
+        "edit_history_tweet_ids": [
+            "1389645971500503046"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Chernobyl",
+                    "probability": 0.7647,
+                    "start": 32,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Gleb Garanich",
+                    "probability": 0.621,
+                    "start": 65,
+                    "type": "Person"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "UNESCO World Heritage",
+                    "probability": 0.6167,
+                    "start": 100,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 31,
+                    "tag": "Chernobyl"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/33fXqNy",
+                    "end": 153,
+                    "expanded_url": "https://bit.ly/33fXqNy",
+                    "start": 130,
+                    "unwound_url": "https://bit.ly/33fXqNy",
+                    "url": "https://t.co/HITJmx7u9a"
+                }
+            ]
+        },
+        "id": "1389645971500503046",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "On the 35th anniversary of the #Chernobyl disaster, photographer Gleb Garanich surveys the proposed UNESCO World Heritage site \ud83d\udc49  https://t.co/HITJmx7u9a"
+    }
+}

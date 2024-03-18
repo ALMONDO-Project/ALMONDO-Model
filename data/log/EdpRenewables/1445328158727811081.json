@@ -1,0 +1,42 @@
+{
+    "1445328158727811081": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-10-05T10:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1445328158727811081"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9786,
+                    "start": 7,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3AeyMLb",
+                    "end": 254,
+                    "expanded_url": "https://bit.ly/3AeyMLb",
+                    "start": 231,
+                    "status": 200,
+                    "unwound_url": "https://news.mongabay.com/2020/08/brazil-green-recovery-plan-could-boost-economy-add-jobs-cut-emissions-report/",
+                    "url": "https://t.co/gIuB9MgN6K"
+                }
+            ]
+        },
+        "id": "1445328158727811081",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udde7\ud83c\uddf7  If Brazil shifted to a low carbon economy, emissions would be cut by a third. \n\nAnd not only that.\n\n\ud83d\udc49  Investments into greener industry in the country could generate an extra $325-$525 billion in GDP over the next ten years.\n\nhttps://t.co/gIuB9MgN6K"
+    }
+}

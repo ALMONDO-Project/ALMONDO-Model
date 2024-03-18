@@ -1,0 +1,62 @@
+{
+    "1351945371682025477": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-01-20T17:31:09.000Z",
+        "edit_history_tweet_ids": [
+            "1351945371682025477"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5079,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 52,
+                    "normalized_text": "C2 Omega",
+                    "probability": 0.7162,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "EDPR NA DG",
+                    "probability": 0.5632,
+                    "start": 68,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "EDPR"
+                },
+                {
+                    "end": 133,
+                    "start": 111,
+                    "tag": "distributedgeneration"
+                },
+                {
+                    "end": 187,
+                    "start": 171,
+                    "tag": "renewableenergy"
+                }
+            ]
+        },
+        "id": "1351945371682025477",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#EDPR NA has acquired a majority interest in C2 Omega, establishing EDPR NA DG and marking our entrance to the #distributedgeneration market and demonstrating our role as #renewableenergy leaders."
+    }
+}

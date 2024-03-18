@@ -1,0 +1,71 @@
+{
+    "1366840985154707458": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-03-02T20:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1366840985154707458"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "European Solar Initiative",
+                    "probability": 0.6503,
+                    "start": 9,
+                    "type": "Other"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "Europe",
+                    "probability": 0.9542,
+                    "start": 167,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 145,
+                    "start": 139,
+                    "tag": "solar"
+                },
+                {
+                    "end": 236,
+                    "start": 220,
+                    "tag": "RenewableEnergy"
+                },
+                {
+                    "end": 249,
+                    "start": 237,
+                    "tag": "SolarEnergy"
+                },
+                {
+                    "end": 266,
+                    "start": 250,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3sAbX18",
+                    "end": 218,
+                    "expanded_url": "https://bit.ly/3sAbX18",
+                    "start": 195,
+                    "status": 200,
+                    "unwound_url": "https://www.smartcitiesworld.net/news/news/european-solar-initiative-aims-to-accelerate-the-climate-agenda-6130?linkId=100000034540449",
+                    "url": "https://t.co/B8w7g28NuE"
+                }
+            ]
+        },
+        "id": "1366840985154707458",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udf31 \ud83c\uddea\ud83c\uddfa The European Solar Initiative aims to re-develop a strong PV manufacturing industry, which will capture the additional 20GW of annual #solar demand forecasted in Europe for the next decade.\nhttps://t.co/B8w7g28NuE\n\n#RenewableEnergy #SolarEnergy #Decarbonization"
+    }
+}

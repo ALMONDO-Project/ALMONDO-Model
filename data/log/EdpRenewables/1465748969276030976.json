@@ -1,0 +1,66 @@
+{
+    "1465748969276030976": {
+        "author_id": "1112667704010436609",
+        "created_at": "2021-11-30T18:26:01.000Z",
+        "edit_history_tweet_ids": [
+            "1465748969276030976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "EDPR",
+                    "probability": 0.5354,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Insight",
+                    "probability": 0.5314,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "COP26",
+                    "probability": 0.9279,
+                    "start": 154,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 153,
+                    "tag": "COP26"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "2803700838",
+                    "start": 67,
+                    "username": "NoVARegion"
+                },
+                {
+                    "end": 98,
+                    "id": "40297689",
+                    "start": 85,
+                    "username": "GeorgeMasonU"
+                }
+            ]
+        },
+        "id": "1465748969276030976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "EDPR released the 3rd Distributed Energy Insight \ud83d\udd1d \n\nThanks to the @NoVARegion &amp; @GeorgeMasonU for their collaboration with us on highlighting a key #COP26 takeaway: the importance of strategically engaging public-private partnerships to support local energy &amp; climate planning."
+    }
+}

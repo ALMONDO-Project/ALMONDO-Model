@@ -1,0 +1,42 @@
+{
+    "1507311581725605891": {
+        "author_id": "1112667704010436609",
+        "created_at": "2022-03-25T11:01:00.000Z",
+        "edit_history_tweet_ids": [
+            "1507311581725605891"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Carbon",
+                    "probability": 0.4512,
+                    "start": 3,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3JDUePp",
+                    "end": 221,
+                    "expanded_url": "https://bit.ly/3JDUePp",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://www.weforum.org/agenda/2022/03/carbon-insetting-vs-offsetting-an-explainer/?linkId=100000116920012",
+                    "url": "https://t.co/tJZmB9Gqt4"
+                }
+            ]
+        },
+        "id": "1507311581725605891",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83e\udd14  Carbon insetting? Carbon offsetting? Do you know what they mean?\n\n\ud83d\udc49  Put simply, 'insetting' focuses on doing more good rather than doing less. But what about 'offsetting'? Here's an explainer:\n\nhttps://t.co/tJZmB9Gqt4"
+    }
+}
