@@ -1,0 +1,104 @@
+{
+    "1611361955368820736": {
+        "attachments": {
+            "media_keys": [
+                "3_1611361952474841088"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-01-06T14:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1611361955368820736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.6325,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Wood",
+                    "probability": 0.4546,
+                    "start": 126,
+                    "type": "Person"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "GSK",
+                    "probability": 0.4309,
+                    "start": 236,
+                    "type": "Organization"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "JPM2023",
+                    "probability": 0.5177,
+                    "start": 241,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "JPM23",
+                    "probability": 0.4692,
+                    "start": 250,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 21,
+                    "start": 15,
+                    "tag": "Media"
+                },
+                {
+                    "end": 248,
+                    "start": 240,
+                    "tag": "JPM2023"
+                },
+                {
+                    "end": 255,
+                    "start": 249,
+                    "tag": "JPM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 172,
+                    "id": "1155522630",
+                    "start": 163,
+                    "username": "jpmorgan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ttmE4sPWLL",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/GSK/status/1611361955368820736/photo/1",
+                    "media_key": "3_1611361952474841088",
+                    "start": 256,
+                    "url": "https://t.co/ttmE4sPWLL"
+                }
+            ]
+        },
+        "id": "1611361955368820736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5028,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "#Investors and #Media: On Tuesday 10 January our CEO, Emma Walmsley and Chief Scientific Officer and President, R&amp;D, Tony Wood will be joining the 41st annual @jpmorgan Healthcare Conference as we kick off another exciting year for GSK #JPM2023 #JPM23 https://t.co/ttmE4sPWLL"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "1699790886266347858": {
+        "author_id": "5383942",
+        "created_at": "2023-09-07T14:25:02.000Z",
+        "edit_history_tweet_ids": [
+            "1699790886266347858"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "UK Horizon",
+                    "probability": 0.6278,
+                    "start": 11,
+                    "type": "Other"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "UK",
+                    "probability": 0.8883,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "EU",
+                    "probability": 0.9256,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Horizon",
+                    "probability": 0.6934,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "AI",
+                    "probability": 0.5198,
+                    "start": 242,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "UK to associate to Horizon Europe and Copernicus programmes through a bespoke new agreement with the EU.",
+                    "display_url": "gov.uk/government/new\u2026",
+                    "end": 287,
+                    "expanded_url": "https://www.gov.uk/government/news/uk-joins-horizon-europe-under-a-new-bespoke-deal",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://pbs.twimg.com/news_img/1740300466574016512/GeDeYt6W?format=jpg&name=orig",
+                            "width": 960
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1740300466574016512/GeDeYt6W?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 264,
+                    "status": 200,
+                    "title": "UK joins Horizon Europe under a new bespoke deal",
+                    "unwound_url": "https://www.gov.uk/government/news/uk-joins-horizon-europe-under-a-new-bespoke-deal",
+                    "url": "https://t.co/Ra7N7lSxQb"
+                }
+            ]
+        },
+        "id": "1699790886266347858",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3132,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We welcome UK Horizon association. Enabling world-class UK institutions to collaborate with EU partners through Horizon will help drive cutting-edge work in areas critical to a competitive economy &amp; job creation, like life sciences &amp; AI.\n\nFind out more \ud83d\udc47  https://t.co/Ra7N7lSxQb"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1670385872481529858": {
+        "author_id": "5383942",
+        "created_at": "2023-06-18T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1670385872481529858"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "lupus",
+                    "probability": 0.5338,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "ERA23",
+                    "probability": 0.4907,
+                    "start": 122,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "lupus",
+                    "probability": 0.4671,
+                    "start": 216,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 40,
+                    "start": 34,
+                    "tag": "lupus"
+                },
+                {
+                    "end": 127,
+                    "start": 121,
+                    "tag": "ERA23"
+                }
+            ]
+        },
+        "id": "1670385872481529858",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4355,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "#DYK the risk of kidney damage by #lupus can be significantly reduced when managed early with a doctor? \n\nAt this year\u2019s #ERA23, we\u2019re excited to share our latest research on improving outcomes for those living with lupus.\u202f Start the conversation today."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "1740689115601842655": {
+        "author_id": "5383942",
+        "created_at": "2023-12-29T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1740689115601842655"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "Global Coalition",
+                    "probability": 0.8293,
+                    "start": 119,
+                    "type": "Organization"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "GCOA",
+                    "probability": 0.473,
+                    "start": 239,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 238,
+                    "tag": "GCOA"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 154,
+                    "id": "2229121504",
+                    "start": 146,
+                    "username": "MWHodin"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Adult immunisation can help people live longer, healthier lives and continue to make vital contributions to society",
+                    "display_url": "gsk.to/3TyAKTX",
+                    "end": 268,
+                    "expanded_url": "https://gsk.to/3TyAKTX",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1740689120739954688/jBdHjiQK?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1740689120739954688/jBdHjiQK?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 245,
+                    "status": 200,
+                    "title": "\u2018Adult vaccination plays an essential role in healthy ageing, so let\u2019s prioritise prevention and make it a new standard of care\u2019 | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/adult-vaccines-healthy-ageing-comment/?linkId=100000232265867",
+                    "url": "https://t.co/64RqYRD61x"
+                }
+            ]
+        },
+        "id": "1740689115601842655",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2648,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Investing in adult vaccine programs is not only beneficial for individuals but also for society as a whole. CEO of the Global Coalition on Aging, @MWHodin, calls for collective action to make adult immunisation the new standard of care \ud83d\udc47 #GCOA \nhttps://t.co/64RqYRD61x"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "1719090972632465592": {
+        "author_id": "5383942",
+        "created_at": "2023-10-30T20:36:41.000Z",
+        "edit_history_tweet_ids": [
+            "1719090972632465592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Pakistan",
+                    "probability": 0.9876,
+                    "start": 66,
+                    "type": "Place"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Crystal",
+                    "probability": 0.7009,
+                    "start": 250,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "50229466",
+                    "start": 0,
+                    "username": "asifnz"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Whether you\u2019re a customer, job seeker, health professional or an investor, you can find the best way to contact us .",
+                    "display_url": "pk.gsk.com/en-pk/contact-\u2026",
+                    "end": 172,
+                    "expanded_url": "https://pk.gsk.com/en-pk/contact-us/",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1748048675979350018/wa6ggtCX?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1748048675979350018/wa6ggtCX?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 149,
+                    "status": 200,
+                    "title": "Contact us | GSK Pakistan",
+                    "unwound_url": "https://pk.gsk.com/en-pk/contact-us/",
+                    "url": "https://t.co/ANVzPcS8Af"
+                }
+            ]
+        },
+        "id": "1719090972632465592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 59,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@asifnz Hello and thank you for reaching out. Our local office in Pakistan is best equipped to answer questions about products in your local market: https://t.co/ANVzPcS8Af\n\nPlease note that our offices are not open in the evenings or on weekends.\n\n-Crystal"
+    }
+}

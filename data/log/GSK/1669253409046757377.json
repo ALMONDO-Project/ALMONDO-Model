@@ -1,0 +1,70 @@
+{
+    "1669253409046757377": {
+        "author_id": "5383942",
+        "created_at": "2023-06-15T08:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1669253409046757377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "ERA23",
+                    "probability": 0.628,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "anaemia of",
+                    "probability": 0.6459,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "kidney disease",
+                    "probability": 0.5949,
+                    "start": 144,
+                    "type": "Other"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "lupus nephritis",
+                    "probability": 0.6615,
+                    "start": 163,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "ERA23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.com/en-gb/behind-t\u2026",
+                    "end": 204,
+                    "expanded_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/following-the-science-of-oxygen-to-discover-solutions-for-anaemia/",
+                    "start": 181,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/following-the-science-of-oxygen-to-discover-solutions-for-anaemia/",
+                    "url": "https://t.co/e4F1P0P6IP"
+                }
+            ]
+        },
+        "id": "1669253409046757377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3513,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 1
+        },
+        "text": "#ERA23\nExplore how we\u2019re advancing solutions through research and innovation, so we can get ahead together for patients with anaemia of chronic kidney disease and lupus nephritis:\n\nhttps://t.co/e4F1P0P6IP"
+    }
+}

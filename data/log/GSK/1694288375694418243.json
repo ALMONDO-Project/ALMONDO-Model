@@ -1,0 +1,70 @@
+{
+    "1694288375694418243": {
+        "attachments": {
+            "media_keys": [
+                "3_1694288373341470720"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-08-23T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1694288375694418243"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 158,
+                    "normalized_text": "HIV",
+                    "probability": 0.9322,
+                    "start": 156,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 155,
+                    "tag": "HIV"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 265,
+                    "id": "3019793950",
+                    "start": 258,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3qqmfFw",
+                    "end": 257,
+                    "expanded_url": "https://gsk.to/3qqmfFw",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/the-40-year-fight-against-hiv/?linkId=100000213509798",
+                    "url": "https://t.co/508Kjr8jwH"
+                },
+                {
+                    "display_url": "pic.twitter.com/PtibwuWStK",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/GSK/status/1694288375694418243/photo/1",
+                    "media_key": "3_1694288373341470720",
+                    "start": 266,
+                    "url": "https://t.co/PtibwuWStK"
+                }
+            ]
+        },
+        "id": "1694288375694418243",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3443,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Imagine trying to find a treatment for a health condition, when you have no idea what it actually is? Our latest article delves into the early days of the #HIV epidemic and the challenges faced by researchers. Read now to learn more: https://t.co/508Kjr8jwH @ViiVHC https://t.co/PtibwuWStK"
+    }
+}

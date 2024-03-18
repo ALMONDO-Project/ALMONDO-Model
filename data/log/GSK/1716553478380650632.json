@@ -1,0 +1,64 @@
+{
+    "1716553478380650632": {
+        "author_id": "5383942",
+        "created_at": "2023-10-23T20:33:35.000Z",
+        "edit_history_tweet_ids": [
+            "1716553478380650632"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "UK",
+                    "probability": 0.9833,
+                    "start": 73,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "3383593887",
+                    "start": 0,
+                    "username": "Spice577"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK United Kingdom",
+                    "display_url": "gsk.com/en-gb/location\u2026",
+                    "end": 173,
+                    "expanded_url": "https://www.gsk.com/en-gb/locations/united-kingdom/#general-enquiries",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 150,
+                    "status": 200,
+                    "title": "United Kingdom | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/locations/united-kingdom/#general-enquiries",
+                    "url": "https://t.co/bSD3CNgTDg"
+                }
+            ]
+        },
+        "id": "1716553478380650632",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 47,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Spice577 Hello, and thank you for reaching out. Our local office in the UK is best equipped to answer questions about products in your local market: https://t.co/bSD3CNgTDg\n\nPlease note that our offices are not open in the evenings or on weekends."
+    }
+}

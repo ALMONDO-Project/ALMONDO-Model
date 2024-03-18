@@ -1,0 +1,61 @@
+{
+    "1724793125108060392": {
+        "author_id": "5383942",
+        "created_at": "2023-11-15T14:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1724793125108060392"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Lancet Countdown",
+                    "probability": 0.9368,
+                    "start": 9,
+                    "type": "Other"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "GSK",
+                    "probability": 0.6685,
+                    "start": 118,
+                    "type": "Organization"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "COP28UAE",
+                    "probability": 0.8509,
+                    "start": 188,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 196,
+                    "start": 187,
+                    "tag": "COP28UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/LancetCountdow\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/LancetCountdown/status/1724717591791296583",
+                    "start": 279,
+                    "url": "https://t.co/s5JQLWbWmZ"
+                }
+            ]
+        },
+        "id": "1724793125108060392",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4336,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The 2023 Lancet Countdown report on health and climate change is out, and it's clear that urgent action is needed. At GSK, we're getting ahead of the health impacts of climate change. As #COP28UAE approaches stay tuned for more updates on our work related to climate and health. https://t.co/s5JQLWbWmZ"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1644659862532415491": {
+        "attachments": {
+            "media_keys": [
+                "3_1644659857356619779"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-08T11:14:02.000Z",
+        "edit_history_tweet_ids": [
+            "1644659862532415491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "GSKIMPACTUK",
+                    "probability": 0.6886,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 14,
+                    "tag": "GSKIMPACTUK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 54,
+                    "id": "720297624",
+                    "start": 40,
+                    "username": "StreetDoctors"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "streetdoctors.org",
+                    "end": 279,
+                    "expanded_url": "https://streetdoctors.org/",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://streetdoctors.org/",
+                    "url": "https://t.co/wP0ppoAI49"
+                },
+                {
+                    "display_url": "pic.twitter.com/Lr7Aqj5lbo",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/GSK/status/1644659862532415491/photo/1",
+                    "media_key": "3_1644659857356619779",
+                    "start": 280,
+                    "url": "https://t.co/Lr7Aqj5lbo"
+                }
+            ]
+        },
+        "id": "1644659862532415491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6772,
+            "like_count": 17,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 6
+        },
+        "text": "Meet our 2023 #GSKIMPACTUK Award winner @StreetDoctors, empowering young people affected by street violence with emergency lifesaving skills and knowledge about the consequences of violence, to keep themselves and their communities safe.  \nFind out more \ud83d\udc49 https://t.co/wP0ppoAI49 https://t.co/Lr7Aqj5lbo"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1712013678281642233": {
+        "attachments": {
+            "poll_ids": [
+                "1712013677572870144"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-11T07:54:03.000Z",
+        "edit_history_tweet_ids": [
+            "1712013678281642233"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "HLTH2023",
+                    "probability": 0.565,
+                    "start": 23,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 31,
+                    "start": 22,
+                    "tag": "HLTH2023"
+                }
+            ]
+        },
+        "id": "1712013678281642233",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2211,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "It's the final day of #HLTH2023 and we're asking delegates the following question. Let us know what you think \ud83d\udc47\n\nWhat one thing can pharma most learn from start up culture?"
+    }
+}

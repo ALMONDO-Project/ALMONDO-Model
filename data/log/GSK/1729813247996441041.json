@@ -1,0 +1,57 @@
+{
+    "1729813247996441041": {
+        "author_id": "5383942",
+        "created_at": "2023-11-29T10:43:11.000Z",
+        "edit_history_tweet_ids": [
+            "1729813247996441041"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Health Systems Task Force",
+                    "probability": 0.5067,
+                    "start": 22,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 21,
+                    "id": "1299330439065276417",
+                    "start": 14,
+                    "username": "TheSMI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/46AokxU",
+                    "end": 253,
+                    "expanded_url": "https://gsk.to/46AokxU",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://a.storyblok.com/f/109506/x/ea7b5e9da4/smi_health_systems_tf_release_24-11-2023_final.pdf",
+                    "url": "https://t.co/ba0K1uqGlp"
+                },
+                {
+                    "display_url": "x.com/TheSMI/status/\u2026",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/TheSMI/status/1729767934325633316",
+                    "start": 254,
+                    "url": "https://t.co/V00ZhjZU38"
+                }
+            ]
+        },
+        "id": "1729813247996441041",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4928,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We\u2019re part of @TheSMI Health Systems Task Force. Together, we\u2019re helping our suppliers source renewable power to decarbonise the healthcare supply chain.\n\nLearn about our joint actions to make more sustainable healthcare systems: https://t.co/ba0K1uqGlp https://t.co/V00ZhjZU38"
+    }
+}

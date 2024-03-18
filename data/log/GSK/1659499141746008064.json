@@ -1,0 +1,62 @@
+{
+    "1659499141746008064": {
+        "attachments": {
+            "media_keys": [
+                "3_1659499138843549696"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-05-19T10:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1659499141746008064"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 231,
+                    "normalized_text": "VaccineScience",
+                    "probability": 0.5993,
+                    "start": 218,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 232,
+                    "start": 217,
+                    "tag": "VaccineScience"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3MGMFeI",
+                    "end": 215,
+                    "expanded_url": "https://gsk.to/3MGMFeI",
+                    "start": 192,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/digital-twin-using-advanced-technology-to-accelerate-vaccine-development/?linkId=100000202510992",
+                    "url": "https://t.co/a1gR51bG7k"
+                },
+                {
+                    "display_url": "pic.twitter.com/A9HguNSLLI",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/GSK/status/1659499141746008064/photo/1",
+                    "media_key": "3_1659499138843549696",
+                    "start": 233,
+                    "url": "https://t.co/A9HguNSLLI"
+                }
+            ]
+        },
+        "id": "1659499141746008064",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4990,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 2
+        },
+        "text": "Developing vaccines has historically been a time-consuming process, often taking more than a decade. \n\nLearn how we\u2019re using a digital twin to speed up the entire vaccine development process: https://t.co/a1gR51bG7k\n\n#VaccineScience https://t.co/A9HguNSLLI"
+    }
+}

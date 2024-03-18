@@ -1,0 +1,77 @@
+{
+    "1642112073155895297": {
+        "attachments": {
+            "media_keys": [
+                "3_1642112068756144128"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-01T10:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1642112073155895297"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "GSKIMPACTUK",
+                    "probability": 0.705,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Croydon",
+                    "probability": 0.9896,
+                    "start": 173,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 14,
+                    "tag": "GSKIMPACTUK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 56,
+                    "id": "66702912",
+                    "start": 40,
+                    "username": "CroydonBMEForum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cbmeforum.org",
+                    "end": 220,
+                    "expanded_url": "https://www.cbmeforum.org/",
+                    "start": 197,
+                    "status": 200,
+                    "unwound_url": "https://www.cbmeforum.org/",
+                    "url": "https://t.co/CF7rnfnGE5"
+                },
+                {
+                    "display_url": "pic.twitter.com/YwTcwpMbWh",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/GSK/status/1642112073155895297/photo/1",
+                    "media_key": "3_1642112068756144128",
+                    "start": 221,
+                    "url": "https://t.co/YwTcwpMbWh"
+                }
+            ]
+        },
+        "id": "1642112073155895297",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5277,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 1
+        },
+        "text": "Meet our 2023 #GSKIMPACTUK Award winner @CroydonBMEForum, working to tackle health inequalities and improve the physical and mental health of ethnic minority communities in Croydon. \n\nLearn more \ud83d\udc49 https://t.co/CF7rnfnGE5 https://t.co/YwTcwpMbWh"
+    }
+}

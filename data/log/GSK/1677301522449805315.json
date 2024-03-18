@@ -1,0 +1,90 @@
+{
+    "1677301522449805315": {
+        "attachments": {
+            "media_keys": [
+                "13_1677301444494368768"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-07-07T13:00:20.000Z",
+        "edit_history_tweet_ids": [
+            "1677301522449805315"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "GSK",
+                    "probability": 0.5686,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "SPECTRUM",
+                    "probability": 0.6822,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "LGBTQ+",
+                    "probability": 0.86,
+                    "start": 90,
+                    "type": "Place"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "PrideinLondon",
+                    "probability": 0.548,
+                    "start": 135,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "GSK",
+                    "probability": 0.6123,
+                    "start": 161,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 148,
+                    "start": 134,
+                    "tag": "PrideinLondon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/43h2MVk",
+                    "end": 278,
+                    "expanded_url": "https://gsk.to/43h2MVk",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/?linkId=100000208344665",
+                    "url": "https://t.co/jCOoNsIINc"
+                },
+                {
+                    "display_url": "pic.twitter.com/kBoQ7jEjYI",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/GSK/status/1677301522449805315/video/1",
+                    "media_key": "13_1677301444494368768",
+                    "start": 279,
+                    "url": "https://t.co/kBoQ7jEjYI"
+                }
+            ]
+        },
+        "id": "1677301522449805315",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8321,
+            "like_count": 17,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 5
+        },
+        "text": "We're so proud of the GSK people who are part of SPECTRUM, our employee network group for LGBTQ+ employees and allies, who marched at #PrideinLondon.\ud83c\udf08 \n\nWe want GSK to be a workplace where everyone can feel a sense of belonging and thrive. Find out more: https://t.co/jCOoNsIINc https://t.co/kBoQ7jEjYI"
+    }
+}

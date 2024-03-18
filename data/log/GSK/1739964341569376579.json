@@ -1,0 +1,70 @@
+{
+    "1739964341569376579": {
+        "author_id": "5383942",
+        "created_at": "2023-12-27T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1739964341569376579"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "AI",
+                    "probability": 0.7894,
+                    "start": 27,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "AI",
+                    "probability": 0.6667,
+                    "start": 112,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 26,
+                    "tag": "AI"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK\u2019s leading AI experts explain how society can benefit from technology in a responsible and ethical way",
+                    "display_url": "gsk.to/3TElIvV",
+                    "end": 254,
+                    "expanded_url": "https://gsk.to/3TElIvV",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1739964345142956032/d1Yv3U0S?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1739964345142956032/d1Yv3U0S?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 231,
+                    "status": 200,
+                    "title": "\u2018AI has already transformed medical innovation. Let\u2019s not let fears of technology stop us from realising its incredible potential.\u2019 | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/ai-medical-innovation-ethics-responsibility/?linkId=100000232536322",
+                    "url": "https://t.co/JhatVoAjjr"
+                }
+            ]
+        },
+        "id": "1739964341569376579",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2983,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "By responsibly harnessing #AI, we can transform healthcare and deliver better outcomes for patients. Below, our AI experts discuss how we can embrace this powerful technology to accelerate delivery of new medicines and vaccines \ud83d\udc47  https://t.co/JhatVoAjjr"
+    }
+}

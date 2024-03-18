@@ -1,0 +1,70 @@
+{
+    "1719383835802997042": {
+        "attachments": {
+            "media_keys": [
+                "13_1719383735617933312"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-31T16:00:25.000Z",
+        "edit_history_tweet_ids": [
+            "1719383835802997042"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "STEM",
+                    "probability": 0.5185,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "UK",
+                    "probability": 0.9107,
+                    "start": 164,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 56,
+                    "id": "15987295",
+                    "start": 42,
+                    "username": "sciencemuseum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3QhUsQD",
+                    "end": 277,
+                    "expanded_url": "https://gsk.to/3QhUsQD",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/media/10653/uk_stem_equity_statement_27_oct_2023.pdf",
+                    "url": "https://t.co/PHmtrcIaMd"
+                },
+                {
+                    "display_url": "pic.twitter.com/PZqVFt793R",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/GSK/status/1719383835802997042/video/1",
+                    "media_key": "13_1719383735617933312",
+                    "start": 278,
+                    "url": "https://t.co/PZqVFt793R"
+                }
+            ]
+        },
+        "id": "1719383835802997042",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2307,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We were proud to join our partners at the @sciencemuseum to launch our nationwide STEM mentoring programme last week and the beginning of our 10-year commitment to UK STEM equity-focused initiatives, to inspire the next generation of diverse innovators: https://t.co/PHmtrcIaMd https://t.co/PZqVFt793R"
+    }
+}

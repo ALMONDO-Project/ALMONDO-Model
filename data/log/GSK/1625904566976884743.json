@@ -1,0 +1,73 @@
+{
+    "1625904566976884743": {
+        "author_id": "5383942",
+        "created_at": "2023-02-15T17:07:11.000Z",
+        "edit_history_tweet_ids": [
+            "1625904566976884743"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 93,
+                    "normalized_text": "Pakistan",
+                    "probability": 0.9823,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "923839878",
+                    "start": 0,
+                    "username": "shazipower"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Whether you\u2019re a customer, job seeker, health professional or an investor, you can find the best way to contact us .",
+                    "display_url": "pk.gsk.com/en-gb/contact-\u2026",
+                    "end": 210,
+                    "expanded_url": "http://pk.gsk.com/en-gb/contact-us/",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1748048675979350018/wa6ggtCX?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1748048675979350018/wa6ggtCX?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 187,
+                    "status": 200,
+                    "title": "Contact us | GSK Pakistan",
+                    "unwound_url": "https://pk.gsk.com/en-pk/contact-us/",
+                    "url": "https://t.co/f9PJKhmHXx"
+                },
+                {
+                    "display_url": "myg.sk/2tlX32l",
+                    "end": 234,
+                    "expanded_url": "https://myg.sk/2tlX32l",
+                    "start": 211,
+                    "status": 404,
+                    "unwound_url": "https://pk.gsk.com/en-gb/contact-us/%DB%81%D9%85-%D8%B3%DB%92-%D8%B1%D8%A7%D8%A8%D8%B7%DB%81-%DA%A9%D8%B1%DB%8C%DA%BA/",
+                    "url": "https://t.co/0stZe8iswA"
+                }
+            ]
+        },
+        "id": "1625904566976884743",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 29,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@shazipower Thank you for that information.  Please contact our local office there in Pakistan, and they will be able to assist you.  You can find their contact information on this site:\nhttps://t.co/f9PJKhmHXx\nhttps://t.co/0stZe8iswA"
+    }
+}

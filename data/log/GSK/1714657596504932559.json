@@ -1,0 +1,82 @@
+{
+    "1714657596504932559": {
+        "attachments": {
+            "media_keys": [
+                "3_1714657593526734848"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-18T15:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1714657596504932559"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Kimberly Smith",
+                    "probability": 0.8459,
+                    "start": 4,
+                    "type": "Person"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "We Can End the",
+                    "probability": 0.8329,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "HIV Epidemic",
+                    "probability": 0.659,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Why Haven\u2019t We?",
+                    "probability": 0.8106,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 153,
+                    "start": 142,
+                    "tag": "STATSummit"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 38,
+                    "id": "3290364847",
+                    "start": 29,
+                    "username": "statnews"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/chTY5HxMWM",
+                    "end": 178,
+                    "expanded_url": "https://twitter.com/GSK/status/1714657596504932559/photo/1",
+                    "media_key": "3_1714657593526734848",
+                    "start": 155,
+                    "url": "https://t.co/chTY5HxMWM"
+                }
+            ]
+        },
+        "id": "1714657596504932559",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2804,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Dr. Kimberly Smith will join @STATnews tomorrow in a compelling session called \u201cWe Can End the HIV Epidemic \u2013 Why Haven\u2019t We?\u201d at this week\u2019s #STATSummit. https://t.co/chTY5HxMWM"
+    }
+}

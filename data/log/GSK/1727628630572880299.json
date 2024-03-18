@@ -1,0 +1,90 @@
+{
+    "1727628630572880299": {
+        "attachments": {
+            "media_keys": [
+                "13_1727628559080882176"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-23T10:02:17.000Z",
+        "edit_history_tweet_ids": [
+            "1727628630572880299"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "TheClimateAndUs",
+                    "probability": 0.7912,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Nashik",
+                    "probability": 0.6844,
+                    "start": 120,
+                    "type": "Place"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "India",
+                    "probability": 0.9815,
+                    "start": 128,
+                    "type": "Place"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "COP28UAE",
+                    "probability": 0.787,
+                    "start": 269,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 14,
+                    "tag": "TheClimateAndUs"
+                },
+                {
+                    "end": 277,
+                    "start": 268,
+                    "tag": "COP28UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The Climate and Us: Chapter 3: Resilient Health2: The medicine factory harvesting rain: The rural village with a rain-harvesting medicine factoryThe village...",
+                    "display_url": "gsk.to/47nAifv",
+                    "end": 265,
+                    "expanded_url": "https://gsk.to/47nAifv",
+                    "start": 242,
+                    "status": 200,
+                    "title": "The Climate and Us: The Rural Village with a Rain-Harvesting Medicine Factory",
+                    "unwound_url": "https://www.youtube.com/watch?v=rHjt-bOOlEE&linkId=100000227720368",
+                    "url": "https://t.co/LJdtNGxuyq"
+                },
+                {
+                    "display_url": "pic.twitter.com/uiDOSLa0Q0",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/GSK/status/1727628630572880299/video/1",
+                    "media_key": "13_1727628559080882176",
+                    "start": 278,
+                    "url": "https://t.co/uiDOSLa0Q0"
+                }
+            ]
+        },
+        "id": "1727628630572880299",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2831,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re part of #TheClimateAndUs series that draws links between climate and health. Join us at our manufacturing site in Nashik, India where we\u2019re reducing our water impact and working with local partners to increase water security. For more: https://t.co/LJdtNGxuyq \n\n#COP28UAE https://t.co/uiDOSLa0Q0"
+    }
+}

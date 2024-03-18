@@ -1,0 +1,61 @@
+{
+    "1687360519353565184": {
+        "author_id": "5383942",
+        "created_at": "2023-08-04T07:11:12.000Z",
+        "edit_history_tweet_ids": [
+            "1687360519353565184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 99,
+                    "normalized_text": "malaria",
+                    "probability": 0.9129,
+                    "start": 93,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "Delftia tsuruhatensis",
+                    "probability": 0.6542,
+                    "start": 136,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "malaria",
+                    "probability": 0.8536,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 100,
+                    "start": 92,
+                    "tag": "malaria"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/bbchealth/stat\u2026",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/bbchealth/status/1687257735371653120",
+                    "start": 222,
+                    "url": "https://t.co/YjQeMjHG0s"
+                }
+            ]
+        },
+        "id": "1687360519353565184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6070,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Working with partners, our scientists have made a remarkable discovery in the fight against #malaria.\n\nA naturally occurring bacterium, Delftia tsuruhatensis TC1, shows potential to support efforts to eradicate malaria. \ud83e\udd9f https://t.co/YjQeMjHG0s"
+    }
+}

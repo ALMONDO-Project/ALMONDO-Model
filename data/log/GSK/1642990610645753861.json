@@ -1,0 +1,49 @@
+{
+    "1642990610645753861": {
+        "author_id": "5383942",
+        "created_at": "2023-04-03T20:41:01.000Z",
+        "edit_history_tweet_ids": [
+            "1642990610645753861"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 235,
+                    "normalized_text": "ETHICS",
+                    "probability": 0.5512,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1291209391023169536",
+                    "start": 0,
+                    "username": "ArasiyalKadai"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.com/speakup",
+                    "end": 212,
+                    "expanded_url": "http://www.gsk.com/speakup",
+                    "start": 189,
+                    "unwound_url": "https://gsk.i-sight.com/landing-page/",
+                    "url": "https://t.co/EjyVxPQ8Yb"
+                }
+            ]
+        },
+        "id": "1642990610645753861",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 79,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ArasiyalKadai Thank you for contacting us.  Please reach out to our Integrity Speak Up Line to report this situation. You will find that department's contact information below:\n\nWebsite:  https://t.co/EjyVxPQ8Yb\nPhone: 1-866-GSK-ETHICS (1-866-475-3844)\nEmail:  integrityspeakupline@gsk.com"
+    }
+}

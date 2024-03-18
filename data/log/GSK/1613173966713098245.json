@@ -1,0 +1,82 @@
+{
+    "1613173966713098245": {
+        "attachments": {
+            "media_keys": [
+                "13_1613173891488153604"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-01-11T14:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1613173966713098245"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "JPM2023",
+                    "probability": 0.6871,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "JPM23",
+                    "probability": 0.6921,
+                    "start": 74,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 11,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 63,
+                    "start": 49,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 72,
+                    "start": 64,
+                    "tag": "JPM2023"
+                },
+                {
+                    "end": 79,
+                    "start": 73,
+                    "tag": "JPM23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3ZqVvkP",
+                    "end": 186,
+                    "expanded_url": "https://gsk.to/3ZqVvkP",
+                    "start": 163,
+                    "url": "https://t.co/CcjkQiY7Ir"
+                },
+                {
+                    "display_url": "pic.twitter.com/7AZ6EzfGcn",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/GSK/status/1613173966713098245/video/1",
+                    "media_key": "13_1613173891488153604",
+                    "start": 187,
+                    "url": "https://t.co/7AZ6EzfGcn"
+                }
+            ]
+        },
+        "id": "1613173966713098245",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5083,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "We believe #innovation drives disease prevention #AheadTogether #JPM2023 #JPM23 \n\nLearn how breakthroughs in vaccine innovation are helping to protect more lives: https://t.co/CcjkQiY7Ir https://t.co/7AZ6EzfGcn"
+    }
+}

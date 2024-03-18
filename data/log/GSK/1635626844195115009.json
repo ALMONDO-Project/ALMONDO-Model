@@ -1,0 +1,70 @@
+{
+    "1635626844195115009": {
+        "attachments": {
+            "media_keys": [
+                "3_1635626839300272128"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-14T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1635626844195115009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "GSKIMPACTUK Awards",
+                    "probability": 0.7546,
+                    "start": 84,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 83,
+                    "tag": "GSKIMPACTUK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "18045120",
+                    "start": 28,
+                    "username": "TheKingsFund"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/427sZX8",
+                    "end": 243,
+                    "expanded_url": "https://gsk.to/427sZX8",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/responsibility/charitable-partnerships/?linkId=100000192808613",
+                    "url": "https://t.co/kWUh7yP9Wf"
+                },
+                {
+                    "display_url": "pic.twitter.com/ldFR7tInzA",
+                    "end": 267,
+                    "expanded_url": "https://twitter.com/GSK/status/1635626844195115009/photo/1",
+                    "media_key": "3_1635626839300272128",
+                    "start": 244,
+                    "url": "https://t.co/ldFR7tInzA"
+                }
+            ]
+        },
+        "id": "1635626844195115009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5149,
+            "like_count": 21,
+            "quote_count": 5,
+            "reply_count": 2,
+            "retweet_count": 12
+        },
+        "text": "Together, with our partners @TheKingsFund, we congratulate the winners of the 2023 #GSKIMPACTUK Awards!\n\nCheck out the amazing work this year\u2019s winners do to improve the health and wellbeing of their local communities \ud83d\udc49 https://t.co/kWUh7yP9Wf https://t.co/ldFR7tInzA"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "1728775616797806829": {
+        "author_id": "5383942",
+        "created_at": "2023-11-26T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1728775616797806829"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "GSK",
+                    "probability": 0.819,
+                    "start": 79,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Teams of scientists with different perspectives, backgrounds and experiences are proven to perform better and to be more creative.",
+                    "display_url": "gsk.to/3RbMLgm",
+                    "end": 221,
+                    "expanded_url": "https://gsk.to/3RbMLgm",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1728775620862083072/JplAKpsS?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1728775620862083072/JplAKpsS?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 198,
+                    "status": 200,
+                    "title": "\u2018You can\u2019t be what you can\u2019t see\u2019: Why diversity in STEM is key to greater medical innovation | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/diversity-stem-subjects-mentoring-careers/?linkId=100000227918312",
+                    "url": "https://t.co/TAUb4Mkv0E"
+                }
+            ]
+        },
+        "id": "1728775616797806829",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2976,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u201cIt\u2019s about opening the eyes of young people to know they\u2019ve got options.\u201d\n\nAt GSK, we are committed to supporting diversity in STEM. Read our article to find out more about our new funding scheme: https://t.co/TAUb4Mkv0E"
+    }
+}

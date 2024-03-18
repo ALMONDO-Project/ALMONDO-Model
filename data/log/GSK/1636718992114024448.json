@@ -1,0 +1,65 @@
+{
+    "1636718992114024448": {
+        "attachments": {
+            "media_keys": [
+                "13_1636718920525660160"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-17T13:19:51.000Z",
+        "edit_history_tweet_ids": [
+            "1636718992114024448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "HIV",
+                    "probability": 0.9146,
+                    "start": 100,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 116,
+                    "id": "18949452",
+                    "start": 113,
+                    "username": "FT"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How community activism translates into innovative medicines",
+                    "display_url": "gsk.to/FTHIVORG",
+                    "end": 140,
+                    "expanded_url": "https://gsk.to/FTHIVORG",
+                    "start": 117,
+                    "status": 200,
+                    "title": "Can you hear me? HIV community tells industry the struggle is not over",
+                    "unwound_url": "https://gsk.ft.com/article/hiv-community-tells-industry-struggle-not-over?utm_source=FT&utm_medium=GSK&utm_content=PAID",
+                    "url": "https://t.co/ZAJsn2Q5hU"
+                },
+                {
+                    "display_url": "pic.twitter.com/a3QM5c9neN",
+                    "end": 164,
+                    "expanded_url": "https://twitter.com/GSK/status/1636718992114024448/video/1",
+                    "media_key": "13_1636718920525660160",
+                    "start": 141,
+                    "url": "https://t.co/a3QM5c9neN"
+                }
+            ]
+        },
+        "id": "1636718992114024448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3450,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "We believe innovation starts when we stop to listen.\nFind out more about how we\u2019re getting ahead of HIV together @FT https://t.co/ZAJsn2Q5hU https://t.co/a3QM5c9neN"
+    }
+}

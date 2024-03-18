@@ -1,0 +1,72 @@
+{
+    "1665433354282455041": {
+        "attachments": {
+            "media_keys": [
+                "13_1665433239631036418"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-04T19:00:28.000Z",
+        "edit_history_tweet_ids": [
+            "1665433354282455041"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.5129,
+                    "start": 89,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Boston",
+                    "probability": 0.9793,
+                    "start": 132,
+                    "type": "Place"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.6553,
+                    "start": 168,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 96,
+                    "start": 88,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 175,
+                    "start": 167,
+                    "tag": "GSKdata"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/5gQSfdVDuL",
+                    "end": 199,
+                    "expanded_url": "https://twitter.com/GSK/status/1665433354282455041/video/1",
+                    "media_key": "13_1665433239631036418",
+                    "start": 176,
+                    "url": "https://t.co/5gQSfdVDuL"
+                }
+            ]
+        },
+        "id": "1665433354282455041",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4451,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re harnessing data visualization to bring to life the future of health innovation at #BIO2023. Follow us for real-time data from Boston and visit us at booth 1835. #GSKdata https://t.co/5gQSfdVDuL"
+    }
+}

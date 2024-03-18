@@ -1,0 +1,71 @@
+{
+    "1700237839806423523": {
+        "author_id": "5383942",
+        "created_at": "2023-09-08T20:01:04.000Z",
+        "edit_history_tweet_ids": [
+            "1700237839806423523"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "India",
+                    "probability": 0.9763,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "Crystal",
+                    "probability": 0.7263,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1634236155318407170",
+                    "start": 0,
+                    "username": "AmanRathore4141"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How can we help you? Share your comments/ queries or feedback with us.",
+                    "display_url": "india-pharma.gsk.com/en-in/contact-\u2026",
+                    "end": 179,
+                    "expanded_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 156,
+                    "status": 200,
+                    "title": "Contact Us | GSK India",
+                    "unwound_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "url": "https://t.co/1fFJ3lDjev"
+                }
+            ]
+        },
+        "id": "1700237839806423523",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AmanRathore4141 Hello, and thank you for reaching out. Our local office in India is best equipped to answer questions about products in your local market: https://t.co/1fFJ3lDjev\n\nPlease note that our offices are not open in the evenings or on weekends.\n\n-Crystal"
+    }
+}

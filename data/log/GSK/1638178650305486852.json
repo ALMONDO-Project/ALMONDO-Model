@@ -1,0 +1,52 @@
+{
+    "1638178650305486852": {
+        "author_id": "5383942",
+        "created_at": "2023-03-21T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1638178650305486852"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Andrea",
+                    "probability": 0.5363,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "gynaecologic cancers",
+                    "probability": 0.6844,
+                    "start": 106,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "SGOmtg",
+                    "probability": 0.6717,
+                    "start": 253,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 259,
+                    "start": 252,
+                    "tag": "SGOmtg"
+                }
+            ]
+        },
+        "id": "1638178650305486852",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4766,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "It\u2019s patients like Andrea, who share their experience stemming from a diagnosis, that inspire our work in gynaecologic cancers and drive our commitment to advancing new treatment options. We look forward to discussing our latest efforts at this year\u2019s #SGOmtg. \n\nLearn more \ud83d\udc47"
+    }
+}

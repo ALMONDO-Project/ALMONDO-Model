@@ -1,0 +1,111 @@
+{
+    "1714612292321493484": {
+        "attachments": {
+            "media_keys": [
+                "3_1714612290647998464"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-18T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1714612292321493484"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.6516,
+                    "start": 8,
+                    "type": "Person"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "STATSummit",
+                    "probability": 0.5124,
+                    "start": 63,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "GSK",
+                    "probability": 0.3718,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "s New Groove",
+                    "probability": 0.6837,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 62,
+                    "tag": "STATSummit"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 44,
+                    "id": "17445167",
+                    "start": 32,
+                    "username": "edsilverman"
+                },
+                {
+                    "end": 54,
+                    "id": "3290364847",
+                    "start": 45,
+                    "username": "statnews"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "At the 2023 STAT Summit, we'll take a look at the entire health care system, and look for solutions, with top executives, key scientists, patients, economists and health outcomes researchers.",
+                    "display_url": "gsk.to/3M5lpWB",
+                    "end": 208,
+                    "expanded_url": "https://gsk.to/3M5lpWB",
+                    "images": [
+                        {
+                            "height": 576,
+                            "url": "https://pbs.twimg.com/news_img/1714612335132725248/vq9FHI4c?format=jpg&name=orig",
+                            "width": 1024
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1714612335132725248/vq9FHI4c?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 185,
+                    "status": 200,
+                    "title": "The 2023 STAT Summit: Making the system work",
+                    "unwound_url": "https://www.statnews.com/2023/summit/stat-summit-2023/?linkId=100000222553880",
+                    "url": "https://t.co/OwySp8T83U"
+                },
+                {
+                    "display_url": "pic.twitter.com/dsrAoQt8EN",
+                    "end": 232,
+                    "expanded_url": "https://twitter.com/GSK/status/1714612292321493484/photo/1",
+                    "media_key": "3_1714612290647998464",
+                    "start": 209,
+                    "url": "https://t.co/dsrAoQt8EN"
+                }
+            ]
+        },
+        "id": "1714612292321493484",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2927,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Our CEO Emma Walmsley will join @EdSilverman @STATnews at the #STATSummit tomorrow to talk about \u201cGSK\u2019s New Groove\u201d \u2013 the transformation story of how we got here and where we\u2019re going. https://t.co/OwySp8T83U https://t.co/dsrAoQt8EN"
+    }
+}

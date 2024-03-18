@@ -1,0 +1,56 @@
+{
+    "1626567139384598528": {
+        "author_id": "5383942",
+        "created_at": "2023-02-17T13:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1626567139384598528"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 180,
+                    "normalized_text": "Schaffner",
+                    "probability": 0.5301,
+                    "start": 172,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 253,
+                    "tag": "BehindTheScience"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 165,
+                    "id": "247351807",
+                    "start": 152,
+                    "username": "NFIDVaccines"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3lvRnRk",
+                    "end": 251,
+                    "expanded_url": "https://gsk.to/3lvRnRk",
+                    "start": 228,
+                    "unwound_url": "https://gsk.to/3lvRnRk",
+                    "url": "https://t.co/OknN4rxAtc"
+                }
+            ]
+        },
+        "id": "1626567139384598528",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3501,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Winter drives people indoors, often together, at the same time.  \n\u201cThese are the exact circumstances that would promote transmission and illness,\u201d says @NFIDVaccines Prof. Schaffner. \n\nBut there are ways we can reduce the risk: https://t.co/OknN4rxAtc\n\n#BehindTheScience"
+    }
+}

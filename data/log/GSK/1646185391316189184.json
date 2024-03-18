@@ -1,0 +1,60 @@
+{
+    "1646185391316189184": {
+        "author_id": "5383942",
+        "created_at": "2023-04-12T16:15:56.000Z",
+        "edit_history_tweet_ids": [
+            "1646185391316189184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 163,
+                    "normalized_text": "Neglected Tropical Diseases",
+                    "probability": 0.6506,
+                    "start": 137,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 179,
+                    "start": 165,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 194,
+                    "start": 180,
+                    "tag": "BiochemAwards"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 53,
+                    "id": "3312915503",
+                    "start": 42,
+                    "username": "DDU_Dundee"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/DDU_Dundee/sta\u2026",
+                    "end": 218,
+                    "expanded_url": "https://twitter.com/DDU_Dundee/status/1646170403578994688",
+                    "start": 195,
+                    "url": "https://t.co/euFqTSow8J"
+                }
+            ]
+        },
+        "id": "1646185391316189184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5687,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Great recognition of our partnership with @DDU_Dundee. We've been working together since 2011 to develop much needed drug candidates for Neglected Tropical Diseases #AheadTogether #BiochemAwards https://t.co/euFqTSow8J"
+    }
+}

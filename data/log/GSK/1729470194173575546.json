@@ -1,0 +1,66 @@
+{
+    "1729470194173575546": {
+        "author_id": "5383942",
+        "created_at": "2023-11-28T12:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1729470194173575546"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 152,
+                    "normalized_text": "GSKProud",
+                    "probability": 0.4599,
+                    "start": 145,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 129,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 153,
+                    "start": 144,
+                    "tag": "GSKProud"
+                },
+                {
+                    "end": 167,
+                    "start": 154,
+                    "tag": "BestPlacesIT"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 67,
+                    "id": "14539324",
+                    "start": 53,
+                    "username": "Computerworld"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/46xCboE",
+                    "end": 192,
+                    "expanded_url": "https://gsk.to/46xCboE",
+                    "start": 169,
+                    "unwound_url": "https://gsk.to/46xCboE",
+                    "url": "https://t.co/WtK1G7ckuO"
+                }
+            ]
+        },
+        "id": "1729470194173575546",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3696,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Excited to be ranked #2 among large organisations in @Computerworld\u2019s annual list of Best Places to Work in IT. Find out more \ud83d\udc47 \n#AheadTogether #GSKProud #BestPlacesIT  https://t.co/WtK1G7ckuO"
+    }
+}

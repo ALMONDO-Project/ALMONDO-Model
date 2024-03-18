@@ -1,0 +1,84 @@
+{
+    "1712181390102397266": {
+        "attachments": {
+            "media_keys": [
+                "13_1712181284259213312"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-11T19:00:28.000Z",
+        "edit_history_tweet_ids": [
+            "1712181390102397266"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 227,
+                    "normalized_text": "HLTH2023",
+                    "probability": 0.5057,
+                    "start": 220,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 228,
+                    "start": 219,
+                    "tag": "HLTH2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 189,
+                    "id": "2919058837",
+                    "start": 177,
+                    "username": "WaveLifeSci"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We partner with scientific institutions, national health systems, academia and industry to develop vaccines and medicines",
+                    "display_url": "gsk.to/3tsOrca",
+                    "end": 214,
+                    "expanded_url": "https://gsk.to/3tsOrca",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1712181395211124736/18ZJ67nO?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1712181395211124736/18ZJ67nO?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 191,
+                    "status": 200,
+                    "title": "Partnering with GSK | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/innovation/partnerships/?utm_source=twitter&utm_medium=organic&utm_campaign=HLTH&utm_content=hlth_partnerships02&linkId=100000221826051",
+                    "url": "https://t.co/KktNBMGXHY"
+                },
+                {
+                    "display_url": "pic.twitter.com/TFeaXeVF4s",
+                    "end": 252,
+                    "expanded_url": "https://twitter.com/GSK/status/1712181390102397266/video/1",
+                    "media_key": "13_1712181284259213312",
+                    "start": 229,
+                    "url": "https://t.co/TFeaXeVF4s"
+                }
+            ]
+        },
+        "id": "1712181390102397266",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2979,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "By bringing together the power of data and platform technology, we expand what's possible for patients.  \n\nLearn more about our partnerships, including our innovative work with @WaveLifeSci: https://t.co/KktNBMGXHY \ud83d\udd2c \n\n#HLTH2023 https://t.co/TFeaXeVF4s"
+    }
+}

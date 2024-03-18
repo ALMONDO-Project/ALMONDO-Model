@@ -1,0 +1,50 @@
+{
+    "1610999560217698304": {
+        "author_id": "5383942",
+        "created_at": "2023-01-05T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1610999560217698304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "DYK",
+                    "probability": 0.3812,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "RSV",
+                    "probability": 0.4145,
+                    "start": 184,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 187,
+                    "start": 183,
+                    "tag": "RSV"
+                }
+            ]
+        },
+        "id": "1610999560217698304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3355,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#DYK immunosenescence is the term for how our immune system weakens with age? It\u2019s one of the reasons older people are more at risk of severe illness from respiratory viruses such as #RSV."
+    }
+}

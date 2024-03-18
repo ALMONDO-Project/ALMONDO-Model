@@ -1,0 +1,70 @@
+{
+    "1716481891832922581": {
+        "author_id": "5383942",
+        "created_at": "2023-10-23T15:49:08.000Z",
+        "edit_history_tweet_ids": [
+            "1716481891832922581"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "GSK",
+                    "probability": 0.5424,
+                    "start": 32,
+                    "type": "Organization"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "AI",
+                    "probability": 0.5197,
+                    "start": 54,
+                    "type": "Organization"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "London",
+                    "probability": 0.9722,
+                    "start": 163,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Pushmeet Kohli was apprehensive about moving to London. Growing up around the lush forests of India\u2019s Doon Valley, he was more used to verdant rolling hills tha",
+                    "display_url": "gsk.to/3s22hSk",
+                    "end": 251,
+                    "expanded_url": "https://gsk.to/3s22hSk",
+                    "images": [
+                        {
+                            "height": 675,
+                            "url": "https://pbs.twimg.com/news_img/1716481897633603584/R-1c9ooD?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716481897633603584/R-1c9ooD?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 228,
+                    "status": 200,
+                    "title": "Inside the Knowledge Quarter: an ideas factory for the UK",
+                    "unwound_url": "https://www.thetimes.co.uk/article/inside-the-knowledge-quarter-an-ideas-factory-for-the-uk-0bmc55w0v?linkId=100000223293208",
+                    "url": "https://t.co/CIsivTQWKC"
+                }
+            ]
+        },
+        "id": "1716481891832922581",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3800,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Tech powers everything we do at GSK, and cutting-edge AI is one way we're working to provide patients with better medicines and vaccines faster. \n\nRead more about London\u2019s Knowledge Quarter, home to our global AI hub (paywall): https://t.co/CIsivTQWKC"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "1724362606608060799": {
+        "attachments": {
+            "media_keys": [
+                "13_1724362537481773056"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-14T09:44:17.000Z",
+        "edit_history_tweet_ids": [
+            "1724362606608060799"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "UnionConf2023",
+                    "probability": 0.8056,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "TB Voices",
+                    "probability": 0.834,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Kevin",
+                    "probability": 0.613,
+                    "start": 77,
+                    "type": "Person"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Kenya",
+                    "probability": 0.3503,
+                    "start": 183,
+                    "type": "Place"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "EndTB",
+                    "probability": 0.4682,
+                    "start": 274,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 28,
+                    "start": 14,
+                    "tag": "UnionConf2023"
+                },
+                {
+                    "end": 279,
+                    "start": 273,
+                    "tag": "EndTB"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 146,
+                    "id": "44315238",
+                    "start": 130,
+                    "username": "Amref_Worldwide"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "In episode 2 of TB Voices, Kevin shares his heartfelt journey as his daughter Caroline fell ill with what he initially thought was the flu. However, as her c...",
+                    "display_url": "gsk.to/3QFZ6YX",
+                    "end": 270,
+                    "expanded_url": "https://gsk.to/3QFZ6YX",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1724362609955061760/3_Qu02bh?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1724362609955061760/3_Qu02bh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 247,
+                    "status": 200,
+                    "title": "Living with TB \u2013 Kevin and Caroline\u2019s story",
+                    "unwound_url": "https://www.youtube.com/watch?linkId=100000226492310&v=iuZjQ1m0MlE&feature=youtu.be",
+                    "url": "https://t.co/BDdzILu4do"
+                },
+                {
+                    "display_url": "pic.twitter.com/gyzzC4DtCy",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/GSK/status/1724362606608060799/video/1",
+                    "media_key": "13_1724362537481773056",
+                    "start": 280,
+                    "url": "https://t.co/gyzzC4DtCy"
+                }
+            ]
+        },
+        "id": "1724362606608060799",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3147,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Get ready for #UnionConf2023 with episode 2 of our TB Voices series. This is Kevin\u2019s powerful story. Through our partnership with @Amref_Worldwide, we've made a difference in Western Kenya, enhancing the prevention, diagnosis and treatment of TB.\nhttps://t.co/BDdzILu4do \n\n#EndTB https://t.co/gyzzC4DtCy"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "1617507442203443204": {
+        "author_id": "5383942",
+        "created_at": "2023-01-23T13:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1617507442203443204"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Antigen Presenting System",
+                    "probability": 0.581,
+                    "start": 9,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "MAPS",
+                    "probability": 0.6221,
+                    "start": 48,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 198,
+                    "start": 181,
+                    "tag": "BehindTheScience"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3XH8Vrp",
+                    "end": 223,
+                    "expanded_url": "https://gsk.to/3XH8Vrp",
+                    "start": 200,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/maps-technology-new-age-vaccine-development-infectious-diseases/?linkId=100000179694775",
+                    "url": "https://t.co/siK1XNpclx"
+                }
+            ]
+        },
+        "id": "1617507442203443204",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3958,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 4
+        },
+        "text": "Multiple Antigen Presenting System \u2013 also named MAPS \u2013 is a new vaccine technology with the potential to deliver breakthrough innovation \u2013 and the beauty of it is its simplicity. \n\n#BehindTheScience  https://t.co/siK1XNpclx"
+    }
+}

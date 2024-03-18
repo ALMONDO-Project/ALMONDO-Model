@@ -1,0 +1,76 @@
+{
+    "1696085225992823019": {
+        "attachments": {
+            "media_keys": [
+                "3_1696085217465745408"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-08-28T09:00:04.000Z",
+        "edit_history_tweet_ids": [
+            "1696085225992823019"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Shingles",
+                    "probability": 0.8246,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "chickenpox virus",
+                    "probability": 0.573,
+                    "start": 83,
+                    "type": "Other"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Eamonn Holmes",
+                    "probability": 0.9316,
+                    "start": 120,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 27,
+                    "tag": "Shingles"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3rZ2KUY",
+                    "end": 268,
+                    "expanded_url": "https://gsk.to/3rZ2KUY",
+                    "start": 245,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/shingles-symptoms-risks-pain-adults/?linkId=100000213515078",
+                    "url": "https://t.co/49rp5Y0b2W"
+                },
+                {
+                    "display_url": "pic.twitter.com/xvze3fmo8t",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/GSK/status/1696085225992823019/photo/1",
+                    "media_key": "3_1696085217465745408",
+                    "start": 269,
+                    "url": "https://t.co/xvze3fmo8t"
+                }
+            ]
+        },
+        "id": "1696085225992823019",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5926,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Don't miss this article on #Shingles - a potentially painful disease caused by the chickenpox virus. Here, TV presenter Eamonn Holmes shares his experience, and we tackle the misconceptions &amp; lack of awareness surrounding shingles symptoms: https://t.co/49rp5Y0b2W https://t.co/xvze3fmo8t"
+    }
+}

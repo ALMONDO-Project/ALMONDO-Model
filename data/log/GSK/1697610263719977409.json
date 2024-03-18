@@ -1,0 +1,79 @@
+{
+    "1697610263719977409": {
+        "author_id": "5383942",
+        "created_at": "2023-09-01T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1697610263719977409"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "OutOfPatients",
+                    "probability": 0.5585,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Tania Small",
+                    "probability": 0.7808,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Julia",
+                    "probability": 0.747,
+                    "start": 68,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "myelofibrosis",
+                    "probability": 0.8577,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "cancer",
+                    "probability": 0.5434,
+                    "start": 172,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 18,
+                    "tag": "OutOfPatients"
+                },
+                {
+                    "end": 178,
+                    "start": 171,
+                    "tag": "cancer"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 134,
+                    "id": "633194075",
+                    "start": 119,
+                    "username": "MatthewZachary"
+                }
+            ]
+        },
+        "id": "1697610263719977409",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4267,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "In a new two-part #OutOfPatients podcast series, Dr Tania Small and Julia, who is living with myelofibrosis, join host @MatthewZachary to discuss empowering patients with #cancer to play an active role throughout their treatment experience."
+    }
+}

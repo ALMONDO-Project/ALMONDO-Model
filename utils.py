@@ -52,36 +52,36 @@ def compute_max_tweets(bearer_token: str):
     else:
         print("Error:", response.status_code)
         
-def get_tweets(client, log_data_path: str, username: str):
-    with open(log_data_path+'logfile.txt', 'a') as file:
-        print(f"retrieving tweets from {username} timeline")
-        file.write(f"START {username}: retrieving tweets from {username} timeline\n")
-        user_id = client.get_user(username=username).data.id
-        responses = tweepy.Paginator(client.get_users_tweets, user_id, start_date = datetime(year=2023, month=1, day=1, hour = 0, minute = 0), end_date = datetime(year=2023, month=12, day=31, hour=23, minute=59), max_results=1, limit=1)
-        counter = 0
-        tweet_list = []
-        for response in responses:
-            counter += 1
-            print(f"==> processing {counter * 100} to {(counter + 1) * 100} of {username}'s tweets")
-            file.write(f"==> processing {counter * 100} to {(counter + 1) * 100} of {username}'s tweets")
-            try:
-                for tweet in response.data:  # see any individual tweet by id at: twitter.com/anyuser/status/TWEET_ID_HERE
-                    print(tweet)
-                    tweet_list.append(dict(tweet))
-            except Exception as e:
-                print(e)
-        file.write(f"END {username}: finished retrieving tweets from {username} timeline\n")
-    return tweet_list
+# def get_tweets(client, log_data_path: str, username: str):
+#     with open(log_data_path+'logfile.txt', 'a') as file:
+#         print(f"retrieving tweets from {username} timeline")
+#         file.write(f"START {username}: retrieving tweets from {username} timeline\n")
+#         user_id = client.get_user(username=username).data.id
+#         responses = tweepy.Paginator(client.get_users_tweets, user_id, start_date = datetime(year=2023, month=1, day=1, hour = 0, minute = 0), end_date = datetime(year=2023, month=12, day=31, hour=23, minute=59), max_results=1, limit=1)
+#         counter = 0
+#         tweet_list = []
+#         for response in responses:
+#             counter += 1
+#             print(f"==> processing {counter * 100} to {(counter + 1) * 100} of {username}'s tweets")
+#             file.write(f"==> processing {counter * 100} to {(counter + 1) * 100} of {username}'s tweets")
+#             try:
+#                 for tweet in response.data:  # see any individual tweet by id at: twitter.com/anyuser/status/TWEET_ID_HERE
+#                     print(tweet)
+#                     tweet_list.append(dict(tweet))
+#             except Exception as e:
+#                 print(e)
+#         file.write(f"END {username}: finished retrieving tweets from {username} timeline\n")
+#     return tweet_list
 
-def get_oldest_tweet_id(path):
-    if not os.path.exists(path):
-        return None
-    else:
-        with open(path, 'r') as file:
-            last_tweet = list(json.load(file))[-1]
-        return last_tweet['id']
+# def get_oldest_tweet_id(path):
+#     if not os.path.exists(path):
+#         return None
+#     else:
+#         with open(path, 'r') as file:
+#             last_tweet = list(json.load(file))[-1]
+#         return last_tweet['id']
 
-def new_start_time(path):
+def new_end_time(path): #start time deve rimanere 1 gennaio, end time deve diventare prima del 31 dicembre
     try:
         json_files = [int(file.replace('.json', '')) for file in os.listdir(path) if file.endswith('.json')]
         json_files.sort()
@@ -89,9 +89,9 @@ def new_start_time(path):
             tweet = json.load(file)
             created_at_str = tweet[str(json_files[0])]['created_at']
             created_at_dt = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
-            created_at_dt += timedelta(seconds=1)
+            created_at_dt -= timedelta(seconds=1)
     except (IndexError, ValueError) as e:
-        created_at_dt = datetime(2023, 1, 1, 00, 00, 00)
+        created_at_dt = datetime(2023, 12, 31, 23, 59, 59)
         print(f"An error occurred: {e}. Setting default start time to {created_at_dt}")
     
     # Ensure proper RFC3339 format

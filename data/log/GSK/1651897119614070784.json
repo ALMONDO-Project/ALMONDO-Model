@@ -1,0 +1,70 @@
+{
+    "1651897119614070784": {
+        "author_id": "5383942",
+        "created_at": "2023-04-28T10:32:18.000Z",
+        "edit_history_tweet_ids": [
+            "1651897119614070784"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Europe",
+                    "probability": 0.9601,
+                    "start": 29,
+                    "type": "Place"
+                },
+                {
+                    "end": 52,
+                    "normalized_text": "North America",
+                    "probability": 0.9533,
+                    "start": 40,
+                    "type": "Place"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "WIW2023",
+                    "probability": 0.5049,
+                    "start": 233,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 232,
+                    "tag": "WIW2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "labiotech.eu/opinion/addres\u2026",
+                    "end": 230,
+                    "expanded_url": "https://www.labiotech.eu/opinion/addressing-declining-vaccination-rates-older-adults/",
+                    "start": 207,
+                    "status": 200,
+                    "unwound_url": "https://www.labiotech.eu/opinion/addressing-declining-vaccine-uptake-older-adults/",
+                    "url": "https://t.co/vzpXzfsS3D"
+                },
+                {
+                    "display_url": "x.com/Labiotech_eu/s\u2026",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/Labiotech_eu/status/1651153162579988482",
+                    "start": 241,
+                    "url": "https://t.co/inQfiw8Ijc"
+                }
+            ]
+        },
+        "id": "1651897119614070784",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4965,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "With 1 in 4 people living in Europe and North America expected to be aged 65+ by 2050, we need to find effective and tailored approaches to help protect older adults against infectious disease. \n\nRead more\ud83d\udc47\nhttps://t.co/vzpXzfsS3D\n\n#WIW2023 https://t.co/inQfiw8Ijc"
+    }
+}

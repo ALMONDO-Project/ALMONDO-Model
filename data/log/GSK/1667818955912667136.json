@@ -1,0 +1,74 @@
+{
+    "1667818955912667136": {
+        "author_id": "5383942",
+        "created_at": "2023-06-11T09:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1667818955912667136"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "EHA2023",
+                    "probability": 0.7896,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "BloodCancer",
+                    "probability": 0.6558,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "MultipleMyeloma",
+                    "probability": 0.6317,
+                    "start": 206,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Myelofibrosis",
+                    "probability": 0.7288,
+                    "start": 227,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 3,
+                    "tag": "EHA2023"
+                },
+                {
+                    "end": 108,
+                    "start": 96,
+                    "tag": "BloodCancer"
+                },
+                {
+                    "end": 221,
+                    "start": 205,
+                    "tag": "MultipleMyeloma"
+                },
+                {
+                    "end": 240,
+                    "start": 226,
+                    "tag": "Myelofibrosis"
+                }
+            ]
+        },
+        "id": "1667818955912667136",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9152,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "As #EHA2023 ends, we are feeling inspired and invigorated after collaborating with the European #BloodCancer community this weekend. We look forward to using our learnings to advance treatment options for #MultipleMyeloma and #Myelofibrosis patients."
+    }
+}

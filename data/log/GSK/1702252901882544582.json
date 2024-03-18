@@ -1,0 +1,75 @@
+{
+    "1702252901882544582": {
+        "attachments": {
+            "media_keys": [
+                "13_1702252851206959104"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-14T09:28:12.000Z",
+        "edit_history_tweet_ids": [
+            "1702252901882544582"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 200,
+                    "normalized_text": "ZeroDose",
+                    "probability": 0.5125,
+                    "start": 193,
+                    "type": "Organization"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Nigeria",
+                    "probability": 0.9825,
+                    "start": 237,
+                    "type": "Place"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "Ethiopia",
+                    "probability": 0.8716,
+                    "start": 246,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 201,
+                    "start": 192,
+                    "tag": "ZeroDose"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 90,
+                    "id": "20674741",
+                    "start": 75,
+                    "username": "savechildrenuk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ns2JY87QiS",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/GSK/status/1702252901882544582/video/1",
+                    "media_key": "13_1702252851206959104",
+                    "start": 267,
+                    "url": "https://t.co/ns2JY87QiS"
+                }
+            ]
+        },
+        "id": "1702252901882544582",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5482,
+            "like_count": 16,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "\ud83d\udce2 We're excited to announce the next phase of our 10-year partnership with @savechildrenuk! \n\nTogether, we're committed to protecting the health of missed children by increasing the number of #ZeroDose children receiving vaccinations in Nigeria, Ethiopia and beyond. https://t.co/ns2JY87QiS"
+    }
+}

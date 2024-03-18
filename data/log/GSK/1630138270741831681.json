@@ -1,0 +1,60 @@
+{
+    "1630138270741831681": {
+        "attachments": {
+            "poll_ids": [
+                "1630138269714317312"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-27T09:30:24.000Z",
+        "edit_history_tweet_ids": [
+            "1630138270741831681"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "ShinglesAwarenessWeek",
+                    "probability": 0.711,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "chickenpox virus",
+                    "probability": 0.5613,
+                    "start": 127,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 13,
+                    "tag": "ShinglesAwarenessWeek"
+                },
+                {
+                    "end": 44,
+                    "start": 40,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 54,
+                    "start": 45,
+                    "tag": "shingles"
+                }
+            ]
+        },
+        "id": "1630138270741831681",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4630,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "This week is #ShinglesAwarenessWeek   \n\n#DYK #shingles, also known as herpes zoster (HZ), is caused by the reactivation of the chickenpox virus, which is present in over 90% of adults 50 years and over? \n\n*European data may not represent global data"
+    }
+}

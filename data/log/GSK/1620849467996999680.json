@@ -1,0 +1,60 @@
+{
+    "1620849467996999680": {
+        "attachments": {
+            "media_keys": [
+                "13_1620849345548386324"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-01T18:20:01.000Z",
+        "edit_history_tweet_ids": [
+            "1620849467996999680"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.5129,
+                    "start": 55,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 88,
+                    "id": "47678782",
+                    "start": 77,
+                    "username": "megtirrell"
+                },
+                {
+                    "end": 103,
+                    "id": "404422077",
+                    "start": 92,
+                    "username": "SquawkCNBC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/g48QT9quEX",
+                    "end": 161,
+                    "expanded_url": "https://twitter.com/GSK/status/1620849467996999680/video/1",
+                    "media_key": "13_1620849345548386324",
+                    "start": 138,
+                    "url": "https://t.co/g48QT9quEX"
+                }
+            ]
+        },
+        "id": "1620849467996999680",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7215,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "We released our 2022 full year results today. Our CEO, Emma Walmsley, joined @MegTirrell on @SquawkCNBC earlier to share some highlights. https://t.co/g48QT9quEX"
+    }
+}

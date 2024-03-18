@@ -1,0 +1,65 @@
+{
+    "1625897707427573769": {
+        "author_id": "5383942",
+        "created_at": "2023-02-15T16:39:55.000Z",
+        "edit_history_tweet_ids": [
+            "1625897707427573769"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Haleon",
+                    "probability": 0.493,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "Twitter",
+                    "probability": 0.9172,
+                    "start": 132,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "90703377",
+                    "start": 0,
+                    "username": "SissyVonHissy"
+                },
+                {
+                    "end": 163,
+                    "id": "1478659564358840322",
+                    "start": 149,
+                    "username": "Haleon_health"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact Haleon Consumer Relations using this form.",
+                    "display_url": "haleon.com/contact-us/",
+                    "end": 205,
+                    "expanded_url": "https://www.haleon.com/contact-us/",
+                    "start": 182,
+                    "status": 200,
+                    "title": "General Enquiry",
+                    "unwound_url": "https://haleon.support/en-us/general-enquiry",
+                    "url": "https://t.co/nVW29kMR2D"
+                }
+            ]
+        },
+        "id": "1625897707427573769",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1031,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SissyVonHissy Hello, thank you for your message. For anything specific to Haleon, please get in touch with them directly via their Twitter channel: @Haleon_health or their website, https://t.co/nVW29kMR2D"
+    }
+}

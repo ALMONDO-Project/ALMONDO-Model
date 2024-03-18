@@ -1,0 +1,66 @@
+{
+    "1664995350904537089": {
+        "author_id": "5383942",
+        "created_at": "2023-06-03T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1664995350904537089"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "GSK",
+                    "probability": 0.5376,
+                    "start": 55,
+                    "type": "Organization"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Bob Palumbo",
+                    "probability": 0.7683,
+                    "start": 70,
+                    "type": "Person"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Susie Barnes",
+                    "probability": 0.8546,
+                    "start": 83,
+                    "type": "Person"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Roger Levy",
+                    "probability": 0.9555,
+                    "start": 100,
+                    "type": "Person"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "EULAR2023",
+                    "probability": 0.5368,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 220,
+                    "tag": "EULAR2023"
+                }
+            ]
+        },
+        "id": "1664995350904537089",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3514,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re working to advance precision medicine. Hear from GSK Colleagues Bob Palumbo, Susie Barnes and Roger Levy on how researching biologics could represent important advances in the treatment of immune-mediated disease. #EULAR2023"
+    }
+}

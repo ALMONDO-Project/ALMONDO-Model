@@ -1,0 +1,84 @@
+{
+    "1687478499211091968": {
+        "attachments": {
+            "media_keys": [
+                "3_1687478496761647104"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-08-04T15:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1687478499211091968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "HIVScience",
+                    "probability": 0.9484,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "HIV",
+                    "probability": 0.9239,
+                    "start": 67,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 11,
+                    "tag": "innovaton"
+                },
+                {
+                    "end": 65,
+                    "start": 54,
+                    "tag": "HIVScience"
+                },
+                {
+                    "end": 70,
+                    "start": 66,
+                    "tag": "HIV"
+                },
+                {
+                    "end": 85,
+                    "start": 71,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3QoiuLq",
+                    "end": 123,
+                    "expanded_url": "https://gsk.to/3QoiuLq",
+                    "start": 100,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=NPPpyhXfPr0&list=PLvDyxtKlIcnhu8d_AD8pefi5RX7FYeYlM&index=11",
+                    "url": "https://t.co/B92cgwL60e"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZH4jHnwmBO",
+                    "end": 147,
+                    "expanded_url": "https://twitter.com/GSK/status/1687478499211091968/photo/1",
+                    "media_key": "3_1687478496761647104",
+                    "start": 124,
+                    "url": "https://t.co/ZH4jHnwmBO"
+                }
+            ]
+        },
+        "id": "1687478499211091968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4202,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "We believe #innovaton starts when you stop and listen #HIVScience #HIV #AheadTogether\n \nLearn more: https://t.co/B92cgwL60e https://t.co/ZH4jHnwmBO"
+    }
+}

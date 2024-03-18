@@ -1,0 +1,88 @@
+{
+    "1681212264399925249": {
+        "attachments": {
+            "media_keys": [
+                "13_1681212212776513536"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-07-18T08:00:13.000Z",
+        "edit_history_tweet_ids": [
+            "1681212264399925249"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 169,
+                    "normalized_text": "Africa",
+                    "probability": 0.9695,
+                    "start": 164,
+                    "type": "Place"
+                },
+                {
+                    "end": 234,
+                    "normalized_text": "WD2023",
+                    "probability": 0.5553,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 227,
+                    "start": 213,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 235,
+                    "start": 228,
+                    "tag": "WD2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 42,
+                    "id": "3019793950",
+                    "start": 35,
+                    "username": "ViiVHC"
+                },
+                {
+                    "end": 58,
+                    "id": "34889448",
+                    "start": 47,
+                    "username": "GlobalFund"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/44w21sK",
+                    "end": 211,
+                    "expanded_url": "https://gsk.to/44w21sK",
+                    "start": 188,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=_1XDdYFojFE&linkId=100000209964319",
+                    "url": "https://t.co/pBquzG3mex"
+                },
+                {
+                    "display_url": "pic.twitter.com/Rh6ban094U",
+                    "end": 259,
+                    "expanded_url": "https://twitter.com/GSK/status/1681212264399925249/video/1",
+                    "media_key": "13_1681212212776513536",
+                    "start": 236,
+                    "url": "https://t.co/Rh6ban094U"
+                }
+            ]
+        },
+        "id": "1681212264399925249",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 12958,
+            "like_count": 38,
+            "quote_count": 4,
+            "reply_count": 4,
+            "retweet_count": 9
+        },
+        "text": "In collaboration with our partners @ViiVHC and @GlobalFund we are launching a new, multi-year fund focused on advancing community engagement for gender equality in Africa.\n\nFind out more: https://t.co/pBquzG3mex\n\n#AheadTogether #WD2023 https://t.co/Rh6ban094U"
+    }
+}

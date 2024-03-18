@@ -1,0 +1,65 @@
+{
+    "1665790308213313544": {
+        "attachments": {
+            "media_keys": [
+                "13_1665790216102195201"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-05T18:38:53.000Z",
+        "edit_history_tweet_ids": [
+            "1665790308213313544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4903,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.7254,
+                    "start": 178,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 3,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 185,
+                    "start": 177,
+                    "tag": "GSKdata"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/aIqnIVq29k",
+                    "end": 209,
+                    "expanded_url": "https://twitter.com/GSK/status/1665790308213313544/video/1",
+                    "media_key": "13_1665790216102195201",
+                    "start": 186,
+                    "url": "https://t.co/aIqnIVq29k"
+                }
+            ]
+        },
+        "id": "1665790308213313544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3227,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "At #BIO2023 we\u2019re starting a conversation on the future of health innovation. Have your say at booth 1835 and your voice will be added to our data visualization in real time. \n\n#GSKdata https://t.co/aIqnIVq29k"
+    }
+}

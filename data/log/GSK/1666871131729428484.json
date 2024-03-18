@@ -1,0 +1,71 @@
+{
+    "1666871131729428484": {
+        "attachments": {
+            "media_keys": [
+                "13_1666871026708250638"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-08T18:13:41.000Z",
+        "edit_history_tweet_ids": [
+            "1666871131729428484"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.469,
+                    "start": 13,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 12,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 66,
+                    "start": 55,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 115,
+                    "start": 107,
+                    "tag": "biotech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 278,
+                    "id": "19019298",
+                    "start": 267,
+                    "username": "IAmBiotech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/K7AH4Hdlsd",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/GSK/status/1666871131729428484/video/1",
+                    "media_key": "13_1666871026708250638",
+                    "start": 280,
+                    "url": "https://t.co/K7AH4Hdlsd"
+                }
+            ]
+        },
+        "id": "1666871131729428484",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4200,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Last day of #BIO2023! We\u2019re thrilled to be part of the #innovation community, immersed by the brightest in #biotech who share our belief that by uniting science, technology and talent and by working together, we can get ahead of disease. \n\nThank you for a great week @IAmBiotech! https://t.co/K7AH4Hdlsd"
+    }
+}

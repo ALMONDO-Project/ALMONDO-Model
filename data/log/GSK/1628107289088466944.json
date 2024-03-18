@@ -1,0 +1,71 @@
+{
+    "1628107289088466944": {
+        "author_id": "5383942",
+        "created_at": "2023-02-21T19:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1628107289088466944"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "COVID19",
+                    "probability": 0.9811,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "RSV",
+                    "probability": 0.6749,
+                    "start": 39,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 23,
+                    "start": 19,
+                    "tag": "flu"
+                },
+                {
+                    "end": 33,
+                    "start": 25,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 42,
+                    "start": 38,
+                    "tag": "RSV"
+                },
+                {
+                    "end": 79,
+                    "start": 67,
+                    "tag": "tripledemic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.com/en-gb/behind-t\u2026",
+                    "end": 170,
+                    "expanded_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/tripledemic-flu-covid-rsv-older-patients-infectious-disease/",
+                    "start": 147,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/tripledemic-flu-covid-rsv-older-patients-infectious-disease/",
+                    "url": "https://t.co/LL4AsijkHt"
+                }
+            ]
+        },
+        "id": "1628107289088466944",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4056,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 3
+        },
+        "text": "The combination of #flu, #COVID19 and #RSV has become known as the #tripledemic. What are the things we can all do to reduce the impact? Find out: https://t.co/LL4AsijkHt"
+    }
+}

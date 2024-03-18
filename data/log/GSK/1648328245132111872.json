@@ -1,0 +1,52 @@
+{
+    "1648328245132111872": {
+        "author_id": "5383942",
+        "created_at": "2023-04-18T14:10:52.000Z",
+        "edit_history_tweet_ids": [
+            "1648328245132111872"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "Philippines",
+                    "probability": 0.9899,
+                    "start": 39,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "719592643970379785",
+                    "start": 0,
+                    "username": "SanguineSynic"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK Philippines",
+                    "display_url": "gsk.com/en-gb/location\u2026",
+                    "end": 213,
+                    "expanded_url": "https://www.gsk.com/en-gb/locations/philippines/",
+                    "start": 190,
+                    "status": 200,
+                    "title": "Philippines | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/locations/philippines/",
+                    "url": "https://t.co/U56lLhKqrw"
+                }
+            ]
+        },
+        "id": "1648328245132111872",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SanguineSynic Our local office in the Philippines is best equipped to answer questions about products in your local market.  You can find all the available contact info for that team here: https://t.co/U56lLhKqrw\n\nPlease note that our offices are not open in the evenings or on weekends."
+    }
+}

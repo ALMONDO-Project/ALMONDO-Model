@@ -1,4 +1,5 @@
 from downloadData import UserDataDownload
+import sys
 from utils import *
 import sys
 import logging
@@ -11,6 +12,8 @@ def main():
     BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
     INPUT = 'data/in'
     LOG = 'data/log'
+    oldstdout = sys.stdout
+    sys.stdout = 'data/log/logfile.log'
     
     usernames = read_users(INPUT)    
     maxt = compute_max_tweets(BEARER_TOKEN)
@@ -25,8 +28,9 @@ def main():
             user_data.make_dirs()
             user_data.download(count)
             users_to_do_update(INPUT, LOG)
-            count = compute_max_tweets(BEARER_TOKEN)
-        print('>>> process ended')    
+            count = min(compute_max_tweets(BEARER_TOKEN), 3000)
+        print('>>> process ended')   
+    sys.stdout = oldstdout 
     
 if __name__ == "__main__":
     main()

@@ -1,0 +1,86 @@
+{
+    "1642104525187153922": {
+        "attachments": {
+            "media_keys": [
+                "3_1642104521533845506"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-01T10:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1642104525187153922"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "GSKIMPACTUK",
+                    "probability": 0.6554,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Bradford District",
+                    "probability": 0.8745,
+                    "start": 108,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Craven",
+                    "probability": 0.9155,
+                    "start": 130,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 14,
+                    "tag": "GSKIMPACTUK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 52,
+                    "id": "413963464",
+                    "start": 40,
+                    "username": "CellarTrust"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The Cellar Trust is a registered charity (No. 701982) that provides mental health support to adults in Bradford, Airedale, Wharfedale and Craven.",
+                    "display_url": "thecellartrust.org",
+                    "end": 183,
+                    "expanded_url": "https://www.thecellartrust.org/",
+                    "start": 160,
+                    "status": 200,
+                    "title": "Home - The Cellar Trust",
+                    "unwound_url": "https://www.thecellartrust.org/",
+                    "url": "https://t.co/J0lvAjh4uk"
+                },
+                {
+                    "display_url": "pic.twitter.com/YJpGRGitAs",
+                    "end": 207,
+                    "expanded_url": "https://twitter.com/GSK/status/1642104525187153922/photo/1",
+                    "media_key": "3_1642104521533845506",
+                    "start": 184,
+                    "url": "https://t.co/YJpGRGitAs"
+                }
+            ]
+        },
+        "id": "1642104525187153922",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3622,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Meet our 2023 #GSKIMPACTUK Award winner @CellarTrust, providing mental health services to support people in Bradford District and Craven.\n\nWant to know more? \ud83d\udc49 https://t.co/J0lvAjh4uk https://t.co/YJpGRGitAs"
+    }
+}

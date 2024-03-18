@@ -1,0 +1,74 @@
+{
+    "1701528655439036852": {
+        "attachments": {
+            "media_keys": [
+                "13_1701528587092783104"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-12T09:30:18.000Z",
+        "edit_history_tweet_ids": [
+            "1701528655439036852"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "SevereAsthma",
+                    "probability": 0.529,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "ERSCongress",
+                    "probability": 0.5294,
+                    "start": 264,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 12,
+                    "tag": "SevereAsthma"
+                },
+                {
+                    "end": 275,
+                    "start": 263,
+                    "tag": "ERSCongress"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3PcWgK3",
+                    "end": 262,
+                    "expanded_url": "https://gsk.to/3PcWgK3",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/remission-severe-asthma-treatments-possible/?linkId=100000217875979",
+                    "url": "https://t.co/tJtCJHDZ0b"
+                },
+                {
+                    "display_url": "pic.twitter.com/PLAiE5Ueld",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/GSK/status/1701528655439036852/video/1",
+                    "media_key": "13_1701528587092783104",
+                    "start": 276,
+                    "url": "https://t.co/PLAiE5Ueld"
+                }
+            ]
+        },
+        "id": "1701528655439036852",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2666,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "An accurate #SevereAsthma diagnosis and the implementation of latest evidence-based management could open up new possibilities for people who have struggled with asthma for years. Learn about targeting treatable traits in types of asthma: https://t.co/tJtCJHDZ0b #ERSCongress https://t.co/PLAiE5Ueld"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "1707032808424653073": {
+        "author_id": "5383942",
+        "created_at": "2023-09-27T14:01:51.000Z",
+        "edit_history_tweet_ids": [
+            "1707032808424653073"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 234,
+                    "normalized_text": "ETHICS",
+                    "probability": 0.5512,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1573181666880671744",
+                    "start": 0,
+                    "username": "japoantonio1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.i-sight.com/landing-page/",
+                    "end": 211,
+                    "expanded_url": "https://gsk.i-sight.com/landing-page/",
+                    "start": 188,
+                    "unwound_url": "https://gsk.i-sight.com/landing-page/",
+                    "url": "https://t.co/1rtztFgejA"
+                }
+            ]
+        },
+        "id": "1707032808424653073",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 36,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@japoantonio1 Thank you for contacting us.  Please reach out to our Integrity Speak Up Line to report this situation. You will find that department's contact information below:\n\nWebsite:  https://t.co/1rtztFgejA\nPhone: 1-866-GSK-ETHICS (1-866-475-3844)\nEmail:  integrityspeakupline@gsk.com"
+    }
+}

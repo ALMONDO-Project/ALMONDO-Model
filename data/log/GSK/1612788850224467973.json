@@ -1,0 +1,67 @@
+{
+    "1612788850224467973": {
+        "author_id": "5383942",
+        "created_at": "2023-01-10T12:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1612788850224467973"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.6914,
+                    "start": 28,
+                    "type": "Person"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "JPM2023",
+                    "probability": 0.5265,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "JPM23",
+                    "probability": 0.4569,
+                    "start": 194,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 21,
+                    "start": 15,
+                    "tag": "media"
+                },
+                {
+                    "end": 79,
+                    "start": 71,
+                    "tag": "JPM2023"
+                },
+                {
+                    "end": 199,
+                    "start": 193,
+                    "tag": "JPM23"
+                }
+            ]
+        },
+        "id": "1612788850224467973",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3127,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#Investors and #media: Hear Emma Walmsley, our CEO, talk live today at #JPM2023 about our exciting year ahead, at 1030 EST / 0730 PT / 1530 GMT. Her presentation will be followed by a Q&amp;A. #JPM23"
+    }
+}

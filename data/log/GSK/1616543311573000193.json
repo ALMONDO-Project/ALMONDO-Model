@@ -1,0 +1,55 @@
+{
+    "1616543311573000193": {
+        "author_id": "5383942",
+        "created_at": "2023-01-20T21:08:54.000Z",
+        "edit_history_tweet_ids": [
+            "1616543311573000193"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1213606122587750406",
+                    "start": 0,
+                    "username": "grouchy15"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK United Kingdom",
+                    "display_url": "gsk.com/en-gb/location\u2026",
+                    "end": 143,
+                    "expanded_url": "https://www.gsk.com/en-gb/locations/united-kingdom/#customer-support-and-medical-information",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 120,
+                    "status": 200,
+                    "title": "United Kingdom | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/locations/united-kingdom/#customer-support-and-medical-information",
+                    "url": "https://t.co/7j7R2lepgQ"
+                }
+            ]
+        },
+        "id": "1616543311573000193",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 40,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@grouchy15 Here is the contact information for customer support:\nEmail: customercontact@gsk.com\nTel: +44 (0)800 221 441\nhttps://t.co/7j7R2lepgQ"
+    }
+}

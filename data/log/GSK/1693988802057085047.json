@@ -1,0 +1,64 @@
+{
+    "1693988802057085047": {
+        "author_id": "5383942",
+        "created_at": "2023-08-22T14:09:37.000Z",
+        "edit_history_tweet_ids": [
+            "1693988802057085047"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "India",
+                    "probability": 0.9762,
+                    "start": 76,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "773461786909704192",
+                    "start": 0,
+                    "username": "Saeed_ahmed3373"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How can we help you? Share your comments/ queries or feedback with us.",
+                    "display_url": "india-pharma.gsk.com/en-in/contact-\u2026",
+                    "end": 179,
+                    "expanded_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 156,
+                    "status": 200,
+                    "title": "Contact Us | GSK India",
+                    "unwound_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "url": "https://t.co/1fFJ3lDR43"
+                }
+            ]
+        },
+        "id": "1693988802057085047",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 35,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Saeed_ahmed3373 Hello, and thank you for reaching out. Our local office in India is best equipped to answer questions about products in your local market: https://t.co/1fFJ3lDR43\n\nPlease note that our offices are not open in the evenings or on weekends."
+    }
+}

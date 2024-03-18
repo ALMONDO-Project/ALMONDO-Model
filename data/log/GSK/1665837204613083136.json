@@ -1,0 +1,69 @@
+{
+    "1665837204613083136": {
+        "author_id": "5383942",
+        "created_at": "2023-06-05T21:45:13.000Z",
+        "edit_history_tweet_ids": [
+            "1665837204613083136"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.5737,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "Emma",
+                    "probability": 0.5057,
+                    "start": 183,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Tony Wood",
+                    "probability": 0.7338,
+                    "start": 194,
+                    "type": "Person"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Shobie",
+                    "probability": 0.6859,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 14,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 98,
+                    "start": 90,
+                    "tag": "biotech"
+                },
+                {
+                    "end": 110,
+                    "start": 99,
+                    "tag": "innovation"
+                }
+            ]
+        },
+        "id": "1665837204613083136",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3539,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "We\u2019re live at #BIO2023, connecting, engaging &amp; exchanging ideas with the brightest in #biotech #innovation! \n\nWatch our highlights video &amp; tune in tomorrow for a session with Emma, CEO, Tony Wood, CSO &amp; Shobie, CTO, on \u2018A new era for science and tech to get ahead of disease\u2019."
+    }
+}

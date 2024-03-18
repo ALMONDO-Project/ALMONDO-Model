@@ -1,0 +1,102 @@
+{
+    "1723717339089133911": {
+        "attachments": {
+            "media_keys": [
+                "13_1723717288736571392"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-12T15:00:13.000Z",
+        "edit_history_tweet_ids": [
+            "1723717339089133911"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "lupus",
+                    "probability": 0.4699,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "GSK",
+                    "probability": 0.6146,
+                    "start": 170,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "lupus",
+                    "probability": 0.4609,
+                    "start": 195,
+                    "type": "Other"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "ACR23",
+                    "probability": 0.7481,
+                    "start": 243,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 16,
+                    "tag": "lupus"
+                },
+                {
+                    "end": 248,
+                    "start": 242,
+                    "tag": "ACR23"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Taking steps today to understand more about Systemic Lupus Erythematosus (SLE) could make a big difference to your future. Learn more today.",
+                    "display_url": "gsk.to/3SAnjCk",
+                    "end": 239,
+                    "expanded_url": "https://gsk.to/3SAnjCk",
+                    "images": [
+                        {
+                            "height": 630,
+                            "url": "https://pbs.twimg.com/news_img/1723717343153422336/yRl8cVg9?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1723717343153422336/yRl8cVg9?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 216,
+                    "status": 200,
+                    "title": "The Lupus Butterfly Effect",
+                    "unwound_url": "https://lupusbutterflyeffect.com/?linkId=100000225912678#living_with_lupus",
+                    "url": "https://t.co/JzytjEgK2m"
+                },
+                {
+                    "display_url": "pic.twitter.com/tRBrsULRqw",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/GSK/status/1723717339089133911/video/1",
+                    "media_key": "13_1723717288736571392",
+                    "start": 249,
+                    "url": "https://t.co/tRBrsULRqw"
+                }
+            ]
+        },
+        "id": "1723717339089133911",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3662,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Organ damage in #lupus occurs when the immune system attacks and inflames organs. This could be prevented for some patients if timely action is taken. Take a look at our GSK website dedicated to lupus to learn more: https://t.co/JzytjEgK2m \n\n#ACR23 https://t.co/tRBrsULRqw"
+    }
+}

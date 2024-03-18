@@ -1,0 +1,61 @@
+{
+    "1721850486146441421": {
+        "attachments": {
+            "media_keys": [
+                "13_1721850437878362112"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-07T11:22:00.000Z",
+        "edit_history_tweet_ids": [
+            "1721850486146441421"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "RSV",
+                    "probability": 0.6583,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "RSV",
+                    "probability": 0.6528,
+                    "start": 89,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 77,
+                    "id": "23948958",
+                    "start": 62,
+                    "username": "COPDFoundation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DBt1AodTtl",
+                    "end": 154,
+                    "expanded_url": "https://twitter.com/GSK/status/1721850486146441421/video/1",
+                    "media_key": "13_1721850437878362112",
+                    "start": 131,
+                    "url": "https://t.co/DBt1AodTtl"
+                }
+            ]
+        },
+        "id": "1721850486146441421",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3999,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "RSV can seriously hinder your independence. Find out from the @COPDFoundation the impact RSV can have on adults at increased risk. https://t.co/DBt1AodTtl"
+    }
+}

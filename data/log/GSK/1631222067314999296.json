@@ -1,0 +1,75 @@
+{
+    "1631222067314999296": {
+        "attachments": {
+            "media_keys": [
+                "3_1631222060180447232"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-02T09:17:02.000Z",
+        "edit_history_tweet_ids": [
+            "1631222067314999296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 136,
+                    "normalized_text": "VRBPAC",
+                    "probability": 0.5878,
+                    "start": 131,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 137,
+                    "start": 130,
+                    "tag": "VRBPAC"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 68,
+                    "id": "208120290",
+                    "start": 61,
+                    "username": "US_FDA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3Y8V3G5",
+                    "end": 241,
+                    "expanded_url": "https://gsk.to/3Y8V3G5",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/?linkId=100000190369619",
+                    "url": "https://t.co/jkdV993qm5"
+                },
+                {
+                    "display_url": "pic.twitter.com/13qYko8QWZ",
+                    "end": 265,
+                    "expanded_url": "https://twitter.com/GSK/status/1631222067314999296/photo/1",
+                    "media_key": "3_1631222060180447232",
+                    "start": 242,
+                    "url": "https://t.co/13qYko8QWZ"
+                }
+            ]
+        },
+        "id": "1631222067314999296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3223,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#News for Investors and Media:\nInformation about yesterday\u2019s @US_FDA Vaccines and Related Biological Products Advisory Committee (#VRBPAC) meeting is available in our press release. More information is available here: https://t.co/jkdV993qm5 https://t.co/13qYko8QWZ"
+    }
+}

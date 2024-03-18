@@ -1,0 +1,66 @@
+{
+    "1667170330991837186": {
+        "attachments": {
+            "media_keys": [
+                "13_1667170190730076160"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-09T14:02:36.000Z",
+        "edit_history_tweet_ids": [
+            "1667170330991837186"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.5276,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 17,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 110,
+                    "start": 102,
+                    "tag": "biotech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 175,
+                    "id": "19019298",
+                    "start": 164,
+                    "username": "IAmBiotech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/G8tW3mf6xx",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/GSK/status/1667170330991837186/video/1",
+                    "media_key": "13_1667170190730076160",
+                    "start": 293,
+                    "url": "https://t.co/G8tW3mf6xx"
+                }
+            ]
+        },
+        "id": "1667170330991837186",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3170,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Thank you to the #BIO2023 participants, panelists, policymakers, organisers, our current &amp; future #biotech &amp; academic partners &amp; all the members of the @IAmBiotech community for creating such an exciting experience right at the heart of a growing, global hub of health innovation. https://t.co/G8tW3mf6xx"
+    }
+}

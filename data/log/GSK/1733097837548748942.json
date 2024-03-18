@@ -1,0 +1,55 @@
+{
+    "1733097837548748942": {
+        "author_id": "5383942",
+        "created_at": "2023-12-08T12:14:58.000Z",
+        "edit_history_tweet_ids": [
+            "1733097837548748942"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.6231,
+                    "start": 40,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 205,
+                    "start": 191,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "91478624",
+                    "start": 10,
+                    "username": "Forbes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/Forbes/status/\u2026",
+                    "end": 229,
+                    "expanded_url": "https://twitter.com/Forbes/status/1733031173729796431",
+                    "start": 206,
+                    "url": "https://t.co/sVlqnTvEA5"
+                }
+            ]
+        },
+        "id": "1733097837548748942",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5188,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Thanks to @Forbes for including our CEO Emma Walmsley on the 2023 World's Most Powerful Women list, representing the most dynamic female business leaders making an impact on the world today. #AheadTogether https://t.co/sVlqnTvEA5"
+    }
+}

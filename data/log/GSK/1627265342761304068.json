@@ -1,0 +1,74 @@
+{
+    "1627265342761304068": {
+        "author_id": "5383942",
+        "created_at": "2023-02-19T11:14:25.000Z",
+        "edit_history_tweet_ids": [
+            "1627265342761304068"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "HIV",
+                    "probability": 0.775,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "CROI",
+                    "probability": 0.4579,
+                    "start": 85,
+                    "type": "Place"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Seattle",
+                    "probability": 0.9785,
+                    "start": 93,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 45,
+                    "tag": "HIV"
+                },
+                {
+                    "end": 89,
+                    "start": 84,
+                    "tag": "CROI"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "3019793950",
+                    "start": 21,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ViiVHC/status/\u2026",
+                    "end": 125,
+                    "expanded_url": "https://twitter.com/ViiVHC/status/1626574718995161089",
+                    "start": 102,
+                    "url": "https://t.co/7vYgXYHz6g"
+                }
+            ]
+        },
+        "id": "1627265342761304068",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8315,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "We\u2019re delighted that @ViiVHC, our specialist #HIV company, is attending this year\u2019s #CROI in Seattle. https://t.co/7vYgXYHz6g"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "1712060546856444037": {
+        "attachments": {
+            "media_keys": [
+                "13_1712060475641405440"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-11T11:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1712060546856444037"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "HLTH2023",
+                    "probability": 0.4368,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 234,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.5757,
+                    "start": 228,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 16,
+                    "tag": "HLTH2023"
+                },
+                {
+                    "end": 235,
+                    "start": 227,
+                    "tag": "GSKdata"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK will be at the HLTH conference 2023.",
+                    "display_url": "gsk.to/3PPt8Jh",
+                    "end": 260,
+                    "expanded_url": "https://gsk.to/3PPt8Jh",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1712060558663442432/euJLxMHO?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1712060558663442432/euJLxMHO?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 237,
+                    "status": 200,
+                    "title": "GSK at HLTH 2023 | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/conferences/gsk-at-hlth-2023/?utm_source=twitter&utm_medium=organic&utm_campaign=HLTH&utm_content=hlth_day3_dyk&linkId=100000221823015",
+                    "url": "https://t.co/KlG0Gypqcv"
+                },
+                {
+                    "display_url": "pic.twitter.com/QqPJoGqmE4",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/GSK/status/1712060546856444037/video/1",
+                    "media_key": "13_1712060475641405440",
+                    "start": 263,
+                    "url": "https://t.co/QqPJoGqmE4"
+                }
+            ]
+        },
+        "id": "1712060546856444037",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2713,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "DYK that 34% of #HLTH2023 delegates told us that if they could modify one aspect of healthcare collaborations to drive innovation, they would be more open to working with unexpected relationships. \n\nDiscover more insights from #GSKdata: https://t.co/KlG0Gypqcv \ud83d\udd0d https://t.co/QqPJoGqmE4"
+    }
+}

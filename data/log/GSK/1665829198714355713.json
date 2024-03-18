@@ -1,0 +1,72 @@
+{
+    "1665829198714355713": {
+        "attachments": {
+            "media_keys": [
+                "13_1665829126966595585"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-05T21:13:25.000Z",
+        "edit_history_tweet_ids": [
+            "1665829198714355713"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.458,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.6691,
+                    "start": 218,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4593,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 28,
+                    "start": 20,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 225,
+                    "start": 217,
+                    "tag": "GSKdata"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/NPUGfPIpou",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/GSK/status/1665829198714355713/video/1",
+                    "media_key": "13_1665829126966595585",
+                    "start": 238,
+                    "url": "https://t.co/NPUGfPIpou"
+                }
+            ]
+        },
+        "id": "1665829198714355713",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3464,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Share your voice at #BIO2023. \n\nWe believe innovation starts when we stop to listen. At present, 2/3 of conference respondents are feeling excited about the impact of health innovation in the next decade.  \n\nSee more #GSKdata at BIO2023. https://t.co/NPUGfPIpou"
+    }
+}

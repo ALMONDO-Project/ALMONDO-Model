@@ -1,0 +1,45 @@
+{
+    "1662413339517919234": {
+        "author_id": "5383942",
+        "created_at": "2023-05-27T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1662413339517919234"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "lupus",
+                    "probability": 0.6675,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "Isha",
+                    "probability": 0.7924,
+                    "start": 145,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 39,
+                    "tag": "lupus"
+                }
+            ]
+        },
+        "id": "1662413339517919234",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3746,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "If we don\u2019t talk about organ damage in #lupus, how can we take steps to reduce the risk of damage to organs like the kidneys, heart, and skin? \n\nIsha shares the importance of starting conversations as early as possible:"
+    }
+}

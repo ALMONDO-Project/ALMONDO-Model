@@ -1,0 +1,52 @@
+{
+    "1624017899970084866": {
+        "author_id": "5383942",
+        "created_at": "2023-02-10T12:10:14.000Z",
+        "edit_history_tweet_ids": [
+            "1624017899970084866"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "Media"
+                },
+                {
+                    "end": 96,
+                    "start": 89,
+                    "tag": "cancer"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 44,
+                    "id": "208120290",
+                    "start": 37,
+                    "username": "US_FDA"
+                }
+            ]
+        },
+        "id": "1624017899970084866",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5194,
+            "like_count": 18,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "#News for #Investors and #Media: The @US_FDA has granted regular (full) approval for our #cancer therapy. Learn more."
+    }
+}

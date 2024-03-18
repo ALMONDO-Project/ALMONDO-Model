@@ -1,0 +1,39 @@
+{
+    "1638191055509020673": {
+        "author_id": "5383942",
+        "created_at": "2023-03-21T14:49:18.000Z",
+        "edit_history_tweet_ids": [
+            "1638191055509020673"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "Crystal",
+                    "probability": 0.8146,
+                    "start": 79,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "176742975",
+                    "start": 0,
+                    "username": "ideapharma"
+                }
+            ]
+        },
+        "id": "1638191055509020673",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 91,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ideapharma Hello - Thank you for reaching out and for sharing this with us!\n\n-Crystal"
+    }
+}

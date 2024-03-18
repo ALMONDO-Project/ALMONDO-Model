@@ -1,0 +1,71 @@
+{
+    "1699346703982223622": {
+        "attachments": {
+            "media_keys": [
+                "3_1699346700853301248"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-06T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1699346703982223622"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 203,
+                    "normalized_text": "UK",
+                    "probability": 0.9739,
+                    "start": 202,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 115,
+                    "start": 99,
+                    "tag": "WellChildAwards"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3L6J8F1",
+                    "end": 180,
+                    "expanded_url": "https://gsk.to/3L6J8F1",
+                    "start": 157,
+                    "status": 200,
+                    "unwound_url": "https://hello.com/?linkId=100000217038344",
+                    "url": "https://t.co/ZNJhVBgUAg"
+                },
+                {
+                    "display_url": "gsk.to/483tCDI",
+                    "end": 229,
+                    "expanded_url": "https://gsk.to/483tCDI",
+                    "start": 206,
+                    "status": 200,
+                    "unwound_url": "https://www.hellomagazine.com/royalty/500871/prince-harry-to-return-to-uk-wellchild-awards/",
+                    "url": "https://t.co/A86cHvfHRs"
+                },
+                {
+                    "display_url": "pic.twitter.com/gaQkyBNGON",
+                    "end": 253,
+                    "expanded_url": "https://twitter.com/GSK/status/1699346703982223622/photo/1",
+                    "media_key": "3_1699346700853301248",
+                    "start": 230,
+                    "url": "https://t.co/gaQkyBNGON"
+                }
+            ]
+        },
+        "id": "1699346703982223622",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3027,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Tomorrow, join us as we honour inspirational young people and healthcare professionals at the 2023 #WellChildAwards\n\nWatch the ceremony live stream from the https://t.co/ZNJhVBgUAg homepage from 6.15pm UK: https://t.co/A86cHvfHRs https://t.co/gaQkyBNGON"
+    }
+}

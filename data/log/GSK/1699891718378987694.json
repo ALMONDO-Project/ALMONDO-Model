@@ -1,0 +1,61 @@
+{
+    "1699891718378987694": {
+        "author_id": "5383942",
+        "created_at": "2023-09-07T21:05:42.000Z",
+        "edit_history_tweet_ids": [
+            "1699891718378987694"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Child",
+                    "probability": 0.5327,
+                    "start": 41,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 75,
+                    "tag": "WellChildAwards"
+                },
+                {
+                    "end": 263,
+                    "start": 249,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3Ewy7Jr",
+                    "end": 247,
+                    "expanded_url": "https://gsk.to/3Ewy7Jr",
+                    "start": 224,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/responsibility/esg-resources/#charitable-grants",
+                    "url": "https://t.co/mfCjShFBuq"
+                },
+                {
+                    "display_url": "x.com/WellChild/stat\u2026",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/WellChild/status/1699823526339805697",
+                    "start": 264,
+                    "url": "https://t.co/ncN4i4aOyI"
+                }
+            ]
+        },
+        "id": "1699891718378987694",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 15772,
+            "like_count": 356,
+            "quote_count": 3,
+            "reply_count": 13,
+            "retweet_count": 114
+        },
+        "text": "We\u2019re proud to support the Inspirational Child 4-6 years Award at the 2023 #WellChildAwards.\n\nFind out how together with community partners we\u2019re making a positive impact on the health of vulnerable and marginalised people. https://t.co/mfCjShFBuq\n\n#AheadTogether https://t.co/ncN4i4aOyI"
+    }
+}

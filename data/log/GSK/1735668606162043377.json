@@ -1,0 +1,79 @@
+{
+    "1735668606162043377": {
+        "attachments": {
+            "media_keys": [
+                "13_1735668538608672768"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-12-15T14:30:17.000Z",
+        "edit_history_tweet_ids": [
+            "1735668606162043377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 179,
+                    "normalized_text": "AMR",
+                    "probability": 0.3684,
+                    "start": 177,
+                    "type": "Other"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "malaria",
+                    "probability": 0.7198,
+                    "start": 185,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "Africa",
+                    "probability": 0.9673,
+                    "start": 245,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 40,
+                    "id": "44315238",
+                    "start": 24,
+                    "username": "Amref_Worldwide"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK has partnered with Amref since 1988, making a positive impact on malaria, TB, HIV, water/sanitation, health worker training, and health system strengthen...",
+                    "display_url": "gsk.to/4ajOeca",
+                    "end": 276,
+                    "expanded_url": "https://gsk.to/4ajOeca",
+                    "start": 253,
+                    "status": 200,
+                    "title": "Strengthening health systems for 35 years: GSK x Amref Health Africa",
+                    "unwound_url": "https://www.youtube.com/watch?v=Rg20hiG4Wtw&linkId=100000231298634",
+                    "url": "https://t.co/cXhaoSGcUP"
+                },
+                {
+                    "display_url": "pic.twitter.com/TOp1HRVD9K",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/GSK/status/1735668606162043377/video/1",
+                    "media_key": "13_1735668538608672768",
+                    "start": 277,
+                    "url": "https://t.co/TOp1HRVD9K"
+                }
+            ]
+        },
+        "id": "1735668606162043377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3713,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Proudly partnering with @Amref_Worldwide for 35 years, we've impacted around 10m people in 17 African countries. As we enter 2024, we're excited to launch two new programmes on AMR and malaria. \n\nTogether, we're driving lasting health change in Africa. https://t.co/cXhaoSGcUP https://t.co/TOp1HRVD9K"
+    }
+}

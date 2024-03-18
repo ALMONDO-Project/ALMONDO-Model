@@ -1,0 +1,71 @@
+{
+    "1631293285955149825": {
+        "attachments": {
+            "media_keys": [
+                "3_1631293282633302024"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-02T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1631293285955149825"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 143,
+                    "normalized_text": "blood",
+                    "probability": 0.5702,
+                    "start": 139,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 26,
+                    "tag": "MyelomaActionMonth"
+                },
+                {
+                    "end": 242,
+                    "start": 226,
+                    "tag": "multiplemyeloma"
+                },
+                {
+                    "end": 268,
+                    "start": 255,
+                    "tag": "MYelomaSTORY"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 79,
+                    "id": "34340707",
+                    "start": 68,
+                    "username": "IMFmyeloma"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/2vbWSyqCz1",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/GSK/status/1631293285955149825/photo/1",
+                    "media_key": "3_1631293282633302024",
+                    "start": 269,
+                    "url": "https://t.co/2vbWSyqCz1"
+                }
+            ]
+        },
+        "id": "1631293285955149825",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4698,
+            "like_count": 30,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "We\u2019re excited to kick off #MyelomaActionMonth, an initiative led by @IMFmyeloma, to inspire action in support of patients living with this blood cancer. \n\nFollow along this month to see how we\u2019re targeting a better future for #multiplemyeloma patients! \n\n#MYelomaSTORY https://t.co/2vbWSyqCz1"
+    }
+}

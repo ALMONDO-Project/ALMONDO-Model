@@ -1,0 +1,63 @@
+{
+    "1633467611903062017": {
+        "author_id": "5383942",
+        "created_at": "2023-03-08T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1633467611903062017"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 180,
+                    "normalized_text": "IWD2023",
+                    "probability": 0.7459,
+                    "start": 174,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 181,
+                    "start": 173,
+                    "tag": "IWD2023"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Until recently, medicines and vaccines were mainly tested on men, which has had a detrimental effect on women\u2019s health globally.",
+                    "display_url": "gsk.com/en-gb/behind-t\u2026",
+                    "end": 206,
+                    "expanded_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/men-women-gender-diversity-clinical-trials/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1744527497000329216/Otp-xV-S?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1744527497000329216/Otp-xV-S?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 183,
+                    "status": 200,
+                    "title": "\u2018We\u2019re not a world of men \u2013 it's as simple as that\u2019: how gender diversity in clinical trials improves health outcomes for women | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/men-women-gender-diversity-clinical-trials/",
+                    "url": "https://t.co/l4GLSAJ9qo"
+                }
+            ]
+        },
+        "id": "1633467611903062017",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3774,
+            "like_count": 29,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 12
+        },
+        "text": "Until recently, medicines and vaccines were mainly tested on men. \n\nOur researchers are tackling the lack of gender diversity in clinical trials to improve health outcomes. #IWD2023  https://t.co/l4GLSAJ9qo"
+    }
+}

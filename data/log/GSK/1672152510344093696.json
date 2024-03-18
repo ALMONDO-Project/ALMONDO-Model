@@ -1,0 +1,52 @@
+{
+    "1672152510344093696": {
+        "author_id": "5383942",
+        "created_at": "2023-06-23T08:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1672152510344093696"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Chronic liver",
+                    "probability": 0.5692,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "EASLCongress",
+                    "probability": 0.4992,
+                    "start": 152,
+                    "type": "Organization"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "liver",
+                    "probability": 0.5696,
+                    "start": 206,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 164,
+                    "start": 151,
+                    "tag": "EASLCongress"
+                }
+            ]
+        },
+        "id": "1672152510344093696",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2998,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Chronic liver disease can lead to physical burdens and social stigma, and it\u2019s one of the most common causes of death worldwide. \n\nThis week, we\u2019re at #EASLCongress talking about how we\u2019re getting ahead of liver disease together."
+    }
+}

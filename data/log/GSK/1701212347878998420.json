@@ -1,0 +1,83 @@
+{
+    "1701212347878998420": {
+        "attachments": {
+            "media_keys": [
+                "7_1701211427015454720"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-11T12:33:25.000Z",
+        "edit_history_tweet_ids": [
+            "1701212347878998420"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "SevereAsthma",
+                    "probability": 0.4646,
+                    "start": 37,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 36,
+                    "tag": "SevereAsthma"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Global specialists, including GSK scientists, are applying years of expertise in asthma to aspire to clinical remission.",
+                    "display_url": "gsk.to/3RbKXVf",
+                    "end": 228,
+                    "expanded_url": "https://gsk.to/3RbKXVf",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1720101872457945090/cqsMBQGd?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1720101872457945090/cqsMBQGd?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 205,
+                    "status": 200,
+                    "title": "Remission could be possible for people with severe asthma, giving them a new outlook on life | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/remission-severe-asthma-treatments-possible/",
+                    "url": "https://t.co/jAD01EbmF1"
+                },
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/i/web/status/1701212347878998420",
+                    "start": 282,
+                    "url": "https://t.co/hkXGFd7kZz"
+                },
+                {
+                    "display_url": "pic.twitter.com/GeHvANxjIp",
+                    "end": 329,
+                    "expanded_url": "https://twitter.com/GSK/status/1701212347878998420/video/1",
+                    "media_key": "7_1701211427015454720",
+                    "start": 306,
+                    "url": "https://t.co/GeHvANxjIp"
+                }
+            ]
+        },
+        "id": "1701212347878998420",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2941,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re exploring ways we can advance #SevereAsthma management.\n\nTogether with global experts, we\u2019re aspiring to achieve clinical remission for people with severe asthma. Click the link below to learn more: https://t.co/jAD01EbmF1\n\nRemission could be possible for people with severe\u2026 https://t.co/hkXGFd7kZz https://t.co/GeHvANxjIp"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1681583846448328705": {
+        "author_id": "5383942",
+        "created_at": "2023-07-19T08:36:45.000Z",
+        "edit_history_tweet_ids": [
+            "1681583846448328705"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "GCOA",
+                    "probability": 0.4579,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "GSK",
+                    "probability": 0.7566,
+                    "start": 112,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "Media"
+                },
+                {
+                    "end": 68,
+                    "start": 63,
+                    "tag": "GCOA"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "727448203180822528",
+                    "start": 45,
+                    "username": "IQVIA_global"
+                }
+            ]
+        },
+        "id": "1681583846448328705",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3232,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#News for #Investors and #Media: Today, with @IQVIA_global and #GCOA, we shared new data from a study funded by GSK offering insights on adult immunisation trends, underscoring the need to optimise vaccination in this group to support healthy ageing."
+    }
+}

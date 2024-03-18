@@ -1,0 +1,91 @@
+{
+    "1737820237993500877": {
+        "attachments": {
+            "media_keys": [
+                "13_1737820213935030272"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-12-21T13:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1737820237993500877"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "TargetTheFuture",
+                    "probability": 0.6361,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Myeloma Digital Engagement",
+                    "probability": 0.7493,
+                    "start": 101,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 36,
+                    "tag": "TargetTheFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 86,
+                    "id": "91353230",
+                    "start": 70,
+                    "username": "CancerSupportHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK is rising to the challenge of multiple myeloma. Learn how to join our efforts to build a better future for underserved populations, together.",
+                    "display_url": "gsk.to/3NAsKy1",
+                    "end": 235,
+                    "expanded_url": "https://gsk.to/3NAsKy1",
+                    "images": [
+                        {
+                            "height": 162,
+                            "url": "https://pbs.twimg.com/news_img/1737820240992407552/4i4gcbFn?format=jpg&name=orig",
+                            "width": 1430
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1737820240992407552/4i4gcbFn?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 212,
+                    "status": 200,
+                    "title": "Target the Future: Building More for Multiple Myeloma",
+                    "unwound_url": "https://www.targetthefuturemm.com/?linkId=100000232400746&linkId=100000232400746",
+                    "url": "https://t.co/n33A3szpg3"
+                },
+                {
+                    "display_url": "pic.twitter.com/SjoCyg7QNu",
+                    "end": 259,
+                    "expanded_url": "https://twitter.com/GSK/status/1737820237993500877/video/1",
+                    "media_key": "13_1737820213935030272",
+                    "start": 236,
+                    "url": "https://t.co/SjoCyg7QNu"
+                }
+            ]
+        },
+        "id": "1737820237993500877",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2348,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re thrilled to announce the next #TargetTheFuture grant recipient: @CancerSupportHQ! Its Multiple Myeloma Digital Engagement Program provides resources that bridge the digital divide for patients. Learn more: https://t.co/n33A3szpg3 https://t.co/SjoCyg7QNu"
+    }
+}

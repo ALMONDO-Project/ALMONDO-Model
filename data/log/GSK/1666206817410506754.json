@@ -1,0 +1,97 @@
+{
+    "1666206817410506754": {
+        "attachments": {
+            "media_keys": [
+                "13_1666206742940639243"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-06T22:13:56.000Z",
+        "edit_history_tweet_ids": [
+            "1666206817410506754"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4894,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 29,
+                    "normalized_text": "Emma",
+                    "probability": 0.577,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 39,
+                    "normalized_text": "Tony",
+                    "probability": 0.424,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "Shobie",
+                    "probability": 0.2922,
+                    "start": 52,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 9,
+                    "tag": "BIO2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 83,
+                    "id": "1083090959552970755",
+                    "start": 70,
+                    "username": "KrofahEsther"
+                },
+                {
+                    "end": 103,
+                    "id": "16373878",
+                    "start": 87,
+                    "username": "MilkenInstitute"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/43oIERZ",
+                    "end": 251,
+                    "expanded_url": "https://gsk.to/43oIERZ",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/innovation/?utm_source=twitter&utm_medium=organic&utm_campaign=Innovation&utm_content=live_at_bio_day_2_highlights_twitter&linkId=100000204562462",
+                    "url": "https://t.co/QuOfoNYodx"
+                },
+                {
+                    "display_url": "pic.twitter.com/MxbH0DKpns",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/GSK/status/1666206817410506754/video/1",
+                    "media_key": "13_1666206742940639243",
+                    "start": 252,
+                    "url": "https://t.co/MxbH0DKpns"
+                }
+            ]
+        },
+        "id": "1666206817410506754",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5424,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Today at #BIO2023 our CEO Emma, CSO Tony, &amp; CTO Shobie spoke with @KrofahEsther of @MilkenInstitute on how uniting science, technology &amp; talent can prevent and change the course of disease. \n\nSee our highlights + visit: https://t.co/QuOfoNYodx https://t.co/MxbH0DKpns"
+    }
+}

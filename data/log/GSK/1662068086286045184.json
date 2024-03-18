@@ -1,0 +1,51 @@
+{
+    "1662068086286045184": {
+        "author_id": "5383942",
+        "created_at": "2023-05-26T12:08:06.000Z",
+        "edit_history_tweet_ids": [
+            "1662068086286045184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "UK",
+                    "probability": 0.9519,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "UK",
+                    "probability": 0.8596,
+                    "start": 207,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A \u00a3650 million war-chest to fire up the UK\u2019s life sciences sector and drive forward the government\u2019s priority to grow the economy has been unveiled by the Chancellor of the Exchequer Jeremy Hunt today 25 May 2023.",
+                    "display_url": "gov.uk/government/new\u2026",
+                    "end": 288,
+                    "expanded_url": "https://www.gov.uk/government/news/chancellor-reveals-life-sciences-growth-package-to-fire-up-economy",
+                    "start": 265,
+                    "status": 200,
+                    "title": "Chancellor reveals life sciences growth package to fire up economy",
+                    "unwound_url": "https://www.gov.uk/government/news/chancellor-reveals-life-sciences-growth-package-to-fire-up-economy",
+                    "url": "https://t.co/O9v8or2Luj"
+                }
+            ]
+        },
+        "id": "1662068086286045184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5109,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Encouraging steps towards realising huge opportunity for the UK in life sciences \ud83d\udc47 \n\nPriority now must be on delivering to help patients access new medicines &amp; vaccines, unlock investment &amp; maintain UK global leadership in scientific &amp; medical research https://t.co/O9v8or2Luj"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "1705582853050749146": {
+        "attachments": {
+            "media_keys": [
+                "13_1705582795865677824"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-23T14:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1705582853050749146"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "MultipleMyeloma",
+                    "probability": 0.5595,
+                    "start": 4,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 3,
+                    "tag": "MultipleMyeloma"
+                },
+                {
+                    "end": 68,
+                    "start": 42,
+                    "tag": "BloodCancerAwarenessMonth"
+                },
+                {
+                    "end": 104,
+                    "start": 92,
+                    "tag": "BloodCancer"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/yTjnWWoeAo",
+                    "end": 217,
+                    "expanded_url": "https://twitter.com/GSK/status/1705582853050749146/video/1",
+                    "media_key": "13_1705582795865677824",
+                    "start": 194,
+                    "url": "https://t.co/yTjnWWoeAo"
+                }
+            ]
+        },
+        "id": "1705582853050749146",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3737,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Is #MultipleMyeloma curable? September is #BloodCancerAwarenessMonth. Learn more about this #BloodCancer \ud83e\ude78\ud83c\udf97\ufe0f and the organisations that provide important support to patients and their families. https://t.co/yTjnWWoeAo"
+    }
+}

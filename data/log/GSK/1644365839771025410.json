@@ -1,0 +1,89 @@
+{
+    "1644365839771025410": {
+        "author_id": "5383942",
+        "created_at": "2023-04-07T15:45:41.000Z",
+        "edit_history_tweet_ids": [
+            "1644365839771025410"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 122,
+                    "normalized_text": "GSK",
+                    "probability": 0.6276,
+                    "start": 120,
+                    "type": "Organization"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "India",
+                    "probability": 0.9137,
+                    "start": 253,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "4739027047",
+                    "start": 0,
+                    "username": "suvam12680953"
+                },
+                {
+                    "end": 31,
+                    "id": "730898412",
+                    "start": 15,
+                    "username": "GSK_ResponseCtr"
+                },
+                {
+                    "end": 38,
+                    "id": "22623663",
+                    "start": 32,
+                    "username": "GSKUS"
+                },
+                {
+                    "end": 51,
+                    "id": "952161494111682560",
+                    "start": 39,
+                    "username": "GskMedia_PR"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How can we help you? Share your comments/ queries or feedback with us.",
+                    "display_url": "india-pharma.gsk.com/en-in/contact-\u2026",
+                    "end": 283,
+                    "expanded_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 260,
+                    "status": 200,
+                    "title": "Contact Us | GSK India",
+                    "unwound_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "url": "https://t.co/1fFJ3lDjev"
+                }
+            ]
+        },
+        "id": "1644365839771025410",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 49,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@suvam12680953 @GSK_ResponseCtr @GSKUS @GskMedia_PR Thank you for making us aware of this content.  This is not genuine GSK content and is the subject of ongoing legal proceedings.\n\nIf you have additional questions, please get in touch with our team in India: https://t.co/1fFJ3lDjev"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "1718890148451303915": {
+        "attachments": {
+            "media_keys": [
+                "3_1718890145313652736"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-30T07:18:41.000Z",
+        "edit_history_tweet_ids": [
+            "1718890148451303915"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "cancer",
+                    "probability": 0.5763,
+                    "start": 93,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "media"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Latest press releases, media assets and global media contacts",
+                    "display_url": "gsk.to/49bwJKy",
+                    "end": 146,
+                    "expanded_url": "https://gsk.to/49bwJKy",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1718890193368084480/zpawc3Ke?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1718890193368084480/zpawc3Ke?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 123,
+                    "status": 200,
+                    "title": "Media | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media?linkId=100000224114163",
+                    "url": "https://t.co/XP1hMStFjB"
+                },
+                {
+                    "display_url": "pic.twitter.com/07EdLarpXE",
+                    "end": 170,
+                    "expanded_url": "https://twitter.com/GSK/status/1718890148451303915/photo/1",
+                    "media_key": "3_1718890145313652736",
+                    "start": 147,
+                    "url": "https://t.co/07EdLarpXE"
+                }
+            ]
+        },
+        "id": "1718890148451303915",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5250,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "#News for #investors and #media: Today we announced positive headline results evaluating our cancer therapy. \n\nLearn more: https://t.co/XP1hMStFjB https://t.co/07EdLarpXE"
+    }
+}

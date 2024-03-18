@@ -1,0 +1,55 @@
+{
+    "1688855477709324288": {
+        "author_id": "5383942",
+        "created_at": "2023-08-08T10:11:37.000Z",
+        "edit_history_tweet_ids": [
+            "1688855477709324288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "malaria",
+                    "probability": 0.8304,
+                    "start": 120,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 127,
+                    "start": 119,
+                    "tag": "malaria"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 175,
+                    "id": "20543416",
+                    "start": 162,
+                    "username": "BBCNewsnight"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/BBCNewsnight/s\u2026",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/BBCNewsnight/status/1687228377462132736",
+                    "start": 187,
+                    "url": "https://t.co/nAy68sGDGB"
+                }
+            ]
+        },
+        "id": "1688855477709324288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8459,
+            "like_count": 30,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "A scientific breakthrough! Working with partners, our scientists have made a remarkable discovery in the fight against #malaria. \ud83e\udd9f\n\nTo learn more, check out this @BBCNewsnight segment. \ud83d\udc47 https://t.co/nAy68sGDGB"
+    }
+}

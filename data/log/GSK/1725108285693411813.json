@@ -1,0 +1,60 @@
+{
+    "1725108285693411813": {
+        "attachments": {
+            "media_keys": [
+                "13_1725108203132755969"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-16T11:07:20.000Z",
+        "edit_history_tweet_ids": [
+            "1725108285693411813"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "STEM",
+                    "probability": 0.5957,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "GSKSTEMUK",
+                    "probability": 0.6102,
+                    "start": 207,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 216,
+                    "start": 206,
+                    "tag": "GSKSTEMUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/oQ0XkbOoBo",
+                    "end": 240,
+                    "expanded_url": "https://twitter.com/GSK/status/1725108285693411813/video/1",
+                    "media_key": "13_1725108203132755969",
+                    "start": 217,
+                    "url": "https://t.co/oQ0XkbOoBo"
+                }
+            ]
+        },
+        "id": "1725108285693411813",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3101,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 5
+        },
+        "text": "We\u2019re investing in making STEM education more equitable to inspire and empower the next generation of diverse innovators who can help us discover and develop future medicines and vaccines. Find out more \ud83d\udc47\n\n#GSKSTEMUK https://t.co/oQ0XkbOoBo"
+    }
+}

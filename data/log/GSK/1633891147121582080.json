@@ -1,0 +1,68 @@
+{
+    "1633891147121582080": {
+        "attachments": {
+            "media_keys": [
+                "3_1633891136845561870"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-09T18:03:00.000Z",
+        "edit_history_tweet_ids": [
+            "1633891147121582080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 257,
+                    "normalized_text": "GSKAnnualReport",
+                    "probability": 0.6209,
+                    "start": 243,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 16,
+                    "start": 10,
+                    "tag": "Media"
+                },
+                {
+                    "end": 31,
+                    "start": 21,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 258,
+                    "start": 242,
+                    "tag": "GSKAnnualReport"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/9CMyeLKA5t",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/GSK/status/1633891147121582080/photo/1",
+                    "media_key": "3_1633891136845561870",
+                    "start": 259,
+                    "url": "https://t.co/9CMyeLKA5t"
+                }
+            ]
+        },
+        "id": "1633891147121582080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5883,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 2
+        },
+        "text": "#News for #Media and #Investors\nWe\u2019re publishing our Annual Report tomorrow. In 2022 we\nbecame a focused global biopharma uniting science, technology and talent with the aim to positively impact the health of 2.5bn people by the end of 2030.\n#GSKAnnualReport https://t.co/9CMyeLKA5t"
+    }
+}

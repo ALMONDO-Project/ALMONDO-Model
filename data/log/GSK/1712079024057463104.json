@@ -1,0 +1,86 @@
+{
+    "1712079024057463104": {
+        "attachments": {
+            "media_keys": [
+                "3_1712079013118685184"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-11T12:13:42.000Z",
+        "edit_history_tweet_ids": [
+            "1712079024057463104"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 168,
+                    "normalized_text": "TLM23",
+                    "probability": 0.7834,
+                    "start": 164,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 9,
+                    "tag": "investors"
+                },
+                {
+                    "end": 30,
+                    "start": 24,
+                    "tag": "media"
+                },
+                {
+                    "end": 169,
+                    "start": 163,
+                    "tag": "TLM23"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Keep up to date with our latest new announcements",
+                    "display_url": "gsk.to/3tqlDB0",
+                    "end": 211,
+                    "expanded_url": "https://gsk.to/3tqlDB0",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1712079027593150464/r085gDIK?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1712079027593150464/r085gDIK?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 188,
+                    "status": 200,
+                    "title": "Press releases | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/?linkId=100000221831358",
+                    "url": "https://t.co/RoYUV5zVb6"
+                },
+                {
+                    "display_url": "pic.twitter.com/wPLnRkNxhU",
+                    "end": 235,
+                    "expanded_url": "https://twitter.com/GSK/status/1712079024057463104/photo/1",
+                    "media_key": "3_1712079013118685184",
+                    "start": 212,
+                    "url": "https://t.co/wPLnRkNxhU"
+                }
+            ]
+        },
+        "id": "1712079024057463104",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2182,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "News for #investors and #media: We are committed to improving outcomes in hepatology and look forward to sharing new data with the broader hepatology community at #TLM23. \n\nFind out more: https://t.co/RoYUV5zVb6 https://t.co/wPLnRkNxhU"
+    }
+}

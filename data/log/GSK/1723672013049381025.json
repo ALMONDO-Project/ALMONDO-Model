@@ -1,0 +1,104 @@
+{
+    "1723672013049381025": {
+        "attachments": {
+            "media_keys": [
+                "3_1723671989045374976",
+                "3_1723671995655585792",
+                "3_1723672001670242304",
+                "3_1723672007827460096"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-12T12:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1723672013049381025"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "lupus",
+                    "probability": 0.5902,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "ACR23",
+                    "probability": 0.7707,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "lupus",
+                    "probability": 0.4893,
+                    "start": 251,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 74,
+                    "start": 68,
+                    "tag": "lupus"
+                },
+                {
+                    "end": 85,
+                    "start": 79,
+                    "tag": "ACR23"
+                },
+                {
+                    "end": 256,
+                    "start": 250,
+                    "tag": "lupus"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/PnHOBtjt92",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/GSK/status/1723672013049381025/photo/1",
+                    "media_key": "3_1723671989045374976",
+                    "start": 259,
+                    "url": "https://t.co/PnHOBtjt92"
+                },
+                {
+                    "display_url": "pic.twitter.com/PnHOBtjt92",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/GSK/status/1723672013049381025/photo/1",
+                    "media_key": "3_1723671995655585792",
+                    "start": 259,
+                    "url": "https://t.co/PnHOBtjt92"
+                },
+                {
+                    "display_url": "pic.twitter.com/PnHOBtjt92",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/GSK/status/1723672013049381025/photo/1",
+                    "media_key": "3_1723672001670242304",
+                    "start": 259,
+                    "url": "https://t.co/PnHOBtjt92"
+                },
+                {
+                    "display_url": "pic.twitter.com/PnHOBtjt92",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/GSK/status/1723672013049381025/photo/1",
+                    "media_key": "3_1723672007827460096",
+                    "start": 259,
+                    "url": "https://t.co/PnHOBtjt92"
+                }
+            ]
+        },
+        "id": "1723672013049381025",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3029,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "As part of our ongoing ambition to improve outcomes for people with #lupus, at #ACR23 we\u2019re sharing data from 15 abstracts on this topic. \n\nThis is what our dedicated people have to say about the importance of advancing the science and management of #lupus \ud83d\udc47 https://t.co/PnHOBtjt92"
+    }
+}

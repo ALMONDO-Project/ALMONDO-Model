@@ -1,0 +1,68 @@
+{
+    "1631625471891845121": {
+        "attachments": {
+            "media_keys": [
+                "3_1631625468267970560"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-03T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1631625471891845121"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 193,
+                    "normalized_text": "ShinglesAwarenessWeek",
+                    "probability": 0.5865,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 48,
+                    "tag": "shingles"
+                },
+                {
+                    "end": 95,
+                    "start": 91,
+                    "tag": "PHN"
+                },
+                {
+                    "end": 194,
+                    "start": 172,
+                    "tag": "ShinglesAwarenessWeek"
+                },
+                {
+                    "end": 207,
+                    "start": 195,
+                    "tag": "chronicpain"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/JAUYw7NWgH",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/GSK/status/1631625471891845121/photo/1",
+                    "media_key": "3_1631625468267970560",
+                    "start": 208,
+                    "url": "https://t.co/JAUYw7NWgH"
+                }
+            ]
+        },
+        "id": "1631625471891845121",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4796,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "Did you know that between 10-18% of people with #shingles develop post-herpetic neuralgia (#PHN)? \n\nThis debilitating nerve pain can last from 3 months to several years. \n\n#ShinglesAwarenessWeek #chronicpain https://t.co/JAUYw7NWgH"
+    }
+}

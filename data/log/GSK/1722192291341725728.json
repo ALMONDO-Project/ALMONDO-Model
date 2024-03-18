@@ -1,0 +1,89 @@
+{
+    "1722192291341725728": {
+        "attachments": {
+            "media_keys": [
+                "13_1722192237331660800"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-08T10:00:13.000Z",
+        "edit_history_tweet_ids": [
+            "1722192291341725728"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "HIV",
+                    "probability": 0.9557,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "tuberculosis",
+                    "probability": 0.8117,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "ScienceOnTheSofa",
+                    "probability": 0.6092,
+                    "start": 209,
+                    "type": "Other"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "HIVStigma",
+                    "probability": 0.9381,
+                    "start": 245,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 88,
+                    "start": 84,
+                    "tag": "HIV"
+                },
+                {
+                    "end": 129,
+                    "start": 116,
+                    "tag": "tuberculosis"
+                },
+                {
+                    "end": 225,
+                    "start": 208,
+                    "tag": "ScienceOnTheSofa"
+                },
+                {
+                    "end": 254,
+                    "start": 244,
+                    "tag": "HIVStigma"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/k4QGJDeav4",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/GSK/status/1722192291341725728/video/1",
+                    "media_key": "13_1722192237331660800",
+                    "start": 255,
+                    "url": "https://t.co/k4QGJDeav4"
+                }
+            ]
+        },
+        "id": "1722192291341725728",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3027,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Community activism drives health innovation. Let's harness the lessons learned from #HIV and amplify our voices for #tuberculosis. Together, we can help address the needs of those living with both. Watch our #ScienceOnTheSofa episode for more. #HIVStigma https://t.co/k4QGJDeav4"
+    }
+}

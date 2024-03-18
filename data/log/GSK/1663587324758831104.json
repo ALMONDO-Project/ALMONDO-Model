@@ -1,0 +1,50 @@
+{
+    "1663587324758831104": {
+        "author_id": "5383942",
+        "created_at": "2023-05-30T16:45:00.000Z",
+        "edit_history_tweet_ids": [
+            "1663587324758831104"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "EULAR2023",
+                    "probability": 0.6482,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "Milan",
+                    "probability": 0.9631,
+                    "start": 34,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 20,
+                    "tag": "EULAR2023"
+                },
+                {
+                    "end": 139,
+                    "start": 126,
+                    "tag": "immunesystem"
+                }
+            ]
+        },
+        "id": "1663587324758831104",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3451,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "This week, we're at #EULAR2023 in Milan where we come together with global experts all focused on harnessing the power of the #immunesystem to modify the course of immune-mediated diseases \u2014improving the lives of people who need better treatment options."
+    }
+}

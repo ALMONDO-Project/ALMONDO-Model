@@ -1,0 +1,56 @@
+{
+    "1676877457276690432": {
+        "author_id": "5383942",
+        "created_at": "2023-07-06T08:55:15.000Z",
+        "edit_history_tweet_ids": [
+            "1676877457276690432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "GSK",
+                    "probability": 0.7384,
+                    "start": 78,
+                    "type": "Organization"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "malaria",
+                    "probability": 0.6822,
+                    "start": 154,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 161,
+                    "start": 153,
+                    "tag": "malaria"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3JMGjZ9",
+                    "end": 244,
+                    "expanded_url": "https://gsk.to/3JMGjZ9",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/malaria-vaccine-children-mosquitos-single-dose-treatment/",
+                    "url": "https://t.co/jLBiahn24Q"
+                }
+            ]
+        },
+        "id": "1676877457276690432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 5553,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "\u201cWe\u2019re not dealing with a static enemy\u2026 we have to stay on top of this.\u201d \n\nAt GSK, we\u2019ve been uniting our science, technology and talent to get ahead of #malaria for over 70 years, and we\u2019re not stopping. Find out more \ud83d\udc47 https://t.co/jLBiahn24Q"
+    }
+}
