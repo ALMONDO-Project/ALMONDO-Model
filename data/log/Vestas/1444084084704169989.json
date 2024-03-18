@@ -1,0 +1,73 @@
+{
+    "1444084084704169989": {
+        "author_id": "156646851",
+        "created_at": "2021-10-01T23:37:30.000Z",
+        "edit_history_tweet_ids": [
+            "1444084084704169989"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Laura Beane",
+                    "probability": 0.7309,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "Lars Villadsen",
+                    "probability": 0.7414,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "A Word About Wind",
+                    "probability": 0.8551,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "American Power",
+                    "probability": 0.4846,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5018,
+                    "start": 125,
+                    "type": "Place"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "North America",
+                    "probability": 0.9179,
+                    "start": 243,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 131,
+                    "start": 124,
+                    "tag": "Vestas"
+                }
+            ]
+        },
+        "id": "1444084084704169989",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Laura Beane &amp; Lars Villadsen are named as influential leaders in A Word About Wind\u2019s Top 100 North American Power List! #Vestas is proud to bring our technical expertise to the renewable energy sector and unlock new wind energy markets in North America."
+    }
+}

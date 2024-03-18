@@ -1,0 +1,52 @@
+{
+    "1716813300212830590": {
+        "author_id": "156646851",
+        "created_at": "2023-10-24T13:46:02.000Z",
+        "edit_history_tweet_ids": [
+            "1716813300212830590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 113,
+                    "normalized_text": "Europe",
+                    "probability": 0.9763,
+                    "start": 108,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "157981564",
+                    "start": 0,
+                    "username": "EU_Commission"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The European Commission\u2019s Wind Power Package Action Plan is an important step in the right direction to deliver clean, affordable, and secure energy for\u2026",
+                    "display_url": "linkedin.com/posts/vestas_w\u2026",
+                    "end": 210,
+                    "expanded_url": "https://www.linkedin.com/posts/vestas_windenergy-energytransition-eugreendeal-activity-7122565152108883969-4J4n?utm_source=share&utm_medium=member_ios",
+                    "start": 187,
+                    "status": 200,
+                    "title": "Vestas on LinkedIn: #windenergy #energytransition #eugreendeal",
+                    "unwound_url": "https://www.linkedin.com/posts/vestas_windenergy-energytransition-eugreendeal-activity-7122565152108883969-4J4n?utm_source=share&utm_medium=member_ios",
+                    "url": "https://t.co/QIxV4Xt96F"
+                }
+            ]
+        },
+        "id": "1716813300212830590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 173,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@EU_Commission An important step in the right direction to deliver clean, affordable, and secure energy for Europe. \ud83d\udc4d \nWe look forward to seeing this followed up with implementation. \n\u27a1\ufe0f https://t.co/QIxV4Xt96F"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1636691705549271045": {
+        "author_id": "156646851",
+        "created_at": "2023-03-17T11:31:25.000Z",
+        "edit_history_tweet_ids": [
+            "1636691705549271045"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "PowerToX",
+                    "probability": 0.7109,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 0,
+                    "tag": "PowerToX"
+                }
+            ]
+        },
+        "id": "1636691705549271045",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1354,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "#PowerToX is a crucial technology on the journey towards decarbonisation and indirect electrification of hard-to-abate sectors like heavy transport and chemical industries. This project provides the basis for connecting green electricity and hydrogen at an industrial scale."
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1518409488528781318": {
+        "attachments": {
+            "media_keys": [
+                "3_1518409484737126400"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-04-25T02:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1518409488528781318"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Tien Li Offshore Wind Technology",
+                    "probability": 0.8053,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4283,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Taiwan",
+                    "probability": 0.9723,
+                    "start": 131,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 67,
+                    "start": 60,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/q6hmbag",
+                    "end": 250,
+                    "expanded_url": "https://fcld.ly/q6hmbag",
+                    "start": 227,
+                    "url": "https://t.co/nNyo3rC9aK"
+                },
+                {
+                    "display_url": "pic.twitter.com/gcCpn54akm",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/Vestas/status/1518409488528781318/photo/1",
+                    "media_key": "3_1518409484737126400",
+                    "start": 251,
+                    "url": "https://t.co/gcCpn54akm"
+                }
+            ]
+        },
+        "id": "1518409488528781318",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 43,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Together with our partner Tien Li Offshore Wind Technology, #Vestas has produced the first V174-9.5 MW\u2122 blade at our facilities in Taiwan, reaching another milestone in localising our offshore turbine production. \n\nLearn more: https://t.co/nNyo3rC9aK https://t.co/gcCpn54akm"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "1507335624147230723": {
+        "author_id": "156646851",
+        "created_at": "2022-03-25T12:36:32.000Z",
+        "edit_history_tweet_ids": [
+            "1507335624147230723"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7714,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Karnataka",
+                    "probability": 0.7493,
+                    "start": 65,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "India",
+                    "probability": 0.9622,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "Vestas",
+                    "probability": 0.62,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 53,
+                    "id": "1283789108083453953",
+                    "start": 39,
+                    "username": "O2Power_India"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 188,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-a-51-mw-order-from-o2-power-in-india-c3532701",
+                    "start": 165,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-a-51-mw-order-from-o2-power-in-india-c3532701",
+                    "url": "https://t.co/fJqV6OPNMu"
+                }
+            ]
+        },
+        "id": "1507335624147230723",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#Vestas has secured a 51 MW order from @O2Power_India located in Karnataka, India. \ud83c\uddee\ud83c\uddf3\nVestas will supply, install and commission a total of 23 V120-2.2 MW turbines.\nhttps://t.co/fJqV6OPNMu"
+    }
+}

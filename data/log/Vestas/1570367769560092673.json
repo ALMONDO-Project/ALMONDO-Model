@@ -1,0 +1,67 @@
+{
+    "1570367769560092673": {
+        "attachments": {
+            "media_keys": [
+                "3_1570367767039057922"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-09-15T11:03:46.000Z",
+        "edit_history_tweet_ids": [
+            "1570367769560092673"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "ESG",
+                    "probability": 0.6464,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Position Green",
+                    "probability": 0.3547,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3329,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/8lylvrd",
+                    "end": 233,
+                    "expanded_url": "https://fcld.ly/8lylvrd",
+                    "start": 210,
+                    "url": "https://t.co/1tChDBFsXW"
+                },
+                {
+                    "display_url": "pic.twitter.com/VdHmZA3tVg",
+                    "end": 257,
+                    "expanded_url": "https://twitter.com/Vestas/status/1570367769560092673/photo/1",
+                    "media_key": "3_1570367767039057922",
+                    "start": 234,
+                    "url": "https://t.co/VdHmZA3tVg"
+                }
+            ]
+        },
+        "id": "1570367769560092673",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 40,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Our Sustainability efforts are recognised in the ESG 100 analysis by Position Green, where Vestas is one of five Danish companies to receive an \"A\" score for our ESG reporting. Read more about the rating here: https://t.co/1tChDBFsXW https://t.co/VdHmZA3tVg"
+    }
+}

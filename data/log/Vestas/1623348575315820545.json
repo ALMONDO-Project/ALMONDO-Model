@@ -1,0 +1,41 @@
+{
+    "1623348575315820545": {
+        "author_id": "156646851",
+        "created_at": "2023-02-08T15:50:35.000Z",
+        "edit_history_tweet_ids": [
+            "1623348575315820545"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "104237736",
+                    "start": 33,
+                    "username": "Bloomberg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bloomberg.com/news/articles/\u2026",
+                    "end": 126,
+                    "expanded_url": "https://www.bloomberg.com/news/articles/2023-02-08/vestas-says-wind-turbine-recycling-solution-to-keep-blades-out-of-landfills",
+                    "start": 103,
+                    "status": 200,
+                    "unwound_url": "https://www.bloomberg.com/news/articles/2023-02-08/vestas-says-wind-turbine-recycling-solution-to-keep-blades-out-of-landfills",
+                    "url": "https://t.co/SGlAIGd2oe"
+                }
+            ]
+        },
+        "id": "1623348575315820545",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 3997,
+            "like_count": 32,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "A new era for the wind industry! @Bloomberg reports on circularity solution for wind turbine blades\u00a0\u2935\ufe0f\nhttps://t.co/SGlAIGd2oe"
+    }
+}

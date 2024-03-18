@@ -1,0 +1,70 @@
+{
+    "1633464406339391489": {
+        "author_id": "156646851",
+        "created_at": "2023-03-08T13:47:17.000Z",
+        "edit_history_tweet_ids": [
+            "1633464406339391489"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5163,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "RPM",
+                    "probability": 0.4222,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Prescott",
+                    "probability": 0.4034,
+                    "start": 63,
+                    "type": "Other"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "Iowa",
+                    "probability": 0.7583,
+                    "start": 88,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "USA",
+                    "probability": 0.951,
+                    "start": 94,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3wpCy",
+                    "end": 211,
+                    "expanded_url": "https://fal.cn/3wpCy",
+                    "start": 188,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2023/vestas-secures-56-mw-order-in-the-usa-c3729657",
+                    "url": "https://t.co/nDKNj6ZOZq"
+                }
+            ]
+        },
+        "id": "1633464406339391489",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2847,
+            "like_count": 23,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Vestas has received a 56 MW order from RPM Access to power the Prescott wind project in Iowa, USA. \ud83c\uddfa\ud83c\uddf8\nThe order consists of 13 V150-4.2 MW wind turbines delivered in 4.3 MW operating mode.https://t.co/nDKNj6ZOZq"
+    }
+}

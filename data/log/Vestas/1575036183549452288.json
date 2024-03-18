@@ -1,0 +1,49 @@
+{
+    "1575036183549452288": {
+        "author_id": "156646851",
+        "created_at": "2022-09-28T08:14:23.000Z",
+        "edit_history_tweet_ids": [
+            "1575036183549452288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4298,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9613,
+                    "start": 54,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "linkedin.com/feed/update/ur\u2026",
+                    "end": 161,
+                    "expanded_url": "https://www.linkedin.com/feed/update/urn:li:activity:6980787298044932096/",
+                    "start": 138,
+                    "status": 200,
+                    "unwound_url": "https://www.linkedin.com/feed/update/urn:li:activity:6980787298044932096/",
+                    "url": "https://t.co/Zpaqy8gEp5"
+                }
+            ]
+        },
+        "id": "1575036183549452288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "With energy bills continuing to skyrocket, Vestas CEO Henrik Andersen explains why, now more than ever, we have to prioritise renewables: https://t.co/Zpaqy8gEp5"
+    }
+}

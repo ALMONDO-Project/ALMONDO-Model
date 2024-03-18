@@ -1,0 +1,47 @@
+{
+    "1460951470711394304": {
+        "author_id": "156646851",
+        "created_at": "2021-11-17T12:42:28.000Z",
+        "edit_history_tweet_ids": [
+            "1460951470711394304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 213,
+                    "normalized_text": "Anders Nielsen",
+                    "probability": 0.9562,
+                    "start": 200,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 185,
+                    "start": 167,
+                    "tag": "sustainableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/uthjnc8",
+                    "end": 276,
+                    "expanded_url": "https://fcld.ly/uthjnc8",
+                    "start": 253,
+                    "url": "https://t.co/5p8LIrW1AC"
+                }
+            ]
+        },
+        "id": "1460951470711394304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "\"We're moving forward in our modularisation journey by optimising our approach on a system level to enable the required scale up of renewable electricity to realise a #sustainableenergy system\". CTO, Anders Nielsen, discusses the future of modularity \u2935 https://t.co/5p8LIrW1AC"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1488059577690120192": {
+        "attachments": {
+            "media_keys": [
+                "3_1488059563765026819",
+                "3_1488059572749312001"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-01-31T08:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1488059577690120192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4984,
+                    "start": 3,
+                    "type": "Place"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "Nakskov",
+                    "probability": 0.9184,
+                    "start": 29,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/A9jHkyqTr1",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1488059577690120192/photo/1",
+                    "media_key": "3_1488059563765026819",
+                    "start": 280,
+                    "url": "https://t.co/A9jHkyqTr1"
+                },
+                {
+                    "display_url": "pic.twitter.com/A9jHkyqTr1",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1488059577690120192/photo/1",
+                    "media_key": "3_1488059572749312001",
+                    "start": 280,
+                    "url": "https://t.co/A9jHkyqTr1"
+                }
+            ]
+        },
+        "id": "1488059577690120192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 86,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 18
+        },
+        "text": "At Vestas\u2019 blades factory in Nakskov \ud83c\udde9\ud83c\uddf0, the very first V236-15.0 MW\u2122 blade is currently being produced! \nOnce completed, the 115.5m long blade will undergo a thorough inspection process to validate the production capability of the design for critical-to-quality characteristics. https://t.co/A9jHkyqTr1"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1674435572142841861": {
+        "attachments": {
+            "media_keys": [
+                "3_1674435495584038912"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-06-29T15:12:04.000Z",
+        "edit_history_tweet_ids": [
+            "1674435572142841861"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "V236",
+                    "probability": 0.5817,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Statue of Liberty",
+                    "probability": 0.4577,
+                    "start": 66,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/i2uHxYYxbz",
+                    "end": 166,
+                    "expanded_url": "https://twitter.com/Vestas/status/1674435572142841861/photo/1",
+                    "media_key": "3_1674435495584038912",
+                    "start": 143,
+                    "url": "https://t.co/i2uHxYYxbz"
+                }
+            ]
+        },
+        "id": "1674435572142841861",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3401,
+            "like_count": 48,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 10
+        },
+        "text": "Did you know the V236-15.0 MW\u2122 turbine's blade is taller than the Statue of Liberty, with a swept area larger than 8 American football fields? https://t.co/i2uHxYYxbz"
+    }
+}

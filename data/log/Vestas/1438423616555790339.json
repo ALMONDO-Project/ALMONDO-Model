@@ -1,0 +1,95 @@
+{
+    "1438423616555790339": {
+        "attachments": {
+            "media_keys": [
+                "3_1438423614102163461"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-16T08:44:49.000Z",
+        "edit_history_tweet_ids": [
+            "1438423616555790339"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.686,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Eurowind Energy",
+                    "probability": 0.6806,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Poland",
+                    "probability": 0.9467,
+                    "start": 93,
+                    "type": "Place"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Poland",
+                    "probability": 0.9405,
+                    "start": 140,
+                    "type": "Place"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "Eurowind",
+                    "probability": 0.5027,
+                    "start": 191,
+                    "type": "Other"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5697,
+                    "start": 225,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/hv3om7l",
+                    "end": 279,
+                    "expanded_url": "https://fcld.ly/hv3om7l",
+                    "start": 256,
+                    "url": "https://t.co/7aQkKa7xZF"
+                },
+                {
+                    "display_url": "pic.twitter.com/HObFnTQNvs",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1438423616555790339/photo/1",
+                    "media_key": "3_1438423614102163461",
+                    "start": 280,
+                    "url": "https://t.co/HObFnTQNvs"
+                }
+            ]
+        },
+        "id": "1438423616555790339",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 33,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "#Vestas has received orders for 3\u20e3 wind projects totalling 70 MW from Eurowind Energy A/S in Poland \ud83c\uddf5\ud83c\uddf1. The projects are located in central Poland, adding to the approx. 140 MW at 8 projects Eurowind has already secured with Vestas in the last two years \u27a1 https://t.co/7aQkKa7xZF https://t.co/HObFnTQNvs"
+    }
+}

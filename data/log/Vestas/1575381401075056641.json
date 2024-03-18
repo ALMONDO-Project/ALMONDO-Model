@@ -1,0 +1,49 @@
+{
+    "1575381401075056641": {
+        "author_id": "156646851",
+        "created_at": "2022-09-29T07:06:09.000Z",
+        "edit_history_tweet_ids": [
+            "1575381401075056641"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3692,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "USA",
+                    "probability": 0.9784,
+                    "start": 35,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3shYw",
+                    "end": 124,
+                    "expanded_url": "https://fal.cn/3shYw",
+                    "start": 101,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-185-mw-order-in-the-usa-c3638623",
+                    "url": "https://t.co/4Wh6AQJ7qe"
+                }
+            ]
+        },
+        "id": "1575381401075056641",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 27,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Vestas secures 185 MW order in the USA \ud83c\uddfa\ud83c\uddf8\nThe order consists of 41 V150-4.5 MW turbines.\nLearn more: https://t.co/4Wh6AQJ7qe"
+    }
+}

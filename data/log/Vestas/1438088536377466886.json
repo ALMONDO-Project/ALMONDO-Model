@@ -1,0 +1,81 @@
+{
+    "1438088536377466886": {
+        "attachments": {
+            "media_keys": [
+                "13_1438087964534452225"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-15T10:33:20.000Z",
+        "edit_history_tweet_ids": [
+            "1438088536377466886"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Moray East",
+                    "probability": 0.5601,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Moray East",
+                    "probability": 0.8193,
+                    "start": 94,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Vestas",
+                    "probability": 0.8683,
+                    "start": 124,
+                    "type": "Place"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "Scotland",
+                    "probability": 0.8678,
+                    "start": 135,
+                    "type": "Organization"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "UK",
+                    "probability": 0.893,
+                    "start": 269,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 130,
+                    "start": 123,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/yXSwuMFtRT",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Vestas/status/1438088536377466886/video/1",
+                    "media_key": "13_1438087964534452225",
+                    "start": 279,
+                    "url": "https://t.co/yXSwuMFtRT"
+                }
+            ]
+        },
+        "id": "1438088536377466886",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 58,
+            "quote_count": 2,
+            "reply_count": 6,
+            "retweet_count": 10
+        },
+        "text": "Yesterday the 100th and final V164-9.5 MW\u2122 turbine was installed on Moray East wind farm. \n\n\ud83c\udfc6 Moray East thus becomes both #Vestas and Scotland's largest wind project in terms of capacity and, it will provide enough power for the average requirements of around 950,000 UK homes. https://t.co/yXSwuMFtRT"
+    }
+}

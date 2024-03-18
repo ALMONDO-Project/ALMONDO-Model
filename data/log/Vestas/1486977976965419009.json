@@ -1,0 +1,87 @@
+{
+    "1486977976965419009": {
+        "attachments": {
+            "media_keys": [
+                "3_1486977975073525762"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-01-28T08:22:31.000Z",
+        "edit_history_tweet_ids": [
+            "1486977976965419009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "InternationalLEGODay",
+                    "probability": 0.5019,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Vestas Lego Turbine",
+                    "probability": 0.8396,
+                    "start": 88,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "LEGO",
+                    "probability": 0.3723,
+                    "start": 150,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 13,
+                    "tag": "InternationalLEGODay"
+                },
+                {
+                    "end": 154,
+                    "start": 149,
+                    "tag": "LEGO"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 248,
+                    "id": "295325513",
+                    "start": 237,
+                    "username": "LEGO_Group"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/h90f74e",
+                    "end": 235,
+                    "expanded_url": "https://fcld.ly/h90f74e",
+                    "start": 212,
+                    "url": "https://t.co/ecAj5Ssl8z"
+                },
+                {
+                    "display_url": "pic.twitter.com/VOeAGbSR3P",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/Vestas/status/1486977976965419009/photo/1",
+                    "media_key": "3_1486977975073525762",
+                    "start": 249,
+                    "url": "https://t.co/VOeAGbSR3P"
+                }
+            ]
+        },
+        "id": "1486977976965419009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 29,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "To celebrate #InternationalLEGODay, we are providing you the chance to win an exclusive Vestas Lego Turbine.\nBuild your own freestyle turbine out of #LEGO or other creative materials. \nJoin the challenge here \u27a1\ufe0f https://t.co/ecAj5Ssl8z\n\n@LEGO_Group https://t.co/VOeAGbSR3P"
+    }
+}

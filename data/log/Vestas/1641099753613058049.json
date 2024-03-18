@@ -1,0 +1,65 @@
+{
+    "1641099753613058049": {
+        "author_id": "156646851",
+        "created_at": "2023-03-29T15:27:26.000Z",
+        "edit_history_tweet_ids": [
+            "1641099753613058049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "REPowerEU",
+                    "probability": 0.458,
+                    "start": 9,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 8,
+                    "tag": "REPowerEU"
+                },
+                {
+                    "end": 209,
+                    "start": 198,
+                    "tag": "windenergy"
+                },
+                {
+                    "end": 237,
+                    "start": 223,
+                    "tag": "climatecrisis"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 92,
+                    "id": "39255883",
+                    "start": 81,
+                    "username": "WindEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/WindEurope/sta\u2026",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/WindEurope/status/1641087261809823746",
+                    "start": 264,
+                    "url": "https://t.co/1VmE23LWfE"
+                }
+            ]
+        },
+        "id": "1641099753613058049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3987,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 9
+        },
+        "text": "To meet #REPowerEU's 2030 objectives, \ud83c\uddea\ud83c\uddfa needs 31 GW of new turbines every year. @WindEurope's update points to a problem, indeed. We urge policy makers to remove permitting bottlenecks, and enable #windenergy to solve the #climatecrisis at the speed the \ud83c\udf0e needs. https://t.co/1VmE23LWfE"
+    }
+}

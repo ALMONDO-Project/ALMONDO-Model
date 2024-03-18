@@ -1,0 +1,111 @@
+{
+    "1503174116362305541": {
+        "attachments": {
+            "media_keys": [
+                "3_1503174103368351744",
+                "3_1503174109060026374",
+                "3_1503174114563051521"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-03-14T01:00:11.000Z",
+        "edit_history_tweet_ids": [
+            "1503174116362305541"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7621,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "WindExpo",
+                    "probability": 0.5062,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Japan",
+                    "probability": 0.7787,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Tokyo Big Site East Hall",
+                    "probability": 0.5994,
+                    "start": 180,
+                    "type": "Other"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "Japan",
+                    "probability": 0.8479,
+                    "start": 232,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 42,
+                    "start": 33,
+                    "tag": "WindExpo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "windexpo.jp/ja-jp.html",
+                    "end": 264,
+                    "expanded_url": "https://www.windexpo.jp/ja-jp.html",
+                    "start": 241,
+                    "url": "https://t.co/kTMfsqtmQy"
+                },
+                {
+                    "display_url": "pic.twitter.com/bJBKOZBNKZ",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Vestas/status/1503174116362305541/photo/1",
+                    "media_key": "3_1503174103368351744",
+                    "start": 265,
+                    "url": "https://t.co/bJBKOZBNKZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/bJBKOZBNKZ",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Vestas/status/1503174116362305541/photo/1",
+                    "media_key": "3_1503174109060026374",
+                    "start": 265,
+                    "url": "https://t.co/bJBKOZBNKZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/bJBKOZBNKZ",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Vestas/status/1503174116362305541/photo/1",
+                    "media_key": "3_1503174114563051521",
+                    "start": 265,
+                    "url": "https://t.co/bJBKOZBNKZ"
+                }
+            ]
+        },
+        "id": "1503174116362305541",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#Vestas will be participating in #WindExpo Japan 2022. \nAt the booth, there will be a series of presentations and a VR experience corner.\nJoin us in person on 16-18 March 2022, at Tokyo Big Site East Hall 4, booth E29-6! \nWind Expo Japan \u27a1\ufe0f https://t.co/kTMfsqtmQy https://t.co/bJBKOZBNKZ"
+    }
+}

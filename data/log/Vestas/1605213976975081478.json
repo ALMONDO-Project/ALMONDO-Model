@@ -1,0 +1,63 @@
+{
+    "1605213976975081478": {
+        "author_id": "156646851",
+        "created_at": "2022-12-20T14:50:10.000Z",
+        "edit_history_tweet_ids": [
+            "1605213976975081478"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5119,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Italy",
+                    "probability": 0.9855,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4357,
+                    "start": 138,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Italy",
+                    "probability": 0.9759,
+                    "start": 175,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3uzFS",
+                    "end": 263,
+                    "expanded_url": "https://fal.cn/3uzFS",
+                    "start": 240,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-signs-37-mw-order-for-enventus-wind-turbines-in--c3687869",
+                    "url": "https://t.co/2RxmhaQC2z"
+                }
+            ]
+        },
+        "id": "1605213976975081478",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1758,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Vestas signs 37 MW order in Italy \ud83c\uddee\ud83c\uddf9.\nThe order includes the supply and installation of six V162-6.2 MW wind turbines. With this project, Vestas strengthens its leadership in Italy, where the company has installed 4.9 GW of wind capacity.\n\nhttps://t.co/2RxmhaQC2z"
+    }
+}

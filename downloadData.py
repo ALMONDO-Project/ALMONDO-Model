@@ -4,8 +4,12 @@ import json
 import tweepy
 import tqdm
 import math
+import pickle
 from json.decoder import JSONDecodeError
 from utils import *
+
+class TweetAlreadyDumpedException():
+    pass
 
 #class definition
 
@@ -113,8 +117,12 @@ class UserDataDownload():
     #             pass         
             
     def dump_tweets(self, tweet, tweet_data):
-        with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
-            json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
+        if not os.path.exists(f'data/log/{self.username}/{tweet.id}.json'):
+            with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
+                json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
+        else:
+            raise TweetAlreadyDumpedException
+        
             
     def update_users_done(self):
         print(f'>>> finished with user {self.username}')
@@ -143,10 +151,14 @@ class UserDataDownload():
         
         print('>>> started retrieving tweets')
         for page in tqdm.tqdm(self.paginator):
-            try: 
+            try:
                 next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             except KeyError:
                 next_token = None
+                
+            with open(f'data/log/{self.username}/last_page.pickle', 'wb') as file:
+                pickle.dump(page, file)
+            
             try:    
                 for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
                     tweet_data = {tweet.data['id']: tweet.data}

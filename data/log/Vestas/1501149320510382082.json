@@ -1,0 +1,61 @@
+{
+    "1501149320510382082": {
+        "author_id": "156646851",
+        "created_at": "2022-03-08T10:54:22.000Z",
+        "edit_history_tweet_ids": [
+            "1501149320510382082"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5604,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "Portugal",
+                    "probability": 0.9722,
+                    "start": 38,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 73,
+                    "start": 64,
+                    "tag": "EnVentus"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/3inbj8b",
+                    "end": 273,
+                    "expanded_url": "https://fcld.ly/3inbj8b",
+                    "start": 250,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-first-enventus-order-in-portugal-c3520228",
+                    "url": "https://t.co/EDNRlkbMt1"
+                }
+            ]
+        },
+        "id": "1501149320510382082",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#Vestas has received a 42 MW order in Portugal \ud83c\uddf5\ud83c\uddf9 for the first #EnVentus turbines in the country. The contract includes two V162-6.2 MW, two V117-4.2 MW, six V126-3.45 MW turbines in 3.6 MW operating mode, and a 15-year AOM 5000 service agreement \u2935 https://t.co/EDNRlkbMt1"
+    }
+}

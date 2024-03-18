@@ -1,0 +1,88 @@
+{
+    "1438449051872137218": {
+        "attachments": {
+            "media_keys": [
+                "3_1438449047275196417"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-16T10:25:53.000Z",
+        "edit_history_tweet_ids": [
+            "1438449051872137218"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.476,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Big Sky Wind",
+                    "probability": 0.7927,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Illinois",
+                    "probability": 0.9634,
+                    "start": 75,
+                    "type": "Place"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Vitol Wind",
+                    "probability": 0.6835,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "Suzlon",
+                    "probability": 0.6491,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/8uvc7j2",
+                    "end": 282,
+                    "expanded_url": "https://fcld.ly/8uvc7j2",
+                    "start": 259,
+                    "url": "https://t.co/9kGIkYEIAp"
+                },
+                {
+                    "display_url": "pic.twitter.com/9Hz6VtMdmE",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Vestas/status/1438449051872137218/photo/1",
+                    "media_key": "3_1438449047275196417",
+                    "start": 283,
+                    "url": "https://t.co/9Hz6VtMdmE"
+                }
+            ]
+        },
+        "id": "1438449051872137218",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 39,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "#Vestas has received a 240 MW order to repower the Big Sky Wind project in Illinois \ud83c\uddfa\ud83c\uddf8 owned by Vitol Wind. The order consists of 104 V120-2.2 MW &amp; 5x V110-2.0 MW turbines in 2.2 MW operating mode, replacing the project\u2019s 109 Suzlon S88-2.1 MW turbines \u27a1 https://t.co/9kGIkYEIAp https://t.co/9Hz6VtMdmE"
+    }
+}

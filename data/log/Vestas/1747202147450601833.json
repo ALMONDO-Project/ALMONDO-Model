@@ -1,0 +1,60 @@
+{
+    "1747202147450601833": {
+        "attachments": {
+            "media_keys": [
+                "3_1747202127527641088"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2024-01-16T10:20:28.000Z",
+        "edit_history_tweet_ids": [
+            "1747202147450601833"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 136,
+                    "normalized_text": "ArcelorMittal",
+                    "probability": 0.6127,
+                    "start": 124,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Industeel Charleroi",
+                    "probability": 0.3471,
+                    "start": 151,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "Belgium",
+                    "probability": 0.9446,
+                    "start": 174,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FVFUHhRy7X",
+                    "end": 218,
+                    "expanded_url": "https://twitter.com/Vestas/status/1747202147450601833/photo/1",
+                    "media_key": "3_1747202127527641088",
+                    "start": 195,
+                    "url": "https://t.co/FVFUHhRy7X"
+                }
+            ]
+        },
+        "id": "1747202147450601833",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2252,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "The low-emission steel is produced using 100% steel scrap, melted in an electric arc furnace powered by 100% wind energy at ArcelorMittal's steel mill Industeel Charleroi in Belgium. The result? https://t.co/FVFUHhRy7X"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "1454059593341063169": {
+        "attachments": {
+            "media_keys": [
+                "13_1454059500701425667"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-10-29T12:16:36.000Z",
+        "edit_history_tweet_ids": [
+            "1454059593341063169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "COP26",
+                    "probability": 0.9544,
+                    "start": 83,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 88,
+                    "start": 82,
+                    "tag": "COP26"
+                },
+                {
+                    "end": 187,
+                    "start": 171,
+                    "tag": "renewableenergy"
+                },
+                {
+                    "end": 280,
+                    "start": 269,
+                    "tag": "ScaleUpNow"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/YYaHFaWiFO",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Vestas/status/1454059593341063169/video/1",
+                    "media_key": "13_1454059500701425667",
+                    "start": 281,
+                    "url": "https://t.co/YYaHFaWiFO"
+                }
+            ]
+        },
+        "id": "1454059593341063169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "Establishing clear targets for renewable project timelines must be a key focus at #COP26. At present, regulatory bottlenecks are preventing an accelerated installation of #renewableenergy across the world. Scaling up renewables is key to addressing the climate crisis.\n#ScaleUpNow https://t.co/YYaHFaWiFO"
+    }
+}

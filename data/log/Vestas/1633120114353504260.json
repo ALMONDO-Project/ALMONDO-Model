@@ -1,0 +1,49 @@
+{
+    "1633120114353504260": {
+        "author_id": "156646851",
+        "created_at": "2023-03-07T14:59:11.000Z",
+        "edit_history_tweet_ids": [
+            "1633120114353504260"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "EU Net Zero Industry Act",
+                    "probability": 0.7897,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "Europe",
+                    "probability": 0.9643,
+                    "start": 200,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "windeurope.org/newsroom/press\u2026",
+                    "end": 274,
+                    "expanded_url": "https://windeurope.org/newsroom/press-releases/energy-ceos-europe-needs-stronger-wind-supply-chain-and-clear-investment-signals/",
+                    "start": 251,
+                    "status": 200,
+                    "unwound_url": "https://windeurope.org/newsroom/press-releases/energy-ceos-europe-needs-stronger-wind-supply-chain-and-clear-investment-signals/",
+                    "url": "https://t.co/CoKWeanBa0"
+                }
+            ]
+        },
+        "id": "1633120114353504260",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1571,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "The EU Net Zero Industry Act can play an important role in accelerating the scale-up of wind, but creating a growing market remains the only way to ensure sustainable success for the wind industry in Europe. European industry leaders call for action\ud83d\udc47\nhttps://t.co/CoKWeanBa0"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "1731589123729723592": {
+        "attachments": {
+            "media_keys": [
+                "3_1731588955760381952"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-12-04T08:19:53.000Z",
+        "edit_history_tweet_ids": [
+            "1731589123729723592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Ukraine",
+                    "probability": 0.958,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "REPowerEU",
+                    "probability": 0.5404,
+                    "start": 245,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 210,
+                    "start": 204,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 254,
+                    "start": 244,
+                    "tag": "REPowerEU"
+                },
+                {
+                    "end": 270,
+                    "start": 255,
+                    "tag": "EnergySecurity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 37,
+                    "id": "1389524408",
+                    "start": 29,
+                    "username": "dtek_en"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "News release from Vestas Northern and Central Europe Hamburg, 4 December 2023 Vestas and DTEK have today at COP28 signed a Memorandum of Understanding (MOU) to collaborate on the build out of the second phase of the Tyligulska wind project in the southern part of Ukraine. The agreement outlines the conditions and desire to build the 384 MW second phase of the Tyligulska wind project. The first phase of Tyligulska wind project comprised of 114 MW and was successfully commissioned in the spring of 2023.",
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 242,
+                    "expanded_url": "https://vestas.com/en/media/company-news/2023/vestas-and-dtek-sign-mou-on-ukraine-s-largest-wind-ener-c3887258",
+                    "images": [
+                        {
+                            "height": 267,
+                            "url": "https://pbs.twimg.com/news_img/1731570395516456960/dOrXIQRe?format=jpg&name=orig",
+                            "width": 400
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1731570395516456960/dOrXIQRe?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 219,
+                    "status": 200,
+                    "title": "Vestas and DTEK sign MOU on Ukraine\u2019s largest wind energy project",
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2023/vestas-and-dtek-sign-mou-on-ukraine-s-largest-wind-ener-c3887258",
+                    "url": "https://t.co/lDvgtaenrj"
+                },
+                {
+                    "display_url": "pic.twitter.com/h3bTdLjz1O",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Vestas/status/1731589123729723592/photo/1",
+                    "media_key": "3_1731588955760381952",
+                    "start": 271,
+                    "url": "https://t.co/h3bTdLjz1O"
+                }
+            ]
+        },
+        "id": "1731589123729723592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4308,
+            "like_count": 39,
+            "quote_count": 3,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "\ud83c\uddea\ud83c\uddfa: We've joined forces with @dtek_en\nto support Ukraine's largest wind energy project - a move that bolsters energy security and future-proofs our energy systems. Read more about our agreement signed at #COP28\ud83d\udcf7 today: https://t.co/lDvgtaenrj\n\n#REPowerEU #EnergySecurity https://t.co/h3bTdLjz1O"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1550019232708149248": {
+        "attachments": {
+            "media_keys": [
+                "13_1550019194493833219"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-07-21T07:25:57.000Z",
+        "edit_history_tweet_ids": [
+            "1550019232708149248"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Lukas Graham",
+                    "probability": 0.9752,
+                    "start": 45,
+                    "type": "Person"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3507,
+                    "start": 69,
+                    "type": "Place"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Round",
+                    "probability": 0.5341,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 68,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/lukasgraham",
+                    "end": 262,
+                    "expanded_url": "http://vestas.com/lukasgraham",
+                    "start": 239,
+                    "url": "https://t.co/HMDrm5yFtr"
+                },
+                {
+                    "display_url": "pic.twitter.com/gyErTc3XfZ",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Vestas/status/1550019232708149248/video/1",
+                    "media_key": "13_1550019194493833219",
+                    "start": 263,
+                    "url": "https://t.co/gyErTc3XfZ"
+                }
+            ]
+        },
+        "id": "1550019232708149248",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 27,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "Last week, we announced our partnership with Lukas Graham, in which #Vestas delivers a transportable battery concept to power the band's upcoming In The Round tour.\nAn important step toward decarbonized live music experiences.\nLearn more: https://t.co/HMDrm5yFtr https://t.co/gyErTc3XfZ"
+    }
+}

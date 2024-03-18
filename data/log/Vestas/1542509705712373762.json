@@ -1,0 +1,75 @@
+{
+    "1542509705712373762": {
+        "attachments": {
+            "media_keys": [
+                "3_1542509701589413889"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-06-30T14:05:46.000Z",
+        "edit_history_tweet_ids": [
+            "1542509705712373762"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4904,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9697,
+                    "start": 39,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 18,
+                    "tag": "repowering"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 67,
+                    "id": "1340938958415523840",
+                    "start": 52,
+                    "username": "EurowindEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/aze9z4z",
+                    "end": 272,
+                    "expanded_url": "https://fcld.ly/aze9z4z",
+                    "start": 249,
+                    "url": "https://t.co/GMHb74gdD9"
+                },
+                {
+                    "display_url": "pic.twitter.com/wo3Q8kj2yy",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Vestas/status/1542509705712373762/photo/1",
+                    "media_key": "3_1542509701589413889",
+                    "start": 273,
+                    "url": "https://t.co/wo3Q8kj2yy"
+                }
+            ]
+        },
+        "id": "1542509705712373762",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Vestas wins 40 MW #repowering order in Denmark from @EurowindEnergy. \ud83c\udde9\ud83c\uddf0\nThe order includes the supply, installation, and commissioning of 11 V126-3.45 MW turbines in 3.6 MW operating mode, which will replace the site\u2019s current legacy wind turbines.\nhttps://t.co/GMHb74gdD9 https://t.co/wo3Q8kj2yy"
+    }
+}

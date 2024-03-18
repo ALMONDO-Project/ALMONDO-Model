@@ -1,0 +1,68 @@
+{
+    "1458361189042462725": {
+        "attachments": {
+            "media_keys": [
+                "3_1458361186853003264"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-11-10T09:09:37.000Z",
+        "edit_history_tweet_ids": [
+            "1458361189042462725"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.615,
+                    "start": 1,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "380801406",
+                    "start": 12,
+                    "username": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/6rnhmfb",
+                    "end": 286,
+                    "expanded_url": "https://fcld.ly/6rnhmfb",
+                    "start": 263,
+                    "url": "https://t.co/0JNhIzc2vO"
+                },
+                {
+                    "display_url": "pic.twitter.com/MnxDThxVfC",
+                    "end": 310,
+                    "expanded_url": "https://twitter.com/Vestas/status/1458361189042462725/photo/1",
+                    "media_key": "3_1458361186853003264",
+                    "start": 287,
+                    "url": "https://t.co/MnxDThxVfC"
+                }
+            ]
+        },
+        "id": "1458361189042462725",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 17,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#Vestas and @Maersk have formed a long-term strategic partnership for all containerised transport (including airfreight shipments), for door-to-door transport from suppliers to factories &amp; service warehouses, as well as site parts &amp; transport equipment \u27a1 https://t.co/0JNhIzc2vO https://t.co/MnxDThxVfC"
+    }
+}

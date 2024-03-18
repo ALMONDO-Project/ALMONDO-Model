@@ -1,0 +1,86 @@
+{
+    "1518530671303708672": {
+        "attachments": {
+            "media_keys": [
+                "13_1518530338607280128"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-04-25T10:01:39.000Z",
+        "edit_history_tweet_ids": [
+            "1518530671303708672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Marco",
+                    "probability": 0.7092,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6111,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Marco",
+                    "probability": 0.5928,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Vestas Porto",
+                    "probability": 0.4826,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "VestasCareers",
+                    "probability": 0.5638,
+                    "start": 219,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 217,
+                    "start": 200,
+                    "tag": "PowerTheSolution"
+                },
+                {
+                    "end": 232,
+                    "start": 218,
+                    "tag": "VestasCareers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Cq5HthQfGw",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/Vestas/status/1518530671303708672/video/1",
+                    "media_key": "13_1518530338607280128",
+                    "start": 233,
+                    "url": "https://t.co/Cq5HthQfGw"
+                }
+            ]
+        },
+        "id": "1518530671303708672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Meet Marco - a network security engineer at Vestas \ud83d\udcbb\n\nIn the video below, Marco gives a peek into his daily life in the Vestas Porto office, explaining how communication is a key aspect of his role.\n\n#PowerTheSolution #VestasCareers https://t.co/Cq5HthQfGw"
+    }
+}

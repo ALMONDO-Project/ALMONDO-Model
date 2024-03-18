@@ -1,0 +1,67 @@
+{
+    "1439831791439949825": {
+        "attachments": {
+            "media_keys": [
+                "13_1439831743314415616"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-20T06:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1439831791439949825"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "Moray East",
+                    "probability": 0.5756,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Scotland",
+                    "probability": 0.8807,
+                    "start": 65,
+                    "type": "Organization"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Christopher Shaw",
+                    "probability": 0.9178,
+                    "start": 203,
+                    "type": "Person"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6604,
+                    "start": 221,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/idO893EYO4",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Vestas/status/1439831791439949825/video/1",
+                    "media_key": "13_1439831743314415616",
+                    "start": 258,
+                    "url": "https://t.co/idO893EYO4"
+                }
+            ]
+        },
+        "id": "1439831791439949825",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 87,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 16
+        },
+        "text": "Last week we finalised the installation on Moray East wind farm, Scotland\u2019s largest wind project. \ud83c\udfc6\nToday, we want to share how the calm after the storm looks like with these stunning \"office\" views.\n\n\ud83d\udcf7 Christopher Shaw, Vestas' offshore service technician. https://t.co/idO893EYO4"
+    }
+}

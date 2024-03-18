@@ -1,0 +1,52 @@
+{
+    "1623080753889427457": {
+        "author_id": "156646851",
+        "created_at": "2023-02-07T22:06:21.000Z",
+        "edit_history_tweet_ids": [
+            "1623080753889427457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Vestas",
+                    "probability": 0.637,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Hatay",
+                    "probability": 0.5819,
+                    "start": 81,
+                    "type": "Place"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Gaziantep",
+                    "probability": 0.5773,
+                    "start": 91,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Turkey",
+                    "probability": 0.9502,
+                    "start": 112,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1623080753889427457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1743,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "2/3 Whilst the full impact is still being assessed, Vestas has a presence in the Hatay and Gaziantep regions of Turkey and has established a crisis management team to monitor the situation. At this point, our primary focus is to guarantee employees\u2019 and their families' safety."
+    }
+}

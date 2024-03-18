@@ -1,0 +1,89 @@
+{
+    "1542612959289131010": {
+        "attachments": {
+            "media_keys": [
+                "3_1542612956956983299"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-06-30T20:56:04.000Z",
+        "edit_history_tweet_ids": [
+            "1542612959289131010"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.8001,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Serra das Almas",
+                    "probability": 0.5004,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Urandi",
+                    "probability": 0.9126,
+                    "start": 99,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Bahia",
+                    "probability": 0.8826,
+                    "start": 123,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9383,
+                    "start": 130,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 177,
+                    "id": "234824951",
+                    "start": 162,
+                    "username": "EDF_Renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/e8nktw7",
+                    "end": 272,
+                    "expanded_url": "https://fcld.ly/e8nktw7",
+                    "start": 249,
+                    "url": "https://t.co/oV5EBs03xf"
+                },
+                {
+                    "display_url": "pic.twitter.com/HtjrkcEELL",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Vestas/status/1542612959289131010/photo/1",
+                    "media_key": "3_1542612956956983299",
+                    "start": 273,
+                    "url": "https://t.co/HtjrkcEELL"
+                }
+            ]
+        },
+        "id": "1542612959289131010",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 32,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Vestas has secured a 261 MW order for the Serra das Almas wind park located in the municipality of Urandi, in the state of Bahia, Brazil. \ud83c\udde7\ud83c\uddf7\nThe order, placed by @EDF_Renewables, includes the supply and installation of 58 V150-4.5 MW wind turbines.\nhttps://t.co/oV5EBs03xf https://t.co/HtjrkcEELL"
+    }
+}

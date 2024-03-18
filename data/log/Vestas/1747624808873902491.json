@@ -1,0 +1,46 @@
+{
+    "1747624808873902491": {
+        "author_id": "156646851",
+        "created_at": "2024-01-17T14:19:58.000Z",
+        "edit_history_tweet_ids": [
+            "1747624808873902491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 117,
+                    "normalized_text": "Chr Hansen",
+                    "probability": 0.6491,
+                    "start": 108,
+                    "type": "Other"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "Novozymes",
+                    "probability": 0.4145,
+                    "start": 174,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "39692025",
+                    "start": 0,
+                    "username": "corporateknight"
+                }
+            ]
+        },
+        "id": "1747624808873902491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 157,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@corporateknight Congratulations also to our fellow Danish companies ranked among the Top 100 this year: #8 Chr Hansen Holding A/S, #17 \u00d8rsted A/S, #53 Novo Nordisk A/S, #58 Novozymes A/S and #78 Coloplast A/S!"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1631612813390102530": {
+        "attachments": {
+            "media_keys": [
+                "3_1631612801239195650"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-03-03T11:09:43.000Z",
+        "edit_history_tweet_ids": [
+            "1631612813390102530"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4328,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "Taranto",
+                    "probability": 0.4836,
+                    "start": 85,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/W8Ytbg5Z5L",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Vestas/status/1631612813390102530/photo/1",
+                    "media_key": "3_1631612801239195650",
+                    "start": 266,
+                    "url": "https://t.co/W8Ytbg5Z5L"
+                }
+            ]
+        },
+        "id": "1631612813390102530",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2129,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Vestas is also the only OEM that produces wind components locally. From Q3 2023, our Taranto factory will start the production of V236-15.0 MW blades. This offshore wind turbine is the most powerful ever built, being able to power around 20,000 European households. https://t.co/W8Ytbg5Z5L"
+    }
+}

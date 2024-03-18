@@ -1,0 +1,102 @@
+{
+    "1567179290369789952": {
+        "attachments": {
+            "media_keys": [
+                "3_1567179270094561287",
+                "3_1567179276268576769",
+                "3_1567179281687580678",
+                "3_1567179286905241600"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-09-06T15:53:54.000Z",
+        "edit_history_tweet_ids": [
+            "1567179290369789952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Aarhus",
+                    "probability": 0.8241,
+                    "start": 20,
+                    "type": "Place"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.938,
+                    "start": 52,
+                    "type": "Person"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Vestas",
+                    "probability": 0.2895,
+                    "start": 118,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "\u00d8sterild",
+                    "probability": 0.9238,
+                    "start": 204,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 39,
+                    "id": "1116933752",
+                    "start": 27,
+                    "username": "JBundsgaard"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ExXprU7QYt",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1567179290369789952/photo/1",
+                    "media_key": "3_1567179270094561287",
+                    "start": 280,
+                    "url": "https://t.co/ExXprU7QYt"
+                },
+                {
+                    "display_url": "pic.twitter.com/ExXprU7QYt",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1567179290369789952/photo/1",
+                    "media_key": "3_1567179276268576769",
+                    "start": 280,
+                    "url": "https://t.co/ExXprU7QYt"
+                },
+                {
+                    "display_url": "pic.twitter.com/ExXprU7QYt",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1567179290369789952/photo/1",
+                    "media_key": "3_1567179281687580678",
+                    "start": 280,
+                    "url": "https://t.co/ExXprU7QYt"
+                },
+                {
+                    "display_url": "pic.twitter.com/ExXprU7QYt",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1567179290369789952/photo/1",
+                    "media_key": "3_1567179286905241600",
+                    "start": 280,
+                    "url": "https://t.co/ExXprU7QYt"
+                }
+            ]
+        },
+        "id": "1567179290369789952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 44,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Today, the mayor of Aarhus @JBundsgaard and our CEO Henrik Andersen inaugurated a battery-charging station at our HQ.\nVestas employees can now charge their EVs with green energy from our test turbines at \u00d8sterild. \ud83d\udd0b\nThe station will be available for residents after office hours. https://t.co/ExXprU7QYt"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "1529388735091167236": {
+        "author_id": "156646851",
+        "created_at": "2022-05-25T09:07:43.000Z",
+        "edit_history_tweet_ids": [
+            "1529388735091167236"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4833,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9221,
+                    "start": 109,
+                    "type": "Person"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Clean Energy",
+                    "probability": 0.4949,
+                    "start": 150,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 103,
+                    "start": 96,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 182,
+                    "id": "5120691",
+                    "start": 178,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/wzssj8p",
+                    "end": 263,
+                    "expanded_url": "https://fcld.ly/wzssj8p",
+                    "start": 240,
+                    "status": 200,
+                    "unwound_url": "https://www.weforum.org/event_player/a0P68000001Kd0vEAC/sessions/navigating-the-energy-transition/",
+                    "url": "https://t.co/OjKmbgOIHb"
+                },
+                {
+                    "display_url": "x.com/Vestas/status/\u2026",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/Vestas/status/1527720563984285696",
+                    "start": 264,
+                    "url": "https://t.co/c1dc9GEHSX"
+                }
+            ]
+        },
+        "id": "1529388735091167236",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "How can targets be backed by efficient permitting to ensure scalability of renewable solutions? #Vestas CEO, Henrik Andersen, is participating in the Clean Energy Superpowers at @wef.\nTo join the livestream today at 14:30 CEST, click here: https://t.co/OjKmbgOIHb https://t.co/c1dc9GEHSX"
+    }
+}

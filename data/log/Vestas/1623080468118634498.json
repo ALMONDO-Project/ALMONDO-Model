@@ -1,0 +1,53 @@
+{
+    "1623080468118634498": {
+        "attachments": {
+            "media_keys": [
+                "3_1623080396383481856"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-02-07T22:05:13.000Z",
+        "edit_history_tweet_ids": [
+            "1623080468118634498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "Turkey",
+                    "probability": 0.7317,
+                    "start": 129,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "Syria",
+                    "probability": 0.8248,
+                    "start": 154,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wA1hrWQjAM",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/Vestas/status/1623080468118634498/photo/1",
+                    "media_key": "3_1623080396383481856",
+                    "start": 190,
+                    "url": "https://t.co/wA1hrWQjAM"
+                }
+            ]
+        },
+        "id": "1623080468118634498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4460,
+            "like_count": 40,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "1/3 All our thoughts are with colleagues, families and friends affected by the devastating earthquakes that struck south-eastern Turkey and north-western Syria early on Monday 6th February. https://t.co/wA1hrWQjAM"
+    }
+}

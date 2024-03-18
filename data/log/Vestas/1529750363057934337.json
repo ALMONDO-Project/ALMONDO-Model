@@ -1,0 +1,87 @@
+{
+    "1529750363057934337": {
+        "author_id": "156646851",
+        "created_at": "2022-05-26T09:04:42.000Z",
+        "edit_history_tweet_ids": [
+            "1529750363057934337"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3589,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9643,
+                    "start": 86,
+                    "type": "Person"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "WEF22",
+                    "probability": 0.6494,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "Bloomberg TV",
+                    "probability": 0.7145,
+                    "start": 131,
+                    "type": "Organization"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3989,
+                    "start": 202,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 80,
+                    "start": 73,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 125,
+                    "start": 119,
+                    "tag": "WEF22"
+                },
+                {
+                    "end": 197,
+                    "start": 180,
+                    "tag": "energytransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cnbc.com/video/2022/05/\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.cnbc.com/video/2022/05/25/what-is-the-clean-energy-superpower-of-the-future-experts-at-wef-discuss.html",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.cnbc.com/video/2022/05/25/what-is-the-clean-energy-superpower-of-the-future-experts-at-wef-discuss.html",
+                    "url": "https://t.co/BhgK3bztjm"
+                }
+            ]
+        },
+        "id": "1529750363057934337",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u201cWe would like to be used as the strategic tool to plan for the future.\u201d #Vestas CEO, Henrik Andersen, spoke live from #WEF22 in a Bloomberg TV panel about the acceleration of the #energytransition and Vestas\u2019 role in the current global market situation. https://t.co/BhgK3bztjm"
+    }
+}

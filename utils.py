@@ -6,33 +6,36 @@ import requests
 # client = tweepy.client(BEARER_TOKEN)
 
 def users_done_update(log_data_path: str, user: str):
-    with open(log_data_path+'users_done.txt', 'a+'):
+    with open(log_data_path+'/users_done.txt', 'a+'):
         log_data_path.write('\n')
         log_data_path.write(user)
     return
 
 def users_to_do_update(input_data_path: str, log_data_path: str):
     #update the file with remaining users to retreive tweets from
-    with open(log_data_path+'users_done.txt', 'r') as lfile:
+    with open(log_data_path+'/users_done.txt', 'r') as lfile:
         lines = lfile.readlines()
         users_done = [line.strip() for line in lines]
     
-    with open(input_data_path+'users_to_do.txt', 'r') as ifile:
+    with open(input_data_path+'/users_to_do.txt', 'r') as ifile:
         lines = ifile.readlines() 
         users_to_do = [line.strip() for line in lines]
     
     res = filter(lambda i: i not in users_done, users_to_do)
     
-    with open(input_data_path+'users_to_do.txt', 'w') as ofile:
+    with open(input_data_path+'/users_to_do.txt', 'w') as ofile:
         users_to_do_string = '\n'.join(res)
         ofile.write(users_to_do_string)
     
     return 
 
 def read_users(input_data_path: str):
-    with open(input_data_path+'users_to_do.txt', 'r') as ifile:
-        lines = ifile.readlines() 
-        users_to_do = [line.strip() for line in lines]
+    try:
+        with open(f'{input_data_path}/users_to_do.txt', 'r') as ifile:
+            lines = ifile.readlines() 
+            users_to_do = [line.strip() for line in lines]
+    except FileNotFoundError:
+        users_to_do = []
     return users_to_do
 
 def compute_max_tweets(bearer_token: str):

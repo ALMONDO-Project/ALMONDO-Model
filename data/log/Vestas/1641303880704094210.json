@@ -1,0 +1,84 @@
+{
+    "1641303880704094210": {
+        "attachments": {
+            "media_keys": [
+                "3_1641303264347004928"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-03-30T04:58:33.000Z",
+        "edit_history_tweet_ids": [
+            "1641303880704094210"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "Tigre",
+                    "probability": 0.3232,
+                    "start": 125,
+                    "type": "Place"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Babil\u00f4nia Centro",
+                    "probability": 0.7573,
+                    "start": 138,
+                    "type": "Place"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Vestas",
+                    "probability": 0.8802,
+                    "start": 206,
+                    "type": "Place"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "LATAM",
+                    "probability": 0.5092,
+                    "start": 240,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "3233622939",
+                    "start": 63,
+                    "username": "acasadosventos"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/gMu7VaEJ",
+                    "end": 272,
+                    "expanded_url": "https://lnkd.in/gMu7VaEJ",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/gMu7VaEJ",
+                    "url": "https://t.co/aVQUfSdrPw"
+                },
+                {
+                    "display_url": "pic.twitter.com/QTrMpxUcNd",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Vestas/status/1641303880704094210/photo/1",
+                    "media_key": "3_1641303264347004928",
+                    "start": 273,
+                    "url": "https://t.co/QTrMpxUcNd"
+                }
+            ]
+        },
+        "id": "1641303880704094210",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 19192,
+            "like_count": 85,
+            "quote_count": 4,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "We've signed the largest onshore turbine supply agreement with @acasadosventos. \ud83d\ude4c\ud83c\udffd\nComprising of 2 projects in \ud83c\udde7\ud83c\uddf7's Serra do Tigre and in Babil\u00f4nia Centro, this onshore order is slated to be the largest in Vestas\u2019 history, globally, and in LATAM. \ud83d\udcaa\nhttps://t.co/aVQUfSdrPw https://t.co/QTrMpxUcNd"
+    }
+}

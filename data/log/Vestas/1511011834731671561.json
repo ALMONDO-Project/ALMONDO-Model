@@ -1,0 +1,78 @@
+{
+    "1511011834731671561": {
+        "author_id": "156646851",
+        "created_at": "2022-04-04T16:04:29.000Z",
+        "edit_history_tweet_ids": [
+            "1511011834731671561"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6467,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Europe",
+                    "probability": 0.9221,
+                    "start": 198,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 168,
+                    "start": 157,
+                    "tag": "WindEurope"
+                },
+                {
+                    "end": 265,
+                    "start": 254,
+                    "tag": "windenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 64,
+                    "id": "1341799459",
+                    "start": 52,
+                    "username": "kresten_chr"
+                },
+                {
+                    "end": 108,
+                    "id": "39255883",
+                    "start": 97,
+                    "username": "WindEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/kresten_chr/st\u2026",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/kresten_chr/status/1511008874769395721",
+                    "start": 267,
+                    "url": "https://t.co/GUWAavrptx"
+                }
+            ]
+        },
+        "id": "1511011834731671561",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "#Vestas\u2019 Vice-President and Head of Public Affairs, @kresten_chr, has been elected Vice-Chair of @WindEurope. We look forward to a closer collaboration with #WindEurope going forward, to strengthen Europe\u2019s wind industry, and accelerate the expansion of #windenergy. https://t.co/GUWAavrptx"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1615650256301031426": {
+        "attachments": {
+            "media_keys": [
+                "3_1615650252354207745"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-01-18T10:00:13.000Z",
+        "edit_history_tweet_ids": [
+            "1615650256301031426"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3483,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Global100",
+                    "probability": 0.6395,
+                    "start": 137,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 146,
+                    "start": 136,
+                    "tag": "Global100"
+                },
+                {
+                    "end": 235,
+                    "start": 220,
+                    "tag": "sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 135,
+                    "id": "39692025",
+                    "start": 119,
+                    "username": "corporateknight"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FGwdx9WuKh",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1615650256301031426/photo/1",
+                    "media_key": "3_1615650252354207745",
+                    "start": 280,
+                    "url": "https://t.co/FGwdx9WuKh"
+                }
+            ]
+        },
+        "id": "1615650256301031426",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 6407,
+            "like_count": 89,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 21
+        },
+        "text": "We are proud to announce that Vestas has been recognized as the most sustainable company in the energy industry in the @corporateknight\u00a0#Global100 ranking. This achievement is a testament to our unwavering commitment to #sustainability,  which is at the core of everything we do. https://t.co/FGwdx9WuKh"
+    }
+}

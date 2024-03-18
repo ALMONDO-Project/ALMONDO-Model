@@ -1,0 +1,65 @@
+{
+    "1509938700771278850": {
+        "attachments": {
+            "media_keys": [
+                "3_1509938691514458121"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-04-01T17:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1509938700771278850"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4498,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Ramadan",
+                    "probability": 0.7002,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 84,
+                    "start": 76,
+                    "tag": "Ramadan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OCR9geeQVk",
+                    "end": 109,
+                    "expanded_url": "https://twitter.com/Vestas/status/1509938700771278850/photo/1",
+                    "media_key": "3_1509938691514458121",
+                    "start": 86,
+                    "url": "https://t.co/OCR9geeQVk"
+                }
+            ]
+        },
+        "id": "1509938700771278850",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#Vestas wishes our partners, colleagues and followers a very safe and happy #Ramadan! https://t.co/OCR9geeQVk"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1509908502659186695": {
+        "attachments": {
+            "media_keys": [
+                "3_1509908499618279432"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-04-01T15:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1509908502659186695"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Echoenergia",
+                    "probability": 0.3429,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 33,
+                    "normalized_text": "Serra",
+                    "probability": 0.2882,
+                    "start": 29,
+                    "type": "Place"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "Mel II",
+                    "probability": 0.5903,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3894,
+                    "start": 73,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 0,
+                    "tag": "Echoenergia"
+                },
+                {
+                    "end": 79,
+                    "start": 72,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/SYNOrhA3XJ",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1509908502659186695/photo/1",
+                    "media_key": "3_1509908499618279432",
+                    "start": 280,
+                    "url": "https://t.co/SYNOrhA3XJ"
+                }
+            ]
+        },
+        "id": "1509908502659186695",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 33,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "#Echoenergia has inaugurated Serra do Mel II project in \ud83c\udde7\ud83c\uddf7 including 49 #Vestas V150-4.2MW turbines. One of those was customized with colours and shapes representing elements of nature as a tribute to the Brazilian natural wealth and to the professionals involved in the project. https://t.co/SYNOrhA3XJ"
+    }
+}

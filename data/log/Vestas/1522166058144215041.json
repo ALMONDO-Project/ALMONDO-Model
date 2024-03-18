@@ -1,0 +1,74 @@
+{
+    "1522166058144215041": {
+        "attachments": {
+            "media_keys": [
+                "3_1522166055430459393"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-05-05T10:47:23.000Z",
+        "edit_history_tweet_ids": [
+            "1522166058144215041"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.404,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "El Llano",
+                    "probability": 0.577,
+                    "start": 37,
+                    "type": "Place"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Argentina",
+                    "probability": 0.9852,
+                    "start": 62,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4663,
+                    "start": 122,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 189,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-81-mw-order-to-expand-the-llano-wind-com-c3561143",
+                    "start": 166,
+                    "url": "https://t.co/kcPgGIx7rd"
+                },
+                {
+                    "display_url": "pic.twitter.com/gsMEi9zZqD",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/Vestas/status/1522166058144215041/photo/1",
+                    "media_key": "3_1522166055430459393",
+                    "start": 190,
+                    "url": "https://t.co/gsMEi9zZqD"
+                }
+            ]
+        },
+        "id": "1522166058144215041",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Vestas secures 81 MW order to expand El Llano wind complex in Argentina. \ud83c\udde6\ud83c\uddf7\nThe project will feature 18 V150-4.5 MW which Vestas will supply and install.\nLearn more: https://t.co/kcPgGIx7rd https://t.co/gsMEi9zZqD"
+    }
+}

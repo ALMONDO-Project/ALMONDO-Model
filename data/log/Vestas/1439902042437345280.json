@@ -1,0 +1,102 @@
+{
+    "1439902042437345280": {
+        "attachments": {
+            "media_keys": [
+                "3_1439902040281518081"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-20T10:39:33.000Z",
+        "edit_history_tweet_ids": [
+            "1439902042437345280"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4984,
+                    "start": 75,
+                    "type": "Place"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Lauchhammer",
+                    "probability": 0.8265,
+                    "start": 130,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Germany",
+                    "probability": 0.9187,
+                    "start": 143,
+                    "type": "Place"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Viveiro",
+                    "probability": 0.8687,
+                    "start": 153,
+                    "type": "Place"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Spain",
+                    "probability": 0.8982,
+                    "start": 162,
+                    "type": "Place"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "Esbjerg",
+                    "probability": 0.6121,
+                    "start": 174,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "Denmark",
+                    "probability": 0.954,
+                    "start": 183,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 74,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/dg911qv",
+                    "end": 228,
+                    "expanded_url": "https://fcld.ly/dg911qv",
+                    "start": 205,
+                    "url": "https://t.co/fVfYhcmdmB"
+                },
+                {
+                    "display_url": "pic.twitter.com/oj5AGtMnD5",
+                    "end": 252,
+                    "expanded_url": "https://twitter.com/Vestas/status/1439902042437345280/photo/1",
+                    "media_key": "3_1439902040281518081",
+                    "start": 229,
+                    "url": "https://t.co/oj5AGtMnD5"
+                }
+            ]
+        },
+        "id": "1439902042437345280",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 9,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "To meet the manufacturing requirements of our changing product portfolio, #Vestas intends to cease production at our factories in Lauchhammer (Germany), Viveiro (Spain), and Esbjerg (Denmark).\n\nRead more: https://t.co/fVfYhcmdmB https://t.co/oj5AGtMnD5"
+    }
+}

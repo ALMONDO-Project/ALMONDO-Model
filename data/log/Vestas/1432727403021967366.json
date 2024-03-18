@@ -1,0 +1,54 @@
+{
+    "1432727403021967366": {
+        "author_id": "156646851",
+        "created_at": "2021-08-31T15:30:06.000Z",
+        "edit_history_tweet_ids": [
+            "1432727403021967366"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 152,
+                    "normalized_text": "Saxo Talk",
+                    "probability": 0.7758,
+                    "start": 144,
+                    "type": "Other"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4496,
+                    "start": 183,
+                    "type": "Person"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.951,
+                    "start": 196,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/yjklqdm",
+                    "end": 268,
+                    "expanded_url": "https://fcld.ly/yjklqdm",
+                    "start": 245,
+                    "url": "https://t.co/ZDk2XgCn5h"
+                }
+            ]
+        },
+        "id": "1432727403021967366",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\"For a business like ours, we think a decade or two ahead, but we also think here and now. That's the challenge in decision making.\" Watch this Saxo Talk on the future of energy with Vestas' CEO, Henrik Andersen.\n\nWatch the full conversation \u27a1\ufe0f https://t.co/ZDk2XgCn5h"
+    }
+}

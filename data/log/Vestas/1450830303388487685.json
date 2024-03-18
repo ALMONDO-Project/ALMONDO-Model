@@ -1,0 +1,61 @@
+{
+    "1450830303388487685": {
+        "author_id": "156646851",
+        "created_at": "2021-10-20T14:24:34.000Z",
+        "edit_history_tweet_ids": [
+            "1450830303388487685"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "ProductionGap",
+                    "probability": 0.7402,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 13,
+                    "tag": "ProductionGap"
+                },
+                {
+                    "end": 169,
+                    "start": 158,
+                    "tag": "ScaleUpNow"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/home/pages/sca\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.vestas.com/home/pages/scale-up-now",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/pages/scale-up-now",
+                    "url": "https://t.co/SE6YlYRyhx"
+                },
+                {
+                    "display_url": "x.com/UNEP/status/14\u2026",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/UNEP/status/1450766558750519301",
+                    "start": 196,
+                    "url": "https://t.co/ANvR8J8ayc"
+                }
+            ]
+        },
+        "id": "1450830303388487685",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "To close the #ProductionGap, energy investment must shift from fossil fuels into renewables, electricity networks and flexibility solutions, such as storage. #ScaleUpNow\n\u27a1\ufe0fhttps://t.co/SE6YlYRyhx https://t.co/ANvR8J8ayc"
+    }
+}

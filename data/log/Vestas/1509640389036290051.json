@@ -1,0 +1,66 @@
+{
+    "1509640389036290051": {
+        "author_id": "156646851",
+        "created_at": "2022-03-31T21:14:51.000Z",
+        "edit_history_tweet_ids": [
+            "1509640389036290051"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6263,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Portugal",
+                    "probability": 0.9814,
+                    "start": 78,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 86,
+                    "start": 77,
+                    "tag": "Portugal"
+                },
+                {
+                    "end": 214,
+                    "start": 201,
+                    "tag": "windturbines"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 280,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-50-mw-order-and-surpasses-1-gw-order-int-c3537552",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-50-mw-order-and-surpasses-1-gw-order-int-c3537552",
+                    "url": "https://t.co/hmbEHSdEOr"
+                }
+            ]
+        },
+        "id": "1509640389036290051",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#Vestas has signed a 50 MW contract for the repowering of four wind parks in #Portugal \ud83c\uddf5\ud83c\uddf9, reaching the milestone of 1 GW order intake of projects in the country. The contract includes 11x V150-4.5 MW #windturbines and a 15-year AOM 5000 service agreement.\nhttps://t.co/hmbEHSdEOr"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1706662793741750577": {
+        "attachments": {
+            "media_keys": [
+                "3_1706662678276812800"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-09-26T13:31:32.000Z",
+        "edit_history_tweet_ids": [
+            "1706662793741750577"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 212,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4054,
+                    "start": 206,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 213,
+                    "start": 205,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 231,
+                    "start": 214,
+                    "tag": "EnergyTransition"
+                },
+                {
+                    "end": 243,
+                    "start": 232,
+                    "tag": "WindEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/dJSaJeQf",
+                    "end": 203,
+                    "expanded_url": "https://lnkd.in/dJSaJeQf",
+                    "start": 180,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/dJSaJeQf",
+                    "url": "https://t.co/H2DHSlf0YW"
+                },
+                {
+                    "display_url": "pic.twitter.com/TPzipLokNu",
+                    "end": 267,
+                    "expanded_url": "https://twitter.com/Vestas/status/1706662793741750577/photo/1",
+                    "media_key": "3_1706662678276812800",
+                    "start": 244,
+                    "url": "https://t.co/TPzipLokNu"
+                }
+            ]
+        },
+        "id": "1706662793741750577",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1084,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Truly resilient energy systems call for more renewable power. It\u2019s time to remove the solvable barriers confronting wind energy, and work toward a more secure energy future. (3/3)\nhttps://t.co/H2DHSlf0YW\n\n#NetZero #EnergyTransition #WindEnergy https://t.co/TPzipLokNu"
+    }
+}

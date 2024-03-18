@@ -1,0 +1,82 @@
+{
+    "1653319088184147970": {
+        "attachments": {
+            "media_keys": [
+                "3_1653318866871754752"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-05-02T08:42:42.000Z",
+        "edit_history_tweet_ids": [
+            "1653319088184147970"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 108,
+                    "normalized_text": "Copenhagen",
+                    "probability": 0.8897,
+                    "start": 99,
+                    "type": "Place"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9667,
+                    "start": 171,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "269202516",
+                    "start": 0,
+                    "username": "METI_JPN"
+                },
+                {
+                    "end": 46,
+                    "id": "137867936",
+                    "start": 38,
+                    "username": "nishy03"
+                },
+                {
+                    "end": 221,
+                    "id": "269202516",
+                    "start": 212,
+                    "username": "METI_JPN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "linkedin.com/posts/henrik-a\u2026",
+                    "end": 211,
+                    "expanded_url": "https://www.linkedin.com/posts/henrik-andersen-248b261_japan-windenergy-energytransition-activity-7059084332119797761-3Clm",
+                    "start": 188,
+                    "status": 200,
+                    "unwound_url": "https://www.linkedin.com/posts/henrik-andersen-248b261_japan-windenergy-energytransition-activity-7059084332119797761-3Clm",
+                    "url": "https://t.co/32nvgly5ll"
+                },
+                {
+                    "display_url": "pic.twitter.com/jIDn42JWE1",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/Vestas/status/1653319088184147970/photo/1",
+                    "media_key": "3_1653318866871754752",
+                    "start": 222,
+                    "url": "https://t.co/jIDn42JWE1"
+                }
+            ]
+        },
+        "id": "1653319088184147970",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 451,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "@METI_JPN We were honoured to welcome @nishy03, \ud83c\uddef\ud83c\uddf5  Minister of Economy, Trade and Industry at our Copenhagen office yesterday. Learn more about the meeting from our CEO, Henrik Andersen: https://t.co/32nvgly5ll\n@METI_JPN https://t.co/jIDn42JWE1"
+    }
+}

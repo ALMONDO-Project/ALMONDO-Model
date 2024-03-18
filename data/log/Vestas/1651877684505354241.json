@@ -1,0 +1,79 @@
+{
+    "1651877684505354241": {
+        "attachments": {
+            "media_keys": [
+                "3_1651876632003506177",
+                "3_1651876631995195393",
+                "3_1651876631999381505"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-04-28T09:15:05.000Z",
+        "edit_history_tweet_ids": [
+            "1651877684505354241"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 116,
+                    "normalized_text": "WindEnergy",
+                    "probability": 0.4644,
+                    "start": 107,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 117,
+                    "start": 106,
+                    "tag": "WindEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "39255883",
+                    "start": 8,
+                    "username": "WindEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/4FxgYmO4SS",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Vestas/status/1651877684505354241/photo/1",
+                    "media_key": "3_1651876632003506177",
+                    "start": 269,
+                    "url": "https://t.co/4FxgYmO4SS"
+                },
+                {
+                    "display_url": "pic.twitter.com/4FxgYmO4SS",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Vestas/status/1651877684505354241/photo/1",
+                    "media_key": "3_1651876631995195393",
+                    "start": 269,
+                    "url": "https://t.co/4FxgYmO4SS"
+                },
+                {
+                    "display_url": "pic.twitter.com/4FxgYmO4SS",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Vestas/status/1651877684505354241/photo/1",
+                    "media_key": "3_1651876631999381505",
+                    "start": 269,
+                    "url": "https://t.co/4FxgYmO4SS"
+                }
+            ]
+        },
+        "id": "1651877684505354241",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1526,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Thanks, @WindEurope, for an incredible event. As one of the most competitive energy sources in the world, #WindEnergy can play a central role in decarbonisation \u2013 with the right level of support from governments.  We look forward to getting the wheels turning quickly. https://t.co/4FxgYmO4SS"
+    }
+}

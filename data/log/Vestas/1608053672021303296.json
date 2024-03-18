@@ -1,0 +1,56 @@
+{
+    "1608053672021303296": {
+        "author_id": "156646851",
+        "created_at": "2022-12-28T10:54:06.000Z",
+        "edit_history_tweet_ids": [
+            "1608053672021303296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5539,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "USA",
+                    "probability": 0.984,
+                    "start": 81,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3uJaO",
+                    "end": 241,
+                    "expanded_url": "https://fal.cn/3uJaO",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-a-73-mw-order-for-a-repowering-project-i-c3690600",
+                    "url": "https://t.co/iU6VQTQW7v"
+                }
+            ]
+        },
+        "id": "1608053672021303296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5161,
+            "like_count": 39,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 9
+        },
+        "text": "#Vestas has received a 73 MW order to repower an undisclosed wind project in the USA \ud83c\uddfa\ud83c\uddf8. The order consists of 33 V110-2.0 MW wind turbines in 2.2 MW operating mode, which will replace the site\u2019s current technology.\n\n https://t.co/iU6VQTQW7v"
+    }
+}

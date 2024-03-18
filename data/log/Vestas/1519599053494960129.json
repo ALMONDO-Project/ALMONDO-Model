@@ -1,0 +1,71 @@
+{
+    "1519599053494960129": {
+        "author_id": "156646851",
+        "created_at": "2022-04-28T08:47:01.000Z",
+        "edit_history_tweet_ids": [
+            "1519599053494960129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 207,
+                    "normalized_text": "Jakob Nielsen",
+                    "probability": 0.8588,
+                    "start": 195,
+                    "type": "Person"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3417,
+                    "start": 215,
+                    "type": "Other"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Tommy Rahbek Nielsen",
+                    "probability": 0.6751,
+                    "start": 237,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 221,
+                    "start": 214,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 193,
+                    "id": "2512646192",
+                    "start": 178,
+                    "username": "gplusglobalofw"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/blog/\u2026",
+                    "end": 283,
+                    "expanded_url": "https://www.vestas.com/en/media/blog/sustainability/scaling-up-offshore-wind-without-comprising-safety",
+                    "start": 260,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/blog/sustainability/scaling-up-offshore-wind-without-comprising-safety",
+                    "url": "https://t.co/v3EdnKgP1n"
+                }
+            ]
+        },
+        "id": "1519599053494960129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Health &amp; safety are top of mind every day in our industry. Today, the UN\u2019s World Day for Safety and Health at Work, gives particular pause for thought. Hear from Chairman of @gplusglobalofw, Jakob Nielsen, and #Vestas\u2019 Executive VP, Tommy Rahbek Nielsen \u2935\nhttps://t.co/v3EdnKgP1n"
+    }
+}

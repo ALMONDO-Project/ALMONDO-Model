@@ -1,0 +1,70 @@
+{
+    "1508761914393960453": {
+        "author_id": "156646851",
+        "created_at": "2022-03-29T11:04:06.000Z",
+        "edit_history_tweet_ids": [
+            "1508761914393960453"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5811,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "Vietnam",
+                    "probability": 0.9711,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Mekong Delta",
+                    "probability": 0.5026,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4854,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 239,
+                    "start": 229,
+                    "tag": "nearshore"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2022/vestas-wins-100-mw-order-in-vietnam-c3534869",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-wins-100-mw-order-in-vietnam-c3534869",
+                    "url": "https://t.co/1qEeYIHvgF"
+                }
+            ]
+        },
+        "id": "1508761914393960453",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Vestas wins a 100 MW order in Vietnam near the shorelines of the Mekong Delta.\nThe wind farm includes 24 Vestas V150-4.2 MW.\n\nThis order demonstrates our ability to formulate site specific solutions to cater to the complexity of #nearshore environments.\n\nhttps://t.co/1qEeYIHvgF"
+    }
+}

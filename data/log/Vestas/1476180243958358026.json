@@ -1,0 +1,78 @@
+{
+    "1476180243958358026": {
+        "author_id": "156646851",
+        "created_at": "2021-12-29T13:16:10.000Z",
+        "edit_history_tweet_ids": [
+            "1476180243958358026"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5439,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "la Bahia II",
+                    "probability": 0.4229,
+                    "start": 68,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Argentina",
+                    "probability": 0.9604,
+                    "start": 91,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "Bahia",
+                    "probability": 0.4009,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "180832646",
+                    "start": 37,
+                    "username": "PampaEnergia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 262,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2021/vestas-secures-81-mw-order-with-pampa-energia-in-argent-c3479559",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2021/vestas-secures-81-mw-order-with-pampa-energia-in-argent-c3479559",
+                    "url": "https://t.co/4iiVmAqyO7"
+                }
+            ]
+        },
+        "id": "1476180243958358026",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 23,
+            "quote_count": 4,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#Vestas has signed an agreement with @PampaEnergia for the 81 MW De la Bahia II project in Argentina \ud83c\udde6\ud83c\uddf7. This project extension of 18 V150-4.5 MW turbines means the De la Bahia wind complex combined capacity will reach a total of 187 MW \u2935 https://t.co/4iiVmAqyO7"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "1620410720541372418": {
+        "author_id": "156646851",
+        "created_at": "2023-01-31T13:16:36.000Z",
+        "edit_history_tweet_ids": [
+            "1620410720541372418"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Vestas Modularised Nacelle",
+                    "probability": 0.5813,
+                    "start": 2,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 53,
+                    "id": "101766184",
+                    "start": 41,
+                    "username": "windpower_m"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3vvGW",
+                    "end": 278,
+                    "expanded_url": "https://fal.cn/3vvGW",
+                    "start": 255,
+                    "unwound_url": "https://fal.cn/3vvGW",
+                    "url": "https://t.co/0IaJqvasUM"
+                }
+            ]
+        },
+        "id": "1620410720541372418",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2337,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "\ud83c\udfc6 Vestas Modularised Nacelle design wins @windpower_m\u00a0\"Best Innovation award in 2022\".\nThe solution adds to the main nacelle house one or more side-compartments designed to correspond to industry transport standards, enhancing transportation flexibility.\nhttps://t.co/0IaJqvasUM"
+    }
+}

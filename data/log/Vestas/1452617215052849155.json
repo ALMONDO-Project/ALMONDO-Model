@@ -1,0 +1,78 @@
+{
+    "1452617215052849155": {
+        "author_id": "156646851",
+        "created_at": "2021-10-25T12:45:07.000Z",
+        "edit_history_tweet_ids": [
+            "1452617215052849155"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6736,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "CallonCarbon",
+                    "probability": 0.615,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "ParisAgreement",
+                    "probability": 0.8103,
+                    "start": 234,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 36,
+                    "start": 23,
+                    "tag": "CallonCarbon"
+                },
+                {
+                    "end": 202,
+                    "start": 194,
+                    "tag": "netzero"
+                },
+                {
+                    "end": 248,
+                    "start": 233,
+                    "tag": "ParisAgreement"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "calloncarbon.com",
+                    "end": 274,
+                    "expanded_url": "https://calloncarbon.com/",
+                    "start": 251,
+                    "status": 200,
+                    "unwound_url": "https://calloncarbon.com/",
+                    "url": "https://t.co/EI4zsFQRof"
+                }
+            ]
+        },
+        "id": "1452617215052849155",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "#Vestas is part of the #CallonCarbon initiative asking governments to back their net zero targets with effective and reliable carbon pricing instruments to facilitate investments that can reach #netzero emissions consistent with the #ParisAgreement \u2935 https://t.co/EI4zsFQRof"
+    }
+}

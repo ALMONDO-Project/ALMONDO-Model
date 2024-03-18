@@ -1,0 +1,88 @@
+{
+    "1442780803331723267": {
+        "attachments": {
+            "media_keys": [
+                "3_1442780801603674112"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-28T09:18:43.000Z",
+        "edit_history_tweet_ids": [
+            "1442780803331723267"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3945,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Duke Energy Sustainable Solutions",
+                    "probability": 0.6798,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Ledyard Windpower",
+                    "probability": 0.7251,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Iowa",
+                    "probability": 0.8374,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "USA",
+                    "probability": 0.9535,
+                    "start": 121,
+                    "type": "Place"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4606,
+                    "start": 143,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/r93sx06",
+                    "end": 277,
+                    "expanded_url": "https://fcld.ly/r93sx06",
+                    "start": 254,
+                    "url": "https://t.co/MGEhw05m12"
+                },
+                {
+                    "display_url": "pic.twitter.com/oakphljpYG",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Vestas/status/1442780803331723267/photo/1",
+                    "media_key": "3_1442780801603674112",
+                    "start": 278,
+                    "url": "https://t.co/oakphljpYG"
+                }
+            ]
+        },
+        "id": "1442780803331723267",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 8,
+            "retweet_count": 9
+        },
+        "text": "Vestas has secured a 207 MW order from Duke Energy Sustainable Solutions to power the Ledyard Windpower project in Iowa, USA. With this order, Vestas introduces two new variants of the 4 MW platform \u2013 the V150-4.5 MW and the V136-4.5 MW. Read more here: https://t.co/MGEhw05m12 https://t.co/oakphljpYG"
+    }
+}

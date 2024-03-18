@@ -1,0 +1,84 @@
+{
+    "1499401739312656393": {
+        "author_id": "156646851",
+        "created_at": "2022-03-03T15:10:06.000Z",
+        "edit_history_tweet_ids": [
+            "1499401739312656393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5546,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Enefit Green",
+                    "probability": 0.6789,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Purtse",
+                    "probability": 0.5226,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Estonia",
+                    "probability": 0.9514,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6633,
+                    "start": 106,
+                    "type": "Place"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "Estonia",
+                    "probability": 0.9575,
+                    "start": 132,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 280,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-first-wind-project-in-estonia-with-21-mw-c3518384",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-first-wind-project-in-estonia-with-21-mw-c3518384",
+                    "url": "https://t.co/Qwh9wEV5U2"
+                }
+            ]
+        },
+        "id": "1499401739312656393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 36,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#Vestas has received a 21 MW order from Enefit Green for the Purtse wind project in Estonia, representing Vestas\u2019 market entry into Estonia. The order includes the supply and installation of 5x V136-4.2 MW turbines and a 30-year AOM 5000 service agreement.\nhttps://t.co/Qwh9wEV5U2"
+    }
+}

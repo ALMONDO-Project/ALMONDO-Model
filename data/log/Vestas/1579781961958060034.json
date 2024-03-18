@@ -1,0 +1,97 @@
+{
+    "1579781961958060034": {
+        "attachments": {
+            "media_keys": [
+                "3_1579781939870965760",
+                "3_1579781949945790465",
+                "3_1579781957650636800"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-10-11T10:32:25.000Z",
+        "edit_history_tweet_ids": [
+            "1579781961958060034"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4854,
+                    "start": 15,
+                    "type": "Place"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "WorldCleanUpDay",
+                    "probability": 0.7367,
+                    "start": 78,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7971,
+                    "start": 164,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 14,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 93,
+                    "start": 77,
+                    "tag": "WorldCleanUpDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3sDcZ",
+                    "end": 259,
+                    "expanded_url": "https://fal.cn/3sDcZ",
+                    "start": 236,
+                    "url": "https://t.co/GJfCoKIBI4"
+                },
+                {
+                    "display_url": "pic.twitter.com/62hiUjACCy",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/Vestas/status/1579781961958060034/photo/1",
+                    "media_key": "3_1579781939870965760",
+                    "start": 260,
+                    "url": "https://t.co/62hiUjACCy"
+                },
+                {
+                    "display_url": "pic.twitter.com/62hiUjACCy",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/Vestas/status/1579781961958060034/photo/1",
+                    "media_key": "3_1579781949945790465",
+                    "start": 260,
+                    "url": "https://t.co/62hiUjACCy"
+                },
+                {
+                    "display_url": "pic.twitter.com/62hiUjACCy",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/Vestas/status/1579781961958060034/photo/1",
+                    "media_key": "3_1579781957650636800",
+                    "start": 260,
+                    "url": "https://t.co/62hiUjACCy"
+                }
+            ]
+        },
+        "id": "1579781961958060034",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 25,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "More than 500 #Vestas colleagues from 19 different countries participated in #WorldCleanUpDay, the world\u2019s largest one-day civic action against waste pollution.\nAt Vestas, we incorporate sustainability in everything we do. \nLearn more: https://t.co/GJfCoKIBI4 https://t.co/62hiUjACCy"
+    }
+}

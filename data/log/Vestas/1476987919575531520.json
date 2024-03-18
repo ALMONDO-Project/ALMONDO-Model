@@ -1,0 +1,56 @@
+{
+    "1476987919575531520": {
+        "author_id": "156646851",
+        "created_at": "2021-12-31T18:45:35.000Z",
+        "edit_history_tweet_ids": [
+            "1476987919575531520"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5548,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "USA",
+                    "probability": 0.9834,
+                    "start": 67,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 256,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2021/vestas-wins-221-mw-order-in-the-usa-c3480270",
+                    "start": 233,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2021/vestas-wins-221-mw-order-in-the-usa-c3480270",
+                    "url": "https://t.co/1fIgRMW7Ur"
+                }
+            ]
+        },
+        "id": "1476987919575531520",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#Vestas has received a 221 MW order to power a wind project in the USA \ud83c\uddfa\ud83c\uddf8. The project consists of 46 V150-4.5 MW turbines, three V110-2.0 MW turbines in 2.2 MW operating mode, and two V136-3.45 MW turbines in 3.6 MW operating mode.\nhttps://t.co/1fIgRMW7Ur"
+    }
+}

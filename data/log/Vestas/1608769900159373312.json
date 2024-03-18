@@ -1,0 +1,60 @@
+{
+    "1608769900159373312": {
+        "attachments": {
+            "media_keys": [
+                "3_1608769897311469569"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-12-30T10:20:08.000Z",
+        "edit_history_tweet_ids": [
+            "1608769900159373312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "\u00d8sterild National",
+                    "probability": 0.5398,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9741,
+                    "start": 146,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3uLYD",
+                    "end": 198,
+                    "expanded_url": "https://fal.cn/3uLYD",
+                    "start": 175,
+                    "url": "https://t.co/wHUlCmcXJ9"
+                },
+                {
+                    "display_url": "pic.twitter.com/uPyRDZPb9x",
+                    "end": 222,
+                    "expanded_url": "https://twitter.com/Vestas/status/1608769900159373312/photo/1",
+                    "media_key": "3_1608769897311469569",
+                    "start": 199,
+                    "url": "https://t.co/uPyRDZPb9x"
+                }
+            ]
+        },
+        "id": "1608769900159373312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 51487,
+            "like_count": 278,
+            "quote_count": 19,
+            "reply_count": 7,
+            "retweet_count": 59
+        },
+        "text": "\ud83c\udd95 The V236-15.0 MW prototype turbine has now been fully installed and has produced its first kWh of power at the \u00d8sterild National test centre in Denmark. \nRead more here \u27a1\ufe0f  https://t.co/wHUlCmcXJ9 https://t.co/uPyRDZPb9x"
+    }
+}

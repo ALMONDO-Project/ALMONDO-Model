@@ -1,0 +1,79 @@
+{
+    "1483699081700593664": {
+        "attachments": {
+            "media_keys": [
+                "3_1483699079515451394"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-01-19T07:13:21.000Z",
+        "edit_history_tweet_ids": [
+            "1483699081700593664"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 93,
+                    "normalized_text": "Global100",
+                    "probability": 0.7237,
+                    "start": 85,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 94,
+                    "start": 84,
+                    "tag": "Global100"
+                },
+                {
+                    "end": 197,
+                    "start": 182,
+                    "tag": "Sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "156646851",
+                    "start": 0,
+                    "username": "Vestas"
+                },
+                {
+                    "end": 132,
+                    "id": "39692025",
+                    "start": 116,
+                    "username": "corporateknight"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/7hgvqlz",
+                    "end": 277,
+                    "expanded_url": "https://fcld.ly/7hgvqlz",
+                    "start": 254,
+                    "url": "https://t.co/mbThrTDFxV"
+                },
+                {
+                    "display_url": "pic.twitter.com/V7AZ1vNv7C",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Vestas/status/1483699081700593664/photo/1",
+                    "media_key": "3_1483699079515451394",
+                    "start": 278,
+                    "url": "https://t.co/V7AZ1vNv7C"
+                }
+            ]
+        },
+        "id": "1483699081700593664",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 127,
+            "quote_count": 14,
+            "reply_count": 3,
+            "retweet_count": 19
+        },
+        "text": "@Vestas has been named the most sustainable company in the world in the 18th annual #Global100 ranking published by @corporateknight \ud83c\udfc6 This award is a testament to both our existing #Sustainability achievements, and our ongoing progress. Read more here: https://t.co/mbThrTDFxV https://t.co/V7AZ1vNv7C"
+    }
+}

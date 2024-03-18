@@ -1,0 +1,94 @@
+{
+    "1575364808140013568": {
+        "attachments": {
+            "media_keys": [
+                "3_1575364804801433600"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-09-29T06:00:13.000Z",
+        "edit_history_tweet_ids": [
+            "1575364808140013568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "Lind\u00f8",
+                    "probability": 0.9467,
+                    "start": 72,
+                    "type": "Place"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5229,
+                    "start": 126,
+                    "type": "Place"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5995,
+                    "start": 212,
+                    "type": "Place"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "Wind Energy Hamburg",
+                    "probability": 0.7399,
+                    "start": 222,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 132,
+                    "start": 125,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 200,
+                    "start": 187,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 161,
+                    "id": "978610362290450432",
+                    "start": 148,
+                    "username": "WindEnergyHH"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3shR6",
+                    "end": 271,
+                    "expanded_url": "https://fal.cn/3shR6",
+                    "start": 248,
+                    "url": "https://t.co/YNXaU6oG1d"
+                },
+                {
+                    "display_url": "pic.twitter.com/MDI4biwja7",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Vestas/status/1575364808140013568/photo/1",
+                    "media_key": "3_1575364804801433600",
+                    "start": 272,
+                    "url": "https://t.co/MDI4biwja7"
+                }
+            ]
+        },
+        "id": "1575364808140013568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 35,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "The completion of the V236-15.0 MW\u2122 prototype nacelle at the factory in Lind\u00f8 is the culmination of the great\u00a0efforts of our #Vestas team. Visit us @WindEnergyHH and learn more about our #offshorewind approach! \nVestas at Wind Energy Hamburg 2022: https://t.co/YNXaU6oG1d https://t.co/MDI4biwja7"
+    }
+}

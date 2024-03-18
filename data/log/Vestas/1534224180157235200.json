@@ -1,0 +1,80 @@
+{
+    "1534224180157235200": {
+        "attachments": {
+            "media_keys": [
+                "3_1534224177514913794"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-06-07T17:22:03.000Z",
+        "edit_history_tweet_ids": [
+            "1534224180157235200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6358,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "Germany",
+                    "probability": 0.9696,
+                    "start": 105,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 152,
+                    "start": 139,
+                    "tag": "windturbines"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "12786932",
+                    "start": 12,
+                    "username": "EnBW"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/szevslr",
+                    "end": 250,
+                    "expanded_url": "https://fcld.ly/szevslr",
+                    "start": 227,
+                    "url": "https://t.co/dtp3XX46Zp"
+                },
+                {
+                    "display_url": "pic.twitter.com/mxNNNWTL2Q",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/Vestas/status/1534224180157235200/photo/1",
+                    "media_key": "3_1534224177514913794",
+                    "start": 251,
+                    "url": "https://t.co/mxNNNWTL2Q"
+                }
+            ]
+        },
+        "id": "1534224180157235200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 56,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "#Vestas and @EnBW have signed a conditional order agreement for the 900 MW He Dreiht offshore project in Germany to supply 64 V236-15.0 MW #windturbines and a multi-year solution to service the wind project when operational. \u27a1 https://t.co/dtp3XX46Zp https://t.co/mxNNNWTL2Q"
+    }
+}

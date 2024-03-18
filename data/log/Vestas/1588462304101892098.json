@@ -1,0 +1,65 @@
+{
+    "1588462304101892098": {
+        "attachments": {
+            "media_keys": [
+                "7_1588462199336493057"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-11-04T09:25:00.000Z",
+        "edit_history_tweet_ids": [
+            "1588462304101892098"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "COP27",
+                    "probability": 0.9401,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 19,
+                    "tag": "COP27"
+                },
+                {
+                    "end": 193,
+                    "start": 182,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/cop27",
+                    "end": 267,
+                    "expanded_url": "http://vestas.com/cop27",
+                    "start": 244,
+                    "url": "https://t.co/m1BUkdOzMt"
+                },
+                {
+                    "display_url": "pic.twitter.com/r811AMSb1Z",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Vestas/status/1588462304101892098/video/1",
+                    "media_key": "7_1588462199336493057",
+                    "start": 268,
+                    "url": "https://t.co/r811AMSb1Z"
+                }
+            ]
+        },
+        "id": "1588462304101892098",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 72,
+            "quote_count": 15,
+            "reply_count": 3,
+            "retweet_count": 22
+        },
+        "text": "We have one job at #COP27\n\nIt takes up to a decade to secure permission for a wind energy project. This year, we need to end permitting delays and shorten the permitting process for #windenergy.\n\nHow? We need an unlikely hero.\nFind out more at https://t.co/m1BUkdOzMt https://t.co/r811AMSb1Z"
+    }
+}

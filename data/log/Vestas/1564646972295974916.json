@@ -1,0 +1,56 @@
+{
+    "1564646972295974916": {
+        "author_id": "156646851",
+        "created_at": "2022-08-30T16:11:22.000Z",
+        "edit_history_tweet_ids": [
+            "1564646972295974916"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Marienborg Declaration",
+                    "probability": 0.803,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Europe",
+                    "probability": 0.9463,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Baltic Sea",
+                    "probability": 0.8906,
+                    "start": 122,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "regeringen.dk/aktuelt/publik\u2026",
+                    "end": 224,
+                    "expanded_url": "https://www.regeringen.dk/aktuelt/publikationer-og-aftaletekster/the-marienborg-declaration/",
+                    "start": 201,
+                    "status": 200,
+                    "unwound_url": "https://www.regeringen.dk/aktuelt/tidligere-publikationer/the-marienborg-declaration/",
+                    "url": "https://t.co/KQIeZYJJS6"
+                }
+            ]
+        },
+        "id": "1564646972295974916",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "The Marienborg Declaration is an important step towards a safer and greener Europe. \n20 GW of offshore wind energy in the Baltic Sea by 2030 is indeed possible if we speed up auctions and permitting.\n\nhttps://t.co/KQIeZYJJS6"
+    }
+}

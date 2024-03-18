@@ -1,0 +1,81 @@
+{
+    "1509573944239665157": {
+        "attachments": {
+            "media_keys": [
+                "3_1509573940808671233"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-03-31T16:50:49.000Z",
+        "edit_history_tweet_ids": [
+            "1509573944239665157"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7403,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "France",
+                    "probability": 0.9579,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "Ocean Winds",
+                    "probability": 0.5825,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "\u00c9oliennes Flottantes",
+                    "probability": 0.5346,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/4jobhwh",
+                    "end": 279,
+                    "expanded_url": "https://fcld.ly/4jobhwh",
+                    "start": 256,
+                    "url": "https://t.co/yJHu9w9czx"
+                },
+                {
+                    "display_url": "pic.twitter.com/9XUn7qTHf6",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1509573944239665157/photo/1",
+                    "media_key": "3_1509573940808671233",
+                    "start": 280,
+                    "url": "https://t.co/9XUn7qTHf6"
+                }
+            ]
+        },
+        "id": "1509573944239665157",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 35,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "#Vestas secures a floating wind project in France with Ocean Winds for the \u00c9oliennes Flottantes du Golfe du Lion offshore wind park.\nThe contract includes the supply, transport, installation, supervision and commissioning of 3x V164-10.0 MW wind turbines.\nhttps://t.co/yJHu9w9czx https://t.co/9XUn7qTHf6"
+    }
+}

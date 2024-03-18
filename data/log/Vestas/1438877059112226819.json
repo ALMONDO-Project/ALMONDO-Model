@@ -1,0 +1,84 @@
+{
+    "1438877059112226819": {
+        "attachments": {
+            "media_keys": [
+                "3_1438877053525315585"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-17T14:46:38.000Z",
+        "edit_history_tweet_ids": [
+            "1438877059112226819"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Morten Buchgreitz",
+                    "probability": 0.7289,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "GSVP",
+                    "probability": 0.4961,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7303,
+                    "start": 138,
+                    "type": "Place"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Poland",
+                    "probability": 0.9499,
+                    "start": 251,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 144,
+                    "start": 137,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 257,
+                    "start": 250,
+                    "tag": "Poland"
+                },
+                {
+                    "end": 275,
+                    "start": 262,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/AF77iZSB6n",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Vestas/status/1438877059112226819/photo/1",
+                    "media_key": "3_1438877053525315585",
+                    "start": 276,
+                    "url": "https://t.co/AF77iZSB6n"
+                }
+            ]
+        },
+        "id": "1438877059112226819",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Earlier this week, Morten Buchgreitz, GSVP, Head of Global Commercial Offshore, signed the Polish Offshore Wind Sector Deal on behalf of #Vestas.\n\nThis Sector Deal is vital to the development of a sustainable, long-term offshore wind supply chain in #Poland \ud83c\uddf5\ud83c\uddf1\n\n#offshorewind https://t.co/AF77iZSB6n"
+    }
+}

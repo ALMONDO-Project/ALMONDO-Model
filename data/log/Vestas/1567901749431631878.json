@@ -1,0 +1,60 @@
+{
+    "1567901749431631878": {
+        "author_id": "156646851",
+        "created_at": "2022-09-08T15:44:41.000Z",
+        "edit_history_tweet_ids": [
+            "1567901749431631878"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "PoweredbyVestas",
+                    "probability": 0.6399,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 120,
+                    "start": 104,
+                    "tag": "PoweredbyVestas"
+                },
+                {
+                    "end": 242,
+                    "start": 224,
+                    "tag": "sustainablefuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 208,
+                    "id": "156646851",
+                    "start": 201,
+                    "username": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/PoweredByVesta\u2026",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/PoweredByVestas/status/1567900111191130112",
+                    "start": 268,
+                    "url": "https://t.co/GjUtm8A7E8"
+                }
+            ]
+        },
+        "id": "1567901749431631878",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "That's a wrap! After three successful seasons, we're celebrating the success of the @MercedesEQFE Team, #PoweredbyVestas. Congrats on the achievements, and thanks for your support and for working with @Vestas towards a more #sustainablefuture. \u26a1\ufe0f Fair winds Team!! \ud83c\udf2c\ufe0f https://t.co/GjUtm8A7E8"
+    }
+}

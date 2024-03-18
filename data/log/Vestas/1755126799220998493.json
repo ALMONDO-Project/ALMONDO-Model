@@ -1,0 +1,57 @@
+{
+    "1755126799220998493": {
+        "attachments": {
+            "media_keys": [
+                "3_1755126652827205632"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2024-02-07T07:10:12.000Z",
+        "edit_history_tweet_ids": [
+            "1755126799220998493"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 109,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3634,
+                    "start": 104,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/dRJmeTtt",
+                    "end": 219,
+                    "expanded_url": "https://lnkd.in/dRJmeTtt",
+                    "start": 196,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/dRJmeTtt",
+                    "url": "https://t.co/qF8jYpKt7Y"
+                },
+                {
+                    "display_url": "pic.twitter.com/z4Pz64QuQb",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/Vestas/status/1755126799220998493/photo/1",
+                    "media_key": "3_1755126652827205632",
+                    "start": 220,
+                    "url": "https://t.co/z4Pz64QuQb"
+                }
+            ]
+        },
+        "id": "1755126799220998493",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2341,
+            "like_count": 37,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 12
+        },
+        "text": "\ud83c\udf0e Out now: our financial report for our full-year results for 2023. With an EBIT-margin of 1.5 percent, Vestas has fulfilled its guidance and returned to profitability. \n\nRead more in our report:\u00a0https://t.co/qF8jYpKt7Y https://t.co/z4Pz64QuQb"
+    }
+}

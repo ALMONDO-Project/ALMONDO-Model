@@ -1,0 +1,89 @@
+{
+    "1468693595410640904": {
+        "attachments": {
+            "media_keys": [
+                "3_1468693592969551872"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-12-08T21:26:54.000Z",
+        "edit_history_tweet_ids": [
+            "1468693595410640904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6214,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Sapphire Sky",
+                    "probability": 0.833,
+                    "start": 142,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Illinois",
+                    "probability": 0.6465,
+                    "start": 171,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "USA",
+                    "probability": 0.9248,
+                    "start": 181,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 128,
+                    "id": "230879035",
+                    "start": 115,
+                    "username": "InvenergyLLC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/07elws0",
+                    "end": 223,
+                    "expanded_url": "https://fcld.ly/07elws0",
+                    "start": 200,
+                    "url": "https://t.co/okYpcX9qQK"
+                },
+                {
+                    "display_url": "pic.twitter.com/kUcxJDsTZM",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Vestas/status/1468693595410640904/photo/1",
+                    "media_key": "3_1468693592969551872",
+                    "start": 224,
+                    "url": "https://t.co/kUcxJDsTZM"
+                }
+            ]
+        },
+        "id": "1468693595410640904",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "#Vestas has secured a 235 MW order of V150-4.2 MW turbines and V136-3.45 MW turbines in 3.6 MW operating mode from @InvenergyLLC to power the Sapphire Sky wind project in Illinois, USA \ud83c\uddfa\ud83c\uddf8\n\nRead more: https://t.co/okYpcX9qQK https://t.co/kUcxJDsTZM"
+    }
+}
