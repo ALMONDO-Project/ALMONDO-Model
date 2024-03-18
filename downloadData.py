@@ -128,14 +128,16 @@ class UserDataDownload():
             exit()   
             
     def set_time_limits(self):
-        self.end_time = "2023-12-31T23:59:59.000Z"
-        self.start_time = new_start_time(self.userlogpath)
+        self.start_time = "2023-01-01T00:00:00.000Z"
+        
+        if is_before(new_end_time(self.userlogpath), "2023-12-31T23:59:59.000Z"):
+            self.end_time new_end_time(self.userlogpath)
+        else:
+            self.end_time= "2023-12-31T23:59:59.000Z"
         
         if not is_before(self.start_time, self.end_time):
-            return None 
+            raise Exception
         
-        if is_before(self.start_time, "2023-01-01T00:00:00.000Z"):
-            return None   
             
            
         
@@ -181,14 +183,18 @@ class UserDataDownload():
                     if count <= 0:
                         return
             except TypeError:
-                self.update_users_done(self.username)
+                with open('data/log/users_done.txt', 'a') as file:
+                    file.write('@'+self.username)
+                    file.write('\n')
                 return 
             except TweetAlreadyDumpedException:
                 print('>>> check if unitll_id is set properly')
                 return
                
             if not next_token:
-                self.update_users_done()
+                with open('data/log/users_done.txt', 'a') as file:
+                    file.write('@'+self.username)
+                    file.write('\n')
                 return     
             
             print('>>> going to sleep for 3 minutes')

@@ -80,7 +80,7 @@ def get_oldest_tweet_id(path):
             last_tweet = list(json.load(file))[-1]
         return last_tweet['id']
 
-def new_start_time(path):
+def new_end_time(path): #start time deve rimanere 1 gennaio, end time deve diventare prima del 31 dicembre
     try:
         json_files = [int(file.replace('.json', '')) for file in os.listdir(path) if file.endswith('.json')]
         json_files.sort()
@@ -88,9 +88,9 @@ def new_start_time(path):
             tweet = json.load(file)
             created_at_str = tweet[str(json_files[0])]['created_at']
             created_at_dt = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
-            created_at_dt += timedelta(seconds=1)
+            created_at_dt -= timedelta(seconds=1)
     except (IndexError, ValueError) as e:
-        created_at_dt = datetime(2023, 1, 1, 00, 00, 00)
+        created_at_dt = datetime(2023, 31, 12, 23, 59, 59)
         print(f"An error occurred: {e}. Setting default start time to {created_at_dt}")
     
     # Ensure proper RFC3339 format
