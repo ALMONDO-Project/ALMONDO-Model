@@ -147,15 +147,15 @@ class UserDataDownload():
             return None
 
     def download(self):
-        if os.path.exists(f'{self.filename}'):
-            with open(f'{self.filename}', 'r') as file:
+        if os.path.exists(f'{self.useroutdatapath}/{self.username}_tweets_merged.json'):
+            with open(f'{self.useroutdatapath}/{self.username}_tweets_merged.json', 'r') as file:
                 self.tweets = list(json.load(file))
         else:
             self.tweets = []
         print('>>> started retrieving tweets')
         for page in tqdm.tqdm(self.paginator):
             pagination_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
-            for tweet in page.data:#così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+            for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
                 tweet_data = {tweet.data['id']: tweet.data}
                 self.tweets.append(tweet_data)
                 with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
