@@ -2,6 +2,7 @@ import os
 import tweepy
 import json
 import requests
+import logging
 from datetime import datetime, timedelta
 
 # client = tweepy.client(BEARER_TOKEN)
@@ -113,7 +114,21 @@ def update_users_done(username):
     with open(f'data/log/users_done.txt', 'a') as file:
         file.write(f'@{username}\n')        
     
-    
+# Configure logging
+logging.basicConfig(filename='data/log/output.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Redirect print statements to the logger
+class PrintLogger:
+    def __init__(self, logger, level=logging.INFO):
+        self.logger = logger
+        self.level = level
+
+    def write(self, message):
+        if message.rstrip() != "":
+            self.logger.log(self.level, message.rstrip())
+
+    def flush(self):
+        pass   
 
 
     

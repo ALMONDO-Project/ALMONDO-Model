@@ -6,8 +6,12 @@ import tqdm
 import math
 import pickle
 import time
+import sys
 from json.decoder import JSONDecodeError
 from utils import *
+
+sys.stdout = PrintLogger(logging.getLogger('stdout'), logging.INFO)
+sys.stderr = PrintLogger(logging.getLogger('stderr'), logging.ERROR)
 
 class TweetAlreadyDumpedException():
     pass
