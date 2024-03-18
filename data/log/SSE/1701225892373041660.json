@@ -1,0 +1,42 @@
+{
+    "1701225892373041660": {
+        "author_id": "67342845",
+        "created_at": "2023-09-11T13:27:14.000Z",
+        "edit_history_tweet_ids": [
+            "1701225892373041660"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "UK",
+                    "probability": 0.9797,
+                    "start": 104,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sse.com/news-and-views\u2026",
+                    "end": 209,
+                    "expanded_url": "https://www.sse.com/news-and-views/2023/09/offshore-wind-can-power-a-uk-industrial-renaissance-but-we-are-at-a-crossroads/",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://www.sse.com/news-and-views/2023/09/offshore-wind-can-power-a-uk-industrial-renaissance-but-we-are-at-a-crossroads/",
+                    "url": "https://t.co/UuD4JaKwE2"
+                }
+            ]
+        },
+        "id": "1701225892373041660",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1477,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Offshore wind boosts energy security, affordability and tackles climate change.\n\nIt has been one of the UK's great success stories.\n\nBut it is a cross-roads.\n\nWhich way should we turn?\n\nhttps://t.co/UuD4JaKwE2"
+    }
+}

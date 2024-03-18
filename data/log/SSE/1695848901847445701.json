@@ -1,0 +1,52 @@
+{
+    "1695848901847445701": {
+        "author_id": "67342845",
+        "created_at": "2023-08-27T17:21:00.000Z",
+        "edit_history_tweet_ids": [
+            "1695848901847445701"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Peter Gilmour",
+                    "probability": 0.9192,
+                    "start": 14,
+                    "type": "Person"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "SSE Renewables",
+                    "probability": 0.5132,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Scotland",
+                    "probability": 0.8311,
+                    "start": 192,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 0,
+                    "tag": "PowerChanger"
+                }
+            ]
+        },
+        "id": "1695848901847445701",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1349,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#PowerChanger Peter Gilmour, an Area Manager at SSE Renewables, is one of four Area Managers within the Operation team responsible for the diverse range of flexible hydro generation assets in Scotland. \ud83c\udf0a\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1691085514953097217": {
+        "attachments": {
+            "media_keys": [
+                "13_1605911324084486146"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-08-14T13:53:00.000Z",
+        "edit_history_tweet_ids": [
+            "1691085514953097217"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Scotland",
+                    "probability": 0.9611,
+                    "start": 55,
+                    "type": "Organization"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Bruce",
+                    "probability": 0.7039,
+                    "start": 135,
+                    "type": "Person"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "Deskford",
+                    "probability": 0.9892,
+                    "start": 147,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jUIxrBYFZe",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/SSE/status/1691085514953097217/video/1",
+                    "media_key": "13_1605911324084486146",
+                    "start": 273,
+                    "url": "https://t.co/jUIxrBYFZe"
+                }
+            ]
+        },
+        "id": "1691085514953097217",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 919,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019ve been speaking to communities across the north of Scotland to hear how they\u2019ll support local residents during emergency events. \n\nBruce is in Deskford, where they have just received one of our grants and are deciding how they will use it to support the community... \ud83d\udcf9 https://t.co/jUIxrBYFZe"
+    }
+}

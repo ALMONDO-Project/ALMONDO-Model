@@ -1,0 +1,67 @@
+{
+    "1732297426193580402": {
+        "attachments": {
+            "media_keys": [
+                "7_1732296240627322880"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-12-06T07:14:25.000Z",
+        "edit_history_tweet_ids": [
+            "1732297426193580402"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "COP26",
+                    "probability": 0.9262,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Glasgow",
+                    "probability": 0.99,
+                    "start": 26,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 16,
+                    "tag": "COP26"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/i/web/status/1732297426193580402",
+                    "start": 277,
+                    "url": "https://t.co/K2RgPJnIJZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/oV5f8mIaBg",
+                    "end": 324,
+                    "expanded_url": "https://twitter.com/SSE/status/1732297426193580402/video/1",
+                    "media_key": "7_1732296240627322880",
+                    "start": 301,
+                    "url": "https://t.co/oV5f8mIaBg"
+                }
+            ]
+        },
+        "id": "1732297426193580402",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4987,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Back in 2021 at #COP26 in Glasgow, over 10,000 members of the public along with world leaders and climate activists signed their name and pledged their commitment to our call for ambitious climate action.\ud83d\udd8a\ufe0f\n\nIn return, every name was used to make an installation that now has\u2026 https://t.co/K2RgPJnIJZ https://t.co/oV5f8mIaBg"
+    }
+}

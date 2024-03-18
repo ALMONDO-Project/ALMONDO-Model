@@ -1,0 +1,67 @@
+{
+    "1692468124921336200": {
+        "attachments": {
+            "media_keys": [
+                "13_1605905286593622016"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-08-18T09:27:00.000Z",
+        "edit_history_tweet_ids": [
+            "1692468124921336200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Scotland",
+                    "probability": 0.9547,
+                    "start": 60,
+                    "type": "Organization"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Colin",
+                    "probability": 0.5117,
+                    "start": 197,
+                    "type": "Other"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "Cullen",
+                    "probability": 0.3482,
+                    "start": 208,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "Deskford Community Association",
+                    "probability": 0.5474,
+                    "start": 219,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/MlQi2ORydd",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/SSE/status/1692468124921336200/video/1",
+                    "media_key": "13_1605905286593622016",
+                    "start": 254,
+                    "url": "https://t.co/MlQi2ORydd"
+                }
+            ]
+        },
+        "id": "1692468124921336200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 627,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019ve been catching up with communities across the north of Scotland to find out how they\u2019re improving resilience for local residents during emergency events with help from our grants.\n\nNext up is Colin from Cullen and Deskford Community Association...\ud83d\udcf9 https://t.co/MlQi2ORydd"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1692210346918916191": {
+        "author_id": "67342845",
+        "created_at": "2023-08-17T16:22:41.000Z",
+        "edit_history_tweet_ids": [
+            "1692210346918916191"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "SSE",
+                    "probability": 0.3816,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "Shetland",
+                    "probability": 0.8444,
+                    "start": 85,
+                    "type": "Place"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Viking",
+                    "probability": 0.5519,
+                    "start": 107,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/sserenewables/\u2026",
+                    "end": 156,
+                    "expanded_url": "https://twitter.com/sserenewables/status/1692171836266774637",
+                    "start": 133,
+                    "url": "https://t.co/iK1rM1HyhU"
+                }
+            ]
+        },
+        "id": "1692210346918916191",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1472,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "At SSE we are lucky to work with a range of great community organisations, including Shetland, home to the Viking onshore wind farm. https://t.co/iK1rM1HyhU"
+    }
+}

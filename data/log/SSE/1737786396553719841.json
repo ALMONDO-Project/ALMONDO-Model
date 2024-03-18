@@ -1,0 +1,75 @@
+{
+    "1737786396553719841": {
+        "attachments": {
+            "media_keys": [
+                "3_1737786095016792064"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-12-21T10:45:38.000Z",
+        "edit_history_tweet_ids": [
+            "1737786396553719841"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Scottish Highlands radio",
+                    "probability": 0.4272,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Moray Forth Radio",
+                    "probability": 0.7835,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "for",
+                    "probability": 0.5058,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 153,
+                    "start": 136,
+                    "tag": "MissionChristmas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "82981866",
+                    "start": 1,
+                    "username": "sserenewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/2iWbIBkUax",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/SSE/status/1737786396553719841/photo/1",
+                    "media_key": "3_1737786095016792064",
+                    "start": 273,
+                    "url": "https://t.co/2iWbIBkUax"
+                }
+            ]
+        },
+        "id": "1737786396553719841",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 951,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf84@sserenewables have donated \u00a31,000 to Scottish Highlands radio station, Moray Forth Radio, as part of their support towards the annual #MissionChristmas campaign run by the charity Cash for Kids. The campaign ensures that every child wakes up to a gift on Christmas Day.\ud83c\udf81 https://t.co/2iWbIBkUax"
+    }
+}

@@ -128,13 +128,13 @@ class UserDataDownload():
             exit()   
             
     def set_time_limits(self):
-        self.end_time = "2023-12-31T23:59:59Z"
-        self.start_time = self.new_start_time(self.userlogpath)
+        self.end_time = "2023-12-31T23:59:59.000Z"
+        self.start_time = new_start_time(self.userlogpath)
         
         if not is_before(self.start_time, self.end_time):
             return None 
         
-        if is_before(self.start_time, "2023-01-01T00:00:00Z"):
+        if is_before(self.start_time, "2023-01-01T00:00:00.000Z"):
             return None   
             
            
@@ -156,12 +156,12 @@ class UserDataDownload():
                                     tweet_fields = self.tweet_fields,
                                     media_fields = self.media_fields,
                                     user_fields = self.user_fields,
-                                    start_time = start_time,
-                                    end_time = end_time,
+                                    start_time = self.start_time,
+                                    end_time = self.end_time,
                                     limit = limit,
                                     max_results = max_results)
         
-        print(f'>>> started retrieving tweets from {start_time} to {end_time}')
+        print(f'>>> started retrieving tweets from {self.start_time} to {self.end_time}')
         
         for page in self.paginator:
             print(">>> starting a new request") 

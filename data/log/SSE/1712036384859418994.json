@@ -1,0 +1,64 @@
+{
+    "1712036384859418994": {
+        "author_id": "67342845",
+        "created_at": "2023-10-11T09:24:16.000Z",
+        "edit_history_tweet_ids": [
+            "1712036384859418994"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Teeside",
+                    "probability": 0.3662,
+                    "start": 0,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 154,
+                    "id": "238144384",
+                    "start": 142,
+                    "username": "RBullockITV"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Dogger Bank, 70 miles from the Teesside Coast, will produce electricity for around six million homes when fully built. | ITV News Tyne Tees",
+                    "display_url": "itv.com/news/tyne-tees\u2026",
+                    "end": 239,
+                    "expanded_url": "https://www.itv.com/news/tyne-tees/2023-10-10/worlds-largest-wind-farm-starts-producing-electricity",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1731373542040813568/otCLt7FF?format=jpg&name=orig",
+                            "width": 1600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1731373542040813568/otCLt7FF?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 216,
+                    "status": 200,
+                    "title": "World's largest wind farm starts producing electricity | ITV News",
+                    "unwound_url": "https://www.itv.com/news/tyne-tees/2023-10-10/worlds-largest-wind-farm-starts-producing-electricity",
+                    "url": "https://t.co/Qr2q094oB8"
+                }
+            ]
+        },
+        "id": "1712036384859418994",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 713,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Teeside is turning its massive clean energy potential into good jobs, stronger energy security and of course, helping tackle climate change.\n\n@RBullockITV's report shows what it is like to turn ambition into action: https://t.co/Qr2q094oB8"
+    }
+}

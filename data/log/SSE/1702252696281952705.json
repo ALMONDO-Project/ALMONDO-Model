@@ -1,0 +1,45 @@
+{
+    "1702252696281952705": {
+        "author_id": "67342845",
+        "created_at": "2023-09-14T09:27:23.000Z",
+        "edit_history_tweet_ids": [
+            "1702252696281952705"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "SSE",
+                    "probability": 0.6337,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "UK",
+                    "probability": 0.9742,
+                    "start": 40,
+                    "type": "Place"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "Ireland",
+                    "probability": 0.968,
+                    "start": 49,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1702252696281952705",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 551,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "SSE stands ready to help deliver on the UK\u2019s and Ireland\u2019s shared clean energy ambitions, with an investment programme in electricity infrastructure that could reach \u00a340bn over the next decade.\u26a1\ufe0f"
+    }
+}

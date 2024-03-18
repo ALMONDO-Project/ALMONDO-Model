@@ -1,0 +1,58 @@
+{
+    "1696815269400789159": {
+        "author_id": "67342845",
+        "created_at": "2023-08-30T09:21:00.000Z",
+        "edit_history_tweet_ids": [
+            "1696815269400789159"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Caroline Donnelly",
+                    "probability": 0.8851,
+                    "start": 14,
+                    "type": "Person"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "SSE",
+                    "probability": 0.4219,
+                    "start": 255,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 0,
+                    "tag": "PowerChanger"
+                },
+                {
+                    "end": 112,
+                    "start": 104,
+                    "tag": "Onshore"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 68,
+                    "id": "82981866",
+                    "start": 54,
+                    "username": "sserenewables"
+                }
+            ]
+        },
+        "id": "1696815269400789159",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1237,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#PowerChanger Caroline Donnelly, a Consent Manager at @sserenewables, is responsible for consenting new #Onshore projects including wind &amp; hydrogen, &amp; for consenting the repowering of existing wind farms with the aim of increasing &amp; improving SSE\u2019s renewable infrastructure.\ud83c\udf0d"
+    }
+}

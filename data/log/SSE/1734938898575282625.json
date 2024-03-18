@@ -1,0 +1,52 @@
+{
+    "1734938898575282625": {
+        "author_id": "67342845",
+        "created_at": "2023-12-13T14:10:41.000Z",
+        "edit_history_tweet_ids": [
+            "1734938898575282625"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "SSE",
+                    "probability": 0.6983,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "Alistair Phillips-Davies",
+                    "probability": 0.8965,
+                    "start": 23,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "of",
+                    "probability": 0.515,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "COP28",
+                    "probability": 0.7226,
+                    "start": 94,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1734938898575282625",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 692,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "SSE's Chief Executive, Alistair Phillips-Davies comments on the recent Conference of Parties (COP28) outcome \u2b07\ufe0f"
+    }
+}

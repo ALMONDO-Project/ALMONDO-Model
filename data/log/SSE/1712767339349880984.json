@@ -1,0 +1,88 @@
+{
+    "1712767339349880984": {
+        "attachments": {
+            "media_keys": [
+                "3_1712767325055623169"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-10-13T09:48:50.000Z",
+        "edit_history_tweet_ids": [
+            "1712767339349880984"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Nikki Flanders",
+                    "probability": 0.8649,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "Ireland",
+                    "probability": 0.933,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "ChamberConf23",
+                    "probability": 0.7806,
+                    "start": 106,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "UK",
+                    "probability": 0.9586,
+                    "start": 242,
+                    "type": "Place"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9738,
+                    "start": 251,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 105,
+                    "tag": "ChamberConf23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 313,
+                    "expanded_url": "https://twitter.com/i/web/status/1712767339349880984",
+                    "start": 290,
+                    "url": "https://t.co/YgRpKuYRyc"
+                },
+                {
+                    "display_url": "pic.twitter.com/74xQgtIzE5",
+                    "end": 337,
+                    "expanded_url": "https://twitter.com/SSE/status/1712767339349880984/photo/1",
+                    "media_key": "3_1712767325055623169",
+                    "start": 314,
+                    "url": "https://t.co/74xQgtIzE5"
+                }
+            ]
+        },
+        "id": "1712767339349880984",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 883,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Nikki Flanders, Group MD Energy Customer Solutions, GB &amp; Ireland also took to the stage yesterday at #ChamberConf23 to reflect on topics explored throughout the day, including how best to reaffirm existing energy partnerships between the UK &amp; Ireland. \n\nThe main take away is that\u2026 https://t.co/YgRpKuYRyc https://t.co/74xQgtIzE5"
+    }
+}

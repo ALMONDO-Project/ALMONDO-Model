@@ -1,0 +1,67 @@
+{
+    "1693859291919430117": {
+        "author_id": "67342845",
+        "created_at": "2023-08-22T05:35:00.000Z",
+        "edit_history_tweet_ids": [
+            "1693859291919430117"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "William Wright",
+                    "probability": 0.9499,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "Beatrice",
+                    "probability": 0.6479,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "William",
+                    "probability": 0.5725,
+                    "start": 145,
+                    "type": "Person"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "NetZero",
+                    "probability": 0.3772,
+                    "start": 254,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 261,
+                    "start": 253,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 52,
+                    "id": "82981866",
+                    "start": 38,
+                    "username": "sserenewables"
+                }
+            ]
+        },
+        "id": "1693859291919430117",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1024,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "William Wright grew up in eyesight of @sserenewables\u2019 Beatrice wind farm, sparking his interest in working in the renewable energy sector.\n\nNow, William has joined our green army as one of the 1,000 new recruits we\u2019re hiring each year to help deliver a #NetZero energy system. \u27a1\ufe0f"
+    }
+}

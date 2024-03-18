@@ -1,0 +1,58 @@
+{
+    "1734905624968724964": {
+        "author_id": "67342845",
+        "created_at": "2023-12-13T11:58:28.000Z",
+        "edit_history_tweet_ids": [
+            "1734905624968724964"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "H2NorthEast",
+                    "probability": 0.8258,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Teesside",
+                    "probability": 0.4566,
+                    "start": 83,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 62,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 229,
+                    "start": 213,
+                    "tag": "decarbonisation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1233368732493385729",
+                    "start": 2,
+                    "username": "ssethermal"
+                }
+            ]
+        },
+        "id": "1734905624968724964",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 492,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udce3 @ssethermal has acquired a 50% stake in H2NorthEast, a blue #hydrogen project in Teesside which is set to play a major role in supporting a reliable decarbonised power system by 2035 and accelerating industrial #decarbonisation."
+    }
+}

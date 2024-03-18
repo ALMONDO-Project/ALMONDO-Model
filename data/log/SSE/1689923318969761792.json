@@ -1,0 +1,65 @@
+{
+    "1689923318969761792": {
+        "author_id": "67342845",
+        "created_at": "2023-08-11T08:54:51.000Z",
+        "edit_history_tweet_ids": [
+            "1689923318969761792"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Lenalea Wind Farm",
+                    "probability": 0.7319,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Donegal",
+                    "probability": 0.7654,
+                    "start": 167,
+                    "type": "Place"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9626,
+                    "start": 176,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 136,
+                    "id": "156646851",
+                    "start": 129,
+                    "username": "Vestas"
+                },
+                {
+                    "end": 242,
+                    "id": "82981866",
+                    "start": 228,
+                    "username": "sserenewables"
+                },
+                {
+                    "end": 262,
+                    "id": "1514158205772906496",
+                    "start": 247,
+                    "username": "FuturEnergyIre"
+                }
+            ]
+        },
+        "id": "1689923318969761792",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 896,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Lenalea Wind Farm has reached a landmark milestone in its construction with the successful installation of its seventh and final @Vestas turbine at the site in County Donegal, Ireland. \n\nThe wind farm is a joint venture between @sserenewables and @FuturEnergyIre."
+    }
+}

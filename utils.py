@@ -2,6 +2,7 @@ import os
 import tweepy
 import json
 import requests
+from datetime import datetime, timedelta
 
 # client = tweepy.client(BEARER_TOKEN)
 
@@ -81,28 +82,19 @@ def get_oldest_tweet_id(path):
 
 def new_start_time(path):
     try:
-        # Get the list of JSON files in the directory
         json_files = [int(file.replace('.json', '')) for file in os.listdir(path) if file.endswith('.json')]
+        json_files.sort()
+        with open(f'{path}/{json_files[0]}.json', 'r') as file:
+            tweet = json.load(file)
+            created_at_str = tweet[str(json_files[0])]['created_at']
+            created_at_dt = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+            created_at_dt += timedelta(seconds=1)
+    except (IndexError, ValueError) as e:
+        created_at_dt = datetime(2023, 1, 1, 00, 00, 00)
+        print(f"An error occurred: {e}. Setting default start time to {created_at_dt}")
     
-    except IndexError:
-        return None
-
-    json_files.sort()
-
-    # Load the first tweet from the JSON file
-    with open(f'{path}/{json_files[0]}.json', 'r') as file:
-        tweet = json.load(file)
-        created_at_str = tweet[str(json_files[0])]['created_at']
-
-    # Convert the created_at string to a datetime object
-    created_at_dt = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
-
-    # Add a second to the datetime object
-    created_at_dt += timedelta(seconds=1)
-
-    # Convert the modified datetime object back to a string
-    updated_created_at_str = created_at_dt.strftime('%Y-%m-%dT%H:%M:%S.%fZ')
-
+    # Ensure proper RFC3339 format
+    updated_created_at_str = created_at_dt.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
     return updated_created_at_str
     
 def is_before(start_date_str, end_date_str):

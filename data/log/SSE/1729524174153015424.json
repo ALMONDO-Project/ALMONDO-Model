@@ -1,0 +1,75 @@
+{
+    "1729524174153015424": {
+        "attachments": {
+            "media_keys": [
+                "3_1729524145346555904"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-11-28T15:34:30.000Z",
+        "edit_history_tweet_ids": [
+            "1729524174153015424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "SSE",
+                    "probability": 0.629,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Scottish Government",
+                    "probability": 0.4084,
+                    "start": 126,
+                    "type": "Organization"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Scotland",
+                    "probability": 0.8829,
+                    "start": 174,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "46650770",
+                    "start": 35,
+                    "username": "scotgov"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/i/web/status/1729524174153015424",
+                    "start": 269,
+                    "url": "https://t.co/GlI6YiEBRy"
+                },
+                {
+                    "display_url": "pic.twitter.com/Bi2kV9OZlZ",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/SSE/status/1729524174153015424/photo/1",
+                    "media_key": "3_1729524145346555904",
+                    "start": 293,
+                    "url": "https://t.co/Bi2kV9OZlZ"
+                }
+            ]
+        },
+        "id": "1729524174153015424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 981,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "SSE comments on the publication of @scotgov's consultation on a Heat in Buildings Bill:\n\n\"We welcome further clarity from the Scottish Government on its plans to decarbonise Scotland\u2019s building stock. The government\u2019s proposals will mean the country needs to speed up\u2026 https://t.co/GlI6YiEBRy https://t.co/Bi2kV9OZlZ"
+    }
+}

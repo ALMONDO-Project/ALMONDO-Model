@@ -1,0 +1,71 @@
+{
+    "1709187927903781096": {
+        "author_id": "67342845",
+        "created_at": "2023-10-03T12:45:31.000Z",
+        "edit_history_tweet_ids": [
+            "1709187927903781096"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Europe",
+                    "probability": 0.9326,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "EnergyGoals",
+                    "probability": 0.5079,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9684,
+                    "start": 112,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "EuropeanParliament",
+                    "probability": 0.4097,
+                    "start": 174,
+                    "type": "Other"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "Alistair Phillips-Davies",
+                    "probability": 0.7702,
+                    "start": 219,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 70,
+                    "tag": "EnergyGoals"
+                },
+                {
+                    "end": 192,
+                    "start": 173,
+                    "tag": "EuropeanParliament"
+                }
+            ]
+        },
+        "id": "1709187927903781096",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 979,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Offshore wind will be a key component to meeting Europe\u2019s climate and #EnergyGoals, and we brought the topic of Ireland\u2019s offshore wind energy potential to the forefront of #EuropeanParliament.\n\nHear more from our CEO, Alistair Phillips-Davies \u2b07\ufe0f"
+    }
+}

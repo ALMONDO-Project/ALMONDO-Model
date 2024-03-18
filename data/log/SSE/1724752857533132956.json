@@ -1,0 +1,38 @@
+{
+    "1724752857533132956": {
+        "author_id": "67342845",
+        "created_at": "2023-11-15T11:35:00.000Z",
+        "edit_history_tweet_ids": [
+            "1724752857533132956"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "UK",
+                    "probability": 0.9799,
+                    "start": 82,
+                    "type": "Place"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9696,
+                    "start": 89,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1724752857533132956",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 770,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re investing up to \u00a320.5bn over the five years to 2027, helping accelerate the UK and Ireland's net zero transition. \u2b07\ufe0f"
+    }
+}

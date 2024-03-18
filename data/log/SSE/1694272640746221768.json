@@ -1,0 +1,67 @@
+{
+    "1694272640746221768": {
+        "author_id": "67342845",
+        "created_at": "2023-08-23T08:57:30.000Z",
+        "edit_history_tweet_ids": [
+            "1694272640746221768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Thimblerow",
+                    "probability": 0.8038,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "PerthshirePride",
+                    "probability": 0.5114,
+                    "start": 135,
+                    "type": "Other"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "North Inch",
+                    "probability": 0.5036,
+                    "start": 197,
+                    "type": "Place"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "SSE",
+                    "probability": 0.3815,
+                    "start": 235,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 150,
+                    "start": 134,
+                    "tag": "PerthshirePride"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "916287198579904514",
+                    "start": 0,
+                    "username": "PerthshirePride"
+                }
+            ]
+        },
+        "id": "1694272640746221768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 480,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@PerthshirePride Key information for attendees:\n\n\ud83d\udccd Meet at the Thimblerow car park at 10:45 am for the parade kick-off at 11:00 am\n\n\ud83c\udf89 #PerthshirePride Festival will take place from 12:00 pm at the North Inch. Make sure you stop by the SSE pitch and say hi and grab yourself some candyfloss\ud83c\udf6d"
+    }
+}

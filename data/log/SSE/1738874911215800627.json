@@ -1,0 +1,61 @@
+{
+    "1738874911215800627": {
+        "attachments": {
+            "media_keys": [
+                "3_1737786592410943488"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-12-24T10:51:00.000Z",
+        "edit_history_tweet_ids": [
+            "1738874911215800627"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "Viking Wind Farm",
+                    "probability": 0.8553,
+                    "start": 29,
+                    "type": "Other"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "Shetland",
+                    "probability": 0.9079,
+                    "start": 185,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 26,
+                    "id": "82981866",
+                    "start": 12,
+                    "username": "sserenewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/2IsXKAytnS",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/SSE/status/1738874911215800627/photo/1",
+                    "media_key": "3_1737786592410943488",
+                    "start": 238,
+                    "url": "https://t.co/2IsXKAytnS"
+                }
+            ]
+        },
+        "id": "1738874911215800627",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1243,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The team at @sserenewables's Viking Wind Farm has provided support to those most in need at Christmas by working closely with Children's Services to ensure that over 60 children across Shetland receive a gift in time for the big day. \ud83c\udf81 \ud83c\udf84 https://t.co/2IsXKAytnS"
+    }
+}

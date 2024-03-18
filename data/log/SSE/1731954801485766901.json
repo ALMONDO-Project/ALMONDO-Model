@@ -1,0 +1,63 @@
+{
+    "1731954801485766901": {
+        "attachments": {
+            "media_keys": [
+                "3_1731953612635484160"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-12-05T08:32:57.000Z",
+        "edit_history_tweet_ids": [
+            "1731954801485766901"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 16,
+                    "start": 7,
+                    "tag": "SSEatCOP"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 27,
+                    "id": "1607462747570163719",
+                    "start": 17,
+                    "username": "COP28_UAE"
+                },
+                {
+                    "end": 43,
+                    "id": "82345106",
+                    "start": 28,
+                    "username": "TheSmithSchool"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Nz6VB7Z0WF",
+                    "end": 67,
+                    "expanded_url": "https://twitter.com/SSE/status/1731954801485766901/photo/1",
+                    "media_key": "3_1731953612635484160",
+                    "start": 44,
+                    "url": "https://t.co/Nz6VB7Z0WF"
+                }
+            ]
+        },
+        "id": "1731954801485766901",
+        "lang": "qme",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 21,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#COP28 #SSEatCOP @COP28_UAE @TheSmithSchool https://t.co/Nz6VB7Z0WF"
+    }
+}

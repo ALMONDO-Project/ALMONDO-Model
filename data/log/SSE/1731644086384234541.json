@@ -1,0 +1,102 @@
+{
+    "1731644086384234541": {
+        "attachments": {
+            "media_keys": [
+                "3_1731643007789576192",
+                "3_1731643043101425664"
+            ]
+        },
+        "author_id": "67342845",
+        "created_at": "2023-12-04T11:58:17.000Z",
+        "edit_history_tweet_ids": [
+            "1731644086384234541"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "SSE",
+                    "probability": 0.5686,
+                    "start": 24,
+                    "type": "Organization"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Alistair Phillips-Davies",
+                    "probability": 0.6688,
+                    "start": 47,
+                    "type": "Person"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "COP28",
+                    "probability": 0.8885,
+                    "start": 128,
+                    "type": "Other"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Alistair",
+                    "probability": 0.6844,
+                    "start": 143,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 133,
+                    "start": 127,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 250,
+                    "start": 241,
+                    "tag": "SSEatCOP"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 21,
+                    "id": "1607462747570163719",
+                    "start": 11,
+                    "username": "COP28_UAE"
+                },
+                {
+                    "end": 90,
+                    "id": "20402945",
+                    "start": 85,
+                    "username": "CNBC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wrZvcHPClc",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/SSE/status/1731644086384234541/photo/1",
+                    "media_key": "3_1731643007789576192",
+                    "start": 251,
+                    "url": "https://t.co/wrZvcHPClc"
+                },
+                {
+                    "display_url": "pic.twitter.com/wrZvcHPClc",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/SSE/status/1731644086384234541/photo/1",
+                    "media_key": "3_1731643043101425664",
+                    "start": 251,
+                    "url": "https://t.co/wrZvcHPClc"
+                }
+            ]
+        },
+        "id": "1731644086384234541",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1078,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udcfaLive from @COP28_UAE:\n\nSSE's Chief Executive, Alistair Phillips-Davies, speaks with @CNBC to discuss one of the key topics at #COP28, energy. Alistair explained the need to invest in renewables to reduce reliance on expensive imported gas. #SSEatCOP https://t.co/wrZvcHPClc"
+    }
+}
