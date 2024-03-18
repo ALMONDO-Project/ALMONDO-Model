@@ -1,0 +1,46 @@
+{
+    "1347469571201130496": {
+        "attachments": {
+            "media_keys": [
+                "3_1347469503186219008"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-01-08T09:05:55.000Z",
+        "edit_history_tweet_ids": [
+            "1347469571201130496"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "Mars",
+                    "probability": 0.9786,
+                    "start": 34,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hp5gMpmjP6",
+                    "end": 91,
+                    "expanded_url": "https://twitter.com/IKEA/status/1347469571201130496/photo/1",
+                    "media_key": "3_1347469503186219008",
+                    "start": 68,
+                    "url": "https://t.co/hp5gMpmjP6"
+                }
+            ]
+        },
+        "id": "1347469571201130496",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "What would our homes look like on Mars? We may have a few answers \ud83d\udc40 https://t.co/hp5gMpmjP6"
+    }
+}

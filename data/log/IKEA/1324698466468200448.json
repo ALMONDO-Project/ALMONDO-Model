@@ -1,0 +1,70 @@
+{
+    "1324698466468200448": {
+        "author_id": "606342802",
+        "created_at": "2020-11-06T13:01:40.000Z",
+        "edit_history_tweet_ids": [
+            "1324698466468200448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7048,
+                    "start": 11,
+                    "type": "Organization"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "IKEA",
+                    "probability": 0.713,
+                    "start": 69,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "IKEA.com",
+                    "end": 100,
+                    "expanded_url": "http://IKEA.com",
+                    "start": 77,
+                    "url": "https://t.co/8sPPFosZyd"
+                },
+                {
+                    "description": "We are always exploring new and better ways for people to shop our products. Read more about how we are meeting them with more convenience and proximity.",
+                    "display_url": "about.ikea.com/en/about-us/ik\u2026",
+                    "end": 278,
+                    "expanded_url": "https://about.ikea.com/en/about-us/ikea-retail/new-ikea-meeting-points",
+                    "images": [
+                        {
+                            "height": 1047,
+                            "url": "https://pbs.twimg.com/news_img/1748399664922046464/aVe2i57e?format=jpg&name=orig",
+                            "width": 1400
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1748399664922046464/aVe2i57e?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 255,
+                    "status": 200,
+                    "title": "New IKEA meeting points \u2013 IKEA Global",
+                    "unwound_url": "https://www.ikea.com/global/en/our-business/how-we-work/new-ikea-meeting-points/",
+                    "url": "https://t.co/O8pYRST1l0"
+                }
+            ]
+        },
+        "id": "1324698466468200448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The future IKEA is here and constantly evolving. Today, you can meet IKEA on https://t.co/8sPPFosZyd, in the catalogue, in small stores, in pop-up events, and, of course, in more than 400 traditional, big, blue stores all over the world. Learn more here: https://t.co/O8pYRST1l0"
+    }
+}

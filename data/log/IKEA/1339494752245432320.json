@@ -1,0 +1,49 @@
+{
+    "1339494752245432320": {
+        "author_id": "606342802",
+        "created_at": "2020-12-17T08:56:50.000Z",
+        "edit_history_tweet_ids": [
+            "1339494752245432320"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "IKEA",
+                    "probability": 0.899,
+                    "start": 18,
+                    "type": "Organization"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "IWAY",
+                    "probability": 0.454,
+                    "start": 63,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/8cG_znA_uYQ",
+                    "end": 276,
+                    "expanded_url": "https://youtu.be/8cG_znA_uYQ",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=8cG_znA_uYQ&feature=youtu.be",
+                    "url": "https://t.co/5aHZeXF4oc"
+                }
+            ]
+        },
+        "id": "1339494752245432320",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "Did you know that IKEA suppliers have a code of conduct called IWAY? IWAY is the IKEA way of responsibly procuring products, services, materials, and components. It sets social and environmental requirements for all our suppliers and service providers. https://t.co/5aHZeXF4oc"
+    }
+}

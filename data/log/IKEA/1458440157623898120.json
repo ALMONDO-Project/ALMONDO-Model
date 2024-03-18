@@ -1,0 +1,65 @@
+{
+    "1458440157623898120": {
+        "attachments": {
+            "media_keys": [
+                "3_1458440145473056776"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-11-10T14:23:24.000Z",
+        "edit_history_tweet_ids": [
+            "1458440157623898120"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 266,
+                    "normalized_text": "COP26",
+                    "probability": 0.9026,
+                    "start": 262,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 267,
+                    "start": 261,
+                    "tag": "COP26"
+                },
+                {
+                    "end": 276,
+                    "start": 268,
+                    "tag": "climate"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/about-us/ou\u2026",
+                    "end": 260,
+                    "expanded_url": "https://about.ikea.com/en/about-us/our-view-on/decarbonising-transport",
+                    "start": 237,
+                    "url": "https://t.co/J16f3UXvWl"
+                },
+                {
+                    "display_url": "pic.twitter.com/XrF1rTT8XN",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/IKEA/status/1458440157623898120/photo/1",
+                    "media_key": "3_1458440145473056776",
+                    "start": 277,
+                    "url": "https://t.co/XrF1rTT8XN"
+                }
+            ]
+        },
+        "id": "1458440157623898120",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 1
+        },
+        "text": "We are a big buyer of transport that goes with responsibility. We aim to reduce the carbon footprint on ocean and land transport by an average of 70% by 2030. We take actions to reduce, replace and rethink. Join our fossil-free journey: https://t.co/J16f3UXvWl #COP26 #climate https://t.co/XrF1rTT8XN"
+    }
+}

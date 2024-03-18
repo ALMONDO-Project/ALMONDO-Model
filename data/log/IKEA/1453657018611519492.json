@@ -1,0 +1,40 @@
+{
+    "1453657018611519492": {
+        "author_id": "606342802",
+        "created_at": "2021-10-28T09:36:55.000Z",
+        "edit_history_tweet_ids": [
+            "1453657018611519492"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "SOLHETTA",
+                    "probability": 0.8124,
+                    "start": 8,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/life-at-hom\u2026",
+                    "end": 190,
+                    "expanded_url": "https://about.ikea.com/en/life-at-home/behind-the-scenes/2021/10/27/a-more-sustainable-led-bulb-to-brighten-our-homes",
+                    "start": 167,
+                    "url": "https://t.co/x9csGDytZq"
+                }
+            ]
+        },
+        "id": "1453657018611519492",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Our new SOLHETTA LED bulbs help save 35% more energy and are more affordable compared to our previous range. Now that\u2019s a move in the light direction! Read more here: https://t.co/x9csGDytZq"
+    }
+}

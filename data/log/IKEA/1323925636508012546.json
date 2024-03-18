@@ -1,0 +1,85 @@
+{
+    "1323925636508012546": {
+        "attachments": {
+            "media_keys": [
+                "3_1323925079366000640",
+                "3_1323925261851787265",
+                "3_1323925211725598720"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-11-04T09:50:43.000Z",
+        "edit_history_tweet_ids": [
+            "1323925636508012546"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6014,
+                    "start": 70,
+                    "type": "Organization"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "F\u00d6RNUFTIG",
+                    "probability": 0.7615,
+                    "start": 163,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "DidYouKnow"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.inter.ikea.com/news/ikea-comm\u2026",
+                    "end": 265,
+                    "expanded_url": "https://newsroom.inter.ikea.com/news/ikea-committed-to-make-clean-indoor-air-accessible-for-the-many-by-launching-new-air-purifier/s/dbb71fb7-97f5-484e-a496-a61b45abe983",
+                    "start": 242,
+                    "url": "https://t.co/qvAZgh3dCj"
+                },
+                {
+                    "display_url": "pic.twitter.com/lOtk3DGeGW",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/IKEA/status/1323925636508012546/photo/1",
+                    "media_key": "3_1323925079366000640",
+                    "start": 266,
+                    "url": "https://t.co/lOtk3DGeGW"
+                },
+                {
+                    "display_url": "pic.twitter.com/lOtk3DGeGW",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/IKEA/status/1323925636508012546/photo/1",
+                    "media_key": "3_1323925261851787265",
+                    "start": 266,
+                    "url": "https://t.co/lOtk3DGeGW"
+                },
+                {
+                    "display_url": "pic.twitter.com/lOtk3DGeGW",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/IKEA/status/1323925636508012546/photo/1",
+                    "media_key": "3_1323925211725598720",
+                    "start": 266,
+                    "url": "https://t.co/lOtk3DGeGW"
+                }
+            ]
+        },
+        "id": "1323925636508012546",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 27,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 5
+        },
+        "text": "#DidYouKnow indoor air pollution can be worse than it is outdoors? At IKEA we believe everyone deserves access to clean (indoor) air, which is why we\u2019re launching F\u00d6RNUFTIG, an affordable and high performing air purifier for the many people. https://t.co/qvAZgh3dCj https://t.co/lOtk3DGeGW"
+    }
+}

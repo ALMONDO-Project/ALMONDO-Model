@@ -1,0 +1,53 @@
+{
+    "1317057792037982208": {
+        "attachments": {
+            "media_keys": [
+                "3_1317050525087494144"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-16T11:00:22.000Z",
+        "edit_history_tweet_ids": [
+            "1317057792037982208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 151,
+                    "normalized_text": "Lena Pripp-Kovac",
+                    "probability": 0.913,
+                    "start": 136,
+                    "type": "Person"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Inter IKEA Group",
+                    "probability": 0.5365,
+                    "start": 184,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Ajtijd2iee",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/IKEA/status/1317057792037982208/photo/1",
+                    "media_key": "3_1317050525087494144",
+                    "start": 201,
+                    "url": "https://t.co/Ajtijd2iee"
+                }
+            ]
+        },
+        "id": "1317057792037982208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "\"Currently, 60% of the materials we use are renewable and 10% are recycled. The ambition is to reach a combined total of 100% by 2030.\" Lena Pripp-Kovac, Head of Sustainability at the Inter IKEA Group https://t.co/Ajtijd2iee"
+    }
+}

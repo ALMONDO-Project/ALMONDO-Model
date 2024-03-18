@@ -1,0 +1,49 @@
+{
+    "1316756140403970049": {
+        "author_id": "606342802",
+        "created_at": "2020-10-15T15:01:42.000Z",
+        "edit_history_tweet_ids": [
+            "1316756140403970049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 208,
+                    "normalized_text": "AI",
+                    "probability": 0.6735,
+                    "start": 207,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 33,
+                    "id": "803947394123628544",
+                    "start": 25,
+                    "username": "nyrisio"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.inter.ikea.com/news/all/ikea-\u2026",
+                    "end": 243,
+                    "expanded_url": "https://newsroom.inter.ikea.com/news/all/ikea-invests-in-nyris--a-german-deep-tech-start-up-company---to-improve-intelligent-technology-solut/s/443bb902-2d5b-4d54-9bd6-7d2348090132",
+                    "start": 220,
+                    "unwound_url": "https://about.ikea.com/en/newsroom/news/all/ikea-invests-in-nyris--a-german-deep-tech-start-up-company---to-improve-intelligent-technology-solut/s/443bb902-2d5b-4d54-9bd6-7d2348090132",
+                    "url": "https://t.co/9Z100QnKFn"
+                }
+            ]
+        },
+        "id": "1316756140403970049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Through this investment, @nyrisio will reach new markets and verticals faster, increase visibility and continue developing their highly performant visual search platform to set a new bar of customer-centric AI products. https://t.co/9Z100QnKFn"
+    }
+}

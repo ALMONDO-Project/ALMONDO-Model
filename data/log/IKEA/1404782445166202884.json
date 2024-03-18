@@ -1,0 +1,80 @@
+{
+    "1404782445166202884": {
+        "attachments": {
+            "media_keys": [
+                "7_1404782258507030529"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-06-15T12:46:49.000Z",
+        "edit_history_tweet_ids": [
+            "1404782445166202884"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "SYMFONISK",
+                    "probability": 0.6767,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "SYMFONISK",
+                    "probability": 0.7909,
+                    "start": 139,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 80,
+                    "start": 70,
+                    "tag": "SYMFONISK"
+                },
+                {
+                    "end": 148,
+                    "start": 138,
+                    "tag": "SYMFONISK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 117,
+                    "id": "16727022",
+                    "start": 111,
+                    "username": "Sonos"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/events/live\u2026",
+                    "end": 249,
+                    "expanded_url": "https://about.ikea.com/en/events/live?cid=FY21_Campaign_SYMFONISK_Twitter",
+                    "start": 226,
+                    "url": "https://t.co/1tipiTMG2B"
+                },
+                {
+                    "display_url": "pic.twitter.com/Bp8p54Ossq",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/IKEA/status/1404782445166202884/video/1",
+                    "media_key": "7_1404782258507030529",
+                    "start": 250,
+                    "url": "https://t.co/Bp8p54Ossq"
+                }
+            ]
+        },
+        "id": "1404782445166202884",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 9,
+            "retweet_count": 2
+        },
+        "text": "And we\u2019re live! Tune in for the big reveal: the latest speaker in the #SYMFONISK range \u2013 in collaboration with @Sonos \u2013 is here. Join the #SYMFONISK launch event to find out how this speaker combines brilliant sound with art: https://t.co/1tipiTMG2B https://t.co/Bp8p54Ossq"
+    }
+}

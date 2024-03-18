@@ -1,0 +1,64 @@
+{
+    "1448610615182954497": {
+        "author_id": "606342802",
+        "created_at": "2021-10-14T11:24:19.000Z",
+        "edit_history_tweet_ids": [
+            "1448610615182954497"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Inter IKEA Group",
+                    "probability": 0.7376,
+                    "start": 7,
+                    "type": "Organization"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7593,
+                    "start": 93,
+                    "type": "Organization"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "EUR",
+                    "probability": 0.418,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 36,
+                    "id": "606342802",
+                    "start": 31,
+                    "username": "IKEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/about-us/ye\u2026",
+                    "end": 224,
+                    "expanded_url": "https://about.ikea.com/en/about-us/year-in-review",
+                    "start": 201,
+                    "status": 200,
+                    "unwound_url": "https://www.ikea.com/global/en/our-business/how-we-work/year-in-review/",
+                    "url": "https://t.co/I3cBSj3EKT"
+                }
+            ]
+        },
+        "id": "1448610615182954497",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "Today, Inter IKEA Group shares @IKEA facts and figures for financial year 2021 (FY21). Total IKEA retail sales, including sales of services, amounted to EUR 41.9 billion. That\u2019s 5.8% higher than FY20. https://t.co/I3cBSj3EKT"
+    }
+}

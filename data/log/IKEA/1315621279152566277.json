@@ -1,0 +1,49 @@
+{
+    "1315621279152566277": {
+        "author_id": "606342802",
+        "created_at": "2020-10-12T11:52:10.000Z",
+        "edit_history_tweet_ids": [
+            "1315621279152566277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 214,
+                    "normalized_text": "Alexander Magnusson",
+                    "probability": 0.9677,
+                    "start": 196,
+                    "type": "Person"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7887,
+                    "start": 244,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=S7lPTr\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.youtube.com/watch?v=S7lPTrX8LeA",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=S7lPTrX8LeA",
+                    "url": "https://t.co/SQpB1wYwjS"
+                }
+            ]
+        },
+        "id": "1315621279152566277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 0
+        },
+        "text": "\u201cIn the development of the plant ball our key objective has been to recreate the meat-like taste and texture, only using plant based ingredients. We are very pleased with the final results\u201d, says Alexander Magnusson, chef and project leader at IKEA food. https://t.co/SQpB1wYwjS"
+    }
+}

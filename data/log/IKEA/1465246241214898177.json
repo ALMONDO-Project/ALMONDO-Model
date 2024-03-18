@@ -1,0 +1,53 @@
+{
+    "1465246241214898177": {
+        "attachments": {
+            "media_keys": [
+                "3_1465246055457562630"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-11-29T09:08:21.000Z",
+        "edit_history_tweet_ids": [
+            "1465246241214898177"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Virgil Abloh",
+                    "probability": 0.8919,
+                    "start": 69,
+                    "type": "Person"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "IKEA",
+                    "probability": 0.609,
+                    "start": 86,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/m9VHsYN0z9",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/IKEA/status/1465246241214898177/photo/1",
+                    "media_key": "3_1465246055457562630",
+                    "start": 276,
+                    "url": "https://t.co/m9VHsYN0z9"
+                }
+            ]
+        },
+        "id": "1465246241214898177",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 84,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 11
+        },
+        "text": "We are deeply saddened by the passing of our collaborator and friend Virgil Abloh. At IKEA, we will forever remember him as the true visionary, professional, creative mind and artist he was. Our deepest condolences to his family, colleagues and those who called him a friend. https://t.co/m9VHsYN0z9"
+    }
+}

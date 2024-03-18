@@ -1,0 +1,61 @@
+{
+    "1496765694268035072": {
+        "author_id": "606342802",
+        "created_at": "2022-02-24T08:35:24.000Z",
+        "edit_history_tweet_ids": [
+            "1496765694268035072"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Hammersmith",
+                    "probability": 0.4294,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6261,
+                    "start": 63,
+                    "type": "Organization"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "UK",
+                    "probability": 0.9805,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "West London",
+                    "probability": 0.9427,
+                    "start": 108,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/IKEAUK/status/\u2026",
+                    "end": 153,
+                    "expanded_url": "https://twitter.com/IKEAUK/status/1496756793153703936",
+                    "start": 130,
+                    "url": "https://t.co/JqoLdCxTY9"
+                }
+            ]
+        },
+        "id": "1496765694268035072",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 33,
+            "quote_count": 0,
+            "reply_count": 19,
+            "retweet_count": 6
+        },
+        "text": "Hej, Hammersmith \ud83d\udc4b We are very excited to be opening our first IKEA small store in the UK today, in buzzing West London. Welcome! https://t.co/JqoLdCxTY9"
+    }
+}

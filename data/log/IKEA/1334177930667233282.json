@@ -1,0 +1,69 @@
+{
+    "1334177930667233282": {
+        "attachments": {
+            "media_keys": [
+                "3_1334157919403839488",
+                "3_1334157920007819266"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-12-02T16:49:41.000Z",
+        "edit_history_tweet_ids": [
+            "1334177930667233282"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "Bilgi Karan",
+                    "probability": 0.9212,
+                    "start": 85,
+                    "type": "Person"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6255,
+                    "start": 120,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ikea.today/how-smart-is-y\u2026",
+                    "end": 230,
+                    "expanded_url": "https://ikea.today/how-smart-is-your-home-bilgi%e2%80%af/",
+                    "start": 207,
+                    "url": "https://t.co/bPXTpkqNck"
+                },
+                {
+                    "display_url": "pic.twitter.com/gbHm7odmXq",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/IKEA/status/1334177930667233282/photo/1",
+                    "media_key": "3_1334157919403839488",
+                    "start": 231,
+                    "url": "https://t.co/gbHm7odmXq"
+                },
+                {
+                    "display_url": "pic.twitter.com/gbHm7odmXq",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/IKEA/status/1334177930667233282/photo/1",
+                    "media_key": "3_1334157920007819266",
+                    "start": 231,
+                    "url": "https://t.co/gbHm7odmXq"
+                }
+            ]
+        },
+        "id": "1334177930667233282",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 21,
+            "quote_count": 3,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "All homes will be smart homes in the future, according to our User Experience Leader Bilgi Karan. Read about the latest IKEA Home smart solution and the future of inclusive design in our interview with him. https://t.co/bPXTpkqNck https://t.co/gbHm7odmXq"
+    }
+}

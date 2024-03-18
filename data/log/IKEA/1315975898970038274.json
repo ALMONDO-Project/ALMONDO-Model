@@ -1,0 +1,56 @@
+{
+    "1315975898970038274": {
+        "author_id": "606342802",
+        "created_at": "2020-10-13T11:21:18.000Z",
+        "edit_history_tweet_ids": [
+            "1315975898970038274"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "UN-Habitat",
+                    "probability": 0.6775,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "UN-Habitat",
+                    "probability": 0.4916,
+                    "start": 98,
+                    "type": "Organization"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Housing",
+                    "probability": 0.6187,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=B_xJC3\u2026",
+                    "end": 270,
+                    "expanded_url": "https://www.youtube.com/watch?v=B_xJC3xIoCQ",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=B_xJC3xIoCQ",
+                    "url": "https://t.co/wnNCgni9XR"
+                }
+            ]
+        },
+        "id": "1315975898970038274",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "As part of Urban October 2020, the UN-Habitat will stream the documentary for a five-week period. UN-Habitat\u2019s focus is \u201cHousing for All\u201d and the fundamental human right to housing in a world where 1.8 billion people live in unacceptable housing. https://t.co/wnNCgni9XR"
+    }
+}

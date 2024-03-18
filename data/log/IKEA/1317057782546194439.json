@@ -1,0 +1,56 @@
+{
+    "1317057782546194439": {
+        "author_id": "606342802",
+        "created_at": "2020-10-16T11:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1317057782546194439"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "IKEA",
+                    "probability": 0.918,
+                    "start": 0,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Using only renewable and recycled materials is important for our work towards becoming a fully circular business. Stefan M\u00e5nsson, Material & Innovation Development Manager at Inter IKEA Group discusses.",
+                    "display_url": "about.ikea.com/en/sustainabil\u2026",
+                    "end": 251,
+                    "expanded_url": "https://about.ikea.com/en/sustainability/a-world-without-waste/renewable-and-recycled-materials",
+                    "images": [
+                        {
+                            "height": 600,
+                            "url": "https://pbs.twimg.com/news_img/1745521475875168258/wwAd43Sk?format=jpg&name=orig",
+                            "width": 627
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1745521475875168258/wwAd43Sk?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 228,
+                    "status": 200,
+                    "title": "Materials are key for becoming circular - IKEA Global",
+                    "unwound_url": "https://www.ikea.com/global/en/our-business/people-planet/renewable-and-recycled-materials/",
+                    "url": "https://t.co/4AUFHy60pG"
+                }
+            ]
+        },
+        "id": "1317057782546194439",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "IKEA is committed to becoming a circular business and empowering our customers to live a healthier and more sustainable life. To make this a reality, one of our ambitions is to use only renewable and recycled materials by 2030.\nhttps://t.co/4AUFHy60pG"
+    }
+}

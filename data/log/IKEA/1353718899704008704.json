@@ -1,0 +1,47 @@
+{
+    "1353718899704008704": {
+        "author_id": "606342802",
+        "created_at": "2021-01-25T14:58:31.000Z",
+        "edit_history_tweet_ids": [
+            "1353718899704008704"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7291,
+                    "start": 123,
+                    "type": "Organization"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "FSC\u00ae",
+                    "probability": 0.4972,
+                    "start": 144,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.inter.ikea.com/news/all/ikea-\u2026",
+                    "end": 236,
+                    "expanded_url": "https://newsroom.inter.ikea.com/news/all/ikea-launches-new-2030-forest-agenda-to-push-for-improved-forest-management-and-biodiversity-globall/s/027f441f-53c8-4d4d-9032-310f626f4cc4",
+                    "start": 213,
+                    "url": "https://t.co/RzWRTvYjpN"
+                }
+            ]
+        },
+        "id": "1353718899704008704",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 24,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 4
+        },
+        "text": "By working together with our suppliers and partners, we reached our 2020 forestry goal \u2013 more than 98% of the wood used in IKEA products is now FSC\u00ae certified or recycled. Now it\u2019s time to take the next big step. https://t.co/RzWRTvYjpN"
+    }
+}

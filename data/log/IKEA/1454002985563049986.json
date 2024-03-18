@@ -1,0 +1,47 @@
+{
+    "1454002985563049986": {
+        "author_id": "606342802",
+        "created_at": "2021-10-29T08:31:40.000Z",
+        "edit_history_tweet_ids": [
+            "1454002985563049986"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "COP26",
+                    "probability": 0.9593,
+                    "start": 47,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 46,
+                    "tag": "COP26"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/wef/status/145\u2026",
+                    "end": 251,
+                    "expanded_url": "https://twitter.com/wef/status/1453736320598118404",
+                    "start": 228,
+                    "url": "https://t.co/wFPKf8IEPC"
+                }
+            ]
+        },
+        "id": "1454002985563049986",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "This is a critical decade for the climate and #COP26 can be a turning point for action. By working together, businesses and governments can speed up the transition to a net-zero future that is good for people and the planet. \u2935\ufe0f https://t.co/wFPKf8IEPC"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1352197379609526273": {
+        "attachments": {
+            "media_keys": [
+                "3_1352197093088239618"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-01-21T10:12:32.000Z",
+        "edit_history_tweet_ids": [
+            "1352197379609526273"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "DJUNGELSKOG",
+                    "probability": 0.7694,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7464,
+                    "start": 43,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WT9JBYurg4",
+                    "end": 112,
+                    "expanded_url": "https://twitter.com/IKEA/status/1352197379609526273/photo/1",
+                    "media_key": "3_1352197093088239618",
+                    "start": 89,
+                    "url": "https://t.co/WT9JBYurg4"
+                }
+            ]
+        },
+        "id": "1352197379609526273",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 0,
+            "like_count": 69,
+            "quote_count": 4,
+            "reply_count": 7,
+            "retweet_count": 16
+        },
+        "text": "Thinking about that DJUNGELSKOG again. The IKEA brown bear lives rent free in our minds. https://t.co/WT9JBYurg4"
+    }
+}

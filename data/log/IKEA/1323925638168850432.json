@@ -1,0 +1,31 @@
+{
+    "1323925638168850432": {
+        "author_id": "606342802",
+        "created_at": "2020-11-04T09:50:44.000Z",
+        "edit_history_tweet_ids": [
+            "1323925638168850432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "IKEA",
+                    "probability": 0.9073,
+                    "start": 0,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1323925638168850432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "IKEA is committed to the health of the planet \ud83c\udf0d and its people\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67. We have reduced air pollution from our operations and also phased out harmful chemicals in production \ud83e\uddea\ud83d\udeabwhich would be detrimental to the environment &amp; your health."
+    }
+}

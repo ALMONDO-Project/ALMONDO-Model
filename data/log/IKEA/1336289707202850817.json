@@ -1,0 +1,53 @@
+{
+    "1336289707202850817": {
+        "attachments": {
+            "media_keys": [
+                "3_1336289069878435840"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-12-08T12:41:07.000Z",
+        "edit_history_tweet_ids": [
+            "1336289707202850817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6993,
+                    "start": 100,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/sustainabil\u2026",
+                    "end": 251,
+                    "expanded_url": "https://about.ikea.com/en/sustainability/a-world-without-waste/renewable-and-recycled-materials",
+                    "start": 228,
+                    "url": "https://t.co/4AUFHynBOg"
+                },
+                {
+                    "display_url": "pic.twitter.com/LALUiMZTwC",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/IKEA/status/1336289707202850817/photo/1",
+                    "media_key": "3_1336289069878435840",
+                    "start": 252,
+                    "url": "https://t.co/LALUiMZTwC"
+                }
+            ]
+        },
+        "id": "1336289707202850817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "What can you create out of recycled PET bottles? From kitchen cabinets to children\u2019s lampshades, at IKEA we are working to incorporate recycled PET bottles into our product materials. Read more about our sustainability journey:\nhttps://t.co/4AUFHynBOg https://t.co/LALUiMZTwC"
+    }
+}

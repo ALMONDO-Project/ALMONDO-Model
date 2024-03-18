@@ -1,0 +1,42 @@
+{
+    "1575033822105796609": {
+        "author_id": "606342802",
+        "created_at": "2022-09-28T08:05:00.000Z",
+        "edit_history_tweet_ids": [
+            "1575033822105796609"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 214,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8424,
+                    "start": 211,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/Newsroom/20\u2026",
+                    "end": 251,
+                    "expanded_url": "https://about.ikea.com/en/Newsroom/2022/09/28/IKEA-strengthens-commitments-to-reduce-inequalities-and-advance-human-rights",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.ikea.com/global/en/newsroom/social-responsibility/ikea-strengthens-commitments-to-reduce-inequalities-and-advance-human-rights-220928/",
+                    "url": "https://t.co/F1vtL6vAYm"
+                }
+            ]
+        },
+        "id": "1575033822105796609",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 16,
+            "retweet_count": 4
+        },
+        "text": "We're exploring different ways to strengthen our commitment to focus on human rights and equality. Tap to read how we will play our part in contributing to a fair &amp; equal society with new commitments in the IKEA strategy \u27a1\ufe0f https://t.co/F1vtL6vAYm"
+    }
+}

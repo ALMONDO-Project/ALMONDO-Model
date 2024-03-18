@@ -1,0 +1,53 @@
+{
+    "1557413111010934786": {
+        "attachments": {
+            "media_keys": [
+                "3_1557413106049060864"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-08-10T17:06:35.000Z",
+        "edit_history_tweet_ids": [
+            "1557413111010934786"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 147,
+                    "normalized_text": "Falabella",
+                    "probability": 0.4809,
+                    "start": 139,
+                    "type": "Person"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "South America",
+                    "probability": 0.9618,
+                    "start": 189,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/81wSBJKAvX",
+                    "end": 227,
+                    "expanded_url": "https://twitter.com/IKEA/status/1557413111010934786/photo/1",
+                    "media_key": "3_1557413106049060864",
+                    "start": 204,
+                    "url": "https://t.co/81wSBJKAvX"
+                }
+            ]
+        },
+        "id": "1557413111010934786",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 91,
+            "quote_count": 2,
+            "reply_count": 8,
+            "retweet_count": 17
+        },
+        "text": "This is a historic moment for us as this is the first time we're setting foot on this continent and doing it with a new franchise partner, Falabella, who will lead the expansion journey in South America. https://t.co/81wSBJKAvX"
+    }
+}

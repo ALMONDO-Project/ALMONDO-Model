@@ -1,0 +1,46 @@
+{
+    "1320713913013575682": {
+        "attachments": {
+            "media_keys": [
+                "3_1320713565116968960"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-26T13:08:29.000Z",
+        "edit_history_tweet_ids": [
+            "1320713913013575682"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "IKEA",
+                    "probability": 0.9129,
+                    "start": 21,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OI7iMNCEk2",
+                    "end": 154,
+                    "expanded_url": "https://twitter.com/IKEA/status/1320713913013575682/photo/1",
+                    "media_key": "3_1320713565116968960",
+                    "start": 131,
+                    "url": "https://t.co/OI7iMNCEk2"
+                }
+            ]
+        },
+        "id": "1320713913013575682",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "Food for thought: At IKEA we believe that everyone should be able to enjoy delicious, well- balanced meals at an affordable price. https://t.co/OI7iMNCEk2"
+    }
+}

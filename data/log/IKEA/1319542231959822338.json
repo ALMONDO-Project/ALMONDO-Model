@@ -1,0 +1,46 @@
+{
+    "1319542231959822338": {
+        "attachments": {
+            "media_keys": [
+                "3_1319541678617800705"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-23T07:32:38.000Z",
+        "edit_history_tweet_ids": [
+            "1319542231959822338"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "IKEA Food",
+                    "probability": 0.592,
+                    "start": 40,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/aPWqs7OatH",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/IKEA/status/1319542231959822338/photo/1",
+                    "media_key": "3_1319541678617800705",
+                    "start": 277,
+                    "url": "https://t.co/aPWqs7OatH"
+                }
+            ]
+        },
+        "id": "1319542231959822338",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 17,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Every year 680 million people enjoy the IKEA Food offer. We see it as both an opportunity and a responsibility to offer food that\u2019s good for people\u2019s health and the planet. IKEA customers can now enjoy a growing range of delicious plant-based alternatives like our veggie dog. https://t.co/aPWqs7OatH"
+    }
+}

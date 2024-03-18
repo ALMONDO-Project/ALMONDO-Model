@@ -1,0 +1,47 @@
+{
+    "1430863543533019147": {
+        "author_id": "606342802",
+        "created_at": "2021-08-26T12:03:47.000Z",
+        "edit_history_tweet_ids": [
+            "1430863543533019147"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Vienna",
+                    "probability": 0.9647,
+                    "start": 5,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Westbahnhof",
+                    "probability": 0.9173,
+                    "start": 67,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/IKEA_Austria/s\u2026",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/IKEA_Austria/status/1430766140423344133",
+                    "start": 255,
+                    "url": "https://t.co/B2uG5owhTG"
+                }
+            ]
+        },
+        "id": "1430863543533019147",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 1
+        },
+        "text": "Hej, Vienna! \ud83d\udc4b We're opening our new showcase sustainable store at Westbahnhof today. Walk, bike, or take the bus to seven floors filled with home inspiration and sustainability initiatives. Oh, and the top two floors host a hotel and a public rooftop. \ud83d\ude0d https://t.co/B2uG5owhTG"
+    }
+}

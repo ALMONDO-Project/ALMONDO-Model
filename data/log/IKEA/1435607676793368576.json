@@ -1,0 +1,67 @@
+{
+    "1435607676793368576": {
+        "attachments": {
+            "media_keys": [
+                "7_1435607617674559489"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-09-08T14:15:17.000Z",
+        "edit_history_tweet_ids": [
+            "1435607676793368576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "IKEA Festival",
+                    "probability": 0.901,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "IKEAFestival",
+                    "probability": 0.3292,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 227,
+                    "start": 214,
+                    "tag": "IKEAFestival"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ikea.com/festival",
+                    "end": 263,
+                    "expanded_url": "http://www.ikea.com/festival",
+                    "start": 240,
+                    "url": "https://t.co/x2UOrdRcOo"
+                },
+                {
+                    "display_url": "pic.twitter.com/gPFy58MJC5",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/IKEA/status/1435607676793368576/video/1",
+                    "media_key": "7_1435607617674559489",
+                    "start": 264,
+                    "url": "https://t.co/gPFy58MJC5"
+                }
+            ]
+        },
+        "id": "1435607676793368576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 12,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "Get ready for IKEA Festival, a home tour around the world. Open the door to new experiences, as artists, designers, chefs and many more turn their homes into virtual stages. Going live 16 September, save the date! #IKEAFestival. Read more: https://t.co/x2UOrdRcOo https://t.co/gPFy58MJC5"
+    }
+}

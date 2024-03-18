@@ -1,0 +1,54 @@
+{
+    "1529478637682147330": {
+        "author_id": "606342802",
+        "created_at": "2022-05-25T15:04:58.000Z",
+        "edit_history_tweet_ids": [
+            "1529478637682147330"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Canada",
+                    "probability": 0.9636,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Yonge",
+                    "probability": 0.5675,
+                    "start": 181,
+                    "type": "Place"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "Gerrard Streets",
+                    "probability": 0.475,
+                    "start": 191,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/IKEACanada/sta\u2026",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/IKEACanada/status/1529463725488472064",
+                    "start": 245,
+                    "url": "https://t.co/37haPJtOtZ"
+                }
+            ]
+        },
+        "id": "1529478637682147330",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Hej Toronto\ud83d\udc4b Our 15th and very first city store in Canada is opening its doors today. The new store has taken over the first two floors of the 79-storey skyscraper on the corner of Yonge and Gerrard Streets and includes a Swedish Deli. Welcome! https://t.co/37haPJtOtZ"
+    }
+}

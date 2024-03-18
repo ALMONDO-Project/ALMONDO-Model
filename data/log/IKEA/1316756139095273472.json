@@ -1,0 +1,59 @@
+{
+    "1316756139095273472": {
+        "author_id": "606342802",
+        "created_at": "2020-10-15T15:01:42.000Z",
+        "edit_history_tweet_ids": [
+            "1316756139095273472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "Inter IKEA Group",
+                    "probability": 0.4795,
+                    "start": 29,
+                    "type": "Organization"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "IKEA",
+                    "probability": 0.77,
+                    "start": 54,
+                    "type": "Organization"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8205,
+                    "start": 162,
+                    "type": "Organization"
+                },
+                {
+                    "end": 196,
+                    "normalized_text": "Krokst\u00e4de",
+                    "probability": 0.3659,
+                    "start": 188,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "Inter IKEA",
+                    "probability": 0.4086,
+                    "start": 249,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1316756139095273472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\"This investment will enable Inter IKEA Group and all IKEA franchisees to use visual intelligence capability to provide an up-to-date shopping experience for the IKEA customers,\" says Per Krokst\u00e4de, Innovation &amp; Strategic Partnership Manager at Inter IKEA Systems."
+    }
+}

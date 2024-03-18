@@ -1,0 +1,80 @@
+{
+    "1488559988444262400": {
+        "attachments": {
+            "media_keys": [
+                "7_1488559942466482182"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-02-01T17:08:52.000Z",
+        "edit_history_tweet_ids": [
+            "1488559988444262400"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "IKEA",
+                    "probability": 0.5736,
+                    "start": 132,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 100,
+                    "start": 85,
+                    "tag": "TasteTheFuture"
+                },
+                {
+                    "end": 113,
+                    "start": 101,
+                    "tag": "Imagination"
+                },
+                {
+                    "end": 130,
+                    "start": 114,
+                    "tag": "IKEARecruitment"
+                },
+                {
+                    "end": 136,
+                    "start": 131,
+                    "tag": "IKEA"
+                },
+                {
+                    "end": 156,
+                    "start": 137,
+                    "tag": "3Dprintedmeatballs"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ikea.com/tastethefuture",
+                    "end": 84,
+                    "expanded_url": "http://www.ikea.com/tastethefuture",
+                    "start": 61,
+                    "url": "https://t.co/0Fzw5XiPBi"
+                },
+                {
+                    "display_url": "pic.twitter.com/UsEAjhLsiF",
+                    "end": 180,
+                    "expanded_url": "https://twitter.com/IKEA/status/1488559988444262400/video/1",
+                    "media_key": "7_1488559942466482182",
+                    "start": 157,
+                    "url": "https://t.co/UsEAjhLsiF"
+                }
+            ]
+        },
+        "id": "1488559988444262400",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 28,
+            "quote_count": 2,
+            "reply_count": 7,
+            "retweet_count": 4
+        },
+        "text": "3D printed meatballs and a job interview anyone? Apply here: https://t.co/0Fzw5XiPBi\n#TasteTheFuture #Imagination #IKEARecruitment #IKEA #3Dprintedmeatballs https://t.co/UsEAjhLsiF"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1534097911037952000": {
+        "attachments": {
+            "media_keys": [
+                "7_1534097847641153536"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-06-07T09:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1534097911037952000"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 208,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4408,
+                    "start": 205,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 209,
+                    "start": 204,
+                    "tag": "IKEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/Newsroom/2022/\u2026",
+                    "end": 203,
+                    "expanded_url": "https://about.ikea.com/Newsroom/2022/06/07/IKEA-Latin-America-collaboration",
+                    "start": 180,
+                    "url": "https://t.co/HEcsfp97cK"
+                },
+                {
+                    "display_url": "pic.twitter.com/X7n44enUEN",
+                    "end": 233,
+                    "expanded_url": "https://twitter.com/IKEA/status/1534097911037952000/video/1",
+                    "media_key": "7_1534097847641153536",
+                    "start": 210,
+                    "url": "https://t.co/X7n44enUEN"
+                }
+            ]
+        },
+        "id": "1534097911037952000",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 8,
+            "retweet_count": 0
+        },
+        "text": "Our upcoming collection celebrates the vibrancy of Latin American heritage by exploring the cultures of festivities and socialising at home. Launching in 2023, tap to read more \u27a1\ufe0f https://t.co/HEcsfp97cK\n#IKEA https://t.co/X7n44enUEN"
+    }
+}

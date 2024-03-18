@@ -1,0 +1,67 @@
+{
+    "1313464031496208385": {
+        "attachments": {
+            "media_keys": [
+                "3_1313399923195490304"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-06T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1313464031496208385"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "IKEA",
+                    "probability": 0.922,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "FY20",
+                    "probability": 0.5194,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "IKEA",
+                    "probability": 0.9102,
+                    "start": 56,
+                    "type": "Organization"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "-",
+                    "probability": 0.7491,
+                    "start": 62,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/oRqyYHxdAL",
+                    "end": 104,
+                    "expanded_url": "https://twitter.com/IKEA/status/1313464031496208385/photo/1",
+                    "media_key": "3_1313399923195490304",
+                    "start": 81,
+                    "url": "https://t.co/oRqyYHxdAL"
+                }
+            ]
+        },
+        "id": "1313464031496208385",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "The IKEA website welcomed 4 billion visits in FY20, and IKEA e-commerce grew 45% https://t.co/oRqyYHxdAL"
+    }
+}

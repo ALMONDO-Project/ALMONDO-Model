@@ -1,0 +1,51 @@
+{
+    "1584454729538887680": {
+        "author_id": "606342802",
+        "created_at": "2022-10-24T08:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1584454729538887680"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 110,
+                    "start": 95,
+                    "tag": "IKEAFoundation"
+                },
+                {
+                    "end": 125,
+                    "start": 111,
+                    "tag": "ClimateAction"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "435845784",
+                    "start": 4,
+                    "username": "IKEAFoundation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/IKEAFoundation\u2026",
+                    "end": 149,
+                    "expanded_url": "https://twitter.com/IKEAFoundation/status/1584450774519554048",
+                    "start": 126,
+                    "url": "https://t.co/APPKu8xQaD"
+                }
+            ]
+        },
+        "id": "1584454729538887680",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 0
+        },
+        "text": "The @IKEAFoundation is working with several global partners to create a better life for many. \n#IKEAFoundation #ClimateAction https://t.co/APPKu8xQaD"
+    }
+}

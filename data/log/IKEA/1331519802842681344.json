@@ -1,0 +1,38 @@
+{
+    "1331519802842681344": {
+        "author_id": "606342802",
+        "created_at": "2020-11-25T08:47:14.000Z",
+        "edit_history_tweet_ids": [
+            "1331519802842681344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "IKEA",
+                    "probability": 0.9326,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "Sweden",
+                    "probability": 0.977,
+                    "start": 56,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1331519802842681344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "The IKEA values were shaped during times of hardship in Sweden. This fostered a culture of entrepreneurship and hard work, and made people more pragmatic and mindful of resources."
+    }
+}

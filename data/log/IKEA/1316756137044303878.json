@@ -1,0 +1,75 @@
+{
+    "1316756137044303878": {
+        "attachments": {
+            "media_keys": [
+                "3_1316755902360440834"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-15T15:01:41.000Z",
+        "edit_history_tweet_ids": [
+            "1316756137044303878"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Inter IKEA Group",
+                    "probability": 0.6336,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Germany",
+                    "probability": 0.94,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "IKEA",
+                    "probability": 0.5965,
+                    "start": 155,
+                    "type": "Organization"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "IKEA Place",
+                    "probability": 0.4907,
+                    "start": 222,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 59,
+                    "id": "803947394123628544",
+                    "start": 51,
+                    "username": "nyrisio"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TDnViTaWMc",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/IKEA/status/1316756137044303878/photo/1",
+                    "media_key": "3_1316755902360440834",
+                    "start": 238,
+                    "url": "https://t.co/TDnViTaWMc"
+                }
+            ]
+        },
+        "id": "1316756137044303878",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Inter IKEA Group has made a minority investment in @nyrisio, a Germany-based innovative deep-tech start-up, which provides visual intelligence technology. IKEA customers can already experience the nyris technology, in the IKEA Place app. https://t.co/TDnViTaWMc"
+    }
+}

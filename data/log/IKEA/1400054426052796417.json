@@ -1,0 +1,72 @@
+{
+    "1400054426052796417": {
+        "attachments": {
+            "media_keys": [
+                "7_1400054060452044800"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-06-02T11:39:21.000Z",
+        "edit_history_tweet_ids": [
+            "1400054426052796417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6719,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Ingka Group",
+                    "probability": 0.6111,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 210,
+                    "start": 196,
+                    "tag": "ZeroEmissions"
+                },
+                {
+                    "end": 229,
+                    "start": 211,
+                    "tag": "ForTheHomeWeShare"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ingka.com/projects/susta\u2026",
+                    "end": 269,
+                    "expanded_url": "https://www.ingka.com/projects/sustainable-home-deliveries/",
+                    "start": 246,
+                    "url": "https://t.co/rvKVKFk0fY"
+                },
+                {
+                    "display_url": "pic.twitter.com/I2owaOIZyN",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/IKEA/status/1400054426052796417/video/1",
+                    "media_key": "7_1400054060452044800",
+                    "start": 270,
+                    "url": "https://t.co/I2owaOIZyN"
+                }
+            ]
+        },
+        "id": "1400054426052796417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 24,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 7
+        },
+        "text": "Beep beep! \ud83d\ude9aDid you know that the largest IKEA franchisee, Ingka Group, has new and improved electric trucks hitting the roads? They're on schedule for 100% zero-emission home deliveries by 2025. #ZeroEmissions #ForTheHomeWeShare  Find out more: https://t.co/rvKVKFk0fY https://t.co/I2owaOIZyN"
+    }
+}

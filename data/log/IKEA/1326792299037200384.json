@@ -1,0 +1,53 @@
+{
+    "1326792299037200384": {
+        "attachments": {
+            "media_keys": [
+                "3_1326791929397436416"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-11-12T07:41:49.000Z",
+        "edit_history_tweet_ids": [
+            "1326792299037200384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8817,
+                    "start": 51,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 74,
+                    "start": 70,
+                    "tag": "Tbt"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OhJUUdJYMO",
+                    "end": 98,
+                    "expanded_url": "https://twitter.com/IKEA/status/1326792299037200384/photo/1",
+                    "media_key": "3_1326791929397436416",
+                    "start": 75,
+                    "url": "https://t.co/OhJUUdJYMO"
+                }
+            ]
+        },
+        "id": "1326792299037200384",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 34,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Finding inspiration in unlikely places. (The first IKEA store, 1943.) #Tbt https://t.co/OhJUUdJYMO"
+    }
+}

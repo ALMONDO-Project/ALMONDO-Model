@@ -1,0 +1,70 @@
+{
+    "1318134335065657344": {
+        "attachments": {
+            "media_keys": [
+                "3_1318101868522827777"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-19T10:18:09.000Z",
+        "edit_history_tweet_ids": [
+            "1318134335065657344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4302,
+                    "start": 48,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 131,
+                    "start": 113,
+                    "tag": "VirtualGreenhouse"
+                },
+                {
+                    "end": 152,
+                    "start": 132,
+                    "tag": "SustainableEveryday"
+                },
+                {
+                    "end": 164,
+                    "start": 153,
+                    "tag": "LifeatHome"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/SX4Jh1xebB4",
+                    "end": 188,
+                    "expanded_url": "https://youtu.be/SX4Jh1xebB4",
+                    "start": 165,
+                    "url": "https://t.co/Me97lt8aib"
+                },
+                {
+                    "display_url": "pic.twitter.com/4Dl3yKN2mc",
+                    "end": 212,
+                    "expanded_url": "https://twitter.com/IKEA/status/1318134335065657344/photo/1",
+                    "media_key": "3_1318101868522827777",
+                    "start": 189,
+                    "url": "https://t.co/4Dl3yKN2mc"
+                }
+            ]
+        },
+        "id": "1318134335065657344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Tune in on Monday 19 October at 4 PM CET to the IKEA Life at Home LIVE Talk: Our Changing Relationship with Home #VirtualGreenhouse #SustainableEveryday #LifeatHome https://t.co/Me97lt8aib https://t.co/4Dl3yKN2mc"
+    }
+}

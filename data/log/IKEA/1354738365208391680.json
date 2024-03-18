@@ -1,0 +1,60 @@
+{
+    "1354738365208391680": {
+        "attachments": {
+            "media_keys": [
+                "3_1354738147259723778"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-01-28T10:29:30.000Z",
+        "edit_history_tweet_ids": [
+            "1354738365208391680"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "IKEA",
+                    "probability": 0.465,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "TBT",
+                    "probability": 0.6262,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 41,
+                    "tag": "TBT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WCMPoEbNAt",
+                    "end": 69,
+                    "expanded_url": "https://twitter.com/IKEA/status/1354738365208391680/photo/1",
+                    "media_key": "3_1354738147259723778",
+                    "start": 46,
+                    "url": "https://t.co/WCMPoEbNAt"
+                }
+            ]
+        },
+        "id": "1354738365208391680",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 0,
+            "like_count": 69,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 9
+        },
+        "text": "The \u201dI grew up in 90s IKEA\u201d starter pack #TBT https://t.co/WCMPoEbNAt"
+    }
+}

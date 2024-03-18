@@ -1,0 +1,59 @@
+{
+    "1318518270929080322": {
+        "author_id": "606342802",
+        "created_at": "2020-10-20T11:43:47.000Z",
+        "edit_history_tweet_ids": [
+            "1318518270929080322"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "IKEA Life at Home LIVE",
+                    "probability": 0.8471,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 204,
+                    "start": 186,
+                    "tag": "VirtualGreenhouse"
+                },
+                {
+                    "end": 225,
+                    "start": 205,
+                    "tag": "SustainableEveryday"
+                },
+                {
+                    "end": 237,
+                    "start": 226,
+                    "tag": "LifeatHome"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lifeathome.ikea.com/videos/ikea-on\u2026",
+                    "end": 185,
+                    "expanded_url": "https://lifeathome.ikea.com/videos/ikea-on-our-changing-relationship-with-home/",
+                    "start": 162,
+                    "status": 200,
+                    "unwound_url": "https://lifeathome.ikea.com/videos/ikea-on-our-changing-relationship-with-home/",
+                    "url": "https://t.co/LITqZwtWaY"
+                }
+            ]
+        },
+        "id": "1318518270929080322",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Did you watch the IKEA Life at Home LIVE talk yesterday? We predict 3 big future shifts: Multi-purpose home, local home &amp; healthy homes. Watch the talk here: https://t.co/LITqZwtWaY #VirtualGreenhouse #SustainableEveryday #LifeatHome"
+    }
+}

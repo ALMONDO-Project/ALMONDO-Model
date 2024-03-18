@@ -1,0 +1,38 @@
+{
+    "1316332943233576961": {
+        "author_id": "606342802",
+        "created_at": "2020-10-14T11:00:04.000Z",
+        "edit_history_tweet_ids": [
+            "1316332943233576961"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8191,
+                    "start": 39,
+                    "type": "Organization"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Democratic Design",
+                    "probability": 0.5208,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1316332943233576961",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Have you ever wondered what principles IKEA uses to design products? We assess our designs using five dimensions we call Democratic Design which are at the heart of every product we make."
+    }
+}

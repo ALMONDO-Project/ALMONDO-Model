@@ -1,0 +1,60 @@
+{
+    "1364515922615148544": {
+        "attachments": {
+            "media_keys": [
+                "3_1364515832362127361"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-02-24T10:02:02.000Z",
+        "edit_history_tweet_ids": [
+            "1364515922615148544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8643,
+                    "start": 32,
+                    "type": "Organization"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6273,
+                    "start": 119,
+                    "type": "Organization"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Sweden",
+                    "probability": 0.8186,
+                    "start": 127,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/dAfTDcB3IL",
+                    "end": 193,
+                    "expanded_url": "https://twitter.com/IKEA/status/1364515922615148544/photo/1",
+                    "media_key": "3_1364515832362127361",
+                    "start": 170,
+                    "url": "https://t.co/dAfTDcB3IL"
+                }
+            ]
+        },
+        "id": "1364515922615148544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 40,
+            "quote_count": 3,
+            "reply_count": 4,
+            "retweet_count": 5
+        },
+        "text": "Have you ever wondered how many IKEA products exist\ud83e\udd14? Today we have a range of 9,500 home furnishing items designed by IKEA of Sweden to be both functional and stylish\ud83d\udc40\u2728 https://t.co/dAfTDcB3IL"
+    }
+}

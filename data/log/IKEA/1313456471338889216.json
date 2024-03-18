@@ -1,0 +1,53 @@
+{
+    "1313456471338889216": {
+        "attachments": {
+            "media_keys": [
+                "3_1313391744273256448"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-10-06T12:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1313456471338889216"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Inter IKEA Group",
+                    "probability": 0.6216,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 24,
+                    "normalized_text": "IKEA",
+                    "probability": 0.9038,
+                    "start": 21,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/8So7ClpPVv",
+                    "end": 144,
+                    "expanded_url": "https://twitter.com/IKEA/status/1313456471338889216/photo/1",
+                    "media_key": "3_1313391744273256448",
+                    "start": 121,
+                    "url": "https://t.co/8So7ClpPVv"
+                }
+            ]
+        },
+        "id": "1313456471338889216",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Inter IKEA Group and IKEA franchisees welcomed 6,000 co-workers to their ranks in FY20 for a total of 217,000 co-workers https://t.co/8So7ClpPVv"
+    }
+}

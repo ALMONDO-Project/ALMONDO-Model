@@ -1,0 +1,63 @@
+{
+    "1331574271282438144": {
+        "author_id": "606342802",
+        "created_at": "2020-11-25T12:23:40.000Z",
+        "edit_history_tweet_ids": [
+            "1331574271282438144"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6146,
+                    "start": 12,
+                    "type": "Organization"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "Franchisee Ingka Group",
+                    "probability": 0.5032,
+                    "start": 17,
+                    "type": "Organization"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "FY20",
+                    "probability": 0.6772,
+                    "start": 81,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ingka.com/this-is-ingka-\u2026",
+                    "end": 109,
+                    "expanded_url": "https://www.ingka.com/this-is-ingka-group/annual-report/",
+                    "start": 86,
+                    "status": 200,
+                    "unwound_url": "https://www.ingka.com/newsroom/media-resources/reports/annual-reports/",
+                    "url": "https://t.co/QOPVJ8DjWW"
+                },
+                {
+                    "display_url": "x.com/Tolga1Oncu/sta\u2026",
+                    "end": 133,
+                    "expanded_url": "https://twitter.com/Tolga1Oncu/status/1331221910089293825",
+                    "start": 110,
+                    "url": "https://t.co/ZDejAnHG3t"
+                }
+            ]
+        },
+        "id": "1331574271282438144",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The biggest IKEA Franchisee Ingka Group has released their financial results for FY20 https://t.co/QOPVJ8DjWW https://t.co/ZDejAnHG3t"
+    }
+}

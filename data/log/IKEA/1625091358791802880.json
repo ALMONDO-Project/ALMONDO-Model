@@ -1,0 +1,61 @@
+{
+    "1625091358791802880": {
+        "author_id": "606342802",
+        "created_at": "2023-02-13T11:15:47.000Z",
+        "edit_history_tweet_ids": [
+            "1625091358791802880"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "T\u00fcrkiye",
+                    "probability": 0.8976,
+                    "start": 48,
+                    "type": "Place"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "Syria",
+                    "probability": 0.9803,
+                    "start": 60,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 103,
+                    "id": "435845784",
+                    "start": 88,
+                    "username": "IKEAFoundation"
+                },
+                {
+                    "end": 176,
+                    "id": "3255895925",
+                    "start": 161,
+                    "username": "Better_Shelter"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/IKEAFoundation\u2026",
+                    "end": 251,
+                    "expanded_url": "https://twitter.com/IKEAFoundation/status/1625083611711156224",
+                    "start": 228,
+                    "url": "https://t.co/wwkQtrcnom"
+                }
+            ]
+        },
+        "id": "1625091358791802880",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 31630,
+            "like_count": 259,
+            "quote_count": 11,
+            "reply_count": 9,
+            "retweet_count": 100
+        },
+        "text": "As the devastating impact of the earthquakes in T\u00fcrkiye and Syria grows, our friends at @IKEAFoundation have donated \u20ac10M, funding 5,000 emergency shelters from @Better_Shelter, supporting 20,000+ affected with temporary homes. https://t.co/wwkQtrcnom"
+    }
+}

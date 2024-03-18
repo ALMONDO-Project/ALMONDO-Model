@@ -1,0 +1,55 @@
+{
+    "1562715841078390789": {
+        "attachments": {
+            "media_keys": [
+                "3_1562715589889728512"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-08-25T08:17:45.000Z",
+        "edit_history_tweet_ids": [
+            "1562715841078390789"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Estonia",
+                    "probability": 0.9753,
+                    "start": 56,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/newsroom/20\u2026",
+                    "end": 124,
+                    "expanded_url": "https://about.ikea.com/en/newsroom/2022/08/25/we-say-hej-and-welcome-to-the-first-ikea-store-in-estonia",
+                    "start": 101,
+                    "status": 200,
+                    "unwound_url": "https://www.ikea.com/global/en/newsroom/retail/we-say-hej-and-welcome-to-the-first-ikea-store-in-estonia-220825/",
+                    "url": "https://t.co/iRzdP8MCtu"
+                },
+                {
+                    "display_url": "pic.twitter.com/8EtFFlxnB9",
+                    "end": 148,
+                    "expanded_url": "https://twitter.com/IKEA/status/1562715841078390789/photo/1",
+                    "media_key": "3_1562715589889728512",
+                    "start": 125,
+                    "url": "https://t.co/8EtFFlxnB9"
+                }
+            ]
+        },
+        "id": "1562715841078390789",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 51,
+            "quote_count": 8,
+            "reply_count": 14,
+            "retweet_count": 8
+        },
+        "text": "Hej Tallinn\ud83d\udc4b we're very excited that our first store in Estonia is opening its doors today. Welcome! https://t.co/iRzdP8MCtu https://t.co/8EtFFlxnB9"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1315975896709259264": {
+        "author_id": "606342802",
+        "created_at": "2020-10-13T11:21:18.000Z",
+        "edit_history_tweet_ids": [
+            "1315975896709259264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 150,
+                    "normalized_text": "Museum of Modern Art",
+                    "probability": 0.7071,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "MoMA",
+                    "probability": 0.5188,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1315975896709259264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Since its release, the film has been touring the film festival circuit, gaining a lot of acclaim along the way. Just recently, the Museum of Modern Art (MoMA) \u2013 being the starting point of the film \u2013 chose to stream it for free during a week in September."
+    }
+}

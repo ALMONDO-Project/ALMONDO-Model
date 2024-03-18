@@ -1,0 +1,69 @@
+{
+    "1625782126078488576": {
+        "attachments": {
+            "media_keys": [
+                "7_1625781998299107328"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2023-02-15T09:00:39.000Z",
+        "edit_history_tweet_ids": [
+            "1625782126078488576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4679,
+                    "start": 37,
+                    "type": "Organization"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "IKEA Sustainability",
+                    "probability": 0.5176,
+                    "start": 133,
+                    "type": "Other"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "IKEA Climate Report",
+                    "probability": 0.6614,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/Newsroom/20\u2026",
+                    "end": 243,
+                    "expanded_url": "https://about.ikea.com/en/Newsroom/2023/02/15/IKEA-Sustainability-and-Climate-Reports-FY22-Reduced-climate-footprint-increase-of-renewable-energy",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "https://about.ikea.com/en/Newsroom/2023/02/15/IKEA-Sustainability-and-Climate-Reports-FY22-Reduced-climate-footprint-increase-of-renewable-energy",
+                    "url": "https://t.co/B2RKQcREe0"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZcCbNO24ch",
+                    "end": 267,
+                    "expanded_url": "https://twitter.com/IKEA/status/1625782126078488576/video/1",
+                    "media_key": "7_1625781998299107328",
+                    "start": 244,
+                    "url": "https://t.co/ZcCbNO24ch"
+                }
+            ]
+        },
+        "id": "1625782126078488576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5534,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 6
+        },
+        "text": "We continue to see a decrease in the IKEA climate footprint and are making progress towards our 2030 sustainability commitments. The IKEA Sustainability Report FY22 and the IKEA Climate Report FY22 are available here \u27a1\ufe0f https://t.co/B2RKQcREe0 https://t.co/ZcCbNO24ch"
+    }
+}

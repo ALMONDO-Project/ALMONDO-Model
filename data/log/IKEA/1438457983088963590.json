@@ -1,0 +1,67 @@
+{
+    "1438457983088963590": {
+        "attachments": {
+            "media_keys": [
+                "7_1438457926826532866"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-09-16T11:01:23.000Z",
+        "edit_history_tweet_ids": [
+            "1438457983088963590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "IKEA Festival",
+                    "probability": 0.8658,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "IKEAFestival",
+                    "probability": 0.365,
+                    "start": 197,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 209,
+                    "start": 196,
+                    "tag": "IKEAFestival"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ikea.com/festival",
+                    "end": 195,
+                    "expanded_url": "http://www.ikea.com/festival",
+                    "start": 172,
+                    "url": "https://t.co/x2UOrdRcOo"
+                },
+                {
+                    "display_url": "pic.twitter.com/kI2Hrlqexk",
+                    "end": 233,
+                    "expanded_url": "https://twitter.com/IKEA/status/1438457983088963590/video/1",
+                    "media_key": "7_1438457926826532866",
+                    "start": 210,
+                    "url": "https://t.co/kI2Hrlqexk"
+                }
+            ]
+        },
+        "id": "1438457983088963590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 32,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 10
+        },
+        "text": "IKEA Festival is now LIVE! Our first home tour around the world, with concerts, DJs, food, design and much more \u2013 all staged in real homes and neighbourhoods. Tune in now: https://t.co/x2UOrdRcOo #IKEAFestival https://t.co/kI2Hrlqexk"
+    }
+}

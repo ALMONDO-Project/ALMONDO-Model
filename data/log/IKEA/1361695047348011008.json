@@ -1,0 +1,89 @@
+{
+    "1361695047348011008": {
+        "attachments": {
+            "media_keys": [
+                "3_1361694844880621571"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-02-16T15:12:53.000Z",
+        "edit_history_tweet_ids": [
+            "1361695047348011008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "International Women\u2019s Day",
+                    "probability": 0.6583,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "InternationalWomensDay",
+                    "probability": 0.5372,
+                    "start": 212,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "FiftyFifty",
+                    "probability": 0.5694,
+                    "start": 236,
+                    "type": "Other"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "ikeazaralarsson",
+                    "probability": 0.4199,
+                    "start": 248,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 234,
+                    "start": 211,
+                    "tag": "InternationalWomensDay"
+                },
+                {
+                    "end": 246,
+                    "start": 235,
+                    "tag": "FiftyFifty"
+                },
+                {
+                    "end": 263,
+                    "start": 247,
+                    "tag": "ikeazaralarsson"
+                },
+                {
+                    "end": 275,
+                    "start": 264,
+                    "tag": "livenation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hiLt5YZSwm",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/IKEA/status/1361695047348011008/photo/1",
+                    "media_key": "3_1361694844880621571",
+                    "start": 276,
+                    "url": "https://t.co/hiLt5YZSwm"
+                }
+            ]
+        },
+        "id": "1361695047348011008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Get ready for big things this International Women\u2019s Day. We\u2019ve partnered with one of our favourite global superstars to celebrate women\u2019s empowerment with a debut performance of her new album. Watch this space! #InternationalWomensDay #FiftyFifty #ikeazaralarsson #livenation https://t.co/hiLt5YZSwm"
+    }
+}

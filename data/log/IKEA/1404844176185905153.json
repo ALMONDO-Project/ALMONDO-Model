@@ -1,0 +1,73 @@
+{
+    "1404844176185905153": {
+        "attachments": {
+            "media_keys": [
+                "7_1404844097186275329"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-06-15T16:52:07.000Z",
+        "edit_history_tweet_ids": [
+            "1404844176185905153"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "WiFi",
+                    "probability": 0.5455,
+                    "start": 85,
+                    "type": "Organization"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "SYMFONISK",
+                    "probability": 0.5829,
+                    "start": 139,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 55,
+                    "tag": "SYMFONISK"
+                },
+                {
+                    "end": 148,
+                    "start": 138,
+                    "tag": "SYMFONISK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 126,
+                    "id": "16727022",
+                    "start": 120,
+                    "username": "Sonos"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7usEuIgIyj",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/IKEA/status/1404844176185905153/video/1",
+                    "media_key": "7_1404844097186275329",
+                    "start": 239,
+                    "url": "https://t.co/7usEuIgIyj"
+                }
+            ]
+        },
+        "id": "1404844176185905153",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 30,
+            "retweet_count": 0
+        },
+        "text": "Looks like music. Sounds like art. Introducing the new #SYMFONISK picture frame with WiFi speaker in collaboration with @Sonos. There\u2019s a #SYMFONISK speaker in tune with every mood and personality. Launching in selected markets July 2021. https://t.co/7usEuIgIyj"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1471857719212748803": {
+        "attachments": {
+            "media_keys": [
+                "3_1471857705765818371"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-12-17T15:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1471857719212748803"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Johan Ejdemo",
+                    "probability": 0.7104,
+                    "start": 11,
+                    "type": "Person"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8532,
+                    "start": 75,
+                    "type": "Organization"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Johan",
+                    "probability": 0.5645,
+                    "start": 112,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/life-at-hom\u2026",
+                    "end": 261,
+                    "expanded_url": "https://about.ikea.com/en/life-at-home/behind-the-scenes/2021/12/15/johan-on-storytelling-and-circularity-by-design",
+                    "start": 238,
+                    "url": "https://t.co/ZKlZ2nraYI"
+                },
+                {
+                    "display_url": "pic.twitter.com/5FZMvmbKNU",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/IKEA/status/1471857719212748803/photo/1",
+                    "media_key": "3_1471857705765818371",
+                    "start": 262,
+                    "url": "https://t.co/5FZMvmbKNU"
+                }
+            ]
+        },
+        "id": "1471857719212748803",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Come 2022, Johan Ejdemo will step in to form part of the first-ever duo of IKEA design managers \ud83d\udcab\nWe spoke with Johan about his journey in design, the strength of the collective and the stories design can\u2014and should\u2014tell.\nRead the story: https://t.co/ZKlZ2nraYI https://t.co/5FZMvmbKNU"
+    }
+}

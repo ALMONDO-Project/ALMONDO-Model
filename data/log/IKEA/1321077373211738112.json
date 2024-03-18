@@ -1,0 +1,57 @@
+{
+    "1321077373211738112": {
+        "author_id": "606342802",
+        "created_at": "2020-10-27T13:12:44.000Z",
+        "edit_history_tweet_ids": [
+            "1321077373211738112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "IKEA Social Entrepreneurship",
+                    "probability": 0.5079,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "DELA Accelerator",
+                    "probability": 0.7081,
+                    "start": 200,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "17044207",
+                    "start": 43,
+                    "username": "Ashoka"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.inter.ikea.com/news/all/ikea-\u2026",
+                    "end": 259,
+                    "expanded_url": "https://newsroom.inter.ikea.com/news/all/ikea-supports-social-entrepreneurs-to-have-a-bigger-impact/s/7b8178ea-46c9-4971-b355-c7c042f8f080",
+                    "start": 236,
+                    "status": 502,
+                    "unwound_url": "https://about.ikea.com/en/newsroom/news/all/ikea-supports-social-entrepreneurs-to-have-a-bigger-impact/s/7b8178ea-46c9-4971-b355-c7c042f8f080",
+                    "url": "https://t.co/pkzIF9tNmI"
+                }
+            ]
+        },
+        "id": "1321077373211738112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "IKEA Social Entrepreneurship partners with @Ashoka to support 12 social entrepreneurs drive a bigger positive impact on people and society. This has been facilitated through the second edition of the DELA Accelerator global programme. \ud83d\udc49https://t.co/pkzIF9tNmI"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1350037460760354817": {
+        "attachments": {
+            "media_keys": [
+                "3_1350037349984571394"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-01-15T11:09:47.000Z",
+        "edit_history_tweet_ids": [
+            "1350037460760354817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "IKEA",
+                    "probability": 0.3971,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "FlashbackFriday",
+                    "probability": 0.858,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 92,
+                    "start": 76,
+                    "tag": "FlashbackFriday"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/H3JD1H6Uef",
+                    "end": 116,
+                    "expanded_url": "https://twitter.com/IKEA/status/1350037460760354817/photo/1",
+                    "media_key": "3_1350037349984571394",
+                    "start": 93,
+                    "url": "https://t.co/H3JD1H6Uef"
+                }
+            ]
+        },
+        "id": "1350037460760354817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Do you remember these IKEA musical instruments or was your childhood normal #FlashbackFriday https://t.co/H3JD1H6Uef"
+    }
+}

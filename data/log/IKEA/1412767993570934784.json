@@ -1,0 +1,98 @@
+{
+    "1412767993570934784": {
+        "author_id": "606342802",
+        "created_at": "2021-07-07T13:38:32.000Z",
+        "edit_history_tweet_ids": [
+            "1412767993570934784"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Ingka Group",
+                    "probability": 0.5237,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 28,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6371,
+                    "start": 25,
+                    "type": "Organization"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "RacetoZero",
+                    "probability": 0.6013,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "COP26",
+                    "probability": 0.8791,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 79,
+                    "start": 68,
+                    "tag": "RacetoZero"
+                },
+                {
+                    "end": 199,
+                    "start": 185,
+                    "tag": "ClimateAction"
+                },
+                {
+                    "end": 246,
+                    "start": 240,
+                    "tag": "COP26"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 129,
+                    "id": "14399483",
+                    "start": 126,
+                    "username": "hm"
+                },
+                {
+                    "end": 145,
+                    "id": "21753295",
+                    "start": 131,
+                    "username": "kingfisherplc"
+                },
+                {
+                    "end": 159,
+                    "id": "17137891",
+                    "start": 151,
+                    "username": "Walmart"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/Tolga1Oncu/sta\u2026",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Tolga1Oncu/status/1412675407254540289",
+                    "start": 259,
+                    "url": "https://t.co/K7GPghNBVK"
+                }
+            ]
+        },
+        "id": "1412767993570934784",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 8
+        },
+        "text": "Ingka Group, the largest IKEA retailer, is a founding member of the #RacetoZero Breakthroughs: Retail Campaign. Together with @hm, @kingfisherplc, and @walmart, we aim to drive greater #ClimateAction in the retail industry in the run-up to #COP26 and beyond. https://t.co/K7GPghNBVK"
+    }
+}

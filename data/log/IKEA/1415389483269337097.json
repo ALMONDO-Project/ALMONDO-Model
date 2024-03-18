@@ -1,0 +1,54 @@
+{
+    "1415389483269337097": {
+        "author_id": "606342802",
+        "created_at": "2021-07-14T19:15:24.000Z",
+        "edit_history_tweet_ids": [
+            "1415389483269337097"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Stockholm",
+                    "probability": 0.8742,
+                    "start": 5,
+                    "type": "Place"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "IKEA",
+                    "probability": 0.5894,
+                    "start": 40,
+                    "type": "Organization"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Bromma",
+                    "probability": 0.814,
+                    "start": 64,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/IKEASverige/st\u2026",
+                    "end": 169,
+                    "expanded_url": "https://twitter.com/IKEASverige/status/1415334640995405825",
+                    "start": 146,
+                    "url": "https://t.co/OkC9CzjkhI"
+                }
+            ]
+        },
+        "id": "1415389483269337097",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Hej, Stockholm! \ud83d\udc4b We're opening our new IKEA planning studio in Bromma today with a focus on kitchens, bedrooms, bathrooms, and storage. Welcome! https://t.co/OkC9CzjkhI"
+    }
+}

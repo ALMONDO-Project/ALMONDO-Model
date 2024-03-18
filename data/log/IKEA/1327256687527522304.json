@@ -1,0 +1,60 @@
+{
+    "1327256687527522304": {
+        "attachments": {
+            "media_keys": [
+                "3_1327256232797892610"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-11-13T14:27:08.000Z",
+        "edit_history_tweet_ids": [
+            "1327256687527522304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Fika",
+                    "probability": 0.6665,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6305,
+                    "start": 39,
+                    "type": "Organization"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "UTZ",
+                    "probability": 0.3557,
+                    "start": 98,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/AEEwiUwIfH",
+                    "end": 136,
+                    "expanded_url": "https://twitter.com/IKEA/status/1327256687527522304/photo/1",
+                    "media_key": "3_1327256232797892610",
+                    "start": 113,
+                    "url": "https://t.co/AEEwiUwIfH"
+                }
+            ]
+        },
+        "id": "1327256687527522304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Good coffee = great Fika, which is why IKEA coffee comes with a feel-good factor as the beans are UTZ certified. https://t.co/AEEwiUwIfH"
+    }
+}

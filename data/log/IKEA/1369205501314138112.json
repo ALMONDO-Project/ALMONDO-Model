@@ -1,0 +1,78 @@
+{
+    "1369205501314138112": {
+        "attachments": {
+            "media_keys": [
+                "3_1369205213173866496",
+                "3_1369205307075858432"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-03-09T08:36:44.000Z",
+        "edit_history_tweet_ids": [
+            "1369205501314138112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7879,
+                    "start": 88,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Furniture, home accessories, design ideas and inspiration for big dreams and small budgets. A better everyday life begins at home!",
+                    "display_url": "about.ikea.com/en/sustainabil\u2026",
+                    "end": 280,
+                    "expanded_url": "https://about.ikea.com/en/sustainability/sustainability-report-fy20",
+                    "images": [
+                        {
+                            "height": 974,
+                            "url": "https://pbs.twimg.com/news_img/1767391596180549632/AplXRXT0?format=jpg&name=orig",
+                            "width": 1400
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1767391596180549632/AplXRXT0?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 257,
+                    "status": 200,
+                    "title": "Hej! Welcome to IKEA Global",
+                    "unwound_url": "https://www.ikea.com/",
+                    "url": "https://t.co/TnrShyqqk8"
+                },
+                {
+                    "display_url": "pic.twitter.com/Aq0VAFil0D",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/IKEA/status/1369205501314138112/photo/1",
+                    "media_key": "3_1369205213173866496",
+                    "start": 281,
+                    "url": "https://t.co/Aq0VAFil0D"
+                },
+                {
+                    "display_url": "pic.twitter.com/Aq0VAFil0D",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/IKEA/status/1369205501314138112/photo/1",
+                    "media_key": "3_1369205307075858432",
+                    "start": 281,
+                    "url": "https://t.co/Aq0VAFil0D"
+                }
+            ]
+        },
+        "id": "1369205501314138112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "To protect the health and livelihoods of co-workers, partners and communities along the IKEA value chain, we took actions including producing protective gear for healthcare workers, donating products and using our spaces for relief efforts. Read more here: https://t.co/TnrShyqqk8 https://t.co/Aq0VAFil0D"
+    }
+}

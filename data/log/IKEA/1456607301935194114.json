@@ -1,0 +1,84 @@
+{
+    "1456607301935194114": {
+        "attachments": {
+            "media_keys": [
+                "7_1456607235065491456"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-11-05T13:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1456607301935194114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Black Friday",
+                    "probability": 0.5122,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "IKEA",
+                    "probability": 0.5082,
+                    "start": 76,
+                    "type": "Organization"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "IKEA",
+                    "probability": 0.465,
+                    "start": 142,
+                    "type": "Organization"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "IKEA",
+                    "probability": 0.3791,
+                    "start": 203,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 188,
+                    "start": 170,
+                    "tag": "SaveMoreThanMoney"
+                },
+                {
+                    "end": 201,
+                    "start": 189,
+                    "tag": "GreenFriday"
+                },
+                {
+                    "end": 207,
+                    "start": 202,
+                    "tag": "IKEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zZhivCnZ49",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/IKEA/status/1456607301935194114/video/1",
+                    "media_key": "7_1456607235065491456",
+                    "start": 208,
+                    "url": "https://t.co/zZhivCnZ49"
+                }
+            ]
+        },
+        "id": "1456607301935194114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 1
+        },
+        "text": "Let\u2019s make a better deal for the planet on Black Friday! Sell back your old IKEA furniture and we\u2019ll find a new home for it. Visit your local IKEA site for more details. #SaveMoreThanMoney #GreenFriday #IKEA https://t.co/zZhivCnZ49"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "1454085593680519171": {
+        "attachments": {
+            "media_keys": [
+                "7_1454085444510048256"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-10-29T13:59:55.000Z",
+        "edit_history_tweet_ids": [
+            "1454085593680519171"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 192,
+                    "normalized_text": "COP26",
+                    "probability": 0.9198,
+                    "start": 188,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 193,
+                    "start": 187,
+                    "tag": "COP26"
+                },
+                {
+                    "end": 267,
+                    "start": 245,
+                    "tag": "AssembleABetterFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ingka.com/cop26",
+                    "end": 244,
+                    "expanded_url": "https://www.ingka.com/cop26",
+                    "start": 221,
+                    "url": "https://t.co/xfnkAdYcKd"
+                },
+                {
+                    "display_url": "pic.twitter.com/ORHFG1Qjn4",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/IKEA/status/1454085593680519171/video/1",
+                    "media_key": "7_1454085444510048256",
+                    "start": 268,
+                    "url": "https://t.co/ORHFG1Qjn4"
+                }
+            ]
+        },
+        "id": "1454085593680519171",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "We believe that together we can still choose to create a better future and limit global temperature rises to 1.5\u00baC. Find out what we\u2019re doing to accelerate climate action as a Partner of #COP26 \u2013 and in our own business: https://t.co/xfnkAdYcKd #AssembleABetterFuture https://t.co/ORHFG1Qjn4"
+    }
+}

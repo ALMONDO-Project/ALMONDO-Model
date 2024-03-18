@@ -1,0 +1,53 @@
+{
+    "1556943883619237888": {
+        "attachments": {
+            "media_keys": [
+                "3_1556943878443487232"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-08-09T10:02:03.000Z",
+        "edit_history_tweet_ids": [
+            "1556943883619237888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Flow Loop",
+                    "probability": 0.5442,
+                    "start": 69,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/newsroom/20\u2026",
+                    "end": 230,
+                    "expanded_url": "https://about.ikea.com/en/newsroom/2022/08/05/inter-ikea-group-makes-minority-investment-in-flow-loop",
+                    "start": 207,
+                    "url": "https://t.co/5HlmeAjxxY"
+                },
+                {
+                    "display_url": "pic.twitter.com/INJoZyBtMU",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/IKEA/status/1556943883619237888/photo/1",
+                    "media_key": "3_1556943878443487232",
+                    "start": 231,
+                    "url": "https://t.co/INJoZyBtMU"
+                }
+            ]
+        },
+        "id": "1556943883619237888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 6
+        },
+        "text": "We are excited to share that we made a minority equity investment in Flow Loop. Together, we are co-developing a water recycling shower solution that can reduce water usage by up to 80%. Tap to read more \u27a1\ufe0f https://t.co/5HlmeAjxxY https://t.co/INJoZyBtMU"
+    }
+}

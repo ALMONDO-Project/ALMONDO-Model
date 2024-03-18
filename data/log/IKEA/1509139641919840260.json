@@ -1,0 +1,53 @@
+{
+    "1509139641919840260": {
+        "attachments": {
+            "media_keys": [
+                "3_1509139632998567939"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-03-30T12:05:03.000Z",
+        "edit_history_tweet_ids": [
+            "1509139641919840260"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 121,
+                    "normalized_text": "Ilse Crawford",
+                    "probability": 0.7863,
+                    "start": 109,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/Newsroom/2022/\u2026",
+                    "end": 238,
+                    "expanded_url": "https://about.ikea.com/Newsroom/2022/03/23/IKEA-launches-the-new-home-fragrance-range-inspired-by-outdoors",
+                    "start": 215,
+                    "url": "https://t.co/IGiD6XgE4k"
+                },
+                {
+                    "display_url": "pic.twitter.com/6EPJ7gdXAg",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/IKEA/status/1509139641919840260/photo/1",
+                    "media_key": "3_1509139632998567939",
+                    "start": 239,
+                    "url": "https://t.co/6EPJ7gdXAg"
+                }
+            ]
+        },
+        "id": "1509139641919840260",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 0
+        },
+        "text": "We are launching a completely new range of home fragrances inspired by the great outdoors and teamed up with Ilse Crawford to create two signature scents for this range. Tap to read more about this collaboration \u27a1\ufe0f https://t.co/IGiD6XgE4k https://t.co/6EPJ7gdXAg"
+    }
+}

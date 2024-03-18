@@ -1,0 +1,60 @@
+{
+    "1329336044530114561": {
+        "attachments": {
+            "media_keys": [
+                "3_1329335764757450752"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-11-19T08:09:45.000Z",
+        "edit_history_tweet_ids": [
+            "1329336044530114561"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "IKEA Impala",
+                    "probability": 0.4906,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "TBT",
+                    "probability": 0.5916,
+                    "start": 78,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 77,
+                    "tag": "TBT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/NxWTkmdLl1",
+                    "end": 105,
+                    "expanded_url": "https://twitter.com/IKEA/status/1329336044530114561/photo/1",
+                    "media_key": "3_1329335764757450752",
+                    "start": 82,
+                    "url": "https://t.co/NxWTkmdLl1"
+                }
+            ]
+        },
+        "id": "1329336044530114561",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 102,
+            "quote_count": 3,
+            "reply_count": 8,
+            "retweet_count": 7
+        },
+        "text": "Thinking about the IKEA Impala chair from 1972. That's it, that's the tweet. #TBT https://t.co/NxWTkmdLl1"
+    }
+}

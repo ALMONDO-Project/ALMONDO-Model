@@ -1,0 +1,60 @@
+{
+    "1584547769703972864": {
+        "attachments": {
+            "media_keys": [
+                "3_1584547763982925824"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-10-24T14:10:02.000Z",
+        "edit_history_tweet_ids": [
+            "1584547769703972864"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "IKEA Home smart",
+                    "probability": 0.615,
+                    "start": 59,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "DIRIGERA",
+                    "probability": 0.8645,
+                    "start": 83,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/newsroom/20\u2026",
+                    "end": 212,
+                    "expanded_url": "https://about.ikea.com/en/newsroom/2022/10/24/ikea-introduces-dirigera-and-the-new-ikea-home-smart-app",
+                    "start": 189,
+                    "url": "https://t.co/E0IBtljvXj"
+                },
+                {
+                    "display_url": "pic.twitter.com/3ySW2yH7nf",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/IKEA/status/1584547769703972864/photo/1",
+                    "media_key": "3_1584547763982925824",
+                    "start": 213,
+                    "url": "https://t.co/3ySW2yH7nf"
+                }
+            ]
+        },
+        "id": "1584547769703972864",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 23,
+            "retweet_count": 3
+        },
+        "text": "Get ready for a rich and intuitive experience with the new IKEA Home smart app and DIRIGERA. Tap to read how this enables better and simpler integration of technology into everyday life \u27a1\ufe0f https://t.co/E0IBtljvXj https://t.co/3ySW2yH7nf"
+    }
+}

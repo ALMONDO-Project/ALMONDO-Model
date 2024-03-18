@@ -1,0 +1,49 @@
+{
+    "1327256689184296960": {
+        "author_id": "606342802",
+        "created_at": "2020-11-13T14:27:08.000Z",
+        "edit_history_tweet_ids": [
+            "1327256689184296960"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "UTZ",
+                    "probability": 0.6703,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "UTZ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/sustainabil\u2026",
+                    "end": 163,
+                    "expanded_url": "https://about.ikea.com/en/sustainability/responsible-sourcing/the-making-of-a-truly-good-cup-of-coffee",
+                    "start": 140,
+                    "status": 200,
+                    "unwound_url": "https://www.ikea.com/global/en/stories/people-planet/the-making-of-a-truly-good-cup-of-coffee-230101/",
+                    "url": "https://t.co/LAHR68JMNO"
+                }
+            ]
+        },
+        "id": "1327256689184296960",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#UTZ supports sustainable farming practices and fair trade values. Learn more about our coffee that\u2019s changing the world one cup at a time. https://t.co/LAHR68JMNO"
+    }
+}

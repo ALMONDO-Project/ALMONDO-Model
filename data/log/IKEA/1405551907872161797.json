@@ -1,0 +1,61 @@
+{
+    "1405551907872161797": {
+        "author_id": "606342802",
+        "created_at": "2021-06-17T15:44:23.000Z",
+        "edit_history_tweet_ids": [
+            "1405551907872161797"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "WorldRefugeeDay",
+                    "probability": 0.5246,
+                    "start": 60,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 59,
+                    "tag": "WorldRefugeeDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 54,
+                    "id": "4419754757",
+                    "start": 46,
+                    "username": "TentOrg"
+                },
+                {
+                    "end": 106,
+                    "id": "135427363",
+                    "start": 91,
+                    "username": "jordanriverfdn"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/TentOrg/status\u2026",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/TentOrg/status/1405549935135793157",
+                    "start": 273,
+                    "url": "https://t.co/QkqXrbFIsJ"
+                }
+            ]
+        },
+        "id": "1405551907872161797",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 30,
+            "quote_count": 2,
+            "reply_count": 11,
+            "retweet_count": 6
+        },
+        "text": "We are humbled to have received an award from @TentOrg for #WorldRefugeeDay. Together with @jordanriverfdn we have been awarded \u201cOutstanding leadership in integrating refugees into the supply chain\u201d. We will continue our work to better the lives of those who need it most. https://t.co/QkqXrbFIsJ"
+    }
+}

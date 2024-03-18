@@ -1,0 +1,60 @@
+{
+    "1483415164867256322": {
+        "attachments": {
+            "media_keys": [
+                "7_1483414706131976192"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-01-18T12:25:10.000Z",
+        "edit_history_tweet_ids": [
+            "1483415164867256322"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 173,
+                    "normalized_text": "IKEA Sustainability Report",
+                    "probability": 0.6341,
+                    "start": 148,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "IKEA Climate Report",
+                    "probability": 0.7178,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/sustainabil\u2026",
+                    "end": 231,
+                    "expanded_url": "https://about.ikea.com/en/sustainability/sustainability-report-highlights",
+                    "start": 208,
+                    "url": "https://t.co/o78PjjH6aT"
+                },
+                {
+                    "display_url": "pic.twitter.com/0YZY3Q84Vg",
+                    "end": 255,
+                    "expanded_url": "https://twitter.com/IKEA/status/1483415164867256322/video/1",
+                    "media_key": "7_1483414706131976192",
+                    "start": 232,
+                    "url": "https://t.co/0YZY3Q84Vg"
+                }
+            ]
+        },
+        "id": "1483415164867256322",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 0,
+            "like_count": 35,
+            "quote_count": 2,
+            "reply_count": 14,
+            "retweet_count": 8
+        },
+        "text": "We\u2019re one year closer to our 2030 sustainably goals. Here are a few highlights from the past year. You can read about these and more in this year\u2019s IKEA Sustainability Report and our new IKEA Climate Report. https://t.co/o78PjjH6aT https://t.co/0YZY3Q84Vg"
+    }
+}

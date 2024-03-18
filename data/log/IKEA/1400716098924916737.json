@@ -1,0 +1,67 @@
+{
+    "1400716098924916737": {
+        "attachments": {
+            "media_keys": [
+                "3_1400715771689459713"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-06-04T07:28:36.000Z",
+        "edit_history_tweet_ids": [
+            "1400716098924916737"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "Christina Larsson",
+                    "probability": 0.9656,
+                    "start": 89,
+                    "type": "Person"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Britt Monti",
+                    "probability": 0.8406,
+                    "start": 111,
+                    "type": "Person"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6401,
+                    "start": 148,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/life-at-hom\u2026",
+                    "end": 237,
+                    "expanded_url": "https://about.ikea.com/en/life-at-home/curiosity-box/small-space-living",
+                    "start": 214,
+                    "url": "https://t.co/7Xij2N8JA5"
+                },
+                {
+                    "display_url": "pic.twitter.com/qec6jQhpE6",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/IKEA/status/1400716098924916737/photo/1",
+                    "media_key": "3_1400715771689459713",
+                    "start": 238,
+                    "url": "https://t.co/qec6jQhpE6"
+                }
+            ]
+        },
+        "id": "1400716098924916737",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Small space living isn\u2019t just about square metres, it\u2019s so much more. We had a chat with Christina Larsson and Britt Monti, Range Design Leaders at IKEA, on how to create those smart small space living solutions \ud83e\udd29 https://t.co/7Xij2N8JA5 https://t.co/qec6jQhpE6"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1331885663709491200": {
+        "attachments": {
+            "media_keys": [
+                "3_1331885649910181889"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-11-26T09:01:02.000Z",
+        "edit_history_tweet_ids": [
+            "1331885663709491200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "IKEA",
+                    "probability": 0.6102,
+                    "start": 16,
+                    "type": "Organization"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "TBT",
+                    "probability": 0.6173,
+                    "start": 32,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 31,
+                    "tag": "TBT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/utxLA6BXy7",
+                    "end": 59,
+                    "expanded_url": "https://twitter.com/IKEA/status/1331885663709491200/photo/1",
+                    "media_key": "3_1331885649910181889",
+                    "start": 36,
+                    "url": "https://t.co/utxLA6BXy7"
+                }
+            ]
+        },
+        "id": "1331885663709491200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 30,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "The time before IKEA flatpacks\ud83e\udd2f#TBT https://t.co/utxLA6BXy7"
+    }
+}

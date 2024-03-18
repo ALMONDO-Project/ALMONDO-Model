@@ -1,0 +1,53 @@
+{
+    "1336593582619234304": {
+        "attachments": {
+            "media_keys": [
+                "3_1336593581163900929"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-12-09T08:48:37.000Z",
+        "edit_history_tweet_ids": [
+            "1336593582619234304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4538,
+                    "start": 21,
+                    "type": "Organization"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "MUSSELBLOMMA",
+                    "probability": 0.7801,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/mLm6le400s",
+                    "end": 198,
+                    "expanded_url": "https://twitter.com/IKEA/status/1336593582619234304/photo/1",
+                    "media_key": "3_1336593581163900929",
+                    "start": 175,
+                    "url": "https://t.co/mLm6le400s"
+                }
+            ]
+        },
+        "id": "1336593582619234304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "What do you get when IKEA and Spanish fishermen walk into the ocean\ud83c\udf0a?\nMUSSELBLOMMA, a collection made from recycled plastics and PET plastic waste collected by the fishermen. https://t.co/mLm6le400s"
+    }
+}

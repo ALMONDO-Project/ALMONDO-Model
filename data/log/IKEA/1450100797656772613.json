@@ -1,0 +1,52 @@
+{
+    "1450100797656772613": {
+        "author_id": "606342802",
+        "created_at": "2021-10-18T14:05:46.000Z",
+        "edit_history_tweet_ids": [
+            "1450100797656772613"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "EarthShotPrize",
+                    "probability": 0.6457,
+                    "start": 63,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 77,
+                    "start": 62,
+                    "tag": "EarthShotPrize"
+                },
+                {
+                    "end": 222,
+                    "start": 200,
+                    "tag": "AssembleABetterFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/EarthshotPrize\u2026",
+                    "end": 246,
+                    "expanded_url": "https://twitter.com/EarthshotPrize/status/1449827176816287745",
+                    "start": 223,
+                    "url": "https://t.co/1zzdm2fCY6"
+                }
+            ]
+        },
+        "id": "1450100797656772613",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 0
+        },
+        "text": "Congratulations to the finalists &amp; winners of this year's #EarthShotPrize who all show determined optimism to create a better future. We are looking forward to collaborating with the finalists to #AssembleABetterFuture https://t.co/1zzdm2fCY6"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1455541514403254278": {
+        "attachments": {
+            "media_keys": [
+                "7_1455540390015250444"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-11-02T14:25:14.000Z",
+        "edit_history_tweet_ids": [
+            "1455541514403254278"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 262,
+                    "normalized_text": "COP26",
+                    "probability": 0.9337,
+                    "start": 258,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 263,
+                    "start": 257,
+                    "tag": "COP26"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/en/sustainabil\u2026",
+                    "end": 256,
+                    "expanded_url": "https://about.ikea.com/en/sustainability/becoming-climate-positive/let-us-assemble-a-better-future-together",
+                    "start": 233,
+                    "url": "https://t.co/aKUTwwmV91"
+                },
+                {
+                    "display_url": "pic.twitter.com/zO9hnJpKIO",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/IKEA/status/1455541514403254278/video/1",
+                    "media_key": "7_1455540390015250444",
+                    "start": 264,
+                    "url": "https://t.co/zO9hnJpKIO"
+                }
+            ]
+        },
+        "id": "1455541514403254278",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "We\u2019re committed to becoming climate positive by 2030. We'll achieve this by reducing more greenhouse gas emissions than our value chain emits, addressing the root causes of our climate footprint and not relying on carbon offsetting. https://t.co/aKUTwwmV91 #COP26 https://t.co/zO9hnJpKIO"
+    }
+}

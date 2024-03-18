@@ -1,0 +1,49 @@
+{
+    "1351510566402224129": {
+        "author_id": "606342802",
+        "created_at": "2021-01-19T12:43:23.000Z",
+        "edit_history_tweet_ids": [
+            "1351510566402224129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "\u00c4lmhult",
+                    "probability": 0.5179,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "IKEA",
+                    "probability": 0.7499,
+                    "start": 96,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=C285Cs\u2026",
+                    "end": 258,
+                    "expanded_url": "https://www.youtube.com/watch?v=C285CsXF6mw&feature=emb_title",
+                    "start": 235,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=C285CsXF6mw&feature=emb_title",
+                    "url": "https://t.co/WinrSttvLn"
+                }
+            ]
+        },
+        "id": "1351510566402224129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "In the middle of the forest, in a tiny town called \u00c4lmhult lies a magical place. We call it the IKEA prototype shop, where we take our crazy big ideas and turn them into products! Watch 2 of our engineers work their magic at the shop: https://t.co/WinrSttvLn"
+    }
+}

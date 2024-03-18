@@ -1,0 +1,67 @@
+{
+    "1603011940078469121": {
+        "attachments": {
+            "media_keys": [
+                "3_1603011934202241024"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-12-14T13:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1603011940078469121"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "Santiago de",
+                    "probability": 0.4919,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 20,
+                    "normalized_text": "Chile",
+                    "probability": 0.563,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Chile",
+                    "probability": 0.97,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "Plaza Oeste",
+                    "probability": 0.9465,
+                    "start": 91,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/JcgkrbLEeu",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/IKEA/status/1603011940078469121/photo/1",
+                    "media_key": "3_1603011934202241024",
+                    "start": 208,
+                    "url": "https://t.co/JcgkrbLEeu"
+                }
+            ]
+        },
+        "id": "1603011940078469121",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 0,
+            "like_count": 905,
+            "quote_count": 30,
+            "reply_count": 56,
+            "retweet_count": 95
+        },
+        "text": "Hej Santiago de Chile \ud83d\udc4b we're excited to open our first standalone store in Chile today at Plaza Oeste. This new store offers more than 25,000m2 of home furnishing, bringing IKEA closer to the many Chileans. https://t.co/JcgkrbLEeu"
+    }
+}

@@ -21,6 +21,7 @@ class UserDataDownload():
                  user_fields='id,username,description,public_metrics,verified',
                  until_id = None):
         # Initialize UserDataDownload object with required parameters and default values
+        self.bearer_token = bearer_token
         self.username = username.replace('@', '')  # Remove '@' from username if present
         self.tweet_fields = tweet_fields.split(',')  # Split tweet fields into list
         self.media_fields = media_fields.split(',')  # Split media fields into list
@@ -29,14 +30,9 @@ class UserDataDownload():
         self.until_id = until_id  # Set until_id for pagination
         self.tweets = {}  # Dictionary to store tweets
         
-    def set_client(self, bearer_token, wait_on_rate_limit=True):
+    def set_client(self, wait_on_rate_limit=True):
         # Set Twitter API client with specified parameters
-        self.client = tweepy.Client(bearer_token, 
-                                    # expansions = self.expansions,
-                                    # media_fields = self.media_fields,
-                                    # tweet_fields = self.tweet_fields,
-                                    # user_fields = self.user_fields,
-                                    # return_type=dict,
+        self.client = tweepy.Client(self.bearer_token, 
                                     wait_on_rate_limit=wait_on_rate_limit)
         
     def set_user_data(self):
@@ -122,8 +118,8 @@ class UserDataDownload():
             
     def update_users_done(self):
         print(f'>>> finished with user {self.username}')
-        with open(f'data/log/users_done.txt', 'r') as file:
-            file.write(f'{self.username}\n')
+        with open(f'data/log/users_done.txt', 'w') as file:
+            file.write(f'@{self.username}\n')
 
     def download(self):
         count = compute_max_tweets(self.bearer_token)
@@ -147,18 +143,23 @@ class UserDataDownload():
         
         print('>>> started retrieving tweets')
         for page in tqdm.tqdm(self.paginator):
-            
-            next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
-            for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
-                tweet_data = {tweet.data['id']: tweet.data}
-                self.dump_tweets(tweet, tweet_data)
-                count += 1
-                if count > self.max_results:
-                    return
-                
+            try: 
+                next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
+            except KeyError:
+                next_token = None
+            try:    
+                for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                    tweet_data = {tweet.data['id']: tweet.data}
+                    self.dump_tweets(tweet, tweet_data)
+                    count -= 1
+                    if count <= 0:
+                        return
+            except TypeError:
+                self.update_users_done()
+                return 
+               
             if not next_token:
                 self.update_users_done()
-                print(f'>>> {count} total tweets downloaded in this session')        
                 return     
         
     def save(self):

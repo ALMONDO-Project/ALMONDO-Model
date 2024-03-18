@@ -1,0 +1,55 @@
+{
+    "1460891515924979713": {
+        "author_id": "606342802",
+        "created_at": "2021-11-17T08:44:14.000Z",
+        "edit_history_tweet_ids": [
+            "1460891515924979713"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5553,
+                    "start": 84,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 83,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 194,
+                    "id": "1296764217283026944",
+                    "start": 186,
+                    "username": "50LHome"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/50LHome/status\u2026",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/50LHome/status/1460640526319951880",
+                    "start": 219,
+                    "url": "https://t.co/B7KWHvFwsW"
+                }
+            ]
+        },
+        "id": "1460891515924979713",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 4
+        },
+        "text": "Creating a smaller water footprint across cities could be the answer to creating a #NetZero future and reducing greenhouse gas emissions. Find out how we aim to do this with our partner @50LHome to make this a reality. https://t.co/B7KWHvFwsW"
+    }
+}

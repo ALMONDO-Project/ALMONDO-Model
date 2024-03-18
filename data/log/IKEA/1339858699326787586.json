@@ -1,0 +1,53 @@
+{
+    "1339858699326787586": {
+        "attachments": {
+            "media_keys": [
+                "3_1339858019887288320"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-12-18T09:03:01.000Z",
+        "edit_history_tweet_ids": [
+            "1339858699326787586"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8361,
+                    "start": 3,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.inter.ikea.com/about-us/ikea-\u2026",
+                    "end": 277,
+                    "expanded_url": "https://newsroom.inter.ikea.com/about-us/ikea-discovers-misconduct-at-a-supplier-related-to-wood-origin-documents/s/a36ea69f-7934-4259-a6e9-3c85c10bf2fe",
+                    "start": 254,
+                    "url": "https://t.co/ioPLhbW1MQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/H5MOVU9j7J",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/IKEA/status/1339858699326787586/photo/1",
+                    "media_key": "3_1339858019887288320",
+                    "start": 278,
+                    "url": "https://t.co/H5MOVU9j7J"
+                }
+            ]
+        },
+        "id": "1339858699326787586",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 26,
+            "quote_count": 3,
+            "reply_count": 12,
+            "retweet_count": 10
+        },
+        "text": "At IKEA we believe in taking responsibility for our supply chain. Through our monitoring system, we recently discovered serious misconduct by a supplier. As this stands in contrast with our values, we've terminated the relationship with them. Read more: https://t.co/ioPLhbW1MQ https://t.co/H5MOVU9j7J"
+    }
+}

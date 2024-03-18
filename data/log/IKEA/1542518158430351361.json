@@ -1,0 +1,60 @@
+{
+    "1542518158430351361": {
+        "attachments": {
+            "media_keys": [
+                "3_1542518149781696513"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2022-06-30T14:39:22.000Z",
+        "edit_history_tweet_ids": [
+            "1542518158430351361"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Asia",
+                    "probability": 0.9595,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "V\u00c5RDANDE",
+                    "probability": 0.6443,
+                    "start": 81,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "about.ikea.com/Newsroom/2022/\u2026",
+                    "end": 186,
+                    "expanded_url": "https://about.ikea.com/Newsroom/2022/06/29/IKEA-launches-the-caring-collection-VARDANDE",
+                    "start": 163,
+                    "url": "https://t.co/s7bWGBIIpU"
+                },
+                {
+                    "display_url": "pic.twitter.com/kMr12h3gLW",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/IKEA/status/1542518158430351361/photo/1",
+                    "media_key": "3_1542518149781696513",
+                    "start": 187,
+                    "url": "https://t.co/kMr12h3gLW"
+                }
+            ]
+        },
+        "id": "1542518158430351361",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "We collaborated with social businesses in Asia to create our upcoming collection V\u00c5RDANDE. Tap to read how this collection creates jobs where it is needed most \u27a1\ufe0f https://t.co/s7bWGBIIpU https://t.co/kMr12h3gLW"
+    }
+}

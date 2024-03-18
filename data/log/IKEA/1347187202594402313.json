@@ -1,0 +1,60 @@
+{
+    "1347187202594402313": {
+        "attachments": {
+            "media_keys": [
+                "3_1347187054673854465"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-01-07T14:23:53.000Z",
+        "edit_history_tweet_ids": [
+            "1347187202594402313"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "TBT",
+                    "probability": 0.4175,
+                    "start": 68,
+                    "type": "Other"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "Niels Gammelgaard",
+                    "probability": 0.9615,
+                    "start": 75,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 67,
+                    "tag": "TBT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/4rhs7wXXDi",
+                    "end": 187,
+                    "expanded_url": "https://twitter.com/IKEA/status/1347187202594402313/photo/1",
+                    "media_key": "3_1347187054673854465",
+                    "start": 164,
+                    "url": "https://t.co/4rhs7wXXDi"
+                }
+            ]
+        },
+        "id": "1347187202594402313",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Inspiration can strike anywhere, even at your local grocery store! #TBT to Niels Gammelgaard\u2019s 1983 MOMENT sofa which was modeled on the industrial design of the \ud83d\uded2 https://t.co/4rhs7wXXDi"
+    }
+}

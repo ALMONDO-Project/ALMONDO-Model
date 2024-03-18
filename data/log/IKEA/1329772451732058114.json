@@ -1,0 +1,77 @@
+{
+    "1329772451732058114": {
+        "attachments": {
+            "media_keys": [
+                "7_1329772028451237892"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2020-11-20T13:03:53.000Z",
+        "edit_history_tweet_ids": [
+            "1329772451732058114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Black Friday",
+                    "probability": 0.5355,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4449,
+                    "start": 76,
+                    "type": "Organization"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "IKEA",
+                    "probability": 0.4001,
+                    "start": 197,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 168,
+                    "tag": "BuybackFriday"
+                },
+                {
+                    "end": 195,
+                    "start": 183,
+                    "tag": "BlackFriday"
+                },
+                {
+                    "end": 201,
+                    "start": 196,
+                    "tag": "IKEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/6xaPlhD3XS",
+                    "end": 225,
+                    "expanded_url": "https://twitter.com/IKEA/status/1329772451732058114/video/1",
+                    "media_key": "7_1329772028451237892",
+                    "start": 202,
+                    "url": "https://t.co/6xaPlhD3XS"
+                }
+            ]
+        },
+        "id": "1329772451732058114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 6,
+            "retweet_count": 3
+        },
+        "text": "Let\u2019s make a better deal for the planet on Black Friday! Sell back your old IKEA furniture and we\u2019ll give it another life. Visit your local IKEA site for more details. #BuybackFriday #BlackFriday #IKEA https://t.co/6xaPlhD3XS"
+    }
+}

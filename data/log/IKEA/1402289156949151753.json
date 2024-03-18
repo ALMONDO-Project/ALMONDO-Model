@@ -1,0 +1,53 @@
+{
+    "1402289156949151753": {
+        "attachments": {
+            "media_keys": [
+                "7_1402288971816882177"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-06-08T15:39:22.000Z",
+        "edit_history_tweet_ids": [
+            "1402289156949151753"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "IKEA Foundation",
+                    "probability": 0.7335,
+                    "start": 56,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ikeafoundation.org",
+                    "end": 219,
+                    "expanded_url": "http://ikeafoundation.org",
+                    "start": 196,
+                    "url": "https://t.co/YtMHuPvevZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/KfqEq8NHGn",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/IKEA/status/1402289156949151753/video/1",
+                    "media_key": "7_1402288971816882177",
+                    "start": 220,
+                    "url": "https://t.co/KfqEq8NHGn"
+                }
+            ]
+        },
+        "id": "1402289156949151753",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 3,
+            "reply_count": 4,
+            "retweet_count": 1
+        },
+        "text": "Ready to be inspired? Meet five voices of hope from the IKEA Foundation and its partners. Together, they create brighter futures for children and their families around the world. Discover more on https://t.co/YtMHuPvevZ https://t.co/KfqEq8NHGn"
+    }
+}

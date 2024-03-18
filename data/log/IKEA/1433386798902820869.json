@@ -1,0 +1,60 @@
+{
+    "1433386798902820869": {
+        "attachments": {
+            "media_keys": [
+                "7_1433386728778240007"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-09-02T11:10:18.000Z",
+        "edit_history_tweet_ids": [
+            "1433386798902820869"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "IKEA Festival",
+                    "probability": 0.9284,
+                    "start": 36,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 215,
+                    "start": 202,
+                    "tag": "IKEAFestival"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ikea.com/festival",
+                    "end": 251,
+                    "expanded_url": "http://www.ikea.com/festival",
+                    "start": 228,
+                    "url": "https://t.co/x2UOrdRcOo"
+                },
+                {
+                    "display_url": "pic.twitter.com/n4z7rE9iIO",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/IKEA/status/1433386798902820869/video/1",
+                    "media_key": "7_1433386728778240007",
+                    "start": 252,
+                    "url": "https://t.co/n4z7rE9iIO"
+                }
+            ]
+        },
+        "id": "1433386798902820869",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 5,
+            "reply_count": 4,
+            "retweet_count": 10
+        },
+        "text": "Open the door to new experiences at IKEA Festival, a home tour around the world. You\u2019re invited into 100+ homes to discover concerts, food, design and much more! Going live 16 September, save the date. #IKEAFestival. Read more: https://t.co/x2UOrdRcOo https://t.co/n4z7rE9iIO"
+    }
+}

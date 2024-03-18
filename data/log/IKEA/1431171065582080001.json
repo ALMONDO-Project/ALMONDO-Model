@@ -1,0 +1,60 @@
+{
+    "1431171065582080001": {
+        "attachments": {
+            "media_keys": [
+                "7_1431170943901179904"
+            ]
+        },
+        "author_id": "606342802",
+        "created_at": "2021-08-27T08:25:46.000Z",
+        "edit_history_tweet_ids": [
+            "1431171065582080001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8904,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "IKEA",
+                    "probability": 0.8868,
+                    "start": 81,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ingka.com/news/global-la\u2026",
+                    "end": 169,
+                    "expanded_url": "https://www.ingka.com/news/global-launch-of-ikea-app-reaches-new-younger-buyers/",
+                    "start": 146,
+                    "url": "https://t.co/ccxRIz1yWr"
+                },
+                {
+                    "display_url": "pic.twitter.com/NkeSpuuyiA",
+                    "end": 193,
+                    "expanded_url": "https://twitter.com/IKEA/status/1431171065582080001/video/1",
+                    "media_key": "7_1431170943901179904",
+                    "start": 170,
+                    "url": "https://t.co/NkeSpuuyiA"
+                }
+            ]
+        },
+        "id": "1431171065582080001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "The IKEA app, now launched in 31 countries, is attracting the next generation of IKEA shoppers with 75% of users under the age of 34 \u2705 Read more: https://t.co/ccxRIz1yWr https://t.co/NkeSpuuyiA"
+    }
+}
