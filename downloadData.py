@@ -176,10 +176,11 @@ class UserDataDownload():
         count = 0
         
         for page in tqdm.tqdm(self.paginator):
+            print(compute_max_tweets('AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'))
             next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                print(compute_max_tweets('AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'))
                 tweet_data = {tweet.data['id']: tweet.data}
-                self.tweets.append(tweet_data)
                 self.dump_tweets(tweet, tweet_data)
                 count += 1
             if not next_token:
