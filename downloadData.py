@@ -64,9 +64,12 @@ class UserDataDownload():
             print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
         
         elif os.path.exists(self.userlogpath):
-            json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
-            json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
-            less_recent_tweet_id = json_files[0].replace('.json', '')
+            try:
+                json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
+                json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
+                less_recent_tweet_id = json_files[0].replace('.json', '')
+            except FileNotFoundError:
+                less_recent_tweet_id = None
             print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
             
         else:
