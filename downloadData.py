@@ -7,8 +7,12 @@ import tqdm
 import math
 import pickle
 import time
+import sys
 from json.decoder import JSONDecodeError
 from utils import *
+
+sys.stdout = PrintLogger(logging.getLogger('stdout'), logging.INFO)
+sys.stderr = PrintLogger(logging.getLogger('stderr'), logging.ERROR)
 
 class TweetAlreadyDumpedException():
     pass
@@ -34,19 +38,19 @@ class UserDataDownload():
         self.expansions = expansions.split(',')  # Split expansions into list
         self.user_fields = user_fields.split(',')  # Split user fields into list
         self.until_id = until_id  # Set until_id for pagination
-        print(f'>>> class initialized for user {self.username}')
-        print(f'>>> initial parameters are:')
-        print(f'>>> tweet fields = {self.tweet_fields}')
-        print(f'>>> media_fields = {self.media_fields}')
-        print(f'>>> user_fields = {self.user_fields}')
-        print(f'>>> expansions = {self.expansions}')
-        print(f'>>> until_id = {self.until_id}')
+        log_message(f'>>> class initialized for user {self.username}')
+        log_message(f'>>> initial parameters are:')
+        log_message(f'>>> tweet fields = {self.tweet_fields}')
+        log_message(f'>>> media_fields = {self.media_fields}')
+        log_message(f'>>> user_fields = {self.user_fields}')
+        log_message(f'>>> expansions = {self.expansions}')
+        log_message(f'>>> until_id = {self.until_id}')
         
     def set_client(self, wait_on_rate_limit=True):
         # Set Twitter API client with specified parameters
         self.client = tweepy.Client(self.bearer_token, 
                                     wait_on_rate_limit=wait_on_rate_limit)
-        print('>>> client initialized')
+        log_message('>>> client initialized')
         
     def set_user_data(self):
         # Get user data using Twitter API client
@@ -87,7 +91,7 @@ class UserDataDownload():
             self.userlogpath = f'data/log/{self.username}'
             if not os.path.exists(self.userlogpath):
                 os.makedirs(self.userlogpath) 
-            print('>>> necessary directories created')
+            log_message('>>> necessary directories created')
         except OSError as e:
             print(e)
             
@@ -124,7 +128,7 @@ class UserDataDownload():
             with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
         else:
-            print(f'>>> {tweet.id} already dumped, something went wrong')
+            log_message(f'>>> {tweet.id} already dumped, something went wrong')
             raise TweetAlreadyDumpedException
             exit()   
             
@@ -143,11 +147,13 @@ class UserDataDownload():
            
         
     def download(self, count):
+        log_message(f'>>> the maximum number of tweets i can retrieve is {count}')
         print(f'>>> the maximum number of tweets i can retrieve is {count}')
         
         max_results = 100
         limit = math.ceil(count / max_results)
         
+        log_message(f'>>> the process will do at most {limit} calls asking for at most {max_results} tweets per call')
         print(f'>>> the process will do at most {limit} calls asking for at most {max_results} tweets per call')
         
         self.set_time_limits()
@@ -164,10 +170,11 @@ class UserDataDownload():
                                     limit = limit,
                                     max_results = max_results)
         
+        log_message(f'>>> started retrieving tweets from {self.start_time} to {self.end_time}')
         print(f'>>> started retrieving tweets from {self.start_time} to {self.end_time}')
         
         for page in self.paginator:
-            print(">>> starting a new request") 
+            log_message(">>> starting a new request") 
             try:
                 next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             except KeyError:
@@ -201,6 +208,7 @@ class UserDataDownload():
                     file.write('\n')
                 return     
             
+            log_message('>>> going to sleep for 3 minutes')
             print('>>> going to sleep for 3 minutes')
             time.sleep(2 * 60) #in this way it does a request every two minutes so it does 7/8 requests every 15 minutes
         

@@ -1,6 +1,12 @@
 from downloadData import UserDataDownload
 import sys
 from utils import *
+import sys
+import logging
+
+# Replace sys.stdout and sys.stderr with PrintLogger
+sys.stdout = PrintLogger(logging.getLogger('stdout'), logging.INFO)
+sys.stderr = PrintLogger(logging.getLogger('stderr'), logging.ERROR)
 
 def main():
     BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
@@ -11,7 +17,9 @@ def main():
     
     usernames = read_users(INPUT)    
     maxt = compute_max_tweets(BEARER_TOKEN)
-    count = min(maxt, 3000)
+    count = maxt
+    log_message(f'>>> the number of tweets left is {count}')
+    print(f'>>> the number of tweets left is {count}')
     for username in usernames:
         while count > 0:
             user_data = UserDataDownload(username=username)
