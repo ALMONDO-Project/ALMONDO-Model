@@ -1,0 +1,65 @@
+{
+    "1666200095455338511": {
+        "attachments": {
+            "media_keys": [
+                "13_1666200001507123234"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-06T21:47:13.000Z",
+        "edit_history_tweet_ids": [
+            "1666200095455338511"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.5798,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4584,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 36,
+                    "tag": "GSKdata"
+                },
+                {
+                    "end": 61,
+                    "start": 53,
+                    "tag": "BIO2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/xTCXhExZHk",
+                    "end": 217,
+                    "expanded_url": "https://twitter.com/GSK/status/1666200095455338511/video/1",
+                    "media_key": "13_1666200001507123234",
+                    "start": 194,
+                    "url": "https://t.co/xTCXhExZHk"
+                }
+            ]
+        },
+        "id": "1666200095455338511",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4346,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "What a day! Thanks for visiting our #GSKdata wall at #BIO2023. 1,000+ conference-goers have shared their perspectives, added to the conversation, and illuminated our data visualization exhibit. https://t.co/xTCXhExZHk"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1725529281793601573": {
+        "attachments": {
+            "media_keys": [
+                "13_1725529226533617664"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-17T15:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1725529281793601573"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "EconWorldCancerSeries",
+                    "probability": 0.4903,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "Europe",
+                    "probability": 0.9432,
+                    "start": 60,
+                    "type": "Place"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "cancer",
+                    "probability": 0.5835,
+                    "start": 172,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 37,
+                    "tag": "EconWorldCancerSeries"
+                },
+                {
+                    "end": 244,
+                    "start": 235,
+                    "tag": "oncology"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 35,
+                    "id": "46575796",
+                    "start": 19,
+                    "username": "EconomistEvents"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/lXkeXnpnJb",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/GSK/status/1725529281793601573/video/1",
+                    "media_key": "13_1725529226533617664",
+                    "start": 279,
+                    "url": "https://t.co/lXkeXnpnJb"
+                }
+            ]
+        },
+        "id": "1725529281793601573",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2376,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "During this year\u2019s @EconomistEvents\u2019 #EconWorldCancerSeries Europe, we shared the latest on how we are applying innovative technologies to improve outcomes for people with cancer, including our focus on advancing precision medicine in #oncology. \nWatch some of the highlights. \ud83d\udc47 https://t.co/lXkeXnpnJb"
+    }
+}

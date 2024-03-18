@@ -1,0 +1,69 @@
+{
+    "1659246218348724243": {
+        "author_id": "5383942",
+        "created_at": "2023-05-18T17:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1659246218348724243"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "YouTube",
+                    "probability": 0.9613,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "GSKIMPACTUK Awards",
+                    "probability": 0.8688,
+                    "start": 95,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 106,
+                    "start": 94,
+                    "tag": "GSKIMPACTUK"
+                },
+                {
+                    "end": 184,
+                    "start": 170,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 44,
+                    "id": "18045120",
+                    "start": 31,
+                    "username": "TheKingsFund"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=O_L68n\u2026",
+                    "end": 210,
+                    "expanded_url": "https://www.youtube.com/watch?v=O_L68nKuQGs",
+                    "start": 187,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=O_L68nKuQGs",
+                    "url": "https://t.co/jgnn98Iv2W"
+                }
+            ]
+        },
+        "id": "1659246218348724243",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2828,
+            "like_count": 20,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We're LIVE now on YouTube from @TheKingsFund celebrating the amazing winning charities of the #GSKIMPACTUK Awards - watch along and share the great work of the winners!\ud83d\udc4f #AheadTogether \n\nhttps://t.co/jgnn98Iv2W"
+    }
+}

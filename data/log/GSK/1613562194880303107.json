@@ -1,0 +1,108 @@
+{
+    "1613562194880303107": {
+        "author_id": "5383942",
+        "created_at": "2023-01-12T15:43:00.000Z",
+        "edit_history_tweet_ids": [
+            "1613562194880303107"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "GSK",
+                    "probability": 0.6324,
+                    "start": 45,
+                    "type": "Organization"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "GSK",
+                    "probability": 0.7388,
+                    "start": 124,
+                    "type": "Organization"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "UK",
+                    "probability": 0.9699,
+                    "start": 132,
+                    "type": "Place"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "US",
+                    "probability": 0.9732,
+                    "start": 160,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "23436968",
+                    "start": 0,
+                    "username": "teamhair"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK United Kingdom",
+                    "display_url": "gsk.com/en-gb/location\u2026",
+                    "end": 159,
+                    "expanded_url": "https://www.gsk.com/en-gb/locations/united-kingdom/",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 136,
+                    "status": 200,
+                    "title": "United Kingdom | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/locations/united-kingdom/",
+                    "url": "https://t.co/2DKXQdIoSq"
+                },
+                {
+                    "description": "The homepage of the GSK USA website",
+                    "display_url": "us.gsk.com/en-us/",
+                    "end": 187,
+                    "expanded_url": "https://us.gsk.com/en-us/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1713484649970757632/_3GlAzMe?format=png&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1713484649970757632/_3GlAzMe?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 164,
+                    "status": 200,
+                    "title": "Home | GSK US",
+                    "unwound_url": "https://us.gsk.com/en-us/",
+                    "url": "https://t.co/IKRAFsFkBH"
+                }
+            ]
+        },
+        "id": "1613562194880303107",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 62,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@teamhair In the interest of patient safety, GSK would like to learn more about the experience you reported. Please contact GSK at:\nUK: https://t.co/2DKXQdIoSq\nUS: https://t.co/IKRAFsFkBH"
+    }
+}

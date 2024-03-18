@@ -1,0 +1,87 @@
+{
+    "1721488914962120815": {
+        "attachments": {
+            "media_keys": [
+                "13_1721488847253413888"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-06T11:25:15.000Z",
+        "edit_history_tweet_ids": [
+            "1721488914962120815"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "RSV",
+                    "probability": 0.5187,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "RSVAwarenessWeek",
+                    "probability": 0.6322,
+                    "start": 127,
+                    "type": "Other"
+                },
+                {
+                    "end": 252,
+                    "normalized_text": "RSV",
+                    "probability": 0.587,
+                    "start": 250,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 126,
+                    "tag": "RSVAwarenessWeek"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 189,
+                    "id": "23948958",
+                    "start": 174,
+                    "username": "COPDFoundation"
+                },
+                {
+                    "end": 200,
+                    "id": "532455893",
+                    "start": 191,
+                    "username": "IFAgeing"
+                },
+                {
+                    "end": 214,
+                    "id": "1593280809007566849",
+                    "start": 205,
+                    "username": "gaapporg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/na0nuEuFOc",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/GSK/status/1721488914962120815/video/1",
+                    "media_key": "13_1721488847253413888",
+                    "start": 265,
+                    "url": "https://t.co/na0nuEuFOc"
+                }
+            ]
+        },
+        "id": "1721488914962120815",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4365,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "Peak RSV season is approaching in many countries and affects more than 5 million older adults each year, which is why on this #RSVAwarenessWeek we\u2019re joining forces with the @COPDFoundation, @IFAgeing and @gaapporg to raise awareness of the risks of RSV in adults. https://t.co/na0nuEuFOc"
+    }
+}

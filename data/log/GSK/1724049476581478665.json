@@ -1,0 +1,74 @@
+{
+    "1724049476581478665": {
+        "author_id": "5383942",
+        "created_at": "2023-11-13T13:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1724049476581478665"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "hepatitisB",
+                    "probability": 0.503,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Jacki",
+                    "probability": 0.683,
+                    "start": 187,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Natalia",
+                    "probability": 0.6909,
+                    "start": 197,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "TLM23",
+                    "probability": 0.6447,
+                    "start": 246,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 85,
+                    "start": 74,
+                    "tag": "hepatitisB"
+                },
+                {
+                    "end": 251,
+                    "start": 245,
+                    "tag": "TLM23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3FUXdCs",
+                    "end": 277,
+                    "expanded_url": "https://gsk.to/3FUXdCs",
+                    "start": 254,
+                    "unwound_url": "https://gsk.to/3FUXdCs",
+                    "url": "https://t.co/fdm2aEYdNo"
+                }
+            ]
+        },
+        "id": "1724049476581478665",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2284,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Together, we continue to listen and learn from people living with chronic #hepatitisB (CHB) to better understand the disease and improve patient outcomes. We were honoured to speak with, Jacki and Natalia, CHB patient advocates, to learn more.  #TLM23 \n\nhttps://t.co/fdm2aEYdNo"
+    }
+}

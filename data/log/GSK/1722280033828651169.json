@@ -1,0 +1,72 @@
+{
+    "1722280033828651169": {
+        "author_id": "5383942",
+        "created_at": "2023-11-08T15:48:53.000Z",
+        "edit_history_tweet_ids": [
+            "1722280033828651169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Haleon",
+                    "probability": 0.3986,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "GSK",
+                    "probability": 0.582,
+                    "start": 105,
+                    "type": "Organization"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "Haleon",
+                    "probability": 0.3591,
+                    "start": 175,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "707263793156513792",
+                    "start": 0,
+                    "username": "Khykieynuts01"
+                },
+                {
+                    "end": 23,
+                    "id": "21778607",
+                    "start": 15,
+                    "username": "Colgate"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact Haleon Consumer Relations using this form.",
+                    "display_url": "haleon.com/contact-us/",
+                    "end": 281,
+                    "expanded_url": "https://www.haleon.com/contact-us/",
+                    "start": 258,
+                    "status": 200,
+                    "title": "General Enquiry",
+                    "unwound_url": "https://haleon.support/en-us/general-enquiry",
+                    "url": "https://t.co/nVW29kNoSb"
+                }
+            ]
+        },
+        "id": "1722280033828651169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 46,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Khykieynuts01 @Colgate Thank you for your message. Haleon took over the Consumer Healthcare division of GSK. That product falls under that category. For anything specific to Haleon, please get in touch with them directly via their socials or their website, https://t.co/nVW29kNoSb"
+    }
+}

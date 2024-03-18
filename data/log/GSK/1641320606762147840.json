@@ -1,0 +1,94 @@
+{
+    "1641320606762147840": {
+        "attachments": {
+            "media_keys": [
+                "3_1641320603985625090"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-30T06:05:01.000Z",
+        "edit_history_tweet_ids": [
+            "1641320606762147840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "HIV",
+                    "probability": 0.739,
+                    "start": 63,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "Media"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "3019793950",
+                    "start": 39,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "At GSK, we unite science, technology and talent to get ahead of disease together",
+                    "display_url": "gsk.com",
+                    "end": 217,
+                    "expanded_url": "https://www.gsk.com",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1767046796746907648/Q1o-vgzt?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1767046796746907648/Q1o-vgzt?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 194,
+                    "status": 200,
+                    "title": "Home | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/",
+                    "url": "https://t.co/iq6ccrYH5Q"
+                },
+                {
+                    "display_url": "pic.twitter.com/iaJ7uRUUuL",
+                    "end": 241,
+                    "expanded_url": "https://twitter.com/GSK/status/1641320606762147840/photo/1",
+                    "media_key": "3_1641320603985625090",
+                    "start": 218,
+                    "url": "https://t.co/iaJ7uRUUuL"
+                }
+            ]
+        },
+        "id": "1641320606762147840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4074,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "#News for #Investors and #Media: Today @ViiVHC, our specialist HIV company, have announced progress in their commitment to voluntary licencing for populations with unmet needs. \n\nFind out more: https://t.co/iq6ccrYH5Q https://t.co/iaJ7uRUUuL"
+    }
+}

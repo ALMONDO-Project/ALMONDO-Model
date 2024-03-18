@@ -1,0 +1,63 @@
+{
+    "1732422397226065970": {
+        "author_id": "5383942",
+        "created_at": "2023-12-06T15:31:01.000Z",
+        "edit_history_tweet_ids": [
+            "1732422397226065970"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 278,
+                    "normalized_text": "COP28UAE",
+                    "probability": 0.8287,
+                    "start": 271,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 279,
+                    "start": 270,
+                    "tag": "COP28UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Vaccines have revolutionised healthcare, but they could also be key to tackling global challenges like climate change, AMR and poverty",
+                    "display_url": "gsk.to/4a7DUnl",
+                    "end": 268,
+                    "expanded_url": "https://gsk.to/4a7DUnl",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1732422400766099456/6ZSaZ4Wx?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1732422400766099456/6ZSaZ4Wx?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 245,
+                    "status": 200,
+                    "title": "In the face of climate change, vaccines play a crucial but underestimated role | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/vaccines-climate-change-health-economy/?linkId=100000229941341",
+                    "url": "https://t.co/V7JGzWNkG1"
+                }
+            ]
+        },
+        "id": "1732422397226065970",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1766,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u201cThis is an investment, not an expense.\u201d Climate change is impacting the spread and burden of disease and accelerating anti-microbial resistance. Vaccines can help protect people\u2019s health but are under-recognised and under-resourced. Read more: https://t.co/V7JGzWNkG1  #COP28UAE"
+    }
+}

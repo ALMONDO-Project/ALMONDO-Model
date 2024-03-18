@@ -1,0 +1,65 @@
+{
+    "1666568542391619584": {
+        "attachments": {
+            "media_keys": [
+                "13_1666568469784010752"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-07T22:11:18.000Z",
+        "edit_history_tweet_ids": [
+            "1666568542391619584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.5508,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.5111,
+                    "start": 73,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 46,
+                    "start": 38,
+                    "tag": "GSKdata"
+                },
+                {
+                    "end": 80,
+                    "start": 72,
+                    "tag": "BIO2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UsLMSIAZIg",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/GSK/status/1666568542391619584/video/1",
+                    "media_key": "13_1666568469784010752",
+                    "start": 269,
+                    "url": "https://t.co/UsLMSIAZIg"
+                }
+            ]
+        },
+        "id": "1666568542391619584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4077,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "We have a new leading response to our #GSKdata wall exhibit question at #BIO2023: How would you most hope to describe health innovation in 10 years?\n\n39% of respondents say \"Personalized - transform how medicines are individually tailored.\"\n\nVisit booth 1835 tomorrow! https://t.co/UsLMSIAZIg"
+    }
+}

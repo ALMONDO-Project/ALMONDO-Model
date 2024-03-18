@@ -1,0 +1,67 @@
+{
+    "1623260139397455874": {
+        "attachments": {
+            "media_keys": [
+                "13_1623260031968739328"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-08T09:59:10.000Z",
+        "edit_history_tweet_ids": [
+            "1623260139397455874"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "Doug",
+                    "probability": 0.634,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 17,
+                    "normalized_text": "Science",
+                    "probability": 0.4184,
+                    "start": 11,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "GSK",
+                    "probability": 0.4083,
+                    "start": 142,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 187,
+                    "start": 173,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zXFdv1L303",
+                    "end": 211,
+                    "expanded_url": "https://twitter.com/GSK/status/1623260139397455874/video/1",
+                    "media_key": "13_1623260031968739328",
+                    "start": 188,
+                    "url": "https://t.co/zXFdv1L303"
+                }
+            ]
+        },
+        "id": "1623260139397455874",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5235,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Doug, Data Science Associate Director, uses his skills as a statistician to analyse clinical trial data which helps inform the decisions that GSK makes.\n\nHear his story \ud83d\udc47 \n\n#AheadTogether https://t.co/zXFdv1L303"
+    }
+}

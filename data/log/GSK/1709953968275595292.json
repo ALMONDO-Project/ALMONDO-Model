@@ -1,0 +1,84 @@
+{
+    "1709953968275595292": {
+        "attachments": {
+            "media_keys": [
+                "13_1709953917671354368"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-05T15:29:30.000Z",
+        "edit_history_tweet_ids": [
+            "1709953968275595292"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 262,
+                    "normalized_text": "HLTH2023",
+                    "probability": 0.4023,
+                    "start": 255,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 263,
+                    "start": 254,
+                    "tag": "HLTH2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 38,
+                    "id": "851486604288032768",
+                    "start": 28,
+                    "username": "HLTHEVENT"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK will be at the HLTH conference 2023.",
+                    "display_url": "gsk.to/3tlUori",
+                    "end": 249,
+                    "expanded_url": "https://gsk.to/3tlUori",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1709953972461551616/Ms-_q7se?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1709953972461551616/Ms-_q7se?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 226,
+                    "status": 200,
+                    "title": "GSK at HLTH 2023 | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/conferences/gsk-at-hlth-2023/?utm_source=twitter&utm_medium=organic&utm_campaign=HLTH&utm_content=hlth_joinus&linkId=100000221117396",
+                    "url": "https://t.co/u1aZTdEakZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/8EVcxQMgYx",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/GSK/status/1709953968275595292/video/1",
+                    "media_key": "13_1709953917671354368",
+                    "start": 264,
+                    "url": "https://t.co/8EVcxQMgYx"
+                }
+            ]
+        },
+        "id": "1709953968275595292",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2695,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Later this week we\u2019ll be at @HLTHEVENT 2023. We\u2019re looking forward to spending some time meeting, collaborating, and listening!  \n\nWe\u2019ve got a number of speakers lined up \u2013 see them all here and what they\u2019ll be talking about: https://t.co/u1aZTdEakZ \ud83d\udce3 \n\n#HLTH2023 https://t.co/8EVcxQMgYx"
+    }
+}

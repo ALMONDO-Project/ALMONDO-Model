@@ -1,0 +1,88 @@
+{
+    "1711261982765048254": {
+        "attachments": {
+            "media_keys": [
+                "13_1711261935247724544"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-09T06:07:05.000Z",
+        "edit_history_tweet_ids": [
+            "1711261982765048254"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "China",
+                    "probability": 0.9872,
+                    "start": 98,
+                    "type": "Place"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "China",
+                    "probability": 0.978,
+                    "start": 196,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 9,
+                    "tag": "media"
+                },
+                {
+                    "end": 30,
+                    "start": 20,
+                    "tag": "investors"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Keep up to date with our latest new announcements",
+                    "display_url": "gsk.to/46m1r1A",
+                    "end": 284,
+                    "expanded_url": "https://gsk.to/46m1r1A",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1711261985755615232/ONdFaElc?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1711261985755615232/ONdFaElc?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 261,
+                    "status": 200,
+                    "title": "Press releases | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/?linkId=100000221519574",
+                    "url": "https://t.co/DSxhCFDZiU"
+                },
+                {
+                    "display_url": "pic.twitter.com/3uccQdKIHn",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/GSK/status/1711261982765048254/video/1",
+                    "media_key": "13_1711261935247724544",
+                    "start": 285,
+                    "url": "https://t.co/3uccQdKIHn"
+                }
+            ]
+        },
+        "id": "1711261982765048254",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5346,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "News for #media and #investors: Today we announced an exclusive strategic vaccines partnership in China, which will significantly extend availability of our innovative vaccines &amp; help protect China\u2019s rapidly growing population of older adults. \n\nRead more: https://t.co/DSxhCFDZiU https://t.co/3uccQdKIHn"
+    }
+}

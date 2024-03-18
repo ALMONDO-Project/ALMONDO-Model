@@ -1,0 +1,58 @@
+{
+    "1643970932313141249": {
+        "attachments": {
+            "media_keys": [
+                "13_1643970843649736704"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-06T13:36:28.000Z",
+        "edit_history_tweet_ids": [
+            "1643970932313141249"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "GSK",
+                    "probability": 0.5702,
+                    "start": 3,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 132,
+                    "start": 121,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 232,
+                    "start": 218,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/9C7b6z4yUf",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/GSK/status/1643970932313141249/video/1",
+                    "media_key": "13_1643970843649736704",
+                    "start": 233,
+                    "url": "https://t.co/9C7b6z4yUf"
+                }
+            ]
+        },
+        "id": "1643970932313141249",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3836,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 1
+        },
+        "text": "At GSK, we turn new ideas into medicine at pace and scale thanks to our Medicine Development and Supply team. They drive #innovation by using cutting-edge technology to deliver life-changing ideas across the globe.  \n\n#AheadTogether https://t.co/9C7b6z4yUf"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1651888114850316289": {
+        "attachments": {
+            "media_keys": [
+                "3_1651888112019161088"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-28T09:56:31.000Z",
+        "edit_history_tweet_ids": [
+            "1651888114850316289"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Malaria",
+                    "probability": 0.629,
+                    "start": 66,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 11,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 64,
+                    "start": 49,
+                    "tag": "VaccineScience"
+                },
+                {
+                    "end": 73,
+                    "start": 65,
+                    "tag": "Malaria"
+                },
+                {
+                    "end": 88,
+                    "start": 74,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/40LD9dS",
+                    "end": 126,
+                    "expanded_url": "https://gsk.to/40LD9dS",
+                    "start": 103,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Mehvrv2d_No&list=PLvDyxtKlIcnhu8d_AD8pefi5RX7FYeYlM&index=5&linkId=100000200210921",
+                    "url": "https://t.co/K49COUAmni"
+                },
+                {
+                    "display_url": "pic.twitter.com/cGWNhI22MU",
+                    "end": 150,
+                    "expanded_url": "https://twitter.com/GSK/status/1651888114850316289/photo/1",
+                    "media_key": "3_1651888112019161088",
+                    "start": 127,
+                    "url": "https://t.co/cGWNhI22MU"
+                }
+            ]
+        },
+        "id": "1651888114850316289",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3148,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We believe #innovation drives disease prevention #VaccineScience #Malaria #AheadTogether\n \nLearn more: https://t.co/K49COUAmni https://t.co/cGWNhI22MU"
+    }
+}

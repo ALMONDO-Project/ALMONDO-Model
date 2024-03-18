@@ -1,0 +1,74 @@
+{
+    "1626159530374561793": {
+        "attachments": {
+            "media_keys": [
+                "13_1626159454856126468"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-16T10:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1626159530374561793"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "COVID19",
+                    "probability": 0.9722,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "RSV",
+                    "probability": 0.7326,
+                    "start": 63,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 3,
+                    "tag": "COVID19"
+                },
+                {
+                    "end": 66,
+                    "start": 62,
+                    "tag": "RSV"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3YTVULU",
+                    "end": 265,
+                    "expanded_url": "https://gsk.to/3YTVULU",
+                    "start": 242,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/fresh-insights-could-finally-help-us-tackle-rsv/?linkId=100000186191736",
+                    "url": "https://t.co/Pki7smDKf4"
+                },
+                {
+                    "display_url": "pic.twitter.com/x861Hu0ae5",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/GSK/status/1626159530374561793/video/1",
+                    "media_key": "13_1626159454856126468",
+                    "start": 266,
+                    "url": "https://t.co/x861Hu0ae5"
+                }
+            ]
+        },
+        "id": "1626159530374561793",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4378,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "As #COVID19 restrictions ease, there has been a resurgence of #RSV infections. \n\nThanks to advances in science, technology and structural biology, we could be on the cusp of finding new solutions for this infectious disease. \n\nFind out more: https://t.co/Pki7smDKf4 https://t.co/x861Hu0ae5"
+    }
+}

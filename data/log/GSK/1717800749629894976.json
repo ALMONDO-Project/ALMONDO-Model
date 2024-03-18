@@ -1,0 +1,55 @@
+{
+    "1717800749629894976": {
+        "attachments": {
+            "media_keys": [
+                "13_1717800669522911232"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-27T07:09:48.000Z",
+        "edit_history_tweet_ids": [
+            "1717800749629894976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "UK",
+                    "probability": 0.9019,
+                    "start": 53,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3s9fvwI",
+                    "end": 263,
+                    "expanded_url": "https://gsk.to/3s9fvwI",
+                    "start": 240,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/media/10653/uk_stem_equity_statement_27_oct_2023.pdf?linkId=100000223784851",
+                    "url": "https://t.co/JQKuTrdNWi"
+                },
+                {
+                    "display_url": "pic.twitter.com/qrx1DAu36y",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/GSK/status/1717800749629894976/video/1",
+                    "media_key": "13_1717800669522911232",
+                    "start": 264,
+                    "url": "https://t.co/qrx1DAu36y"
+                }
+            ]
+        },
+        "id": "1717800749629894976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3763,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Breaking news: We\u2019re proud to announce a new 10-year UK STEM equity programme designed to inspire and invest in the next generation of STEM talent from under-represented groups, starting with a nationwide mentoring programme. \n\nLearn more: https://t.co/JQKuTrdNWi https://t.co/qrx1DAu36y"
+    }
+}

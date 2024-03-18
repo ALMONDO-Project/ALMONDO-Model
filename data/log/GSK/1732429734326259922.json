@@ -1,0 +1,81 @@
+{
+    "1732429734326259922": {
+        "attachments": {
+            "media_keys": [
+                "13_1732429700490752000"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-12-06T16:00:10.000Z",
+        "edit_history_tweet_ids": [
+            "1732429734326259922"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "myelofibrosis",
+                    "probability": 0.7641,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "ASH23",
+                    "probability": 0.5737,
+                    "start": 251,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 12,
+                    "tag": "myelofibrosis"
+                },
+                {
+                    "end": 207,
+                    "start": 195,
+                    "tag": "bloodcancer"
+                },
+                {
+                    "end": 256,
+                    "start": 250,
+                    "tag": "ASH23"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK will be at the American Society of Hematology (ASH) Annual Meeting and Exposition 2023.",
+                    "display_url": "gsk.to/3uLldG0",
+                    "end": 248,
+                    "expanded_url": "https://gsk.to/3uLldG0",
+                    "start": 225,
+                    "status": 200,
+                    "title": "GSK at American Society of Hematology 2023 | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/conferences/gsk-at-american-society-of-hematology-2023/?linkId=100000229794934",
+                    "url": "https://t.co/uQBxryH7OC"
+                },
+                {
+                    "display_url": "pic.twitter.com/wOnNQFJcnE",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/GSK/status/1732429734326259922/video/1",
+                    "media_key": "13_1732429700490752000",
+                    "start": 257,
+                    "url": "https://t.co/wOnNQFJcnE"
+                }
+            ]
+        },
+        "id": "1732429734326259922",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2109,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Symptoms of #myelofibrosis can present and progress differently for everyone. Through our ongoing research, we are working to improve the outcomes and quality of life for people living with this #bloodcancer.\n\nFind out more: https://t.co/uQBxryH7OC\n\n#ASH23 https://t.co/wOnNQFJcnE"
+    }
+}

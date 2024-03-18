@@ -1,0 +1,88 @@
+{
+    "1674049060460789762": {
+        "author_id": "5383942",
+        "created_at": "2023-06-28T13:36:12.000Z",
+        "edit_history_tweet_ids": [
+            "1674049060460789762"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "AI",
+                    "probability": 0.8568,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Kim Branson",
+                    "probability": 0.9352,
+                    "start": 89,
+                    "type": "Person"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "AI",
+                    "probability": 0.5624,
+                    "start": 131,
+                    "type": "Organization"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "LLMs",
+                    "probability": 0.5113,
+                    "start": 195,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 16,
+                    "start": 0,
+                    "tag": "MachineLearning"
+                },
+                {
+                    "end": 24,
+                    "start": 21,
+                    "tag": "AI"
+                },
+                {
+                    "end": 77,
+                    "start": 61,
+                    "tag": "drugdevelopment"
+                },
+                {
+                    "end": 199,
+                    "start": 194,
+                    "tag": "LLMs"
+                },
+                {
+                    "end": 218,
+                    "start": 210,
+                    "tag": "ChatGPT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/BLaw/status/16\u2026",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/BLaw/status/1671436304419024897",
+                    "start": 254,
+                    "url": "https://t.co/HtpAGdSA30"
+                }
+            ]
+        },
+        "id": "1674049060460789762",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4558,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#MachineLearning and #AI are changing the way we think about #drugdevelopment. Read what Kim Branson, our SVP &amp; Global Head of AI &amp; ML, said about the potential of Large Language Models #LLMs - such as #ChatGPT - in the search for new medicines. https://t.co/HtpAGdSA30"
+    }
+}

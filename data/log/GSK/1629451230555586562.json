@@ -1,0 +1,91 @@
+{
+    "1629451230555586562": {
+        "attachments": {
+            "media_keys": [
+                "13_1629451142093586436"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-25T12:00:21.000Z",
+        "edit_history_tweet_ids": [
+            "1629451230555586562"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Chickenpox",
+                    "probability": 0.7642,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "ShinglesAwarenessWeek",
+                    "probability": 0.7993,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "UK",
+                    "probability": 0.9764,
+                    "start": 147,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "Chickenpox"
+                },
+                {
+                    "end": 41,
+                    "start": 32,
+                    "tag": "shingles"
+                },
+                {
+                    "end": 94,
+                    "start": 72,
+                    "tag": "ShinglesAwarenessWeek"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 126,
+                    "id": "532455893",
+                    "start": 117,
+                    "username": "IFAgeing"
+                },
+                {
+                    "end": 145,
+                    "id": "81856710",
+                    "start": 132,
+                    "username": "EamonnHolmes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/0JTznStqbA",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/GSK/status/1629451230555586562/video/1",
+                    "media_key": "13_1629451142093586436",
+                    "start": 256,
+                    "url": "https://t.co/0JTznStqbA"
+                }
+            ]
+        },
+        "id": "1629451230555586562",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7132,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "#Chickenpox as a child can mean #shingles as an adult.  \n\nNext week for #ShinglesAwarenessWeek we\u2019re partnering with @IFAgeing and  @EamonnHolmes, UK broadcaster, to raise awareness of shingles and tell you more about the risk, symptoms and complications. https://t.co/0JTznStqbA"
+    }
+}

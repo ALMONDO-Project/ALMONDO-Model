@@ -1,0 +1,67 @@
+{
+    "1647932929073455108": {
+        "attachments": {
+            "media_keys": [
+                "3_1647932923792728064"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-17T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1647932929073455108"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 239,
+                    "normalized_text": "ECCMID2023",
+                    "probability": 0.6011,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 114,
+                    "start": 105,
+                    "tag": "shingles"
+                },
+                {
+                    "end": 240,
+                    "start": 229,
+                    "tag": "ECCMID2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/40fMn1Z",
+                    "end": 227,
+                    "expanded_url": "https://gsk.to/40fMn1Z",
+                    "start": 204,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/age-related-decline-immunity-infectious-disease/?linkId=100000199027254",
+                    "url": "https://t.co/02jckat7KG"
+                },
+                {
+                    "display_url": "pic.twitter.com/FokNpl1DU7",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/GSK/status/1647932929073455108/photo/1",
+                    "media_key": "3_1647932923792728064",
+                    "start": 241,
+                    "url": "https://t.co/FokNpl1DU7"
+                }
+            ]
+        },
+        "id": "1647932929073455108",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5000,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "Did you know that the immune system becomes less effective in defending us from infectious diseases like #shingles as we age? \n\nGo Behind the Science and learn more about age-related decline in immunity: https://t.co/02jckat7KG\n\n#ECCMID2023 https://t.co/FokNpl1DU7"
+    }
+}

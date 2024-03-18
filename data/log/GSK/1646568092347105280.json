@@ -1,0 +1,39 @@
+{
+    "1646568092347105280": {
+        "author_id": "5383942",
+        "created_at": "2023-04-13T17:36:39.000Z",
+        "edit_history_tweet_ids": [
+            "1646568092347105280"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "gskclinicalsupporthd",
+                    "probability": 0.6149,
+                    "start": 87,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1619635543184183296",
+                    "start": 0,
+                    "username": "vixster81"
+                }
+            ]
+        },
+        "id": "1646568092347105280",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 26,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@vixster81 Thank you for your inquiry. Please contact the Clinical Support Helpdesk at gskclinicalsupporthd@gsk.com. For assistance by phone, please call 877-528-7677."
+    }
+}

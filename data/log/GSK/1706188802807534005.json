@@ -1,0 +1,109 @@
+{
+    "1706188802807534005": {
+        "attachments": {
+            "media_keys": [
+                "3_1706188794825699328"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-25T06:08:04.000Z",
+        "edit_history_tweet_ids": [
+            "1706188802807534005"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "Ministry of Health",
+                    "probability": 0.9154,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "Labour",
+                    "probability": 0.6142,
+                    "start": 62,
+                    "type": "Organization"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "of",
+                    "probability": 0.6685,
+                    "start": 81,
+                    "type": "Organization"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Japan",
+                    "probability": 0.5215,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "RSV",
+                    "probability": 0.4455,
+                    "start": 107,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 9,
+                    "tag": "investors"
+                },
+                {
+                    "end": 30,
+                    "start": 24,
+                    "tag": "media"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Keep up to date with our latest new announcements",
+                    "display_url": "gsk.to/3ZtITde",
+                    "end": 162,
+                    "expanded_url": "https://gsk.to/3ZtITde",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1706188807278649344/OLFjxnLl?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1706188807278649344/OLFjxnLl?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 139,
+                    "status": 200,
+                    "title": "Press releases | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/?linkId=100000219764277",
+                    "url": "https://t.co/Mg4D0ctzbq"
+                },
+                {
+                    "display_url": "pic.twitter.com/YtpXiObL9I",
+                    "end": 186,
+                    "expanded_url": "https://twitter.com/GSK/status/1706188802807534005/photo/1",
+                    "media_key": "3_1706188794825699328",
+                    "start": 163,
+                    "url": "https://t.co/YtpXiObL9I"
+                }
+            ]
+        },
+        "id": "1706188802807534005",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5443,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "News for #investors and #media: Today the Ministry of Health, Labour and Welfare of Japan has approved our RSV vaccine.  \n \nFind out more: https://t.co/Mg4D0ctzbq https://t.co/YtpXiObL9I"
+    }
+}

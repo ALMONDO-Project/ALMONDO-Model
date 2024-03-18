@@ -1,0 +1,56 @@
+{
+    "1623305650372587521": {
+        "author_id": "5383942",
+        "created_at": "2023-02-08T13:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1623305650372587521"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Covid",
+                    "probability": 0.9604,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "RSV",
+                    "probability": 0.6689,
+                    "start": 85,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 211,
+                    "start": 194,
+                    "tag": "BehindTheScience"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3DMnsdZ",
+                    "end": 236,
+                    "expanded_url": "https://gsk.to/3DMnsdZ",
+                    "start": 213,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/tripledemic-flu-covid-rsv-older-patients-infectious-disease/?linkId=100000184210659",
+                    "url": "https://t.co/fQM3aVvrNo"
+                }
+            ]
+        },
+        "id": "1623305650372587521",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4887,
+            "like_count": 15,
+            "quote_count": 2,
+            "reply_count": 6,
+            "retweet_count": 4
+        },
+        "text": "The combination of three prominent respiratory viruses this winter \u2013 Covid, flu, and RSV \u2013 continues to raise the risk for older and at-risk adults. But what can we all do to reduce the impact? #BehindTheScience  https://t.co/fQM3aVvrNo"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1711657673546977696": {
+        "attachments": {
+            "poll_ids": [
+                "1711657672829812736"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-10T08:19:25.000Z",
+        "edit_history_tweet_ids": [
+            "1711657673546977696"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "HLTH2023",
+                    "probability": 0.6111,
+                    "start": 13,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 12,
+                    "tag": "HLTH2023"
+                }
+            ]
+        },
+        "id": "1711657673546977696",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2808,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "On day 3 of #HLTH2023, we're asking:\n\nIf you could modify one aspect of healthcare collaborations to drive innovation, what would it be?\n\nHave your say \ud83d\udc47"
+    }
+}

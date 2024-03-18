@@ -1,0 +1,73 @@
+{
+    "1727696164521181189": {
+        "author_id": "5383942",
+        "created_at": "2023-11-23T14:30:39.000Z",
+        "edit_history_tweet_ids": [
+            "1727696164521181189"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Antimicrobial Resistance",
+                    "probability": 0.661,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "AMR",
+                    "probability": 0.3226,
+                    "start": 46,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 49,
+                    "start": 45,
+                    "tag": "AMR"
+                },
+                {
+                    "end": 116,
+                    "start": 104,
+                    "tag": "Vaccination"
+                },
+                {
+                    "end": 243,
+                    "start": 238,
+                    "tag": "WAAW"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Without effective treatments, these infections can remain, grow, and continue to spread to other areas of the body",
+                    "display_url": "gsk.to/3MWBcav",
+                    "end": 267,
+                    "expanded_url": "https://gsk.to/3MWBcav",
+                    "start": 244,
+                    "status": 200,
+                    "title": "How vaccine science can help tackle antimicrobial resistance | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/how-vaccine-science-can-help-tackle-antimicrobial-resistance/?linkId=100000227904641",
+                    "url": "https://t.co/ImIFxQA1wv"
+                }
+            ]
+        },
+        "id": "1727696164521181189",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3223,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 4
+        },
+        "text": "#DYK that by 2050, Antimicrobial Resistance (#AMR) could lead to 10 million deaths every year globally? #Vaccination could have a role in helping prevent some infections and ensuring a healthier future for our societies. Find out more \ud83d\udc47 \n#WAAW https://t.co/ImIFxQA1wv"
+    }
+}

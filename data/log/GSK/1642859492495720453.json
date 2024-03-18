@@ -1,0 +1,67 @@
+{
+    "1642859492495720453": {
+        "author_id": "5383942",
+        "created_at": "2023-04-03T12:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1642859492495720453"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "AI",
+                    "probability": 0.8652,
+                    "start": 57,
+                    "type": "Organization"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "GSK",
+                    "probability": 0.8053,
+                    "start": 104,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Onyx",
+                    "probability": 0.6204,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 56,
+                    "tag": "AI"
+                },
+                {
+                    "end": 207,
+                    "start": 184,
+                    "tag": "ArtificialIntelligence"
+                },
+                {
+                    "end": 224,
+                    "start": 208,
+                    "tag": "MachineLearning"
+                },
+                {
+                    "end": 239,
+                    "start": 225,
+                    "tag": "AheadTogether"
+                }
+            ]
+        },
+        "id": "1642859492495720453",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3417,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Are you ready to join us? With the most gifted minds in #AI and best-in-class partners collaborating on GSK\u2019s Onyx research data platform, we can help get ahead of disease together. \n\n#ArtificialIntelligence #MachineLearning #AheadTogether"
+    }
+}

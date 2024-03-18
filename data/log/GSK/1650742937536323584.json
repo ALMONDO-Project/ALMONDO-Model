@@ -1,0 +1,53 @@
+{
+    "1650742937536323584": {
+        "author_id": "5383942",
+        "created_at": "2023-04-25T06:06:00.000Z",
+        "edit_history_tweet_ids": [
+            "1650742937536323584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "EMA",
+                    "probability": 0.4576,
+                    "start": 68,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "Media"
+                },
+                {
+                    "end": 200,
+                    "start": 193,
+                    "tag": "cancer"
+                }
+            ]
+        },
+        "id": "1650742937536323584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4173,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#News for #Investors and #Media: We\u2019re pleased to announce that the EMA has accepted the marketing authorisation application for a potential new indication of our immuno-oncology treatment for #cancer patients."
+    }
+}

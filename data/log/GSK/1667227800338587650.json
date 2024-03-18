@@ -1,0 +1,58 @@
+{
+    "1667227800338587650": {
+        "attachments": {
+            "media_keys": [
+                "13_1667227704171569175"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-09T17:50:57.000Z",
+        "edit_history_tweet_ids": [
+            "1667227800338587650"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4013,
+                    "start": 23,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "ICYMI"
+                },
+                {
+                    "end": 30,
+                    "start": 22,
+                    "tag": "BIO2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jcc9457Gx4",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/GSK/status/1667227800338587650/video/1",
+                    "media_key": "13_1667227704171569175",
+                    "start": 246,
+                    "url": "https://t.co/jcc9457Gx4"
+                }
+            ]
+        },
+        "id": "1667227800338587650",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3851,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "#ICYMI What a week at #BIO2023! We\u2019re thrilled to be part of the innovation community, immersed by the brightest in biotech who share our belief that by uniting science, technology and talent and by working together, we can get ahead of disease. https://t.co/jcc9457Gx4"
+    }
+}

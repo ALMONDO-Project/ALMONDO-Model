@@ -1,0 +1,63 @@
+{
+    "1653419285794922499": {
+        "author_id": "5383942",
+        "created_at": "2023-05-02T15:20:51.000Z",
+        "edit_history_tweet_ids": [
+            "1653419285794922499"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "severeasthma",
+                    "probability": 0.5847,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 69,
+                    "tag": "severeasthma"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Global specialists, including GSK scientists, are applying years of expertise in asthma to aspire to clinical remission.",
+                    "display_url": "gsk.com/en-gb/behind-t\u2026",
+                    "end": 270,
+                    "expanded_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/remission-severe-asthma-treatments-possible/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1720101872457945090/cqsMBQGd?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1720101872457945090/cqsMBQGd?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 247,
+                    "status": 200,
+                    "title": "Remission could be possible for people with severe asthma, giving them a new outlook on life | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/remission-severe-asthma-treatments-possible/",
+                    "url": "https://t.co/JbJ9FtRxmi"
+                }
+            ]
+        },
+        "id": "1653419285794922499",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4181,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "We\u2019re working with experts and patients to advance the management of #severeasthma. Medicine has evolved and we\u2019re working to achieve remission for people with severe asthma \u2013 freeing them from exacerbations or the need of oral corticosteroids. \n\nhttps://t.co/JbJ9FtRxmi"
+    }
+}

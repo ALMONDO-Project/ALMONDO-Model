@@ -1,0 +1,81 @@
+{
+    "1702349173834580266": {
+        "attachments": {
+            "media_keys": [
+                "13_1702349127445606400"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-14T15:50:45.000Z",
+        "edit_history_tweet_ids": [
+            "1702349173834580266"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 151,
+                    "normalized_text": "Lucy",
+                    "probability": 0.4912,
+                    "start": 148,
+                    "type": "Person"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Peter",
+                    "probability": 0.6718,
+                    "start": 157,
+                    "type": "Person"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "ERSCongress",
+                    "probability": 0.6104,
+                    "start": 207,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 205,
+                    "start": 191,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 218,
+                    "start": 206,
+                    "tag": "ERSCongress"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3PEOZEw",
+                    "end": 189,
+                    "expanded_url": "https://gsk.to/3PEOZEw",
+                    "start": 166,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/media/conferences/gsk-at-ers-2023/?linkId=100000218528740",
+                    "url": "https://t.co/tIvzIQoGZc"
+                },
+                {
+                    "display_url": "pic.twitter.com/snVOLOB7WJ",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/GSK/status/1702349173834580266/video/1",
+                    "media_key": "13_1702349127445606400",
+                    "start": 219,
+                    "url": "https://t.co/snVOLOB7WJ"
+                }
+            ]
+        },
+        "id": "1702349173834580266",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2302,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We are committed to getting ahead of respiratory diseases and helping to improve the lives of millions of patients, one day at a time - people like Lucy and Peter. \n\nhttps://t.co/tIvzIQoGZc\n\n#AheadTogether #ERSCongress https://t.co/snVOLOB7WJ"
+    }
+}

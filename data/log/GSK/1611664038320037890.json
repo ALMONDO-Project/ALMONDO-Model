@@ -1,0 +1,87 @@
+{
+    "1611664038320037890": {
+        "attachments": {
+            "media_keys": [
+                "13_1611663940211064832"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-01-07T10:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1611664038320037890"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "HIV",
+                    "probability": 0.7661,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Deborah Waterhouse",
+                    "probability": 0.8199,
+                    "start": 67,
+                    "type": "Person"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "HIV",
+                    "probability": 0.5957,
+                    "start": 115,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "FTPharma",
+                    "probability": 0.5062,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 47,
+                    "tag": "HIV"
+                },
+                {
+                    "end": 249,
+                    "start": 240,
+                    "tag": "FTPharma"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 98,
+                    "id": "3019793950",
+                    "start": 91,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wRUkHtoEry",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/GSK/status/1611664038320037890/video/1",
+                    "media_key": "13_1611663940211064832",
+                    "start": 250,
+                    "url": "https://t.co/wRUkHtoEry"
+                }
+            ]
+        },
+        "id": "1611664038320037890",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5524,
+            "like_count": 33,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "\u201cOur mission is to leave no person living with #HIV behind.\u201d\n\nHear Deborah Waterhouse, CEO @ViiVHC, our specialist HIV company, discuss how to strike a successful balance between driving growth and global access to medicines for patients \ud83d\udc47 #FTPharma https://t.co/wRUkHtoEry"
+    }
+}

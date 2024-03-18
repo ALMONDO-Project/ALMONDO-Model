@@ -1,0 +1,81 @@
+{
+    "1702668596097298616": {
+        "attachments": {
+            "media_keys": [
+                "3_1702668592376918016"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-15T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1702668596097298616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "UNGA78",
+                    "probability": 0.6693,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 56,
+                    "tag": "HealthForAll"
+                },
+                {
+                    "end": 116,
+                    "start": 109,
+                    "tag": "UNGA78"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 87,
+                    "id": "2601057798",
+                    "start": 71,
+                    "username": "ThomasBreuer_MD"
+                },
+                {
+                    "end": 105,
+                    "id": "50101725",
+                    "start": 99,
+                    "username": "devex"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3PxBpCC",
+                    "end": 241,
+                    "expanded_url": "https://gsk.to/3PxBpCC",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://pages.devex.com/unlocking-the-power-of-prevention-delivering-global-health-impact-for-all-through-partnerships.html",
+                    "url": "https://t.co/sw71IOa3HT"
+                },
+                {
+                    "display_url": "pic.twitter.com/Y8ruQDh9so",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/GSK/status/1702668596097298616/photo/1",
+                    "media_key": "3_1702668592376918016",
+                    "start": 270,
+                    "url": "https://t.co/Y8ruQDh9so"
+                }
+            ]
+        },
+        "id": "1702668596097298616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2152,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Partnerships lie at the heart of our mission to improve #HealthForAll. @ThomasBreuer_MD talks with @devex at #UNGA78 about how partnerships are changing the trajectory of infectious diseases in lower income countries: https://t.co/sw71IOa3HT\n\n\ud83d\uddd3\ufe0f 20 September \n\ud83d\udd5a11am EDT https://t.co/Y8ruQDh9so"
+    }
+}

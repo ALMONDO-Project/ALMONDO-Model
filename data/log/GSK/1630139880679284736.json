@@ -1,0 +1,49 @@
+{
+    "1630139880679284736": {
+        "author_id": "5383942",
+        "created_at": "2023-02-27T09:36:48.000Z",
+        "edit_history_tweet_ids": [
+            "1630139880679284736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Shingles",
+                    "probability": 0.9274,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 17,
+                    "tag": "Shingles"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.com/en-gb/behind-t\u2026",
+                    "end": 57,
+                    "expanded_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/shingles-symptoms-risks-pain-adults/",
+                    "start": 34,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/shingles-symptoms-risks-pain-adults/",
+                    "url": "https://t.co/CYAayAzJKn"
+                }
+            ]
+        },
+        "id": "1630139880679284736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2753,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Learn more about #Shingles here:  https://t.co/CYAayAzJKn"
+    }
+}

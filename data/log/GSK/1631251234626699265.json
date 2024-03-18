@@ -1,0 +1,95 @@
+{
+    "1631251234626699265": {
+        "attachments": {
+            "media_keys": [
+                "13_1631251187629453314"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-02T11:12:56.000Z",
+        "edit_history_tweet_ids": [
+            "1631251234626699265"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Shingles",
+                    "probability": 0.823,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "Eamonn",
+                    "probability": 0.4844,
+                    "start": 106,
+                    "type": "Person"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "ShinglesAwarenessWeek",
+                    "probability": 0.815,
+                    "start": 158,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 0,
+                    "tag": "Shingles"
+                },
+                {
+                    "end": 179,
+                    "start": 157,
+                    "tag": "ShinglesAwarenessWeek"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "81856710",
+                    "start": 28,
+                    "username": "EamonnHolmes"
+                },
+                {
+                    "end": 84,
+                    "id": "532455893",
+                    "start": 75,
+                    "username": "IFAgeing"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3ZwNtpV",
+                    "end": 155,
+                    "expanded_url": "https://gsk.to/3ZwNtpV",
+                    "start": 132,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=R6JrbOSkxnw&fbclid=IwAR1tA9Mx0Fee9snj7CpygqB1SiJFT5w4FgBqk4WFrI-FUSLsZVUhXLeID-o&linkId=100000190383640",
+                    "url": "https://t.co/Qrl7xsS7sV"
+                },
+                {
+                    "display_url": "pic.twitter.com/xnOZf6xk2G",
+                    "end": 203,
+                    "expanded_url": "https://twitter.com/GSK/status/1631251234626699265/video/1",
+                    "media_key": "13_1631251187629453314",
+                    "start": 180,
+                    "url": "https://t.co/xnOZf6xk2G"
+                }
+            ]
+        },
+        "id": "1631251234626699265",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3594,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "#Shingles can be painful as @EamonnHolmes describes in this interview with @IFAgeing.  \n\nLearn more about Eamonn\u2019s experience here: https://t.co/Qrl7xsS7sV\n\n#ShinglesAwarenessWeek https://t.co/xnOZf6xk2G"
+    }
+}

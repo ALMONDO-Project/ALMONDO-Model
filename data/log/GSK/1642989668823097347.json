@@ -1,0 +1,39 @@
+{
+    "1642989668823097347": {
+        "author_id": "5383942",
+        "created_at": "2023-04-03T20:37:16.000Z",
+        "edit_history_tweet_ids": [
+            "1642989668823097347"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "UK",
+                    "probability": 0.981,
+                    "start": 35,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "827834746659098625",
+                    "start": 0,
+                    "username": "diyates70"
+                }
+            ]
+        },
+        "id": "1642989668823097347",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 89,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@diyates70 Hello - Our team in the UK is best equipped to speak with you regarding products for your local market: Email: customercontactuk@gsk.com / Tel: 0800 221 441\n\nPlease note that our offices are not open in the evenings or on weekends."
+    }
+}

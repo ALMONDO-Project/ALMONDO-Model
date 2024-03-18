@@ -1,0 +1,61 @@
+{
+    "1708881350927831107": {
+        "attachments": {
+            "media_keys": [
+                "3_1708881347836628992"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-02T16:27:18.000Z",
+        "edit_history_tweet_ids": [
+            "1708881350927831107"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Tony Wood",
+                    "probability": 0.8703,
+                    "start": 47,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Fierce 50",
+                    "probability": 0.7188,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 122,
+                    "id": "18294275",
+                    "start": 109,
+                    "username": "FiercePharma"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jLAQsnIQcN",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/GSK/status/1708881350927831107/photo/1",
+                    "media_key": "3_1708881347836628992",
+                    "start": 221,
+                    "url": "https://t.co/jLAQsnIQcN"
+                }
+            ]
+        },
+        "id": "1708881350927831107",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3068,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "We\u2019re proud that our Chief Scientific Officer, Tony Wood, has been named a Fierce 50 Breakthrough honoree by @FiercePharma, celebrating healthcare and biopharma trailblazers and visionaries fighting for patient care. \ud83d\udc4f \ud83d\udd2c https://t.co/jLAQsnIQcN"
+    }
+}

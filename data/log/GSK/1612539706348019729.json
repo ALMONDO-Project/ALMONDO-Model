@@ -1,0 +1,68 @@
+{
+    "1612539706348019729": {
+        "author_id": "5383942",
+        "created_at": "2023-01-09T20:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1612539706348019729"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "AI",
+                    "probability": 0.7632,
+                    "start": 86,
+                    "type": "Organization"
+                },
+                {
+                    "end": 251,
+                    "normalized_text": "JPM2023",
+                    "probability": 0.6187,
+                    "start": 245,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "JPM23",
+                    "probability": 0.6676,
+                    "start": 254,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 252,
+                    "start": 244,
+                    "tag": "JPM2023"
+                },
+                {
+                    "end": 259,
+                    "start": 253,
+                    "tag": "JPM23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3WZ0IPj",
+                    "end": 241,
+                    "expanded_url": "https://gsk.to/3WZ0IPj",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/behind-the-science-magazine/combining-genetics-and-tech-to-double-success-rates/?linkId=100000176982078",
+                    "url": "https://t.co/d9XGyLXvfD"
+                }
+            ]
+        },
+        "id": "1612539706348019729",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3581,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re combining the power of genetic and genomic insights with the speed and scale of AI and ML to help us predict more about human health, and develop better medicines for the future. \n\nGo Behind the Science with us: https://t.co/d9XGyLXvfD \n\n#JPM2023 #JPM23"
+    }
+}

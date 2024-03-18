@@ -1,0 +1,79 @@
+{
+    "1638542377345228801": {
+        "attachments": {
+            "media_keys": [
+                "13_1638542297888444418"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-22T14:05:20.000Z",
+        "edit_history_tweet_ids": [
+            "1638542377345228801"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "HIV",
+                    "probability": 0.8855,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "HIV",
+                    "probability": 0.9152,
+                    "start": 122,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 20,
+                    "tag": "HIV"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 145,
+                    "id": "18949452",
+                    "start": 142,
+                    "username": "FT"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How community activism translates into innovative medicines",
+                    "display_url": "gsk.to/FTHIVORG",
+                    "end": 169,
+                    "expanded_url": "https://gsk.to/FTHIVORG",
+                    "start": 146,
+                    "status": 200,
+                    "title": "Can you hear me? HIV community tells industry the struggle is not over",
+                    "unwound_url": "https://gsk.ft.com/article/hiv-community-tells-industry-struggle-not-over?utm_source=FT&utm_medium=GSK&utm_content=PAID",
+                    "url": "https://t.co/ZAJsn2Q5hU"
+                },
+                {
+                    "display_url": "pic.twitter.com/RlkgATvcLu",
+                    "end": 193,
+                    "expanded_url": "https://twitter.com/GSK/status/1638542377345228801/video/1",
+                    "media_key": "13_1638542297888444418",
+                    "start": 170,
+                    "url": "https://t.co/RlkgATvcLu"
+                }
+            ]
+        },
+        "id": "1638542377345228801",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4124,
+            "like_count": 18,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "We partner with the #HIV community to develop medicines that fit into people\u2019s lives. Find out how we\u2019re getting ahead of HIV together in the @FT https://t.co/ZAJsn2Q5hU https://t.co/RlkgATvcLu"
+    }
+}

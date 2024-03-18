@@ -1,0 +1,88 @@
+{
+    "1684141515130413057": {
+        "attachments": {
+            "media_keys": [
+                "3_1684141512328609794"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-07-26T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1684141515130413057"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "GSK",
+                    "probability": 0.6168,
+                    "start": 101,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 104,
+                    "start": 100,
+                    "tag": "GSK"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 9,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 30,
+                    "start": 24,
+                    "tag": "Media"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "At GSK, we unite science, technology and talent to get ahead of disease together",
+                    "display_url": "gsk.com",
+                    "end": 97,
+                    "expanded_url": "https://gsk.com",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1767046796746907648/Q1o-vgzt?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1767046796746907648/Q1o-vgzt?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 74,
+                    "status": 200,
+                    "title": "Home | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/",
+                    "url": "https://t.co/ORBaNY8JvI"
+                },
+                {
+                    "display_url": "pic.twitter.com/uAu0BYi9MK",
+                    "end": 128,
+                    "expanded_url": "https://twitter.com/GSK/status/1684141515130413057/photo/1",
+                    "media_key": "3_1684141512328609794",
+                    "start": 105,
+                    "url": "https://t.co/uAu0BYi9MK"
+                }
+            ]
+        },
+        "id": "1684141515130413057",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4906,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "News for #Investors and #Media \n\nExplore our Q2 2023 figures at a glance. https://t.co/ORBaNY8JvI \n\n$GSK https://t.co/uAu0BYi9MK"
+    }
+}

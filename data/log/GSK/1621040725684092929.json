@@ -1,0 +1,82 @@
+{
+    "1621040725684092929": {
+        "author_id": "5383942",
+        "created_at": "2023-02-02T07:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1621040725684092929"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 99,
+                    "normalized_text": "anaemia",
+                    "probability": 0.7724,
+                    "start": 93,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "kidney disease",
+                    "probability": 0.6889,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "CKD",
+                    "probability": 0.4912,
+                    "start": 128,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "dialysis",
+                    "probability": 0.4709,
+                    "start": 148,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 16,
+                    "start": 10,
+                    "tag": "media"
+                },
+                {
+                    "end": 31,
+                    "start": 21,
+                    "tag": "investors"
+                },
+                {
+                    "end": 100,
+                    "start": 92,
+                    "tag": "anaemia"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 44,
+                    "id": "208120290",
+                    "start": 37,
+                    "username": "US_FDA"
+                }
+            ]
+        },
+        "id": "1621040725684092929",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4593,
+            "like_count": 14,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "#News for #media and #investors: The @US_FDA has approved our medicine for the treatment of #anaemia of chronic kidney disease (CKD) in patients on dialysis."
+    }
+}

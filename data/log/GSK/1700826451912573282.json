@@ -1,0 +1,52 @@
+{
+    "1700826451912573282": {
+        "author_id": "5383942",
+        "created_at": "2023-09-10T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1700826451912573282"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "GOLD",
+                    "probability": 0.7414,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "COPD",
+                    "probability": 0.8275,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "ERS2023",
+                    "probability": 0.601,
+                    "start": 163,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 170,
+                    "start": 162,
+                    "tag": "ERS2023"
+                }
+            ]
+        },
+        "id": "1700826451912573282",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3267,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The GOLD recommendations are simplifying the approach to COPD diagnosis and management to improve patients' symptoms and reduce the risk of future exacerbations. #ERS2023"
+    }
+}

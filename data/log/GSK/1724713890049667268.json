@@ -1,0 +1,74 @@
+{
+    "1724713890049667268": {
+        "attachments": {
+            "media_keys": [
+                "13_1724713854326738944"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-15T09:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1724713890049667268"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "RSV",
+                    "probability": 0.7585,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "COPD Foundation",
+                    "probability": 0.6151,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "RSV",
+                    "probability": 0.6642,
+                    "start": 142,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "WorldCOPDDay",
+                    "probability": 0.6264,
+                    "start": 252,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 264,
+                    "start": 251,
+                    "tag": "WorldCOPDDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/M3qch9sZNv",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/GSK/status/1724713890049667268/video/1",
+                    "media_key": "13_1724713854326738944",
+                    "start": 265,
+                    "url": "https://t.co/M3qch9sZNv"
+                }
+            ]
+        },
+        "id": "1724713890049667268",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2546,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "The impact of RSV on adults is not always known as it is often under-diagnosed and under-reported. Hear from the COPD Foundation on the risks RSV can represent, especially for adults at increased risk due to medical conditions affecting the lungs.  \n\n#WorldCOPDDay https://t.co/M3qch9sZNv"
+    }
+}

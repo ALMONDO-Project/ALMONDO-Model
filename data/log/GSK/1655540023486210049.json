@@ -1,0 +1,66 @@
+{
+    "1655540023486210049": {
+        "author_id": "5383942",
+        "created_at": "2023-05-08T11:47:54.000Z",
+        "edit_history_tweet_ids": [
+            "1655540023486210049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "ovariancancer",
+                    "probability": 0.808,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "ovarian cancer",
+                    "probability": 0.8582,
+                    "start": 160,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "WOCD2023",
+                    "probability": 0.8658,
+                    "start": 226,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 40,
+                    "tag": "ovariancancer"
+                },
+                {
+                    "end": 234,
+                    "start": 225,
+                    "tag": "WOCD2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "t.co/dMX5nCaypf",
+                    "end": 295,
+                    "expanded_url": "https://t.co/dMX5nCaypf",
+                    "start": 272,
+                    "url": "https://t.co/dMX5nCaypf"
+                }
+            ]
+        },
+        "id": "1655540023486210049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6073,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "There continues to be a global need for #ovariancancer awareness to help people recognise the signs and reach an earlier diagnosis. We are proud to support the ovarian cancer community and encourage others to get involved on #WOCD2023. \n\nLearn more from @ovariancancerco: https://t.co/dMX5nCaypf"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1676661111473557507": {
+        "author_id": "5383942",
+        "created_at": "2023-07-05T18:35:34.000Z",
+        "edit_history_tweet_ids": [
+            "1676661111473557507"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Valerie",
+                    "probability": 0.6915,
+                    "start": 12,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "380494951",
+                    "start": 0,
+                    "username": "valw53"
+                }
+            ]
+        },
+        "id": "1676661111473557507",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 95,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@valw53 Hi, Valerie. Good question! We recommend talking with your doctor or pharmacist about shingles/herpes zoster and recommendations for prevention."
+    }
+}

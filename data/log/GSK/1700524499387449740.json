@@ -1,0 +1,102 @@
+{
+    "1700524499387449740": {
+        "attachments": {
+            "media_keys": [
+                "13_1700524466701246464"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-09T15:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1700524499387449740"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "ERSCongress",
+                    "probability": 0.5036,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "COPD",
+                    "probability": 0.3817,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "GSK",
+                    "probability": 0.6006,
+                    "start": 120,
+                    "type": "Organization"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Susie Barnes",
+                    "probability": 0.5607,
+                    "start": 129,
+                    "type": "Person"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "Marco Avila",
+                    "probability": 0.4988,
+                    "start": 146,
+                    "type": "Person"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "Piyali Mukherjee",
+                    "probability": 0.5755,
+                    "start": 165,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 3,
+                    "tag": "ERSCongress"
+                },
+                {
+                    "end": 279,
+                    "start": 265,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3rfrwjA",
+                    "end": 264,
+                    "expanded_url": "https://gsk.to/3rfrwjA",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/media/conferences/gsk-at-ers-2023/?linkId=100000217531479",
+                    "url": "https://t.co/Zoj1oex5Up"
+                },
+                {
+                    "display_url": "pic.twitter.com/GSMqvIkqwA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/GSK/status/1700524499387449740/video/1",
+                    "media_key": "13_1700524466701246464",
+                    "start": 280,
+                    "url": "https://t.co/GSMqvIkqwA"
+                }
+            ]
+        },
+        "id": "1700524499387449740",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2812,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "At #ERSCongress we will be engaging global experts on topics like asthma, COPD, treatable traits and adult vaccination. GSK\u2019s Dr Susie Barnes, Dr Marco Avila and Dr Piyali Mukherjee describe our ambition in respiratory care.  Find out more: https://t.co/Zoj1oex5Up #AheadTogether https://t.co/GSMqvIkqwA"
+    }
+}

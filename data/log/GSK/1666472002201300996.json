@@ -1,0 +1,65 @@
+{
+    "1666472002201300996": {
+        "attachments": {
+            "media_keys": [
+                "13_1666471894088810496"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-07T15:47:41.000Z",
+        "edit_history_tweet_ids": [
+            "1666472002201300996"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4832,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "RSV",
+                    "probability": 0.5358,
+                    "start": 93,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 78,
+                    "start": 70,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 112,
+                    "start": 98,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/z62CJyofN6",
+                    "end": 136,
+                    "expanded_url": "https://twitter.com/GSK/status/1666472002201300996/video/1",
+                    "media_key": "13_1666471894088810496",
+                    "start": 113,
+                    "url": "https://t.co/z62CJyofN6"
+                }
+            ]
+        },
+        "id": "1666472002201300996",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3409,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "We believe innovation drives disease prevention \u2013 that's why we\u2019re at #BIO2023 talking about RSV. #AheadTogether https://t.co/z62CJyofN6"
+    }
+}

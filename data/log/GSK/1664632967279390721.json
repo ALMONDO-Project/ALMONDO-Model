@@ -1,0 +1,57 @@
+{
+    "1664632967279390721": {
+        "author_id": "5383942",
+        "created_at": "2023-06-02T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1664632967279390721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "EndometrialCancer",
+                    "probability": 0.6805,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "gynaecologic cancer",
+                    "probability": 0.5605,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "ASCO23",
+                    "probability": 0.4178,
+                    "start": 239,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 0,
+                    "tag": "EndometrialCancer"
+                },
+                {
+                    "end": 245,
+                    "start": 238,
+                    "tag": "ASCO23"
+                }
+            ]
+        },
+        "id": "1664632967279390721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2574,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#EndometrialCancer is the most common gynaecologic cancer in developed countries but there are limited treatment options available for people with advanced disease. We aim to discover and deliver new options for this patient community. \n\n#ASCO23"
+    }
+}

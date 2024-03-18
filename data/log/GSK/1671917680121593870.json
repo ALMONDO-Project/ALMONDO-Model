@@ -1,0 +1,38 @@
+{
+    "1671917680121593870": {
+        "author_id": "5383942",
+        "created_at": "2023-06-22T16:26:52.000Z",
+        "edit_history_tweet_ids": [
+            "1671917680121593870"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "PBC",
+                    "probability": 0.5012,
+                    "start": 28,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 31,
+                    "start": 27,
+                    "tag": "PBC"
+                }
+            ]
+        },
+        "id": "1671917680121593870",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2564,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "The correct answer is B. \n\n#PBC is a rare autoimmune liver disease which can be associated with debilitating itch and poor quality of life."
+    }
+}

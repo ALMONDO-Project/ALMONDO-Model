@@ -1,0 +1,81 @@
+{
+    "1689928935398666241": {
+        "attachments": {
+            "media_keys": [
+                "3_1689928932668157953"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-08-11T09:17:10.000Z",
+        "edit_history_tweet_ids": [
+            "1689928935398666241"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "HIVScience",
+                    "probability": 0.9505,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "HIV",
+                    "probability": 0.9295,
+                    "start": 67,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 11,
+                    "tag": "innovaton"
+                },
+                {
+                    "end": 65,
+                    "start": 54,
+                    "tag": "HIVScience"
+                },
+                {
+                    "end": 70,
+                    "start": 66,
+                    "tag": "HIV"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How community activism translates into innovative medicines",
+                    "display_url": "gsk.to/450K7yu",
+                    "end": 143,
+                    "expanded_url": "https://gsk.to/450K7yu",
+                    "start": 120,
+                    "status": 200,
+                    "title": "Can you hear me? HIV community tells industry the struggle is not over",
+                    "unwound_url": "https://gsk.ft.com/article/hiv-community-tells-industry-struggle-not-over",
+                    "url": "https://t.co/lWbqGOgH1C"
+                },
+                {
+                    "display_url": "pic.twitter.com/QRAHHlw1db",
+                    "end": 167,
+                    "expanded_url": "https://twitter.com/GSK/status/1689928935398666241/photo/1",
+                    "media_key": "3_1689928932668157953",
+                    "start": 144,
+                    "url": "https://t.co/QRAHHlw1db"
+                }
+            ]
+        },
+        "id": "1689928935398666241",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6160,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "We believe #innovaton starts when you stop and listen #HIVScience #HIV\n\nFind out how we\u2019re turning talk into treatment: https://t.co/lWbqGOgH1C https://t.co/QRAHHlw1db"
+    }
+}

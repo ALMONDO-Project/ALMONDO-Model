@@ -1,0 +1,49 @@
+{
+    "1664282774646448129": {
+        "author_id": "5383942",
+        "created_at": "2023-06-01T14:48:29.000Z",
+        "edit_history_tweet_ids": [
+            "1664282774646448129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4291,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 23,
+                    "start": 15,
+                    "tag": "BIO2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3MNh5KU",
+                    "end": 150,
+                    "expanded_url": "https://gsk.to/3MNh5KU",
+                    "start": 127,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/media/conferences/gsk-at-bio-2023/?utm_source=twitter&utm_medium=organic&utm_campaign=Innovation&utm_content=what_has_brought_us_to_bio&linkId=100000203915324",
+                    "url": "https://t.co/qY3hslRK9q"
+                }
+            ]
+        },
+        "id": "1664282774646448129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2764,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "What\u2019s on your #BIO2023 agenda? We\u2019ve got a number of speakers lined up \u2013 see them all here and what they\u2019ll be talking about  https://t.co/qY3hslRK9q"
+    }
+}

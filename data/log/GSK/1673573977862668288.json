@@ -1,0 +1,81 @@
+{
+    "1673573977862668288": {
+        "attachments": {
+            "media_keys": [
+                "3_1673573972636585984"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-27T06:08:24.000Z",
+        "edit_history_tweet_ids": [
+            "1673573977862668288"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 16,
+                    "start": 10,
+                    "tag": "Media"
+                },
+                {
+                    "end": 31,
+                    "start": 21,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 158,
+                    "start": 147,
+                    "tag": "gonorrhoea"
+                },
+                {
+                    "end": 167,
+                    "start": 159,
+                    "tag": "vaccine"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 64,
+                    "id": "1255526396807561217",
+                    "start": 60,
+                    "username": "FDA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3CQbBe2",
+                    "end": 209,
+                    "expanded_url": "https://gsk.to/3CQbBe2",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/?linkId=100000207090024",
+                    "url": "https://t.co/MANxFJDKgi"
+                },
+                {
+                    "display_url": "pic.twitter.com/SmfEfCr6FO",
+                    "end": 233,
+                    "expanded_url": "https://twitter.com/GSK/status/1673573977862668288/photo/1",
+                    "media_key": "3_1673573972636585984",
+                    "start": 210,
+                    "url": "https://t.co/SmfEfCr6FO"
+                }
+            ]
+        },
+        "id": "1673573977862668288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4815,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 3
+        },
+        "text": "#News for #Media and #Investors: Today we announce that the @FDA has granted Fast Track designation (New Drug Application) for our investigational #gonorrhoea #vaccine. \n\nFind out more: https://t.co/MANxFJDKgi https://t.co/SmfEfCr6FO"
+    }
+}

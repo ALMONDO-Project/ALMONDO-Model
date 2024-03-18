@@ -1,0 +1,74 @@
+{
+    "1651149118817857537": {
+        "attachments": {
+            "media_keys": [
+                "3_1651149115105968130"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-26T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1651149118817857537"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "GSK",
+                    "probability": 0.7963,
+                    "start": 17,
+                    "type": "Organization"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.7205,
+                    "start": 25,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "GSK",
+                    "probability": 0.5046,
+                    "start": 143,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 146,
+                    "start": 142,
+                    "tag": "GSK"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Investors"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/PNtEzIreJK",
+                    "end": 170,
+                    "expanded_url": "https://twitter.com/GSK/status/1651149118817857537/photo/1",
+                    "media_key": "3_1651149115105968130",
+                    "start": 147,
+                    "url": "https://t.co/PNtEzIreJK"
+                }
+            ]
+        },
+        "id": "1651149118817857537",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2451,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "#Investors: Join GSK CEO Emma Walmsley and other members of our leadership team for our Q1 2023 live results webcast at 12:00 BST, 08:00 EDT. $GSK https://t.co/PNtEzIreJK"
+    }
+}

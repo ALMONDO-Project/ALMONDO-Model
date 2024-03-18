@@ -1,0 +1,75 @@
+{
+    "1702786021614649537": {
+        "author_id": "5383942",
+        "created_at": "2023-09-15T20:46:38.000Z",
+        "edit_history_tweet_ids": [
+            "1702786021614649537"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 93,
+                    "normalized_text": "myelofibrosis",
+                    "probability": 0.7447,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "anaemia",
+                    "probability": 0.7553,
+                    "start": 154,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "splenomegaly",
+                    "probability": 0.5073,
+                    "start": 191,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "media"
+                },
+                {
+                    "end": 94,
+                    "start": 80,
+                    "tag": "myelofibrosis"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 44,
+                    "id": "208120290",
+                    "start": 37,
+                    "username": "US_FDA"
+                }
+            ]
+        },
+        "id": "1702786021614649537",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15085,
+            "like_count": 22,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "#News for #investors and #media: The @US_FDA has approved our new treatment for #myelofibrosis that may address key manifestations of the disease, namely anaemia, constitutional symptoms and splenomegaly."
+    }
+}

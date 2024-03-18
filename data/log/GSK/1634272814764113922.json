@@ -1,0 +1,81 @@
+{
+    "1634272814764113922": {
+        "attachments": {
+            "media_keys": [
+                "3_1634272812532678657"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-03-10T19:19:37.000Z",
+        "edit_history_tweet_ids": [
+            "1634272814764113922"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "UK",
+                    "probability": 0.96,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 16,
+                    "normalized_text": "France",
+                    "probability": 0.9878,
+                    "start": 11,
+                    "type": "Place"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "UK",
+                    "probability": 0.7634,
+                    "start": 221,
+                    "type": "Place"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "France Summit",
+                    "probability": 0.4611,
+                    "start": 224,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 189,
+                    "id": "1168968080690749441",
+                    "start": 178,
+                    "username": "RishiSunak"
+                },
+                {
+                    "end": 209,
+                    "id": "1976143068",
+                    "start": 194,
+                    "username": "EmmanuelMacron"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/V9whvLB95G",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/GSK/status/1634272814764113922/photo/1",
+                    "media_key": "3_1634272812532678657",
+                    "start": 238,
+                    "url": "https://t.co/V9whvLB95G"
+                }
+            ]
+        },
+        "id": "1634272814764113922",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9077,
+            "like_count": 57,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 8
+        },
+        "text": "The UK and France have a strong heritage and future in life sciences. It was great to discuss how we continue to invest in preventing disease and protecting the environment with @RishiSunak and @EmmanuelMacron at today\u2019s UK-France Summit https://t.co/V9whvLB95G"
+    }
+}

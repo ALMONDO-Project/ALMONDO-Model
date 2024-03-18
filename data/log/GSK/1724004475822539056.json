@@ -1,0 +1,67 @@
+{
+    "1724004475822539056": {
+        "attachments": {
+            "media_keys": [
+                "13_1724004428456296448"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-11-13T10:01:12.000Z",
+        "edit_history_tweet_ids": [
+            "1724004475822539056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "MalariaVoices",
+                    "probability": 0.906,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "malaria",
+                    "probability": 0.8342,
+                    "start": 110,
+                    "type": "Other"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "malaria vaccine",
+                    "probability": 0.6821,
+                    "start": 209,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 27,
+                    "tag": "MalariaVoices"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Prf4UjBJEA",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/GSK/status/1724004475822539056/video/1",
+                    "media_key": "13_1724004428456296448",
+                    "start": 255,
+                    "url": "https://t.co/Prf4UjBJEA"
+                }
+            ]
+        },
+        "id": "1724004475822539056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2239,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Get ready for episode 2 of #MalariaVoices! Hear from inspiring healthcare professionals working tirelessly in malaria-endemic regions to prevent and treat the disease, and about the real life impact the RTS,S malaria vaccine has had in their communities. https://t.co/Prf4UjBJEA"
+    }
+}

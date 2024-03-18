@@ -1,0 +1,70 @@
+{
+    "1652674167680925701": {
+        "attachments": {
+            "media_keys": [
+                "3_1652674164103299075"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-30T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1652674167680925701"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "WorldAsthmaDay",
+                    "probability": 0.6219,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "GAAINTERASMA",
+                    "probability": 0.5207,
+                    "start": 132,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 89,
+                    "start": 74,
+                    "tag": "WorldAsthmaDay"
+                },
+                {
+                    "end": 144,
+                    "start": 131,
+                    "tag": "GAAINTERASMA"
+                },
+                {
+                    "end": 246,
+                    "start": 229,
+                    "tag": "asthmacareforall"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/fMJzkDQCWy",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/GSK/status/1652674167680925701/photo/1",
+                    "media_key": "3_1652674164103299075",
+                    "start": 247,
+                    "url": "https://t.co/fMJzkDQCWy"
+                }
+            ]
+        },
+        "id": "1652674167680925701",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5463,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 7
+        },
+        "text": "We are excited to raise the bar for patients with asthma as we lead up to #WorldAsthmaDay on May 2, 2023. \n\nOur collaboration with #GAAINTERASMA has helped advance discussions on patient-centric strategies for asthma management. #asthmacareforall https://t.co/fMJzkDQCWy"
+    }
+}

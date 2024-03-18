@@ -1,0 +1,82 @@
+{
+    "1612509628922748943": {
+        "attachments": {
+            "media_keys": [
+                "13_1612509513596166148"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-01-09T18:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1612509628922748943"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "JPM2023",
+                    "probability": 0.6189,
+                    "start": 89,
+                    "type": "Other"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "JPM23",
+                    "probability": 0.6431,
+                    "start": 98,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 76,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 96,
+                    "start": 88,
+                    "tag": "JPM2023"
+                },
+                {
+                    "end": 103,
+                    "start": 97,
+                    "tag": "JPM23"
+                },
+                {
+                    "end": 118,
+                    "start": 104,
+                    "tag": "AheadTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3jSSx8u",
+                    "end": 166,
+                    "expanded_url": "https://gsk.to/3jSSx8u",
+                    "start": 143,
+                    "url": "https://t.co/HjVQmDFUv0"
+                },
+                {
+                    "display_url": "pic.twitter.com/tPzpJMBJLP",
+                    "end": 190,
+                    "expanded_url": "https://twitter.com/GSK/status/1612509628922748943/video/1",
+                    "media_key": "13_1612509513596166148",
+                    "start": 167,
+                    "url": "https://t.co/tPzpJMBJLP"
+                }
+            ]
+        },
+        "id": "1612509628922748943",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3090,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We believe the bigger the challenge, the bigger the need for collaboration. #Innovation #JPM2023 #JPM23 #AheadTogether \n\nView full video here: https://t.co/HjVQmDFUv0 https://t.co/tPzpJMBJLP"
+    }
+}

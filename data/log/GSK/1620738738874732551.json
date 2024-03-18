@@ -1,0 +1,65 @@
+{
+    "1620738738874732551": {
+        "attachments": {
+            "media_keys": [
+                "3_1620738736160968704"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-01T11:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1620738738874732551"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 181,
+                    "normalized_text": "GSK",
+                    "probability": 0.4745,
+                    "start": 179,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 182,
+                    "start": 178,
+                    "tag": "GSK"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 9,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 30,
+                    "start": 24,
+                    "tag": "Media"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/VZW6Iee1Ds",
+                    "end": 206,
+                    "expanded_url": "https://twitter.com/GSK/status/1620738738874732551/photo/1",
+                    "media_key": "3_1620738736160968704",
+                    "start": 183,
+                    "url": "https://t.co/VZW6Iee1Ds"
+                }
+            ]
+        },
+        "id": "1620738738874732551",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3781,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "News for #Investors and #Media\n\nSee our key numbers from FY 2022 at a glance \u2013including a step-change in performance driven by strong growth in Specialty Medicines and Vaccines. $GSK https://t.co/VZW6Iee1Ds"
+    }
+}

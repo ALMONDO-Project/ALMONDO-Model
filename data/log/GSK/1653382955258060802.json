@@ -1,0 +1,50 @@
+{
+    "1653382955258060802": {
+        "author_id": "5383942",
+        "created_at": "2023-05-02T12:56:29.000Z",
+        "edit_history_tweet_ids": [
+            "1653382955258060802"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "WorlrdAsthmaDay",
+                    "probability": 0.4038,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "AsthmaCareForAll",
+                    "probability": 0.5102,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 89,
+                    "start": 73,
+                    "tag": "WorlrdAsthmaDay"
+                },
+                {
+                    "end": 107,
+                    "start": 90,
+                    "tag": "AsthmaCareForAll"
+                }
+            ]
+        },
+        "id": "1653382955258060802",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2109,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Together, we\u2019re helping people live free from the constraints of asthma. #WorlrdAsthmaDay #AsthmaCareForAll"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "1668716106733715456": {
+        "author_id": "5383942",
+        "created_at": "2023-06-13T20:24:57.000Z",
+        "edit_history_tweet_ids": [
+            "1668716106733715456"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "258941460",
+                    "start": 0,
+                    "username": "Pixi_Pix"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Find out more about GSK around the world",
+                    "display_url": "gsk.com/en-gb/location\u2026",
+                    "end": 172,
+                    "expanded_url": "https://www.gsk.com/en-gb/locations/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1753084627974008833/d5a3cCb7?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1753084627974008833/d5a3cCb7?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 149,
+                    "status": 200,
+                    "title": "Locations | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/locations/",
+                    "url": "https://t.co/Ka7zRsMaVr"
+                }
+            ]
+        },
+        "id": "1668716106733715456",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Pixi_Pix Hello and thank you for reaching out.  You can use this link to find all the available contact information for our teams around the world: https://t.co/Ka7zRsMaVr\n\nPlease note that our offices are not open in the evenings or on weekends."
+    }
+}

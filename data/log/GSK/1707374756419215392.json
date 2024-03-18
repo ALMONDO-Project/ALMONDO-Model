@@ -1,0 +1,70 @@
+{
+    "1707374756419215392": {
+        "attachments": {
+            "media_keys": [
+                "13_1707374663393746945"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-09-28T12:40:38.000Z",
+        "edit_history_tweet_ids": [
+            "1707374756419215392"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Mile",
+                    "probability": 0.5769,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "Meningitis",
+                    "probability": 0.4588,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 86,
+                    "start": 75,
+                    "tag": "meningitis"
+                },
+                {
+                    "end": 173,
+                    "start": 159,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 193,
+                    "start": 174,
+                    "tag": "WorldMeningitisDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/k0Dw0midzA",
+                    "end": 217,
+                    "expanded_url": "https://twitter.com/GSK/status/1707374756419215392/video/1",
+                    "media_key": "13_1707374663393746945",
+                    "start": 194,
+                    "url": "https://t.co/k0Dw0midzA"
+                }
+            ]
+        },
+        "id": "1707374756419215392",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2850,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Take part in our Mile for Meningitis challenge and help raise awareness of #meningitis.  \ud83c\udfc3\u200d\u2640\ufe0f\ud83c\udfca\u200d\u2640\ufe0f\ud83d\udea3\u200d\u2640\ufe0f\ud83d\udeb4\u200d\u2642\ufe0f \n\nGet your friends involved and spread the word!  \n \n#AheadTogether #WorldMeningitisDay https://t.co/k0Dw0midzA"
+    }
+}

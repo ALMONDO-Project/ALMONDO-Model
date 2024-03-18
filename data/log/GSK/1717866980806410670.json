@@ -1,0 +1,65 @@
+{
+    "1717866980806410670": {
+        "author_id": "5383942",
+        "created_at": "2023-10-27T11:32:59.000Z",
+        "edit_history_tweet_ids": [
+            "1717866980806410670"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "GSKProud",
+                    "probability": 0.5543,
+                    "start": 122,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 120,
+                    "start": 106,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 130,
+                    "start": 121,
+                    "tag": "GSKProud"
+                },
+                {
+                    "end": 146,
+                    "start": 131,
+                    "tag": "SCTopEmployers"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 59,
+                    "id": "32372834",
+                    "start": 43,
+                    "username": "ScienceMagazine"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ScienceCareers\u2026",
+                    "end": 170,
+                    "expanded_url": "https://twitter.com/ScienceCareers/status/1717602766107897999",
+                    "start": 147,
+                    "url": "https://t.co/WbRBGCxRne"
+                }
+            ]
+        },
+        "id": "1717866980806410670",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9294,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 4
+        },
+        "text": "Honoured to be ranked as a Top Employer on @ScienceMagazine's annual list for the 5th consecutive   year\n\n#AheadTogether #GSKProud #SCTopEmployers https://t.co/WbRBGCxRne"
+    }
+}

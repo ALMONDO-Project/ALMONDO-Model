@@ -1,0 +1,83 @@
+{
+    "1731237627997646906": {
+        "attachments": {
+            "media_keys": [
+                "13_1731237591771447297"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-12-03T09:03:10.000Z",
+        "edit_history_tweet_ids": [
+            "1731237627997646906"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "IDPWD",
+                    "probability": 0.6889,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Chiko",
+                    "probability": 0.5398,
+                    "start": 113,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 5,
+                    "tag": "IDPWD"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK is committed to being fully inclusive in the way we operate: so our people reflect the communities we work in",
+                    "display_url": "gsk.to/3N43vDX",
+                    "end": 270,
+                    "expanded_url": "https://gsk.to/3N43vDX",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1731237631193645056/xtAPU4WV?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1731237631193645056/xtAPU4WV?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 247,
+                    "status": 200,
+                    "title": "Diversity, equity and inclusion | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/responsibility/diversity-equity-and-inclusion/",
+                    "url": "https://t.co/BI5Pzy09br"
+                },
+                {
+                    "display_url": "pic.twitter.com/5lqNcBvns9",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/GSK/status/1731237627997646906/video/1",
+                    "media_key": "13_1731237591771447297",
+                    "start": 271,
+                    "url": "https://t.co/5lqNcBvns9"
+                }
+            ]
+        },
+        "id": "1731237627997646906",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3561,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "This #IDPWD, we're sharing how we embrace diversity to positively impact the health of people with disabilities. Chiko describes how we include the voices of diverse patients, helping us to design and develop more inclusive medicines and devices. https://t.co/BI5Pzy09br https://t.co/5lqNcBvns9"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "1709908952882851850": {
+        "attachments": {
+            "media_keys": [
+                "3_1709908950022316032"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-05T12:30:37.000Z",
+        "edit_history_tweet_ids": [
+            "1709908952882851850"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.6515,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Paywall",
+                    "probability": 0.3497,
+                    "start": 202,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 106,
+                    "id": "25053299",
+                    "start": 90,
+                    "username": "FortuneMagazine"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This year's MPW list is the most comprehensive on record: a single worldwide list honoring 100 women.",
+                    "display_url": "gsk.to/46junY6",
+                    "end": 200,
+                    "expanded_url": "https://gsk.to/46junY6",
+                    "images": [
+                        {
+                            "height": 600,
+                            "url": "https://pbs.twimg.com/news_img/1709908954812186624/WhPfWlDq?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1709908954812186624/WhPfWlDq?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 177,
+                    "status": 200,
+                    "title": "The 100 Most Powerful Women",
+                    "unwound_url": "https://fortune.com/ranking/most-powerful-women/2023/?linkId=100000221092879",
+                    "url": "https://t.co/nM3c1Qm4R8"
+                },
+                {
+                    "display_url": "pic.twitter.com/zZgSc5MijW",
+                    "end": 234,
+                    "expanded_url": "https://twitter.com/GSK/status/1709908952882851850/photo/1",
+                    "media_key": "3_1709908950022316032",
+                    "start": 211,
+                    "url": "https://t.co/zZgSc5MijW"
+                }
+            ]
+        },
+        "id": "1709908952882851850",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4345,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "Congratulations to our CEO Emma Walmsley and all of the other accomplished women named to @FortuneMagazine\u2019s list of the 100 most powerful women.\n\nCheck out the full list here: https://t.co/nM3c1Qm4R8 (Paywall) https://t.co/zZgSc5MijW"
+    }
+}

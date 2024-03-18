@@ -1,0 +1,53 @@
+{
+    "1719418817187598800": {
+        "attachments": {
+            "media_keys": [
+                "3_1719418815010746368"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-31T18:19:25.000Z",
+        "edit_history_tweet_ids": [
+            "1719418817187598800"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "GSK",
+                    "probability": 0.6469,
+                    "start": 65,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 68,
+                    "start": 64,
+                    "tag": "GSK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/JecbBj5k73",
+                    "end": 92,
+                    "expanded_url": "https://twitter.com/GSK/status/1719418817187598800/photo/1",
+                    "media_key": "3_1719418815010746368",
+                    "start": 69,
+                    "url": "https://t.co/JecbBj5k73"
+                }
+            ]
+        },
+        "id": "1719418817187598800",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3049,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re announcing our Q3 results tomorrow at 0700 GMT, 0300 EDT. $GSK https://t.co/JecbBj5k73"
+    }
+}

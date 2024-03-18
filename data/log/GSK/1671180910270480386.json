@@ -1,0 +1,64 @@
+{
+    "1671180910270480386": {
+        "author_id": "5383942",
+        "created_at": "2023-06-20T15:39:12.000Z",
+        "edit_history_tweet_ids": [
+            "1671180910270480386"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "UK",
+                    "probability": 0.97,
+                    "start": 70,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "284742762",
+                    "start": 0,
+                    "username": "neily_boy72"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "GSK United Kingdom",
+                    "display_url": "uk.gsk.com/en-gb/contact-\u2026",
+                    "end": 189,
+                    "expanded_url": "http://uk.gsk.com/en-gb/contact-us/",
+                    "images": [
+                        {
+                            "height": 157,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=orig",
+                            "width": 350
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716553522223763456/HGAIy_Yu?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 166,
+                    "status": 200,
+                    "title": "United Kingdom | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/locations/united-kingdom/",
+                    "url": "https://t.co/Mr5NPHarsB"
+                }
+            ]
+        },
+        "id": "1671180910270480386",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 25,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@neily_boy72 Thank you.  Please contact our local office there in the UK, and they will be able to assist you.  You can find their contact information on this site:  https://t.co/Mr5NPHarsB"
+    }
+}

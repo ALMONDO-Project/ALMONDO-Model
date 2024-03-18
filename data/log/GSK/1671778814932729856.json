@@ -1,0 +1,65 @@
+{
+    "1671778814932729856": {
+        "attachments": {
+            "media_keys": [
+                "3_1671778807441752065"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-22T07:15:04.000Z",
+        "edit_history_tweet_ids": [
+            "1671778814932729856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "EASLCongress",
+                    "probability": 0.6385,
+                    "start": 16,
+                    "type": "Organization"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "PBC",
+                    "probability": 0.5343,
+                    "start": 124,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 28,
+                    "start": 15,
+                    "tag": "EASLCongress"
+                },
+                {
+                    "end": 127,
+                    "start": 123,
+                    "tag": "PBC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/iA122wRuoj",
+                    "end": 207,
+                    "expanded_url": "https://twitter.com/GSK/status/1671778814932729856/photo/1",
+                    "media_key": "3_1671778807441752065",
+                    "start": 184,
+                    "url": "https://t.co/iA122wRuoj"
+                }
+            ]
+        },
+        "id": "1671778814932729856",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2862,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "At this year\u2019s #EASLCongress, we are highlighting how sleep interference and depression are far more common in people with #PBC living with severe itch than those without severe itch. https://t.co/iA122wRuoj"
+    }
+}

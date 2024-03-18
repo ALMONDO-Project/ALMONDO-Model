@@ -1,0 +1,56 @@
+{
+    "1613101913645498369": {
+        "author_id": "5383942",
+        "created_at": "2023-01-11T09:14:00.000Z",
+        "edit_history_tweet_ids": [
+            "1613101913645498369"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "TerraCartaSeal",
+                    "probability": 0.7868,
+                    "start": 40,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 39,
+                    "tag": "TerraCartaSeal"
+                },
+                {
+                    "end": 109,
+                    "start": 102,
+                    "tag": "Nature"
+                },
+                {
+                    "end": 177,
+                    "start": 162,
+                    "tag": "Sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 36,
+                    "id": "1299330439065276417",
+                    "start": 29,
+                    "username": "TheSMI"
+                }
+            ]
+        },
+        "id": "1613101913645498369",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4254,
+            "like_count": 19,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "We\u2019re honoured to be awarded @TheSMI's #TerraCartaSeal for our commitment and actions towards putting #Nature, People and Planet at the heart of our business.  \n\n#Sustainability"
+    }
+}

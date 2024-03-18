@@ -1,0 +1,56 @@
+{
+    "1661734278642925569": {
+        "author_id": "5383942",
+        "created_at": "2023-05-25T14:01:40.000Z",
+        "edit_history_tweet_ids": [
+            "1661734278642925569"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Neglected Tropical Diseases",
+                    "probability": 0.9035,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Bangladesh",
+                    "probability": 0.9325,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "lymphatic",
+                    "probability": 0.59,
+                    "start": 141,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3MAwGgR",
+                    "end": 273,
+                    "expanded_url": "https://gsk.to/3MAwGgR",
+                    "start": 250,
+                    "status": 200,
+                    "unwound_url": "https://www.who.int/southeastasia/news/detail/13-05-2023-bangladesh-eliminates-lymphatic-filariasis",
+                    "url": "https://t.co/18LkYdkkPA"
+                }
+            ]
+        },
+        "id": "1661734278642925569",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3278,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "We've been working with partners since 1999 to tackle Neglected Tropical Diseases, and are delighted to share that Bangladesh has eliminated lymphatic filariasis. This is a significant milestone in our joint effort to get ahead of diseases together: https://t.co/18LkYdkkPA"
+    }
+}

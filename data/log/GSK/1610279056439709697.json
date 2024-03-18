@@ -1,0 +1,64 @@
+{
+    "1610279056439709697": {
+        "author_id": "5383942",
+        "created_at": "2023-01-03T14:16:59.000Z",
+        "edit_history_tweet_ids": [
+            "1610279056439709697"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "India",
+                    "probability": 0.978,
+                    "start": 34,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1543585909030805504",
+                    "start": 0,
+                    "username": "sadhikary710"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How can we help you? Share your comments/ queries or feedback with us.",
+                    "display_url": "india-pharma.gsk.com/en-in/contact-\u2026",
+                    "end": 198,
+                    "expanded_url": "http://india-pharma.gsk.com/en-in/contact-us/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 175,
+                    "status": 200,
+                    "title": "Contact Us | GSK India",
+                    "unwound_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "url": "https://t.co/0RPjiPNJrg"
+                }
+            ]
+        },
+        "id": "1610279056439709697",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sadhikary710 Our local office in India is best equipped to speak with you regarding medicines for your local market.  You can find their contact information using this link: https://t.co/0RPjiPNJrg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "1673218649425862658": {
+        "author_id": "5383942",
+        "created_at": "2023-06-26T06:36:27.000Z",
+        "edit_history_tweet_ids": [
+            "1673218649425862658"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "CHMP",
+                    "probability": 0.4024,
+                    "start": 54,
+                    "type": "Organization"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "anaemia",
+                    "probability": 0.7691,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "disease",
+                    "probability": 0.5239,
+                    "start": 205,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "CKD",
+                    "probability": 0.5188,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 16,
+                    "start": 10,
+                    "tag": "media"
+                },
+                {
+                    "end": 31,
+                    "start": 21,
+                    "tag": "investors"
+                },
+                {
+                    "end": 173,
+                    "start": 165,
+                    "tag": "anaemia"
+                },
+                {
+                    "end": 218,
+                    "start": 214,
+                    "tag": "CKD"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 53,
+                    "id": "116716199",
+                    "start": 44,
+                    "username": "EMA_News"
+                }
+            ]
+        },
+        "id": "1673218649425862658",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4219,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "#News for #media and #investors: Today, the @EMA_News CHMP issued a positive opinion recommending the authorisation of our medicine for the treatment of symptomatic #anaemia associated with chronic kidney disease (#CKD) in adults on chronic maintenance dialysis."
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "1739674048571777296": {
+        "author_id": "5383942",
+        "created_at": "2023-12-26T15:46:29.000Z",
+        "edit_history_tweet_ids": [
+            "1739674048571777296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Haleon",
+                    "probability": 0.4194,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "GSK",
+                    "probability": 0.5209,
+                    "start": 90,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "349091626",
+                    "start": 0,
+                    "username": "RGE_McC"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact Haleon Consumer Relations using this form.",
+                    "display_url": "haleon.com/contact-us/",
+                    "end": 234,
+                    "expanded_url": "https://www.haleon.com/contact-us/",
+                    "start": 211,
+                    "status": 200,
+                    "title": "General Enquiry",
+                    "unwound_url": "https://haleon.support/en-us/general-enquiry",
+                    "url": "https://t.co/nVW29kMR2D"
+                }
+            ]
+        },
+        "id": "1739674048571777296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 88,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@RGE_McC Thank you for your message. Haleon took over the Consumer Healthcare division of GSK. That product falls under that category. You can get in touch with them directly via their socials or their website, https://t.co/nVW29kMR2D"
+    }
+}

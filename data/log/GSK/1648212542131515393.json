@@ -1,0 +1,63 @@
+{
+    "1648212542131515393": {
+        "attachments": {
+            "media_keys": [
+                "13_1648212495339773953"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-04-18T06:31:07.000Z",
+        "edit_history_tweet_ids": [
+            "1648212542131515393"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "media"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/40jdUj1",
+                    "end": 253,
+                    "expanded_url": "https://gsk.to/40jdUj1",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/?linkId=100000199142122",
+                    "url": "https://t.co/xqiwNVzb2T"
+                },
+                {
+                    "display_url": "pic.twitter.com/6R7oDY0X4t",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/GSK/status/1648212542131515393/video/1",
+                    "media_key": "13_1648212495339773953",
+                    "start": 254,
+                    "url": "https://t.co/6R7oDY0X4t"
+                }
+            ]
+        },
+        "id": "1648212542131515393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8726,
+            "like_count": 17,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "#News for #investors and #media: Today we announced the proposed acquisition of @BELLUSHealth, a clinical stage biopharmaceutical company that further strengthens our specialty medicines and respiratory pipeline.\n \nFind out more: https://t.co/xqiwNVzb2T https://t.co/6R7oDY0X4t"
+    }
+}

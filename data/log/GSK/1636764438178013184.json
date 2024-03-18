@@ -1,0 +1,71 @@
+{
+    "1636764438178013184": {
+        "author_id": "5383942",
+        "created_at": "2023-03-17T16:20:26.000Z",
+        "edit_history_tweet_ids": [
+            "1636764438178013184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "GSK",
+                    "probability": 0.5184,
+                    "start": 79,
+                    "type": "Organization"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "India",
+                    "probability": 0.9534,
+                    "start": 227,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "3377519953",
+                    "start": 0,
+                    "username": "Niteshlee"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "How can we help you? Share your comments/ queries or feedback with us.",
+                    "display_url": "india-pharma.gsk.com/en-in/contact-\u2026",
+                    "end": 257,
+                    "expanded_url": "http://india-pharma.gsk.com/en-in/contact-us/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721537738195845120/9QlnAUT-?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 234,
+                    "status": 200,
+                    "title": "Contact Us | GSK India",
+                    "unwound_url": "https://india-pharma.gsk.com/en-in/contact-us/",
+                    "url": "https://t.co/0RPjiPNJrg"
+                }
+            ]
+        },
+        "id": "1636764438178013184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 50,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Niteshlee Thank you for making us aware of this content.  This is not genuine GSK content and is the subject of ongoing legal proceedings.\n\nIf you have additional questions or concerns, please reach out to our local office in India: https://t.co/0RPjiPNJrg"
+    }
+}

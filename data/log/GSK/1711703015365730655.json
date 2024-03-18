@@ -1,0 +1,78 @@
+{
+    "1711703015365730655": {
+        "attachments": {
+            "media_keys": [
+                "13_1711702953692688384"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-10T11:19:35.000Z",
+        "edit_history_tweet_ids": [
+            "1711703015365730655"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 116,
+                    "normalized_text": "Boston",
+                    "probability": 0.9864,
+                    "start": 111,
+                    "type": "Place"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "IDWeek2023",
+                    "probability": 0.5161,
+                    "start": 254,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 117,
+                    "start": 110,
+                    "tag": "Boston"
+                },
+                {
+                    "end": 158,
+                    "start": 140,
+                    "tag": "infectiousdisease"
+                },
+                {
+                    "end": 264,
+                    "start": 253,
+                    "tag": "IDWeek2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 132,
+                    "id": "472138534",
+                    "start": 122,
+                    "username": "IDWeekmtg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/h86zEaZlOU",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/GSK/status/1711703015365730655/video/1",
+                    "media_key": "13_1711702953692688384",
+                    "start": 266,
+                    "url": "https://t.co/h86zEaZlOU"
+                }
+            ]
+        },
+        "id": "1711703015365730655",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3022,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Infectious diseases affect everyone, everywhere, and this is a major concern for society. That\u2019s why we\u2019re in #Boston for @IDWeekmtg. \n\nOur #infectiousdisease portfolio is one of the broadest in the industry and represents two-thirds of our pipeline. \n\n#IDWeek2023. https://t.co/h86zEaZlOU"
+    }
+}

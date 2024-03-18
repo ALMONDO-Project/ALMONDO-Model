@@ -1,0 +1,84 @@
+{
+    "1711818892044030011": {
+        "attachments": {
+            "media_keys": [
+                "3_1711818884334886912"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-10T19:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1711818892044030011"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "HIV",
+                    "probability": 0.9002,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "Stigma",
+                    "probability": 0.6146,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "HIV"
+                },
+                {
+                    "end": 170,
+                    "start": 155,
+                    "tag": "virtualreality"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 130,
+                    "id": "3019793950",
+                    "start": 123,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The scene captures a high-anxiety moment that most of us have experienced at some point. \"I have your lab results here,\" the health care provider (HCP)",
+                    "display_url": "gsk.to/3F8QODB",
+                    "end": 266,
+                    "expanded_url": "https://gsk.to/3F8QODB",
+                    "start": 243,
+                    "status": 200,
+                    "title": "Virtual reality experience puts providers in the shoes of people living with HIV",
+                    "unwound_url": "https://www.statnews.com/sponsor/2023/10/04/virtual-reality-experience-puts-providers-in-the-shoes-of-people-living-with-hiv/?linkId=100000221682155",
+                    "url": "https://t.co/JVfgfH4IsX"
+                },
+                {
+                    "display_url": "pic.twitter.com/ifQhjIGi7W",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/GSK/status/1711818892044030011/photo/1",
+                    "media_key": "3_1711818884334886912",
+                    "start": 269,
+                    "url": "https://t.co/ifQhjIGi7W"
+                }
+            ]
+        },
+        "id": "1711818892044030011",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2759,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#HIV medicines are getting better all the time, but stigma is still a major issue that many people experience. \n\nLearn how @ViiVHC 's \u201cChapters of Stigma\u201d #virtualreality experience teaches empathy and better understanding of patients\u2019 needs: https://t.co/JVfgfH4IsX \ud83d\udc48 https://t.co/ifQhjIGi7W"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1612403815218647040": {
+        "attachments": {
+            "media_keys": [
+                "3_1612403813142482950"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-01-09T11:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1612403815218647040"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Emma Walmsley",
+                    "probability": 0.7737,
+                    "start": 36,
+                    "type": "Person"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "JPM2023",
+                    "probability": 0.5237,
+                    "start": 78,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 21,
+                    "start": 15,
+                    "tag": "media"
+                },
+                {
+                    "end": 85,
+                    "start": 77,
+                    "tag": "JPM2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3jXSBEb",
+                    "end": 189,
+                    "expanded_url": "https://gsk.to/3jXSBEb",
+                    "start": 166,
+                    "url": "https://t.co/Co6F5hLzt4"
+                },
+                {
+                    "display_url": "pic.twitter.com/7EdWgg5LbD",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/GSK/status/1612403815218647040/photo/1",
+                    "media_key": "3_1612403813142482950",
+                    "start": 190,
+                    "url": "https://t.co/7EdWgg5LbD"
+                }
+            ]
+        },
+        "id": "1612403815218647040",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4259,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "#Investors and #media can listen to Emma Walmsley, our CEO, speaking live at #JPM2023 at 1030 EST / 0730 PT / 1530 GMT tomorrow, followed by a Q&amp;A. Tune in here: https://t.co/Co6F5hLzt4 https://t.co/7EdWgg5LbD"
+    }
+}

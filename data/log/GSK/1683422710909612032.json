@@ -1,0 +1,62 @@
+{
+    "1683422710909612032": {
+        "author_id": "5383942",
+        "created_at": "2023-07-24T10:23:45.000Z",
+        "edit_history_tweet_ids": [
+            "1683422710909612032"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "HIV",
+                    "probability": 0.642,
+                    "start": 44,
+                    "type": "Other"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "IAS2023",
+                    "probability": 0.7696,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 79,
+                    "start": 71,
+                    "tag": "IAS2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 27,
+                    "id": "3019793950",
+                    "start": 20,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ViiVHC/status/\u2026",
+                    "end": 105,
+                    "expanded_url": "https://twitter.com/ViiVHC/status/1683039250890264577",
+                    "start": 82,
+                    "url": "https://t.co/CYNL0qYKbq"
+                }
+            ]
+        },
+        "id": "1683422710909612032",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6941,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re proud to have @ViiVHC, our specialist HIV company, presenting at #IAS2023 \ud83d\udc47 https://t.co/CYNL0qYKbq"
+    }
+}

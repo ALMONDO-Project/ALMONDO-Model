@@ -1,0 +1,100 @@
+{
+    "1719312883186630802": {
+        "attachments": {
+            "media_keys": [
+                "13_1719312835543437312"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-31T11:18:29.000Z",
+        "edit_history_tweet_ids": [
+            "1719312883186630802"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 175,
+                    "normalized_text": "B",
+                    "probability": 0.4551,
+                    "start": 175,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "media"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 107,
+                    "id": "394991342",
+                    "start": 91,
+                    "username": "ArrowheadPharma"
+                },
+                {
+                    "end": 122,
+                    "id": "256182836",
+                    "start": 112,
+                    "username": "JanssenUS"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Keep up to date with our latest new announcements",
+                    "display_url": "gsk.to/3sfTqwy",
+                    "end": 203,
+                    "expanded_url": "https://gsk.to/3sfTqwy",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1719312887603224576/Zq5PnNeY?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1719312887603224576/Zq5PnNeY?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 180,
+                    "status": 200,
+                    "title": "Press releases | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/?linkId=100000224285926",
+                    "url": "https://t.co/qUKLS6HL8K"
+                },
+                {
+                    "display_url": "pic.twitter.com/5WdWXSrqyv",
+                    "end": 227,
+                    "expanded_url": "https://twitter.com/GSK/status/1719312883186630802/video/1",
+                    "media_key": "13_1719312835543437312",
+                    "start": 204,
+                    "url": "https://t.co/5WdWXSrqyv"
+                }
+            ]
+        },
+        "id": "1719312883186630802",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4096,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "#News for #investors and #media: Today we announced that we have reached an agreement with @ArrowheadPharma and @JanssenUS to expand our approach to address chronic hepatitis B. \n\nhttps://t.co/qUKLS6HL8K https://t.co/5WdWXSrqyv"
+    }
+}

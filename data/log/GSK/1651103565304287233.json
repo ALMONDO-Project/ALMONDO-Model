@@ -1,0 +1,59 @@
+{
+    "1651103565304287233": {
+        "author_id": "5383942",
+        "created_at": "2023-04-26T05:59:00.000Z",
+        "edit_history_tweet_ids": [
+            "1651103565304287233"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 21,
+                    "start": 15,
+                    "tag": "Media"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Discover our latest financial performance announcement and search for historical quarterly results materials",
+                    "display_url": "gsk.com/en-gb/investor\u2026",
+                    "end": 272,
+                    "expanded_url": "https://www.gsk.com/en-gb/investors/quarterly-results/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1752625114200612864/j5_qau3V?format=png&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1752625114200612864/j5_qau3V?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 249,
+                    "status": 200,
+                    "title": "Quarterly results | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/investors/quarterly-results/",
+                    "url": "https://t.co/ncKPtBfQjt"
+                }
+            ]
+        },
+        "id": "1651103565304287233",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3621,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "#Investors and #Media Cautionary statement regarding forward-looking statements &amp; the definitions &amp; reconciliations for non-IFRS measures for our results. CER% represents constant exchange rates. \u00a3% or AER% represents actual exchange rates. https://t.co/ncKPtBfQjt"
+    }
+}

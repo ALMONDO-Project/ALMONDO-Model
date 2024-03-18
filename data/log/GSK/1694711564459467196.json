@@ -1,0 +1,47 @@
+{
+    "1694711564459467196": {
+        "author_id": "5383942",
+        "created_at": "2023-08-24T14:01:37.000Z",
+        "edit_history_tweet_ids": [
+            "1694711564459467196"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "malaria vaccine",
+                    "probability": 0.5112,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "malaria",
+                    "probability": 0.7578,
+                    "start": 139,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/PATHtweets/sta\u2026",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/PATHtweets/status/1694117852255510803",
+                    "start": 272,
+                    "url": "https://t.co/R9oh9KTPiI"
+                }
+            ]
+        },
+        "id": "1694711564459467196",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7028,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "The RTS,S malaria vaccine is making waves in the scientific community once again. We're always looking for new ways to fight the burden of malaria in endemic countries and this landmark study brings us one step closer to protecting children from this devastating disease. https://t.co/R9oh9KTPiI"
+    }
+}

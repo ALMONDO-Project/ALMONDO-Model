@@ -1,0 +1,61 @@
+{
+    "1659537147571970053": {
+        "attachments": {
+            "media_keys": [
+                "13_1659536742263803907"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-05-19T12:31:03.000Z",
+        "edit_history_tweet_ids": [
+            "1659537147571970053"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "GSKIMPACTUK",
+                    "probability": 0.8471,
+                    "start": 31,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 42,
+                    "start": 30,
+                    "tag": "GSKIMPACTUK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "18045120",
+                    "start": 50,
+                    "username": "TheKingsFund"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TuCZXA2jVp",
+                    "end": 178,
+                    "expanded_url": "https://twitter.com/GSK/status/1659537147571970053/video/1",
+                    "media_key": "13_1659536742263803907",
+                    "start": 155,
+                    "url": "https://t.co/TuCZXA2jVp"
+                }
+            ]
+        },
+        "id": "1659537147571970053",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 6902,
+            "like_count": 18,
+            "quote_count": 3,
+            "reply_count": 14,
+            "retweet_count": 4
+        },
+        "text": "Last night, we celebrated the #GSKIMPACTUK Awards @TheKingsFund, supporting incredible charities working to improve local community health and wellbeing \ud83d\udc47 https://t.co/TuCZXA2jVp"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1696847923357643191": {
+        "attachments": {
+            "media_keys": [
+                "13_1696847738195873792"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-08-30T11:30:45.000Z",
+        "edit_history_tweet_ids": [
+            "1696847923357643191"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Tim",
+                    "probability": 0.6703,
+                    "start": 5,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 162,
+                    "start": 147,
+                    "tag": "neurodiversity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DFYvwfMvNP",
+                    "end": 187,
+                    "expanded_url": "https://twitter.com/GSK/status/1696847923357643191/video/1",
+                    "media_key": "13_1696847738195873792",
+                    "start": 164,
+                    "url": "https://t.co/DFYvwfMvNP"
+                }
+            ]
+        },
+        "id": "1696847923357643191",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4022,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Meet Tim, who is breaking barriers and finding new ways to tackle global health challenges. Watch his inspiring story and learn about the value of #neurodiversity. https://t.co/DFYvwfMvNP"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "1653807806011650051": {
+        "attachments": {
+            "media_keys": [
+                "3_1653807798147330069"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-05-03T17:04:41.000Z",
+        "edit_history_tweet_ids": [
+            "1653807806011650051"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "RSV",
+                    "probability": 0.5907,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "US Food and Drug Administration",
+                    "probability": 0.4352,
+                    "start": 95,
+                    "type": "Organization"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "FDA",
+                    "probability": 0.9656,
+                    "start": 128,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.com/en-gb/media/pr\u2026",
+                    "end": 171,
+                    "expanded_url": "https://www.gsk.com/en-gb/media/press-releases/",
+                    "start": 148,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/",
+                    "url": "https://t.co/9iDhexqgXa"
+                },
+                {
+                    "display_url": "pic.twitter.com/vLTZ7W0txw",
+                    "end": 195,
+                    "expanded_url": "https://twitter.com/GSK/status/1653807806011650051/photo/1",
+                    "media_key": "3_1653807798147330069",
+                    "start": 172,
+                    "url": "https://t.co/vLTZ7W0txw"
+                }
+            ]
+        },
+        "id": "1653807806011650051",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9978,
+            "like_count": 44,
+            "quote_count": 7,
+            "reply_count": 0,
+            "retweet_count": 12
+        },
+        "text": "News for investors and media: Today we announced that our RSV vaccine has been approved by the US Food and Drug Administration (FDA). \n\nLearn more: https://t.co/9iDhexqgXa https://t.co/vLTZ7W0txw"
+    }
+}

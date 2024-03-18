@@ -1,0 +1,63 @@
+{
+    "1696810014436962567": {
+        "attachments": {
+            "media_keys": [
+                "13_1696809986360262656"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-08-30T09:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1696810014436962567"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 208,
+                    "normalized_text": "Nigeria",
+                    "probability": 0.9743,
+                    "start": 202,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 47,
+                    "id": "20674741",
+                    "start": 32,
+                    "username": "savechildrenuk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/3EggHRt",
+                    "end": 265,
+                    "expanded_url": "https://gsk.to/3EggHRt",
+                    "start": 242,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=zNpk-Z5st9I&t=19s",
+                    "url": "https://t.co/FRPiFVR27v"
+                },
+                {
+                    "display_url": "pic.twitter.com/DcQMnRW1qP",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/GSK/status/1696810014436962567/video/1",
+                    "media_key": "13_1696809986360262656",
+                    "start": 266,
+                    "url": "https://t.co/DcQMnRW1qP"
+                }
+            ]
+        },
+        "id": "1696810014436962567",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4030,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "10 years ago, we teamed up with @savechildrenuk with an ambitious goal to save one million children's lives. Today, we're proud to say that we've reached 3.5 million children in 51 countries, including Nigeria! \ud83e\udd1d\n\nWatch the full length film: https://t.co/FRPiFVR27v https://t.co/DcQMnRW1qP"
+    }
+}

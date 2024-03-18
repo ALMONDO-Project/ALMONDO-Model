@@ -1,0 +1,55 @@
+{
+    "1671399590015250433": {
+        "attachments": {
+            "media_keys": [
+                "3_1671399578917019648"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-21T06:08:10.000Z",
+        "edit_history_tweet_ids": [
+            "1671399590015250433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "RSV",
+                    "probability": 0.645,
+                    "start": 67,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gsk.to/449XuM1",
+                    "end": 119,
+                    "expanded_url": "https://gsk.to/449XuM1",
+                    "start": 96,
+                    "status": 200,
+                    "unwound_url": "https://www.gsk.com/en-gb/media/press-releases/?linkId=100000206306842",
+                    "url": "https://t.co/uuhdvjUurD"
+                },
+                {
+                    "display_url": "pic.twitter.com/pB543KVB1P",
+                    "end": 143,
+                    "expanded_url": "https://twitter.com/GSK/status/1671399590015250433/photo/1",
+                    "media_key": "3_1671399578917019648",
+                    "start": 120,
+                    "url": "https://t.co/pB543KVB1P"
+                }
+            ]
+        },
+        "id": "1671399590015250433",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5868,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "News for investors and media: Today we have shared new data on our RSV vaccine. \n\nFind out more https://t.co/uuhdvjUurD https://t.co/pB543KVB1P"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1727338932637966700": {
+        "author_id": "5383942",
+        "created_at": "2023-11-22T14:51:08.000Z",
+        "edit_history_tweet_ids": [
+            "1727338932637966700"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Haleon",
+                    "probability": 0.4023,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "GSK",
+                    "probability": 0.5413,
+                    "start": 94,
+                    "type": "Organization"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Haleon",
+                    "probability": 0.3453,
+                    "start": 164,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "304039966",
+                    "start": 0,
+                    "username": "LezBoardman"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact Haleon Consumer Relations using this form.",
+                    "display_url": "haleon.com/contact-us/",
+                    "end": 270,
+                    "expanded_url": "https://www.haleon.com/contact-us/",
+                    "start": 247,
+                    "status": 200,
+                    "title": "General Enquiry",
+                    "unwound_url": "https://haleon.support/en-us/general-enquiry",
+                    "url": "https://t.co/nVW29kMR2D"
+                }
+            ]
+        },
+        "id": "1727338932637966700",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 35,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@LezBoardman Thank you for your message. Haleon took over the Consumer Healthcare division of GSK. That product falls under that category. For anything specific to Haleon, please get in touch with them directly via their socials or their website, https://t.co/nVW29kMR2D"
+    }
+}

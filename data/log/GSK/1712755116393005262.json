@@ -1,0 +1,61 @@
+{
+    "1712755116393005262": {
+        "attachments": {
+            "media_keys": [
+                "13_1712755062605266944"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-10-13T09:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1712755116393005262"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 144,
+                    "normalized_text": "HIV",
+                    "probability": 0.9357,
+                    "start": 142,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 224,
+                    "start": 207,
+                    "tag": "ScienceOnTheSofa"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 92,
+                    "id": "3019793950",
+                    "start": 85,
+                    "username": "ViiVHC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/HDdy86HDdW",
+                    "end": 253,
+                    "expanded_url": "https://twitter.com/GSK/status/1712755116393005262/video/1",
+                    "media_key": "13_1712755062605266944",
+                    "start": 230,
+                    "url": "https://t.co/HDdy86HDdW"
+                }
+            ]
+        },
+        "id": "1712755116393005262",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3248,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "In the face of great challenges, we can and must learn from the past. \nTogether with @ViiVHC we're exploring ways that our deep experience in HIV can inform new approaches to treating TB. \n\nWatch the latest #ScienceOnTheSofa now. https://t.co/HDdy86HDdW"
+    }
+}

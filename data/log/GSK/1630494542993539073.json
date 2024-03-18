@@ -1,0 +1,43 @@
+{
+    "1630494542993539073": {
+        "attachments": {
+            "poll_ids": [
+                "1630494542087573505"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-02-28T09:06:06.000Z",
+        "edit_history_tweet_ids": [
+            "1630494542993539073"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "shingles",
+                    "probability": 0.5416,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 16,
+                    "tag": "shingles"
+                }
+            ]
+        },
+        "id": "1630494542993539073",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4862,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 4
+        },
+        "text": "When developing #shingles, people can experience\u2026"
+    }
+}

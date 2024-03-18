@@ -1,0 +1,55 @@
+{
+    "1665824159874596867": {
+        "attachments": {
+            "poll_ids": [
+                "1665824159266471936"
+            ]
+        },
+        "author_id": "5383942",
+        "created_at": "2023-06-05T20:53:23.000Z",
+        "edit_history_tweet_ids": [
+            "1665824159874596867"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "BIO2023",
+                    "probability": 0.4715,
+                    "start": 43,
+                    "type": "Organization"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "GSKdata",
+                    "probability": 0.6054,
+                    "start": 217,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 50,
+                    "start": 42,
+                    "tag": "BIO2023"
+                },
+                {
+                    "end": 224,
+                    "start": 216,
+                    "tag": "GSKdata"
+                }
+            ]
+        },
+        "id": "1665824159874596867",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4284,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Do you agree? \n\n26% of respondents at our #BIO2023 booth believe preventing the spread of infectious diseases  is where we will see the greatest progress in health innovation in the next decade.\n\nStay tuned for more #GSKdata."
+    }
+}

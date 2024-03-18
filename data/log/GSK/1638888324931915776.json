@@ -1,0 +1,60 @@
+{
+    "1638888324931915776": {
+        "author_id": "5383942",
+        "created_at": "2023-03-23T13:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1638888324931915776"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "AI",
+                    "probability": 0.8607,
+                    "start": 125,
+                    "type": "Organization"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "GSKOnyx",
+                    "probability": 0.449,
+                    "start": 238,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 127,
+                    "start": 124,
+                    "tag": "AI"
+                },
+                {
+                    "end": 212,
+                    "start": 198,
+                    "tag": "AheadTogether"
+                },
+                {
+                    "end": 236,
+                    "start": 213,
+                    "tag": "ArtificialIntelligence"
+                },
+                {
+                    "end": 245,
+                    "start": 237,
+                    "tag": "GSKOnyx"
+                }
+            ]
+        },
+        "id": "1638888324931915776",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4644,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Our journey to the centre of the human genome is not a solo mission. With innovative partners by our side, our supercharged #AI team is exploring the edges of humankind \u2014 inside and out. Join us!\u202f\n\n#AheadTogether #ArtificialIntelligence #GSKOnyx"
+    }
+}

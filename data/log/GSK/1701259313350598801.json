@@ -1,0 +1,71 @@
+{
+    "1701259313350598801": {
+        "author_id": "5383942",
+        "created_at": "2023-09-11T15:40:02.000Z",
+        "edit_history_tweet_ids": [
+            "1701259313350598801"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "GSK",
+                    "probability": 0.5642,
+                    "start": 53,
+                    "type": "Organization"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "GSK",
+                    "probability": 0.6103,
+                    "start": 132,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "3269232397",
+                    "start": 0,
+                    "username": "OralDiag"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Reporting a possible side effect or human safety information (HSI) to GSK",
+                    "display_url": "gsk.com/en-gb/contact-\u2026",
+                    "end": 162,
+                    "expanded_url": "https://www.gsk.com/en-gb/contact-us/report-a-possible-side-effect/",
+                    "images": [
+                        {
+                            "height": 315,
+                            "url": "https://pbs.twimg.com/news_img/1747289128868155392/W08VN_K2?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1747289128868155392/W08VN_K2?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 139,
+                    "status": 200,
+                    "title": "Report a possible side effect | GSK",
+                    "unwound_url": "https://www.gsk.com/en-gb/contact-us/report-a-possible-side-effect/",
+                    "url": "https://t.co/I4cIyo92ul"
+                }
+            ]
+        },
+        "id": "1701259313350598801",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 52,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@OralDiag Hello - In the interest of patient safety, GSK would like to learn more about the experience you reported. Please contact GSK at https://t.co/I4cIyo92ul"
+    }
+}

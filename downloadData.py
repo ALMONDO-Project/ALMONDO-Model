@@ -1,4 +1,5 @@
 #import statements
+import sys
 import os
 import json
 import tweepy
@@ -131,7 +132,7 @@ class UserDataDownload():
         self.start_time = "2023-01-01T00:00:00.000Z"
         
         if is_before(new_end_time(self.userlogpath), "2023-12-31T23:59:59.000Z"):
-            self.end_time new_end_time(self.userlogpath)
+            self.end_time = new_end_time(self.userlogpath)
         else:
             self.end_time= "2023-12-31T23:59:59.000Z"
         
@@ -172,8 +173,10 @@ class UserDataDownload():
             except KeyError:
                 next_token = None
                 
-            with open(f'data/log/{self.username}/last_page.pickle', 'wb') as file:
-                pickle.dump(page, file)
+            with open(f'data/log/{self.username}/last_page_data.json', 'w') as file:
+                json.dump(page.data, file)
+            with open(f'data/log/{self.username}/last_page_data.json', 'w') as file:
+                json.dump(page.meta, file)
             
             try:    
                 for tweet in tqdm.tqdm(page.data): #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
@@ -181,14 +184,15 @@ class UserDataDownload():
                     self.dump_tweets(tweet, tweet_data)
                     count -= 1
                     if count <= 0:
-                        return
+                        return 
             except TypeError:
                 with open('data/log/users_done.txt', 'a') as file:
                     file.write('@'+self.username)
                     file.write('\n')
                 return 
             except TweetAlreadyDumpedException:
-                print('>>> check if unitll_id is set properly')
+                print('>>> check if end_date is set properly')
+                break
                 return
                
             if not next_token:

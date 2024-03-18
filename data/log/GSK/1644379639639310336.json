@@ -1,0 +1,39 @@
+{
+    "1644379639639310336": {
+        "author_id": "5383942",
+        "created_at": "2023-04-07T16:40:31.000Z",
+        "edit_history_tweet_ids": [
+            "1644379639639310336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "GSK",
+                    "probability": 0.4435,
+                    "start": 85,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1242434863854170113",
+                    "start": 0,
+                    "username": "FaizanB11404379"
+                }
+            ]
+        },
+        "id": "1644379639639310336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 63,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@FaizanB11404379 Thank you for making us aware of this content.  This is not genuine GSK content and is the subject of ongoing legal proceedings."
+    }
+}

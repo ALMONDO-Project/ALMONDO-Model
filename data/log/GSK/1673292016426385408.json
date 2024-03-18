@@ -1,0 +1,59 @@
+{
+    "1673292016426385408": {
+        "author_id": "5383942",
+        "created_at": "2023-06-26T11:27:59.000Z",
+        "edit_history_tweet_ids": [
+            "1673292016426385408"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "InternationalRespiratoryCoalition",
+                    "probability": 0.4553,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "IRC",
+                    "probability": 0.7184,
+                    "start": 188,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 0,
+                    "tag": "LiftTheBurden"
+                },
+                {
+                    "end": 81,
+                    "start": 47,
+                    "tag": "InternationalRespiratoryCoalition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/i/web/status/1673292016426385408",
+                    "start": 279,
+                    "url": "https://t.co/TGaMKhSdak"
+                }
+            ]
+        },
+        "id": "1673292016426385408",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3532,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#LiftTheBurden \n\nWe are a proud partner of the #InternationalRespiratoryCoalition, supporting the goal of reducing respiratory disease-related mortality by a third globally by 2030. \n\nThe IRC\u2019s recently published manifesto outlines the policy asks the coalition is calling for.\u2026 https://t.co/TGaMKhSdak"
+    }
+}

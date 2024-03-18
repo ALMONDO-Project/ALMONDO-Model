@@ -1,0 +1,59 @@
+{
+    "1625914881055641600": {
+        "author_id": "5383942",
+        "created_at": "2023-02-15T17:48:10.000Z",
+        "edit_history_tweet_ids": [
+            "1625914881055641600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "GSK",
+                    "probability": 0.628,
+                    "start": 52,
+                    "type": "Organization"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "GSK",
+                    "probability": 0.6812,
+                    "start": 150,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "38471034",
+                    "start": 0,
+                    "username": "flyriviera"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Tanto si busca trabajo, es cliente o un profesional sanitario, aqu\u00ed encontrar\u00e1 la mejor manera de contactar con nosotros",
+                    "display_url": "es.gsk.com/es-es/contacto\u2026",
+                    "end": 180,
+                    "expanded_url": "https://es.gsk.com/es-es/contacto/#unidad-de-farmacovigilancia",
+                    "start": 157,
+                    "status": 200,
+                    "title": "Contacto | GSK Espa\u00f1a",
+                    "unwound_url": "https://es.gsk.com/es-es/contacto/#unidad-de-farmacovigilancia",
+                    "url": "https://t.co/Me3riY9QER"
+                }
+            ]
+        },
+        "id": "1625914881055641600",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 14,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@flyriviera En aras de la seguridad del paciente, a GSK le gustar\u00eda obtener m\u00e1s informaci\u00f3n sobre la experiencia que inform\u00f3. P\u00f3ngase en contacto con GSK en https://t.co/Me3riY9QER"
+    }
+}

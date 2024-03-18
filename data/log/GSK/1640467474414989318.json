@@ -1,0 +1,58 @@
+{
+    "1640467474414989318": {
+        "author_id": "5383942",
+        "created_at": "2023-03-27T21:34:58.000Z",
+        "edit_history_tweet_ids": [
+            "1640467474414989318"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "SGOmtg",
+                    "probability": 0.6496,
+                    "start": 43,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "News"
+                },
+                {
+                    "end": 20,
+                    "start": 10,
+                    "tag": "Investors"
+                },
+                {
+                    "end": 31,
+                    "start": 25,
+                    "tag": "Media"
+                },
+                {
+                    "end": 49,
+                    "start": 42,
+                    "tag": "SGOmtg"
+                },
+                {
+                    "end": 92,
+                    "start": 85,
+                    "tag": "cancer"
+                }
+            ]
+        },
+        "id": "1640467474414989318",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4714,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "#News for #Investors and #Media: today at #SGOmtg, we shared promising data from our #cancer research programmes. Learn more."
+    }
+}
