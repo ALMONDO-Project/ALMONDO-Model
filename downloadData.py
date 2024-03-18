@@ -58,15 +58,7 @@ class UserDataDownload():
             print('>>> no saved data for this user')
         self.until_id = less_recent_tweet_id
         print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
-            
-
-        
-    def set_paginator(self):
-        # Initialize paginator for fetching user tweets
-
-
-        print(f'{self.paginator} \n object was created')
-    
+              
     def make_dirs(self):
         try:
             # Create necessary directories for storing data and logs
