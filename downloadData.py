@@ -53,11 +53,11 @@ class UserDataDownload():
                 less_recent_tweet_id = json_files[0].replace('.json', '')
             except IndexError:
                 less_recent_tweet_id = None
-            print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
         else:
             less_recent_tweet_id = None
             print('>>> no saved data for this user')
         self.until_id = less_recent_tweet_id
+        print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
             
 
         
