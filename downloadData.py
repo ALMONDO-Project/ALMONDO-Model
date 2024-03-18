@@ -168,28 +168,21 @@ class UserDataDownload():
             file.write(f'{self.username}\n')
 
     def download(self):
-   
-        # self.tweets = self.create_tweet_data_list()
-        
         print('>>> started retrieving tweets')
-        
         count = 0
-        
-        for page in tqdm.tqdm(self.paginator):
-            print(compute_max_tweets('AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'))
-            next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
-            for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
-                print(compute_max_tweets('AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'))
-                tweet_data = {tweet.data['id']: tweet.data}
-                self.dump_tweets(tweet, tweet_data)
-                count += 1
-            if not next_token:
-                self.update_users_done()
-                break
+        while count < self.max_results:
+            for page in tqdm.tqdm(self.paginator):
+                next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
+                for tweet in page.data: #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                    tweet_data = {tweet.data['id']: tweet.data}
+                    self.dump_tweets(tweet, tweet_data)
+                    count += 1
+                if not next_token:
+                    self.update_users_done()
+                    print(f'>>> {count} total tweets downloaded in this session')        
+                    return
 
-        count=len(self.tweets)
         
-        print(f'>>> {count} total tweets downloaded in this session')        
         
     def save(self):
         if len(self.tweets) > 0:
