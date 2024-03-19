@@ -1,0 +1,52 @@
+{
+    "1633878695680016387": {
+        "author_id": "2656316095",
+        "created_at": "2023-03-09T17:13:31.000Z",
+        "edit_history_tweet_ids": [
+            "1633878695680016387"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Future Forum",
+                    "probability": 0.6231,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "TED",
+                    "probability": 0.5648,
+                    "start": 214,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 55,
+                    "id": "15492359",
+                    "start": 46,
+                    "username": "TEDTalks"
+                },
+                {
+                    "end": 101,
+                    "id": "1194666706779738113",
+                    "start": 88,
+                    "username": "TEDCountdown"
+                }
+            ]
+        },
+        "id": "1633878695680016387",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2819,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 9
+        },
+        "text": "We\u2019re thrilled to be a founding member of the @TEDTalks Future Forum \u2013 an initiative by @TEDCountdown that brings together companies dedicated to a net-zero future. The forum will share transformational stories at TED events to inspire businesses across the economy to act."
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "1706609429871833315": {
+        "author_id": "2656316095",
+        "created_at": "2023-09-26T09:59:30.000Z",
+        "edit_history_tweet_ids": [
+            "1706609429871833315"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Stromar",
+                    "probability": 0.5416,
+                    "start": 5,
+                    "type": "Place"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Scotland",
+                    "probability": 0.9215,
+                    "start": 82,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 32,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 146,
+                    "id": "1418253850457292810",
+                    "start": 130,
+                    "username": "BlueFloatEnergy"
+                },
+                {
+                    "end": 161,
+                    "id": "523040919",
+                    "start": 151,
+                    "username": "Renantis_"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "What will it take to deliver Stromar, one of the world\u2019s largest floating offshore wind farms?\u00a0A \u2018dream team\u2019 of experts all working together to maximise the benefits of the green energy transition for Scotland\u2019s communities, economy, and environment, writes Nicholas Ritchie, \u00d8rsted\u2019s Development Director for Stromar.\u00a0",
+                    "display_url": "orsted.co.uk/insights/exper\u2026",
+                    "end": 217,
+                    "expanded_url": "https://orsted.co.uk/insights/expert-take/stromar",
+                    "images": [
+                        {
+                            "height": 445,
+                            "url": "https://pbs.twimg.com/news_img/1715659057405583360/f2oBBO-6?format=jpg&name=orig",
+                            "width": 445
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1715659057405583360/f2oBBO-6?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 194,
+                    "status": 200,
+                    "title": "Stromar: A pioneering joint-venture floating offshore wind project",
+                    "unwound_url": "https://orsted.co.uk/insights/expert-take/stromar",
+                    "url": "https://t.co/VuAoCBCnWs"
+                }
+            ]
+        },
+        "id": "1706609429871833315",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 654,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83e\uddf53/3 Stromar is a 1 GW floating #offshorewind project off the north-east coast of Scotland, and we\u2019re working on it together with @BlueFloatEnergy and @Renantis_. \n\nRead more about the project: https://t.co/VuAoCBCnWs"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1633396773170425863": {
+        "attachments": {
+            "media_keys": [
+                "7_1633396461160235008"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-03-08T09:18:32.000Z",
+        "edit_history_tweet_ids": [
+            "1633396773170425863"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 75,
+                    "normalized_text": "International Women",
+                    "probability": 0.6573,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "\u00d8rsted",
+                    "probability": 0.3007,
+                    "start": 150,
+                    "type": "Place"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "IWD",
+                    "probability": 0.5186,
+                    "start": 262,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 32,
+                    "tag": "genderequity"
+                },
+                {
+                    "end": 265,
+                    "start": 261,
+                    "tag": "IWD"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ELnqclZTnT",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Orsted/status/1633396773170425863/video/1",
+                    "media_key": "7_1633396461160235008",
+                    "start": 280,
+                    "url": "https://t.co/ELnqclZTnT"
+                }
+            ]
+        },
+        "id": "1633396773170425863",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2257,
+            "like_count": 18,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Why is it important to focus on #genderequity? \n\nOn this International Women\u2019s Day, we\u2019re highlighting Gender IN, a global employee-driven network at \u00d8rsted that drives many initiatives to support women in the workplace and create a more inclusive environment. #IWD \n\nAre you IN? https://t.co/ELnqclZTnT"
+    }
+}

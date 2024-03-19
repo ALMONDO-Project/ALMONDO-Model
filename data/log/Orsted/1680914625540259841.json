@@ -1,0 +1,73 @@
+{
+    "1680914625540259841": {
+        "attachments": {
+            "media_keys": [
+                "3_1680913582211342336"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-07-17T12:17:31.000Z",
+        "edit_history_tweet_ids": [
+            "1680914625540259841"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "Olivia Breese",
+                    "probability": 0.8382,
+                    "start": 88,
+                    "type": "Person"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "TED Talk",
+                    "probability": 0.5156,
+                    "start": 138,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 46,
+                    "start": 34,
+                    "tag": "greenenergy"
+                },
+                {
+                    "end": 265,
+                    "start": 257,
+                    "tag": "climate"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 185,
+                    "id": "1194666706779738113",
+                    "start": 172,
+                    "username": "TEDCountdown"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/spQNa5qiCQ",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Orsted/status/1680914625540259841/photo/1",
+                    "media_key": "3_1680913582211342336",
+                    "start": 274,
+                    "url": "https://t.co/spQNa5qiCQ"
+                }
+            ]
+        },
+        "id": "1680914625540259841",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3859,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 5
+        },
+        "text": "\ud83e\uddf51/4 \u201cA world running entirely on #greenenergy isn\u2019t a luxury \u2013 it\u2019s a necessity,\u201c\u00a0said Olivia Breese, our Head of Power-to-X, during her TED Talk on the main stage of\u00a0the @TEDCountdown Summit 2023 \u2013 a summit focused on finding exponential solutions to the #climate crisis. https://t.co/spQNa5qiCQ"
+    }
+}

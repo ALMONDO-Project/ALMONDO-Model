@@ -1,0 +1,89 @@
+{
+    "1735595887966011574": {
+        "attachments": {
+            "media_keys": [
+                "3_1735595728116781056"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-12-15T09:41:20.000Z",
+        "edit_history_tweet_ids": [
+            "1735595887966011574"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Hornsea 2",
+                    "probability": 0.8906,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "Guinness World Record",
+                    "probability": 0.9739,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "Hornsea 2",
+                    "probability": 0.6924,
+                    "start": 111,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "UK",
+                    "probability": 0.9212,
+                    "start": 196,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 89,
+                    "start": 76,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 256,
+                    "id": "18073623",
+                    "start": 252,
+                    "username": "GWR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/SZl3ojQteb",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Orsted/status/1735595887966011574/photo/1",
+                    "media_key": "3_1735595728116781056",
+                    "start": 258,
+                    "url": "https://t.co/SZl3ojQteb"
+                },
+                {
+                    "display_url": "x.com/OrstedUK/statu\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/OrstedUK/status/1735267363375792372",
+                    "start": 282,
+                    "url": "https://t.co/ZRE2848CKS"
+                }
+            ]
+        },
+        "id": "1735595887966011574",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3868,
+            "like_count": 41,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Hornsea 2 now holds the Guinness World Record for being the world\u2019s largest #offshorewind farm in capacity! \ud83e\udd47\n\nHornsea 2 comprises 165 wind turbines that can generate enough power for 1.4 million UK homes, and it\u2019s been featured in the 2024 edition of @GWR. https://t.co/SZl3ojQteb https://t.co/ZRE2848CKS"
+    }
+}

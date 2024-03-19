@@ -1,0 +1,58 @@
+{
+    "1635938282218352640": {
+        "attachments": {
+            "media_keys": [
+                "7_1635937910833795073"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-03-15T09:37:35.000Z",
+        "edit_history_tweet_ids": [
+            "1635938282218352640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "DYK",
+                    "probability": 0.5142,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 280,
+                    "start": 267,
+                    "tag": "factoftheday"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/QDXO0GXBOD",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Orsted/status/1635938282218352640/video/1",
+                    "media_key": "7_1635937910833795073",
+                    "start": 281,
+                    "url": "https://t.co/QDXO0GXBOD"
+                }
+            ]
+        },
+        "id": "1635938282218352640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2768,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 10
+        },
+        "text": "#DYK The green buildout needs a significant acceleration if we\u2019re to reach the net-zero emissions target by the end of 2050. At the current speed, we\u2019ll be 44 years too late. To put it into perspective, we\u2019re moving at 52 km/h, while we should be moving at 130 km/h. #factoftheday https://t.co/QDXO0GXBOD"
+    }
+}

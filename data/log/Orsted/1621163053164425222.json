@@ -1,0 +1,123 @@
+{
+    "1621163053164425222": {
+        "attachments": {
+            "media_keys": [
+                "3_1621145950277500930",
+                "3_1621145950306865152",
+                "3_1621145950340403203"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-02-02T15:06:06.000Z",
+        "edit_history_tweet_ids": [
+            "1621163053164425222"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "P2X",
+                    "probability": 0.7703,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Olivia Breese",
+                    "probability": 0.5774,
+                    "start": 71,
+                    "type": "Person"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "P2X",
+                    "probability": 0.6382,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "EVP",
+                    "probability": 0.4072,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 252,
+                    "normalized_text": "GreenDealIndustrialPlan",
+                    "probability": 0.4542,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 53,
+                    "tag": "P2X"
+                },
+                {
+                    "end": 202,
+                    "start": 184,
+                    "tag": "renewablehydrogen"
+                },
+                {
+                    "end": 253,
+                    "start": 229,
+                    "tag": "GreenDealIndustrialPlan"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 134,
+                    "id": "1695081859510587393",
+                    "start": 121,
+                    "username": "TimmermansEU"
+                },
+                {
+                    "end": 277,
+                    "id": "1358785840495939592",
+                    "start": 263,
+                    "username": "renewableH2EU"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/pyM9I8rbYs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Orsted/status/1621163053164425222/photo/1",
+                    "media_key": "3_1621145950277500930",
+                    "start": 279,
+                    "url": "https://t.co/pyM9I8rbYs"
+                },
+                {
+                    "display_url": "pic.twitter.com/pyM9I8rbYs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Orsted/status/1621163053164425222/photo/1",
+                    "media_key": "3_1621145950306865152",
+                    "start": 279,
+                    "url": "https://t.co/pyM9I8rbYs"
+                },
+                {
+                    "display_url": "pic.twitter.com/pyM9I8rbYs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Orsted/status/1621163053164425222/photo/1",
+                    "media_key": "3_1621145950340403203",
+                    "start": 279,
+                    "url": "https://t.co/pyM9I8rbYs"
+                }
+            ]
+        },
+        "id": "1621163053164425222",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3637,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Together with other CEOs of leading companies of the #P2X value chain, Olivia Breese, our CEO of P2X, discussed with EVP @TimmermansEU the need for simplicity and speed to ramp up the #renewablehydrogen market and deliver on the #GreenDealIndustrialPlan. Thanks, @renewableH2EU. https://t.co/pyM9I8rbYs"
+    }
+}

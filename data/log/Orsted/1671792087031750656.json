@@ -1,0 +1,62 @@
+{
+    "1671792087031750656": {
+        "attachments": {
+            "media_keys": [
+                "7_1671788792489947136"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-06-22T08:07:48.000Z",
+        "edit_history_tweet_ids": [
+            "1671792087031750656"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "USV",
+                    "probability": 0.3369,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 217,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "orsted.com/en/media/newsr\u2026",
+                    "end": 279,
+                    "expanded_url": "https://orsted.com/en/media/newsroom/news/2023/06/13698206",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://orsted.com/en/media/newsroom/news/2023/06/13698206",
+                    "url": "https://t.co/mnY7MNEK0w"
+                },
+                {
+                    "display_url": "pic.twitter.com/8JEgX61Qpk",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Orsted/status/1671792087031750656/video/1",
+                    "media_key": "7_1671788792489947136",
+                    "start": 280,
+                    "url": "https://t.co/8JEgX61Qpk"
+                }
+            ]
+        },
+        "id": "1671792087031750656",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 6845,
+            "like_count": 48,
+            "quote_count": 7,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Inventing the future! \nWe\u2019ve designed, built, and patented the industry\u2019s first uncrewed surface vessel (USV) - for collecting data on wind generation, the state of the seabed, and marine mammal behavior at potential #offshorewind sites.  \nDiscover more \ud83d\udc49 https://t.co/mnY7MNEK0w https://t.co/8JEgX61Qpk"
+    }
+}

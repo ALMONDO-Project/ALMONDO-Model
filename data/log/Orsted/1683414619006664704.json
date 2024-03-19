@@ -1,0 +1,83 @@
+{
+    "1683414619006664704": {
+        "attachments": {
+            "media_keys": [
+                "7_1683414510407696388"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-07-24T09:51:36.000Z",
+        "edit_history_tweet_ids": [
+            "1683414619006664704"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "ReCoral",
+                    "probability": 0.733,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "Greater Changhua",
+                    "probability": 0.361,
+                    "start": 140,
+                    "type": "Place"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Taiwan",
+                    "probability": 0.9856,
+                    "start": 180,
+                    "type": "Place"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "ReCoral",
+                    "probability": 0.7534,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 30,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=tKJP1f\u2026",
+                    "end": 280,
+                    "expanded_url": "https://www.youtube.com/watch?v=tKJP1f8CYfI",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=tKJP1f8CYfI",
+                    "url": "https://t.co/HY8Xb3iICV"
+                },
+                {
+                    "display_url": "pic.twitter.com/HmorK7Ost5",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Orsted/status/1683414619006664704/video/1",
+                    "media_key": "7_1683414510407696388",
+                    "start": 281,
+                    "url": "https://t.co/HmorK7Ost5"
+                }
+            ]
+        },
+        "id": "1683414619006664704",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2844,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "Can corals grow and thrive on #offshorewind turbine foundations? That\u2019s the question we\u2019re trying to answer with our ReCoral project at our Greater Changhua offshore wind farms in Taiwan.\n\nWatch the documentary about the first phase of our ReCoral project: https://t.co/HY8Xb3iICV https://t.co/HmorK7Ost5"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "1642856286717968385": {
+        "attachments": {
+            "media_keys": [
+                "7_1642856021315010560"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-04-03T11:47:16.000Z",
+        "edit_history_tweet_ids": [
+            "1642856286717968385"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Haystack Wind",
+                    "probability": 0.7168,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "WorldWindTours",
+                    "probability": 0.6877,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Haystack Wind",
+                    "probability": 0.7377,
+                    "start": 93,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Wayne County",
+                    "probability": 0.93,
+                    "start": 119,
+                    "type": "Place"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Nebraska",
+                    "probability": 0.9508,
+                    "start": 133,
+                    "type": "Place"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "US",
+                    "probability": 0.9312,
+                    "start": 147,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "onshorewind",
+                    "probability": 0.3835,
+                    "start": 163,
+                    "type": "Place"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Haystack Wind",
+                    "probability": 0.6798,
+                    "start": 210,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 47,
+                    "start": 32,
+                    "tag": "WorldWindTours"
+                },
+                {
+                    "end": 174,
+                    "start": 162,
+                    "tag": "onshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/q7aniQ2nd9",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Orsted/status/1642856286717968385/video/1",
+                    "media_key": "7_1642856021315010560",
+                    "start": 280,
+                    "url": "https://t.co/q7aniQ2nd9"
+                }
+            ]
+        },
+        "id": "1642856286717968385",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1950,
+            "like_count": 13,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Haystack Wind turns one year! \ud83d\udc47\n#WorldWindTours are back, and this time we\u2019ll pay a visit to Haystack Wind. Located in Wayne County, Nebraska, the US, the 298 MW #onshorewind farm consists of 69 wind turbines. Haystack Wind was our first onshore project using 5 MW wind turbines. https://t.co/q7aniQ2nd9"
+    }
+}

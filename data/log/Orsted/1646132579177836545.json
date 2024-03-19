@@ -1,0 +1,72 @@
+{
+    "1646132579177836545": {
+        "attachments": {
+            "media_keys": [
+                "7_1646113811429044225"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-04-12T12:46:05.000Z",
+        "edit_history_tweet_ids": [
+            "1646132579177836545"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "Katarzyna",
+                    "probability": 0.5594,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Warsaw",
+                    "probability": 0.7198,
+                    "start": 141,
+                    "type": "Place"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "Poland",
+                    "probability": 0.933,
+                    "start": 149,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 132,
+                    "start": 123,
+                    "tag": "sourcing"
+                },
+                {
+                    "end": 274,
+                    "start": 264,
+                    "tag": "suppliers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/JzUrAglW0v",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Orsted/status/1646132579177836545/video/1",
+                    "media_key": "7_1646113811429044225",
+                    "start": 277,
+                    "url": "https://t.co/JzUrAglW0v"
+                }
+            ]
+        },
+        "id": "1646132579177836545",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1575,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Have you ever wondered what a sourcing manager\u2019s job entails?\n\nWe spoke to Katarzyna, who was one of the first to join the #sourcing team in Warsaw, Poland, to learn about that. Hear why she enjoys working in procurement and what we pay attention to when choosing #suppliers \ud83d\udc47 https://t.co/JzUrAglW0v"
+    }
+}

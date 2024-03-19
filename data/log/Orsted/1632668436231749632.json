@@ -1,0 +1,75 @@
+{
+    "1632668436231749632": {
+        "author_id": "2656316095",
+        "created_at": "2023-03-06T09:04:23.000Z",
+        "edit_history_tweet_ids": [
+            "1632668436231749632"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "Global Offshore Wind Alliance",
+                    "probability": 0.7969,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "GOWA",
+                    "probability": 0.344,
+                    "start": 87,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 28,
+                    "tag": "energy"
+                },
+                {
+                    "end": 132,
+                    "start": 119,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 246,
+                    "id": "1926360631",
+                    "start": 240,
+                    "username": "IRENA"
+                },
+                {
+                    "end": 251,
+                    "id": "84679163",
+                    "start": 247,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "orsted.com/en/media/newsr\u2026",
+                    "end": 275,
+                    "expanded_url": "https://orsted.com/en/media/newsroom/news/2023/03/13672668",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://orsted.com/en/media/news/2023/03/13672668",
+                    "url": "https://t.co/VqvvRSu6Bt"
+                }
+            ]
+        },
+        "id": "1632668436231749632",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 12875,
+            "like_count": 71,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 21
+        },
+        "text": "We\u2019re proud to be the first #energy company to join the Global Offshore Wind Alliance (GOWA) to speed up the growth of #offshorewind globally. We look forward to contributing with our knowledge, and we encourage our industry peers to join. @IRENA @IEA https://t.co/VqvvRSu6Bt"
+    }
+}

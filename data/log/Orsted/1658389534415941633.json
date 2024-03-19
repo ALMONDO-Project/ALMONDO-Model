@@ -1,0 +1,102 @@
+{
+    "1658389534415941633": {
+        "attachments": {
+            "media_keys": [
+                "7_1658386632540663809"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-05-16T08:30:51.000Z",
+        "edit_history_tweet_ids": [
+            "1658389534415941633"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Faye",
+                    "probability": 0.4691,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Spurn Point",
+                    "probability": 0.6404,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "UK",
+                    "probability": 0.9745,
+                    "start": 55,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Humber Estuary",
+                    "probability": 0.5719,
+                    "start": 109,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 92,
+                    "tag": "seagrass"
+                },
+                {
+                    "end": 246,
+                    "start": 234,
+                    "tag": "greenenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 158,
+                    "id": "338285900",
+                    "start": 144,
+                    "username": "LincsWildlife"
+                },
+                {
+                    "end": 177,
+                    "id": "83850186",
+                    "start": 163,
+                    "username": "YorksWildlife"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "orsted.com/en/who-we-are/\u2026",
+                    "end": 278,
+                    "expanded_url": "https://orsted.com/en/who-we-are/sustainability/sustainability-report",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://orsted.com/en/who-we-are/sustainability/sustainability-report",
+                    "url": "https://t.co/o6BPTDrHCJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/1CAvOrhnUS",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Orsted/status/1658389534415941633/video/1",
+                    "media_key": "7_1658386632540663809",
+                    "start": 280,
+                    "url": "https://t.co/1CAvOrhnUS"
+                }
+            ]
+        },
+        "id": "1658389534415941633",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7166,
+            "like_count": 39,
+            "quote_count": 3,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "Join our colleague Faye for a trip to Spurn Point, the UK, and see how we\u2019re restoring lost #seagrass in the Humber Estuary in partnership with @LincsWildlife and @YorksWildlife. \n\nLearn more about this project and how we're building #greenenergy right \ud83d\udc49 https://t.co/o6BPTDrHCJ. https://t.co/1CAvOrhnUS"
+    }
+}

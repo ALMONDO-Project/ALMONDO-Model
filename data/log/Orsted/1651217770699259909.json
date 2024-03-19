@@ -1,0 +1,49 @@
+{
+    "1651217770699259909": {
+        "author_id": "2656316095",
+        "created_at": "2023-04-26T13:32:49.000Z",
+        "edit_history_tweet_ids": [
+            "1651217770699259909"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "Europe",
+                    "probability": 0.9235,
+                    "start": 118,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 102,
+                    "start": 87,
+                    "tag": "PathToProgress"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "orsted.com/en/path-to-pro\u2026",
+                    "end": 209,
+                    "expanded_url": "https://orsted.com/en/path-to-progress",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://orsted.com/en/path-to-progress",
+                    "url": "https://t.co/AC4rtx8m01"
+                }
+            ]
+        },
+        "id": "1651217770699259909",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 798,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83e\uddf52/2 Because with collaboration, bold action, and new ideas, we can choose to open the #PathToProgress and accelerate Europe's green transformation. \n\nRead more in our new white paper \ud83d\udc47 https://t.co/AC4rtx8m01"
+    }
+}

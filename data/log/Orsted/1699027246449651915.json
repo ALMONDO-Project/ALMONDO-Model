@@ -1,0 +1,72 @@
+{
+    "1699027246449651915": {
+        "attachments": {
+            "media_keys": [
+                "7_1699026293533057024"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-09-05T11:50:36.000Z",
+        "edit_history_tweet_ids": [
+            "1699027246449651915"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 142,
+                    "normalized_text": "Horns Rev 1",
+                    "probability": 0.678,
+                    "start": 132,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Nysted",
+                    "probability": 0.6646,
+                    "start": 148,
+                    "type": "Place"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9627,
+                    "start": 158,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 124,
+                    "start": 111,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 278,
+                    "start": 262,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UE34oi6DKf",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Orsted/status/1699027246449651915/video/1",
+                    "media_key": "7_1699026293533057024",
+                    "start": 279,
+                    "url": "https://t.co/UE34oi6DKf"
+                }
+            ]
+        },
+        "id": "1699027246449651915",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 10730,
+            "like_count": 66,
+            "quote_count": 5,
+            "reply_count": 19,
+            "retweet_count": 18
+        },
+        "text": "20 years of offshore wind on a large scale!\nIt\u2019s been two decades since we built the world\u2019s first large-scale #offshorewind farms, Horns Rev 1 and Nysted in Denmark. \nMeet some of the pioneers who helped offshore wind on its way to becoming a mature technology #RenewableEnergy https://t.co/UE34oi6DKf"
+    }
+}

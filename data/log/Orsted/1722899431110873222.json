@@ -1,0 +1,64 @@
+{
+    "1722899431110873222": {
+        "author_id": "2656316095",
+        "created_at": "2023-11-10T08:50:08.000Z",
+        "edit_history_tweet_ids": [
+            "1722899431110873222"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "Technical University of Denmark",
+                    "probability": 0.885,
+                    "start": 56,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 98,
+                    "id": "294010596",
+                    "start": 89,
+                    "username": "DTUtweet"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A new research project at Anholt Offshore Wind Farm in Denmark aims to grow a number of less carbon-intensive foods while contributing to a healthier marine environment: To solve the climate crisis, we need to look at how we source our energy, but also at what we eat, as many foods emit large amounts of carbon dioxide during their production. Another goal of the project is to protect the marine environment, which is under tremendous pressure. Seaweed is highly effective at sequestering carbon dioxide and",
+                    "display_url": "orsted.com/en/media/newsr\u2026",
+                    "end": 239,
+                    "expanded_url": "https://orsted.com/en/media/newsroom/news/2023/11/seaweed-can-contribute-to-biodiversity-and-climate-friendly-foods",
+                    "images": [
+                        {
+                            "height": 677,
+                            "url": "https://pbs.twimg.com/news_img/1767552274392358913/Kx190LBc?format=jpg&name=orig",
+                            "width": 935
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1767552274392358913/Kx190LBc?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 216,
+                    "status": 200,
+                    "title": "Seaweed can contribute to biodiversity and climate-friendly foods: New project is only one in a string of innovation projects at Anholt Offshore Wind Farm",
+                    "unwound_url": "https://orsted.com/en/media/news/2023/11/seaweed-can-contribute-to-biodiversity-and-climate-friendly-foods",
+                    "url": "https://t.co/xsJl90BQDA"
+                }
+            ]
+        },
+        "id": "1722899431110873222",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1215,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Now, we\u2019re embarking on a new research project with the Technical University of Denmark, @DTUtweet: Growing less carbon-intensive foods while promoting a healthier marine environment.\n\nDiscover more on our website \ud83d\udc49 https://t.co/xsJl90BQDA"
+    }
+}

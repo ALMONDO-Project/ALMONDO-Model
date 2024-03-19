@@ -1,0 +1,109 @@
+{
+    "1697513791590678771": {
+        "attachments": {
+            "media_keys": [
+                "3_1697513751153369088",
+                "3_1697513751308611584",
+                "3_1697513751451152384",
+                "3_1697513751610601472"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-09-01T07:36:40.000Z",
+        "edit_history_tweet_ids": [
+            "1697513791590678771"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "OffshoreWind",
+                    "probability": 0.507,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Germany",
+                    "probability": 0.9119,
+                    "start": 82,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Gode Wind 3",
+                    "probability": 0.584,
+                    "start": 93,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Borkum Riffgrund",
+                    "probability": 0.483,
+                    "start": 155,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 60,
+                    "tag": "OffshoreWind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 275,
+                    "id": "715496678040711168",
+                    "start": 266,
+                    "username": "OrstedDE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/pXbXgDaXyw",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Orsted/status/1697513791590678771/photo/1",
+                    "media_key": "3_1697513751153369088",
+                    "start": 276,
+                    "url": "https://t.co/pXbXgDaXyw"
+                },
+                {
+                    "display_url": "pic.twitter.com/pXbXgDaXyw",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Orsted/status/1697513791590678771/photo/1",
+                    "media_key": "3_1697513751308611584",
+                    "start": 276,
+                    "url": "https://t.co/pXbXgDaXyw"
+                },
+                {
+                    "display_url": "pic.twitter.com/pXbXgDaXyw",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Orsted/status/1697513791590678771/photo/1",
+                    "media_key": "3_1697513751451152384",
+                    "start": 276,
+                    "url": "https://t.co/pXbXgDaXyw"
+                },
+                {
+                    "display_url": "pic.twitter.com/pXbXgDaXyw",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Orsted/status/1697513791590678771/photo/1",
+                    "media_key": "3_1697513751610601472",
+                    "start": 276,
+                    "url": "https://t.co/pXbXgDaXyw"
+                }
+            ]
+        },
+        "id": "1697513791590678771",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6283,
+            "like_count": 49,
+            "quote_count": 5,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "We've just installed the offshore substation at\u00a0Gode Wind 3 #OffshoreWind Farm\u00a0in Germany. \n\nGode Wind 3 will have a capacity of 253\u00a0MW,\u00a0and together with Borkum Riffgrund 3\u00a0it will\u00a0be able to supply the equivalent of 1.2 million German households with green power. @OrstedDE https://t.co/pXbXgDaXyw"
+    }
+}

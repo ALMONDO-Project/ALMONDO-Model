@@ -1,0 +1,46 @@
+{
+    "1709839967470366748": {
+        "attachments": {
+            "media_keys": [
+                "3_1709838786060812288"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-10-05T07:56:30.000Z",
+        "edit_history_tweet_ids": [
+            "1709839967470366748"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 236,
+                    "normalized_text": "German North Sea",
+                    "probability": 0.5877,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/uElG9rjVQI",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/Orsted/status/1709839967470366748/photo/1",
+                    "media_key": "3_1709838786060812288",
+                    "start": 239,
+                    "url": "https://t.co/uElG9rjVQI"
+                }
+            ]
+        },
+        "id": "1709839967470366748",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1049,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "The 97-metre rotor blades will later be attached to the nacelle, the heart of a wind turbine. With a rated output of 11 MW and a rotor diameter of 200 metres, the wind turbines will be the largest ever constructed in the German North Sea. https://t.co/uElG9rjVQI"
+    }
+}

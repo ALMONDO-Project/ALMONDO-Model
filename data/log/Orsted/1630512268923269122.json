@@ -1,0 +1,76 @@
+{
+    "1630512268923269122": {
+        "attachments": {
+            "media_keys": [
+                "3_1630511904652230656",
+                "3_1630511904664834048"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-02-28T10:16:33.000Z",
+        "edit_history_tweet_ids": [
+            "1630512268923269122"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "German North Sea",
+                    "probability": 0.5638,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Gode Wind 3",
+                    "probability": 0.8713,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "Borkum Riffgrund 3",
+                    "probability": 0.837,
+                    "start": 261,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 25,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/o0fncQAiMx",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Orsted/status/1630512268923269122/photo/1",
+                    "media_key": "3_1630511904652230656",
+                    "start": 281,
+                    "url": "https://t.co/o0fncQAiMx"
+                },
+                {
+                    "display_url": "pic.twitter.com/o0fncQAiMx",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Orsted/status/1630512268923269122/photo/1",
+                    "media_key": "3_1630511904664834048",
+                    "start": 281,
+                    "url": "https://t.co/o0fncQAiMx"
+                }
+            ]
+        },
+        "id": "1630512268923269122",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4029,
+            "like_count": 57,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Coming soon: Our two new #offshorewind farms in the German North Sea! The first foundations for Gode Wind 3 have just been shipped. They\u2019re 100 metres long, weigh up to 1,500 tonnes, and will be installed this summer. Soon, we\u2019ll also start the construction of Borkum Riffgrund 3. https://t.co/o0fncQAiMx"
+    }
+}

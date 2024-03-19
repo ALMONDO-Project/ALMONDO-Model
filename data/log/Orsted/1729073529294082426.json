@@ -1,0 +1,72 @@
+{
+    "1729073529294082426": {
+        "attachments": {
+            "media_keys": [
+                "3_1729073104414978048"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-11-27T09:43:48.000Z",
+        "edit_history_tweet_ids": [
+            "1729073529294082426"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "Saxony-Anhalt",
+                    "probability": 0.9263,
+                    "start": 93,
+                    "type": "Place"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "onshorewind",
+                    "probability": 0.4245,
+                    "start": 149,
+                    "type": "Place"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "II",
+                    "probability": 0.5116,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 5,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 160,
+                    "start": 148,
+                    "tag": "onshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7kAxkA0XwW",
+                    "end": 265,
+                    "expanded_url": "https://twitter.com/Orsted/status/1729073529294082426/photo/1",
+                    "media_key": "3_1729073104414978048",
+                    "start": 242,
+                    "url": "https://t.co/7kAxkA0XwW"
+                }
+            ]
+        },
+        "id": "1729073529294082426",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2380,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 4
+        },
+        "text": "\ud83e\uddf51/3 #DYK that it\u2019s possible to repower old wind turbines? That\u2019s exactly what we\u2019ve done in Saxony-Anhalt in\u00a0Germany,\u00a0where we\u2019ve commissioned the\u00a0#onshorewind farm\u00a0Wansleben Repowering II, a new repowering project with\u00a0a capacity of\u00a017 MW. https://t.co/7kAxkA0XwW"
+    }
+}

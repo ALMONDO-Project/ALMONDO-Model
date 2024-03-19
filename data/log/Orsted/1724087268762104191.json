@@ -1,0 +1,75 @@
+{
+    "1724087268762104191": {
+        "attachments": {
+            "media_keys": [
+                "7_1724086223168294914"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-11-13T15:30:11.000Z",
+        "edit_history_tweet_ids": [
+            "1724087268762104191"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "North Sea",
+                    "probability": 0.8271,
+                    "start": 77,
+                    "type": "Place"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Gode Wind 3",
+                    "probability": 0.8716,
+                    "start": 134,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "OffshoreWind Farm",
+                    "probability": 0.5913,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 146,
+                    "tag": "OffshoreWind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 279,
+                    "id": "3309030861",
+                    "start": 265,
+                    "username": "jandenulgroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jVWVJzB6wH",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Orsted/status/1724087268762104191/video/1",
+                    "media_key": "7_1724086223168294914",
+                    "start": 280,
+                    "url": "https://t.co/jVWVJzB6wH"
+                }
+            ]
+        },
+        "id": "1724087268762104191",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2526,
+            "like_count": 33,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 9
+        },
+        "text": "Have you been following the developments at our two German wind farms in the North Sea? In September, we installed the substation for Gode Wind 3 #OffshoreWind Farm. \n\nOur installation team have been diligently filming, and we\u2019re glad they did! Check out the video\ud83d\udc47@jandenulgroup https://t.co/jVWVJzB6wH"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1630514526998216705": {
+        "author_id": "2656316095",
+        "created_at": "2023-02-28T10:25:31.000Z",
+        "edit_history_tweet_ids": [
+            "1630514526998216705"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "\u00d8rsted",
+                    "probability": 0.4696,
+                    "start": 68,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "3027137405",
+                    "start": 15,
+                    "username": "OCNJVacation"
+                },
+                {
+                    "end": 45,
+                    "id": "1468677099594698757",
+                    "start": 29,
+                    "username": "Congressman_JVD"
+                },
+                {
+                    "end": 56,
+                    "id": "948946378939609089",
+                    "start": 46,
+                    "username": "GovMurphy"
+                },
+                {
+                    "end": 63,
+                    "id": "1208995453",
+                    "start": 57,
+                    "username": "NJBPU"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Renewable energy and biodiversity are critical to the future of life on earth. Find out why the global energy transition must be delivered in harmony with nature.",
+                    "display_url": "orsted.com/en/sustainabil\u2026",
+                    "end": 267,
+                    "expanded_url": "https://orsted.com/en/sustainability/our-priorities/nature/biodiversity",
+                    "images": [
+                        {
+                            "height": 627,
+                            "url": "https://pbs.twimg.com/news_img/1710043465625591808/kU34FM6S?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1710043465625591808/kU34FM6S?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 244,
+                    "status": 200,
+                    "title": "What is Biodiversity & How Are We Protecting It? | \u00d8rsted",
+                    "unwound_url": "https://orsted.com/en/who-we-are/sustainability/nature/net-positive-biodiversity-impact",
+                    "url": "https://t.co/ax4GOsd4C1"
+                }
+            ]
+        },
+        "id": "1630514526998216705",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 41,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@MaskdMarauder @OCNJVacation @Congressman_JVD @GovMurphy @NJBPU 4/4 \u00d8rsted has not experienced any whale strikes during offshore survey activity globally. We prioritise coexistence with our communities and marine wildlife. To learn more, visit https://t.co/ax4GOsd4C1."
+    }
+}

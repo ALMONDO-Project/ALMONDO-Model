@@ -1,0 +1,66 @@
+{
+    "1668977949503004679": {
+        "author_id": "2656316095",
+        "created_at": "2023-06-14T13:45:25.000Z",
+        "edit_history_tweet_ids": [
+            "1668977949503004679"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "UK",
+                    "probability": 0.9748,
+                    "start": 106,
+                    "type": "Place"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9713,
+                    "start": 115,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 25,
+                    "tag": "greenenergy"
+                },
+                {
+                    "end": 134,
+                    "start": 123,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 253,
+                    "start": 242,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "orsted.co.uk/insights/exper\u2026",
+                    "end": 241,
+                    "expanded_url": "https://orsted.co.uk/insights/expert-take/innovation",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://orsted.co.uk/insights/expert-take/innovation",
+                    "url": "https://t.co/Z4NPJ3nEdG"
+                }
+            ]
+        },
+        "id": "1668977949503004679",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1708,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Innovation is key to the #greenenergy transition. We\u2019re taking it one step further with the launch of our UK &amp; Ireland #Innovation Hub today \u2013 co-ordinating local action for the global green transition. Read more: https://t.co/Z4NPJ3nEdG #renewables"
+    }
+}

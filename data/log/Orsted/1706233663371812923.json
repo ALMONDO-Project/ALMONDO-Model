@@ -1,0 +1,66 @@
+{
+    "1706233663371812923": {
+        "attachments": {
+            "media_keys": [
+                "7_1706232351578112000"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-09-25T09:06:20.000Z",
+        "edit_history_tweet_ids": [
+            "1706233663371812923"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "ClimateWeekNYC",
+                    "probability": 0.67,
+                    "start": 34,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 33,
+                    "tag": "ClimateWeekNYC"
+                },
+                {
+                    "end": 77,
+                    "start": 61,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "3052604686",
+                    "start": 17,
+                    "username": "NipperMads"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OzzFgtbJ0F",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Orsted/status/1706233663371812923/video/1",
+                    "media_key": "7_1706232351578112000",
+                    "start": 277,
+                    "url": "https://t.co/OzzFgtbJ0F"
+                }
+            ]
+        },
+        "id": "1706233663371812923",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3106,
+            "like_count": 30,
+            "quote_count": 2,
+            "reply_count": 7,
+            "retweet_count": 7
+        },
+        "text": "The message from @NipperMads, at #ClimateWeekNYC was clear - #renewableenergy is the only real alternative to fossil fuels, but it needs a different path. As we stand in front of a global\u00a0scale-up\u00a0journey for renewables, the industry and the governments need to work together. https://t.co/OzzFgtbJ0F"
+    }
+}

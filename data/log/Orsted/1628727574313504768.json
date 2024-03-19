@@ -1,0 +1,66 @@
+{
+    "1628727574313504768": {
+        "author_id": "2656316095",
+        "created_at": "2023-02-23T12:04:48.000Z",
+        "edit_history_tweet_ids": [
+            "1628727574313504768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "Ocean Decade Corporate Data Group",
+                    "probability": 0.9191,
+                    "start": 31,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 176,
+                    "tag": "ocean"
+                },
+                {
+                    "end": 228,
+                    "start": 215,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 87,
+                    "id": "2876797595",
+                    "start": 77,
+                    "username": "IocUnesco"
+                },
+                {
+                    "end": 98,
+                    "id": "4062198749",
+                    "start": 92,
+                    "username": "fugro"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/UNOceanDecade/\u2026",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/UNOceanDecade/status/1628364118297026561",
+                    "start": 275,
+                    "url": "https://t.co/kPesLbeo2h"
+                }
+            ]
+        },
+        "id": "1628727574313504768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2790,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We\u2019re a founding member of the Ocean Decade Corporate Data Group launched by @IocUnesco and @Fugro. Our goal is to unlock the potential of ocean data to support advancement of #ocean science and understand what the #offshorewind industry can do in its role as ocean steward. https://t.co/kPesLbeo2h"
+    }
+}

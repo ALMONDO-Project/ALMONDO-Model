@@ -1,0 +1,60 @@
+{
+    "1660650331913551873": {
+        "author_id": "2656316095",
+        "created_at": "2023-05-22T14:14:27.000Z",
+        "edit_history_tweet_ids": [
+            "1660650331913551873"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "Asia Action Summit",
+                    "probability": 0.9336,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 121,
+                    "start": 105,
+                    "tag": "renewableenergy"
+                },
+                {
+                    "end": 241,
+                    "start": 227,
+                    "tag": "climateaction"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 39,
+                    "id": "21866534",
+                    "start": 26,
+                    "username": "ClimateGroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ClimateGroup/s\u2026",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/ClimateGroup/status/1659628512397934606",
+                    "start": 278,
+                    "url": "https://t.co/271MO7AHOy"
+                }
+            ]
+        },
+        "id": "1660650331913551873",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2098,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re thrilled to support @ClimateGroup\u2019s Asia Action Summit, bringing together representatives from the #renewableenergy industry and green steel initiatives. Together, we\u2019ll address challenges and identify pathways to bolder #climateaction in the industry and energy systems. https://t.co/271MO7AHOy"
+    }
+}

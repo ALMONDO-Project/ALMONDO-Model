@@ -1,0 +1,95 @@
+{
+    "1622918731323113472": {
+        "attachments": {
+            "media_keys": [
+                "7_1622918493086572545"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-02-07T11:22:32.000Z",
+        "edit_history_tweet_ids": [
+            "1622918731323113472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Germany",
+                    "probability": 0.9799,
+                    "start": 19,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Europe",
+                    "probability": 0.9368,
+                    "start": 132,
+                    "type": "Place"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Europe",
+                    "probability": 0.9539,
+                    "start": 194,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 73,
+                    "start": 60,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 97,
+                    "start": 85,
+                    "tag": "onshorewind"
+                },
+                {
+                    "end": 125,
+                    "start": 113,
+                    "tag": "solarenergy"
+                },
+                {
+                    "end": 265,
+                    "start": 249,
+                    "tag": "decarbonisation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 276,
+                    "id": "715496678040711168",
+                    "start": 267,
+                    "username": "OrstedDE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Cp7BLLkg1s",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Orsted/status/1622918731323113472/video/1",
+                    "media_key": "7_1622918493086572545",
+                    "start": 277,
+                    "url": "https://t.co/Cp7BLLkg1s"
+                }
+            ]
+        },
+        "id": "1622918731323113472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 3776,
+            "like_count": 26,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "#DYK that by 2030, Germany wants to have installed 30 GW of #offshorewind, 115 GW of #onshorewind, and 215 GW of #solarenergy? \n\nAs Europe\u2019s largest economy, the country plays a central role in Europe\u2019s transformation towards climate neutrality and #decarbonisation. @OrstedDE https://t.co/Cp7BLLkg1s"
+    }
+}

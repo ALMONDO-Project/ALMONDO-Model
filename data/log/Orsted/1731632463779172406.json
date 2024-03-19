@@ -1,0 +1,45 @@
+{
+    "1731632463779172406": {
+        "author_id": "2656316095",
+        "created_at": "2023-12-04T11:12:06.000Z",
+        "edit_history_tweet_ids": [
+            "1731632463779172406"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Lars Aagaard",
+                    "probability": 0.7783,
+                    "start": 13,
+                    "type": "Person"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "S\u00f8ren Friis Trebbien",
+                    "probability": 0.4823,
+                    "start": 86,
+                    "type": "Person"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Damm",
+                    "probability": 0.7094,
+                    "start": 118,
+                    "type": "Person"
+                }
+            ]
+        },
+        "id": "1731632463779172406",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 659,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Thank you to Lars Aagaard, Danish Minister of Climate, Energy &amp; Utilities, and to S\u00f8ren Friis Trebbien and Martin Damm, mayors of the two hosting municipalities, for joining our groundbreaking ceremony."
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "1704073370931810314": {
+        "attachments": {
+            "media_keys": [
+                "7_1704072622877577216"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-09-19T10:02:06.000Z",
+        "edit_history_tweet_ids": [
+            "1704073370931810314"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "WorldBiodiversitySummit",
+                    "probability": 0.7658,
+                    "start": 12,
+                    "type": "Other"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "\u00d8rsted",
+                    "probability": 0.6476,
+                    "start": 53,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 11,
+                    "tag": "WorldBiodiversitySummit"
+                },
+                {
+                    "end": 161,
+                    "start": 145,
+                    "tag": "renewableenergy"
+                },
+                {
+                    "end": 219,
+                    "start": 206,
+                    "tag": "biodiversity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 123,
+                    "id": "29171453",
+                    "start": 113,
+                    "username": "rasmusskv"
+                },
+                {
+                    "end": 283,
+                    "id": "100189549",
+                    "start": 274,
+                    "username": "wclimate"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "worldbiodiversitysummit.org/digital-regist\u2026",
+                    "end": 273,
+                    "expanded_url": "https://www.worldbiodiversitysummit.org/digital-registration",
+                    "start": 250,
+                    "status": 200,
+                    "unwound_url": "https://www.worldbiodiversitysummit.org/digital-registration",
+                    "url": "https://t.co/kfStQ9GWWj"
+                },
+                {
+                    "display_url": "pic.twitter.com/tAogscsu7Q",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Orsted/status/1704073370931810314/video/1",
+                    "media_key": "7_1704072622877577216",
+                    "start": 284,
+                    "url": "https://t.co/tAogscsu7Q"
+                }
+            ]
+        },
+        "id": "1704073370931810314",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1017,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Join us at #WorldBiodiversitySummit on 21 September. \u00d8rsted\u2019s Head of Global External Affairs &amp; Positioning, @rasmusskv, will talk about how #renewableenergy can be a force for good for the climate and #biodiversity. Register for the livestream: https://t.co/kfStQ9GWWj @wclimate https://t.co/tAogscsu7Q"
+    }
+}

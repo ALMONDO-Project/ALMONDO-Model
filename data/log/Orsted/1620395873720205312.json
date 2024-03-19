@@ -1,0 +1,68 @@
+{
+    "1620395873720205312": {
+        "attachments": {
+            "media_keys": [
+                "3_1620395690357653504"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-01-31T12:17:36.000Z",
+        "edit_history_tweet_ids": [
+            "1620395873720205312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "offshorewind",
+                    "probability": 0.5014,
+                    "start": 57,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 56,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "41167959",
+                    "start": 26,
+                    "username": "thecarbontrust"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "orsted.com/en/media/newsr\u2026",
+                    "end": 253,
+                    "expanded_url": "https://orsted.com/en/media/newsroom/news/2023/01/13669572",
+                    "start": 230,
+                    "url": "https://t.co/Q66xjYsZ4j"
+                },
+                {
+                    "display_url": "pic.twitter.com/w40aOw9jVn",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/Orsted/status/1620395873720205312/photo/1",
+                    "media_key": "3_1620395690357653504",
+                    "start": 254,
+                    "url": "https://t.co/w40aOw9jVn"
+                }
+            ]
+        },
+        "id": "1620395873720205312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2211,
+            "like_count": 16,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re joining forces with @thecarbontrust and ten other #offshorewind developers to develop the first industry-backed standard for measuring carbon emissions associated with offshore wind farms throughout their entire life cycle. https://t.co/Q66xjYsZ4j https://t.co/w40aOw9jVn"
+    }
+}

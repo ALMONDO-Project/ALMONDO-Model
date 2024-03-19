@@ -1,0 +1,48 @@
+{
+    "1702241218602676442": {
+        "author_id": "2656316095",
+        "created_at": "2023-09-14T08:41:47.000Z",
+        "edit_history_tweet_ids": [
+            "1702241218602676442"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "\u00d8rsted",
+                    "probability": 0.56,
+                    "start": 10,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 49,
+                    "tag": "renewableenergy"
+                },
+                {
+                    "end": 250,
+                    "start": 242,
+                    "tag": "climate"
+                },
+                {
+                    "end": 268,
+                    "start": 255,
+                    "tag": "biodiversity"
+                }
+            ]
+        },
+        "id": "1702241218602676442",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4612,
+            "like_count": 31,
+            "quote_count": 5,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "\ud83d\udce3 Our new \u00d8rsted paper is here! \n\nAs we scale up #renewableenergy, we must do it in a way that not only helps halt climate-driven biodiversity loss, but also actively contributes to nature restoration. \n\nFind out more about uniting action on #climate and #biodiversity \ud83d\udc47"
+    }
+}

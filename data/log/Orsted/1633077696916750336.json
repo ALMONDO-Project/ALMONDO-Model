@@ -1,0 +1,39 @@
+{
+    "1633077696916750336": {
+        "author_id": "2656316095",
+        "created_at": "2023-03-07T12:10:38.000Z",
+        "edit_history_tweet_ids": [
+            "1633077696916750336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 120,
+                    "normalized_text": "National Marine Fisheries Service",
+                    "probability": 0.7098,
+                    "start": 88,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1020009385798635525",
+                    "start": 0,
+                    "username": "TheIronynj"
+                }
+            ]
+        },
+        "id": "1633077696916750336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 38,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TheIronynj 2/3 The strandings are part of an \u201cunusual mortality event\u201d declared by the National Marine Fisheries Service in 2016. The commission said the number of whale strandings is not unusual. Ten or more humpback whales have stranded each year since 2016, with a high of 34 in 2017."
+    }
+}

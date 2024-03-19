@@ -1,0 +1,85 @@
+{
+    "1694274480242061512": {
+        "attachments": {
+            "media_keys": [
+                "7_1694273502302388225"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-08-23T09:04:48.000Z",
+        "edit_history_tweet_ids": [
+            "1694274480242061512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "TED Talk",
+                    "probability": 0.6294,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Olivia Breese",
+                    "probability": 0.6557,
+                    "start": 50,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 150,
+                    "start": 140,
+                    "tag": "emissions"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 36,
+                    "id": "1194666706779738113",
+                    "start": 23,
+                    "username": "TEDCountdown"
+                },
+                {
+                    "end": 277,
+                    "id": "15492359",
+                    "start": 268,
+                    "username": "TEDTalks"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The key to revolutionizing the world's energy landscape may lie in an unlikely love story, says energy innovator Olivia Breese. She details the fateful marriage of a green electron and a water molecule -- a powerful source of carbon-free, sustainable energy -- and calls for universal investment in this potentially transformative resource. \"A world which runs entirely on green energy, it's not a luxury. It's a necessity,\" she says.",
+                    "display_url": "ted.com/talks/olivia_b\u2026",
+                    "end": 255,
+                    "expanded_url": "https://www.ted.com/talks/olivia_breese_the_molecular_love_story_that_could_help_power_the_world",
+                    "start": 232,
+                    "status": 200,
+                    "title": "The molecular love story that could help power the world",
+                    "unwound_url": "https://www.ted.com/talks/olivia_breese_the_molecular_love_story_that_could_help_power_the_world",
+                    "url": "https://t.co/fYsJDVx7Xh"
+                },
+                {
+                    "display_url": "pic.twitter.com/hWNw7jGaws",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Orsted/status/1694274480242061512/video/1",
+                    "media_key": "7_1694273502302388225",
+                    "start": 279,
+                    "url": "https://t.co/hWNw7jGaws"
+                }
+            ]
+        },
+        "id": "1694274480242061512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 4413,
+            "like_count": 36,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 7
+        },
+        "text": "In her TED Talk at the @TEDCountdown Summit 2023, Olivia Breese, our Head of Power-to-X, stressed the urgency to scale up e-fuels to tackle #emissions from hard-to-electrify sectors like shipping and aviation. Watch the full talk \ud83d\udc49 https://t.co/fYsJDVx7Xh\n\nThank you, @TEDTalks! https://t.co/hWNw7jGaws"
+    }
+}

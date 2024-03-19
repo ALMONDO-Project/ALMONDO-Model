@@ -1,0 +1,76 @@
+{
+    "1663446175985422337": {
+        "author_id": "2656316095",
+        "created_at": "2023-05-30T07:24:08.000Z",
+        "edit_history_tweet_ids": [
+            "1663446175985422337"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "Asia Action Summit",
+                    "probability": 0.7949,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Mie Prehn Nygaard",
+                    "probability": 0.8168,
+                    "start": 106,
+                    "type": "Person"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Decarbonisation",
+                    "probability": 0.479,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "\u00d8rsted",
+                    "probability": 0.6583,
+                    "start": 152,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 221,
+                    "start": 205,
+                    "tag": "decarbonisation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 182,
+                    "id": "21866534",
+                    "start": 169,
+                    "username": "ClimateGroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ClimateGroup/s\u2026",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/ClimateGroup/status/1663198748330033156",
+                    "start": 231,
+                    "url": "https://t.co/8ydRCtYvPO"
+                }
+            ]
+        },
+        "id": "1663446175985422337",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2192,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Do you want to know how we\u2019re reducing emissions across our supply chains? \n\nAhead of Asia Action Summit, Mie Prehn Nygaard, Decarbonisation Manager at \u00d8rsted, answered @ClimateGroup\u2019s questions about our #decarbonisation efforts. https://t.co/8ydRCtYvPO"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1737800000392823116": {
+        "attachments": {
+            "media_keys": [
+                "7_1737799426075213824"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-12-21T11:39:41.000Z",
+        "edit_history_tweet_ids": [
+            "1737800000392823116"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Altenschwand Solar Farm",
+                    "probability": 0.5204,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "Germany",
+                    "probability": 0.9771,
+                    "start": 53,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/LqLEeZmo9m",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Orsted/status/1737800000392823116/video/1",
+                    "media_key": "7_1737799426075213824",
+                    "start": 281,
+                    "url": "https://t.co/LqLEeZmo9m"
+                }
+            ]
+        },
+        "id": "1737800000392823116",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2194,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Altenschwand Solar Farm turns one!\nOur solar farm in Germany was commissioned in November 2022, and it only took three months to construct it. It consists of 18,972 solar modules, and with a capacity of 10,434 MWp, it produces enough energy to power the equivalent of 3,800 homes. https://t.co/LqLEeZmo9m"
+    }
+}

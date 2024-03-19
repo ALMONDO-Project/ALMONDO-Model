@@ -1,0 +1,81 @@
+{
+    "1623618080889884672": {
+        "author_id": "2656316095",
+        "created_at": "2023-02-09T09:41:30.000Z",
+        "edit_history_tweet_ids": [
+            "1623618080889884672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Europe",
+                    "probability": 0.9768,
+                    "start": 65,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 11,
+                    "tag": "solar"
+                },
+                {
+                    "end": 27,
+                    "start": 22,
+                    "tag": "wind"
+                },
+                {
+                    "end": 86,
+                    "start": 74,
+                    "tag": "electricity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 165,
+                    "id": "1207638939277955072",
+                    "start": 152,
+                    "username": "EmberClimate"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Solar and wind power generated a fifth of Europe\u2019s electricity in 2022, overtaking gas for the first time. Here\u2019s what that means for energy transition.",
+                    "display_url": "weforum.org/agenda/2023/01\u2026",
+                    "end": 280,
+                    "expanded_url": "https://www.weforum.org/agenda/2023/01/renewable-energy-electricity-record-europe/",
+                    "images": [
+                        {
+                            "height": 517,
+                            "url": "https://pbs.twimg.com/news_img/1769084318045892609/lkk-qiz7?format=png&name=orig",
+                            "width": 753
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1769084318045892609/lkk-qiz7?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 257,
+                    "status": 200,
+                    "title": "Wind and solar power generated more electricity in the EU last year than gas did. Here\u2019s how",
+                    "unwound_url": "https://www.weforum.org/agenda/2023/01/renewable-energy-electricity-record-europe/",
+                    "url": "https://t.co/Rr0AjjzvCs"
+                }
+            ]
+        },
+        "id": "1623618080889884672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2005,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Last year, #solar and #wind power generated more than a fifth of Europe\u2019s #electricity, overtaking gas for the first time, according to a new report by @EmberClimate. \nHowever, to reach our targets, we need an even faster growth in renewables. Read more \u2b07\ufe0f https://t.co/Rr0AjjzvCs"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1613126868634312704": {
+        "author_id": "2656316095",
+        "created_at": "2023-01-11T10:53:10.000Z",
+        "edit_history_tweet_ids": [
+            "1613126868634312704"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 139,
+                    "normalized_text": "Julie",
+                    "probability": 0.4908,
+                    "start": 135,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1491012954036355075",
+                    "start": 0,
+                    "username": "okons892"
+                }
+            ]
+        },
+        "id": "1613126868634312704",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 26,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@okons892 Thank you very much for reporting this to us. We're aware of the website and have taken the necessary actions. Kind regards, Julie."
+    }
+}

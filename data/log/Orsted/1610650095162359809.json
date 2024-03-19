@@ -1,0 +1,46 @@
+{
+    "1610650095162359809": {
+        "author_id": "2656316095",
+        "created_at": "2023-01-04T14:51:21.000Z",
+        "edit_history_tweet_ids": [
+            "1610650095162359809"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 104,
+                    "normalized_text": "London Array Offshore Wind Farm",
+                    "probability": 0.5178,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "UK",
+                    "probability": 0.9473,
+                    "start": 124,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "123816529",
+                    "start": 0,
+                    "username": "Masdar"
+                }
+            ]
+        },
+        "id": "1610650095162359809",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 724,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@Masdar What an impact! We\u2019re proud to be a long-standing partner for the London Array Offshore Wind Farm, helping to power UK homes with renewable energy and supporting local communities. Let\u2019s keep accelerating the renewable transition \ud83d\udcaa"
+    }
+}

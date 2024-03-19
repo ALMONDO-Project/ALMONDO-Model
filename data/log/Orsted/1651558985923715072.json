@@ -1,0 +1,53 @@
+{
+    "1651558985923715072": {
+        "attachments": {
+            "media_keys": [
+                "3_1651558188552953857"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-04-27T12:08:41.000Z",
+        "edit_history_tweet_ids": [
+            "1651558985923715072"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "\u00d8rsted",
+                    "probability": 0.2642,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "NGOs",
+                    "probability": 0.5549,
+                    "start": 123,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/e61RGOBwax",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Orsted/status/1651558985923715072/photo/1",
+                    "media_key": "3_1651558188552953857",
+                    "start": 278,
+                    "url": "https://t.co/e61RGOBwax"
+                }
+            ]
+        },
+        "id": "1651558985923715072",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1163,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "\ud83e\uddf5 2/3 She added: \u201cAt \u00d8rsted, we\u2019re already working hard to deliver net-positive biodiversity impact. We\u2019re partnering with NGOs to find the best restoration measures that can be developed at scale. We can achieve so much more for society, and do it faster, if we act together.\u201d https://t.co/e61RGOBwax"
+    }
+}

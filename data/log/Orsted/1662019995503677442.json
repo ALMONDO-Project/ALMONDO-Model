@@ -1,0 +1,61 @@
+{
+    "1662019995503677442": {
+        "author_id": "2656316095",
+        "created_at": "2023-05-26T08:57:00.000Z",
+        "edit_history_tweet_ids": [
+            "1662019995503677442"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 110,
+                    "normalized_text": "South Fork Wind",
+                    "probability": 0.5868,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "South Fork Wind",
+                    "probability": 0.5779,
+                    "start": 126,
+                    "type": "Other"
+                },
+                {
+                    "end": 225,
+                    "normalized_text": "US",
+                    "probability": 0.9513,
+                    "start": 224,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 49,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/OrstedUS/statu\u2026",
+                    "end": 251,
+                    "expanded_url": "https://twitter.com/OrstedUS/status/1661758141313196032",
+                    "start": 228,
+                    "url": "https://t.co/E14qDTzeJ6"
+                }
+            ]
+        },
+        "id": "1662019995503677442",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3297,
+            "like_count": 27,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "History in the making\ud83d\udce3\n\nThe first American-built #offshorewind substation is on its\u2019 way to our South Fork Wind project site. South Fork Wind is on track to become the first completed utility-scale offshore wind farm in the US. https://t.co/E14qDTzeJ6"
+    }
+}

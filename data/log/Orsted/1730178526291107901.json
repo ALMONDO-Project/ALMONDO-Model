@@ -1,0 +1,82 @@
+{
+    "1730178526291107901": {
+        "attachments": {
+            "media_keys": [
+                "3_1730178260867133440",
+                "3_1730178261269794816"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-11-30T10:54:40.000Z",
+        "edit_history_tweet_ids": [
+            "1730178526291107901"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 215,
+                    "normalized_text": "COP28",
+                    "probability": 0.8642,
+                    "start": 211,
+                    "type": "Other"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "Dubai",
+                    "probability": 0.9919,
+                    "start": 233,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 216,
+                    "start": 210,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 262,
+                    "start": 249,
+                    "tag": "3xrenewables"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 162,
+                    "id": "807095",
+                    "start": 154,
+                    "username": "nytimes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/f3GGKPYOPs",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Orsted/status/1730178526291107901/photo/1",
+                    "media_key": "3_1730178260867133440",
+                    "start": 263,
+                    "url": "https://t.co/f3GGKPYOPs"
+                },
+                {
+                    "display_url": "pic.twitter.com/f3GGKPYOPs",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Orsted/status/1730178526291107901/photo/1",
+                    "media_key": "3_1730178261269794816",
+                    "start": 263,
+                    "url": "https://t.co/f3GGKPYOPs"
+                }
+            ]
+        },
+        "id": "1730178526291107901",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1167,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "\ud83e\uddf52/2 Tripling the target is just the beginning. We all need to work together on how to get there. \n\nWith that message, we\u2019ve taken over the front page of @nytimes, which will be distributed to the thousands of #COP28 participants in Dubai tomorrow. #3xrenewables https://t.co/f3GGKPYOPs"
+    }
+}

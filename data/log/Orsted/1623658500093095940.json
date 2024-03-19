@@ -1,0 +1,65 @@
+{
+    "1623658500093095940": {
+        "attachments": {
+            "media_keys": [
+                "3_1623657942338658304"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-02-09T12:22:07.000Z",
+        "edit_history_tweet_ids": [
+            "1623658500093095940"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "Borssele",
+                    "probability": 0.5984,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.9847,
+                    "start": 164,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 268,
+                    "start": 255,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/QxipfSJkY7",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Orsted/status/1623658500093095940/photo/1",
+                    "media_key": "3_1623657942338658304",
+                    "start": 269,
+                    "url": "https://t.co/QxipfSJkY7"
+                }
+            ]
+        },
+        "id": "1623658500093095940",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2954,
+            "like_count": 23,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "#DYK that the distance from sea level to the nacelles of our Borssele 1 &amp; 2 wind turbines is 116 metres? \n\nIt takes about 10 minutes for our technicians in the Netherlands to get all the way to the top \u2013 luckily, there's an elevator inside the tower. #offshorewind https://t.co/QxipfSJkY7"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1651558989027475457": {
+        "author_id": "2656316095",
+        "created_at": "2023-04-27T12:08:42.000Z",
+        "edit_history_tweet_ids": [
+            "1651558989027475457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Offshore Coalition",
+                    "probability": 0.459,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "OCEaN",
+                    "probability": 0.3481,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "EU",
+                    "probability": 0.9178,
+                    "start": 113,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 152,
+                    "start": 141,
+                    "tag": "ecological"
+                },
+                {
+                    "end": 178,
+                    "start": 165,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "OCEaN is launching a statement today encouraging all European Member States to make full use of ecological non-price criteria for the design of offshore wind farm auctions. The launch is part of a workshop at WindEurope\u2019s Annual Event in Copenhagen, which OCEaN jointly organised with WindEurope and the Renewables Grid Initiative.",
+                    "display_url": "offshore-coalition.eu/news/ocean-sta\u2026",
+                    "end": 234,
+                    "expanded_url": "https://offshore-coalition.eu/news/ocean-statement-on-ecological-criteria-in-offshore-wind-farm-auctions",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1716442215348568064/Vrs8Teka?format=png&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716442215348568064/Vrs8Teka?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 211,
+                    "status": 200,
+                    "title": "OCEaN Statement on ecological criteria in offshore wind farm auctions",
+                    "unwound_url": "https://offshore-coalition.eu/news/ocean-statement-on-ecological-criteria-in-offshore-wind-farm-auctions",
+                    "url": "https://t.co/sApvIL4xNN"
+                }
+            ]
+        },
+        "id": "1651558989027475457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 947,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83e\uddf5 3/3 That\u2019s why we\u2019re joining fellow members of the Offshore Coalition for Energy and Nature (OCEaN) to call on EU member states to include #ecological criteria in #offshorewind farm auctions. Read more here \ud83d\udc49 https://t.co/sApvIL4xNN."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1721500614083932206": {
+        "attachments": {
+            "media_keys": [
+                "3_1721497893301833728"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-11-06T12:11:44.000Z",
+        "edit_history_tweet_ids": [
+            "1721500614083932206"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Changhua",
+                    "probability": 0.6119,
+                    "start": 70,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Taiwan",
+                    "probability": 0.983,
+                    "start": 91,
+                    "type": "Place"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "Taiwan",
+                    "probability": 0.9862,
+                    "start": 181,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 169,
+                    "start": 156,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/88jiEfZQn2",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Orsted/status/1721500614083932206/photo/1",
+                    "media_key": "3_1721497893301833728",
+                    "start": 280,
+                    "url": "https://t.co/88jiEfZQn2"
+                }
+            ]
+        },
+        "id": "1721500614083932206",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 8630,
+            "like_count": 72,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 13
+        },
+        "text": "We\u2019ve reached over 100 installed wind turbines for the 900 MW Greater Changhua 1 and 2a in Taiwan, with less than ten turbines to go! This is currently the #offshorewind project in Taiwan with the highest number of installed wind turbines and the largest grid-connected capacity. https://t.co/88jiEfZQn2"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1676910069294718976": {
+        "author_id": "2656316095",
+        "created_at": "2023-07-06T11:04:50.000Z",
+        "edit_history_tweet_ids": [
+            "1676910069294718976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Edinburgh",
+                    "probability": 0.9799,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "London",
+                    "probability": 0.982,
+                    "start": 39,
+                    "type": "Place"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "Chicago",
+                    "probability": 0.9734,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Pride Month",
+                    "probability": 0.5951,
+                    "start": 119,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1676910069294718976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1426,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Powered by Pride! \ud83c\udf89\n\nFrom Edinburgh to London to Chicago, we\u2019ve joined Pride parades across our locations to celebrate Pride Month and help spread its spirit of inclusion, hope, and diversity. More events still to come this summer, so make sure to join us if you\u2019re in the area!"
+    }
+}

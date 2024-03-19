@@ -1,0 +1,80 @@
+{
+    "1650476444319993858": {
+        "attachments": {
+            "media_keys": [
+                "7_1650475418753945601"
+            ]
+        },
+        "author_id": "2656316095",
+        "created_at": "2023-04-24T12:27:03.000Z",
+        "edit_history_tweet_ids": [
+            "1650476444319993858"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "WindEurope2023",
+                    "probability": 0.6893,
+                    "start": 12,
+                    "type": "Other"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Copenhagen",
+                    "probability": 0.9647,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Europe",
+                    "probability": 0.9648,
+                    "start": 140,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 11,
+                    "tag": "WindEurope2023"
+                },
+                {
+                    "end": 228,
+                    "start": 213,
+                    "tag": "PathToProgress"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 53,
+                    "id": "39255883",
+                    "start": 42,
+                    "username": "WindEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/HepracCB79",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/Orsted/status/1650476444319993858/video/1",
+                    "media_key": "7_1650475418753945601",
+                    "start": 247,
+                    "url": "https://t.co/HepracCB79"
+                }
+            ]
+        },
+        "id": "1650476444319993858",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1994,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Meet us at #WindEurope2023!\n\nOn 25 April, @WindEurope's annual conference kicks off in Copenhagen. We'll be there to discuss how to advance Europe's green energy transition and break down the barriers to open the #PathToProgress. See you there! \ud83d\udc4b https://t.co/HepracCB79"
+    }
+}
