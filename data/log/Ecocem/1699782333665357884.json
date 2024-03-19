@@ -1,0 +1,87 @@
+{
+    "1699782333665357884": {
+        "author_id": "21325242",
+        "created_at": "2023-09-07T13:51:03.000Z",
+        "edit_history_tweet_ids": [
+            "1699782333665357884"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 161,
+                    "normalized_text": "EU",
+                    "probability": 0.8631,
+                    "start": 160,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4904,
+                    "start": 177,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 67,
+                    "start": 55,
+                    "tag": "EUGreenDeal"
+                },
+                {
+                    "end": 162,
+                    "start": 159,
+                    "tag": "EU"
+                },
+                {
+                    "end": 184,
+                    "start": 176,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 218,
+                    "start": 208,
+                    "tag": "CleanTech"
+                },
+                {
+                    "end": 231,
+                    "start": 219,
+                    "tag": "Innovations"
+                },
+                {
+                    "end": 276,
+                    "start": 260,
+                    "tag": "HeavyIndustries"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 33,
+                    "id": "377976301",
+                    "start": 19,
+                    "username": "MarosSefcovic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/MarosSefcovic/\u2026",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/MarosSefcovic/status/1699067405174259720",
+                    "start": 278,
+                    "url": "https://t.co/lOj1Qs0IRm"
+                }
+            ]
+        },
+        "id": "1699782333665357884",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 109,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Congratulations to @MarosSefcovic, the new EVP for the #EUGreenDeal\ud83d\udc4f Since embarking on this new role, he\u2019s already begun to demonstrate his commitment to the #EU\u2019s journey to #NetZero\n\nWith a clear focus on #CleanTech #Innovations, we hope to see support for #HeavyIndustries\ud83c\udfed https://t.co/lOj1Qs0IRm"
+    }
+}

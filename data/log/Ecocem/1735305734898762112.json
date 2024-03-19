@@ -1,0 +1,106 @@
+{
+    "1735305734898762112": {
+        "attachments": {
+            "media_keys": [
+                "7_1735305263270219776"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-12-14T14:28:22.000Z",
+        "edit_history_tweet_ids": [
+            "1735305734898762112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "CementIndustry",
+                    "probability": 0.5495,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5209,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Ecocem",
+                    "probability": 0.4847,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.7757,
+                    "start": 166,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 50,
+                    "tag": "CementIndustry"
+                },
+                {
+                    "end": 88,
+                    "start": 80,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 175,
+                    "start": 165,
+                    "tag": "LowCarbon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ecocemglobal.com/act/",
+                    "end": 279,
+                    "expanded_url": "https://www.ecocemglobal.com/act/",
+                    "images": [
+                        {
+                            "height": 650,
+                            "url": "https://pbs.twimg.com/news_img/1764547479595274240/4z8dQF24?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1764547479595274240/4z8dQF24?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 256,
+                    "status": 200,
+                    "title": "ACT - Ecocem",
+                    "unwound_url": "https://www.ecocemglobal.com/act/",
+                    "url": "https://t.co/On5SglYmNX"
+                },
+                {
+                    "display_url": "pic.twitter.com/vX0axEHk7e",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1735305734898762112/video/1",
+                    "media_key": "7_1735305263270219776",
+                    "start": 280,
+                    "url": "https://t.co/vX0axEHk7e"
+                }
+            ]
+        },
+        "id": "1735305734898762112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 105,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Implementing new technologies is essential if the #CementIndustry is to achieve #NetZero - but it doesn\u2019t need to be complicated.\n\nEcocem\u2019s ACT is a non-disruptive, #LowCarbon solution that can work with existing processes and assets, with minimal change: https://t.co/On5SglYmNX https://t.co/vX0axEHk7e"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "1702273472599073181": {
+        "author_id": "21325242",
+        "created_at": "2023-09-14T10:49:57.000Z",
+        "edit_history_tweet_ids": [
+            "1702273472599073181"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "CleanTransitionDialogues",
+                    "probability": 0.551,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 116,
+                    "start": 91,
+                    "tag": "CleanTransitionDialogues"
+                },
+                {
+                    "end": 273,
+                    "start": 258,
+                    "tag": "CementIndustry"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1146329871418843136",
+                    "start": 0,
+                    "username": "vonderleyen"
+                }
+            ]
+        },
+        "id": "1702273472599073181",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 51,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@vonderleyen gave her last State of the Union speech, in which she announced the launch of #CleanTransitionDialogues.\n\nWe welcome these dialogues and discussions on how we accelerate the scale up of clean technologies that will make a real difference to the #CementIndustry"
+    }
+}

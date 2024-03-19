@@ -1,0 +1,39 @@
+{
+    "1722199746889277798": {
+        "author_id": "29191062",
+        "created_at": "2023-11-08T10:29:51.000Z",
+        "edit_history_tweet_ids": [
+            "1722199746889277798"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "Las Vegas",
+                    "probability": 0.9783,
+                    "start": 52,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1143472657",
+                    "start": 0,
+                    "username": "ValtteriBottas"
+                }
+            ]
+        },
+        "id": "1722199746889277798",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5670,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ValtteriBottas Cheers for your little break before Las Vegas! \ud83c\udf7b"
+    }
+}

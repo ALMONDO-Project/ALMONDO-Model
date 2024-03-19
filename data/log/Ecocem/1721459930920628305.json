@@ -1,0 +1,75 @@
+{
+    "1721459930920628305": {
+        "author_id": "21325242",
+        "created_at": "2023-11-06T09:30:05.000Z",
+        "edit_history_tweet_ids": [
+            "1721459930920628305"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "EcocemSymposium",
+                    "probability": 0.8307,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.7066,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 4,
+                    "tag": "EcocemSymposium"
+                },
+                {
+                    "end": 114,
+                    "start": 104,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 135,
+                    "start": 122,
+                    "tag": "technologies"
+                },
+                {
+                    "end": 170,
+                    "start": 154,
+                    "tag": "decarbonisation"
+                },
+                {
+                    "end": 250,
+                    "start": 227,
+                    "tag": "ResearchAndDevelopment"
+                },
+                {
+                    "end": 262,
+                    "start": 251,
+                    "tag": "Technology"
+                },
+                {
+                    "end": 274,
+                    "start": 263,
+                    "tag": "Innovation"
+                }
+            ]
+        },
+        "id": "1721459930920628305",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 85,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The #EcocemSymposium will provide a platform for an open exchange on the development and scalability of #LowCarbon cement #technologies to accelerate the #decarbonisation of the cement sector \ud83c\udfd7\ufe0f\n\nWe're looking forward to it!\n \n#ResearchAndDevelopment #Technology #Innovation"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1720117292288074202": {
+        "author_id": "21325242",
+        "created_at": "2023-11-02T16:34:55.000Z",
+        "edit_history_tweet_ids": [
+            "1720117292288074202"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Spencer Feingold",
+                    "probability": 0.9332,
+                    "start": 26,
+                    "type": "Person"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "LC3",
+                    "probability": 0.6781,
+                    "start": 111,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 92,
+                    "start": 77,
+                    "tag": "CementIndustry"
+                },
+                {
+                    "end": 114,
+                    "start": 110,
+                    "tag": "LC3"
+                },
+                {
+                    "end": 151,
+                    "start": 140,
+                    "tag": "innovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 54,
+                    "id": "5120691",
+                    "start": 50,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "shorturl.at/gjuWY",
+                    "end": 258,
+                    "expanded_url": "https://shorturl.at/gjuWY",
+                    "start": 235,
+                    "unwound_url": "https://www.shorturl.at/gjuWY",
+                    "url": "https://t.co/oVE9jKSLsX"
+                }
+            ]
+        },
+        "id": "1720117292288074202",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 124,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Interesting insights from Spencer Feingold at the @wef in his article on the #CementIndustry and the material #LC3\n\nWe need a wide range of #innovation in the cement industry if we are to limit the global temperature rise to 1.5C \ud83e\uddd1\u200d\ud83d\udd2c\n\nhttps://t.co/oVE9jKSLsX"
+    }
+}

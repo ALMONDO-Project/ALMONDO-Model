@@ -1,0 +1,63 @@
+{
+    "1679788541067272195": {
+        "author_id": "21325242",
+        "created_at": "2023-07-14T09:42:51.000Z",
+        "edit_history_tweet_ids": [
+            "1679788541067272195"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Europe",
+                    "probability": 0.9373,
+                    "start": 18,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "EU",
+                    "probability": 0.8568,
+                    "start": 188,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 190,
+                    "start": 187,
+                    "tag": "EU"
+                },
+                {
+                    "end": 277,
+                    "start": 271,
+                    "tag": "EUETS"
+                },
+                {
+                    "end": 293,
+                    "start": 278,
+                    "tag": "InnovationFund"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "157981564",
+                    "start": 0,
+                    "username": "EU_Commission"
+                }
+            ]
+        },
+        "id": "1679788541067272195",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 125,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@EU_Commission As Europe\u2019s leading low carbon cement business and proud member of the Alliance for Low-Carbon Cement &amp; Concrete, Ecocem remains a willing and constructive partner for #EU policy makers to drive down emissions at scale and speed within this decade \ud83c\udfd7\ufe0f\n\n#EUETS #InnovationFund"
+    }
+}

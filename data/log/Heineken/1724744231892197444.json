@@ -1,0 +1,46 @@
+{
+    "1724744231892197444": {
+        "author_id": "29191062",
+        "created_at": "2023-11-15T11:00:43.000Z",
+        "edit_history_tweet_ids": [
+            "1724744231892197444"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Ballon d'Or",
+                    "probability": 0.7277,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "Golden",
+                    "probability": 0.5359,
+                    "start": 39,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1379433754771398664",
+                    "start": 0,
+                    "username": "DAZNFootball"
+                }
+            ]
+        },
+        "id": "1724744231892197444",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 116,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@DAZNFootball A Ballon d'Or delivering Golden performances! \ud83d\udc4f"
+    }
+}

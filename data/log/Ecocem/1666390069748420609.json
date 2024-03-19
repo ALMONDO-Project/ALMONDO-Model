@@ -1,0 +1,78 @@
+{
+    "1666390069748420609": {
+        "attachments": {
+            "media_keys": [
+                "3_1666389546261413888",
+                "3_1666389573973278722",
+                "3_1666389600913223682"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-06-07T10:22:07.000Z",
+        "edit_history_tweet_ids": [
+            "1666390069748420609"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Slag",
+                    "probability": 0.4987,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "Dunkirk",
+                    "probability": 0.5182,
+                    "start": 239,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 179,
+                    "start": 163,
+                    "tag": "LowCarbonCement"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/MwgGvaxrJy",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1666390069748420609/photo/1",
+                    "media_key": "3_1666389546261413888",
+                    "start": 279,
+                    "url": "https://t.co/MwgGvaxrJy"
+                },
+                {
+                    "display_url": "pic.twitter.com/MwgGvaxrJy",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1666390069748420609/photo/1",
+                    "media_key": "3_1666389573973278722",
+                    "start": 279,
+                    "url": "https://t.co/MwgGvaxrJy"
+                },
+                {
+                    "display_url": "pic.twitter.com/MwgGvaxrJy",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1666390069748420609/photo/1",
+                    "media_key": "3_1666389600913223682",
+                    "start": 279,
+                    "url": "https://t.co/MwgGvaxrJy"
+                }
+            ]
+        },
+        "id": "1666390069748420609",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 123,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "We picked up two awards at the 15th Global Slag Conference, Exhibition, and Awards:\n\n\ud83d\udd39Global Slag Product of the Year, for the successful launch of our innovative #LowCarbonCement CEM III/C\n\n\ud83d\udd39Global Slag Plant of the year for our plant in Dunkirk\n\nThank you for the recognition! https://t.co/MwgGvaxrJy"
+    }
+}

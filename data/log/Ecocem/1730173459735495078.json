@@ -1,0 +1,92 @@
+{
+    "1730173459735495078": {
+        "attachments": {
+            "media_keys": [
+                "3_1730172602969214976"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-11-30T10:34:32.000Z",
+        "edit_history_tweet_ids": [
+            "1730173459735495078"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "COP28",
+                    "probability": 0.9267,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "GlobalStocktake",
+                    "probability": 0.7676,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "CO2",
+                    "probability": 0.682,
+                    "start": 137,
+                    "type": "Other"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.6339,
+                    "start": 253,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 96,
+                    "start": 80,
+                    "tag": "GlobalStocktake"
+                },
+                {
+                    "end": 266,
+                    "start": 252,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 77,
+                    "id": "14159148",
+                    "start": 74,
+                    "username": "UN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/R20aR6wUYO",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1730173459735495078/photo/1",
+                    "media_key": "3_1730172602969214976",
+                    "start": 269,
+                    "url": "https://t.co/R20aR6wUYO"
+                }
+            ]
+        },
+        "id": "1730173459735495078",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 117,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#COP28 kicks off today and\u00a0comes in the wake of a severe warning from the @UN's #GlobalStocktake report which sets out the trajectory of CO2 emissions reductions for compliance within the 1.5\u00b0C target. \n\nIn short, the world is not on track in tackling #ClimateChange \ud83c\udf0d https://t.co/R20aR6wUYO"
+    }
+}

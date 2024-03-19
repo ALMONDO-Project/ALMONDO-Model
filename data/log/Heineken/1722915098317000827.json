@@ -1,0 +1,53 @@
+{
+    "1722915098317000827": {
+        "author_id": "29191062",
+        "created_at": "2023-11-10T09:52:24.000Z",
+        "edit_history_tweet_ids": [
+            "1722915098317000827"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "The Netherlands",
+                    "probability": 0.5708,
+                    "start": 74,
+                    "type": "Place"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "The",
+                    "probability": 0.5349,
+                    "start": 121,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.4489,
+                    "start": 125,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1038",
+                    "start": 0,
+                    "username": "martijn"
+                }
+            ]
+        },
+        "id": "1722915098317000827",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 43,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@martijn \"Raw fish, rain, stroopwafels and Heineken\". Tell us you're from The Netherlands without telling us you're from The Netherlands \ud83d\ude05"
+    }
+}

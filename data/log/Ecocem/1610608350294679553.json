@@ -1,0 +1,78 @@
+{
+    "1610608350294679553": {
+        "author_id": "21325242",
+        "created_at": "2023-01-04T12:05:29.000Z",
+        "edit_history_tweet_ids": [
+            "1610608350294679553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Justin Wilkes",
+                    "probability": 0.7062,
+                    "start": 10,
+                    "type": "Person"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Philippe Babey",
+                    "probability": 0.7444,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Tiffany Vass",
+                    "probability": 0.8078,
+                    "start": 119,
+                    "type": "Other"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Johann Plank",
+                    "probability": 0.7293,
+                    "start": 151,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 60,
+                    "id": "857690408",
+                    "start": 46,
+                    "username": "ECOS_Standard"
+                },
+                {
+                    "end": 116,
+                    "id": "1361699787326816259",
+                    "start": 102,
+                    "username": "lafargeholcim"
+                },
+                {
+                    "end": 136,
+                    "id": "84679163",
+                    "start": 132,
+                    "username": "IEA"
+                },
+                {
+                    "end": 211,
+                    "id": "1338836365837033473",
+                    "start": 197,
+                    "username": "utn_nuremberg"
+                }
+            ]
+        },
+        "id": "1610608350294679553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 103,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Thanks to Justin Wilkes, Executive Director, \n@ECOS_Standard; Philippe Babey, former General Manager, @lafargeholcim.; Tiffany Vass @IEA and Professor Johann Plank, of the Chemistry Faculty at the @utn_nuremberg for their contributions"
+    }
+}

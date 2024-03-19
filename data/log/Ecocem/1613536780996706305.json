@@ -1,0 +1,67 @@
+{
+    "1613536780996706305": {
+        "attachments": {
+            "media_keys": [
+                "3_1613536774596317185"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-01-12T14:02:01.000Z",
+        "edit_history_tweet_ids": [
+            "1613536780996706305"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "ACT",
+                    "probability": 0.5282,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "CO2",
+                    "probability": 0.8085,
+                    "start": 90,
+                    "type": "Other"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "SCM",
+                    "probability": 0.4954,
+                    "start": 186,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/1x9I50Mmpar",
+                    "end": 244,
+                    "expanded_url": "http://ow.ly/1x9I50Mmpar",
+                    "start": 221,
+                    "url": "https://t.co/rHJT5CcRSk"
+                },
+                {
+                    "display_url": "pic.twitter.com/EoiLb16scs",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1613536780996706305/photo/1",
+                    "media_key": "3_1613536774596317185",
+                    "start": 245,
+                    "url": "https://t.co/EoiLb16scs"
+                }
+            ]
+        },
+        "id": "1613536780996706305",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 114,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "What is ACT? \n\nA new innovative technology which reduces clinker, the main contributor to CO2 emissions in cement, by up to 70% and replaces it with supplementary cementitious material (SCM) and fillers. \n\nDiscover more: https://t.co/rHJT5CcRSk https://t.co/EoiLb16scs"
+    }
+}

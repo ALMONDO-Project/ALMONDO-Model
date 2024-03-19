@@ -1,0 +1,68 @@
+{
+    "1680902715210100736": {
+        "author_id": "21325242",
+        "created_at": "2023-07-17T11:30:11.000Z",
+        "edit_history_tweet_ids": [
+            "1680902715210100736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "LowCarbonCement",
+                    "probability": 0.5027,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 79,
+                    "tag": "LowCarbonCement"
+                },
+                {
+                    "end": 157,
+                    "start": 142,
+                    "tag": "CementIndustry"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 24,
+                    "id": "1598770254",
+                    "start": 10,
+                    "username": "OllieGordon88"
+                },
+                {
+                    "end": 44,
+                    "id": "1285943331382534145",
+                    "start": 28,
+                    "username": "EnergyMonitorAI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/18tm50PbFX0",
+                    "end": 279,
+                    "expanded_url": "https://ow.ly/18tm50PbFX0",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.energymonitor.ai/sectors/industry/decarbonising-cement-why-the-hold-up/",
+                    "url": "https://t.co/JKXazip8fe"
+                }
+            ]
+        },
+        "id": "1680902715210100736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 177,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Thanks to @OllieGordon88 at @EnergyMonitorAI for recognising the importance of #LowCarbonCement technologies, like ours, in decarbonising the #CementIndustry.\n\nIt's these readily available technologies that must lead the sector towards its climate goals\ud83c\udf0e\n\nhttps://t.co/JKXazip8fe"
+    }
+}

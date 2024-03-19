@@ -1,0 +1,82 @@
+{
+    "1659455193136746497": {
+        "attachments": {
+            "media_keys": [
+                "7_1659454828320358402"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-05-19T07:05:23.000Z",
+        "edit_history_tweet_ids": [
+            "1659455193136746497"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.8041,
+                    "start": 68,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "France",
+                    "probability": 0.9819,
+                    "start": 200,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 77,
+                    "start": 67,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 279,
+                    "start": 262,
+                    "tag": "AdvancingNetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 35,
+                    "id": "731056198359879680",
+                    "start": 23,
+                    "username": "CEMEXFrance"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/42H21Fx",
+                    "end": 260,
+                    "expanded_url": "https://bit.ly/42H21Fx",
+                    "start": 237,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/cemex-and-ecocem-partner-on-research-and-development-of-lower-carbon-solutions/",
+                    "url": "https://t.co/AmQhzfqMXf"
+                },
+                {
+                    "display_url": "pic.twitter.com/9takqVCNFf",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1659455193136746497/video/1",
+                    "media_key": "7_1659454828320358402",
+                    "start": 280,
+                    "url": "https://t.co/9takqVCNFf"
+                }
+            ]
+        },
+        "id": "1659455193136746497",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 96,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our collaboration with @CEMEXFrance involves a range of innovative #LowCarbon solutions, including our ACT technology, and forms part of a portfolio of initiatives in the sector as it extends through France and hopefully further afield: https://t.co/AmQhzfqMXf\n\n#AdvancingNetZero https://t.co/9takqVCNFf"
+    }
+}

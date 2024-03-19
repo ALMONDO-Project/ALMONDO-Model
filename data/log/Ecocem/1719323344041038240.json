@@ -1,0 +1,61 @@
+{
+    "1719323344041038240": {
+        "author_id": "21325242",
+        "created_at": "2023-10-31T12:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1719323344041038240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "ParisAgreement",
+                    "probability": 0.8633,
+                    "start": 81,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 80,
+                    "tag": "ParisAgreement"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "2364658399",
+                    "start": 33,
+                    "username": "RobinLamboll"
+                },
+                {
+                    "end": 64,
+                    "id": "1035895180849766400",
+                    "start": 52,
+                    "username": "JoeriRogelj"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/RobinLamboll/s\u2026",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/RobinLamboll/status/1719027215961051143",
+                    "start": 254,
+                    "url": "https://t.co/hrQZxOZ9KH"
+                }
+            ]
+        },
+        "id": "1719323344041038240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 160,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "A stark warning from research by @RobinLamboll  and @JoeriRogelj that shows the #ParisAgreement\u2019s 1.5C limit could be breached as soon as 2029.\n\nTo keep 1.5C alive, we must invest in solutions that can make a substantial impact on emissions this decade. https://t.co/hrQZxOZ9KH"
+    }
+}

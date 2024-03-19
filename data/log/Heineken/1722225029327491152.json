@@ -1,0 +1,39 @@
+{
+    "1722225029327491152": {
+        "author_id": "29191062",
+        "created_at": "2023-11-08T12:10:19.000Z",
+        "edit_history_tweet_ids": [
+            "1722225029327491152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "UEFA Champions League",
+                    "probability": 0.6992,
+                    "start": 24,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "462312323",
+                    "start": 0,
+                    "username": "Football__Tweet"
+                }
+            ]
+        },
+        "id": "1722225029327491152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 109,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Football__Tweet Simply UEFA Champions League nights \ud83e\udd29"
+    }
+}

@@ -11,9 +11,6 @@ import sys
 from json.decoder import JSONDecodeError
 from utils import *
 
-sys.stdout = PrintLogger(logging.getLogger('stdout'), logging.INFO)
-sys.stderr = PrintLogger(logging.getLogger('stderr'), logging.ERROR)
-
 class TweetAlreadyDumpedException():
     pass
 
@@ -179,11 +176,6 @@ class UserDataDownload():
                 next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             except KeyError:
                 next_token = None
-                
-            with open(f'data/log/{self.username}/last_page_data.json', 'w') as file:
-                json.dump(page.data, file)
-            with open(f'data/log/{self.username}/last_page_data.json', 'w') as file:
-                json.dump(page.meta, file)
             
             try:    
                 for tweet in tqdm.tqdm(page.data): #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh

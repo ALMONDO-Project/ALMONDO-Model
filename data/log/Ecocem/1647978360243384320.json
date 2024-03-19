@@ -1,0 +1,88 @@
+{
+    "1647978360243384320": {
+        "attachments": {
+            "media_keys": [
+                "3_1647978357663969287"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-04-17T15:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1647978360243384320"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "Europe",
+                    "probability": 0.9796,
+                    "start": 31,
+                    "type": "Place"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "NetZeroIndustryACT",
+                    "probability": 0.6373,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "NZIA",
+                    "probability": 0.5182,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Cleantech",
+                    "probability": 0.3951,
+                    "start": 112,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 40,
+                    "tag": "NetZeroIndustryACT"
+                },
+                {
+                    "end": 121,
+                    "start": 111,
+                    "tag": "Cleantech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/htIH50NKHqV",
+                    "end": 176,
+                    "expanded_url": "http://ow.ly/htIH50NKHqV",
+                    "start": 153,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/net-zero-industry-act/",
+                    "url": "https://t.co/NxFd5aj60u"
+                },
+                {
+                    "display_url": "pic.twitter.com/bofItOjUES",
+                    "end": 200,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1647978360243384320/photo/1",
+                    "media_key": "3_1647978357663969287",
+                    "start": 177,
+                    "url": "https://t.co/bofItOjUES"
+                }
+            ]
+        },
+        "id": "1647978360243384320",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 152,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "One month after the release of Europe\u2019s #NetZeroIndustryACT (NZIA), we reflect on the missed opportunities for #Cleantech.\n\nSee the full statement here: https://t.co/NxFd5aj60u https://t.co/bofItOjUES"
+    }
+}

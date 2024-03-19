@@ -1,0 +1,109 @@
+{
+    "1722936231955140866": {
+        "attachments": {
+            "media_keys": [
+                "3_1722935961745604608",
+                "3_1722935998554771456",
+                "3_1722936141890912256",
+                "3_1722936058847875073"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-11-10T11:16:22.000Z",
+        "edit_history_tweet_ids": [
+            "1722936231955140866"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 96,
+                    "normalized_text": "Paris",
+                    "probability": 0.8202,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Saclay",
+                    "probability": 0.2835,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "ACT",
+                    "probability": 0.491,
+                    "start": 159,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Mohend Chaouche",
+                    "probability": 0.8202,
+                    "start": 232,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 278,
+                    "start": 268,
+                    "tag": "LowCarbon"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 265,
+                    "id": "162998457",
+                    "start": 249,
+                    "username": "ENS_ParisSaclay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/5tiGlROVAK",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1722936231955140866/photo/1",
+                    "media_key": "3_1722935961745604608",
+                    "start": 279,
+                    "url": "https://t.co/5tiGlROVAK"
+                },
+                {
+                    "display_url": "pic.twitter.com/5tiGlROVAK",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1722936231955140866/photo/1",
+                    "media_key": "3_1722935998554771456",
+                    "start": 279,
+                    "url": "https://t.co/5tiGlROVAK"
+                },
+                {
+                    "display_url": "pic.twitter.com/5tiGlROVAK",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1722936231955140866/photo/1",
+                    "media_key": "3_1722936141890912256",
+                    "start": 279,
+                    "url": "https://t.co/5tiGlROVAK"
+                },
+                {
+                    "display_url": "pic.twitter.com/5tiGlROVAK",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1722936231955140866/photo/1",
+                    "media_key": "3_1722936058847875073",
+                    "start": 279,
+                    "url": "https://t.co/5tiGlROVAK"
+                }
+            ]
+        },
+        "id": "1722936231955140866",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 115,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\"The urgency of developing and deploying low-carbon cements is no longer up for debate. ENS Paris-Saclay is very proud\u00a0to have contributed to the birth of the ACT technology, which reduces the carbon footprint of cement by 70%... \" Mohend Chaouche, @ENS_ParisSaclay \n\n#LowCarbon https://t.co/5tiGlROVAK"
+    }
+}

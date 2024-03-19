@@ -1,0 +1,39 @@
+{
+    "1722275711594226141": {
+        "author_id": "29191062",
+        "created_at": "2023-11-08T15:31:42.000Z",
+        "edit_history_tweet_ids": [
+            "1722275711594226141"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Max",
+                    "probability": 0.5387,
+                    "start": 38,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1426933808922730498",
+                    "start": 0,
+                    "username": "RBR_Daily"
+                }
+            ]
+        },
+        "id": "1722275711594226141",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3632,
+            "like_count": 39,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "@RBR_Daily Cheering one more TIME for Max \ud83c\udf7b"
+    }
+}

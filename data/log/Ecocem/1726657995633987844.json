@@ -1,0 +1,65 @@
+{
+    "1726657995633987844": {
+        "author_id": "21325242",
+        "created_at": "2023-11-20T17:45:20.000Z",
+        "edit_history_tweet_ids": [
+            "1726657995633987844"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "EmissionsGap",
+                    "probability": 0.4802,
+                    "start": 78,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 77,
+                    "tag": "EmissionsGap"
+                },
+                {
+                    "end": 182,
+                    "start": 176,
+                    "tag": "Scale"
+                },
+                {
+                    "end": 200,
+                    "start": 190,
+                    "tag": "CleanTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 108,
+                    "id": "38146999",
+                    "start": 103,
+                    "username": "UNEP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/UNEP/status/17\u2026",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/UNEP/status/1726602430605930601",
+                    "start": 257,
+                    "url": "https://t.co/owAxkqx9ah"
+                }
+            ]
+        },
+        "id": "1726657995633987844",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 162,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We are now headed for a 2.5 \u2013 2.9C temperature rise, according to the annual #EmissionsGap report from @UNEP \ud83d\udcf0\n\nTo have a chance of keeping 1.5C alive, we must take action and #Scale proven #CleanTech that can have an immediate impact on carbon emissions\ud83c\udf21\ufe0f https://t.co/owAxkqx9ah"
+    }
+}

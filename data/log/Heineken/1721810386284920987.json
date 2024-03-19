@@ -1,0 +1,46 @@
+{
+    "1721810386284920987": {
+        "author_id": "29191062",
+        "created_at": "2023-11-07T08:42:40.000Z",
+        "edit_history_tweet_ids": [
+            "1721810386284920987"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "BeerTime",
+                    "probability": 0.9092,
+                    "start": 11,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 10,
+                    "tag": "BeerTime"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "4841468350",
+                    "start": 0,
+                    "username": "evrn_tan"
+                }
+            ]
+        },
+        "id": "1721810386284920987",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 340,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@evrn_tan #BeerTime o'clock. Our favourite time of the day \ud83c\udf7b"
+    }
+}

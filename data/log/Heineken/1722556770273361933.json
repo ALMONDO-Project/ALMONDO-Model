@@ -1,0 +1,45 @@
+{
+    "1722556770273361933": {
+        "author_id": "29191062",
+        "created_at": "2023-11-09T10:08:32.000Z",
+        "edit_history_tweet_ids": [
+            "1722556770273361933"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Carlo",
+                    "probability": 0.7487,
+                    "start": 44,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "452155423",
+                    "start": 0,
+                    "username": "realmadriden"
+                },
+                {
+                    "end": 26,
+                    "id": "444838837",
+                    "start": 14,
+                    "username": "MrAncelotti"
+                }
+            ]
+        },
+        "id": "1722556770273361933",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 116,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@realmadriden @MrAncelotti Congratulations, Carlo! Cheers for an incredible achievement \ud83c\udf7b"
+    }
+}

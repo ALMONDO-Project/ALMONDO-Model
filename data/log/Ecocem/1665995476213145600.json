@@ -1,0 +1,105 @@
+{
+    "1665995476213145600": {
+        "attachments": {
+            "media_keys": [
+                "3_1665995428049870850"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-06-06T08:14:08.000Z",
+        "edit_history_tweet_ids": [
+            "1665995476213145600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Net-Zero Industry Act",
+                    "probability": 0.7046,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "NZIA",
+                    "probability": 0.5772,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "EU",
+                    "probability": 0.9544,
+                    "start": 58,
+                    "type": "Place"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "FitFor55",
+                    "probability": 0.6249,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "European Parliament",
+                    "probability": 0.8694,
+                    "start": 174,
+                    "type": "Organization"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "ITRE",
+                    "probability": 0.3985,
+                    "start": 196,
+                    "type": "Organization"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "EUGreenDeal",
+                    "probability": 0.4461,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 27,
+                    "tag": "NZIA"
+                },
+                {
+                    "end": 72,
+                    "start": 63,
+                    "tag": "FitFor55"
+                },
+                {
+                    "end": 274,
+                    "start": 262,
+                    "tag": "EUGreenDeal"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/N9iHlPXcPD",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1665995476213145600/photo/1",
+                    "media_key": "3_1665995428049870850",
+                    "start": 281,
+                    "url": "https://t.co/N9iHlPXcPD"
+                }
+            ]
+        },
+        "id": "1665995476213145600",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 544,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "The Net-Zero Industry Act (#NZIA) should help achieve the EU\u2019s #FitFor55 targets and accelerate emission reductions \u2013 so it\u2019s disappointing to see the proposed report by the European Parliament\u2019s ITRE Rapporteur remove any reference to 2030. This is bad for the #EUGreenDeal (1/4) https://t.co/N9iHlPXcPD"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "1676227121998438401": {
+        "author_id": "21325242",
+        "created_at": "2023-07-04T13:51:03.000Z",
+        "edit_history_tweet_ids": [
+            "1676227121998438401"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "ACT",
+                    "probability": 0.462,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "LowCarbonCement",
+                    "probability": 0.4778,
+                    "start": 113,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 128,
+                    "start": 112,
+                    "tag": "LowCarbonCement"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ecocemglobal.com/act/faqs/",
+                    "end": 214,
+                    "expanded_url": "https://ecocemglobal.com/act/faqs/",
+                    "start": 191,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/act/faqs/",
+                    "url": "https://t.co/LT1tqpnst1"
+                },
+                {
+                    "display_url": "x.com/BrendanFWallac\u2026",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/BrendanFWallace/status/1673702963091496963",
+                    "start": 252,
+                    "url": "https://t.co/ehBEMlMDWW"
+                }
+            ]
+        },
+        "id": "1676227121998438401",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 158,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udd39Solution seekers: We need something that works, is cost effective, and scalable\n\ud83d\udd39Us: You called?\n\nACT is a new #LowCarbonCement technology which can deliver up to 70% CO2 reduction by 2030: https://t.co/LT1tqpnst1\n\nHere's to making a difference now \ud83c\udf0d https://t.co/ehBEMlMDWW"
+    }
+}

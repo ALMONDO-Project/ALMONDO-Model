@@ -1,0 +1,45 @@
+{
+    "1626549301475172353": {
+        "author_id": "21325242",
+        "created_at": "2023-02-17T11:49:07.000Z",
+        "edit_history_tweet_ids": [
+            "1626549301475172353"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "CO2",
+                    "probability": 0.7117,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "LowCarbonCement",
+                    "probability": 0.5848,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 71,
+                    "tag": "LowCarbonCement"
+                }
+            ]
+        },
+        "id": "1626549301475172353",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 98,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "That\u2019s why our solution focuses on producing less CO2 by manufacturing #LowCarbonCement with lower levels of clinker content."
+    }
+}

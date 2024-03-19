@@ -1,0 +1,65 @@
+{
+    "1618144972615868417": {
+        "author_id": "21325242",
+        "created_at": "2023-01-25T07:13:19.000Z",
+        "edit_history_tweet_ids": [
+            "1618144972615868417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Davos",
+                    "probability": 0.9268,
+                    "start": 57,
+                    "type": "Place"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Net Zero Industry Act",
+                    "probability": 0.7754,
+                    "start": 146,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Europe",
+                    "probability": 0.9595,
+                    "start": 217,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 56,
+                    "tag": "Davos"
+                },
+                {
+                    "end": 122,
+                    "start": 112,
+                    "tag": "cleantech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 86,
+                    "id": "1146329871418843136",
+                    "start": 74,
+                    "username": "vonderleyen"
+                }
+            ]
+        },
+        "id": "1618144972615868417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 109,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "The summit couldn\u2019t come at a better time: last week in #Davos, President @vonderleyen announced a new piece of #cleantech industrial policy, the Net Zero Industry Act, and committed to writing the cleantech story in Europe."
+    }
+}

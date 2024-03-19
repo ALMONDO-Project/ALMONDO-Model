@@ -1,0 +1,57 @@
+{
+    "1653701073486356482": {
+        "author_id": "21325242",
+        "created_at": "2023-05-03T10:00:34.000Z",
+        "edit_history_tweet_ids": [
+            "1653701073486356482"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Paris Agreement",
+                    "probability": 0.8039,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 267,
+                    "start": 260,
+                    "tag": "ActNow"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 160,
+                    "id": "478448085",
+                    "start": 150,
+                    "username": "RACFrance"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/J3EI50O9vpR",
+                    "end": 258,
+                    "expanded_url": "http://ow.ly/J3EI50O9vpR",
+                    "start": 235,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/12466/",
+                    "url": "https://t.co/YB8twJbk41"
+                }
+            ]
+        },
+        "id": "1653701073486356482",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 80,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The first deadline of the Paris Agreement is fast approaching, but we need a quantum leap in climate action to achieve goals. \n\nOur latest paper with @RACFrance urges industry players, governments and regulators to unite. \n\nRead more: https://t.co/YB8twJbk41\n\n#ActNow"
+    }
+}

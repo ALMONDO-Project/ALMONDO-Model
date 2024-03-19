@@ -1,0 +1,74 @@
+{
+    "1649715213443256321": {
+        "author_id": "21325242",
+        "created_at": "2023-04-22T10:02:11.000Z",
+        "edit_history_tweet_ids": [
+            "1649715213443256321"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5311,
+                    "start": 89,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "LowCarbonCement",
+                    "probability": 0.63,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 29,
+                    "tag": "decarbonise"
+                },
+                {
+                    "end": 96,
+                    "start": 88,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 120,
+                    "start": 104,
+                    "tag": "LowCarbonCement"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 226,
+                    "id": "23369246",
+                    "start": 217,
+                    "username": "EarthDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ecocemglobal.com/innovation-tec\u2026",
+                    "end": 251,
+                    "expanded_url": "https://www.ecocemglobal.com/innovation-technology/",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/innovation-technology/",
+                    "url": "https://t.co/xxq4hybMrf"
+                }
+            ]
+        },
+        "id": "1649715213443256321",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 83,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "So investing in solutions to #decarbonise the industry is a crucial part of the path to #NetZero. \ud83c\udfd7\ufe0fOur #LowCarbonCement has the potential to halve sector emissions by 2030, discover more through the link in comments @earthday: https://t.co/xxq4hybMrf"
+    }
+}

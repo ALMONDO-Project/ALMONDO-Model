@@ -1,0 +1,97 @@
+{
+    "1717841575290523823": {
+        "author_id": "21325242",
+        "created_at": "2023-10-27T09:52:02.000Z",
+        "edit_history_tweet_ids": [
+            "1717841575290523823"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Best",
+                    "probability": 0.486,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "France",
+                    "probability": 0.4643,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "IFBA2023",
+                    "probability": 0.481,
+                    "start": 214,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "FranceIreland",
+                    "probability": 0.468,
+                    "start": 236,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 222,
+                    "start": 213,
+                    "tag": "IFBA2023"
+                },
+                {
+                    "end": 249,
+                    "start": 235,
+                    "tag": "FranceIreland"
+                },
+                {
+                    "end": 260,
+                    "start": 250,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 269,
+                    "start": 261,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "2861016526",
+                    "start": 63,
+                    "username": "NetworkIrlande"
+                },
+                {
+                    "end": 117,
+                    "id": "108558459",
+                    "start": 101,
+                    "username": "FranceIrelandCh"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/NetworkIrlande\u2026",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/NetworkIrlande/status/1717827011970814213",
+                    "start": 270,
+                    "url": "https://t.co/sVXmjAzHbX"
+                }
+            ]
+        },
+        "id": "1717841575290523823",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 164,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019ve\u00a0been nominated for the 'Best Irish Company in France' by @NetworkIrlande in collaboration with @FranceIrelandCh \ud83c\udf89\n \nProud to be included in this prestigious list of nominees and we\u2019re looking forward to the #IFBA2023 on 16 Nov!\n\n#FranceIreland #LowCarbon #NetZero https://t.co/sVXmjAzHbX"
+    }
+}

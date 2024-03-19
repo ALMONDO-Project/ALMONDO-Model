@@ -1,0 +1,65 @@
+{
+    "1729434449652208067": {
+        "attachments": {
+            "media_keys": [
+                "3_1729433393245417472"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-11-28T09:37:58.000Z",
+        "edit_history_tweet_ids": [
+            "1729434449652208067"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "COP28",
+                    "probability": 0.9554,
+                    "start": 2,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5174,
+                    "start": 269,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 1,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 276,
+                    "start": 268,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UIjH0w7XoR",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1729434449652208067/photo/1",
+                    "media_key": "3_1729433393245417472",
+                    "start": 279,
+                    "url": "https://t.co/UIjH0w7XoR"
+                }
+            ]
+        },
+        "id": "1729434449652208067",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 70,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\"#COP28 is an opportunity to drive real change by focusing on low-clinker solutions that are cost-effective, can be readily implemented and integrated into existing infrastructure, on a global scale.\"\n\nIt's time to wake up to the reality of the action needed to reach #NetZero \ud83e\udee7 https://t.co/UIjH0w7XoR"
+    }
+}

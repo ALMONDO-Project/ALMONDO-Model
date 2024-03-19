@@ -1,0 +1,79 @@
+{
+    "1669314026973609985": {
+        "attachments": {
+            "media_keys": [
+                "3_1669314025656659973"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-06-15T12:00:53.000Z",
+        "edit_history_tweet_ids": [
+            "1669314026973609985"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Ecocem",
+                    "probability": 0.6576,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 11,
+                    "normalized_text": "NEU",
+                    "probability": 0.8486,
+                    "start": 9,
+                    "type": "Organization"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "NEU",
+                    "probability": 0.9354,
+                    "start": 35,
+                    "type": "Organization"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5983,
+                    "start": 225,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 34,
+                    "tag": "NEU"
+                },
+                {
+                    "end": 232,
+                    "start": 224,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/vAqjCO9SKo",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1669314026973609985/photo/1",
+                    "media_key": "3_1669314025656659973",
+                    "start": 265,
+                    "url": "https://t.co/vAqjCO9SKo"
+                }
+            ]
+        },
+        "id": "1669314026973609985",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 66,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Ecocem \ud83e\udd1d NEU\n\nWe have  joined the #NEU, which is spearheading the development of new carbon-neutral construction technologies \ud83d\udc77\n\nBy developing new technologies and working together, we can reach our common goal of achieving #NetZero in the construction industry \ud83c\udfd7\ufe0f https://t.co/vAqjCO9SKo"
+    }
+}

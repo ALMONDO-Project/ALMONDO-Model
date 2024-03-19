@@ -1,0 +1,80 @@
+{
+    "1633799966203289604": {
+        "author_id": "21325242",
+        "created_at": "2023-03-09T12:00:41.000Z",
+        "edit_history_tweet_ids": [
+            "1633799966203289604"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 116,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.5682,
+                    "start": 108,
+                    "type": "Other"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "CO2",
+                    "probability": 0.6242,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 50,
+                    "tag": "Cement"
+                },
+                {
+                    "end": 117,
+                    "start": 107,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 143,
+                    "start": 139,
+                    "tag": "ACT"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "533161630",
+                    "start": 1,
+                    "username": "TommyLinstroth"
+                },
+                {
+                    "end": 70,
+                    "id": "91478624",
+                    "start": 63,
+                    "username": "Forbes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/psZV50N7hbh",
+                    "end": 257,
+                    "expanded_url": "http://ow.ly/psZV50N7hbh",
+                    "start": 234,
+                    "status": 403,
+                    "unwound_url": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/17/the-latest-technology-advances-in-low-carbon-construction-are-promising/?sh=6687254a3f0e&dm_t=0,0,0,0,0",
+                    "url": "https://t.co/GcpSJNvDSR"
+                }
+            ]
+        },
+        "id": "1633799966203289604",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 85,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": ".@TommyLinstroth shared some great insights about #Cement with @Forbes \ud83d\ude4c\n\nWe have the latest technology in #LowCarbon construction and our #ACT technology has the potential to reduce the cement industry\u2019s CO2 emissions by up to 70%.\n\nhttps://t.co/GcpSJNvDSR"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "1676851298149318657": {
+        "author_id": "21325242",
+        "created_at": "2023-07-06T07:11:18.000Z",
+        "edit_history_tweet_ids": [
+            "1676851298149318657"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Justin Wilkes",
+                    "probability": 0.8968,
+                    "start": 77,
+                    "type": "Person"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Ecocem",
+                    "probability": 0.3852,
+                    "start": 156,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "ECOS",
+                    "probability": 0.4947,
+                    "start": 164,
+                    "type": "Organization"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "ALCCC",
+                    "probability": 0.5531,
+                    "start": 170,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 23,
+                    "tag": "decarbonising"
+                },
+                {
+                    "end": 162,
+                    "start": 155,
+                    "tag": "Ecocem"
+                },
+                {
+                    "end": 168,
+                    "start": 163,
+                    "tag": "ECOS"
+                },
+                {
+                    "end": 175,
+                    "start": 169,
+                    "tag": "ALCCC"
+                },
+                {
+                    "end": 193,
+                    "start": 176,
+                    "tag": "AdvancingNetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 128,
+                    "id": "857690408",
+                    "start": 114,
+                    "username": "ECOS_Standard"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ecocemglobal.com/justin_wilkes_\u2026",
+                    "end": 153,
+                    "expanded_url": "https://www.ecocemglobal.com/justin_wilkes_on_why_its_time_to_bust_the_myth_on_decarbonising_cement/",
+                    "start": 130,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/justin_wilkes_on_why_its_time_to_bust_the_myth_on_decarbonising_cement/",
+                    "url": "https://t.co/GvewTpgiQC"
+                }
+            ]
+        },
+        "id": "1676851298149318657",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 202,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Let\u2019s bust the myth on #decarbonising cement. Read more in our guest blog by Justin Wilkes, Executive Director at @ECOS_Standard: https://t.co/GvewTpgiQC\n\n#Ecocem #ECOS #ALCCC #AdvancingNetZero"
+    }
+}

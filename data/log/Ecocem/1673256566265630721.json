@@ -1,0 +1,108 @@
+{
+    "1673256566265630721": {
+        "attachments": {
+            "media_keys": [
+                "3_1673256132876566529",
+                "3_1673256197707960322",
+                "3_1673256214434816001"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-06-26T09:07:07.000Z",
+        "edit_history_tweet_ids": [
+            "1673256566265630721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Ecocem",
+                    "probability": 0.4056,
+                    "start": 49,
+                    "type": "Organization"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "CB Green",
+                    "probability": 0.4396,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Northern France",
+                    "probability": 0.8313,
+                    "start": 123,
+                    "type": "Place"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "Paris",
+                    "probability": 0.9583,
+                    "start": 225,
+                    "type": "Place"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "London",
+                    "probability": 0.9659,
+                    "start": 234,
+                    "type": "Place"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "Amsterdam",
+                    "probability": 0.9832,
+                    "start": 245,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ecocemglobal.com/cb-green-a-div\u2026",
+                    "end": 279,
+                    "expanded_url": "https://www.ecocemglobal.com/cb-green-a-division-of-groupe-cb-and-ecocem-unveil-a-joint-venture-to-support-decarbonisation-of-the-european-cement-industry/",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.ecocemglobal.com/cb-green-a-division-of-groupe-cb-and-ecocem-unveil-a-joint-venture-to-support-decarbonisation-of-the-european-cement-industry/",
+                    "url": "https://t.co/XYQ83x9GSR"
+                },
+                {
+                    "display_url": "pic.twitter.com/UHHZj3v32h",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1673256566265630721/photo/1",
+                    "media_key": "3_1673256132876566529",
+                    "start": 280,
+                    "url": "https://t.co/UHHZj3v32h"
+                },
+                {
+                    "display_url": "pic.twitter.com/UHHZj3v32h",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1673256566265630721/photo/1",
+                    "media_key": "3_1673256197707960322",
+                    "start": 280,
+                    "url": "https://t.co/UHHZj3v32h"
+                },
+                {
+                    "display_url": "pic.twitter.com/UHHZj3v32h",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1673256566265630721/photo/1",
+                    "media_key": "3_1673256214434816001",
+                    "start": 280,
+                    "url": "https://t.co/UHHZj3v32h"
+                }
+            ]
+        },
+        "id": "1673256566265630721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 83,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "A recent long-term cooperation agreement between Ecocem and CB Green to supply and grind limestone fillers at our plant in Northern France will allow us to scale and supply ACT to concrete players located in key markets from Paris to London and Amsterdam: https://t.co/XYQ83x9GSR https://t.co/UHHZj3v32h"
+    }
+}

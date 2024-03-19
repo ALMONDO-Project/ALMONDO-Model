@@ -1,0 +1,87 @@
+{
+    "1624015578745786368": {
+        "attachments": {
+            "media_keys": [
+                "3_1624015576900182019"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-02-10T12:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1624015578745786368"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "US Department of Energy",
+                    "probability": 0.761,
+                    "start": 27,
+                    "type": "Place"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "IRA",
+                    "probability": 0.7808,
+                    "start": 89,
+                    "type": "Organization"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.4193,
+                    "start": 162,
+                    "type": "Place"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "US",
+                    "probability": 0.9667,
+                    "start": 186,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 92,
+                    "start": 88,
+                    "tag": "IRA"
+                },
+                {
+                    "end": 171,
+                    "start": 161,
+                    "tag": "LowCarbon"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 207,
+                    "id": "18949452",
+                    "start": 204,
+                    "username": "FT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DjzO1wgqLN",
+                    "end": 233,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1624015578745786368/photo/1",
+                    "media_key": "3_1624015576900182019",
+                    "start": 210,
+                    "url": "https://t.co/DjzO1wgqLN"
+                }
+            ]
+        },
+        "id": "1624015578745786368",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 120,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "A Christmas card. From the US Department of Energy. Well that was a welcome surprise. \n\n#IRA funding is creating a range of opportunities to scale investment in #LowCarbon cement in the US as seen in the @FT \ud83d\udcf0 https://t.co/DjzO1wgqLN"
+    }
+}

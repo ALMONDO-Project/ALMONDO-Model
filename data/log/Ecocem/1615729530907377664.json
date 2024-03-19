@@ -1,0 +1,83 @@
+{
+    "1615729530907377664": {
+        "attachments": {
+            "media_keys": [
+                "3_1615729528772378624"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-01-18T15:15:13.000Z",
+        "edit_history_tweet_ids": [
+            "1615729530907377664"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "ClimateActionNetwork",
+                    "probability": 0.7582,
+                    "start": 79,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 99,
+                    "start": 78,
+                    "tag": "ClimateActionNetwork"
+                },
+                {
+                    "end": 236,
+                    "start": 220,
+                    "tag": "Decarbonisation"
+                },
+                {
+                    "end": 251,
+                    "start": 244,
+                    "tag": "Cement"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 136,
+                    "id": "393446643",
+                    "start": 121,
+                    "username": "GdParisExpress"
+                },
+                {
+                    "end": 152,
+                    "id": "42973904",
+                    "start": 138,
+                    "username": "DGEntreprises"
+                },
+                {
+                    "end": 173,
+                    "id": "188064515",
+                    "start": 157,
+                    "username": "theShiftPR0JECT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/VWCoZ4H2G9",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1615729530907377664/photo/1",
+                    "media_key": "3_1615729528772378624",
+                    "start": 262,
+                    "url": "https://t.co/VWCoZ4H2G9"
+                }
+            ]
+        },
+        "id": "1615729530907377664",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 119,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The climate conversation continues. \n\nWhat a great morning taking part in the #ClimateActionNetwork roundtable alongside @GdParisExpress  @DGEntreprises and @theShiftPR0JECT to discuss the solutions and obstacles to the #Decarbonisation of the #Cement industry. https://t.co/VWCoZ4H2G9"
+    }
+}

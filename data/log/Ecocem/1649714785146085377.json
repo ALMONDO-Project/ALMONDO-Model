@@ -1,0 +1,70 @@
+{
+    "1649714785146085377": {
+        "attachments": {
+            "media_keys": [
+                "3_1649714783728332801"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-04-22T10:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1649714785146085377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "EarthDay",
+                    "probability": 0.8609,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "CO2",
+                    "probability": 0.7439,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 12,
+                    "tag": "EarthDay"
+                },
+                {
+                    "end": 49,
+                    "start": 31,
+                    "tag": "InvestInOurPlanet"
+                },
+                {
+                    "end": 72,
+                    "start": 65,
+                    "tag": "cement"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/mmzpj79ZtC",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1649714785146085377/photo/1",
+                    "media_key": "3_1649714783728332801",
+                    "start": 265,
+                    "url": "https://t.co/mmzpj79ZtC"
+                }
+            ]
+        },
+        "id": "1649714785146085377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 133,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "This year\u2019s #EarthDay theme is #InvestInOurPlanet.\n\nDid you know #cement is one of the most polluting industries on the planet?\n\n\u2708\ufe0fCement emits 3x more carbon than aviation\n\ud83c\udf0eIf the cement industry were a country it would be the 3rd largest CO2 emitter in the world https://t.co/mmzpj79ZtC"
+    }
+}

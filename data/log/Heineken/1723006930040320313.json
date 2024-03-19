@@ -1,0 +1,45 @@
+{
+    "1723006930040320313": {
+        "author_id": "29191062",
+        "created_at": "2023-11-10T15:57:18.000Z",
+        "edit_history_tweet_ids": [
+            "1723006930040320313"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "hoppy",
+                    "probability": 0.6515,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1643005064519221252",
+                    "start": 0,
+                    "username": "edge_of_obsess"
+                },
+                {
+                    "end": 30,
+                    "id": "1474864731571687425",
+                    "start": 16,
+                    "username": "imjustinryan_"
+                }
+            ]
+        },
+        "id": "1723006930040320313",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 45,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@edge_of_obsess @imjustinryan_ Cheers to 'hoppy' and sunny fairytales!"
+    }
+}

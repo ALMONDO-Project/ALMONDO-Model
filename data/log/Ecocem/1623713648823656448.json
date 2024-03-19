@@ -1,0 +1,96 @@
+{
+    "1623713648823656448": {
+        "attachments": {
+            "media_keys": [
+                "3_1623713647477288963",
+                "3_1623713647326334977"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-02-09T16:01:15.000Z",
+        "edit_history_tweet_ids": [
+            "1623713648823656448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Le Grand Paris Express",
+                    "probability": 0.8316,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Europe",
+                    "probability": 0.9697,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.4878,
+                    "start": 160,
+                    "type": "Other"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "Paris",
+                    "probability": 0.9926,
+                    "start": 202,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 10,
+                    "tag": "Decarbonisation"
+                },
+                {
+                    "end": 169,
+                    "start": 159,
+                    "tag": "LowCarbon"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 258,
+                    "id": "581871857",
+                    "start": 247,
+                    "username": "ukConcrete"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/x37yCsaGTN",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1623713648823656448/photo/1",
+                    "media_key": "3_1623713647477288963",
+                    "start": 259,
+                    "url": "https://t.co/x37yCsaGTN"
+                },
+                {
+                    "display_url": "pic.twitter.com/x37yCsaGTN",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1623713648823656448/photo/1",
+                    "media_key": "3_1623713647326334977",
+                    "start": 259,
+                    "url": "https://t.co/x37yCsaGTN"
+                }
+            ]
+        },
+        "id": "1623713648823656448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 174,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Next stop #Decarbonisation \ud83d\ude89\n\nLe Grand Paris Express is one of Europe's largest transport infrastructure projects and our materials are being used to create a #LowCarbon transport system and future for Paris. \n\nCheck us out in the latest issue of @ukConcrete https://t.co/x37yCsaGTN"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "1623630084425785347": {
+        "attachments": {
+            "media_keys": [
+                "3_1623629698151374848",
+                "3_1623629698277298176"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-02-09T10:29:12.000Z",
+        "edit_history_tweet_ids": [
+            "1623630084425785347"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "LA",
+                    "probability": 0.98,
+                    "start": 6,
+                    "type": "Place"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "US",
+                    "probability": 0.9642,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "EU",
+                    "probability": 0.9744,
+                    "start": 107,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4902,
+                    "start": 121,
+                    "type": "Organization"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Donal O'Riain",
+                    "probability": 0.6158,
+                    "start": 173,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "EU",
+                    "probability": 0.9569,
+                    "start": 249,
+                    "type": "Place"
+                },
+                {
+                    "end": 259,
+                    "normalized_text": "US",
+                    "probability": 0.9629,
+                    "start": 258,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 128,
+                    "start": 120,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 212,
+                    "id": "821140791166783488",
+                    "start": 199,
+                    "username": "LindaDaley19"
+                },
+                {
+                    "end": 228,
+                    "id": "107824681",
+                    "start": 216,
+                    "username": "ST__Ireland"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Nq09dVNoe3",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1623630084425785347/photo/1",
+                    "media_key": "3_1623629698151374848",
+                    "start": 262,
+                    "url": "https://t.co/Nq09dVNoe3"
+                },
+                {
+                    "display_url": "pic.twitter.com/Nq09dVNoe3",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1623630084425785347/photo/1",
+                    "media_key": "3_1623629698277298176",
+                    "start": 262,
+                    "url": "https://t.co/Nq09dVNoe3"
+                }
+            ]
+        },
+        "id": "1623630084425785347",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 94,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Hello LA \u2600\ufe0f\n\nWe've found our first manufacturing site in the US, and we remain committed to supporting the EU reach its #NetZero goals.\n\nFounder and Group Manager Director, Donal O'Riain, spoke with @LindaDaley19 of @ST__Ireland about plans for the EU &amp; US. https://t.co/Nq09dVNoe3"
+    }
+}

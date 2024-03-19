@@ -1,0 +1,39 @@
+{
+    "1724758285796925690": {
+        "author_id": "29191062",
+        "created_at": "2023-11-15T11:56:34.000Z",
+        "edit_history_tweet_ids": [
+            "1724758285796925690"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "Las Vegas",
+                    "probability": 0.9852,
+                    "start": 74,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "140409019",
+                    "start": 0,
+                    "username": "ESPNF1"
+                }
+            ]
+        },
+        "id": "1724758285796925690",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5180,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ESPNF1 Providing ideas for sofa positions to enjoy the weekend action in Las Vegas \ud83e\udd14"
+    }
+}

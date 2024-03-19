@@ -1,0 +1,39 @@
+{
+    "1722193403750891882": {
+        "author_id": "29191062",
+        "created_at": "2023-11-08T10:04:38.000Z",
+        "edit_history_tweet_ids": [
+            "1722193403750891882"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Brighton",
+                    "probability": 0.5102,
+                    "start": 43,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1543206787",
+                    "start": 0,
+                    "username": "Jackalbion96"
+                }
+            ]
+        },
+        "id": "1722193403750891882",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1607,
+            "like_count": 96,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@Jackalbion96 Cheers! \ud83c\udf7b (And good luck for Brighton \ud83d\ude09)"
+    }
+}

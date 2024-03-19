@@ -1,0 +1,84 @@
+{
+    "1734197887582581008": {
+        "author_id": "21325242",
+        "created_at": "2023-12-11T13:06:10.000Z",
+        "edit_history_tweet_ids": [
+            "1734197887582581008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 253,
+                    "normalized_text": "COP28",
+                    "probability": 0.766,
+                    "start": 249,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "COP28UAE",
+                    "probability": 0.7432,
+                    "start": 256,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 66,
+                    "tag": "cement"
+                },
+                {
+                    "end": 206,
+                    "start": 196,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 223,
+                    "start": 207,
+                    "tag": "LowCarbonCement"
+                },
+                {
+                    "end": 235,
+                    "start": 224,
+                    "tag": "Technology"
+                },
+                {
+                    "end": 247,
+                    "start": 236,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 254,
+                    "start": 248,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 264,
+                    "start": 255,
+                    "tag": "COP28UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/COP28_UAE/stat\u2026",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/COP28_UAE/status/1730923191059550615",
+                    "start": 265,
+                    "url": "https://t.co/gTJHFtKkMG"
+                }
+            ]
+        },
+        "id": "1734197887582581008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 214,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "This has enormous potential\u00a0for all hard-to-abate industries.\u00a0The #cement industry is responsible for almost 8% of all global emissions and should be a key focus for this type of intervention \ud83e\udee7 \n\n#LowCarbon #LowCarbonCement #Technology #Innovation #COP28 #COP28UAE https://t.co/gTJHFtKkMG"
+    }
+}

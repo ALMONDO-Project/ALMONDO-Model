@@ -1,0 +1,75 @@
+{
+    "1727274420140740856": {
+        "author_id": "21325242",
+        "created_at": "2023-11-22T10:34:47.000Z",
+        "edit_history_tweet_ids": [
+            "1727274420140740856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "European Parliament",
+                    "probability": 0.9322,
+                    "start": 15,
+                    "type": "Organization"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "NetZeroIndustryAct",
+                    "probability": 0.4691,
+                    "start": 64,
+                    "type": "Organization"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "EU",
+                    "probability": 0.9744,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "CCS",
+                    "probability": 0.4176,
+                    "start": 200,
+                    "type": "Organization"
+                },
+                {
+                    "end": 271,
+                    "normalized_text": "CO2",
+                    "probability": 0.6034,
+                    "start": 269,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 63,
+                    "tag": "NetZeroIndustryAct"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/Ecocem/status/\u2026",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1726960564063416436",
+                    "start": 278,
+                    "url": "https://t.co/KrlkmHiDdT"
+                }
+            ]
+        },
+        "id": "1727274420140740856",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 185,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Yesterday, the European Parliament adopted its position on the #NetZeroIndustryAct, and the EU is one step closer to scaling up cleantech manufacturing. \ud83c\udf8a\n\nWe're calling for more ambition in limiting CCS.\n\nIt's time to focus on existing, scalable tech that designs the CO2 out. https://t.co/KrlkmHiDdT"
+    }
+}

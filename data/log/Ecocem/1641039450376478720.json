@@ -1,0 +1,87 @@
+{
+    "1641039450376478720": {
+        "attachments": {
+            "media_keys": [
+                "3_1641038331235430400"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-03-29T11:27:48.000Z",
+        "edit_history_tweet_ids": [
+            "1641039450376478720"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "ECS2023",
+                    "probability": 0.7698,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.591,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "EuropeanCoatings",
+                    "probability": 0.5197,
+                    "start": 196,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 16,
+                    "tag": "ECS2023"
+                },
+                {
+                    "end": 91,
+                    "start": 81,
+                    "tag": "LowCarbon"
+                },
+                {
+                    "end": 180,
+                    "start": 173,
+                    "tag": "Ecocem"
+                },
+                {
+                    "end": 194,
+                    "start": 181,
+                    "tag": "DryMixMortar"
+                },
+                {
+                    "end": 212,
+                    "start": 195,
+                    "tag": "EuropeanCoatings"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/z6hjPHvcvU",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1641039450376478720/photo/1",
+                    "media_key": "3_1641038331235430400",
+                    "start": 213,
+                    "url": "https://t.co/z6hjPHvcvU"
+                }
+            ]
+        },
+        "id": "1641039450376478720",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 157,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "It\u2019s day two of #ECS2023 and we're asking attendees if they think the demand for #LowCarbon binders is increasing, decreasing or has remained the same \u2013 what do you think?\n\n#Ecocem #DryMixMortar #EuropeanCoatings https://t.co/z6hjPHvcvU"
+    }
+}

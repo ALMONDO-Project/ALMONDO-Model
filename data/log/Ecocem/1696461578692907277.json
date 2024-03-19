@@ -1,0 +1,77 @@
+{
+    "1696461578692907277": {
+        "attachments": {
+            "media_keys": [
+                "3_1696458202689257472"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-08-29T09:55:33.000Z",
+        "edit_history_tweet_ids": [
+            "1696461578692907277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Eoin Condren",
+                    "probability": 0.8563,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 267,
+                    "normalized_text": "Europe",
+                    "probability": 0.9723,
+                    "start": 262,
+                    "type": "Place"
+                },
+                {
+                    "end": 279,
+                    "normalized_text": "US",
+                    "probability": 0.9698,
+                    "start": 278,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 23,
+                    "tag": "CorporateDevelopment"
+                },
+                {
+                    "end": 268,
+                    "start": 261,
+                    "tag": "Europe"
+                },
+                {
+                    "end": 280,
+                    "start": 277,
+                    "tag": "US"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/HmBNk49Ay4",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1696461578692907277/photo/1",
+                    "media_key": "3_1696458202689257472",
+                    "start": 281,
+                    "url": "https://t.co/HmBNk49Ay4"
+                }
+            ]
+        },
+        "id": "1696461578692907277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 156,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Eoin Condren leads our #CorporateDevelopment team, covering corporate and financial strategy, planning, funding, public affairs, and promotion. He has over 15 years\u2019 experience structuring complex joint venture and private equity investment transactions across #Europe and the #US https://t.co/HmBNk49Ay4"
+    }
+}

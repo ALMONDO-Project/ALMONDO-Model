@@ -1,0 +1,46 @@
+{
+    "1721514248596025752": {
+        "author_id": "29191062",
+        "created_at": "2023-11-06T13:05:55.000Z",
+        "edit_history_tweet_ids": [
+            "1721514248596025752"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Manuel",
+                    "probability": 0.8049,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Harry",
+                    "probability": 0.8733,
+                    "start": 62,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "627673190",
+                    "start": 0,
+                    "username": "ChampionsLeague"
+                }
+            ]
+        },
+        "id": "1721514248596025752",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1759,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@ChampionsLeague Manuel is clearly thinking, 'thank the stars Harry plays now in my team'."
+    }
+}

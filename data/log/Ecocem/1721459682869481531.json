@@ -1,0 +1,108 @@
+{
+    "1721459682869481531": {
+        "attachments": {
+            "media_keys": [
+                "7_1721459259177607168"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-11-06T09:29:06.000Z",
+        "edit_history_tweet_ids": [
+            "1721459682869481531"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 97,
+                    "normalized_text": "India",
+                    "probability": 0.9715,
+                    "start": 93,
+                    "type": "Place"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Canada",
+                    "probability": 0.9804,
+                    "start": 100,
+                    "type": "Place"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "South America",
+                    "probability": 0.951,
+                    "start": 108,
+                    "type": "Place"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Europe",
+                    "probability": 0.972,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 234,
+                    "normalized_text": "Ecocem",
+                    "probability": 0.4839,
+                    "start": 229,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "EcocemSymposium",
+                    "probability": 0.5458,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 55,
+                    "tag": "cement"
+                },
+                {
+                    "end": 76,
+                    "start": 67,
+                    "tag": "concrete"
+                },
+                {
+                    "end": 235,
+                    "start": 228,
+                    "tag": "Ecocem"
+                },
+                {
+                    "end": 255,
+                    "start": 239,
+                    "tag": "EcocemSymposium"
+                },
+                {
+                    "end": 279,
+                    "start": 256,
+                    "tag": "ResearchAndDevelopment"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/eb0jx9BmbN",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1721459682869481531/video/1",
+                    "media_key": "7_1721459259177607168",
+                    "start": 280,
+                    "url": "https://t.co/eb0jx9BmbN"
+                }
+            ]
+        },
+        "id": "1721459682869481531",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 151,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "11 of the world\u2019s leading materials science experts in #cement and #concrete technology from India, Canada, South America, and Europe will come together on the 9th and 10th of November for a two-day Science Symposium, hosted by #Ecocem \n \n#EcocemSymposium #ResearchAndDevelopment https://t.co/eb0jx9BmbN"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1643191789967343616": {
+        "attachments": {
+            "media_keys": [
+                "3_1643191787714953221"
+            ]
+        },
+        "author_id": "21325242",
+        "created_at": "2023-04-04T10:00:26.000Z",
+        "edit_history_tweet_ids": [
+            "1643191789967343616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "he",
+                    "probability": 0.9301,
+                    "start": 67,
+                    "type": "Place"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "on #REPow",
+                    "probability": 0.6372,
+                    "start": 130,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 70,
+                    "tag": "EU"
+                },
+                {
+                    "end": 143,
+                    "start": 133,
+                    "tag": "REPowerEU"
+                },
+                {
+                    "end": 264,
+                    "start": 256,
+                    "tag": "Climate"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ayn2ufFNVp",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Ecocem/status/1643191789967343616/photo/1",
+                    "media_key": "3_1643191787714953221",
+                    "start": 273,
+                    "url": "https://t.co/ayn2ufFNVp"
+                }
+            ]
+        },
+        "id": "1643191789967343616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 150,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Teamwork helps make the dream work \ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1\n\nLast month, Mayors from the #EU met to discuss the vital role cities play in delivering on #REPowerEU.\n\nWe continue to advocate for Government collaboration to enable scalability of key innovations to confront the #Climate crisis. https://t.co/ayn2ufFNVp"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1626258793183977475": {
+        "author_id": "21325242",
+        "created_at": "2023-02-16T16:34:45.000Z",
+        "edit_history_tweet_ids": [
+            "1626258793183977475"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Europe",
+                    "probability": 0.9648,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "LowCarbon",
+                    "probability": 0.4934,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Europe",
+                    "probability": 0.9627,
+                    "start": 98,
+                    "type": "Place"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "Donal O\u2019Riain",
+                    "probability": 0.8841,
+                    "start": 143,
+                    "type": "Person"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "US",
+                    "probability": 0.9659,
+                    "start": 237,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 85,
+                    "start": 75,
+                    "tag": "LowCarbon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/YovB50MUqxS",
+                    "end": 275,
+                    "expanded_url": "http://ow.ly/YovB50MUqxS",
+                    "start": 252,
+                    "status": 404,
+                    "unwound_url": "https://www.ecocemglobal.com/the-race-for-green-technology-just-accelerated/",
+                    "url": "https://t.co/IYk9OdJIes"
+                }
+            ]
+        },
+        "id": "1626258793183977475",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 106,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Europe\u2019s green innovators have the will and ambition to invest in scalable #LowCarbon solutions.\n\nEurope must level up and support them.\n\nRead Donal O\u2019Riain\u2019s perspective on the need to level up support, as other global players like the US are doing.\n\nhttps://t.co/IYk9OdJIes"
+    }
+}

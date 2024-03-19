@@ -1,0 +1,94 @@
+{
+    "1695343419646701639": {
+        "author_id": "21325242",
+        "created_at": "2023-08-26T07:52:23.000Z",
+        "edit_history_tweet_ids": [
+            "1695343419646701639"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 125,
+                    "normalized_text": "ESG",
+                    "probability": 0.3891,
+                    "start": 123,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 222,
+                    "start": 210,
+                    "tag": "decarbonise"
+                },
+                {
+                    "end": 230,
+                    "start": 223,
+                    "tag": "cement"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 98,
+                    "id": "297625496",
+                    "start": 86,
+                    "username": "ClaudeLorea"
+                },
+                {
+                    "end": 147,
+                    "id": "1062374299665948677",
+                    "start": 139,
+                    "username": "theGCCA"
+                },
+                {
+                    "end": 162,
+                    "id": "3108351",
+                    "start": 158,
+                    "username": "WSJ"
+                },
+                {
+                    "end": 181,
+                    "id": "1599389705862275072",
+                    "start": 172,
+                    "username": "yusmkhan"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Roughly 7% of all CO2 emissions come from cement production, and with populations rising, more buildings are going to be needed.",
+                    "display_url": "wsj.com/articles/build\u2026",
+                    "end": 255,
+                    "expanded_url": "https://www.wsj.com/articles/building-green-new-technologies-to-create-less-polluting-cement-2c03b680#:~:text=Cemex%2C%20one%20of%20the%20world's,produced%20clinker%20without%20fossil%20fuels",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://pbs.twimg.com/news_img/1767228947324977153/2FKQWNiP?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1767228947324977153/2FKQWNiP?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 232,
+                    "status": 200,
+                    "title": "Building Green: New Technologies to Create Less Polluting Cement",
+                    "unwound_url": "https://www.wsj.com/articles/building-green-new-technologies-to-create-less-polluting-cement-2c03b680#:~:text=Cemex%2C%20one%20of%20the%20world's,produced%20clinker%20without%20fossil%20fuels",
+                    "url": "https://t.co/31cuHx9ZH5"
+                }
+            ]
+        },
+        "id": "1695343419646701639",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 157,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\u201cThree-quarters of the infrastructure that will exist in 2050 has yet to be built.\u201d - @ClaudeLorea, Cement, Innovation and ESG Director at @theGCCA\n\nA recent @WSJ piece by @yusmkhan looks at the urgent need to #decarbonise #cement: https://t.co/31cuHx9ZH5"
+    }
+}

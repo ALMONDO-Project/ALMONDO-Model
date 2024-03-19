@@ -1,0 +1,45 @@
+{
+    "1724363674201067778": {
+        "author_id": "29191062",
+        "created_at": "2023-11-14T09:48:31.000Z",
+        "edit_history_tweet_ids": [
+            "1724363674201067778"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Guenther",
+                    "probability": 0.3964,
+                    "start": 27,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 3,
+                    "id": "69008563",
+                    "start": 0,
+                    "username": "F1"
+                },
+                {
+                    "end": 15,
+                    "id": "2303406624",
+                    "start": 4,
+                    "username": "HaasF1Team"
+                }
+            ]
+        },
+        "id": "1724363674201067778",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 288,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@F1 @HaasF1Team We are all Guenther!"
+    }
+}

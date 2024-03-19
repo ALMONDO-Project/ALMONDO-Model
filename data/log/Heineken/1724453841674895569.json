@@ -1,0 +1,53 @@
+{
+    "1724453841674895569": {
+        "author_id": "29191062",
+        "created_at": "2023-11-14T15:46:49.000Z",
+        "edit_history_tweet_ids": [
+            "1724453841674895569"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Barcelona",
+                    "probability": 0.483,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "Catalunya",
+                    "probability": 0.6537,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "F1 Grand Prix",
+                    "probability": 0.7904,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 4,
+                    "id": "56377143",
+                    "start": 0,
+                    "username": "KLM"
+                }
+            ]
+        },
+        "id": "1724453841674895569",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 863,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@KLM Circuit de Barcelona-Catalunya! What's our shared connection with the F1 Grand Prix winner for the past two years? \ud83e\udd14"
+    }
+}

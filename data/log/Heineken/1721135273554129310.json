@@ -1,0 +1,70 @@
+{
+    "1721135273554129310": {
+        "attachments": {
+            "media_keys": [
+                "3_1720102713000697856"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-11-05T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1721135273554129310"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "F1",
+                    "probability": 0.7757,
+                    "start": 49,
+                    "type": "Organization"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "BrazilGP",
+                    "probability": 0.8966,
+                    "start": 53,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 48,
+                    "tag": "F1"
+                },
+                {
+                    "end": 61,
+                    "start": 52,
+                    "tag": "BrazilGP"
+                },
+                {
+                    "end": 85,
+                    "start": 62,
+                    "tag": "WhenYouDriveNeverDrink"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/XgTdjg9UR2",
+                    "end": 109,
+                    "expanded_url": "https://twitter.com/Heineken/status/1721135273554129310/photo/1",
+                    "media_key": "3_1720102713000697856",
+                    "start": 86,
+                    "url": "https://t.co/XgTdjg9UR2"
+                }
+            ]
+        },
+        "id": "1721135273554129310",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12659,
+            "like_count": 65,
+            "quote_count": 1,
+            "reply_count": 9,
+            "retweet_count": 14
+        },
+        "text": "The most refreshing way to refuel this weekend! #F1 #BrazilGP #WhenYouDriveNeverDrink https://t.co/XgTdjg9UR2"
+    }
+}
