@@ -18,9 +18,13 @@ def main():
             user_data.set_client()
             user_data.set_user_data()
             user_data.make_dirs()
-            user_data.download(count)
-            users_to_do_update(INPUT, LOG)
-            count = min(compute_max_tweets(BEARER_TOKEN), 3000)
+            if not user_data.download(count):
+                users_to_do_update(INPUT, LOG)
+                count = min(compute_max_tweets(BEARER_TOKEN), 3000)
+                continue
+            else:
+                count = min(compute_max_tweets(BEARER_TOKEN), 3000)
+                user_data.download(count)
         print('>>> process ended')   
     
 if __name__ == "__main__":

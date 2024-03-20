@@ -4,11 +4,12 @@ import json
 import requests
 import logging
 from datetime import datetime, timedelta
+import time
 
 # client = tweepy.client(BEARER_TOKEN)
 
 def users_to_do_update(input_data_path: str, log_data_path: str):
-    #update the file with remaining users to retreive tweets from
+    log_message('>>> users to do updating')
     with open(log_data_path+'/users_done.txt', 'r') as lfile:
         lines = lfile.readlines()
         users_done = [line.strip() for line in lines]
@@ -18,11 +19,11 @@ def users_to_do_update(input_data_path: str, log_data_path: str):
         users_to_do = [line.strip() for line in lines]
     
     res = filter(lambda i: i not in users_done, users_to_do)
-    
+    print(res)
     with open(input_data_path+'/users_to_do.txt', 'w') as ofile:
         users_to_do_string = '\n'.join(res)
         ofile.write(users_to_do_string)
-    
+    log_message('>>> users to do updated')
     return 
 
 def read_users(input_data_path: str):
@@ -81,33 +82,14 @@ def compute_max_tweets(bearer_token: str):
 #             last_tweet = list(json.load(file))[-1]
 #         return last_tweet['id']
 
-def new_end_time(path): #start time deve rimanere 1 gennaio, end time deve diventare prima del 31 dicembre
-    try:
-        json_files = [int(file.replace('.json', '')) for file in os.listdir(path) if file.endswith('.json') and file.startswith('1')]
-        json_files.sort()
-        with open(f'{path}/{json_files[0]}.json', 'r') as file:
-            tweet = json.load(file)
-            created_at_str = tweet[str(json_files[0])]['created_at']
-            created_at_dt = datetime.strptime(created_at_str, '%Y-%m-%dT%H:%M:%S.%fZ')
-            created_at_dt -= timedelta(seconds=1)
-    except (IndexError) as e:
-        created_at_dt = datetime(2023, 12, 31, 23, 59, 59)
-        print(f"An error occurred: {e}. Setting default start time to {created_at_dt}")
-    
-    # Ensure proper RFC3339 format
-    updated_created_at_str = created_at_dt.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
-    return updated_created_at_str
+
 
 # Function to log messages to a file
 def log_message(message):
+    now = time.time()
     LOG_FILE_PATH = "data/log/messages.log"
     with open(LOG_FILE_PATH, "a") as log_file:
-        log_file.write(message + "\n")
-    
-def is_before(start_date_str, end_date_str):
-    start_date = datetime.strptime(start_date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
-    end_date = datetime.strptime(end_date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
-    return start_date < end_date    
+        log_file.write(str(now) + "    " + message + "\n")
         
 def update_users_done(username):
     print(f'>>> finished with user {username}')

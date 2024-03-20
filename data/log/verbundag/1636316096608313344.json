@@ -1,0 +1,56 @@
+{
+    "1636316096608313344": {
+        "author_id": "23045838",
+        "created_at": "2023-03-16T10:38:53.000Z",
+        "edit_history_tweet_ids": [
+            "1636316096608313344"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 96,
+                    "start": 87,
+                    "tag": "BilanzPK"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1498614953917485060",
+                    "start": 0,
+                    "username": "sturn_j"
+                },
+                {
+                    "end": 20,
+                    "id": "892578998",
+                    "start": 9,
+                    "username": "PeterRippl"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Folgen Sie unserer aktuellen Pressekonferenz online und live",
+                    "display_url": "verbund.com/de-at/ueber-ve\u2026",
+                    "end": 120,
+                    "expanded_url": "https://www.verbund.com/de-at/ueber-verbund/news-presse/pressekonferenz",
+                    "start": 97,
+                    "status": 200,
+                    "title": "Live-Stream der aktuellen VERBUND-Pressekonferenz",
+                    "unwound_url": "https://www.verbund.com/de-at/ueber-verbund/news-presse/pressekonferenz",
+                    "url": "https://t.co/KU1KskmrNL"
+                }
+            ]
+        },
+        "id": "1636316096608313344",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 29,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sturn_j @PeterRippl Die gesamte heutige Pressekonferenz gibt es hier zum Nachschauen: #BilanzPK\nhttps://t.co/KU1KskmrNL"
+    }
+}

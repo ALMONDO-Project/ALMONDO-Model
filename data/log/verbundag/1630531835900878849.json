@@ -1,0 +1,47 @@
+{
+    "1630531835900878849": {
+        "author_id": "23045838",
+        "created_at": "2023-02-28T11:34:18.000Z",
+        "edit_history_tweet_ids": [
+            "1630531835900878849"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "2164534219",
+                    "start": 0,
+                    "username": "Harald_Friebe"
+                },
+                {
+                    "end": 26,
+                    "id": "1158279114685669377",
+                    "start": 15,
+                    "username": "klimarecht"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "oesterreichsenergie.at/aktuelles/neui\u2026",
+                    "end": 141,
+                    "expanded_url": "https://oesterreichsenergie.at/aktuelles/neuigkeiten/detailseite/strompreisstabilitaet",
+                    "start": 118,
+                    "status": 200,
+                    "unwound_url": "https://oesterreichsenergie.at/aktuelles/neuigkeiten/detailseite/strompreisstabilitaet",
+                    "url": "https://t.co/igEhED1TmY"
+                }
+            ]
+        },
+        "id": "1630531835900878849",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 34,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Harald_Friebe @klimarecht Die Stromgro\u00dfhandelspreise sind bereits seit Beginn des 3. Quartals 2021 stark gestiegen. \nhttps://t.co/igEhED1TmY"
+    }
+}

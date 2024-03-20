@@ -1,0 +1,38 @@
+{
+    "1716833793976483916": {
+        "author_id": "23045838",
+        "created_at": "2023-10-24T15:07:28.000Z",
+        "edit_history_tweet_ids": [
+            "1716833793976483916"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "European Hydropower Alliance",
+                    "probability": 0.473,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "Europe",
+                    "probability": 0.9704,
+                    "start": 137,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1716833793976483916",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 97,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "The European Hydropower Alliance unites the largest operators of hydropower plants with a total installed capacity of over 112,000 MW in Europe. Its goal is to perpetuate the role of sustainable hydropower in a clean energy future."
+    }
+}

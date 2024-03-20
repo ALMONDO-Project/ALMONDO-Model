@@ -1,0 +1,60 @@
+{
+    "1707669081132769662": {
+        "attachments": {
+            "media_keys": [
+                "3_1707669074996527104"
+            ]
+        },
+        "author_id": "23045838",
+        "created_at": "2023-09-29T08:10:10.000Z",
+        "edit_history_tweet_ids": [
+            "1707669081132769662"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Peter F. Kollmann",
+                    "probability": 0.9462,
+                    "start": 51,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "VERBUND",
+                    "probability": 0.3692,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 25,
+                    "tag": "inspire"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/QwTzazJvZi",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/verbundag/status/1707669081132769662/photo/1",
+                    "media_key": "3_1707669074996527104",
+                    "start": 213,
+                    "url": "https://t.co/QwTzazJvZi"
+                }
+            ]
+        },
+        "id": "1707669081132769662",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 144,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Kicking off day three of #inspire energy summit is Peter F. Kollmann, CFO of VERBUND, who emphasizes: \u201eThe three key factors for the energy transition to be implemented are capital, competences and coordination.\u201c https://t.co/QwTzazJvZi"
+    }
+}

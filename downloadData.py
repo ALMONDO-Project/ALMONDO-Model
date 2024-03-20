@@ -54,21 +54,22 @@ class UserDataDownload():
         self.user = self.client.get_user(username=self.username)
         self.user_id = self.user.data.id
         
-    # def set_until_id(self):
-    #     print(f'retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
-    #     if os.path.exists(self.userlogpath):
-    #         try:
-    #             json_files = [file.replace('.json', '') for file in os.listdir(self.userlogpath) if file.endswith('.json')]
-    #             json_files.sort()
-    #             smallest_id = json_files[0].replace('.json', '')
-    #         except IndexError:
-    #             smallest_id = None
-    #     else:
-    #         smallest_id = None
-    #         print(f'>>> no saved data for user {self.username}')
+    def set_until_id(self):
+        print(f'retrieving tweets with id smaller than {self.until_id}') #the starting tweet id should be less than this
+        if os.path.exists(self.userlogpath):
+            try:
+                json_files = [file.replace('.json', '') for file in os.listdir(self.userlogpath) if file.endswith('.json')]
+                json_files.sort()
+                smallest_id = json_files[0].replace('.json', '')
+            except IndexError:
+                smallest_id = None
+                log_message(f'>>> no saved data for user {self.username}')
+        else:
+            smallest_id = None
+            log_message(f'>>> no saved data for user {self.username}')
         
-    #     self.until_id = smallest_id
-    #     print(f'>>> retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
+        self.until_id = smallest_id
+        log_message(f'>>> retrieving tweets with id older than {self.until_id}') #the starting tweet id should be less than this
               
     def make_dirs(self):
         try:
@@ -92,69 +93,25 @@ class UserDataDownload():
         except OSError as e:
             print(e)
             
-    # def set_output_filename(self):
-    #     # Set output filename for storing tweets
-    #     self.make_dirs()
-    #     self.filename = f'{self.useroutdatapath}/{self.username}_tweets.json'
-            
-    # def set_max_tweets(self, bearer_token, n=None):
-    #     # Set the maximum number of tweets to download
-    #     left = compute_max_tweets(bearer_token)  # Compute remaining tweets allowed
-    #     print(f'>>> there are {left} tweets left to download')
-    #     self.max_tweets = min(left, n) if n is not None else left  # Set max_tweets to minimum of remaining tweets and n
-    #     print(f'Asking to download {self.max_tweets} tweets at max')
-    #     if left <= 0:
-    #         print('no tweets left')
-    #         return None
-        
-    # def create_tweet_data_list(self):
-    #     self.tweets = []
-    #     if os.path.exists(self.userlogpath):
-    #         try:
-    #             json_files = [file for file in os.listdir(self.userlogpath) if file.endswith('.json')]
-    #             json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
-    #             for json_file in json_files:
-    #                 with open(json_file, 'r') as file:
-    #                     tweet = json.load(file)
-    #                     self.tweets.append(tweet)
-    #         except FileNotFoundError:
-    #             pass         
             
     def dump_tweets(self, tweet, tweet_data):
         if not os.path.exists(f'data/log/{self.username}/{tweet.id}.json'):
             with open(f'data/log/{self.username}/{tweet.id}.json', 'w') as file:
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
+                log_message(f'{tweet.id} dumped')
         else:
             log_message(f'>>> {tweet.id} already dumped, something went wrong')
             raise TweetAlreadyDumpedException
             exit()   
             
-    def set_time_limits(self):
-        self.start_time = "2023-01-01T00:00:00.000Z"
-        
-        if is_before(new_end_time(self.userlogpath), "2023-12-31T23:59:59.000Z"):
-            self.end_time = new_end_time(self.userlogpath)
-        else:
-            self.end_time= "2023-12-31T23:59:59.000Z"
-        
-        if not is_before(self.start_time, self.end_time):
-            raise Exception
-        
-            
-           
-        
+
     def download(self, count):
-        log_message(f'>>> the maximum number of tweets i can retrieve is {count}')
-        print(f'>>> the maximum number of tweets i can retrieve is {count}')
-        
         max_results = 100
         limit = math.ceil(count / max_results)
-        
+        log_message(f'>>> the maximum number of tweets i can retrieve is {count}')
         log_message(f'>>> the process will do at most {limit} calls asking for at most {max_results} tweets per call')
-        print(f'>>> the process will do at most {limit} calls asking for at most {max_results} tweets per call')
         
         self.set_time_limits()
-        
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                                     self.user_id,
                                     exclude = ['retweets'],
@@ -163,7 +120,7 @@ class UserDataDownload():
                                     media_fields = self.media_fields,
                                     user_fields = self.user_fields,
                                     start_time = self.start_time,
-                                    end_time = self.end_time,
+                                    until_id = self.until_id,
                                     limit = limit,
                                     max_results = max_results)
         
@@ -171,39 +128,45 @@ class UserDataDownload():
         print(f'>>> started retrieving tweets from {self.start_time} to {self.end_time}')
         
         for page in self.paginator:
-            log_message(">>> starting a new request") 
+            log_message(">>> getting a new page") 
             try:
                 next_token = page.meta["next_token"] #non l'ho provata sta riga di codice non so se funziona
             except KeyError:
                 next_token = None
+            log_message(f'>>> next_token = {next_token}')
             
             try:    
                 for tweet in tqdm.tqdm(page.data): #così limit = inf però comuque non dovrebbe scaricarmi più di max_results però mi sembra che vada avanti a oltranza senza badare a quel parametro boh
+                    log_message(f">>> retrieving tweet {tweet.data['id']}") 
                     tweet_data = {tweet.data['id']: tweet.data}
                     self.dump_tweets(tweet, tweet_data)
                     count -= 1
                     if count <= 0:
                         return 
             except TypeError:
+                log_message(f">>> user {self.username} done") 
                 with open('data/log/users_done.txt', 'a') as file:
                     file.write('@'+self.username)
                     file.write('\n')
                 return 
             except TweetAlreadyDumpedException:
-                print('>>> check if end_date is set properly')
+                log_message(f">>> tweet {tweet.data['id']} done") 
+                log_message('>>> check if end_date is set properly')
+                print('TweetAlreadyDumpedException')
                 break
                 return
                
             if not next_token:
+                log_message(f"no more pages to retrieve") 
                 with open('data/log/users_done.txt', 'a') as file:
                     file.write('@'+self.username)
                     file.write('\n')
-                return     
+                return None    
             
             log_message('>>> going to sleep for 3 minutes')
             print('>>> going to sleep for 3 minutes')
             time.sleep(2 * 60) #in this way it does a request every two minutes so it does 7/8 requests every 15 minutes
-        
+            log_message('>>> sleep time ended')
     # def save(self):
     #     if len(self.tweets) > 0:
     #         # Save tweets data to file
