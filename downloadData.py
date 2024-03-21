@@ -166,7 +166,6 @@ class UserDataDownload():
         paginator = self.set_paginator()
         return paginator
         
-
     def save_page(self, page):
         if page.data is not None:
             newest_id = page.meta['newest_id']
