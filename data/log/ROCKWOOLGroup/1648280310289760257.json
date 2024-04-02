@@ -1,0 +1,72 @@
+{
+    "1648280310289760257": {
+        "attachments": {
+            "media_keys": [
+                "7_1648280279436480512"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-04-18T11:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1648280310289760257"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "ByNature",
+                    "probability": 0.6943,
+                    "start": 64,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 72,
+                    "start": 63,
+                    "tag": "ByNature"
+                },
+                {
+                    "end": 233,
+                    "start": 226,
+                    "tag": "reused"
+                },
+                {
+                    "end": 246,
+                    "start": 237,
+                    "tag": "recycled"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3xuHh",
+                    "end": 271,
+                    "expanded_url": "https://fal.cn/3xuHh",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.rockwool.com/group/by-nature/",
+                    "url": "https://t.co/UwgpSWCYWH"
+                },
+                {
+                    "display_url": "pic.twitter.com/Efa8JiMWNB",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1648280310289760257/video/1",
+                    "media_key": "7_1648280279436480512",
+                    "start": 272,
+                    "url": "https://t.co/Efa8JiMWNB"
+                }
+            ]
+        },
+        "id": "1648280310289760257",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 673,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Not all building materials are created equal. Ours are created #ByNature. Our products make buildings more energy efficient, safer from fire, healthier, and more comfortable to be in. And our insulation products can easily be #reused or #recycled: https://t.co/UwgpSWCYWH https://t.co/Efa8JiMWNB"
+    }
+}

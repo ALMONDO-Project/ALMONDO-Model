@@ -1,0 +1,97 @@
+{
+    "1654380789172142082": {
+        "attachments": {
+            "media_keys": [
+                "7_1654380714404503553"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-05-05T07:01:31.000Z",
+        "edit_history_tweet_ids": [
+            "1654380789172142082"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 178,
+                    "normalized_text": "San Francisco",
+                    "probability": 0.9631,
+                    "start": 166,
+                    "type": "Place"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": " #SailGPD",
+                    "probability": 0.6682,
+                    "start": 206,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": " #SailGPImpactLeag",
+                    "probability": 0.5275,
+                    "start": 231,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": " #ROCKWO",
+                    "probability": 0.7037,
+                    "start": 251,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 217,
+                    "start": 207,
+                    "tag": "SailGPDEN"
+                },
+                {
+                    "end": 231,
+                    "start": 218,
+                    "tag": "SeasonFinale"
+                },
+                {
+                    "end": 251,
+                    "start": 232,
+                    "tag": "SailGPImpactLeague"
+                },
+                {
+                    "end": 261,
+                    "start": 252,
+                    "tag": "ROCKWOOL"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "1056894556061532160",
+                    "start": 9,
+                    "username": "SailGPDEN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/64xqGvzU77",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1654380789172142082/video/1",
+                    "media_key": "7_1654380714404503553",
+                    "start": 262,
+                    "url": "https://t.co/64xqGvzU77"
+                }
+            ]
+        },
+        "id": "1654380789172142082",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 536,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Will the @SailGPDEN Team win their first top spot? Watch the race this weekend (6-8 May) to find out. In the meantime, we look at what other great firsts the city of San Francisco has on its resum\u00e9 \ud83d\udc68\ud83c\udffe\u200d\ud83d\udcbb\u2600\ufe0f\ud83c\udfe5\u26f5 #SailGPDEN #SeasonFinale #SailGPImpactLeague #ROCKWOOL https://t.co/64xqGvzU77"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "1701861520551096415": {
+        "attachments": {
+            "media_keys": [
+                "3_1701698445692612608"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-09-13T07:33:00.000Z",
+        "edit_history_tweet_ids": [
+            "1701861520551096415"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Baltic Eagle",
+                    "probability": 0.5208,
+                    "start": 78,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "offshorewind",
+                    "probability": 0.4717,
+                    "start": 92,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Germany",
+                    "probability": 0.978,
+                    "start": 220,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 91,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 157,
+                    "start": 147,
+                    "tag": "renewable"
+                },
+                {
+                    "end": 246,
+                    "start": 235,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/88066/iberdrol\u2026",
+                    "end": 270,
+                    "expanded_url": "https://renews.biz/88066/iberdrola-van-oord-install-all-baltic-eagle-monopiles/",
+                    "start": 247,
+                    "unwound_url": "https://renews.biz/88066/iberdrola-van-oord-install-all-baltic-eagle-monopiles/",
+                    "url": "https://t.co/zpsxcsO36b"
+                },
+                {
+                    "display_url": "pic.twitter.com/26S99Udvgo",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1701861520551096415/photo/1",
+                    "media_key": "3_1701698445692612608",
+                    "start": 271,
+                    "url": "https://t.co/26S99Udvgo"
+                }
+            ]
+        },
+        "id": "1701861520551096415",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 26,
+            "impression_count": 2836129,
+            "like_count": 5414,
+            "quote_count": 41,
+            "reply_count": 12,
+            "retweet_count": 514
+        },
+        "text": "Another big step \ud83d\udc63 towards the energy of the FUTURE \u27a1 All 50 monopiles of the Baltic Eagle #offshorewind farm successfully installed.\n\nA great new #renewable project that will provide clean energy to 475,000 families in Germany \ud83c\udf0a\u26a1\ufe0f\ud83c\udfd7\ufe0f\n\n#renewables\nhttps://t.co/zpsxcsO36b https://t.co/26S99Udvgo"
+    }
+}

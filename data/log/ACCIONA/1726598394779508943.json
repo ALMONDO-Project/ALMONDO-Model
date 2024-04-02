@@ -1,0 +1,58 @@
+{
+    "1726598394779508943": {
+        "author_id": "15544077",
+        "created_at": "2023-11-20T13:48:30.000Z",
+        "edit_history_tweet_ids": [
+            "1726598394779508943"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 183,
+                    "normalized_text": "Palawan",
+                    "probability": 0.9165,
+                    "start": 177,
+                    "type": "Place"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "Filipinas",
+                    "probability": 0.8267,
+                    "start": 186,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "2968051607",
+                    "start": 1,
+                    "username": "ACCIONA_ORG"
+                },
+                {
+                    "end": 34,
+                    "id": "281585895",
+                    "start": 25,
+                    "username": "AECID_es"
+                },
+                {
+                    "end": 53,
+                    "id": "14878419",
+                    "start": 37,
+                    "username": "ayalafoundation"
+                }
+            ]
+        },
+        "id": "1726598394779508943",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 726,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": ".@ACCIONA_ORG, junto con @AECID_es y @ayalafoundation, despliega el acceso a electricidad limpia a partir de sistemas fotovoltaicos domiciliarios a las zonas de la provincia de Palawan (Filipinas) sin conexi\u00f3n a la red el\u00e9ctrica convencional \ud83d\udca1\ud83c\uddf5\ud83c\udded"
+    }
+}

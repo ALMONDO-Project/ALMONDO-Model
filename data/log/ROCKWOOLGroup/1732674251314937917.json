@@ -1,0 +1,84 @@
+{
+    "1732674251314937917": {
+        "author_id": "2596278278",
+        "created_at": "2023-12-07T08:11:47.000Z",
+        "edit_history_tweet_ids": [
+            "1732674251314937917"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "COP28",
+                    "probability": 0.8706,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Anne-Marie",
+                    "probability": 0.9054,
+                    "start": 91,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 32,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 202,
+                    "start": 187,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 225,
+                    "start": 216,
+                    "tag": "ROCKWOOL"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 62,
+                    "id": "2596278278",
+                    "start": 48,
+                    "username": "ROCKWOOLGroup"
+                },
+                {
+                    "end": 77,
+                    "id": "1056894556061532160",
+                    "start": 67,
+                    "username": "SailGPDEN"
+                },
+                {
+                    "end": 186,
+                    "id": "1013415426120929280",
+                    "start": 179,
+                    "username": "SailGP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ZSP_ORG/status\u2026",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/ZSP_ORG/status/1732426631418175979",
+                    "start": 227,
+                    "url": "https://t.co/2RpO3cFUZX"
+                }
+            ]
+        },
+        "id": "1732674251314937917",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 504,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The pace is not slowing down at #COP28! \ud83d\udd25\nWatch\u00a0@ROCKWOOLGroup\u00a0and\u00a0@SailGPDEN  team\u00a0sailor Anne-Marie Rindom as she talks about the urgent need to take care of our oceans and her @SailGP #sustainability journey with #ROCKWOOL. https://t.co/2RpO3cFUZX"
+    }
+}

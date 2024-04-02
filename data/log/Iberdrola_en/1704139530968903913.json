@@ -1,0 +1,80 @@
+{
+    "1704139530968903913": {
+        "attachments": {
+            "media_keys": [
+                "3_1703686577099059200"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-09-19T14:25:00.000Z",
+        "edit_history_tweet_ids": [
+            "1704139530968903913"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 97,
+                    "normalized_text": "ClimateWeekNYC",
+                    "probability": 0.6951,
+                    "start": 84,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 16,
+                    "tag": "3xRenewables"
+                },
+                {
+                    "end": 98,
+                    "start": 83,
+                    "tag": "ClimateWeekNYC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "globalrenewablesalliance.org/open-letter/",
+                    "end": 81,
+                    "expanded_url": "https://globalrenewablesalliance.org/open-letter/",
+                    "images": [
+                        {
+                            "height": 918,
+                            "url": "https://pbs.twimg.com/news_img/1730165235787386880/92PGcTRQ?format=jpg&name=orig",
+                            "width": 1459
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1730165235787386880/92PGcTRQ?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 58,
+                    "status": 200,
+                    "title": "3xRenewables \u2013 Global Renewables Alliance",
+                    "unwound_url": "https://globalrenewablesalliance.org/open-letter/",
+                    "url": "https://t.co/QKvV08xZzS"
+                },
+                {
+                    "display_url": "pic.twitter.com/LPKLCD80cJ",
+                    "end": 122,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1704139530968903913/photo/1",
+                    "media_key": "3_1703686577099059200",
+                    "start": 99,
+                    "url": "https://t.co/LPKLCD80cJ"
+                }
+            ]
+        },
+        "id": "1704139530968903913",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 440,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udea8The world need #3xRenewables\n\nRead our open letter here: https://t.co/QKvV08xZzS\n\n#ClimateWeekNYC https://t.co/LPKLCD80cJ"
+    }
+}

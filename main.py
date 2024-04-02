@@ -1,4 +1,5 @@
 from downloadData import UserDataDownload
+import math
 from utils import *
 
 def read_users(path):
@@ -18,15 +19,15 @@ def main():
     DATA='data'
     users_data = read_users(DATA)
     usernames = users_data['to_do']
-    maxt = compute_max_tweets(BEARER_TOKEN)
-    count = max(5, maxt) #il numero minimo di tweet che si possono chiedere è 5 per richiesta (massimo 100)
-    
     for username in usernames:
+        maxt = compute_max_tweets(BEARER_TOKEN)
+        count = min(2500, maxt)    
         try:
             while count > 0:
                 user_data = UserDataDownload(username=username)
-                user_data.set_limits(max_tweets_available=20, max_tweets_per_session=20, max_tweets_per_call=5, max_num_calls=4)
+                user_data.set_limits(max_tweets_per_session=count)
                 user_data.download_user_tweets()
+                count = min(2500, compute_max_tweets(BEARER_TOKEN))  
         except ValueError as e:
             users_data = users_update(users_data, username, DATA)
             print(e)

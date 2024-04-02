@@ -1,0 +1,75 @@
+{
+    "1655890516741898240": {
+        "attachments": {
+            "media_keys": [
+                "7_1655890460181770240"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-05-09T11:00:38.000Z",
+        "edit_history_tweet_ids": [
+            "1655890516741898240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Impact League",
+                    "probability": 0.4306,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.8828,
+                    "start": 47,
+                    "type": "Other"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "SDG14",
+                    "probability": 0.7649,
+                    "start": 243,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 242,
+                    "tag": "SDG14"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 80,
+                    "id": "1056894556061532160",
+                    "start": 70,
+                    "username": "SailGPDEN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TquV4ANGEj",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1655890516741898240/video/1",
+                    "media_key": "7_1655890460181770240",
+                    "start": 274,
+                    "url": "https://t.co/TquV4ANGEj"
+                }
+            ]
+        },
+        "id": "1655890516741898240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 532,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Impact League winners! \ud83d\ude4c\ud83e\udd47Fantastic victory for ROCKWOOL Group and the @SailGPDEN\u00a0using sports to make a positive impact in the world. The team collected water samples, helped clean beaches, educated and inspired young sailors, championed the #SDG14 Life Below Water-agenda! https://t.co/TquV4ANGEj"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "1716398463234060691": {
+        "author_id": "293455710",
+        "created_at": "2023-10-23T10:17:37.000Z",
+        "edit_history_tweet_ids": [
+            "1716398463234060691"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.3763,
+                    "start": 29,
+                    "type": "Organization"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Ignacio Gal\u00e1n",
+                    "probability": 0.6461,
+                    "start": 63,
+                    "type": "Person"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.5931,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Nicolai Tangen",
+                    "probability": 0.5431,
+                    "start": 174,
+                    "type": "Other"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "Norges Bank",
+                    "probability": 0.9457,
+                    "start": 197,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 218,
+                    "start": 210,
+                    "tag": "podcast"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Ignacio Gal\u00e1n Chair of Iberdrola: Energy transition, permits, speed and values. Ignacio Gal\u00e1n, Chair of the renewable energy Iberdrola share his insights and...",
+                    "display_url": "youtube.com/watch?v=bwDsLS\u2026",
+                    "end": 245,
+                    "expanded_url": "https://www.youtube.com/watch?v=bwDsLSGTtPI",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1716398465381449728/WqIObxFO?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1716398465381449728/WqIObxFO?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 222,
+                    "status": 200,
+                    "title": "Ignacio Galan - Chair of Iberdrola | Podcast | In Good Company | Norges Bank Investment Management",
+                    "unwound_url": "https://www.youtube.com/watch?v=bwDsLSGTtPI",
+                    "url": "https://t.co/oszc3Eo2QE"
+                }
+            ]
+        },
+        "id": "1716398463234060691",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 667,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u26a1\ufe0fWhere does the Chairman of Iberdrola get his energy from?\n\n\ud83c\udf99 Ignacio Gal\u00e1n discusses Iberdrola\u2019s green energy growth and how to deliver projects successfully in this great Nicolai Tangen, CEO of Norges Bank, #podcast \ud83d\udcfb\ud83d\udca5\nhttps://t.co/oszc3Eo2QE"
+    }
+}

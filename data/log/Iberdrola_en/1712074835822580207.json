@@ -1,0 +1,92 @@
+{
+    "1712074835822580207": {
+        "attachments": {
+            "media_keys": [
+                "3_1712074708626161664",
+                "3_1712074709318209536"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-10-11T11:57:04.000Z",
+        "edit_history_tweet_ids": [
+            "1712074835822580207"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Ignacio Galan",
+                    "probability": 0.8345,
+                    "start": 3,
+                    "type": "Person"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "BNEFSummit",
+                    "probability": 0.5244,
+                    "start": 71,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 38,
+                    "tag": "climatechange"
+                },
+                {
+                    "end": 81,
+                    "start": 70,
+                    "tag": "BNEFSummit"
+                },
+                {
+                    "end": 103,
+                    "start": 92,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 204,
+                    "start": 187,
+                    "tag": "EnergyTransition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 69,
+                    "id": "105267145",
+                    "start": 56,
+                    "username": "BloombergNEF"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UDgyfsDubd",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1712074835822580207/photo/1",
+                    "media_key": "3_1712074708626161664",
+                    "start": 276,
+                    "url": "https://t.co/UDgyfsDubd"
+                },
+                {
+                    "display_url": "pic.twitter.com/UDgyfsDubd",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1712074835822580207/photo/1",
+                    "media_key": "3_1712074709318209536",
+                    "start": 276,
+                    "url": "https://t.co/UDgyfsDubd"
+                }
+            ]
+        },
+        "id": "1712074835822580207",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2755,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\u203c\ufe0f Ignacio Galan gives keys to tackle #climatechange at @BloombergNEF #BNEFSummit \ud83d\udc47\n\n\ud83c\udf3f More #renewables = competitive and autochtonous technology.\n\n\u26a1\ufe0f Better grids = crucial to drive the #EnergyTransition.\n\n\ud83e\udd1d Work together with industry to decarbonize.\n\n\ud83c\uddea\ud83c\uddfa Stable regulation. https://t.co/UDgyfsDubd"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "1720052853861974434": {
+        "attachments": {
+            "media_keys": [
+                "3_1720052839223861248"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-11-02T12:18:52.000Z",
+        "edit_history_tweet_ids": [
+            "1720052853861974434"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "EnergyTransition",
+                    "probability": 0.5779,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.434,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "German Baltic",
+                    "probability": 0.5446,
+                    "start": 157,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 52,
+                    "tag": "EnergyTransition"
+                },
+                {
+                    "end": 147,
+                    "start": 134,
+                    "tag": "offshorewind"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 93,
+                    "id": "123816529",
+                    "start": 86,
+                    "username": "Masdar"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/89229/iberdrol\u2026",
+                    "end": 199,
+                    "expanded_url": "https://renews.biz/89229/iberdrola-masdar-close-16bn-baltic-eagle-deal/",
+                    "start": 176,
+                    "unwound_url": "https://renews.biz/89229/iberdrola-masdar-close-16bn-baltic-eagle-deal/",
+                    "url": "https://t.co/xxLIqEVPQz"
+                },
+                {
+                    "display_url": "pic.twitter.com/4sgVDkdR1Q",
+                    "end": 223,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1720052853861974434/photo/1",
+                    "media_key": "3_1720052839223861248",
+                    "start": 200,
+                    "url": "https://t.co/4sgVDkdR1Q"
+                }
+            ]
+        },
+        "id": "1720052853861974434",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1201,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "A great partnership to continue driving forward the #EnergyTransition \ud83d\udc49 Iberdrola and @Masdar close their \u20ac1.6 bn alliance to develop #offshorewind \ud83c\udf0a in the German Baltic sea.\nhttps://t.co/xxLIqEVPQz https://t.co/4sgVDkdR1Q"
+    }
+}

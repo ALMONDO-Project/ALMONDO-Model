@@ -1,0 +1,46 @@
+{
+    "1724774257283215429": {
+        "author_id": "15544077",
+        "created_at": "2023-11-15T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1724774257283215429"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Manuel Navarro",
+                    "probability": 0.7404,
+                    "start": 10,
+                    "type": "Person"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "Mesa",
+                    "probability": 0.3882,
+                    "start": 145,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 98,
+                    "id": "207957847",
+                    "start": 87,
+                    "username": "Tecniberia"
+                }
+            ]
+        },
+        "id": "1724774257283215429",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 511,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udcc5 Ma\u00f1ana, Manuel Navarro, Director de Agua para Agricultura, participa en las Jornadas @Tecniberia, compartiendo su experiencia en la Sesi\u00f3n II, Mesa Agua ''\ud835\udc00\ud835\udc20\ud835\udc2b\ud835\udc22\ud835\udc1c\ud835\udc2e\ud835\udc25\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1a, \ud835\udc00\ud835\udc20\ud835\udc2e\ud835\udc1a \ud835\udc32 \ud835\udc04\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc20\ud835\udc22\u0301\ud835\udc1a'', junto a otros profesionales del sector \ud83d\udde3\ufe0f\n\n\ud83d\udca6 M\u00e1s informaci\u00f3n aqu\u00ed:"
+    }
+}

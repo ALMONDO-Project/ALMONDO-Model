@@ -1,0 +1,45 @@
+{
+    "1729923175943934435": {
+        "author_id": "15544077",
+        "created_at": "2023-11-29T18:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1729923175943934435"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Velocidad",
+                    "probability": 0.516,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Madrid",
+                    "probability": 0.5675,
+                    "start": 72,
+                    "type": "Place"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "Asturias",
+                    "probability": 0.569,
+                    "start": 79,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1729923175943934435",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 508,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Ha sido inaugurada la variante de Pajares de la L\u00ednea de Alta Velocidad Madrid-Asturias \ud83c\uddea\ud83c\uddf8\ud83d\ude87\n\nLa impermeabilizaci\u00f3n de los t\u00faneles mediante un sistema de revestimiento a base de materiales compuestos ha recibido premios internacionales \ud83d\ude4c\n\nDescubre la noticia \u2935"
+    }
+}

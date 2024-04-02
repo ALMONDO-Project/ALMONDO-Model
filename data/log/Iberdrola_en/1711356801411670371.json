@@ -1,0 +1,68 @@
+{
+    "1711356801411670371": {
+        "author_id": "293455710",
+        "created_at": "2023-10-09T12:23:51.000Z",
+        "edit_history_tweet_ids": [
+            "1711356801411670371"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Spain",
+                    "probability": 0.9238,
+                    "start": 57,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 201,
+                    "start": 190,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 219,
+                    "start": 202,
+                    "tag": "energytransition"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Spain's first hybrid solar and wind project is now completely involved in the commissioning process.",
+                    "display_url": "inceptivemind.com/iberdrola-comp\u2026",
+                    "end": 243,
+                    "expanded_url": "https://www.inceptivemind.com/iberdrola-completes-construction-spains-first-hybrid-wind-solar-plant/34551/",
+                    "images": [
+                        {
+                            "height": 1001,
+                            "url": "https://pbs.twimg.com/news_img/1710936275983749120/4i8pPBKb?format=jpg&name=orig",
+                            "width": 1500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1710936275983749120/4i8pPBKb?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 220,
+                    "status": 200,
+                    "title": "Iberdrola completes construction of Spain's first hybrid wind-solar plant",
+                    "unwound_url": "https://www.inceptivemind.com/iberdrola-completes-construction-spains-first-hybrid-wind-solar-plant/34551/",
+                    "url": "https://t.co/vmxCtV2t06"
+                }
+            ]
+        },
+        "id": "1711356801411670371",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 8,
+            "impression_count": 1111071,
+            "like_count": 562,
+            "quote_count": 15,
+            "reply_count": 0,
+            "retweet_count": 69
+        },
+        "text": "NEW MILESTONE \u203c\ufe0f \ud83d\udcaa\ud83c\udffdWe have completed the construction of Spain\u2019s first hybrid wind-solar plant\n\nPhotovoltaic \ud83c\udf1e (74 MW)\n\u2795\nWind  \ud83c\udf2c\ufe0f (69 MW)\n\nLet's continue building the energy of the FUTURE\ud83c\udf31\n\n#renewables #energytransition\nhttps://t.co/vmxCtV2t06"
+    }
+}

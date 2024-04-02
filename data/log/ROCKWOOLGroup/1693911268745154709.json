@@ -1,0 +1,86 @@
+{
+    "1693911268745154709": {
+        "attachments": {
+            "media_keys": [
+                "7_1693911203049816064"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-08-22T09:01:32.000Z",
+        "edit_history_tweet_ids": [
+            "1693911268745154709"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "SolarPanels",
+                    "probability": 0.6872,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "EU",
+                    "probability": 0.969,
+                    "start": 41,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Europe",
+                    "probability": 0.9686,
+                    "start": 108,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 23,
+                    "tag": "SolarPanels"
+                },
+                {
+                    "end": 265,
+                    "start": 254,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 276,
+                    "start": 266,
+                    "tag": "REPowerEU"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "brnw.ch/21wBRzb",
+                    "end": 253,
+                    "expanded_url": "https://brnw.ch/21wBRzb",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.rockwool.com/globalassets/solar-panels/rg_glen_pv_panel_brochure_1037_006_spreads.pdf?utm_source=twitter&utm_medium=social_organic&utm_content=video_LW&utm_campaign=G_SolarPanels_RW-GROUP_GL&utm_term=2023-08-22-rockwool-is-your-roof-ready-for-solar-panels--tt-brochure",
+                    "url": "https://t.co/BKCFL3upGN"
+                },
+                {
+                    "display_url": "pic.twitter.com/NRZLA4Ivue",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1693911268745154709/video/1",
+                    "media_key": "7_1693911203049816064",
+                    "start": 277,
+                    "url": "https://t.co/NRZLA4Ivue"
+                }
+            ]
+        },
+        "id": "1693911268745154709",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 539,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Is your roof ready for #SolarPanels? The EU aims to promote solar energy in buildings and flat roofs across Europe. But how to prioritize fire safety in construction projects with solar panel setups? Learn more in our brochure: \ud83d\udcd5 https://t.co/BKCFL3upGN #renewables #REPowerEU https://t.co/NRZLA4Ivue"
+    }
+}

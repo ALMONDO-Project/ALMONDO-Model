@@ -1,0 +1,80 @@
+{
+    "1710967773848105379": {
+        "author_id": "293455710",
+        "created_at": "2023-10-08T10:38:00.000Z",
+        "edit_history_tweet_ids": [
+            "1710967773848105379"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "GreenHydrogen",
+                    "probability": 0.3704,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "WorldHyrdrogenDay",
+                    "probability": 0.516,
+                    "start": 206,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 0,
+                    "tag": "GreenHydrogen"
+                },
+                {
+                    "end": 223,
+                    "start": 205,
+                    "tag": "WorldHyrdrogenDay"
+                },
+                {
+                    "end": 240,
+                    "start": 224,
+                    "tag": "RenewableEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Did you know that hydrogen is the most abundant element in the universe? Join the celebration of World Hydrogen Day and find out all about it.",
+                    "display_url": "iberdrola.com/sustainability\u2026",
+                    "end": 266,
+                    "expanded_url": "https://www.iberdrola.com/sustainability/hydrogen-day?utm_source=social&utm_medium=twitter&utm_campaign=hydrogen",
+                    "images": [
+                        {
+                            "height": 205,
+                            "url": "https://pbs.twimg.com/news_img/1710921015466016768/097hBfN-?format=jpg&name=orig",
+                            "width": 363
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1710921015466016768/097hBfN-?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 243,
+                    "status": 200,
+                    "title": "World Hydrogen Day: date, origins and future challenges",
+                    "unwound_url": "https://www.iberdrola.com/sustainability/hydrogen-day?utm_source=social&utm_medium=twitter&utm_campaign=hydrogen",
+                    "url": "https://t.co/0GAUQpZNvt"
+                }
+            ]
+        },
+        "id": "1710967773848105379",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 468310,
+            "like_count": 125,
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 11
+        },
+        "text": "#GreenHydrogen \ud83d\udc9a An effective and clean SOLUTION for decarbonization in factories and transportation\n\n\ud83d\udc49We are leaders in this technology worldwide with 60 projects in 8 countries.\n\nLearn more about it \u2b07:\n #WorldHyrdrogenDay #RenewableEnergy \n\nhttps://t.co/0GAUQpZNvt"
+    }
+}

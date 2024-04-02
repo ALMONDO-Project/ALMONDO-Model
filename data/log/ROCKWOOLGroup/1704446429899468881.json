@@ -1,0 +1,97 @@
+{
+    "1704446429899468881": {
+        "attachments": {
+            "media_keys": [
+                "3_1704443878936309760"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-09-20T10:44:30.000Z",
+        "edit_history_tweet_ids": [
+            "1704446429899468881"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 120,
+                    "normalized_text": "Taranto",
+                    "probability": 0.9122,
+                    "start": 114,
+                    "type": "Place"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": " #ROCKWO",
+                    "probability": 0.5511,
+                    "start": 185,
+                    "type": "Other"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "e Mar Gran",
+                    "probability": 0.78,
+                    "start": 206,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 0,
+                    "tag": "TeamROCKWOOL"
+                },
+                {
+                    "end": 121,
+                    "start": 113,
+                    "tag": "Taranto"
+                },
+                {
+                    "end": 195,
+                    "start": 186,
+                    "tag": "ROCKWOOL"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 253,
+                    "id": "1056894556061532160",
+                    "start": 243,
+                    "username": "SailGPDEN"
+                },
+                {
+                    "end": 261,
+                    "id": "1013415426120929280",
+                    "start": 254,
+                    "username": "SailGP"
+                },
+                {
+                    "end": 276,
+                    "id": "879760545779507201",
+                    "start": 262,
+                    "username": "OneOceanFound"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/9JFIc6K2ri",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1704446429899468881/photo/1",
+                    "media_key": "3_1704443878936309760",
+                    "start": 277,
+                    "url": "https://t.co/9JFIc6K2ri"
+                }
+            ]
+        },
+        "id": "1704446429899468881",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 443,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#TeamROCKWOOL, are you supporting your colleagues as they battle the elements in the beautiful city of two seas? #Taranto \u200b\ud83c\udf0aWe're the Title Partner this year, so you'll surely feel that #ROCKWOOL vibe on the Mar Grande waters on 23-24 Sept.!\u200b @SailGPDEN @SailGP @OneOceanFound https://t.co/9JFIc6K2ri"
+    }
+}

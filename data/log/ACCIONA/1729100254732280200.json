@@ -1,0 +1,45 @@
+{
+    "1729100254732280200": {
+        "author_id": "15544077",
+        "created_at": "2023-11-27T11:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1729100254732280200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 177,
+                    "normalized_text": "Green Utilities",
+                    "probability": 0.491,
+                    "start": 163,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 45,
+                    "id": "1410478206604488704",
+                    "start": 30,
+                    "username": "ACCIONAEnergia"
+                },
+                {
+                    "end": 206,
+                    "id": "29952250",
+                    "start": 194,
+                    "username": "energyintel"
+                }
+            ]
+        },
+        "id": "1729100254732280200",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 315879,
+            "like_count": 411,
+            "quote_count": 3,
+            "reply_count": 18,
+            "retweet_count": 81
+        },
+        "text": "Noticias que nos encanta dar: @ACCIONAEnergia revalida su condici\u00f3n de compa\u00f1\u00eda el\u00e9ctrica m\u00e1s verde del mundo por noveno a\u00f1o consecutivo seg\u00fan el ranking \"Top 100 Green Utilities\" elaborado por @energyintel, consultora independiente especializada en mercados energ\u00e9ticos \ud83e\udd73\ud83c\udf88"
+    }
+}

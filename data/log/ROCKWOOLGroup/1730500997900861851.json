@@ -1,0 +1,94 @@
+{
+    "1730500997900861851": {
+        "attachments": {
+            "media_keys": [
+                "3_1730497608727011328"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-12-01T08:16:03.000Z",
+        "edit_history_tweet_ids": [
+            "1730500997900861851"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "IDPD",
+                    "probability": 0.3661,
+                    "start": 83,
+                    "type": "Organization"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.5108,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "PWD",
+                    "probability": 0.5757,
+                    "start": 150,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "DEIpolicy",
+                    "probability": 0.3379,
+                    "start": 266,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 82,
+                    "tag": "IDPD"
+                },
+                {
+                    "end": 102,
+                    "start": 93,
+                    "tag": "ROCKWOOL"
+                },
+                {
+                    "end": 248,
+                    "start": 235,
+                    "tag": "TeamROCKWOOL"
+                },
+                {
+                    "end": 264,
+                    "start": 249,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 275,
+                    "start": 265,
+                    "tag": "DEIpolicy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/0pCvqfOnfL",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1730500997900861851/photo/1",
+                    "media_key": "3_1730497608727011328",
+                    "start": 276,
+                    "url": "https://t.co/0pCvqfOnfL"
+                }
+            ]
+        },
+        "id": "1730500997900861851",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 263,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "On December 3rd, we celebrate the International Day of Persons with Disabilities (#IDPD). At #ROCKWOOL, we are starting a programme that will support PWD with an aim of giving all employees equal access to resources and opportunities. #TeamROCKWOOL #sustainability #DEIpolicy https://t.co/0pCvqfOnfL"
+    }
+}

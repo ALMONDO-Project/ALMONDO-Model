@@ -1,0 +1,49 @@
+{
+    "1679772721792573440": {
+        "author_id": "293455710",
+        "created_at": "2023-07-14T08:40:00.000Z",
+        "edit_history_tweet_ids": [
+            "1679772721792573440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "Germany",
+                    "probability": 0.9756,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "AkzoNobel Powder Coatings",
+                    "probability": 0.7843,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "iberdrola.com/press-room/new\u2026",
+                    "end": 271,
+                    "expanded_url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-deutschlands-first-turnkey-pv-system-for-on-sit-consumption-enters-operation-at-akzonobel",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-deutschlands-first-turnkey-pv-system-for-on-sit-consumption-enters-operation-at-akzonobel",
+                    "url": "https://t.co/6Y80TCIwUu"
+                }
+            ]
+        },
+        "id": "1679772721792573440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 562,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "We successfully completed our first turnkey solar photovoltaic project \ud83c\udf1e in Germany! \ud83c\udfc1\n\n\ud83d\udcaa Installed the rooftop system for on-site consumption for AkzoNobel Powder Coatings.\n\nProud to support our customers in achieving their sustainability goals \ud83c\udf31\nhttps://t.co/6Y80TCIwUu"
+    }
+}

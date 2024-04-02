@@ -1,0 +1,100 @@
+{
+    "1712360752382607533": {
+        "author_id": "2596278278",
+        "created_at": "2023-10-12T06:53:12.000Z",
+        "edit_history_tweet_ids": [
+            "1712360752382607533"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Croatia",
+                    "probability": 0.9927,
+                    "start": 27,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 65,
+                    "tag": "greentransition"
+                },
+                {
+                    "end": 147,
+                    "start": 138,
+                    "tag": "ROCKWOOL"
+                },
+                {
+                    "end": 159,
+                    "start": 148,
+                    "tag": "renovation"
+                },
+                {
+                    "end": 177,
+                    "start": 160,
+                    "tag": "livingconditions"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 192,
+                    "id": "23951122",
+                    "start": 180,
+                    "username": "KadriSimson"
+                },
+                {
+                    "end": 207,
+                    "id": "377976301",
+                    "start": 193,
+                    "username": "MarosSefcovic"
+                },
+                {
+                    "end": 231,
+                    "id": "270823978",
+                    "start": 218,
+                    "username": "GradZagrebHr"
+                },
+                {
+                    "end": 248,
+                    "id": "4000401628",
+                    "start": 232,
+                    "username": "davorfilipovic2"
+                },
+                {
+                    "end": 261,
+                    "id": "16627544",
+                    "start": 249,
+                    "username": "CiaranCuffe"
+                },
+                {
+                    "end": 274,
+                    "id": "1021696411",
+                    "start": 262,
+                    "username": "ValterFlego"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/BPIE_eu/status\u2026",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/BPIE_eu/status/1712024487669997626",
+                    "start": 275,
+                    "url": "https://t.co/q9I1RbcCIN"
+                }
+            ]
+        },
+        "id": "1712360752382607533",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 980,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "This renovation story from Croatia is a great example of how the #greentransition can improve the places where we live, work, and learn. \u2705#ROCKWOOL #renovation #livingconditions \ud83d\udce2 @KadriSimson @MarosSefcovic @eu2023es @GradZagrebHr @davorfilipovic2 @CiaranCuffe @ValterFlego https://t.co/q9I1RbcCIN"
+    }
+}

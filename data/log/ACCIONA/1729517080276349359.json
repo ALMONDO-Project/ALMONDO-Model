@@ -1,0 +1,45 @@
+{
+    "1729517080276349359": {
+        "author_id": "15544077",
+        "created_at": "2023-11-28T15:06:19.000Z",
+        "edit_history_tweet_ids": [
+            "1729517080276349359"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "Portugal",
+                    "probability": 0.9758,
+                    "start": 45,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "ENEG",
+                    "probability": 0.5152,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "APDA",
+                    "probability": 0.7555,
+                    "start": 106,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1729517080276349359",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 622,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udce2 Coincidiendo con nuestro 25 aniversario en Portugal, acudimos al encuentro ENEG 2023, organizado por la APDA, donde contamos con un stand para dar a conocer nuestras soluciones y establecer una zona de encuentro con profesionales del sector\n\nConoce los detalles \u2935"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1709860948222095765": {
+        "attachments": {
+            "media_keys": [
+                "7_1709859868620857344"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-10-05T09:19:52.000Z",
+        "edit_history_tweet_ids": [
+            "1709860948222095765"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.7865,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "IO",
+                    "probability": 0.566,
+                    "start": 118,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 3,
+                    "tag": "ROCKWOOL"
+                },
+                {
+                    "end": 263,
+                    "start": 249,
+                    "tag": "accessibility"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 279,
+                    "id": "3131512311",
+                    "start": 264,
+                    "username": "iopossoltreSLA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/GqfodBmpRV",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1709860948222095765/video/1",
+                    "media_key": "7_1709859868620857344",
+                    "start": 280,
+                    "url": "https://t.co/GqfodBmpRV"
+                }
+            ]
+        },
+        "id": "1709860948222095765",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 403,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "At #ROCKWOOL, we're ready to empower our local and global communities to rise to the challenges of modern living. The IO POSSO foundation inspired us to do more for people with disabilities. Check out the video for the details of our collaboration! #accessibility @iopossoltreSLA https://t.co/GqfodBmpRV"
+    }
+}

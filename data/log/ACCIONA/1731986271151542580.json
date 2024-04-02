@@ -1,0 +1,77 @@
+{
+    "1731986271151542580": {
+        "author_id": "15544077",
+        "created_at": "2023-12-05T10:38:00.000Z",
+        "edit_history_tweet_ids": [
+            "1731986271151542580"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "ACCIONACOP28",
+                    "probability": 0.7492,
+                    "start": 12,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 11,
+                    "tag": "ACCIONACOP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 51,
+                    "id": "37979392",
+                    "start": 42,
+                    "username": "tv_Amaro"
+                },
+                {
+                    "end": 86,
+                    "id": "1607462747570163719",
+                    "start": 76,
+                    "username": "COP28_UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Comenzamos la #COP28 en Dub\u00e1i, donde 80.000 representantes de todas partes del planeta tratan de evitar el alza de temperaturas en una nueva cumbre clim\u00e1tica...",
+                    "display_url": "youtube.com/watch?v=AzcMl0\u2026",
+                    "end": 210,
+                    "expanded_url": "https://www.youtube.com/watch?v=AzcMl0x1C14&list=PL4pfpS62ySOXpe_ihLzBh973jC4LqDZ_q&ab_channel=ACCIONA",
+                    "images": [
+                        {
+                            "height": 360,
+                            "url": "https://pbs.twimg.com/news_img/1731986313631404032/E4ZIumrd?format=jpg&name=orig",
+                            "width": 480
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1731986313631404032/E4ZIumrd?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 187,
+                    "status": 200,
+                    "title": "COP28: un mundo de contrastes, pero un camino hacia la regeneraci\u00f3n | EPISODIO 1 #ACCIONACOP28",
+                    "unwound_url": "https://www.youtube.com/watch?v=AzcMl0x1C14&list=PL4pfpS62ySOXpe_ihLzBh973jC4LqDZ_q&ab_channel=ACCIONA",
+                    "url": "https://t.co/VtmRVU6WoR"
+                }
+            ]
+        },
+        "id": "1731986271151542580",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3064,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "EPISODIO 1 #ACCIONACOP28 | Comenzamos con @tv_Amaro nuestra cobertura de la\u00a0@COP28_UAE \u2935\ufe0f\n\nUn mundo de contrastes, pero un camino hacia la regeneraci\u00f3n \ud83c\udf0e Descubre el ejemplo perfecto \ud83d\udcfa\ud83d\udc47\n\nhttps://t.co/VtmRVU6WoR"
+    }
+}

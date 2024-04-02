@@ -1,0 +1,78 @@
+{
+    "1726566084348907769": {
+        "attachments": {
+            "media_keys": [
+                "7_1726565799882600448"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-11-20T11:40:07.000Z",
+        "edit_history_tweet_ids": [
+            "1726566084348907769"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Rokani",
+                    "probability": 0.558,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Greece",
+                    "probability": 0.9672,
+                    "start": 85,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 80,
+                    "start": 71,
+                    "tag": "windfarm"
+                },
+                {
+                    "end": 225,
+                    "start": 214,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 237,
+                    "start": 226,
+                    "tag": "windenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 211,
+                    "id": "156646851",
+                    "start": 204,
+                    "username": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/IoKrynfLZw",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1726566084348907769/video/1",
+                    "media_key": "7_1726565799882600448",
+                    "start": 238,
+                    "url": "https://t.co/IoKrynfLZw"
+                }
+            ]
+        },
+        "id": "1726566084348907769",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 78,
+            "impression_count": 1003180,
+            "like_count": 2528,
+            "quote_count": 97,
+            "reply_count": 0,
+            "retweet_count": 209
+        },
+        "text": "Spectacular! \ud83d\udc4f\ud83c\udffd \n\nCheck out the blades being transported to our Rokani #windfarm, in Greece \ud83c\uddec\ud83c\uddf7\n\nWe used innovative \"\ud835\ude57\ud835\ude61\ud835\ude56\ud835\ude59\ud835\ude5a \ud835\ude61\ud835\ude5e\ud835\ude5b\ud835\ude69\ud835\ude5a\ud835\ude67\" technology, which allows the inclination of the blades vertically \ud83d\ude32\n\n\ud83c\udf9e by @Vestas \n\n#renewables #windenergy https://t.co/IoKrynfLZw"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1713893398216622571": {
+        "attachments": {
+            "media_keys": [
+                "7_1713893296475344896"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-10-16T12:23:23.000Z",
+        "edit_history_tweet_ids": [
+            "1713893398216622571"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "France",
+                    "probability": 0.9512,
+                    "start": 47,
+                    "type": "Place"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "Saint-Brieuc",
+                    "probability": 0.5844,
+                    "start": 80,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 56,
+                    "tag": "EnergyTransition"
+                },
+                {
+                    "end": 106,
+                    "start": 93,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 171,
+                    "start": 160,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/rLj99WcIUC",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1713893398216622571/video/1",
+                    "media_key": "7_1713893296475344896",
+                    "start": 187,
+                    "url": "https://t.co/rLj99WcIUC"
+                }
+            ]
+        },
+        "id": "1713893398216622571",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 1050158,
+            "like_count": 488,
+            "quote_count": 5,
+            "reply_count": 0,
+            "retweet_count": 53
+        },
+        "text": "World reference in innovation and spearheading France's #EnergyTransition \u23e9 The Saint-Brieuc #offshorewind farm \ud83c\uddeb\ud83c\uddf7 advances the future.\n\n\ud83c\udf3fMore locally-produced #renewables for a better \ud83c\udf0d https://t.co/rLj99WcIUC"
+    }
+}

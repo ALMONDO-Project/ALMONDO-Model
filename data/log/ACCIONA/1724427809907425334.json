@@ -1,0 +1,62 @@
+{
+    "1724427809907425334": {
+        "author_id": "15544077",
+        "created_at": "2023-11-14T14:03:22.000Z",
+        "edit_history_tweet_ids": [
+            "1724427809907425334"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "LaLuzQuePermanece",
+                    "probability": 0.7411,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "Copal Urco",
+                    "probability": 0.4646,
+                    "start": 196,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 90,
+                    "tag": "LaLuzQuePermanece"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "2968051607",
+                    "start": 46,
+                    "username": "ACCIONA_ORG"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ACCIONA_ORG/st\u2026",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/ACCIONA_ORG/status/1724426976386003213",
+                    "start": 237,
+                    "url": "https://t.co/Fmpu2s8bxi"
+                }
+            ]
+        },
+        "id": "1724427809907425334",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1179,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Ya est\u00e1 disponible en los canales sociales de @acciona_org el episodio 2 de la docuserie '#LaLuzQuePermanece'. No te pierdas los misterios de la selva amaz\u00f3nica y el compromiso de la comunidad de Copal Urco con las energ\u00edas renovables \ud83d\udc47 https://t.co/Fmpu2s8bxi"
+    }
+}

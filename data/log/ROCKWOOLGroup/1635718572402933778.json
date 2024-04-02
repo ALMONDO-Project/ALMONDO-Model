@@ -1,0 +1,63 @@
+{
+    "1635718572402933778": {
+        "author_id": "2596278278",
+        "created_at": "2023-03-14T19:04:32.000Z",
+        "edit_history_tweet_ids": [
+            "1635718572402933778"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "Morten",
+                    "probability": 0.5658,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "25980581",
+                    "start": 0,
+                    "username": "mortenhelveg"
+                },
+                {
+                    "end": 26,
+                    "id": "16627544",
+                    "start": 14,
+                    "username": "CiaranCuffe"
+                },
+                {
+                    "end": 40,
+                    "id": "21440665",
+                    "start": 27,
+                    "username": "SeanKellyMEP"
+                },
+                {
+                    "end": 55,
+                    "id": "1119990541511462912",
+                    "start": 41,
+                    "username": "tsvetypenkova"
+                },
+                {
+                    "end": 65,
+                    "id": "948552829",
+                    "start": 56,
+                    "username": "mmatias_"
+                }
+            ]
+        },
+        "id": "1635718572402933778",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@mortenhelveg @CiaranCuffe @SeanKellyMEP @tsvetypenkova @mmatias_ Congratulations on your great work, Morten!"
+    }
+}

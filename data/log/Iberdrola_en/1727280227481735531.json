@@ -1,0 +1,90 @@
+{
+    "1727280227481735531": {
+        "attachments": {
+            "media_keys": [
+                "3_1727280186050142209"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-11-22T10:57:52.000Z",
+        "edit_history_tweet_ids": [
+            "1727280227481735531"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "EU Nature Restoration Law",
+                    "probability": 0.7539,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Euro",
+                    "probability": 0.5544,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 278,
+                    "start": 264,
+                    "tag": "RestoreNature"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 72,
+                    "id": "83466368",
+                    "start": 68,
+                    "username": "ecb"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ournatureourbusiness.eu",
+                    "end": 262,
+                    "expanded_url": "https://www.ournatureourbusiness.eu/",
+                    "images": [
+                        {
+                            "height": 500,
+                            "url": "https://pbs.twimg.com/news_img/1771120765208817665/mW9PUIUK?format=png&name=orig",
+                            "width": 500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1771120765208817665/mW9PUIUK?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 239,
+                    "status": 200,
+                    "title": "Our nature, our business",
+                    "unwound_url": "https://www.ournatureourbusiness.eu/",
+                    "url": "https://t.co/BIG4SSdfuq"
+                },
+                {
+                    "display_url": "pic.twitter.com/G7QGyedu2P",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1727280227481735531/photo/1",
+                    "media_key": "3_1727280186050142209",
+                    "start": 279,
+                    "url": "https://t.co/G7QGyedu2P"
+                }
+            ]
+        },
+        "id": "1727280227481735531",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 718,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We continue supporting the vital EU Nature Restoration Law!\n\nAs the @ecb has found 3 million companies in the Euro area are highly dependent on at least one ecosystem service, we call on Member States &amp; MEPs to adopt this crucial law: https://t.co/BIG4SSdfuq\n\n#RestoreNature https://t.co/G7QGyedu2P"
+    }
+}

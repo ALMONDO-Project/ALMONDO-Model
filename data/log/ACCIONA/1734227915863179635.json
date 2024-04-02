@@ -1,0 +1,39 @@
+{
+    "1734227915863179635": {
+        "author_id": "15544077",
+        "created_at": "2023-12-11T15:05:30.000Z",
+        "edit_history_tweet_ids": [
+            "1734227915863179635"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Pedro",
+                    "probability": 0.6465,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "323765353",
+                    "start": 0,
+                    "username": "PedroFresco"
+                }
+            ]
+        },
+        "id": "1734227915863179635",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 17,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@PedroFresco \u00a1Hola Pedro! Queremos ponernos en contacto contigo por DM para presentarte una iniciativa que creemos que podr\u00eda ser de tu inter\u00e9s, pero no nos permite mandarte un mensaje al no seguirnos de vuelta. \u00bfEst\u00e1s interesado? Quedamos a la espera. \u00a1Muchas gracias!"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "1684099665413767170": {
+        "author_id": "293455710",
+        "created_at": "2023-07-26T07:13:43.000Z",
+        "edit_history_tweet_ids": [
+            "1684099665413767170"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "EnergyTransition",
+                    "probability": 0.6326,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Masdar",
+                    "probability": 0.4867,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.5679,
+                    "start": 81,
+                    "type": "Organization"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Baltic Sea",
+                    "probability": 0.9151,
+                    "start": 111,
+                    "type": "Place"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Germany",
+                    "probability": 0.9851,
+                    "start": 144,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 48,
+                    "tag": "EnergyTransition"
+                },
+                {
+                    "end": 135,
+                    "start": 122,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 211,
+                    "start": 200,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "iberdrola.com/press-room/new\u2026",
+                    "end": 237,
+                    "expanded_url": "https://www.iberdrola.com/press-room/news/detail/masdar-joins-iberdrola-to-co-invest-in-the-baltic-eagle-wind-farm-in-germany",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.iberdrola.com/press-room/news/detail/masdar-joins-iberdrola-to-co-invest-in-the-baltic-eagle-wind-farm-in-germany",
+                    "url": "https://t.co/33nJubVw43"
+                }
+            ]
+        },
+        "id": "1684099665413767170",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 482,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "New partnership to continue driving forward the #EnergyTransition \ud83d\udc49 Masdar joins Iberdrola to co-invest in the Baltic Sea #offshorewind farm in Germany \ud83c\udf0a, valued at approximately \u20ac1.6 billion euros.\n\n#renewables  \nhttps://t.co/33nJubVw43"
+    }
+}

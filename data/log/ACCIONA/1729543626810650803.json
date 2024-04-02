@@ -1,0 +1,50 @@
+{
+    "1729543626810650803": {
+        "author_id": "15544077",
+        "created_at": "2023-11-28T16:51:48.000Z",
+        "edit_history_tweet_ids": [
+            "1729543626810650803"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Mostostal Warszawan",
+                    "probability": 0.3334,
+                    "start": 39,
+                    "type": "Organization"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Polonia",
+                    "probability": 0.9311,
+                    "start": 78,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 25,
+                    "tag": "renovable"
+                },
+                {
+                    "end": 128,
+                    "start": 111,
+                    "tag": "descarbonizaci\u00f3n"
+                }
+            ]
+        },
+        "id": "1729543626810650803",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 553,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Impulsamos el suministro #renovable de Mostostal Warszawan, nuestra filial en Polonia \ud83c\uddf5\ud83c\uddf1, con nuestro fondo de #descarbonizaci\u00f3n \u2705\n\nToda la info \ud83d\udc47"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1725204941910712720": {
+        "author_id": "15544077",
+        "created_at": "2023-11-16T17:31:25.000Z",
+        "edit_history_tweet_ids": [
+            "1725204941910712720"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 148,
+                    "normalized_text": "Coquimbo",
+                    "probability": 0.8414,
+                    "start": 141,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "2968051607",
+                    "start": 13,
+                    "username": "ACCIONA_ORG"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "acciona.org, la fundaci\u00f3n corporativa de ACCIONA, ha extendido el alcance de su programa Luz en Casa en Chile a los Andes chilenos en la regi\u00f3n de Coquimbo, facilitando el acceso a la electricidad a m\u00e1s de 400 hogares de zonas remotas de la cordillera mediante un servicio de suministro renovable, sostenible y asequible.",
+                    "display_url": "acciona.com/es/actualidad/\u2026",
+                    "end": 183,
+                    "expanded_url": "https://www.acciona.com/es/actualidad/noticias/acciona-org-lleva-electricidad-zonas-remotas-andes-chilenos/?utm_source=twitter&utm_medium=social&utm_campaign=202311&utm_content=post",
+                    "images": [
+                        {
+                            "height": 800,
+                            "url": "https://pbs.twimg.com/news_img/1725204942661586944/je9-Sw9b?format=jpg&name=orig",
+                            "width": 1600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1725204942661586944/je9-Sw9b?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 160,
+                    "status": 200,
+                    "title": "acciona.org lleva electricidad a zonas remotas de los Andes Chilenos",
+                    "unwound_url": "https://www.acciona.com/es/actualidad/noticias/acciona-org-lleva-electricidad-zonas-remotas-andes-chilenos/?utm_source=twitter&utm_medium=social&utm_campaign=202311&utm_content=post",
+                    "url": "https://t.co/TWAljGdc5u"
+                }
+            ]
+        },
+        "id": "1725204941910712720",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24368,
+            "like_count": 115,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 24
+        },
+        "text": "La fundaci\u00f3n @ACCIONA_ORG extiende su servicio de suministro renovable y asequible y beneficia ya a m\u00e1s de 1.600 personas en la provincia de Coquimbo \n\n\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\ud83c\udde8\ud83c\uddf1\n\nhttps://t.co/TWAljGdc5u"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1729883870609518667": {
+        "attachments": {
+            "media_keys": [
+                "3_1729883221922656257"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-11-29T15:23:49.000Z",
+        "edit_history_tweet_ids": [
+            "1729883870609518667"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 232,
+                    "normalized_text": "Le\u00f3n",
+                    "probability": 0.4634,
+                    "start": 229,
+                    "type": "Place"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "Global",
+                    "probability": 0.4786,
+                    "start": 239,
+                    "type": "Organization"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "EnlitEurope",
+                    "probability": 0.3731,
+                    "start": 268,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 26,
+                    "tag": "EnergyTransition"
+                },
+                {
+                    "end": 121,
+                    "start": 110,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 279,
+                    "start": 267,
+                    "tag": "EnlitEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hWqZMwiI3I",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1729883870609518667/photo/1",
+                    "media_key": "3_1729883221922656257",
+                    "start": 280,
+                    "url": "https://t.co/hWqZMwiI3I"
+                }
+            ]
+        },
+        "id": "1729883870609518667",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 409,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Grids are crucial for the\u00a0#EnergyTransition\ud83d\udc49Investment must be\u00a0duplicated by 2030\u00a0to drive the development of\u00a0#renewables and the decarbonisation of the economy, reaching a 1:1 ratio between grid and renewable investments\ud83d\udde8\ufe0fElena Le\u00f3n,\u00a0our Global Networks director at #EnlitEurope https://t.co/hWqZMwiI3I"
+    }
+}

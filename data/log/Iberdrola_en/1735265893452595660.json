@@ -1,0 +1,84 @@
+{
+    "1735265893452595660": {
+        "attachments": {
+            "media_keys": [
+                "7_1735265807473541120"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-12-14T11:50:03.000Z",
+        "edit_history_tweet_ids": [
+            "1735265893452595660"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "COP28",
+                    "probability": 0.9255,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "UAEConsensus",
+                    "probability": 0.7747,
+                    "start": 64,
+                    "type": "Place"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Gal\u00e1n",
+                    "probability": 0.7181,
+                    "start": 253,
+                    "type": "Person"
+                },
+                {
+                    "end": 268,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.5469,
+                    "start": 260,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 5,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 76,
+                    "start": 63,
+                    "tag": "UAEConsensus"
+                },
+                {
+                    "end": 187,
+                    "start": 171,
+                    "tag": "renewableenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/MG3dgUwKva",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1735265893452595660/video/1",
+                    "media_key": "7_1735265807473541120",
+                    "start": 279,
+                    "url": "https://t.co/MG3dgUwKva"
+                }
+            ]
+        },
+        "id": "1735265893452595660",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 647,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf3fThe #COP28 has finished, but the hard work starts today \ud83d\udc49\"The #UAEConsensus is a historic step: agreeing to move away from fossil fuels while committing to a tripling of #renewableenergy by 2030 is a crucial moment against the climate crisis\"\ud83d\udde8\ufe0fIgnacio Gal\u00e1n, Iberdrola Chairman https://t.co/MG3dgUwKva"
+    }
+}

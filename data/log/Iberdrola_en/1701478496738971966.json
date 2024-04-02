@@ -1,0 +1,74 @@
+{
+    "1701478496738971966": {
+        "author_id": "293455710",
+        "created_at": "2023-09-12T06:11:00.000Z",
+        "edit_history_tweet_ids": [
+            "1701478496738971966"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Estrella Martin",
+                    "probability": 0.9337,
+                    "start": 12,
+                    "type": "Person"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.5742,
+                    "start": 184,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 122,
+                    "start": 118,
+                    "tag": "ESG"
+                },
+                {
+                    "end": 230,
+                    "start": 220,
+                    "tag": "greenjobs"
+                },
+                {
+                    "end": 275,
+                    "start": 259,
+                    "tag": "EconClimateRisk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 108,
+                    "id": "5988062",
+                    "start": 95,
+                    "username": "TheEconomist"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "invt.io/1txb52vx21s",
+                    "end": 258,
+                    "expanded_url": "https://invt.io/1txb52vx21s",
+                    "start": 235,
+                    "status": 200,
+                    "unwound_url": "https://invt.io/1txb52vx21s",
+                    "url": "https://t.co/DCCku6gF49"
+                }
+            ]
+        },
+        "id": "1701478496738971966",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 618,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Do not miss Estrella Martin, our Executive development, global talent and learning director at @TheEconomist Impact\u2019s #ESG &amp; Climate Risk Week today, where she will talk about how Iberdrola is creating a pathway for #greenjobs \ud83c\udf3f\n\n\ud83d\udccdhttps://t.co/DCCku6gF49\n#EconClimateRisk"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1729884113333886985": {
+        "attachments": {
+            "media_keys": [
+                "3_1729884057247571969",
+                "3_1729884057360908288"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-11-29T15:24:46.000Z",
+        "edit_history_tweet_ids": [
+            "1729884113333886985"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Iberdrola Network",
+                    "probability": 0.6288,
+                    "start": 2,
+                    "type": "Organization"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Europe Congress",
+                    "probability": 0.4871,
+                    "start": 59,
+                    "type": "Place"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "IAmEnlit",
+                    "probability": 0.4457,
+                    "start": 156,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 93,
+                    "tag": "smartgrids"
+                },
+                {
+                    "end": 164,
+                    "start": 155,
+                    "tag": "IAmEnlit"
+                },
+                {
+                    "end": 177,
+                    "start": 165,
+                    "tag": "EnlitEurope"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "628245768",
+                    "start": 45,
+                    "username": "Enlit_Europe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/f11r1T5vyV",
+                    "end": 201,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1729884113333886985/photo/1",
+                    "media_key": "3_1729884057247571969",
+                    "start": 178,
+                    "url": "https://t.co/f11r1T5vyV"
+                },
+                {
+                    "display_url": "pic.twitter.com/f11r1T5vyV",
+                    "end": 201,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1729884113333886985/photo/1",
+                    "media_key": "3_1729884057360908288",
+                    "start": 178,
+                    "url": "https://t.co/f11r1T5vyV"
+                }
+            ]
+        },
+        "id": "1729884113333886985",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 394,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udccd Iberdrola Network's team is sharing in the @Enlit_Europe Europe Congress the importance of #smartgrids. We look forward to seeing you at our stand! \ud83d\ude09 \ud83d\udca1\n\n#IAmEnlit #EnlitEurope https://t.co/f11r1T5vyV"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "1618915597856935937": {
+        "author_id": "2596278278",
+        "created_at": "2023-01-27T10:15:31.000Z",
+        "edit_history_tweet_ids": [
+            "1618915597856935937"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Rafael Rodriguez",
+                    "probability": 0.9086,
+                    "start": 87,
+                    "type": "Person"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Rafael",
+                    "probability": 0.5716,
+                    "start": 105,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 39,
+                    "id": "2390124846",
+                    "start": 24,
+                    "username": "NavarraCapital"
+                },
+                {
+                    "end": 64,
+                    "id": "2596278278",
+                    "start": 50,
+                    "username": "ROCKWOOLGroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/NavarraCapital\u2026",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/NavarraCapital/status/1618880338423582720",
+                    "start": 196,
+                    "url": "https://t.co/DzNuS0d8jo"
+                }
+            ]
+        },
+        "id": "1618915597856935937",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1671,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Nice profile article in @NavarraCapital featuring @ROCKWOOLGroup Senior Vice President Rafael Rodriguez. Rafael is a great colleague who has been with us for many years in a variety of positions. https://t.co/DzNuS0d8jo"
+    }
+}

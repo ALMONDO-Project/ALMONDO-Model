@@ -1,0 +1,62 @@
+{
+    "1729910885374685460": {
+        "author_id": "15544077",
+        "created_at": "2023-11-29T17:11:09.000Z",
+        "edit_history_tweet_ids": [
+            "1729910885374685460"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "Xunta",
+                    "probability": 0.6252,
+                    "start": 87,
+                    "type": "Organization"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Galicia",
+                    "probability": 0.6221,
+                    "start": 96,
+                    "type": "Place"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.9425,
+                    "start": 105,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 155,
+                    "tag": "innovaci\u00f3n"
+                },
+                {
+                    "end": 195,
+                    "start": 182,
+                    "tag": "construcci\u00f3n"
+                },
+                {
+                    "end": 209,
+                    "start": 198,
+                    "tag": "ingenier\u00eda"
+                }
+            ]
+        },
+        "id": "1729910885374685460",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 557,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Introducimos tecnolog\u00edas bioclim\u00e1ticas y de bioconstrucci\u00f3n en el nuevo complejo de la Xunta de Galicia (Espa\u00f1a) \ud83c\uddea\ud83c\uddf8\n\nEstos sistemas suponen una importante #innovaci\u00f3n en cuanto a la #construcci\u00f3n e #ingenier\u00eda gracias al aprovechamiento de recursos naturales \ud83d\udea7\u2705"
+    }
+}

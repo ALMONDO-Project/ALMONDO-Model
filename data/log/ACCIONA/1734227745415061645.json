@@ -1,0 +1,39 @@
+{
+    "1734227745415061645": {
+        "author_id": "15544077",
+        "created_at": "2023-12-11T15:04:49.000Z",
+        "edit_history_tweet_ids": [
+            "1734227745415061645"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Eloy",
+                    "probability": 0.4878,
+                    "start": 17,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "301358705",
+                    "start": 0,
+                    "username": "elmanyana"
+                }
+            ]
+        },
+        "id": "1734227745415061645",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 57,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@elmanyana \u00a1Hola Eloy! Queremos ponernos en contacto contigo por DM para presentarte una iniciativa que creemos que podr\u00eda ser de tu inter\u00e9s, pero no nos permite mandarte un mensaje al no seguirnos de vuelta. \u00bfEst\u00e1s interesado? Quedamos a la espera. \u00a1Muchas gracias!"
+    }
+}

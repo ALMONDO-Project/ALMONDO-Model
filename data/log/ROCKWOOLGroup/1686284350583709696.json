@@ -1,0 +1,93 @@
+{
+    "1686284350583709696": {
+        "author_id": "2596278278",
+        "created_at": "2023-08-01T07:54:53.000Z",
+        "edit_history_tweet_ids": [
+            "1686284350583709696"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "EPBD",
+                    "probability": 0.667,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "SDG7",
+                    "probability": 0.8515,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.8662,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "EPBD",
+                    "probability": 0.6557,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 18,
+                    "tag": "constructionindustry"
+                },
+                {
+                    "end": 101,
+                    "start": 96,
+                    "tag": "EPBD"
+                },
+                {
+                    "end": 129,
+                    "start": 124,
+                    "tag": "SDG7"
+                },
+                {
+                    "end": 260,
+                    "start": 250,
+                    "tag": "retrofits"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 269,
+                    "id": "1397494652",
+                    "start": 261,
+                    "username": "BPIE_eu"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3AlR4",
+                    "end": 249,
+                    "expanded_url": "https://fal.cn/3AlR4",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://www.bpie.eu/publication/epbd-crunch-time-for-future-proof-buildings-legislation/#energyefficiency",
+                    "url": "https://t.co/cJ8ESpEqNn"
+                }
+            ]
+        },
+        "id": "1686284350583709696",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 473,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Critical time for #constructionindustry, as European institutions near the final negotiation of #EPBD.\u23f2\ufe0f Being committed to #SDG7, ROCKWOOL Group supports deep energy-efficient renovation. Learn about the EPBD status here: \u27a1\ufe0f https://t.co/cJ8ESpEqNn #retrofits @BPIE_eu"
+    }
+}

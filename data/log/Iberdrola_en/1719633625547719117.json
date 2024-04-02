@@ -1,0 +1,80 @@
+{
+    "1719633625547719117": {
+        "author_id": "293455710",
+        "created_at": "2023-11-01T08:33:00.000Z",
+        "edit_history_tweet_ids": [
+            "1719633625547719117"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "COP28",
+                    "probability": 0.9162,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "UNFCCC Global Stocktake",
+                    "probability": 0.6126,
+                    "start": 52,
+                    "type": "Organization"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Corporate Climate Stocktake",
+                    "probability": 0.761,
+                    "start": 165,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "CCST",
+                    "probability": 0.3408,
+                    "start": 194,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 46,
+                    "start": 40,
+                    "tag": "COP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 217,
+                    "id": "2469606308",
+                    "start": 207,
+                    "username": "WMBtweets"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A unique snapshot of corporate climate action today and what this means for delivering emissions reductions tomorrow.",
+                    "display_url": "wemeanbusinesscoalition.org/corporate-clim\u2026",
+                    "end": 242,
+                    "expanded_url": "https://www.wemeanbusinesscoalition.org/corporate-climate-stocktake-2023/",
+                    "start": 219,
+                    "status": 200,
+                    "title": "Corporate climate stocktake 2023",
+                    "unwound_url": "https://www.wemeanbusinesscoalition.org/corporate-climate-stocktake-2023/",
+                    "url": "https://t.co/tho7gkRVWY"
+                }
+            ]
+        },
+        "id": "1719633625547719117",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 733,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udd95 With nearly 200 nations convening for #COP28, the UNFCCC Global Stocktake is an opportunity to accelerate climate action where it's most necessary. \n\nDownload the Corporate Climate Stocktake (CCST) led by @WMBtweets \ud83d\udc47https://t.co/tho7gkRVWY"
+    }
+}

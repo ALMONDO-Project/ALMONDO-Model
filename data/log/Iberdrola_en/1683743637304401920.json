@@ -1,0 +1,73 @@
+{
+    "1683743637304401920": {
+        "author_id": "293455710",
+        "created_at": "2023-07-25T07:39:00.000Z",
+        "edit_history_tweet_ids": [
+            "1683743637304401920"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "industry40",
+                    "probability": 0.5029,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 76,
+                    "tag": "industry40"
+                },
+                {
+                    "end": 126,
+                    "start": 118,
+                    "tag": "startup"
+                },
+                {
+                    "end": 209,
+                    "start": 198,
+                    "tag": "innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "BIND 4.0 connects and accelerates Tech Startups with paid contracts from industry leading venture clients in Intelligent Industry, Advanced Manufacturing, Clean Energy & Sustainability, Health and Food sectors. Register your Startup!",
+                    "display_url": "bind40.com",
+                    "end": 195,
+                    "expanded_url": "http://bind40.com",
+                    "images": [
+                        {
+                            "height": 400,
+                            "url": "https://pbs.twimg.com/news_img/1745735245402394624/RB5Tasvg?format=png&name=orig",
+                            "width": 590
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1745735245402394624/RB5Tasvg?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 172,
+                    "status": 200,
+                    "title": "BIND 4.0 | Basque Open Innovation Platform",
+                    "unwound_url": "https://bind40.com/",
+                    "url": "https://t.co/W14Mwp775q"
+                }
+            ]
+        },
+        "id": "1683743637304401920",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 784,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\ude80Do you have an INNOVATIVE project on clean energy, sustainability or other #industry40 technologies?\n\n\ud83d\udca5Register your #startup in @bind40 and grow with us! \n\n\u27a1\ufe0fApply here: https://t.co/W14Mwp775q \n\n#innovation"
+    }
+}

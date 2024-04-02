@@ -1,0 +1,121 @@
+{
+    "1732416253397270790": {
+        "attachments": {
+            "media_keys": [
+                "3_1732415151989555200",
+                "3_1732415151981096960",
+                "3_1732415151981113344"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-12-06T15:06:36.000Z",
+        "edit_history_tweet_ids": [
+            "1732416253397270790"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "COP28",
+                    "probability": 0.7611,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Anne-Marie Rindom",
+                    "probability": 0.8525,
+                    "start": 73,
+                    "type": "Person"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Olympic",
+                    "probability": 0.8038,
+                    "start": 138,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 15,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 228,
+                    "start": 213,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 251,
+                    "start": 242,
+                    "tag": "ROCKWOOL"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "2596278278",
+                    "start": 36,
+                    "username": "ROCKWOOLGroup"
+                },
+                {
+                    "end": 65,
+                    "id": "1056894556061532160",
+                    "start": 55,
+                    "username": "SailGPDEN"
+                },
+                {
+                    "end": 212,
+                    "id": "1013415426120929280",
+                    "start": 205,
+                    "username": "SailGP"
+                },
+                {
+                    "end": 266,
+                    "id": "219841655",
+                    "start": 255,
+                    "username": "AmyBrachio"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/0dugtQFPiA",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1732416253397270790/photo/1",
+                    "media_key": "3_1732415151989555200",
+                    "start": 267,
+                    "url": "https://t.co/0dugtQFPiA"
+                },
+                {
+                    "display_url": "pic.twitter.com/0dugtQFPiA",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1732416253397270790/photo/1",
+                    "media_key": "3_1732415151981096960",
+                    "start": 267,
+                    "url": "https://t.co/0dugtQFPiA"
+                },
+                {
+                    "display_url": "pic.twitter.com/0dugtQFPiA",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1732416253397270790/photo/1",
+                    "media_key": "3_1732415151981113344",
+                    "start": 267,
+                    "url": "https://t.co/0dugtQFPiA"
+                }
+            ]
+        },
+        "id": "1732416253397270790",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 306,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Throwback from #COP28! \ud83d\udc4bOn Tuesday, @ROCKWOOLGroup and\u00a0@SailGPDEN sailor Anne-Marie Rindom joined other thought leaders to talk about her Olympic success, her journey to the top of sport, and her personal @SailGP #sustainability journey with #ROCKWOOL. \ud83d\udd25 @AmyBrachio https://t.co/0dugtQFPiA"
+    }
+}

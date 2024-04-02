@@ -1,0 +1,62 @@
+{
+    "1656279192982437888": {
+        "attachments": {
+            "media_keys": [
+                "3_1656279190440738816"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-05-10T12:45:06.000Z",
+        "edit_history_tweet_ids": [
+            "1656279192982437888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "ROCKWOOL Group",
+                    "probability": 0.7026,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "EBIT",
+                    "probability": 0.4788,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3y7Oa",
+                    "end": 253,
+                    "expanded_url": "https://fal.cn/3y7Oa",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.rockwool.com/group/about-us/investors/financial-reports/",
+                    "url": "https://t.co/ACw67nqgoE"
+                },
+                {
+                    "display_url": "pic.twitter.com/A1pTNduAwS",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1656279192982437888/photo/1",
+                    "media_key": "3_1656279190440738816",
+                    "start": 254,
+                    "url": "https://t.co/A1pTNduAwS"
+                }
+            ]
+        },
+        "id": "1656279192982437888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 557,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "ROCKWOOL Group releases Q1 2023 financial results. Sales amounted to 866 MEUR, a decline of seven percent in local currencies compared to Q1 2022. EBIT margin recovered and overall financial performance is good. Read full report: https://t.co/ACw67nqgoE https://t.co/A1pTNduAwS"
+    }
+}

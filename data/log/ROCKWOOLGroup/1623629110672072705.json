@@ -1,0 +1,82 @@
+{
+    "1623629110672072705": {
+        "author_id": "2596278278",
+        "created_at": "2023-02-09T10:25:20.000Z",
+        "edit_history_tweet_ids": [
+            "1623629110672072705"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 133,
+                    "normalized_text": "Brussels",
+                    "probability": 0.9657,
+                    "start": 126,
+                    "type": "Place"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "European Parliament",
+                    "probability": 0.8708,
+                    "start": 257,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "25980581",
+                    "start": 0,
+                    "username": "mortenhelveg"
+                },
+                {
+                    "end": 24,
+                    "id": "1748054878205710336",
+                    "start": 14,
+                    "username": "fvoetmann"
+                },
+                {
+                    "end": 36,
+                    "id": "978902531798634497",
+                    "start": 25,
+                    "username": "Synergiorg"
+                },
+                {
+                    "end": 51,
+                    "id": "1032912917124079616",
+                    "start": 37,
+                    "username": "AsserTonnesen"
+                },
+                {
+                    "end": 62,
+                    "id": "2411241595",
+                    "start": 52,
+                    "username": "ehoffm4nn"
+                },
+                {
+                    "end": 78,
+                    "id": "550276685",
+                    "start": 63,
+                    "username": "BonaldiDaCosta"
+                },
+                {
+                    "end": 87,
+                    "id": "1923991164",
+                    "start": 79,
+                    "username": "AStouge"
+                }
+            ]
+        },
+        "id": "1623629110672072705",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 362,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@mortenhelveg @fvoetmann @Synergiorg @AsserTonnesen @ehoffm4nn @BonaldiDaCosta @AStouge Important green transition develop in Brussels. Energy efficiency in buildings can really move the needle in reducing energy consumption and emissions. Well done to the European Parliament."
+    }
+}

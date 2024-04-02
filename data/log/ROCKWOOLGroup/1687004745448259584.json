@@ -1,0 +1,81 @@
+{
+    "1687004745448259584": {
+        "author_id": "2596278278",
+        "created_at": "2023-08-03T07:37:29.000Z",
+        "edit_history_tweet_ids": [
+            "1687004745448259584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "EU",
+                    "probability": 0.9664,
+                    "start": 52,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 0,
+                    "tag": "constructionindustry"
+                },
+                {
+                    "end": 110,
+                    "start": 101,
+                    "tag": "ROCKWOOL"
+                },
+                {
+                    "end": 199,
+                    "start": 188,
+                    "tag": "renovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 36,
+                    "id": "1661762511006318601",
+                    "start": 23,
+                    "username": "ECNO_climate"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Buildi ng blocks are the economic sectors, such as energy, transport or industry, and cross-cutting areas, such as finance, innovation, and lifestyles, in which transformation is needed to achieve a climate neutral society by 2050, and across which ECNO tracks progress. Or the \u2018required change in speed\u2019 is the ratio of the required change versus the past change on a given indicator. This results in the example formulation: \u2018We need to increase our annual em ission reductions to at least 4.9 Mt CO2e per",
+                    "display_url": "fal.cn/3Aqb9",
+                    "end": 277,
+                    "expanded_url": "https://fal.cn/3Aqb9",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1714596470194614272/aj17tVsn?format=jpg&name=orig",
+                            "width": 1600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1714596470194614272/aj17tVsn?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 254,
+                    "status": 200,
+                    "title": "State of EU progress to climate neutrality | ECNO",
+                    "unwound_url": "https://climateobservatory.eu/report/state-eu-progress-climate-neutrality",
+                    "url": "https://t.co/HSoS2m1o0T"
+                }
+            ]
+        },
+        "id": "1687004745448259584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 603,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#constructionindustry, @ECNO_climate\u00a0reports on the EU's slow progress towards climate neutrality.\u26a0\ufe0f #ROCKWOOL backs a strong legislative framework for future-proof buildings and supports #renovation programs to improve living conditions. Learn more: \u27a1\ufe0f https://t.co/HSoS2m1o0T"
+    }
+}

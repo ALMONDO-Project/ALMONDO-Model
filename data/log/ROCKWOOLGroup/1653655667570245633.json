@@ -1,0 +1,89 @@
+{
+    "1653655667570245633": {
+        "attachments": {
+            "media_keys": [
+                "3_1653655664978284545"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-05-03T07:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1653655667570245633"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Alcatraz",
+                    "probability": 0.3405,
+                    "start": 13,
+                    "type": "Place"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "SanFrancisco",
+                    "probability": 0.4667,
+                    "start": 65,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "SailGP",
+                    "probability": 0.5042,
+                    "start": 79,
+                    "type": "Other"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.6111,
+                    "start": 87,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 12,
+                    "tag": "Alcatraz"
+                },
+                {
+                    "end": 77,
+                    "start": 64,
+                    "tag": "SanFrancisco"
+                },
+                {
+                    "end": 85,
+                    "start": 78,
+                    "tag": "SailGP"
+                },
+                {
+                    "end": 95,
+                    "start": 86,
+                    "tag": "ROCKWOOL"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/h6Zr0xsuBk",
+                    "end": 119,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1653655667570245633/photo/1",
+                    "media_key": "3_1653655664978284545",
+                    "start": 96,
+                    "url": "https://t.co/h6Zr0xsuBk"
+                }
+            ]
+        },
+        "id": "1653655667570245633",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 536,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Escape from #Alcatraz \ud83d\udca8 Ready to take on the season finale \ud83d\udcaa in #SanFrancisco #SailGP #ROCKWOOL https://t.co/h6Zr0xsuBk"
+    }
+}

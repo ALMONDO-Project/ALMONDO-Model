@@ -1,0 +1,83 @@
+{
+    "1735321469188477410": {
+        "author_id": "15544077",
+        "created_at": "2023-12-14T15:30:53.000Z",
+        "edit_history_tweet_ids": [
+            "1735321469188477410"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "COP28",
+                    "probability": 0.9744,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "COP28UAE",
+                    "probability": 0.9195,
+                    "start": 139,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 53,
+                    "start": 47,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 147,
+                    "start": 138,
+                    "tag": "COP28UAE"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 158,
+                    "id": "1607462747570163719",
+                    "start": 148,
+                    "username": "COP28_UAE"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Tras dos semanas de intensas negociaciones, la COP28 finaliza un hito: la menci\u00f3n expresa a dejar atr\u00e1s los combustibles f\u00f3siles.",
+                    "display_url": "sostenibilidad.com/cambio-climati\u2026",
+                    "end": 184,
+                    "expanded_url": "https://www.sostenibilidad.com/cambio-climatico/cop28/?utm_source=twitter&utm_medium=social&utm_campaign=202312&utm_content=post",
+                    "images": [
+                        {
+                            "height": 537,
+                            "url": "https://pbs.twimg.com/news_img/1745937250754453504/sa7eCvy6?format=jpg&name=orig",
+                            "width": 1375
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1745937250754453504/sa7eCvy6?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 161,
+                    "status": 200,
+                    "title": "Conclusiones COP28: el comienzo del fin de los combustibles f\u00f3siles",
+                    "unwound_url": "https://www.sostenibilidad.com/cambio-climatico/cop28/?utm_source=twitter&utm_medium=social&utm_campaign=202312&utm_content=post",
+                    "url": "https://t.co/zV7gfaDAzS"
+                }
+            ]
+        },
+        "id": "1735321469188477410",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 14,
+            "impression_count": 389841,
+            "like_count": 927,
+            "quote_count": 12,
+            "reply_count": 91,
+            "retweet_count": 237
+        },
+        "text": "Tras dos semanas de intensas negociaciones, la #COP28 finaliza con un hito: la menci\u00f3n expresa a dejar atr\u00e1s los combustibles f\u00f3siles \ud83c\udfed\ud83d\udc4b\n\n#COP28UAE @COP28_UAE \n\nhttps://t.co/zV7gfaDAzS"
+    }
+}

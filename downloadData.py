@@ -76,8 +76,7 @@ class UserDataDownload():
         else:
             raise TweetAlreadyDumpedException
         
-    def set_limits(self, max_tweets_available, max_tweets_per_session, max_tweets_per_call=100, max_num_calls=None):
-        self.max_tweets_available = max_tweets_available
+    def set_limits(self, max_tweets_per_session, max_tweets_per_call=100, max_num_calls=None):
         self.max_tweets_per_session = max_tweets_per_session
         self.max_tweets_per_call = max_tweets_per_call
         self.max_num_calls = max_num_calls
@@ -104,6 +103,8 @@ class UserDataDownload():
     
     def set_end_time(self):
         self.end_time = self.get_oldest_tweet_date()
+        print(type(self.start_time))
+        print(type(self.end_time))
                         
     def set_paginator(self):        
         self.set_end_time()   
@@ -172,7 +173,9 @@ class UserDataDownload():
             oldest_id = page.meta['oldest_id']
             with open(f'{self.userlogpath}/page_meta_{newest_id}_{oldest_id}.json', 'w') as file:
                 json.dump(page.meta, file)
-            if not page.meta['next_token']:
+            try:
+                page.meta['next_token']
+            except KeyError:
                 self.get_tweets(page)
                 raise ValueError("No more pages to download")
         else:

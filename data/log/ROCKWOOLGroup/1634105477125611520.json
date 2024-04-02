@@ -1,0 +1,40 @@
+{
+    "1634105477125611520": {
+        "author_id": "2596278278",
+        "created_at": "2023-03-10T08:14:40.000Z",
+        "edit_history_tweet_ids": [
+            "1634105477125611520"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "EU",
+                    "probability": 0.9326,
+                    "start": 42,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/NielsFuglsang/\u2026",
+                    "end": 89,
+                    "expanded_url": "https://twitter.com/NielsFuglsang/status/1634068742115082240",
+                    "start": 66,
+                    "url": "https://t.co/1msbNwroWX"
+                }
+            ]
+        },
+        "id": "1634105477125611520",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 814,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Well done indeed... more good progress on EU energy efficiency... https://t.co/1msbNwroWX"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1636714157679452161": {
+        "attachments": {
+            "media_keys": [
+                "7_1636714032592822272"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-03-17T13:00:38.000Z",
+        "edit_history_tweet_ids": [
+            "1636714157679452161"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Denmark SailGP",
+                    "probability": 0.3935,
+                    "start": 3,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "New Zealand",
+                    "probability": 0.9821,
+                    "start": 91,
+                    "type": "Place"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Christchurch",
+                    "probability": 0.9338,
+                    "start": 139,
+                    "type": "Place"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "Christchurch",
+                    "probability": 0.9485,
+                    "start": 247,
+                    "type": "Place"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "Jonno Turner",
+                    "probability": 0.7538,
+                    "start": 265,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 235,
+                    "start": 217,
+                    "tag": "BeneathTheSurface"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/LUcyH7o6H7",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1636714157679452161/video/1",
+                    "media_key": "7_1636714032592822272",
+                    "start": 279,
+                    "url": "https://t.co/LUcyH7o6H7"
+                }
+            ]
+        },
+        "id": "1636714157679452161",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 471,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "As Denmark SailGP Team \ud83c\udde9\ud83c\uddf0 eyes overall podium spots at the penultimate race of season 3 in New Zealand this weekend \ud83c\udfc6\u26f5, here is a slice of Christchurch and its sustainability commitments. Check out the new 60 seconds #BeneathTheSurface episode in Christchurch with Jonno Turner. https://t.co/LUcyH7o6H7"
+    }
+}

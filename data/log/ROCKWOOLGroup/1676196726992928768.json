@@ -1,0 +1,84 @@
+{
+    "1676196726992928768": {
+        "attachments": {
+            "media_keys": [
+                "7_1676196694948552708"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-07-04T11:50:16.000Z",
+        "edit_history_tweet_ids": [
+            "1676196726992928768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.5394,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Grodan",
+                    "probability": 0.4321,
+                    "start": 168,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 0,
+                    "tag": "ROCKWOOL"
+                },
+                {
+                    "end": 48,
+                    "start": 35,
+                    "tag": "horticulture"
+                },
+                {
+                    "end": 174,
+                    "start": 167,
+                    "tag": "Grodan"
+                },
+                {
+                    "end": 278,
+                    "start": 263,
+                    "tag": "sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3zC0I",
+                    "end": 262,
+                    "expanded_url": "https://fal.cn/3zC0I",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.grodan.com/our-thinking/grodan-blogs/the-secret-to-using-less-water-in-agriculture/",
+                    "url": "https://t.co/Iew2m9ZinA"
+                },
+                {
+                    "display_url": "pic.twitter.com/QWfDdFxSyZ",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1676196726992928768/video/1",
+                    "media_key": "7_1676196694948552708",
+                    "start": 279,
+                    "url": "https://t.co/QWfDdFxSyZ"
+                }
+            ]
+        },
+        "id": "1676196726992928768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 515,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "#ROCKWOOL product portfolio offers #horticulture solutions whose advantages speak to both growers and policy makers. \u267b\ufe0f If you're one of them, you may appreciate that #Grodan's soilless growing medium saves precious water.\n Learn more: \u27a1\ufe0f https://t.co/Iew2m9ZinA #sustainability https://t.co/QWfDdFxSyZ"
+    }
+}

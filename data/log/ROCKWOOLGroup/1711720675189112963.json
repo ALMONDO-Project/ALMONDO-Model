@@ -1,0 +1,92 @@
+{
+    "1711720675189112963": {
+        "author_id": "2596278278",
+        "created_at": "2023-10-10T12:29:45.000Z",
+        "edit_history_tweet_ids": [
+            "1711720675189112963"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "EU",
+                    "probability": 0.9423,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "GHG",
+                    "probability": 0.6399,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "EPBD",
+                    "probability": 0.6251,
+                    "start": 118,
+                    "type": "Other"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "EU",
+                    "probability": 0.9683,
+                    "start": 131,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "ROCKWOOL",
+                    "probability": 0.5092,
+                    "start": 168,
+                    "type": "Other"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "EPBD",
+                    "probability": 0.4716,
+                    "start": 270,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Buildings"
+                },
+                {
+                    "end": 176,
+                    "start": 167,
+                    "tag": "ROCKWOOL"
+                },
+                {
+                    "end": 274,
+                    "start": 269,
+                    "tag": "EPBD"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/_EuroACE/statu\u2026",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/_EuroACE/status/1711662759857815580",
+                    "start": 275,
+                    "url": "https://t.co/OEEo391qci"
+                }
+            ]
+        },
+        "id": "1711720675189112963",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 956,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "#Buildings are responsible for 33% of EU's GHG emissions. \u26a0\ufe0fHigh ambitions for the\u00a0 sector must be prioritized in the EPBD for the EU to deliver on its climate goals. #ROCKWOOL is one of 35 signatories urging for an ambitious Energy Performance of Buildings Directive. #EPBD https://t.co/OEEo391qci"
+    }
+}

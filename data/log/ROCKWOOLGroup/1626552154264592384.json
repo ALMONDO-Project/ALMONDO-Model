@@ -1,0 +1,74 @@
+{
+    "1626552154264592384": {
+        "attachments": {
+            "media_keys": [
+                "7_1626552067148980224"
+            ]
+        },
+        "author_id": "2596278278",
+        "created_at": "2023-02-17T12:00:28.000Z",
+        "edit_history_tweet_ids": [
+            "1626552154264592384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Sydney",
+                    "probability": 0.977,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 27,
+                    "normalized_text": "Sydney",
+                    "probability": 0.9868,
+                    "start": 22,
+                    "type": "Place"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "House",
+                    "probability": 0.474,
+                    "start": 116,
+                    "type": "Place"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Danish DNA",
+                    "probability": 0.4158,
+                    "start": 136,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "SailGP",
+                    "probability": 0.4084,
+                    "start": 151,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/S2buLoKI8e",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/ROCKWOOLGroup/status/1626552154264592384/video/1",
+                    "media_key": "7_1626552067148980224",
+                    "start": 261,
+                    "url": "https://t.co/S2buLoKI8e"
+                }
+            ]
+        },
+        "id": "1626552154264592384",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 983,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Sydney in 60 seconds! Sydney is one of the most iconic spots on the planet - with world-famous beaches and an Opera House designed with Danish DNA. As SailGP arrives to race in the harbour, we check out how the city is doing sustainability\u2026 Aussie style \ud83c\udde6\ud83c\uddfa\u26f4\ufe0f\ud83c\udfd6\ufe0f https://t.co/S2buLoKI8e"
+    }
+}
