@@ -1,0 +1,97 @@
+{
+    "1732218473378418994": {
+        "attachments": {
+            "media_keys": [
+                "7_1732217101924835328"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-12-06T02:00:41.000Z",
+        "edit_history_tweet_ids": [
+            "1732218473378418994"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "SIF",
+                    "probability": 0.3502,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Innovia",
+                    "probability": 0.5309,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "Santiago de los Caballeros",
+                    "probability": 0.8397,
+                    "start": 109,
+                    "type": "Place"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "Caribbean",
+                    "probability": 0.9108,
+                    "start": 234,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "ICYMI"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "City of Santiago de los Caballeros to receive country\u2019s first monorail",
+                    "display_url": "ow.ly/Nauk50QajU4",
+                    "end": 280,
+                    "expanded_url": "https://ow.ly/Nauk50QajU4",
+                    "images": [
+                        {
+                            "height": 281,
+                            "url": "https://pbs.twimg.com/news_img/1732218480332509184/8Jr2keEy?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1732218480332509184/8Jr2keEy?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 257,
+                    "status": 200,
+                    "title": "Alstom consortium selected to deliver Dominican Republic\u2019s first monorail system",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/8/alstom-consortium-selected-deliver-dominican-republics-first-monorail-system",
+                    "url": "https://t.co/OVtgi8pZrf"
+                },
+                {
+                    "display_url": "pic.twitter.com/o0X7LP6osI",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Alstom/status/1732218473378418994/video/1",
+                    "media_key": "7_1732217101924835328",
+                    "start": 281,
+                    "url": "https://t.co/o0X7LP6osI"
+                }
+            ]
+        },
+        "id": "1732218473378418994",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1496,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#ICYMI our Consortium SIF has been selected to deliver an integrated Innovia monorail system for the city of Santiago de los Caballeros. Once complete, the 13-kilometre, 14-station monorail system will be the first of its kind in the Caribbean!\n\nRead more: https://t.co/OVtgi8pZrf https://t.co/o0X7LP6osI"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "1737467744780464576": {
+        "attachments": {
+            "media_keys": [
+                "7_1737467665030033408"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-12-20T13:39:25.000Z",
+        "edit_history_tweet_ids": [
+            "1737467744780464576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "IPCEI Hydrogen Conference",
+                    "probability": 0.6907,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Berlin",
+                    "probability": 0.4745,
+                    "start": 71,
+                    "type": "Place"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "IPCEIHy2Tech",
+                    "probability": 0.6105,
+                    "start": 209,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "ICYMI"
+                },
+                {
+                    "end": 221,
+                    "start": 208,
+                    "tag": "IPCEIHy2Tech"
+                },
+                {
+                    "end": 231,
+                    "start": 222,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 249,
+                    "start": 232,
+                    "tag": "MobilityByNature"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A twofold event was held in Berlin with the second General Assembly on December 5,\u00a02023 for the first two IPCEI Hydrogen waves, Hy2Tech and",
+                    "display_url": "ow.ly/REMw50QkASK",
+                    "end": 206,
+                    "expanded_url": "https://ow.ly/REMw50QkASK",
+                    "images": [
+                        {
+                            "height": 194,
+                            "url": "https://pbs.twimg.com/news_img/1737467751189413888/O7RlLcft?format=jpg&name=orig",
+                            "width": 347
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1737467751189413888/O7RlLcft?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 183,
+                    "status": 200,
+                    "title": "Alstom highlights green innovations at the 1st IPCEI Hydrogen Conference",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/12/alstom-highlights-green-innovations-1st-ipcei-hydrogen-conference?utm_source=organic_all&utm_medium=twitter&utm_content=50050fbd-d8a9-481e-a7c5-d674c61d0140&utm_campaign=IPCEI",
+                    "url": "https://t.co/toTPwBpEWJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/0NuQsOmy0W",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/Alstom/status/1737467744780464576/video/1",
+                    "media_key": "7_1737467665030033408",
+                    "start": 250,
+                    "url": "https://t.co/0NuQsOmy0W"
+                }
+            ]
+        },
+        "id": "1737467744780464576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1323,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#ICYMI: we were happy to attend the first IPCEI Hydrogen Conference in Berlin this month and highlight our complementary green solutions for non-electrified lines. \n\nLearn more here: https://t.co/toTPwBpEWJ\n\n#IPCEIHy2Tech #hydrogen #MobilityByNature https://t.co/0NuQsOmy0W"
+    }
+}

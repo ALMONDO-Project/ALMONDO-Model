@@ -1,0 +1,79 @@
+{
+    "1696403465260388626": {
+        "attachments": {
+            "media_keys": [
+                "7_1696403358079168512"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-08-29T06:04:38.000Z",
+        "edit_history_tweet_ids": [
+            "1696403465260388626"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Kazakhstan",
+                    "probability": 0.9778,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Astana",
+                    "probability": 0.9691,
+                    "start": 74,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 31,
+                    "tag": "bogie"
+                },
+                {
+                    "end": 59,
+                    "start": 48,
+                    "tag": "Kazakhstan"
+                },
+                {
+                    "end": 183,
+                    "start": 175,
+                    "tag": "railway"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/1SO950PFgS7",
+                    "end": 231,
+                    "expanded_url": "https://ow.ly/1SO950PFgS7",
+                    "start": 208,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/8/alstom-inaugurated-first-bogie-centre-kazakhstan-produce-and-maintain-bogies-all-types-railway-vehicles",
+                    "url": "https://t.co/mHFktyxIZj"
+                },
+                {
+                    "display_url": "pic.twitter.com/X1vtAeoquu",
+                    "end": 255,
+                    "expanded_url": "https://twitter.com/Alstom/status/1696403465260388626/video/1",
+                    "media_key": "7_1696403358079168512",
+                    "start": 232,
+                    "url": "https://t.co/X1vtAeoquu"
+                }
+            ]
+        },
+        "id": "1696403465260388626",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3205,
+            "like_count": 22,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udf89We have inaugurated our first #bogie centre in #Kazakhstan! \n\nLocated in Astana, it will have the capacity to produce 200 bogies &amp; overhaul 300 per year for all types of #railway vehicles. \n\nLearn more: https://t.co/mHFktyxIZj https://t.co/X1vtAeoquu"
+    }
+}

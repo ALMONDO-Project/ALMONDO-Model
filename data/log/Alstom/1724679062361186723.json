@@ -1,0 +1,76 @@
+{
+    "1724679062361186723": {
+        "attachments": {
+            "media_keys": [
+                "7_1724678957302161408"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-11-15T06:41:46.000Z",
+        "edit_history_tweet_ids": [
+            "1724679062361186723"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4235,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Alstom",
+                    "probability": 0.3462,
+                    "start": 84,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "H1 2023/24 key figures in line with 4th October preliminary release",
+                    "display_url": "ow.ly/BohN50Q7FYa",
+                    "end": 211,
+                    "expanded_url": "https://ow.ly/BohN50Q7FYa",
+                    "images": [
+                        {
+                            "height": 2688,
+                            "url": "https://pbs.twimg.com/news_img/1724679075824828416/NfHHXYYc?format=jpg&name=orig",
+                            "width": 4032
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1724679075824828416/NfHHXYYc?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 188,
+                    "status": 200,
+                    "title": "Alstom\u2019s first half 2023/24 - Confirming sound market positioning, Alstom takes significant steps to reduce its leverage after negative cash flow",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/11/alstoms-first-half-202324-confirming-sound-market-positioning-alstom-takes-significant-steps-reduce-its-leverage-after-negative-cash-flow",
+                    "url": "https://t.co/BNv5PE7TWe"
+                },
+                {
+                    "display_url": "pic.twitter.com/lOKdTvd0PQ",
+                    "end": 235,
+                    "expanded_url": "https://twitter.com/Alstom/status/1724679062361186723/video/1",
+                    "media_key": "7_1724678957302161408",
+                    "start": 212,
+                    "url": "https://t.co/lOKdTvd0PQ"
+                }
+            ]
+        },
+        "id": "1724679062361186723",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2387,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Alstom\u2019s first half 2023/24 financial results:\nConfirming sound market positioning, Alstom takes significant steps to reduce its leverage after negative cash flow\n\nRead the press release: https://t.co/BNv5PE7TWe https://t.co/lOKdTvd0PQ"
+    }
+}

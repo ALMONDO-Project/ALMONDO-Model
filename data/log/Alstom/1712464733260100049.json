@@ -1,0 +1,65 @@
+{
+    "1712464733260100049": {
+        "attachments": {
+            "media_keys": [
+                "7_1712464662447767552"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-10-12T13:46:23.000Z",
+        "edit_history_tweet_ids": [
+            "1712464733260100049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "Cyber Talks",
+                    "probability": 0.78,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.6796,
+                    "start": 149,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 15,
+                    "tag": "CybersecurityAwarenessMonth"
+                },
+                {
+                    "end": 159,
+                    "start": 148,
+                    "tag": "TeamAlstom"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/O3hk7aAbgB",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/Alstom/status/1712464733260100049/video/1",
+                    "media_key": "7_1712464662447767552",
+                    "start": 256,
+                    "url": "https://t.co/O3hk7aAbgB"
+                }
+            ]
+        },
+        "id": "1712464733260100049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2068,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "We're stepping #CybersecurityAwarenessMonth up a notch this week! From Cyber Talks to immersive games, online challenges, and real-world scenarios, #TeamAlstom is getting a comprehensive training on how our cybersecurity approach works around the world. \ud83d\udd26 https://t.co/O3hk7aAbgB"
+    }
+}

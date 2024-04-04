@@ -1,0 +1,78 @@
+{
+    "1712785261233418538": {
+        "author_id": "258725128",
+        "created_at": "2023-10-13T11:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1712785261233418538"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.6464,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 18,
+                    "tag": "AlstomServices"
+                },
+                {
+                    "end": 123,
+                    "start": 112,
+                    "tag": "signalling"
+                },
+                {
+                    "end": 145,
+                    "start": 130,
+                    "tag": "infrastructure"
+                },
+                {
+                    "end": 188,
+                    "start": 168,
+                    "tag": "ProductIntroduction"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Alstom offers a complete range of customised services including maintenance, modernisation, parts & repairs and support.",
+                    "display_url": "ow.ly/Cqb350PWm7a",
+                    "end": 280,
+                    "expanded_url": "https://ow.ly/Cqb350PWm7a",
+                    "images": [
+                        {
+                            "height": 1334,
+                            "url": "https://pbs.twimg.com/news_img/1722947302325633024/OBYymLII?format=jpg&name=orig",
+                            "width": 2000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1722947302325633024/OBYymLII?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 257,
+                    "status": 200,
+                    "title": "Services",
+                    "unwound_url": "https://www.alstom.com/solutions/services?utm_source=social_all&utm_medium=twitter&utm_content=2ecadffb-37fc-4867-951d-148caf7d07f5&utm_campaign=Alstom_Services",
+                    "url": "https://t.co/HeV3dVN8GV"
+                }
+            ]
+        },
+        "id": "1712785261233418538",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2380,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Did you know that #AlstomServices doesn't just maintain &amp; modernise trains, but also works with new trains, #signalling &amp; #infrastructure solutions? Our global #ProductIntroduction team of 2,000+ employees takes care of trains under warranty too! \n\nhttps://t.co/HeV3dVN8GV"
+    }
+}
