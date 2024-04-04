@@ -1,0 +1,68 @@
+{
+    "1665644902170894336": {
+        "author_id": "258725128",
+        "created_at": "2023-06-05T09:01:05.000Z",
+        "edit_history_tweet_ids": [
+            "1665644902170894336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 230,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.507,
+                    "start": 223,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 231,
+                    "start": 222,
+                    "tag": "UITP2023"
+                },
+                {
+                    "end": 246,
+                    "start": 232,
+                    "tag": "PassengerFlow"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "239537737",
+                    "start": 9,
+                    "username": "elmetrodepanama"
+                },
+                {
+                    "end": 221,
+                    "id": "2714012034",
+                    "start": 210,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/oV7w50OyROi",
+                    "end": 209,
+                    "expanded_url": "http://ow.ly/oV7w50OyROi",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://www.uitp.org/publications/improving-passenger-flow-and-crowd-management-through-technology-and-innovation/?utm_source=organic_social&utm_medium=twitter&utm_content=ecdbbf84-cb16-4c1c-9175-da1a4e9e547e&utm_campaign=UITP",
+                    "url": "https://t.co/jJy2HhWv7s"
+                }
+            ]
+        },
+        "id": "1665644902170894336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1145,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "In 2019, @elmetrodepanama faced passenger saturation when opening a new line. Using our solutions, we allowed passengers to gain 8% extra travel time along with an increased capacity. \n\ud83d\udcf0https://t.co/jJy2HhWv7s\n@uitpsummit #UITP2023 #PassengerFlow"
+    }
+}

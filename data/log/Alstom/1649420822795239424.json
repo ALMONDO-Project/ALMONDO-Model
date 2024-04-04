@@ -1,0 +1,45 @@
+{
+    "1649420822795239424": {
+        "author_id": "258725128",
+        "created_at": "2023-04-21T14:32:23.000Z",
+        "edit_history_tweet_ids": [
+            "1649420822795239424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.5173,
+                    "start": 31,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Innovia",
+                    "probability": 0.571,
+                    "start": 116,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 30,
+                    "tag": "AlstomServices"
+                }
+            ]
+        },
+        "id": "1649420822795239424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1272,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "All of the above are correct! #AlstomServices currently provides operations and maintenance services for driverless Innovia transit systems at 17 airports around the world, helping passengers move safely and efficiently through terminals."
+    }
+}

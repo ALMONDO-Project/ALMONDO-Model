@@ -1,0 +1,88 @@
+{
+    "1665683563402985474": {
+        "attachments": {
+            "media_keys": [
+                "7_1665683476517904384"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-05T11:34:43.000Z",
+        "edit_history_tweet_ids": [
+            "1665683563402985474"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Metropolis metro",
+                    "probability": 0.4855,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.6263,
+                    "start": 149,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 157,
+                    "start": 148,
+                    "tag": "UITP2023"
+                },
+                {
+                    "end": 164,
+                    "start": 158,
+                    "tag": "metro"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 29,
+                    "id": "2714012034",
+                    "start": 18,
+                    "username": "uitpsummit"
+                },
+                {
+                    "end": 86,
+                    "id": "115624105",
+                    "start": 72,
+                    "username": "TMB_Barcelona"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/mPxk50OFsxr",
+                    "end": 146,
+                    "expanded_url": "http://ow.ly/mPxk50OFsxr",
+                    "start": 123,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-uitp-global-public-transport-summit-2023?utm_source=organic_social&utm_medium=twitter&utm_content=40f961c8-b591-428a-95e5-7122e41bcdea&utm_campaign=UITP",
+                    "url": "https://t.co/HPdvgXpeBf"
+                },
+                {
+                    "display_url": "pic.twitter.com/j4oz5crxCL",
+                    "end": 188,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665683563402985474/video/1",
+                    "media_key": "7_1665683476517904384",
+                    "start": 165,
+                    "url": "https://t.co/j4oz5crxCL"
+                }
+            ]
+        },
+        "id": "1665683563402985474",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1917,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Can't visit us at @uitpsummit? Learn all about our Metropolis metro for @TMB_Barcelona that is showcased at our booth\ud83d\udcfd\ufe0f\n\n\u25b6\ufe0fhttps://t.co/HPdvgXpeBf\n\n#UITP2023 #metro https://t.co/j4oz5crxCL"
+    }
+}

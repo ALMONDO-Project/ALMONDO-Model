@@ -1,0 +1,82 @@
+{
+    "1669255454495498241": {
+        "attachments": {
+            "media_keys": [
+                "7_1669255379971104769"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-15T08:08:08.000Z",
+        "edit_history_tweet_ids": [
+            "1669255454495498241"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Paris",
+                    "probability": 0.9874,
+                    "start": 22,
+                    "type": "Place"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.4346,
+                    "start": 61,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 60,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 261,
+                    "start": 252,
+                    "tag": "VivaTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "4502885068",
+                    "start": 41,
+                    "username": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/KhL850OOWWk",
+                    "end": 250,
+                    "expanded_url": "https://ow.ly/KhL850OOWWk",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-viva-technology-2023?utm_source=organic_social&utm_medium=twitter&utm_content=ac0b4afa-406b-47da-bdde-af62fa98f3f8&utm_campaign=VivaTech",
+                    "url": "https://t.co/orVXIsprdu"
+                },
+                {
+                    "display_url": "pic.twitter.com/NskX4utrfc",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Alstom/status/1669255454495498241/video/1",
+                    "media_key": "7_1669255379971104769",
+                    "start": 262,
+                    "url": "https://t.co/NskX4utrfc"
+                }
+            ]
+        },
+        "id": "1669255454495498241",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1947,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udf1eAnother sunny day in Paris, another day @VivaTech! \n\n\ud83d\udccdMeet #TeamAlstom on booth J40 in Hall 1. We'll be delighted to talk about how we innovate towards greener and smarter mobility worldwide.\n\nSee our full event program here: https://t.co/orVXIsprdu\n\n#VivaTech https://t.co/NskX4utrfc"
+    }
+}

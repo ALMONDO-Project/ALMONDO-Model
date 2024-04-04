@@ -1,0 +1,98 @@
+{
+    "1669343698830884867": {
+        "attachments": {
+            "media_keys": [
+                "7_1669343625174712320"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-15T13:58:47.000Z",
+        "edit_history_tweet_ids": [
+            "1669343698830884867"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Marie-Sophie Richard",
+                    "probability": 0.8222,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5247,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "DYK",
+                    "probability": 0.3345,
+                    "start": 68,
+                    "type": "Other"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4175,
+                    "start": 142,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 54,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 71,
+                    "start": 67,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 84,
+                    "start": 72,
+                    "tag": "DataScience"
+                },
+                {
+                    "end": 229,
+                    "start": 220,
+                    "tag": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/nf9M50OPmA4",
+                    "end": 219,
+                    "expanded_url": "https://ow.ly/nf9M50OPmA4",
+                    "start": 196,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2022/3/how-data-science-becoming-game-changer-mobility-industry?utm_source=organic_social&utm_medium=twitter&utm_content=599c5494-e205-4ca4-a508-314768cb7988&utm_campaign=VivaTech",
+                    "url": "https://t.co/PK5yU0lind"
+                },
+                {
+                    "display_url": "pic.twitter.com/JWWhq29PqS",
+                    "end": 253,
+                    "expanded_url": "https://twitter.com/Alstom/status/1669343698830884867/video/1",
+                    "media_key": "7_1669343625174712320",
+                    "start": 230,
+                    "url": "https://t.co/JWWhq29PqS"
+                }
+            ]
+        },
+        "id": "1669343698830884867",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1862,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Marie-Sophie Richard works on machine learning within #TeamAlstom. #DYK #DataScience is becoming a game changer in the mobility industry, and Alstom is at the forefront of this field? Learn more: https://t.co/PK5yU0lind #VivaTech https://t.co/JWWhq29PqS"
+    }
+}

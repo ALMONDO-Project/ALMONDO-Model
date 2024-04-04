@@ -1,0 +1,94 @@
+{
+    "1669297951418601472": {
+        "attachments": {
+            "media_keys": [
+                "7_1669297873178046465"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-15T10:57:00.000Z",
+        "edit_history_tweet_ids": [
+            "1669297951418601472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 212,
+                    "normalized_text": "Lola Azimova",
+                    "probability": 0.5688,
+                    "start": 201,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "AlstomCareers",
+                    "probability": 0.3086,
+                    "start": 251,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.4782,
+                    "start": 266,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 249,
+                    "start": 240,
+                    "tag": "VivaTech"
+                },
+                {
+                    "end": 264,
+                    "start": 250,
+                    "tag": "AlstomCareers"
+                },
+                {
+                    "end": 276,
+                    "start": 265,
+                    "tag": "TeamAlstom"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "4502885068",
+                    "start": 54,
+                    "username": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/mvM250OP8R7",
+                    "end": 238,
+                    "expanded_url": "https://ow.ly/mvM250OP8R7",
+                    "start": 215,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/careers?utm_source=organic_social&utm_medium=twitter&utm_content=8800b7a2-08d4-4995-87f9-970772feb705&utm_campaign=VivaTech",
+                    "url": "https://t.co/uzVLN2FAJg"
+                },
+                {
+                    "display_url": "pic.twitter.com/IFIPj9UiuR",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Alstom/status/1669297951418601472/video/1",
+                    "media_key": "7_1669297873178046465",
+                    "start": 277,
+                    "url": "https://t.co/IFIPj9UiuR"
+                }
+            ]
+        },
+        "id": "1669297951418601472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1631,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Looking for a job with a purpose? Our HR teams are at @VivaTech at booth J40 in Hall 1 through June 17th. We look forward to meeting you, and perhaps we can reinvent mobility, together! Hear more from Lola Azimova: https://t.co/uzVLN2FAJg\n\n#VivaTech #AlstomCareers #TeamAlstom https://t.co/IFIPj9UiuR"
+    }
+}

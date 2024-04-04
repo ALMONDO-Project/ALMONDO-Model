@@ -1,0 +1,53 @@
+{
+    "1674328417091612672": {
+        "attachments": {
+            "poll_ids": [
+                "1674328415363538948"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-29T08:06:16.000Z",
+        "edit_history_tweet_ids": [
+            "1674328417091612672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 254,
+                    "normalized_text": "Alstom",
+                    "probability": 0.3911,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 0,
+                    "tag": "AlstomServices"
+                },
+                {
+                    "end": 21,
+                    "start": 16,
+                    "tag": "Quiz"
+                },
+                {
+                    "end": 44,
+                    "start": 34,
+                    "tag": "HealthHub"
+                }
+            ]
+        },
+        "id": "1674328417091612672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3037,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "#AlstomServices #Quiz - Thanks to #HealthHub, data from 90 fleets are collected and analysed in our control rooms to minimise in-service breakdowns, maximise reliability and availability while optimising lifecycle costs. How many control rooms does Alstom have around the world?"
+    }
+}

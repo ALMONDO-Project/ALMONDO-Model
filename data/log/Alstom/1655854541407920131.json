@@ -1,0 +1,84 @@
+{
+    "1655854541407920131": {
+        "attachments": {
+            "media_keys": [
+                "7_1655854467290484736"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-05-09T08:37:41.000Z",
+        "edit_history_tweet_ids": [
+            "1655854541407920131"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Coradia iLint",
+                    "probability": 0.7775,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "MobilitybyNature",
+                    "probability": 0.4861,
+                    "start": 248,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 67,
+                    "start": 58,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 74,
+                    "start": 68,
+                    "tag": "train"
+                },
+                {
+                    "end": 264,
+                    "start": 247,
+                    "tag": "MobilitybyNature"
+                },
+                {
+                    "end": 280,
+                    "start": 265,
+                    "tag": "sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/nENX50Oj1XF",
+                    "end": 245,
+                    "expanded_url": "http://ow.ly/nENX50Oj1XF",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-coradia-ilint-distance-run?utm_source=social&utm_medium=linkedin&utm_content=&utm_campaign=InnoTrans",
+                    "url": "https://t.co/MMbKY8rsHU"
+                },
+                {
+                    "display_url": "pic.twitter.com/Cx3FffDQdH",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Alstom/status/1655854541407920131/video/1",
+                    "media_key": "7_1655854467290484736",
+                    "start": 281,
+                    "url": "https://t.co/Cx3FffDQdH"
+                }
+            ]
+        },
+        "id": "1655854541407920131",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2251,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "On September 15, 2022, our Coradia iLint, the world's 1st #hydrogen #train, successfully travelled 1,175 km without refuelling its hydrogen tank. Watch the best moments of this extraordinary journey &amp; learn more here: https://t.co/MMbKY8rsHU \n#MobilitybyNature #sustainability https://t.co/Cx3FffDQdH"
+    }
+}

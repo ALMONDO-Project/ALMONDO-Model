@@ -1,0 +1,79 @@
+{
+    "1668196565347971073": {
+        "attachments": {
+            "media_keys": [
+                "7_1668195326107299840"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-12T10:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1668196565347971073"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Bart Vantorre",
+                    "probability": 0.9563,
+                    "start": 50,
+                    "type": "Person"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4472,
+                    "start": 87,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 107,
+                    "start": 96,
+                    "tag": "components"
+                },
+                {
+                    "end": 143,
+                    "start": 135,
+                    "tag": "webinar"
+                },
+                {
+                    "end": 192,
+                    "start": 175,
+                    "tag": "mobilitybynature"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/Ut3f50OCUhh",
+                    "end": 173,
+                    "expanded_url": "http://ow.ly/Ut3f50OCUhh",
+                    "start": 150,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/webinar-exploring-alstoms-leading-edge-components-high-performance-trains?utm_source=organic_social&utm_medium=twitter&utm_content=page&utm_campaign=RSC",
+                    "url": "https://t.co/RV7o7JarFx"
+                },
+                {
+                    "display_url": "pic.twitter.com/54X99stA4h",
+                    "end": 216,
+                    "expanded_url": "https://twitter.com/Alstom/status/1668196565347971073/video/1",
+                    "media_key": "7_1668195326107299840",
+                    "start": 193,
+                    "url": "https://t.co/54X99stA4h"
+                }
+            ]
+        },
+        "id": "1668196565347971073",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2468,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "From sustainable solutions to worldwide presence, Bart Vantorre reminded us what makes Alstom's #components so special. Watch the full #webinar:  \n\n\u25b6\ufe0fhttps://t.co/RV7o7JarFx\n\n#mobilitybynature https://t.co/54X99stA4h"
+    }
+}

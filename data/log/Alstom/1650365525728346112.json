@@ -1,0 +1,63 @@
+{
+    "1650365525728346112": {
+        "author_id": "258725128",
+        "created_at": "2023-04-24T05:06:18.000Z",
+        "edit_history_tweet_ids": [
+            "1650365525728346112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "APS",
+                    "probability": 0.5291,
+                    "start": 57,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 172,
+                    "start": 157,
+                    "tag": "infrastructure"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1322878151748366347",
+                    "start": 0,
+                    "username": "DieselDragonUK"
+                },
+                {
+                    "end": 31,
+                    "id": "19255393",
+                    "start": 16,
+                    "username": "richardavsmith"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "alstom.com/solutions/infr\u2026",
+                    "end": 156,
+                    "expanded_url": "https://www.alstom.com/solutions/infrastructure/aps-service-proven-catenary-free-tramway-operations",
+                    "start": 133,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/solutions/infrastructure/aps-service-proven-catenary-free-tramway-operations",
+                    "url": "https://t.co/ahqTJbartH"
+                }
+            ]
+        },
+        "id": "1650365525728346112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@DieselDragonUK @richardavsmith Indeed! Learn more about APS (which is the French abbreviation for 'alimentation par le sol') here:  https://t.co/ahqTJbartH #infrastructure"
+    }
+}

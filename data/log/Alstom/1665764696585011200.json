@@ -1,0 +1,73 @@
+{
+    "1665764696585011200": {
+        "attachments": {
+            "media_keys": [
+                "7_1665764616712929280"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-05T16:57:06.000Z",
+        "edit_history_tweet_ids": [
+            "1665764696585011200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5945,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.5941,
+                    "start": 103,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 26,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 111,
+                    "start": 102,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "2714012034",
+                    "start": 47,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Gg8CMcSEAa",
+                    "end": 135,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665764696585011200/video/1",
+                    "media_key": "7_1665764616712929280",
+                    "start": 112,
+                    "url": "https://t.co/Gg8CMcSEAa"
+                }
+            ]
+        },
+        "id": "1665764696585011200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2501,
+            "like_count": 38,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "... And that's a wrap for #TeamAlstom today at @uitpsummit day 1! See you tomorrow at our booth! \ud83d\ude8b\ud83d\ude87\u2611\ufe0f #UITP2023 https://t.co/Gg8CMcSEAa"
+    }
+}

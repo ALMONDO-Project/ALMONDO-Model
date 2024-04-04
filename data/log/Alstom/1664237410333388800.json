@@ -1,0 +1,84 @@
+{
+    "1664237410333388800": {
+        "author_id": "258725128",
+        "created_at": "2023-06-01T11:48:13.000Z",
+        "edit_history_tweet_ids": [
+            "1664237410333388800"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5082,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Finch West",
+                    "probability": 0.56,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "Citadis",
+                    "probability": 0.4016,
+                    "start": 178,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "LRV",
+                    "probability": 0.3983,
+                    "start": 187,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.3842,
+                    "start": 242,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 39,
+                    "tag": "simulator"
+                },
+                {
+                    "end": 190,
+                    "start": 186,
+                    "tag": "LRV"
+                },
+                {
+                    "end": 256,
+                    "start": 241,
+                    "tag": "AlstomServices"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "18910324",
+                    "start": 1,
+                    "username": "Metrolinx"
+                }
+            ]
+        },
+        "id": "1664237410333388800",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1510,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": ".@Metrolinx acquired an Alstom driving #simulator to train its crews for the future opening of its new Finch West LRT system. The simulator enables drivers to practice driving a Citadis #LRV, simulating real-life situations in road traffic. #AlstomServices"
+    }
+}

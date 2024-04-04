@@ -1,0 +1,58 @@
+{
+    "1664870529453510656": {
+        "author_id": "258725128",
+        "created_at": "2023-06-03T05:44:00.000Z",
+        "edit_history_tweet_ids": [
+            "1664870529453510656"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.7089,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 53,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "2173911080",
+                    "start": 0,
+                    "username": "V_A_Martin"
+                },
+                {
+                    "end": 20,
+                    "id": "803882059206901760",
+                    "start": 12,
+                    "username": "ap_rail"
+                },
+                {
+                    "end": 48,
+                    "id": "2714012034",
+                    "start": 37,
+                    "username": "uitpsummit"
+                }
+            ]
+        },
+        "id": "1664870529453510656",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 61,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@V_A_Martin @ap_rail See you soon at @uitpsummit ! \ud83d\ude00 #UITP2023"
+    }
+}

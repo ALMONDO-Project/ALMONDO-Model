@@ -1,0 +1,97 @@
+{
+    "1665852206426251270": {
+        "author_id": "258725128",
+        "created_at": "2023-06-05T22:44:50.000Z",
+        "edit_history_tweet_ids": [
+            "1665852206426251270"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.4812,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Metropolis",
+                    "probability": 0.4125,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.4312,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 64,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 107,
+                    "start": 87,
+                    "tag": "passengerexperience"
+                },
+                {
+                    "end": 130,
+                    "start": 124,
+                    "tag": "metro"
+                },
+                {
+                    "end": 202,
+                    "start": 192,
+                    "tag": "LightRail"
+                },
+                {
+                    "end": 265,
+                    "start": 256,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "2714012034",
+                    "start": 30,
+                    "username": "uitpsummit"
+                },
+                {
+                    "end": 149,
+                    "id": "115624105",
+                    "start": 135,
+                    "username": "TMB_Barcelona"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=XCWhkR\u2026",
+                    "end": 255,
+                    "expanded_url": "https://www.youtube.com/watch?v=XCWhkRClZdA",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=XCWhkRClZdA",
+                    "url": "https://t.co/OKLshU9wM8"
+                }
+            ]
+        },
+        "id": "1665852206426251270",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1373,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "In our day 1 video highlights @uitpsummit, we catch up with our #TeamAlstom experts on #passengerexperience, our Metropolis #metro for @TMB_Barcelona &amp; our driving assistance solution for #LightRail to help make cities safer. \ud83d\udc47\nhttps://t.co/OKLshU9wM8\n#UITP2023"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "1668981555941765121": {
+        "attachments": {
+            "media_keys": [
+                "3_1668981553567768585"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-14T13:59:45.000Z",
+        "edit_history_tweet_ids": [
+            "1668981555941765121"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "Guillaume Rabier",
+                    "probability": 0.5426,
+                    "start": 120,
+                    "type": "Person"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "Xavier Perret",
+                    "probability": 0.6483,
+                    "start": 148,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4894,
+                    "start": 206,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "VivaTech",
+                    "probability": 0.3518,
+                    "start": 250,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 188,
+                    "start": 182,
+                    "tag": "cloud"
+                },
+                {
+                    "end": 258,
+                    "start": 249,
+                    "tag": "VivaTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 38,
+                    "id": "74286565",
+                    "start": 28,
+                    "username": "Microsoft"
+                },
+                {
+                    "end": 145,
+                    "id": "17000457",
+                    "start": 139,
+                    "username": "Azure"
+                },
+                {
+                    "end": 198,
+                    "id": "4502885068",
+                    "start": 189,
+                    "username": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/t7qe50OObny",
+                    "end": 247,
+                    "expanded_url": "https://ow.ly/t7qe50OObny",
+                    "start": 224,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-viva-technology-2023?utm_source=organic_social&utm_medium=twitter&utm_content=cf4afc86-4a96-4b29-b15d-0ee047927ead&utm_campaign=VivaTech",
+                    "url": "https://t.co/fdfrbxWuas"
+                },
+                {
+                    "display_url": "pic.twitter.com/bFxmhVSxw8",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Alstom/status/1668981555941765121/photo/1",
+                    "media_key": "3_1668981553567768585",
+                    "start": 259,
+                    "url": "https://t.co/bFxmhVSxw8"
+                }
+            ]
+        },
+        "id": "1668981555941765121",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1399,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We're happy to partner with @Microsoft to offer cloud-hosted applications to railway customers &amp; their passengers.\n\nGuillaume Rabier   @Azure's Xavier Perret on the power of the #cloud @VivaTech on our Alstom booth! \n\n\u25b6\ufe0fhttps://t.co/fdfrbxWuas\n\n#VivaTech https://t.co/bFxmhVSxw8"
+    }
+}

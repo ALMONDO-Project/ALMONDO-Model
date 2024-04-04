@@ -1,0 +1,73 @@
+{
+    "1665707566318354433": {
+        "attachments": {
+            "media_keys": [
+                "7_1665706580308893697"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-05T13:10:05.000Z",
+        "edit_history_tweet_ids": [
+            "1665707566318354433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "Urbalis Fluence",
+                    "probability": 0.8315,
+                    "start": 121,
+                    "type": "Other"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.5427,
+                    "start": 237,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 110,
+                    "start": 99,
+                    "tag": "signalling"
+                },
+                {
+                    "end": 245,
+                    "start": 236,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 21,
+                    "id": "2714012034",
+                    "start": 10,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/PIkEon4Cka",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665707566318354433/video/1",
+                    "media_key": "7_1665706580308893697",
+                    "start": 246,
+                    "url": "https://t.co/PIkEon4Cka"
+                }
+            ]
+        },
+        "id": "1665707566318354433",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1575,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "If you're @uitpsummit discover an enhanced passenger experience in our virtual showroom! Our urban #signalling solution, Urbalis Fluence, offers train-to-train communication and onboard intelligence for higher capacity and flexibility. #UITP2023 https://t.co/PIkEon4Cka"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "1665645755581845504": {
+        "attachments": {
+            "media_keys": [
+                "3_1665645754222796803"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-05T09:04:28.000Z",
+        "edit_history_tweet_ids": [
+            "1665645755581845504"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 133,
+                    "normalized_text": "Belgium",
+                    "probability": 0.9331,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Bernard Belvaux",
+                    "probability": 0.8377,
+                    "start": 136,
+                    "type": "Person"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Alstom Benelux",
+                    "probability": 0.7139,
+                    "start": 164,
+                    "type": "Person"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "Belgium",
+                    "probability": 0.9563,
+                    "start": 213,
+                    "type": "Place"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "BelgiumRail",
+                    "probability": 0.6504,
+                    "start": 260,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 14,
+                    "tag": "paneldiscussion"
+                },
+                {
+                    "end": 81,
+                    "start": 76,
+                    "tag": "rail"
+                },
+                {
+                    "end": 126,
+                    "start": 118,
+                    "tag": "RTB2023"
+                },
+                {
+                    "end": 271,
+                    "start": 259,
+                    "tag": "BelgiumRail"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/n5P4p9MunQ",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665645755581845504/photo/1",
+                    "media_key": "3_1665645754222796803",
+                    "start": 272,
+                    "url": "https://t.co/n5P4p9MunQ"
+                }
+            ]
+        },
+        "id": "1665645755581845504",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1004,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Join us for a #paneldiscussion on the challenges that need to be solved for #rail to live up to its full potential at #RTB2023 Belgium. Bernard Belvaux, our MD for Alstom Benelux, will discuss what's necessary in Belgium for rail to reach its full potential. #BelgiumRail https://t.co/n5P4p9MunQ"
+    }
+}

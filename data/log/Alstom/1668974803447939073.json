@@ -1,0 +1,111 @@
+{
+    "1668974803447939073": {
+        "attachments": {
+            "media_keys": [
+                "3_1668974801107525632"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-14T13:32:55.000Z",
+        "edit_history_tweet_ids": [
+            "1668974803447939073"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6304,
+                    "start": 8,
+                    "type": "Place"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Benjamin Kelley",
+                    "probability": 0.8714,
+                    "start": 84,
+                    "type": "Person"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.6235,
+                    "start": 102,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "VivaTech",
+                    "probability": 0.4944,
+                    "start": 194,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 112,
+                    "start": 101,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 202,
+                    "start": 193,
+                    "tag": "VivaTech"
+                },
+                {
+                    "end": 250,
+                    "start": 240,
+                    "tag": "Recycling"
+                },
+                {
+                    "end": 268,
+                    "start": 251,
+                    "tag": "Mobilitybynature"
+                },
+                {
+                    "end": 280,
+                    "start": 269,
+                    "tag": "Innovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 82,
+                    "id": "4502885068",
+                    "start": 73,
+                    "username": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/4zFU50OO7EF",
+                    "end": 238,
+                    "expanded_url": "https://ow.ly/4zFU50OO7EF",
+                    "start": 215,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-viva-technology-2023?utm_source=organic_social&utm_medium=twitter&utm_content=673f6c40-b91d-4c2d-ad4e-edc18236254a&utm_campaign=VivaTech",
+                    "url": "https://t.co/mTCjM2hVVE"
+                },
+                {
+                    "display_url": "pic.twitter.com/OWCjwllIPK",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Alstom/status/1668974803447939073/photo/1",
+                    "media_key": "3_1668974801107525632",
+                    "start": 281,
+                    "url": "https://t.co/OWCjwllIPK"
+                }
+            ]
+        },
+        "id": "1668974803447939073",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1389,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Here at Alstom, innovation is at the \u2764\ufe0f of everything we do.\nOn stage at @VivaTech: Benjamin Kelley, #TeamAlstom intrapreneur on his innovation project Voie \u00b02, circular furnitures.\n\nCatch our #VivaTech talks here: https://t.co/mTCjM2hVVE\n\n#Recycling #Mobilitybynature #Innovation https://t.co/OWCjwllIPK"
+    }
+}

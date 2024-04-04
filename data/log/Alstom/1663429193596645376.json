@@ -1,0 +1,118 @@
+{
+    "1663429193596645376": {
+        "attachments": {
+            "media_keys": [
+                "3_1663429182917935104"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-05-30T06:16:39.000Z",
+        "edit_history_tweet_ids": [
+            "1663429193596645376"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "DYK",
+                    "probability": 0.5422,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 10,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5178,
+                    "start": 5,
+                    "type": "Place"
+                },
+                {
+                    "end": 27,
+                    "normalized_text": "VR",
+                    "probability": 0.5011,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "aprail25",
+                    "probability": 0.5376,
+                    "start": 267,
+                    "type": "Other"
+                },
+                {
+                    "end": 280,
+                    "normalized_text": "APAC",
+                    "probability": 0.447,
+                    "start": 277,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 28,
+                    "start": 25,
+                    "tag": "VR"
+                },
+                {
+                    "end": 169,
+                    "start": 160,
+                    "tag": "mobility"
+                },
+                {
+                    "end": 275,
+                    "start": 266,
+                    "tag": "aprail25"
+                },
+                {
+                    "end": 281,
+                    "start": 276,
+                    "tag": "APAC"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 191,
+                    "id": "803882059206901760",
+                    "start": 183,
+                    "username": "ap_rail"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "alstom.com/alstom-asia-pa\u2026",
+                    "end": 265,
+                    "expanded_url": "https://www.alstom.com/alstom-asia-pacific-rail-2023",
+                    "start": 242,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-asia-pacific-rail-2023",
+                    "url": "https://t.co/wh0Nbgsbri"
+                },
+                {
+                    "display_url": "pic.twitter.com/ttqz49Xy44",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/Alstom/status/1663429193596645376/photo/1",
+                    "media_key": "3_1663429182917935104",
+                    "start": 282,
+                    "url": "https://t.co/ttqz49Xy44"
+                }
+            ]
+        },
+        "id": "1663429193596645376",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1607,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#DYK Alstom has deployed #VR tech in train design, operations &amp; training? Attend a live demo session &amp; find out how we leverage technologies to enhance #mobility solutions at @ap_rail 31 May-1 June. Visit us at booth C09! Learn more: https://t.co/wh0Nbgsbri #aprail25 #APAC https://t.co/ttqz49Xy44"
+    }
+}

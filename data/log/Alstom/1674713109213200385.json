@@ -1,0 +1,73 @@
+{
+    "1674713109213200385": {
+        "author_id": "258725128",
+        "created_at": "2023-06-30T09:34:54.000Z",
+        "edit_history_tweet_ids": [
+            "1674713109213200385"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5046,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "HealthHub",
+                    "probability": 0.6728,
+                    "start": 78,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Alstom Digital Monitoring Centre",
+                    "probability": 0.8504,
+                    "start": 140,
+                    "type": "Other"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "DMC",
+                    "probability": 0.3307,
+                    "start": 174,
+                    "type": "Organization"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "North America",
+                    "probability": 0.9073,
+                    "start": 183,
+                    "type": "Place"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "Saint Bruno",
+                    "probability": 0.9074,
+                    "start": 244,
+                    "type": "Place"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "Canada",
+                    "probability": 0.8648,
+                    "start": 257,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1674713109213200385",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1137,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Thank you for your votes! Alstom has 13 control rooms around the world for 66 HealthHub maintenance projects and for over 18,000 cars ! The Alstom Digital Monitoring Centre (DMC) for North America, our latest control room, opened last month in Saint Bruno, Canada."
+    }
+}

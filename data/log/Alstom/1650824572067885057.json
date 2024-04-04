@@ -1,0 +1,95 @@
+{
+    "1650824572067885057": {
+        "attachments": {
+            "media_keys": [
+                "3_1650824570100744192"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-25T11:30:23.000Z",
+        "edit_history_tweet_ids": [
+            "1650824572067885057"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Brahim Soua",
+                    "probability": 0.5508,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4263,
+                    "start": 21,
+                    "type": "Place"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "Regional Trains Portfolio",
+                    "probability": 0.5102,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Alstom",
+                    "probability": 0.3414,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Europe",
+                    "probability": 0.9457,
+                    "start": 120,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 86,
+                    "tag": "regionaltrains"
+                },
+                {
+                    "end": 239,
+                    "start": 228,
+                    "tag": "automation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/VXS550NIXp0",
+                    "end": 264,
+                    "expanded_url": "http://ow.ly/VXS550NIXp0",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/4/regional-trains-strong-portfolio-optimised-total-cost-ownership?utm_source=organic_social&utm_medium=twitter&utm_content=page&utm_campaign=RSC",
+                    "url": "https://t.co/ziCU7jb3jr"
+                },
+                {
+                    "display_url": "pic.twitter.com/jgDsbBMhky",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Alstom/status/1650824572067885057/photo/1",
+                    "media_key": "3_1650824570100744192",
+                    "start": 265,
+                    "url": "https://t.co/jgDsbBMhky"
+                }
+            ]
+        },
+        "id": "1650824572067885057",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3077,
+            "like_count": 26,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Brahim Soua, Head of Alstom\u2019s Regional Trains Portfolio, explains what makes Alstom\u2019s #regionaltrains so popular across Europe, and how our product portfolio is adapting to the evolving demands of regional operators for greater #automation. https://t.co/ziCU7jb3jr https://t.co/jgDsbBMhky"
+    }
+}

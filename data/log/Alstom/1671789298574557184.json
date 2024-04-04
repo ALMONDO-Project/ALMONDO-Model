@@ -1,0 +1,103 @@
+{
+    "1671789298574557184": {
+        "attachments": {
+            "media_keys": [
+                "3_1671789297203068929"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-22T07:56:43.000Z",
+        "edit_history_tweet_ids": [
+            "1671789298574557184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "XR",
+                    "probability": 0.7034,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "European Industry",
+                    "probability": 0.5166,
+                    "start": 59,
+                    "type": "Other"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Franck Gaillard",
+                    "probability": 0.9403,
+                    "start": 94,
+                    "type": "Person"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "XR Industry",
+                    "probability": 0.4617,
+                    "start": 155,
+                    "type": "Other"
+                },
+                {
+                    "end": 261,
+                    "normalized_text": "XR4Europe",
+                    "probability": 0.6178,
+                    "start": 253,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 52,
+                    "tag": "XR"
+                },
+                {
+                    "end": 262,
+                    "start": 252,
+                    "tag": "XR4Europe"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 196,
+                    "id": "1081279182498353152",
+                    "start": 186,
+                    "username": "XR4EUROPE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "xr4europe.eu/xr4europe-summ\u2026",
+                    "end": 251,
+                    "expanded_url": "https://xr4europe.eu/xr4europe-summer-event/",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://xr4europe.eu/xr4europe-summer-event/",
+                    "url": "https://t.co/iAmz5zhWFz"
+                },
+                {
+                    "display_url": "pic.twitter.com/kA5IvNkPqD",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Alstom/status/1671789298574557184/photo/1",
+                    "media_key": "3_1671789297203068929",
+                    "start": 263,
+                    "url": "https://t.co/kA5IvNkPqD"
+                }
+            ]
+        },
+        "id": "1671789298574557184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1518,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Are you interested in how we can improve the use of #XR in European Industry? If so, come see Franck Gaillard speak about this topic today at the European XR Industry event organised by @XR4EUROPE. To register &amp; learn more: https://t.co/iAmz5zhWFz #XR4Europe https://t.co/kA5IvNkPqD"
+    }
+}

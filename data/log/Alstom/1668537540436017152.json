@@ -1,0 +1,85 @@
+{
+    "1668537540436017152": {
+        "attachments": {
+            "media_keys": [
+                "3_1668537537319542786"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-13T08:35:24.000Z",
+        "edit_history_tweet_ids": [
+            "1668537540436017152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "Poland",
+                    "probability": 0.9617,
+                    "start": 124,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 93,
+                    "start": 74,
+                    "tag": "transportsolutions"
+                },
+                {
+                    "end": 119,
+                    "start": 99,
+                    "tag": "zerodirectemissions"
+                },
+                {
+                    "end": 130,
+                    "start": 123,
+                    "tag": "Poland"
+                },
+                {
+                    "end": 170,
+                    "start": 161,
+                    "tag": "hydrogen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "109634966",
+                    "start": 31,
+                    "username": "airproducts"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/RISH50OMBWG",
+                    "end": 278,
+                    "expanded_url": "https://ow.ly/RISH50OMBWG",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/6/alstom-and-air-products-sign-agreement-develop-transport-solutions-zero-direct-emissions-poland",
+                    "url": "https://t.co/GgRGhxnL77"
+                },
+                {
+                    "display_url": "pic.twitter.com/34QHRzixP2",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Alstom/status/1668537540436017152/photo/1",
+                    "media_key": "3_1668537537319542786",
+                    "start": 279,
+                    "url": "https://t.co/34QHRzixP2"
+                }
+            ]
+        },
+        "id": "1668537540436017152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1796,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We've signed an agreement with @airproducts to promote the development of #transportsolutions with #zerodirectemissions in #Poland. Air Products will distribute #hydrogen &amp; provide the refuelling infrastructure, and we'll provide the hydrogen trains. https://t.co/GgRGhxnL77 https://t.co/34QHRzixP2"
+    }
+}
