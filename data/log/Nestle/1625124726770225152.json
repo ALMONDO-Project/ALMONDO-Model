@@ -1,0 +1,70 @@
+{
+    "1625124726770225152": {
+        "author_id": "23085995",
+        "created_at": "2023-02-13T13:28:22.000Z",
+        "edit_history_tweet_ids": [
+            "1625124726770225152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 113,
+                    "normalized_text": "Russia",
+                    "probability": 0.9845,
+                    "start": 108,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "22852074",
+                    "start": 0,
+                    "username": "eellaval"
+                },
+                {
+                    "end": 22,
+                    "id": "16887175",
+                    "start": 10,
+                    "username": "DailyMirror"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "As the war rages in Ukraine, our activities in Russia will focus on providing essential food, such as infant food and medical/hospital nutrition \u2014 not on making a profit. This approach is in line with our purpose and values.",
+                    "display_url": "nes.tl/UARU",
+                    "end": 230,
+                    "expanded_url": "https://nes.tl/UARU",
+                    "images": [
+                        {
+                            "height": 190,
+                            "url": "https://pbs.twimg.com/news_img/1763096048141271040/nUnkOfyr?format=jpg&name=orig",
+                            "width": 500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1763096048141271040/nUnkOfyr?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 207,
+                    "status": 200,
+                    "title": "Update on Ukraine and Russia",
+                    "unwound_url": "https://www.nestle.com/ask-nestle/our-company/answers/update-ukraine-russia",
+                    "url": "https://t.co/7tlBPyLawp"
+                }
+            ]
+        },
+        "id": "1625124726770225152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 228,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@eellaval @DailyMirror While we do not expect to make any profit in the country or pay any related taxes in Russia, any potential profit will be donated to humanitarian relief organizations. More info here: https://t.co/7tlBPyLawp (2/2)"
+    }
+}

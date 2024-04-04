@@ -1,0 +1,101 @@
+{
+    "1641055834149888001": {
+        "attachments": {
+            "media_keys": [
+                "7_1641053721772605443"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-29T12:32:54.000Z",
+        "edit_history_tweet_ids": [
+            "1641055834149888001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Ecuador",
+                    "probability": 0.9238,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5051,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Julian",
+                    "probability": 0.6942,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Carlos",
+                    "probability": 0.5202,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Exporbananas",
+                    "probability": 0.5837,
+                    "start": 207,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 37,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 128,
+                    "start": 121,
+                    "tag": "banana"
+                },
+                {
+                    "end": 194,
+                    "start": 189,
+                    "tag": "farm"
+                },
+                {
+                    "end": 253,
+                    "start": 243,
+                    "tag": "alltheway"
+                },
+                {
+                    "end": 266,
+                    "start": 254,
+                    "tag": "globaltrade"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/uFDGA4xaWn",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/Maersk/status/1641055834149888001/video/1",
+                    "media_key": "7_1641053721772605443",
+                    "start": 267,
+                    "url": "https://t.co/uFDGA4xaWn"
+                }
+            ]
+        },
+        "id": "1641055834149888001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 6409,
+            "like_count": 76,
+            "quote_count": 2,
+            "reply_count": 5,
+            "retweet_count": 18
+        },
+        "text": "Join us at a banana farm\ud83c\udf4cin Ecuador. #Maersk Product Manager Julian visits our reefer specialist Carlos who shows us the #banana process post-harvest bringing this favourite fruit from the #farm to customer Exporbananas S.A. and to your door. #alltheway #globaltrade https://t.co/uFDGA4xaWn"
+    }
+}

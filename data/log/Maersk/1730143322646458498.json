@@ -1,0 +1,88 @@
+{
+    "1730143322646458498": {
+        "attachments": {
+            "media_keys": [
+                "7_1730143223979663360"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-30T08:34:47.000Z",
+        "edit_history_tweet_ids": [
+            "1730143322646458498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Maersk Freetime Extension",
+                    "probability": 0.6396,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3313,
+                    "start": 238,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 217,
+                    "start": 208,
+                    "tag": "Freetime"
+                },
+                {
+                    "end": 236,
+                    "start": 218,
+                    "tag": "FreeTimeExtension"
+                },
+                {
+                    "end": 244,
+                    "start": 237,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 254,
+                    "start": 245,
+                    "tag": "Shipping"
+                },
+                {
+                    "end": 265,
+                    "start": 255,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Rk5YN8",
+                    "end": 207,
+                    "expanded_url": "https://bit.ly/3Rk5YN8",
+                    "start": 184,
+                    "unwound_url": "https://www.maersk.com/transportation-services/maersk-spot/freetime-extension?utm_campaign=GLOBAL_MCO_PROD_EN_FREETIMEEXT-SOME_6063245490441&utm_source=twitter&utm_medium=owned&utm_content=SoMePost",
+                    "url": "https://t.co/lvKD9hUbfE"
+                },
+                {
+                    "display_url": "pic.twitter.com/oWMIbfxq2J",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Maersk/status/1730143322646458498/video/1",
+                    "media_key": "7_1730143223979663360",
+                    "start": 266,
+                    "url": "https://t.co/oWMIbfxq2J"
+                }
+            ]
+        },
+        "id": "1730143322646458498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4613,
+            "like_count": 66,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "With Maersk Freetime Extension you can save up to 80% on demurrage and detention costs. Just increase your freetime 1-15 days before your vessel arrives and take a load off your mind. https://t.co/lvKD9hUbfE #Freetime #FreeTimeExtension #Maersk #Shipping #AllTheWay https://t.co/oWMIbfxq2J"
+    }
+}

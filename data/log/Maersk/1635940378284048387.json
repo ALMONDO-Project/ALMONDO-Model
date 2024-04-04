@@ -1,0 +1,42 @@
+{
+    "1635940378284048387": {
+        "author_id": "380801406",
+        "created_at": "2023-03-15T09:45:55.000Z",
+        "edit_history_tweet_ids": [
+            "1635940378284048387"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "AI",
+                    "probability": 0.6645,
+                    "start": 35,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "events.reutersevents.com/momentum/theri\u2026",
+                    "end": 119,
+                    "expanded_url": "https://events.reutersevents.com/momentum/theriseofgenerativeai?utm_source=HollyLandry",
+                    "start": 96,
+                    "status": 200,
+                    "unwound_url": "https://events.reutersevents.com/momentum/theriseofgenerativeai?utm_source=HollyLandry",
+                    "url": "https://t.co/jpHOgK1a1h"
+                }
+            ]
+        },
+        "id": "1635940378284048387",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1937,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Want to know more about generative AI ? Join this webinar on the 16th of March at 17:00PM CET:  https://t.co/jpHOgK1a1h"
+    }
+}

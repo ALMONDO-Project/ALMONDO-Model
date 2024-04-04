@@ -1,0 +1,81 @@
+{
+    "1712785264173826367": {
+        "attachments": {
+            "media_keys": [
+                "7_1712758340101738496"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-13T11:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1712785264173826367"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 185,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4697,
+                    "start": 180,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 186,
+                    "start": 179,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 194,
+                    "start": 187,
+                    "tag": "Delays"
+                },
+                {
+                    "end": 208,
+                    "start": 195,
+                    "tag": "ConstantCare"
+                },
+                {
+                    "end": 219,
+                    "start": 209,
+                    "tag": "AlltheWay"
+                },
+                {
+                    "end": 240,
+                    "start": 220,
+                    "tag": "IntegratedLogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/logistics-expl\u2026",
+                    "end": 177,
+                    "expanded_url": "https://www.maersk.com/logistics-explained/supply-chain-management/2023/10/13/dynamic-scheduling-explained",
+                    "start": 154,
+                    "unwound_url": "https://www.maersk.com/logistics-explained/supply-chain-management/2023/10/13/dynamic-scheduling-explained",
+                    "url": "https://t.co/dhSaVOO6MO"
+                },
+                {
+                    "display_url": "pic.twitter.com/ezKmhSCB4J",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/Maersk/status/1712785264173826367/video/1",
+                    "media_key": "7_1712758340101738496",
+                    "start": 241,
+                    "url": "https://t.co/ezKmhSCB4J"
+                }
+            ]
+        },
+        "id": "1712785264173826367",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5468,
+            "like_count": 24,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "It can be tempting to take the offer that promises you the fastest delivery of your cargo. But this might not always be the best option. Learn more here: https://t.co/dhSaVOO6MO\n\n#Maersk #Delays #ConstantCare #AlltheWay #IntegratedLogistics https://t.co/ezKmhSCB4J"
+    }
+}

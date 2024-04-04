@@ -1,0 +1,86 @@
+{
+    "1629115271486087168": {
+        "attachments": {
+            "media_keys": [
+                "13_1629115179941101578"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-24T13:45:22.000Z",
+        "edit_history_tweet_ids": [
+            "1629115271486087168"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "IT",
+                    "probability": 0.4652,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "EcoCare",
+                    "probability": 0.5991,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "UPS",
+                    "probability": 0.5046,
+                    "start": 114,
+                    "type": "Other"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "OpEx",
+                    "probability": 0.7594,
+                    "start": 204,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 94,
+                    "start": 86,
+                    "tag": "EcoCare"
+                },
+                {
+                    "end": 247,
+                    "start": 234,
+                    "tag": "SkipTheDrama"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60163sTua",
+                    "end": 272,
+                    "expanded_url": "http://spr.ly/60163sTua",
+                    "start": 249,
+                    "url": "https://t.co/1sz26vTSu0"
+                },
+                {
+                    "display_url": "pic.twitter.com/qjh9AmU0B7",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1629115271486087168/video/1",
+                    "media_key": "13_1629115179941101578",
+                    "start": 273,
+                    "url": "https://t.co/qjh9AmU0B7"
+                }
+            ]
+        },
+        "id": "1629115271486087168",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1140,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "How can you efficiently manage distributed IT across multiple sites? Get support with #EcoCare for a single-phase UPS fleet. It\u2019s an exclusive services membership that will help you optimize maintenance, OpEx, and sustainability, and #SkipTheDrama\n\nhttps://t.co/1sz26vTSu0 https://t.co/qjh9AmU0B7"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "1658102473704316928": {
+        "attachments": {
+            "media_keys": [
+                "3_1658102450987859968",
+                "3_1658102457451401220",
+                "3_1658102462853660672",
+                "3_1658102469774266369"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-15T13:30:10.000Z",
+        "edit_history_tweet_ids": [
+            "1658102473704316928"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "LCL",
+                    "probability": 0.5716,
+                    "start": 26,
+                    "type": "Organization"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "FCL",
+                    "probability": 0.5423,
+                    "start": 87,
+                    "type": "Organization"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Maersk",
+                    "probability": 0.2632,
+                    "start": 172,
+                    "type": "Other"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "LCL",
+                    "probability": 0.5611,
+                    "start": 180,
+                    "type": "Organization"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.4228,
+                    "start": 208,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 178,
+                    "start": 171,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 183,
+                    "start": 179,
+                    "tag": "LCL"
+                },
+                {
+                    "end": 206,
+                    "start": 184,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 220,
+                    "start": 207,
+                    "tag": "MaerskEurope"
+                },
+                {
+                    "end": 232,
+                    "start": 222,
+                    "tag": "AllTheWay"
+                },
+                {
+                    "end": 251,
+                    "start": 233,
+                    "tag": "FullContainerLoad"
+                },
+                {
+                    "end": 270,
+                    "start": 252,
+                    "tag": "LessThanContainer"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/41BCxYO",
+                    "end": 163,
+                    "expanded_url": "https://bddy.me/41BCxYO",
+                    "start": 140,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/02/28/how-lcl-logistics-can-help-respond-to-market-changes?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_63C556A26D08C_644FB29922443&utm_term=VOCP&utm_content=EUR_LCL",
+                    "url": "https://t.co/icWKrvDWdj"
+                },
+                {
+                    "display_url": "pic.twitter.com/kPyblLg8s2",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658102473704316928/photo/1",
+                    "media_key": "3_1658102450987859968",
+                    "start": 271,
+                    "url": "https://t.co/kPyblLg8s2"
+                },
+                {
+                    "display_url": "pic.twitter.com/kPyblLg8s2",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658102473704316928/photo/1",
+                    "media_key": "3_1658102457451401220",
+                    "start": 271,
+                    "url": "https://t.co/kPyblLg8s2"
+                },
+                {
+                    "display_url": "pic.twitter.com/kPyblLg8s2",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658102473704316928/photo/1",
+                    "media_key": "3_1658102462853660672",
+                    "start": 271,
+                    "url": "https://t.co/kPyblLg8s2"
+                },
+                {
+                    "display_url": "pic.twitter.com/kPyblLg8s2",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658102473704316928/photo/1",
+                    "media_key": "3_1658102469774266369",
+                    "start": 271,
+                    "url": "https://t.co/kPyblLg8s2"
+                }
+            ]
+        },
+        "id": "1658102473704316928",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5145,
+            "like_count": 33,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Less-than-Container Load (LCL) services can be a powerful ally to Full Container Load (FCL) services. Read our infographic to find out how: https://t.co/icWKrvDWdj  \u2708\ufe0f\ud83d\udee5\ufe0f\ud83d\udce6\n#Maersk #LCL #SupplyChainManagement #MaerskEurope  #AllTheWay #FullContainerLoad #LessThanContainer https://t.co/kPyblLg8s2"
+    }
+}

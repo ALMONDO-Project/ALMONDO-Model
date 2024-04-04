@@ -1,0 +1,75 @@
+{
+    "1727652600689144180": {
+        "attachments": {
+            "media_keys": [
+                "7_1727652377858396160"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-23T11:37:32.000Z",
+        "edit_history_tweet_ids": [
+            "1727652600689144180"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4509,
+                    "start": 15,
+                    "type": "Person"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Christian Andersen",
+                    "probability": 0.9023,
+                    "start": 157,
+                    "type": "Person"
+                },
+                {
+                    "end": 282,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.4064,
+                    "start": 271,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 283,
+                    "start": 270,
+                    "tag": "MaerskEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/40OUcNW",
+                    "end": 269,
+                    "expanded_url": "https://bit.ly/40OUcNW",
+                    "start": 246,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/11/16/how-europris-is-achieving-operational-excellence-with-maersk?utm_campaign=EUR_MCO_BRO_EN_EUROPRIS-CASE-STUDY_8055454059466&utm_source=twitter&utm_medium=direct_awareness&utm_content=Some_edit1",
+                    "url": "https://t.co/J6CW39F2Up"
+                },
+                {
+                    "display_url": "pic.twitter.com/i1FwdkgrsP",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Maersk/status/1727652600689144180/video/1",
+                    "media_key": "7_1727652377858396160",
+                    "start": 284,
+                    "url": "https://t.co/i1FwdkgrsP"
+                }
+            ]
+        },
+        "id": "1727652600689144180",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3152,
+            "like_count": 31,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Europris\u00a0&amp; Maersk are extending the 20-year-old partnership into the future, driven by a common goal: achieving net zero carbon emissions. Listen to\u00a0P\u00e5l Christian Andersen, VP of Supply Chain at\u00a0Europris, as he discusses the shared ambition:\u00a0https://t.co/J6CW39F2Up #MaerskEurope https://t.co/i1FwdkgrsP"
+    }
+}

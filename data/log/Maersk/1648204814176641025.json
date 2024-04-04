@@ -1,0 +1,82 @@
+{
+    "1648204814176641025": {
+        "attachments": {
+            "media_keys": [
+                "7_1648204736745619457"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-18T06:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1648204814176641025"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "SupplyChain",
+                    "probability": 0.6284,
+                    "start": 31,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 42,
+                    "start": 30,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 177,
+                    "start": 161,
+                    "tag": "CircularEconomy"
+                },
+                {
+                    "end": 188,
+                    "start": 178,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 273,
+                    "start": 251,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 283,
+                    "start": 274,
+                    "tag": "Insights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/susta\u2026",
+                    "end": 250,
+                    "expanded_url": "https://www.maersk.com/insights/sustainability/circular-economy-logistics",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/insights/sustainability/circular-economy-logistics",
+                    "url": "https://t.co/AIZb3elwJN"
+                },
+                {
+                    "display_url": "pic.twitter.com/0RhJkskxdU",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Maersk/status/1648204814176641025/video/1",
+                    "media_key": "7_1648204736745619457",
+                    "start": 284,
+                    "url": "https://t.co/0RhJkskxdU"
+                }
+            ]
+        },
+        "id": "1648204814176641025",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4041,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Most businesses have a linear #SupplyChain with a straight path from raw materials to production \u2013 an approach which is costly, inefficient &amp; unsustainable. #CircularEconomy #Logistics is here to change that. Discover how: https://t.co/AIZb3elwJN #SupplyChainManagement #Insights https://t.co/0RhJkskxdU"
+    }
+}

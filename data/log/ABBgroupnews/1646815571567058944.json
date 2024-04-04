@@ -1,0 +1,89 @@
+{
+    "1646815571567058944": {
+        "attachments": {
+            "media_keys": [
+                "3_1646805893093158916"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-04-14T10:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1646815571567058944"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "ABB",
+                    "probability": 0.597,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "ABB",
+                    "probability": 0.6117,
+                    "start": 90,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 20,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 78,
+                    "start": 72,
+                    "tag": "water"
+                },
+                {
+                    "end": 157,
+                    "start": 146,
+                    "tag": "wastewater"
+                },
+                {
+                    "end": 254,
+                    "start": 243,
+                    "tag": "DidYouKnow"
+                },
+                {
+                    "end": 266,
+                    "start": 255,
+                    "tag": "technology"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/optical-dissol\u2026",
+                    "end": 242,
+                    "expanded_url": "https://social.abb/optical-dissolve-oxygen-sensors",
+                    "start": 219,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/technology/did-you-know/optical-dissolved-oxygen-sensors",
+                    "url": "https://t.co/TLPBBYbzmK"
+                },
+                {
+                    "display_url": "pic.twitter.com/bb6qfd1Igx",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1646815571567058944/photo/1",
+                    "media_key": "3_1646805893093158916",
+                    "start": 267,
+                    "url": "https://t.co/bb6qfd1Igx"
+                }
+            ]
+        },
+        "id": "1646815571567058944",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1889,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\u2049 Did you know that #ABB technology can help turn wastewater into clean #water? Learn how ABB sensors that measure dissolved oxygen levels in the #wastewater treatment process are helping to make water more available \ud83d\udc49 https://t.co/TLPBBYbzmK\n#DidYouKnow #technology https://t.co/bb6qfd1Igx"
+    }
+}

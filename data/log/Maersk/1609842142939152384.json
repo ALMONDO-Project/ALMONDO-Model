@@ -1,0 +1,82 @@
+{
+    "1609842142939152384": {
+        "attachments": {
+            "media_keys": [
+                "3_1609842059438952451"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-02T09:20:50.000Z",
+        "edit_history_tweet_ids": [
+            "1609842142939152384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3917,
+                    "start": 37,
+                    "type": "Place"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "Crew",
+                    "probability": 0.4385,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3356,
+                    "start": 202,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 208,
+                    "start": 201,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 217,
+                    "start": 209,
+                    "tag": "NewYear"
+                },
+                {
+                    "end": 228,
+                    "start": 218,
+                    "tag": "Seafarers"
+                },
+                {
+                    "end": 239,
+                    "start": 229,
+                    "tag": "LifeAtSea"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OLOg4AlMnz",
+                    "end": 263,
+                    "expanded_url": "https://twitter.com/Maersk/status/1609842142939152384/photo/1",
+                    "media_key": "3_1609842059438952451",
+                    "start": 240,
+                    "url": "https://t.co/OLOg4AlMnz"
+                }
+            ]
+        },
+        "id": "1609842142939152384",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6322,
+            "like_count": 108,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 9
+        },
+        "text": "Happy New Year from our seafarers on Maersk Herrera\u2728\n\nThe Crew rang in the new year with a beautiful dinner and a few games later in the evening\ud83c\udf89\n\nHow did you celebrate the beginning of the new year?\n\n#Maersk #NewYear #Seafarers #LifeAtSea https://t.co/OLOg4AlMnz"
+    }
+}

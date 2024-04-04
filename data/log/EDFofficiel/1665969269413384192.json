@@ -1,0 +1,72 @@
+{
+    "1665969269413384192": {
+        "author_id": "268267143",
+        "created_at": "2023-06-06T06:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1665969269413384192"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 0,
+                    "tag": "FakeNews"
+                },
+                {
+                    "end": 169,
+                    "start": 165,
+                    "tag": "EDF"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 95,
+                    "id": "546231438",
+                    "start": 82,
+                    "username": "AlexKouchner"
+                },
+                {
+                    "end": 137,
+                    "id": "284233320",
+                    "start": 121,
+                    "username": "WitkowskiDidier"
+                },
+                {
+                    "end": 183,
+                    "id": "97267781",
+                    "start": 171,
+                    "username": "chavalarias"
+                },
+                {
+                    "end": 216,
+                    "id": "143909021",
+                    "start": 211,
+                    "username": "CNRS"
+                },
+                {
+                    "end": 232,
+                    "id": "326759145",
+                    "start": 220,
+                    "username": "L_Cordonier"
+                },
+                {
+                    "end": 277,
+                    "id": "1248234890107195394",
+                    "start": 265,
+                    "username": "F_Descartes"
+                }
+            ]
+        },
+        "id": "1665969269413384192",
+        "lang": "fr",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4110,
+            "like_count": 10,
+            "quote_count": 2,
+            "reply_count": 6,
+            "retweet_count": 12
+        },
+        "text": "#FakeNews : une menace pour lutter contre le changement climatique ? \ud83c\udf10\n\nRejoignez @AlexKouchner le 7\ufe0f\u20e3 juin \u00e0 12h30 avec @WitkowskiDidier, directeur des \u00e9tudes chez #EDF, @chavalarias, directeur de recherche au @CNRS et @L_Cordonier, directeur de la recherche \u00e0 la @F_Descartes."
+    }
+}

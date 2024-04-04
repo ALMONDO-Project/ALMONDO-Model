@@ -1,0 +1,85 @@
+{
+    "1615656746852253699": {
+        "attachments": {
+            "media_keys": [
+                "7_1615656170563272705"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-18T10:26:00.000Z",
+        "edit_history_tweet_ids": [
+            "1615656746852253699"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Gavin Laybourne",
+                    "probability": 0.6922,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "Aachen University",
+                    "probability": 0.826,
+                    "start": 136,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 189,
+                    "start": 177,
+                    "tag": "digitaltwin"
+                },
+                {
+                    "end": 201,
+                    "start": 190,
+                    "tag": "technology"
+                },
+                {
+                    "end": 292,
+                    "start": 285,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 42,
+                    "id": "85591450",
+                    "start": 29,
+                    "username": "APMTerminals"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/dMbemH8G",
+                    "end": 284,
+                    "expanded_url": "https://lnkd.in/dMbemH8G",
+                    "start": 261,
+                    "url": "https://t.co/BFy5ssvitm"
+                },
+                {
+                    "display_url": "pic.twitter.com/4x3nYOcN4h",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/Maersk/status/1615656746852253699/video/1",
+                    "media_key": "7_1615656170563272705",
+                    "start": 293,
+                    "url": "https://t.co/4x3nYOcN4h"
+                }
+            ]
+        },
+        "id": "1615656746852253699",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2594,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Join Gavin Laybourne, CIO of @APMTerminals  &amp; Head of IoT &amp; Automation Platform, and Wil van der Aalst, Dr. &amp; Prof. at RWTH Aachen University, discuss the future of #digitaltwin #technology as they face off over a game of Jenga\ud83d\udc68\u200d\ud83d\udcbb\n\nView full video: https://t.co/BFy5ssvitm\n#Maersk https://t.co/4x3nYOcN4h"
+    }
+}

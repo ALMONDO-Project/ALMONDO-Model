@@ -1,0 +1,98 @@
+{
+    "1732716611042230598": {
+        "attachments": {
+            "media_keys": [
+                "13_1732716584139960320"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-12-07T11:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1732716611042230598"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Sustainability Research Institute",
+                    "probability": 0.4827,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "East",
+                    "probability": 0.6067,
+                    "start": 171,
+                    "type": "Place"
+                },
+                {
+                    "end": 279,
+                    "normalized_text": "COP28",
+                    "probability": 0.8841,
+                    "start": 275,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 280,
+                    "start": 274,
+                    "tag": "COP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 32,
+                    "id": "393757140",
+                    "start": 18,
+                    "username": "SchneiderElec"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This paper explores two future perspectives for decarbonization in the Middle East by 2060.",
+                    "display_url": "spr.ly/6016RyvIq",
+                    "end": 273,
+                    "expanded_url": "http://spr.ly/6016RyvIq",
+                    "images": [
+                        {
+                            "height": 628,
+                            "url": "https://pbs.twimg.com/news_img/1758024910759190528/vt2h6Ojh?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1758024910759190528/vt2h6Ojh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 250,
+                    "status": 200,
+                    "title": "Climate Horizon: Opportunities for a greener world in the Middle East",
+                    "unwound_url": "https://www.se.com/ww/en/insights/sustainability/impact-company/climate-horizon.jsp?utm_source=twitter&utm_medium=organic_social&utm_campaign=cop28&utm_purpose=marketo",
+                    "url": "https://t.co/2a2lTtkpCC"
+                },
+                {
+                    "display_url": "pic.twitter.com/knD7VVcdzu",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1732716611042230598/video/1",
+                    "media_key": "13_1732716584139960320",
+                    "start": 281,
+                    "url": "https://t.co/knD7VVcdzu"
+                }
+            ]
+        },
+        "id": "1732716611042230598",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1093,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "New research from @SchneiderElec's Sustainability Research Institute shows how electrification, energy efficiency, and circularity unlock untapped potential in the Middle East, accelerating decarbonization and reducing carbon usage. Learn more here: https://t.co/2a2lTtkpCC #COP28 https://t.co/knD7VVcdzu"
+    }
+}

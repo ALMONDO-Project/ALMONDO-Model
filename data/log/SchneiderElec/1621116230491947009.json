@@ -1,0 +1,78 @@
+{
+    "1621116230491947009": {
+        "attachments": {
+            "media_keys": [
+                "3_1621116227081981953"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-02T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1621116230491947009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.954,
+                    "start": 0,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 141,
+                    "start": 127,
+                    "tag": "SEGreatPeople"
+                },
+                {
+                    "end": 218,
+                    "start": 203,
+                    "tag": "MostAdmiredCos"
+                },
+                {
+                    "end": 228,
+                    "start": 219,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 62,
+                    "id": "25053299",
+                    "start": 46,
+                    "username": "FortuneMagazine"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60153516T",
+                    "end": 202,
+                    "expanded_url": "http://spr.ly/60153516T",
+                    "start": 179,
+                    "url": "https://t.co/PFmbwfYVlU"
+                },
+                {
+                    "display_url": "pic.twitter.com/O6KxU8VBTv",
+                    "end": 252,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1621116230491947009/photo/1",
+                    "media_key": "3_1621116227081981953",
+                    "start": 229,
+                    "url": "https://t.co/O6KxU8VBTv"
+                }
+            ]
+        },
+        "id": "1621116230491947009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1260,
+            "like_count": 17,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Schneider Electric is proud to be included in @FortuneMagazine's 2023 World's Most Admired Companies list! \ud83d\udc9a\n\nThank you to our #SEGreatPeople that make this recognition possible. https://t.co/PFmbwfYVlU #MostAdmiredCos #LifeIsOn https://t.co/O6KxU8VBTv"
+    }
+}

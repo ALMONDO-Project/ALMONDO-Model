@@ -1,0 +1,53 @@
+{
+    "1622627086232846336": {
+        "attachments": {
+            "media_keys": [
+                "3_1622627064351191048"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-02-06T16:03:38.000Z",
+        "edit_history_tweet_ids": [
+            "1622627086232846336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 257,
+                    "normalized_text": "Antoine de Saint-Affrique",
+                    "probability": 0.9367,
+                    "start": 233,
+                    "type": "Person"
+                },
+                {
+                    "end": 272,
+                    "normalized_text": "Danone",
+                    "probability": 0.4113,
+                    "start": 267,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/oXq2e64yQZ",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Danone/status/1622627086232846336/photo/1",
+                    "media_key": "3_1622627064351191048",
+                    "start": 274,
+                    "url": "https://t.co/oXq2e64yQZ"
+                }
+            ]
+        },
+        "id": "1622627086232846336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2967,
+            "like_count": 17,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "\u201cThis inauguration will help us contribute to health through food and to invent the food of tomorrow.\u201d  \n\u201cThrough scientific and technological progress, we will continue to bring health through food to as many people as possible.\u201d \u2014 Antoine de Saint-Affrique, CEO of Danone https://t.co/oXq2e64yQZ"
+    }
+}

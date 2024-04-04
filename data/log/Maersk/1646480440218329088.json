@@ -1,0 +1,84 @@
+{
+    "1646480440218329088": {
+        "attachments": {
+            "media_keys": [
+                "7_1646479534491942912"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-13T11:48:21.000Z",
+        "edit_history_tweet_ids": [
+            "1646480440218329088"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 128,
+                    "normalized_text": "Jennifer Maciuszek",
+                    "probability": 0.934,
+                    "start": 111,
+                    "type": "Person"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3634,
+                    "start": 248,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 192,
+                    "start": 181,
+                    "tag": "experience"
+                },
+                {
+                    "end": 254,
+                    "start": 247,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 264,
+                    "start": 255,
+                    "tag": "Designer"
+                },
+                {
+                    "end": 276,
+                    "start": 265,
+                    "tag": "innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/e9WCXImOuJc",
+                    "end": 246,
+                    "expanded_url": "https://youtu.be/e9WCXImOuJc",
+                    "start": 223,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=e9WCXImOuJc&feature=youtu.be",
+                    "url": "https://t.co/U43GKtgTdu"
+                },
+                {
+                    "display_url": "pic.twitter.com/7oIPfQo6pf",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1646480440218329088/video/1",
+                    "media_key": "7_1646479534491942912",
+                    "start": 277,
+                    "url": "https://t.co/7oIPfQo6pf"
+                }
+            ]
+        },
+        "id": "1646480440218329088",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 3818,
+            "like_count": 42,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "\"People may not remember everything you say or do, but they will always remember how you make them feel.\" Meet Jennifer Maciuszek, visual designer. \ud83d\udc4b\nCurious to hear more about her #experience?\n\ud83d\udc49 Check the full video here: https://t.co/U43GKtgTdu\n#Maersk #Designer #innovation https://t.co/7oIPfQo6pf"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "1621187028388925451": {
+        "attachments": {
+            "media_keys": [
+                "3_1621187005030744064"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-02T16:41:22.000Z",
+        "edit_history_tweet_ids": [
+            "1621187028388925451"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "North America",
+                    "probability": 0.9349,
+                    "start": 8,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6384,
+                    "start": 153,
+                    "type": "Place"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "NorthAmerica",
+                    "probability": 0.6826,
+                    "start": 161,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 152,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 173,
+                    "start": 160,
+                    "tag": "NorthAmerica"
+                },
+                {
+                    "end": 184,
+                    "start": 174,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 197,
+                    "start": 185,
+                    "tag": "Supplychain"
+                },
+                {
+                    "end": 209,
+                    "start": 198,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 220,
+                    "start": 210,
+                    "tag": "Alltheway"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "380801406",
+                    "start": 0,
+                    "username": "Maersk"
+                },
+                {
+                    "end": 37,
+                    "id": "608122002",
+                    "start": 26,
+                    "username": "ashdodport"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/dj27cDs7",
+                    "end": 150,
+                    "expanded_url": "https://lnkd.in/dj27cDs7",
+                    "start": 127,
+                    "url": "https://t.co/sa942lSiwe"
+                },
+                {
+                    "display_url": "pic.twitter.com/ALohE6NK00",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/Maersk/status/1621187028388925451/photo/1",
+                    "media_key": "3_1621187005030744064",
+                    "start": 221,
+                    "url": "https://t.co/ALohE6NK00"
+                }
+            ]
+        },
+        "id": "1621187028388925451",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2227,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "@Maersk North America and @ashdodport sign agreement to collaborate on logistics and supply chain innovation!\n\ud83d\udc49Read more here: https://t.co/sa942lSiwe\n\n#Maersk #NorthAmerica #Logistics #Supplychain #Innovation #Alltheway https://t.co/ALohE6NK00"
+    }
+}

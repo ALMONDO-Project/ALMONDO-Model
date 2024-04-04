@@ -1,0 +1,81 @@
+{
+    "1676577009399480320": {
+        "attachments": {
+            "media_keys": [
+                "13_1676576849659305984"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-07-05T13:01:22.000Z",
+        "edit_history_tweet_ids": [
+            "1676577009399480320"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "UIA World Congress",
+                    "probability": 0.4624,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Architects CPH 2023",
+                    "probability": 0.5064,
+                    "start": 38,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 253,
+                    "start": 247,
+                    "tag": "WhyEE"
+                },
+                {
+                    "end": 271,
+                    "start": 254,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 277,
+                    "id": "38146999",
+                    "start": 272,
+                    "username": "UNEP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3p8q8i0",
+                    "end": 245,
+                    "expanded_url": "https://bit.ly/3p8q8i0",
+                    "start": 222,
+                    "unwound_url": "https://www.whyenergyefficiency.com/solutions/allsolutions/roadmap-for-decarbonizing-cities",
+                    "url": "https://t.co/cPpp6MUeQO"
+                },
+                {
+                    "display_url": "pic.twitter.com/LnOg1koUKy",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1676577009399480320/video/1",
+                    "media_key": "13_1676576849659305984",
+                    "start": 278,
+                    "url": "https://t.co/LnOg1koUKy"
+                }
+            ]
+        },
+        "id": "1676577009399480320",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 770,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We attended the UIA World Congress of Architects CPH 2023 where we discussed how to speed up change through teamwork with architects, planners, engineers, and all stakeholders involved in creating our cities.\n\nLearn more: https://t.co/cPpp6MUeQO\n\n#WhyEE #EnergyEfficiency @UNEP https://t.co/LnOg1koUKy"
+    }
+}

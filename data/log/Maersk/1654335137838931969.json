@@ -1,0 +1,98 @@
+{
+    "1654335137838931969": {
+        "attachments": {
+            "media_keys": [
+                "3_1654335131082010626"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-05T04:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1654335137838931969"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 165,
+                    "normalized_text": "Covid-19",
+                    "probability": 0.9656,
+                    "start": 158,
+                    "type": "Other"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "maersk",
+                    "probability": 0.3382,
+                    "start": 237,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 236,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 254,
+                    "start": 244,
+                    "tag": "alltheway"
+                },
+                {
+                    "end": 267,
+                    "start": 255,
+                    "tag": "supplychain"
+                },
+                {
+                    "end": 280,
+                    "start": 268,
+                    "tag": "globaltrade"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 23,
+                    "id": "1455605835808362497",
+                    "start": 8,
+                    "username": "VincentClerc_m"
+                },
+                {
+                    "end": 38,
+                    "id": "20402945",
+                    "start": 33,
+                    "username": "CNBC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/42sY9Y2",
+                    "end": 235,
+                    "expanded_url": "https://bddy.me/42sY9Y2",
+                    "start": 212,
+                    "status": 200,
+                    "unwound_url": "https://www.cnbc.com/video/2023/05/04/maersk-ceo-easing-of-supply-chain-disruptions-is-happening-rapidly.html",
+                    "url": "https://t.co/ketQptEWyk"
+                },
+                {
+                    "display_url": "pic.twitter.com/XoO4wiGm54",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Maersk/status/1654335137838931969/photo/1",
+                    "media_key": "3_1654335131082010626",
+                    "start": 281,
+                    "url": "https://t.co/XoO4wiGm54"
+                }
+            ]
+        },
+        "id": "1654335137838931969",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2497,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our CEO @VincentClerc_m spoke to @CNBC about our Q1 results, the current market conditions and how the Chinese economy has fared after the country lifted its Covid-19 restrictions. Watch full interview in below: https://t.co/ketQptEWyk\n#maersk #alltheway #supplychain #globaltrade https://t.co/XoO4wiGm54"
+    }
+}

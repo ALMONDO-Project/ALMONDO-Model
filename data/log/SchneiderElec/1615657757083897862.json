@@ -1,0 +1,82 @@
+{
+    "1615657757083897862": {
+        "attachments": {
+            "media_keys": [
+                "3_1615657754324074498"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-18T10:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1615657757083897862"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "Jean-Pascal Tricoire",
+                    "probability": 0.7705,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Twinning with Digital",
+                    "probability": 0.9029,
+                    "start": 83,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "WEF23",
+                    "probability": 0.6974,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 115,
+                    "start": 109,
+                    "tag": "WEF23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 149,
+                    "id": "5120691",
+                    "start": 145,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60153VRNL",
+                    "end": 144,
+                    "expanded_url": "http://spr.ly/60153VRNL",
+                    "start": 121,
+                    "url": "https://t.co/3WvEX727im"
+                },
+                {
+                    "display_url": "pic.twitter.com/Ub6d9Ex2ev",
+                    "end": 173,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1615657757083897862/photo/1",
+                    "media_key": "3_1615657754324074498",
+                    "start": 150,
+                    "url": "https://t.co/Ub6d9Ex2ev"
+                }
+            ]
+        },
+        "id": "1615657757083897862",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 770,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We're live! Watch Jean-Pascal Tricoire, our Chairman and CEO, talking about it in \"Twinning with Digital\" at #WEF23 now: https://t.co/3WvEX727im @wef https://t.co/Ub6d9Ex2ev"
+    }
+}

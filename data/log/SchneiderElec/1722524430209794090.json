@@ -1,0 +1,93 @@
+{
+    "1722524430209794090": {
+        "attachments": {
+            "media_keys": [
+                "3_1722524427873587200"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-09T08:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1722524430209794090"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "Martijn Kooij",
+                    "probability": 0.5045,
+                    "start": 122,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.8954,
+                    "start": 157,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "Alliance"
+                },
+                {
+                    "end": 265,
+                    "start": 243,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 275,
+                    "start": 266,
+                    "tag": "ictgroup"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Let's hear from Martijn Kooij, Managing Director at RASTER, how the journey between Raster and Schneider Electric, and their main value as being a Master All...",
+                    "display_url": "spr.ly/6007Pr4nt",
+                    "end": 241,
+                    "expanded_url": "http://spr.ly/6007Pr4nt",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1722524432269225984/OXZsdbKu?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1722524432269225984/OXZsdbKu?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 218,
+                    "status": 200,
+                    "title": "Alliance Interview Series: RASTER | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=JOscLjuaQsM",
+                    "url": "https://t.co/0toJiddAsg"
+                },
+                {
+                    "display_url": "pic.twitter.com/0q6YSQGTqJ",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1722524430209794090/photo/1",
+                    "media_key": "3_1722524427873587200",
+                    "start": 276,
+                    "url": "https://t.co/0q6YSQGTqJ"
+                }
+            ]
+        },
+        "id": "1722524430209794090",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1025,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "The #Alliance Partner Program helps you take your customers to the next level of digitization and industrial automation.\n\nMartijn Kooij, MD of RASTER in the Netherlands, an Alliance Master System Integrator, explains: https://t.co/0toJiddAsg\n\n#IndustriesOfTheFuture #ictgroup https://t.co/0q6YSQGTqJ"
+    }
+}

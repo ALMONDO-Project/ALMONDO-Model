@@ -1,0 +1,56 @@
+{
+    "1628336015999127557": {
+        "author_id": "142611379",
+        "created_at": "2023-02-22T10:08:53.000Z",
+        "edit_history_tweet_ids": [
+            "1628336015999127557"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "UK",
+                    "probability": 0.6805,
+                    "start": 35,
+                    "type": "Place"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "UK",
+                    "probability": 0.9406,
+                    "start": 228,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1257215696234254341",
+                    "start": 1,
+                    "username": "eon_next"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "eon.li/D4jq8",
+                    "end": 278,
+                    "expanded_url": "https://eon.li/D4jq8",
+                    "start": 255,
+                    "unwound_url": "https://eon.li/D4jq8",
+                    "url": "https://t.co/WehIgPHhMw"
+                }
+            ]
+        },
+        "id": "1628336015999127557",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 957,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udce2@eon_next has signed up to Energy UK\u2019s Vulnerability Commitment driving continuous improvement in supporting customers in vulnerable circumstances.\n\nSuppliers signed up to the Vulnerability Commitment now cover over 90% of the UK domestic energy market\n\nhttps://t.co/WehIgPHhMw"
+    }
+}

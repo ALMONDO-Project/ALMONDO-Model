@@ -1,0 +1,99 @@
+{
+    "1641727100410290176": {
+        "attachments": {
+            "media_keys": [
+                "7_1641725937174626307"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-31T09:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1641727100410290176"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "Lineas",
+                    "probability": 0.5421,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.975,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "GoA4",
+                    "probability": 0.5674,
+                    "start": 140,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 94,
+                    "start": 83,
+                    "tag": "automation"
+                },
+                {
+                    "end": 156,
+                    "start": 145,
+                    "tag": "automation"
+                },
+                {
+                    "end": 193,
+                    "start": 184,
+                    "tag": "shunting"
+                },
+                {
+                    "end": 279,
+                    "start": 268,
+                    "tag": "innovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "7556572",
+                    "start": 20,
+                    "username": "ProRail"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/JmTX50Nl2wks",
+                    "end": 267,
+                    "expanded_url": "http://ow.ly/JmTX50Nl2wks",
+                    "start": 244,
+                    "status": 404,
+                    "unwound_url": "http://ow.ly/JmTX50Nl2wks",
+                    "url": "https://t.co/5Q80cPAKEd"
+                },
+                {
+                    "display_url": "pic.twitter.com/PAVUqmBHPk",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Alstom/status/1641727100410290176/video/1",
+                    "media_key": "7_1641725937174626307",
+                    "start": 280,
+                    "url": "https://t.co/PAVUqmBHPk"
+                }
+            ]
+        },
+        "id": "1641727100410290176",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2049,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "In partnership with @ProRail and Lineas, we have demonstrated the highest level of #automation on a shunting locomotive in the Netherlands. GoA4 #automation allows for fully automated #shunting activities without on-train staff involvement.  \u25b6\ufe0fhttps://t.co/5Q80cPAKEd #innovation https://t.co/PAVUqmBHPk"
+    }
+}

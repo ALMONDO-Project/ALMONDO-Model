@@ -1,0 +1,80 @@
+{
+    "1681568327297056768": {
+        "attachments": {
+            "media_keys": [
+                "3_1681567454277824512"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-07-19T07:35:05.000Z",
+        "edit_history_tweet_ids": [
+            "1681568327297056768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Belgium",
+                    "probability": 0.9433,
+                    "start": 52,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 209,
+                    "start": 192,
+                    "tag": "energyefficiency"
+                },
+                {
+                    "end": 226,
+                    "start": 210,
+                    "tag": "electrification"
+                },
+                {
+                    "end": 242,
+                    "start": 227,
+                    "tag": "sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 155,
+                    "id": "88697269",
+                    "start": 144,
+                    "username": "ENGIEgroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/retrofit-solut\u2026",
+                    "end": 191,
+                    "expanded_url": "https://social.abb/retrofit-solution-brings-security-efficiency",
+                    "start": 168,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/105147/retrofit-solution-brings-security-and-efficiency-to-belgium-energy-supplier",
+                    "url": "https://t.co/DEHgYvsKo3"
+                },
+                {
+                    "display_url": "pic.twitter.com/W9sPHmJOid",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1681568327297056768/photo/1",
+                    "media_key": "3_1681567454277824512",
+                    "start": 243,
+                    "url": "https://t.co/W9sPHmJOid"
+                }
+            ]
+        },
+        "id": "1681568327297056768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1957,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Retrofit solution brings security and efficiency to Belgium energy supplier. This modernization project will reduce total cost of ownership for @ENGIEgroup \nRead more: https://t.co/DEHgYvsKo3\n#energyefficiency #electrification #sustainability https://t.co/W9sPHmJOid"
+    }
+}

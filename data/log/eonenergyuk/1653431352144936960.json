@@ -1,0 +1,61 @@
+{
+    "1653431352144936960": {
+        "attachments": {
+            "media_keys": [
+                "7_1653431003329830912"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-05-02T16:08:48.000Z",
+        "edit_history_tweet_ids": [
+            "1653431352144936960"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 147,
+                    "normalized_text": "Joe Worrall",
+                    "probability": 0.9701,
+                    "start": 137,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 105,
+                    "start": 88,
+                    "tag": "ActionForClimate"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "39754653",
+                    "start": 58,
+                    "username": "NFFC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/edy9MdOsBk",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1653431352144936960/video/1",
+                    "media_key": "7_1653431003329830912",
+                    "start": 221,
+                    "url": "https://t.co/edy9MdOsBk"
+                }
+            ]
+        },
+        "id": "1653431352144936960",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1243,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We are the proud, official sustainable energy partner for @NFFC.\nThe players are taking #ActionForClimate and you can too! \nWe talked to Joe Worrall about what he does to be more sustainable. This is what he had to say \ud83d\udc49 https://t.co/edy9MdOsBk"
+    }
+}

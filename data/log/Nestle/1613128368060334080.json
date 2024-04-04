@@ -1,0 +1,61 @@
+{
+    "1613128368060334080": {
+        "attachments": {
+            "media_keys": [
+                "3_1613128356718956544"
+            ]
+        },
+        "author_id": "23085995",
+        "created_at": "2023-01-11T10:59:08.000Z",
+        "edit_history_tweet_ids": [
+            "1613128368060334080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 117,
+                    "normalized_text": "Australia",
+                    "probability": 0.9922,
+                    "start": 109,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 49,
+                    "id": "335207743",
+                    "start": 42,
+                    "username": "KITKAT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3X5WrK0",
+                    "end": 249,
+                    "expanded_url": "https://bit.ly/3X5WrK0",
+                    "start": 226,
+                    "url": "https://t.co/flfaf3Ak9c"
+                },
+                {
+                    "display_url": "pic.twitter.com/XKpfiImJKm",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/Nestle/status/1613128368060334080/photo/1",
+                    "media_key": "3_1613128356718956544",
+                    "start": 250,
+                    "url": "https://t.co/XKpfiImJKm"
+                }
+            ]
+        },
+        "id": "1613128368060334080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15739,
+            "like_count": 96,
+            "quote_count": 5,
+            "reply_count": 39,
+            "retweet_count": 12
+        },
+        "text": "Imagine having a paper-wrapped break with @KITKAT \ud83c\udf6b Now the team is offering just that for a limited-time in Australia. This pilot is just one step in our effort to reduce the use of virgin plastics by 1/3 by 2025. Read up \u27a1\ufe0f https://t.co/flfaf3Ak9c https://t.co/XKpfiImJKm"
+    }
+}

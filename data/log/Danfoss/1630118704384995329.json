@@ -1,0 +1,78 @@
+{
+    "1630118704384995329": {
+        "attachments": {
+            "media_keys": [
+                "13_1630118449320980484"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-02-27T08:12:39.000Z",
+        "edit_history_tweet_ids": [
+            "1630118704384995329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Benxi City",
+                    "probability": 0.7668,
+                    "start": 12,
+                    "type": "Place"
+                },
+                {
+                    "end": 30,
+                    "normalized_text": "China",
+                    "probability": 0.9858,
+                    "start": 26,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 242,
+                    "tag": "WhyEE"
+                },
+                {
+                    "end": 257,
+                    "start": 249,
+                    "tag": "Heating"
+                },
+                {
+                    "end": 283,
+                    "start": 258,
+                    "tag": "EnergyEfficiencyMovement"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3YEpoxs",
+                    "end": 241,
+                    "expanded_url": "http://bit.ly/3YEpoxs",
+                    "start": 218,
+                    "unwound_url": "https://www.whyenergyefficiency.com/solutions/allsolutions/the-worlds-largest-untapped-energy-source-excess-heat?utm_source=social&utm_medium=twitter&utm_campaign=cf_whitepaperexcessheat&utm_content=organic_group",
+                    "url": "https://t.co/vi4PXHIJJQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/z5jVxkJBD7",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1630118704384995329/video/1",
+                    "media_key": "13_1630118449320980484",
+                    "start": 284,
+                    "url": "https://t.co/z5jVxkJBD7"
+                }
+            ]
+        },
+        "id": "1630118704384995329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 509,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Since 2015, Benxi City in China has repurposed waste heat resources from the steel industry to heat the city. The results: reduced coal consumption, energy bills &amp; improved air quality. More in our new whitepaper: https://t.co/vi4PXHIJJQ\n#WhyEE #Heating #EnergyEfficiencyMovement https://t.co/z5jVxkJBD7"
+    }
+}

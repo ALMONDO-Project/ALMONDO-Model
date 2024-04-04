@@ -1,0 +1,84 @@
+{
+    "1668921260431101953": {
+        "attachments": {
+            "media_keys": [
+                "3_1668913948517621760"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-14T10:00:10.000Z",
+        "edit_history_tweet_ids": [
+            "1668921260431101953"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "ABB Ability\u2122",
+                    "probability": 0.7711,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "ABB",
+                    "probability": 0.5872,
+                    "start": 191,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 78,
+                    "start": 69,
+                    "tag": "software"
+                },
+                {
+                    "end": 194,
+                    "start": 190,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 206,
+                    "start": 195,
+                    "tag": "didyouknow"
+                },
+                {
+                    "end": 224,
+                    "start": 207,
+                    "tag": "energyefficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/ability-buildi\u2026",
+                    "end": 189,
+                    "expanded_url": "https://social.abb/ability-building-analyzer",
+                    "start": 166,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/technology/did-you-know/abb-ability-building-analyzer",
+                    "url": "https://t.co/ttjROcwb1S"
+                },
+                {
+                    "display_url": "pic.twitter.com/Gg1d6rVwSB",
+                    "end": 248,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1668921260431101953/photo/1",
+                    "media_key": "3_1668913948517621760",
+                    "start": 225,
+                    "url": "https://t.co/Gg1d6rVwSB"
+                }
+            ]
+        },
+        "id": "1668921260431101953",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1710,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u2049 Introducing the ABB Ability\u2122 Building Analyzer. \nDid you know this #software can reduce energy consumption and emissions of a building by up to 20%?\nFind out more: https://t.co/ttjROcwb1S\n#ABB #didyouknow #energyefficiency https://t.co/Gg1d6rVwSB"
+    }
+}

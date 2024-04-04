@@ -1,0 +1,63 @@
+{
+    "1667088265919496192": {
+        "attachments": {
+            "media_keys": [
+                "3_1667088129369550850"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-06-09T08:36:30.000Z",
+        "edit_history_tweet_ids": [
+            "1667088265919496192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 176,
+                    "normalized_text": "UK Grid",
+                    "probability": 0.4854,
+                    "start": 170,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "20678384",
+                    "start": 0,
+                    "username": "VodafoneUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centrica.com/media-centre/n\u2026",
+                    "end": 218,
+                    "expanded_url": "https://www.centrica.com/media-centre/news/2023/shine-on-centrica-opens-its-first-uk-solar-farm/",
+                    "start": 195,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/shine-on-centrica-opens-its-first-uk-solar-farm/",
+                    "url": "https://t.co/iwztaUlBdy"
+                },
+                {
+                    "display_url": "pic.twitter.com/0krKUjxJX5",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1667088265919496192/photo/1",
+                    "media_key": "3_1667088129369550850",
+                    "start": 219,
+                    "url": "https://t.co/0krKUjxJX5"
+                }
+            ]
+        },
+        "id": "1667088265919496192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 301,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@VodafoneUK will purchase half of the electricity output from the solar farm, helping to support its development and bringing additional renewable power provision to the UK Grid.\n\nRead more here\ud83d\udc49https://t.co/iwztaUlBdy https://t.co/0krKUjxJX5"
+    }
+}

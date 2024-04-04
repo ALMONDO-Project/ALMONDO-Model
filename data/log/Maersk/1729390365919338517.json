@@ -1,0 +1,83 @@
+{
+    "1729390365919338517": {
+        "attachments": {
+            "media_keys": [
+                "3_1729390356452814848"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-28T06:42:48.000Z",
+        "edit_history_tweet_ids": [
+            "1729390365919338517"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Reuters",
+                    "probability": 0.9637,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 241,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.5902,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 242,
+                    "start": 229,
+                    "tag": "MaerskEurope"
+                },
+                {
+                    "end": 254,
+                    "start": 243,
+                    "tag": "Technology"
+                },
+                {
+                    "end": 267,
+                    "start": 255,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 278,
+                    "start": 268,
+                    "tag": "Logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/49ThPsN",
+                    "end": 228,
+                    "expanded_url": "https://bit.ly/49ThPsN",
+                    "start": 205,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/09/20/rewiring-electronics-and-technology-supply-chains-for-a-resilient-future#download-report?utm_campaign=EUR_MCO_TECH_EN_EURTECH_1344093990367&utm_source=twitter&utm_medium=direct_awareness&utm_content=EURTech27Nov",
+                    "url": "https://t.co/XIU9qO5dS4"
+                },
+                {
+                    "display_url": "pic.twitter.com/GW86erIMft",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1729390365919338517/photo/1",
+                    "media_key": "3_1729390356452814848",
+                    "start": 279,
+                    "url": "https://t.co/GW86erIMft"
+                }
+            ]
+        },
+        "id": "1729390365919338517",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2270,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Reuters created the whitepaper \u201cRewiring electronics and technology supply chains for a resilient future\u201d. Download the whitepaper now and find out what a skilled workforce can mean for your supply chain: https://t.co/XIU9qO5dS4\n#MaerskEurope #Technology #SupplyChain #Logistics https://t.co/GW86erIMft"
+    }
+}

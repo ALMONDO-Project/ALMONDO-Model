@@ -1,0 +1,72 @@
+{
+    "1640627104499769344": {
+        "attachments": {
+            "media_keys": [
+                "7_1640626967039836160"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-28T08:09:17.000Z",
+        "edit_history_tweet_ids": [
+            "1640627104499769344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "Finland",
+                    "probability": 0.986,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "netzero",
+                    "probability": 0.447,
+                    "start": 242,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "Maersk",
+                    "probability": 0.59,
+                    "start": 270,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 249,
+                    "start": 241,
+                    "tag": "netzero"
+                },
+                {
+                    "end": 276,
+                    "start": 269,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Gy3uCLD7x9",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1640627104499769344/video/1",
+                    "media_key": "7_1640626967039836160",
+                    "start": 277,
+                    "url": "https://t.co/Gy3uCLD7x9"
+                }
+            ]
+        },
+        "id": "1640627104499769344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5392,
+            "like_count": 59,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 9
+        },
+        "text": "Our pioneering seafarers have gone to Finland to get ready to take our first dual fuel feeder on the water later this year! We are excited to see our dedicated seafarers coming together to learn more as we have embarked on a journey towards #netzero emissions in 2040\ud83c\udf0d\n#Maersk https://t.co/Gy3uCLD7x9"
+    }
+}

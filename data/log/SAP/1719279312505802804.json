@@ -1,0 +1,38 @@
+{
+    "1719279312505802804": {
+        "author_id": "76117579",
+        "created_at": "2023-10-31T09:05:05.000Z",
+        "edit_history_tweet_ids": [
+            "1719279312505802804"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Halloween",
+                    "probability": 0.5049,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 44,
+                    "tag": "HappyHalloween"
+                }
+            ]
+        },
+        "id": "1719279312505802804",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2253,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Share your own Halloween Horror Stories! \ud83d\udc47\n\n#HappyHalloween! \ud83c\udf83"
+    }
+}

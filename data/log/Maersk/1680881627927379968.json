@@ -1,0 +1,88 @@
+{
+    "1680881627927379968": {
+        "attachments": {
+            "media_keys": [
+                "3_1680881611733102595",
+                "3_1680881611854733312",
+                "3_1680881611980648448"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-17T10:06:24.000Z",
+        "edit_history_tweet_ids": [
+            "1680881627927379968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "maersk",
+                    "probability": 0.3997,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Tanzania",
+                    "probability": 0.9849,
+                    "start": 35,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 13,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 64,
+                    "start": 56,
+                    "tag": "cleanup"
+                },
+                {
+                    "end": 205,
+                    "start": 192,
+                    "tag": "plasticwaste"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Lqn9mugwMh",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1680881627927379968/photo/1",
+                    "media_key": "3_1680881611733102595",
+                    "start": 275,
+                    "url": "https://t.co/Lqn9mugwMh"
+                },
+                {
+                    "display_url": "pic.twitter.com/Lqn9mugwMh",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1680881627927379968/photo/1",
+                    "media_key": "3_1680881611854733312",
+                    "start": 275,
+                    "url": "https://t.co/Lqn9mugwMh"
+                },
+                {
+                    "display_url": "pic.twitter.com/Lqn9mugwMh",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1680881627927379968/photo/1",
+                    "media_key": "3_1680881611980648448",
+                    "start": 275,
+                    "url": "https://t.co/Lqn9mugwMh"
+                }
+            ]
+        },
+        "id": "1680881627927379968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3783,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Recently our #maersk colleagues in Tanzania gathered to #cleanup one of the corner stones in their local community, Sea View Beach\ud83c\udfd6\nTheir mission was clear: to collect and responsibly dispose #plasticwaste, protecting marine life and rejuvenating the beach\u2019s natural beauty\ud83c\udf0a https://t.co/Lqn9mugwMh"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1635674680022519808": {
+        "author_id": "194037150",
+        "created_at": "2023-03-14T16:10:07.000Z",
+        "edit_history_tweet_ids": [
+            "1635674680022519808"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Galen",
+                    "probability": 0.6416,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1288899838181085190",
+                    "start": 0,
+                    "username": "GalenAGregory1"
+                }
+            ]
+        },
+        "id": "1635674680022519808",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 35,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@GalenAGregory1 Hi Galen, we're sorry to hear this. Can you please DM us your full name and phone number so we can escalate this to our patient support team?"
+    }
+}

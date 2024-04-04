@@ -1,0 +1,77 @@
+{
+    "1610124145580281860": {
+        "author_id": "194037150",
+        "created_at": "2023-01-03T04:01:25.000Z",
+        "edit_history_tweet_ids": [
+            "1610124145580281860"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Steve",
+                    "probability": 0.7591,
+                    "start": 22,
+                    "type": "Person"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4821,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Australia",
+                    "probability": 0.982,
+                    "start": 119,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1215899380827316225",
+                    "start": 0,
+                    "username": "STEVEFI14205588"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.com.au/contact-us.html",
+                    "end": 254,
+                    "expanded_url": "https://www.novonordisk.com.au/contact-us.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1711656525591158784/PCpt8bqk?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1711656525591158784/PCpt8bqk?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 231,
+                    "status": 200,
+                    "title": "Contact us",
+                    "unwound_url": "https://www.novonordisk.com.au/contact-us.html",
+                    "url": "https://t.co/AZGMXNMMgN"
+                }
+            ]
+        },
+        "id": "1610124145580281860",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 49,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@STEVEFI14205588 Dear Steve,\u00a0we are sorry to hear that. We recommend you reach out to our local Novo Nordisk office in Australia with your question regarding availability of our products. You can find the contact information here: https://t.co/AZGMXNMMgN\nBest Regards,\nAsif,\u00a0Novo Nordisk"
+    }
+}

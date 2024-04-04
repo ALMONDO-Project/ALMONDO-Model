@@ -1,0 +1,103 @@
+{
+    "1636668940695875591": {
+        "attachments": {
+            "media_keys": [
+                "7_1636668788652244992"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-17T10:00:57.000Z",
+        "edit_history_tweet_ids": [
+            "1636668940695875591"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.2794,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "Rail + Metro",
+                    "probability": 0.4516,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "China",
+                    "probability": 0.9644,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Nanjing",
+                    "probability": 0.7777,
+                    "start": 88,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5148,
+                    "start": 97,
+                    "type": "Place"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "China",
+                    "probability": 0.9565,
+                    "start": 234,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 67,
+                    "tag": "China"
+                },
+                {
+                    "end": 139,
+                    "start": 131,
+                    "tag": "product"
+                },
+                {
+                    "end": 167,
+                    "start": 156,
+                    "tag": "innovative"
+                },
+                {
+                    "end": 247,
+                    "start": 242,
+                    "tag": "rail"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/6GgfqjL9PC",
+                    "end": 311,
+                    "expanded_url": "https://twitter.com/Alstom/status/1636668940695875591/video/1",
+                    "media_key": "7_1636668788652244992",
+                    "start": 288,
+                    "url": "https://t.co/6GgfqjL9PC"
+                }
+            ]
+        },
+        "id": "1636668940695875591",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2390,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Alstom &amp; its Chinese JVs participated in the 16th Rail + Metro #China exhibition in Nanjing. Alstom presented its cutting-edge #product portfolio &amp; #innovative technologies, demonstrating its long-term commitment to advancing China\u2019s #rail industry. \u25b6\ufe0fWatch our highlights video. https://t.co/6GgfqjL9PC"
+    }
+}

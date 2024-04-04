@@ -1,0 +1,103 @@
+{
+    "1656561002664583168": {
+        "attachments": {
+            "media_keys": [
+                "3_1656560877984686081"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-11T07:24:55.000Z",
+        "edit_history_tweet_ids": [
+            "1656561002664583168"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "GlobalFashionSummit",
+                    "probability": 0.7748,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Copenhagen",
+                    "probability": 0.9422,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4109,
+                    "start": 245,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "GFS23",
+                    "probability": 0.5633,
+                    "start": 253,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 70,
+                    "start": 50,
+                    "tag": "GlobalFashionSummit"
+                },
+                {
+                    "end": 99,
+                    "start": 88,
+                    "tag": "Copenhagen"
+                },
+                {
+                    "end": 251,
+                    "start": 244,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 258,
+                    "start": 252,
+                    "tag": "GFS23"
+                },
+                {
+                    "end": 271,
+                    "start": 261,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "globalfashionsummit.com/tickets/",
+                    "end": 243,
+                    "expanded_url": "https://globalfashionsummit.com/tickets/",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "https://globalfashionsummit.com/tickets/",
+                    "url": "https://t.co/zaS7sd9MM2"
+                },
+                {
+                    "display_url": "pic.twitter.com/5N3wVOy6FI",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Maersk/status/1656561002664583168/photo/1",
+                    "media_key": "3_1656560877984686081",
+                    "start": 272,
+                    "url": "https://t.co/5N3wVOy6FI"
+                }
+            ]
+        },
+        "id": "1656561002664583168",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2740,
+            "like_count": 29,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re thrilled to be the principal sponsor of the #GlobalFashionSummit 2023. Join us in #Copenhagen from 27-28 June 2023 to see how collaborating with the right logistics partner can help your fashion business Register: https://t.co/zaS7sd9MM2\n#Maersk #GFS23   #AllTheWay https://t.co/5N3wVOy6FI"
+    }
+}

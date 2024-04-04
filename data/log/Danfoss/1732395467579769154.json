@@ -1,0 +1,99 @@
+{
+    "1732395467579769154": {
+        "author_id": "95291408",
+        "created_at": "2023-12-06T13:44:00.000Z",
+        "edit_history_tweet_ids": [
+            "1732395467579769154"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "COP28",
+                    "probability": 0.8801,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 27,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.4607,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Global Cooling Pledge",
+                    "probability": 0.7545,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Cool Coalition",
+                    "probability": 0.5455,
+                    "start": 85,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 13,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 243,
+                    "start": 223,
+                    "tag": "GlobalCoolingPledge"
+                },
+                {
+                    "end": 257,
+                    "start": 244,
+                    "tag": "ActOnCooling"
+                },
+                {
+                    "end": 277,
+                    "start": 258,
+                    "tag": "SustainableCooling"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The United States, Canada and Kenya were among 63 countries to join a pledge on Tuesday to deeply cut cooling-related emissions at the United Nations climate summit in Dubai.",
+                    "display_url": "reut.rs/481MPFh",
+                    "end": 221,
+                    "expanded_url": "https://reut.rs/481MPFh",
+                    "images": [
+                        {
+                            "height": 1005,
+                            "url": "https://pbs.twimg.com/news_img/1746817776726228992/rF-lOzVE?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1746817776726228992/rF-lOzVE?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 198,
+                    "status": 200,
+                    "title": "COP28 pledge to curb cooling emissions backed by 63 countries",
+                    "unwound_url": "https://www.reuters.com/sustainability/climate-energy/us-joins-dozens-countries-backing-cop28-pledge-slash-cooling-emissions-2023-12-05/",
+                    "url": "https://t.co/L616MtyWsf"
+                }
+            ]
+        },
+        "id": "1732395467579769154",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 277,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Yesterday at #COP28, Danfoss added support to the Global Cooling Pledge, launched by Cool Coalition, it is the world\u2019s first collective focus on climate-warming emissions from cooling.\n\nLearn more: https://t.co/L616MtyWsf\n\n#GlobalCoolingPledge #ActOnCooling #SustainableCooling"
+    }
+}

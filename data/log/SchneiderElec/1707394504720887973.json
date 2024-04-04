@@ -1,0 +1,76 @@
+{
+    "1707394504720887973": {
+        "attachments": {
+            "media_keys": [
+                "13_1707394396155514880"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-28T13:59:06.000Z",
+        "edit_history_tweet_ids": [
+            "1707394504720887973"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Anas",
+                    "probability": 0.416,
+                    "start": 39,
+                    "type": "Person"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "Schneider",
+                    "probability": 0.3209,
+                    "start": 164,
+                    "type": "Place"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "AI",
+                    "probability": 0.7192,
+                    "start": 196,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 160,
+                    "start": 137,
+                    "tag": "ArtificialIntelligence"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6019uGxub",
+                    "end": 244,
+                    "expanded_url": "http://spr.ly/l/6019uGxub",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6019uGxub",
+                    "url": "https://t.co/UjGt43LKC7"
+                },
+                {
+                    "display_url": "pic.twitter.com/r6URbhUF90",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1707394504720887973/video/1",
+                    "media_key": "13_1707394396155514880",
+                    "start": 245,
+                    "url": "https://t.co/r6URbhUF90"
+                }
+            ]
+        },
+        "id": "1707394504720887973",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 657,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Curious about the future of work? Join Anas, Senior Data Scientist, as he takes us on an exclusive sneak peek into the exciting world of #ArtificialIntelligence at Schneider, and what a career in AI with us at one (cont) https://t.co/UjGt43LKC7 https://t.co/r6URbhUF90"
+    }
+}

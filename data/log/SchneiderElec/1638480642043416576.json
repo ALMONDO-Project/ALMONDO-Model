@@ -1,0 +1,82 @@
+{
+    "1638480642043416576": {
+        "attachments": {
+            "media_keys": [
+                "3_1638480639715409920"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-22T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1638480642043416576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "WorldWaterDay",
+                    "probability": 0.6686,
+                    "start": 9,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.4957,
+                    "start": 201,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 8,
+                    "tag": "WorldWaterDay"
+                },
+                {
+                    "end": 212,
+                    "start": 200,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 81,
+                    "id": "95687779",
+                    "start": 74,
+                    "username": "Veolia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60153LomD",
+                    "end": 237,
+                    "expanded_url": "http://spr.ly/60153LomD",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/life-is-on/case-study/veolia-water.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9111313316&utm_campaign=EcoStruxure_for_Water%2C_Waste_Water&country=Global",
+                    "url": "https://t.co/fb3SfyAuvF"
+                },
+                {
+                    "display_url": "pic.twitter.com/IqIxsOGo2I",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1638480642043416576/photo/1",
+                    "media_key": "3_1638480639715409920",
+                    "start": 238,
+                    "url": "https://t.co/IqIxsOGo2I"
+                }
+            ]
+        },
+        "id": "1638480642043416576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 905,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "On this #WorldWaterDay we urge everyone to accelerate the change. See how @Veolia Water protects the environment &amp; reduces energy use with an advanced wastewater treatment control system based on #EcoStruxure. https://t.co/fb3SfyAuvF https://t.co/IqIxsOGo2I"
+    }
+}

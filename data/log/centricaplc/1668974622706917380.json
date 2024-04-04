@@ -1,0 +1,65 @@
+{
+    "1668974622706917380": {
+        "attachments": {
+            "media_keys": [
+                "7_1668974562611019776"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-06-14T13:32:12.000Z",
+        "edit_history_tweet_ids": [
+            "1668974622706917380"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "John",
+                    "probability": 0.7032,
+                    "start": 30,
+                    "type": "Person"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Centrica",
+                    "probability": 0.3075,
+                    "start": 186,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 17,
+                    "tag": "Carers"
+                },
+                {
+                    "end": 253,
+                    "start": 242,
+                    "tag": "carersweek"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hQLcCRxTk4",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1668974622706917380/video/1",
+                    "media_key": "7_1668974562611019776",
+                    "start": 254,
+                    "url": "https://t.co/hQLcCRxTk4"
+                }
+            ]
+        },
+        "id": "1668974622706917380",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 837,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Time for change \ud83d\udc99#Carers like John are heroically juggling full time employment alongside their unpaid care responsibilities. That\u2019s why we\u2019ve created a market leading policy, providing Centrica carers with up to 30 days paid leave per year. #carersweek https://t.co/hQLcCRxTk4"
+    }
+}

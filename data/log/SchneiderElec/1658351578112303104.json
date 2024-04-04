@@ -1,0 +1,76 @@
+{
+    "1658351578112303104": {
+        "attachments": {
+            "media_keys": [
+                "3_1658351575226621952"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-16T06:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1658351578112303104"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "Lexium MC12",
+                    "probability": 0.677,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.6113,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "Expert Twin",
+                    "probability": 0.7021,
+                    "start": 132,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 123,
+                    "start": 111,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6000OVTlm",
+                    "end": 222,
+                    "expanded_url": "http://spr.ly/6000OVTlm",
+                    "start": 199,
+                    "status": 200,
+                    "unwound_url": "https://go.schneider-electric.com/lp/178-GYD-668/WW_202211_Motion-Control-WP-Social-Media_SF-LP.html?source=Website&sDetail=OnsiteSearch_SE_en_WW",
+                    "url": "https://t.co/Hlm9I7vX5Y"
+                },
+                {
+                    "display_url": "pic.twitter.com/29ZEDWFvo7",
+                    "end": 246,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1658351578112303104/photo/1",
+                    "media_key": "3_1658351575226621952",
+                    "start": 223,
+                    "url": "https://t.co/29ZEDWFvo7"
+                }
+            ]
+        },
+        "id": "1658351578112303104",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1842,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Our customers reported a 50% performance increase and up to 40% savings with the Lexium MC12 multi-carrier and #EcoStruxure Machine Expert Twin. Discover more about the future of motion control here https://t.co/Hlm9I7vX5Y https://t.co/29ZEDWFvo7"
+    }
+}

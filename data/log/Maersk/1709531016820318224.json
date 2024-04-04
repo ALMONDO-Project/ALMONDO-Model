@@ -1,0 +1,72 @@
+{
+    "1709531016820318224": {
+        "attachments": {
+            "media_keys": [
+                "7_1709530572643504128"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-04T11:28:50.000Z",
+        "edit_history_tweet_ids": [
+            "1709531016820318224"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6323,
+                    "start": 4,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 3,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 71,
+                    "start": 59,
+                    "tag": "globaltrade"
+                },
+                {
+                    "end": 90,
+                    "start": 80,
+                    "tag": "customers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eEKZKpNX",
+                    "end": 249,
+                    "expanded_url": "https://lnkd.in/eEKZKpNX",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/eEKZKpNX",
+                    "url": "https://t.co/Gjnx8clt2V"
+                },
+                {
+                    "display_url": "pic.twitter.com/B9LExl8pOb",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/Maersk/status/1709531016820318224/video/1",
+                    "media_key": "7_1709530572643504128",
+                    "start": 250,
+                    "url": "https://t.co/B9LExl8pOb"
+                }
+            ]
+        },
+        "id": "1709531016820318224",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4052,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "At #Maersk, we take pride in our commitment to simplifying #globaltrade for our #customers\ud83e\udd1d\ud83c\udffd Watch to hear from our CX Champions\u00b4 reflections on the importance of building strong customer relationship and meeting their needs\ud83d\udc49 https://t.co/Gjnx8clt2V https://t.co/B9LExl8pOb"
+    }
+}

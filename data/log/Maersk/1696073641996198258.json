@@ -1,0 +1,83 @@
+{
+    "1696073641996198258": {
+        "attachments": {
+            "media_keys": [
+                "3_1696073628041834496"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-28T08:14:02.000Z",
+        "edit_history_tweet_ids": [
+            "1696073641996198258"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4202,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Rosa Kim",
+                    "probability": 0.5377,
+                    "start": 133,
+                    "type": "Person"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5711,
+                    "start": 179,
+                    "type": "Other"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "Rosa",
+                    "probability": 0.5684,
+                    "start": 225,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 3,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eM9y7nvn",
+                    "end": 273,
+                    "expanded_url": "https://lnkd.in/eM9y7nvn",
+                    "start": 250,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/eM9y7nvn",
+                    "url": "https://t.co/u16AbY4Cvi"
+                },
+                {
+                    "display_url": "pic.twitter.com/dVzgqNBNn4",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1696073641996198258/photo/1",
+                    "media_key": "3_1696073628041834496",
+                    "start": 275,
+                    "url": "https://t.co/dVzgqNBNn4"
+                }
+            ]
+        },
+        "id": "1696073641996198258",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3701,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "At #Maersk, we are committed to creating a workplace where everyone feels welcome, valued, and respected\ud83d\udc99\nThis is one of the reasons Rosa Kim, Functional Product Owner, considers Maersk such a great place to work. Read about Rosa\u2019s journey at Maersk\ud83d\udc49https://t.co/u16AbY4Cvi\ud83d\udcf7 https://t.co/dVzgqNBNn4"
+    }
+}

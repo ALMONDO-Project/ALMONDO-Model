@@ -1,0 +1,81 @@
+{
+    "1648231715230318593": {
+        "attachments": {
+            "media_keys": [
+                "7_1648231020305457152"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-18T07:47:18.000Z",
+        "edit_history_tweet_ids": [
+            "1648231715230318593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Mark Dame",
+                    "probability": 0.8613,
+                    "start": 42,
+                    "type": "Person"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Improving",
+                    "probability": 0.5187,
+                    "start": 136,
+                    "type": "Other"
+                },
+                {
+                    "end": 234,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4107,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 131,
+                    "start": 123,
+                    "tag": "purpose"
+                },
+                {
+                    "end": 235,
+                    "start": 228,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=j76yEZ\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.youtube.com/watch?v=j76yEZraRxM",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=j76yEZraRxM",
+                    "url": "https://t.co/aXFQnHR0fC"
+                },
+                {
+                    "display_url": "pic.twitter.com/aOfB2MC7Fr",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1648231715230318593/video/1",
+                    "media_key": "7_1648231020305457152",
+                    "start": 279,
+                    "url": "https://t.co/aOfB2MC7Fr"
+                }
+            ]
+        },
+        "id": "1648231715230318593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2599,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Putting out fires, both on and off-duty!\u00a0\nMark Dame, who is leading one of our Cargo Port Coordinator teams, is taking our #purpose of \u2018Improving Life For All\u2019 quite literally.  He is a volunteer fireman, after working hours at #Maersk.\nWatch full video: https://t.co/aXFQnHR0fC https://t.co/aOfB2MC7Fr"
+    }
+}

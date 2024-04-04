@@ -1,0 +1,76 @@
+{
+    "1666452463526789122": {
+        "attachments": {
+            "media_keys": [
+                "3_1666452459340824592"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-07T14:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1666452463526789122"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "IEA",
+                    "probability": 0.7335,
+                    "start": 33,
+                    "type": "Organization"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "Fatih Birol",
+                    "probability": 0.5969,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Jean-Pascal Tricoire",
+                    "probability": 0.6854,
+                    "start": 104,
+                    "type": "Person"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Ebba Busch",
+                    "probability": 0.6305,
+                    "start": 130,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015OxSrB",
+                    "end": 170,
+                    "expanded_url": "http://spr.ly/6015OxSrB",
+                    "start": 147,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=AfmxT0Ti-M4",
+                    "url": "https://t.co/9HdVtUx0w8"
+                },
+                {
+                    "display_url": "pic.twitter.com/wkk8Wh3P0t",
+                    "end": 195,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1666452463526789122/photo/1",
+                    "media_key": "3_1666452459340824592",
+                    "start": 172,
+                    "url": "https://t.co/wkk8Wh3P0t"
+                }
+            ]
+        },
+        "id": "1666452463526789122",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1072,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Watch the closing discussions of IEA's 8th Global Conference on Energy Efficiency with Dr. Fatih Birol, Jean-Pascal Tricoire, and Ebba Busch here: https://t.co/9HdVtUx0w8. https://t.co/wkk8Wh3P0t"
+    }
+}

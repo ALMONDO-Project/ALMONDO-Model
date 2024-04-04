@@ -1,0 +1,85 @@
+{
+    "1685648797404131329": {
+        "attachments": {
+            "media_keys": [
+                "3_1685648792995975168"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-07-30T13:49:25.000Z",
+        "edit_history_tweet_ids": [
+            "1685648797404131329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Nick Cassidy",
+                    "probability": 0.9168,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "LondonEPrix",
+                    "probability": 0.3749,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.3528,
+                    "start": 127,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 79,
+                    "tag": "LondonEPrix"
+                },
+                {
+                    "end": 138,
+                    "start": 126,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 150,
+                    "start": 139,
+                    "tag": "Motorsport"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "2228709626",
+                    "start": 34,
+                    "username": "Envision_Racing"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Of4MTXoOBp",
+                    "end": 186,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1685648797404131329/photo/1",
+                    "media_key": "3_1685648792995975168",
+                    "start": 163,
+                    "url": "https://t.co/Of4MTXoOBp"
+                }
+            ]
+        },
+        "id": "1685648797404131329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2405,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Pole position for Nick Cassidy of @Envision_Racing at the second ABB Formula E #LondonEPrix. \ud83d\udc4f\nRace start: 1800 CEST \u26a1\ufe0f\ud83c\udfce\ufe0f  \ud83c\uddec\ud83c\udde7\n#ABBFormulaE #Motorsport \n\n[\ud83d\udcf8: dppi] https://t.co/Of4MTXoOBp"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1737173794668593437": {
+        "author_id": "380801406",
+        "created_at": "2023-12-19T18:11:22.000Z",
+        "edit_history_tweet_ids": [
+            "1737173794668593437"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Vincent Clerc",
+                    "probability": 0.7941,
+                    "start": 8,
+                    "type": "Person"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Red Sea",
+                    "probability": 0.3707,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "maersk",
+                    "probability": 0.3739,
+                    "start": 128,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 134,
+                    "start": 127,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 149,
+                    "start": 135,
+                    "tag": "logisticsnews"
+                },
+                {
+                    "end": 165,
+                    "start": 150,
+                    "tag": "RedSeasecurity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 126,
+                    "id": "1714637417645314048",
+                    "start": 110,
+                    "username": "moneymoverscnbc"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/moneymoverscnb\u2026",
+                    "end": 189,
+                    "expanded_url": "https://twitter.com/moneymoverscnbc/status/1737162427307847768",
+                    "start": 166,
+                    "url": "https://t.co/RqomnxAosR"
+                }
+            ]
+        },
+        "id": "1737173794668593437",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 10,
+            "impression_count": 40387,
+            "like_count": 145,
+            "quote_count": 9,
+            "reply_count": 31,
+            "retweet_count": 44
+        },
+        "text": "Our CEO Vincent Clerc provides details on the re-routing of vessels and Red Sea disruption in an interview on @moneymoverscnbc #maersk #logisticsnews #RedSeasecurity https://t.co/RqomnxAosR"
+    }
+}

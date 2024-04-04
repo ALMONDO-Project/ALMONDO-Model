@@ -1,0 +1,63 @@
+{
+    "1667526277811544065": {
+        "author_id": "393757140",
+        "created_at": "2023-06-10T13:37:00.000Z",
+        "edit_history_tweet_ids": [
+            "1667526277811544065"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Andrew",
+                    "probability": 0.6473,
+                    "start": 5,
+                    "type": "Person"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.7786,
+                    "start": 65,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Andre is a Field Service Representative specializing in electrical distribution who helps customers with digital and energy-efficient solutions. \u25baWatch more ...",
+                    "display_url": "spr.ly/6019OLuZS",
+                    "end": 277,
+                    "expanded_url": "http://spr.ly/6019OLuZS",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1715972960366813184/fywFTT7G?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1715972960366813184/fywFTT7G?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 254,
+                    "status": 200,
+                    "title": "Looking for a REAL Career? Schneider Electric Services is Waiting for You! | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=i7ePMHDgdn0",
+                    "url": "https://t.co/cTiA2dBTSG"
+                }
+            ]
+        },
+        "id": "1667526277811544065",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1242,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Join Andrew on his journey as a Field Services Representative at Schneider Electric. He's helping customers improve efficiency and advance decarbonization goals, all while making a real impact. Ready to embark on an exciting career? Check out his story: https://t.co/cTiA2dBTSG"
+    }
+}

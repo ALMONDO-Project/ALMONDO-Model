@@ -1,0 +1,42 @@
+{
+    "1701176798078279928": {
+        "author_id": "570715775",
+        "created_at": "2023-09-11T10:12:09.000Z",
+        "edit_history_tweet_ids": [
+            "1701176798078279928"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Almimama",
+                    "probability": 0.4412,
+                    "start": 11,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Z4Iiyo",
+                    "end": 45,
+                    "expanded_url": "https://bit.ly/3Z4Iiyo",
+                    "start": 22,
+                    "status": 200,
+                    "unwound_url": "https://www.danone.com/media/press-releases-list/pr-danone-almimama-new-probiotic-supplement-breastfeeding.html",
+                    "url": "https://t.co/JNb3BgLdfd"
+                }
+            ]
+        },
+        "id": "1701176798078279928",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1188,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "More about Almimama \ud83d\udc49 https://t.co/JNb3BgLdfd"
+    }
+}

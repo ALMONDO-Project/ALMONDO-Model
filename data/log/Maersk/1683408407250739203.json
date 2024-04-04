@@ -1,0 +1,91 @@
+{
+    "1683408407250739203": {
+        "attachments": {
+            "media_keys": [
+                "3_1683408382269464576",
+                "3_1683408382311428096"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-24T09:26:55.000Z",
+        "edit_history_tweet_ids": [
+            "1683408407250739203"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3873,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Rita",
+                    "probability": 0.7184,
+                    "start": 219,
+                    "type": "Person"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Maerskheritage",
+                    "probability": 0.4678,
+                    "start": 233,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 247,
+                    "start": 232,
+                    "tag": "Maerskheritage"
+                },
+                {
+                    "end": 256,
+                    "start": 248,
+                    "tag": "History"
+                },
+                {
+                    "end": 264,
+                    "start": 257,
+                    "tag": "Artist"
+                },
+                {
+                    "end": 277,
+                    "start": 265,
+                    "tag": "Inspiration"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Xf3bmzqRaG",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1683408407250739203/photo/1",
+                    "media_key": "3_1683408382269464576",
+                    "start": 278,
+                    "url": "https://t.co/Xf3bmzqRaG"
+                },
+                {
+                    "display_url": "pic.twitter.com/Xf3bmzqRaG",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1683408407250739203/photo/1",
+                    "media_key": "3_1683408382311428096",
+                    "start": 278,
+                    "url": "https://t.co/Xf3bmzqRaG"
+                }
+            ]
+        },
+        "id": "1683408407250739203",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5561,
+            "like_count": 65,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 15
+        },
+        "text": "Sketching out historic Maersk vessels\ud83c\udfa8\nWhen was the last time you embraced your artistic side? Your local harbor can be a great inspiration to your next creative project \u2013 proved here by a sketch of our historic vessel Rita Maersk\ud83d\udea2\n#Maerskheritage #History #Artist #Inspiration https://t.co/Xf3bmzqRaG"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "1703627408266465563": {
+        "author_id": "393757140",
+        "created_at": "2023-09-18T04:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1703627408266465563"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 151,
+                    "normalized_text": "Padania Acque",
+                    "probability": 0.4956,
+                    "start": 139,
+                    "type": "Person"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Cremona",
+                    "probability": 0.9474,
+                    "start": 212,
+                    "type": "Place"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.525,
+                    "start": 226,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1703627408266465563",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1697,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Did you know that 50% of the world's population could be facing water scarcity by 2025? \ud83d\udca7\nWe are committed to being part of the solution.\n\nPadania Acque, the water services provider for 113 municipalities across Cremona, used EcoStruxure to reduce water losses and energy usage."
+    }
+}

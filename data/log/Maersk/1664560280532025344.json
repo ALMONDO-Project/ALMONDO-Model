@@ -1,0 +1,75 @@
+{
+    "1664560280532025344": {
+        "attachments": {
+            "media_keys": [
+                "7_1664560225888751620"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-02T09:11:11.000Z",
+        "edit_history_tweet_ids": [
+            "1664560280532025344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "Hamburg",
+                    "probability": 0.7886,
+                    "start": 85,
+                    "type": "Place"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Maersk",
+                    "probability": 0.59,
+                    "start": 172,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 178,
+                    "start": 171,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 189,
+                    "start": 179,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 202,
+                    "start": 190,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 215,
+                    "start": 203,
+                    "tag": "GlobalTrade"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/C5Mxv4weKY",
+                    "end": 239,
+                    "expanded_url": "https://twitter.com/Maersk/status/1664560280532025344/video/1",
+                    "media_key": "7_1664560225888751620",
+                    "start": 216,
+                    "url": "https://t.co/C5Mxv4weKY"
+                }
+            ]
+        },
+        "id": "1664560280532025344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 7529,
+            "like_count": 136,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 19
+        },
+        "text": "All vessel departures deserve a farewell salute\ud83c\udfba\n\nWatch as the cranes in the Port of Hamburg bid one of our vessels farewell as it continues its journey around the world\ud83d\udea2\n#Maersk #Logistics #SupplyChain #GlobalTrade https://t.co/C5Mxv4weKY"
+    }
+}

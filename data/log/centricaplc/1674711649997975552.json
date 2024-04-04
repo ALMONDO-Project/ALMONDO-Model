@@ -1,0 +1,70 @@
+{
+    "1674711649997975552": {
+        "attachments": {
+            "media_keys": [
+                "3_1674711647330377728"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-06-30T09:29:06.000Z",
+        "edit_history_tweet_ids": [
+            "1674711649997975552"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 158,
+                    "normalized_text": "Chris O\u2019Shea",
+                    "probability": 0.8379,
+                    "start": 147,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 39,
+                    "tag": "pricecap"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "28830376",
+                    "start": 5,
+                    "username": "ofgem"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centrica.com/stories/2023/c\u2026",
+                    "end": 256,
+                    "expanded_url": "https://www.centrica.com/stories/2023/chris-oshea-changes-are-needed-to-make-the-energy-sector-simpler-and-more-transparent/",
+                    "start": 233,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/stories/2023/chris-oshea-changes-are-needed-to-make-the-energy-sector-simpler-and-more-transparent/",
+                    "url": "https://t.co/vRhMKSVP2k"
+                },
+                {
+                    "display_url": "pic.twitter.com/WoVxUDljZW",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1674711649997975552/photo/1",
+                    "media_key": "3_1674711647330377728",
+                    "start": 257,
+                    "url": "https://t.co/WoVxUDljZW"
+                }
+            ]
+        },
+        "id": "1674711649997975552",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 551,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "With @Ofgem introducing a lower energy #pricecap tomorrow, we can shift our focus to building an energy system that works for everyone. \n\nOur CEO, Chris O\u2019Shea is calling for three reforms to help make this happen.\n\nRead more here \ud83d\udc49 https://t.co/vRhMKSVP2k https://t.co/WoVxUDljZW"
+    }
+}

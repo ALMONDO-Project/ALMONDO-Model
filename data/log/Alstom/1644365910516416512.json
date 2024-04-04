@@ -1,0 +1,77 @@
+{
+    "1644365910516416512": {
+        "attachments": {
+            "media_keys": [
+                "3_1644365908532506624"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-07T15:45:58.000Z",
+        "edit_history_tweet_ids": [
+            "1644365910516416512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 122,
+                    "normalized_text": "MARC",
+                    "probability": 0.5685,
+                    "start": 119,
+                    "type": "Organization"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "USA",
+                    "probability": 0.9743,
+                    "start": 137,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 287,
+                    "start": 272,
+                    "tag": "AlstomServices"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 116,
+                    "id": "129834485",
+                    "start": 104,
+                    "username": "mtamaryland"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/QMN650NEbYS",
+                    "end": 271,
+                    "expanded_url": "http://ow.ly/QMN650NEbYS",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/4/alstom-awarded-operations-and-maintenance-contract-maryland-transit-administration",
+                    "url": "https://t.co/Ek4s4Rc0w2"
+                },
+                {
+                    "display_url": "pic.twitter.com/oQN3TbSn7y",
+                    "end": 311,
+                    "expanded_url": "https://twitter.com/Alstom/status/1644365910516416512/photo/1",
+                    "media_key": "3_1644365908532506624",
+                    "start": 288,
+                    "url": "https://t.co/oQN3TbSn7y"
+                }
+            ]
+        },
+        "id": "1644365910516416512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4615,
+            "like_count": 61,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 13
+        },
+        "text": "\ud83c\uddfa\ud83c\uddf8 We're proud to have been awarded an operations &amp; maintenance contract totalling up to \u20ac1.3bn for @mtamaryland's MARC fleet in the USA. \n\nThe contract scope includes digital innovations aiming at developing sustainable &amp; smart mobility\n\u25b6\ufe0fhttps://t.co/Ek4s4Rc0w2\n#AlstomServices https://t.co/oQN3TbSn7y"
+    }
+}

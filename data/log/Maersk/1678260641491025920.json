@@ -1,0 +1,95 @@
+{
+    "1678260641491025920": {
+        "attachments": {
+            "media_keys": [
+                "7_1678260583676649472"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-10T04:31:32.000Z",
+        "edit_history_tweet_ids": [
+            "1678260641491025920"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Container Load",
+                    "probability": 0.8457,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3777,
+                    "start": 189,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "LCL",
+                    "probability": 0.5548,
+                    "start": 197,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 195,
+                    "start": 188,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 200,
+                    "start": 196,
+                    "tag": "LCL"
+                },
+                {
+                    "end": 209,
+                    "start": 201,
+                    "tag": "Digital"
+                },
+                {
+                    "end": 220,
+                    "start": 210,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 231,
+                    "start": 221,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3O25gSZ",
+                    "end": 186,
+                    "expanded_url": "https://bddy.me/3O25gSZ",
+                    "start": 163,
+                    "unwound_url": "https://www.maersk.com/transportation-services/lcl/how-to-book?utm_source=Twitter_OwnedMedia&utm_medium=Organic&utm_campaign=M_6422A3A813556_647D9DD39B87C&utm_term=DICP&utm_content=2023_Maersk_CEN_DigitalLCL_LCL_6422A3A813556",
+                    "url": "https://t.co/PyN9C32SQf"
+                },
+                {
+                    "display_url": "pic.twitter.com/IIvjPhttIc",
+                    "end": 255,
+                    "expanded_url": "https://twitter.com/Maersk/status/1678260641491025920/video/1",
+                    "media_key": "7_1678260583676649472",
+                    "start": 232,
+                    "url": "https://t.co/IIvjPhttIc"
+                }
+            ]
+        },
+        "id": "1678260641491025920",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4173,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "With our online tools you can track your Less than Container Load from origin to destination. Book now and benefit from a discount on rates.  \ud83d\udea2\u2708\ud83d\udc99\n \nFind out more: https://t.co/PyN9C32SQf\n\n#Maersk #LCL #Digital #Logistics #AllTheWay https://t.co/IIvjPhttIc"
+    }
+}

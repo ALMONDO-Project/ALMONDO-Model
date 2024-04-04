@@ -1,0 +1,55 @@
+{
+    "1691068406798143489": {
+        "attachments": {
+            "media_keys": [
+                "3_1691068403589464064"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-08-14T12:45:01.000Z",
+        "edit_history_tweet_ids": [
+            "1691068406798143489"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "ERP",
+                    "probability": 0.6128,
+                    "start": 9,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6016P9yb4",
+                    "end": 113,
+                    "expanded_url": "https://sap.to/6016P9yb4",
+                    "start": 90,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/products/erp/what-is-erp.html?source=social-Global-TWITTER-Cloud_ERP-CloudERP-ERP%2FFinance_Umbrella-spr-11014172849-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11014172849",
+                    "url": "https://t.co/WbtmF81S4t"
+                },
+                {
+                    "display_url": "pic.twitter.com/Qhr8aTgDXR",
+                    "end": 137,
+                    "expanded_url": "https://twitter.com/SAP/status/1691068406798143489/photo/1",
+                    "media_key": "3_1691068403589464064",
+                    "start": 114,
+                    "url": "https://t.co/Qhr8aTgDXR"
+                }
+            ]
+        },
+        "id": "1691068406798143489",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 11,
+            "impression_count": 10018,
+            "like_count": 39,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 14
+        },
+        "text": "You know ERP. How do you explain it to your non-techy colleagues?\n\nStart with the basics: https://t.co/WbtmF81S4t https://t.co/Qhr8aTgDXR"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "1721885794707853670": {
+        "author_id": "76117579",
+        "created_at": "2023-11-07T13:42:19.000Z",
+        "edit_history_tweet_ids": [
+            "1721885794707853670"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "AI",
+                    "probability": 0.5966,
+                    "start": 30,
+                    "type": "Organization"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "SAP",
+                    "probability": 0.5942,
+                    "start": 47,
+                    "type": "Organization"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "SAPTechEd",
+                    "probability": 0.5019,
+                    "start": 171,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 180,
+                    "start": 170,
+                    "tag": "SAPTechEd"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 67,
+                    "id": "2358564123",
+                    "start": 55,
+                    "username": "JuerMueller"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "On stage at SAP TechEd, CTO Juergen Mueller shared the company\u2019s bold vision to be the leading business AI company by 2025.",
+                    "display_url": "sap.to/6018uSJoM",
+                    "end": 205,
+                    "expanded_url": "https://sap.to/6018uSJoM",
+                    "images": [
+                        {
+                            "height": 1280,
+                            "url": "https://pbs.twimg.com/news_img/1721885819831799808/zK2yJPmA?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721885819831799808/zK2yJPmA?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 182,
+                    "status": 200,
+                    "title": "CTO Juergen Mueller at SAP TechEd: SAP at the Forefront of Generative AI Development",
+                    "unwound_url": "https://news.sap.com/2023/11/sap-teched-cto-juergen-mueller-generative-ai-development/?source=Brand_Story-Tier_1_Event-Webcard-Educate%2FEnable-Global-ST2%3A_Ecosystem-SAP_News&campaigncode=CRM-YA23-SMS-1941768&sprinklrid=11743023677",
+                    "url": "https://t.co/Z2aSUNbUo1"
+                }
+            ]
+        },
+        "id": "1721885794707853670",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 5423,
+            "like_count": 31,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 13
+        },
+        "text": "Every developer can become an AI developer. \ud83d\udc4f\n\nSAP CTO @JuerMueller shares the top three things that developers, IT professionals, and business leaders need to know from #SAPTechEd. https://t.co/Z2aSUNbUo1"
+    }
+}

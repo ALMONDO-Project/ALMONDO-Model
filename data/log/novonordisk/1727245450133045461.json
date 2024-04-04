@@ -1,0 +1,53 @@
+{
+    "1727245450133045461": {
+        "author_id": "194037150",
+        "created_at": "2023-11-22T08:39:40.000Z",
+        "edit_history_tweet_ids": [
+            "1727245450133045461"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Denis",
+                    "probability": 0.4622,
+                    "start": 12,
+                    "type": "Person"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Kazakhstan",
+                    "probability": 0.9021,
+                    "start": 64,
+                    "type": "Place"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4375,
+                    "start": 242,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "73680025",
+                    "start": 0,
+                    "username": "Riderkz"
+                }
+            ]
+        },
+        "id": "1727245450133045461",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Riderkz Hi Denis,\u00a0you can contact our representative office in Kazakhstan for questions about local availability of our products. Here are the contact details:\nPhone: +7 727 330 7788\n\nEmail:\u00a0io-rom-safety@novonordisk.com\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

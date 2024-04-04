@@ -1,0 +1,69 @@
+{
+    "1658034489279365121": {
+        "attachments": {
+            "media_keys": [
+                "3_1658034486334857217"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-15T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1658034489279365121"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.6846,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Expert",
+                    "probability": 0.5512,
+                    "start": 61,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 37,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019OVZpH",
+                    "end": 256,
+                    "expanded_url": "http://spr.ly/6019OVZpH",
+                    "start": 233,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/product-range/23643079-ecostruxure-automation-expert/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9735039890&utm_campaign=Industry_of_the_Future&country=Global#overview",
+                    "url": "https://t.co/NzZ9AYqBEI"
+                },
+                {
+                    "display_url": "pic.twitter.com/rgioqFRXPY",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1658034489279365121/photo/1",
+                    "media_key": "3_1658034486334857217",
+                    "start": 257,
+                    "url": "https://t.co/rgioqFRXPY"
+                }
+            ]
+        },
+        "id": "1658034489279365121",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2110,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Nowadays, digital continuity is key. #EcoStruxure Automation Expert can easily connect to multiple software and machine learning - creating a comprehensive ecosystem with a rich, expansive library of automation apps. Learn more here https://t.co/NzZ9AYqBEI https://t.co/rgioqFRXPY"
+    }
+}

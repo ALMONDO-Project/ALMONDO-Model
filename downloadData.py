@@ -85,6 +85,7 @@ class UserDataDownload():
     
     def get_oldest_tweet_date(self):
         filenames = []
+        print(self.userlogpath)
         for filename in os.listdir(f'{self.userlogpath}'):
             if filename.endswith('.json') and not filename.startswith('page_meta_'):
                 filenames.append(int(filename.replace('.json', '')))

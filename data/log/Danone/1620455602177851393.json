@@ -1,0 +1,61 @@
+{
+    "1620455602177851393": {
+        "attachments": {
+            "media_keys": [
+                "3_1620455436347400193"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-01-31T16:14:56.000Z",
+        "edit_history_tweet_ids": [
+            "1620455602177851393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Danone",
+                    "probability": 0.5304,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Gender Equality Index",
+                    "probability": 0.5148,
+                    "start": 52,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 51,
+                    "id": "104237736",
+                    "start": 41,
+                    "username": "Bloomberg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/KEy7NwwB7O",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/Danone/status/1620455602177851393/photo/1",
+                    "media_key": "3_1620455436347400193",
+                    "start": 256,
+                    "url": "https://t.co/KEy7NwwB7O"
+                }
+            ]
+        },
+        "id": "1620455602177851393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1516,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Listed again! Danone is included in the \n@Bloomberg Gender Equality Index (GEI) for the 5th consecutive year. We will continue using transparency as a tool to accelerate gender equality and gender pay parity, and to work towards more inclusive workplaces. https://t.co/KEy7NwwB7O"
+    }
+}

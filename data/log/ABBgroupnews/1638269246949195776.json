@@ -1,0 +1,79 @@
+{
+    "1638269246949195776": {
+        "attachments": {
+            "media_keys": [
+                "13_1638197024448208900"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-21T20:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1638269246949195776"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "Stoffel Vandoorne",
+                    "probability": 0.916,
+                    "start": 107,
+                    "type": "Person"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.5846,
+                    "start": 127,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 23,
+                    "tag": "technology"
+                },
+                {
+                    "end": 138,
+                    "start": 126,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 255,
+                    "start": 245,
+                    "tag": "emobility"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/decoded-podcas\u2026",
+                    "end": 280,
+                    "expanded_url": "https://social.abb/decoded-podcast-platform",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/media/podcasts/abb-decoded?_ga=2.133469134.1912055705.1618210361-39147843.1606897664",
+                    "url": "https://t.co/9rJWPJiYtI"
+                },
+                {
+                    "display_url": "pic.twitter.com/vCdzCaosD2",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1638269246949195776/video/1",
+                    "media_key": "13_1638197024448208900",
+                    "start": 281,
+                    "url": "https://t.co/vCdzCaosD2"
+                }
+            ]
+        },
+        "id": "1638269246949195776",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11131,
+            "like_count": 55,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "\u201cIt\u2019s great to see the #technology transfer between racing and the road. It\u2019s great to be part of that.\u201d - Stoffel Vandoorne, #ABBFormulaE ambassador and reigning World Champion, describes the all-electric championship as \u201ca testing ground\u201d for #emobility: https://t.co/9rJWPJiYtI https://t.co/vCdzCaosD2"
+    }
+}

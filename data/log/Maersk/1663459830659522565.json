@@ -1,0 +1,87 @@
+{
+    "1663459830659522565": {
+        "attachments": {
+            "media_keys": [
+                "7_1663458034733989888"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-30T08:18:23.000Z",
+        "edit_history_tweet_ids": [
+            "1663459830659522565"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Erik de Vries",
+                    "probability": 0.9175,
+                    "start": 50,
+                    "type": "Person"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Newbuild",
+                    "probability": 0.4484,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3269,
+                    "start": 183,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 189,
+                    "start": 182,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 199,
+                    "start": 190,
+                    "tag": "Shipping"
+                },
+                {
+                    "end": 210,
+                    "start": 200,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 226,
+                    "start": 211,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 237,
+                    "start": 227,
+                    "tag": "Alltheway"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/1bQTcwL8Rh",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/Maersk/status/1663459830659522565/video/1",
+                    "media_key": "7_1663458034733989888",
+                    "start": 238,
+                    "url": "https://t.co/1bQTcwL8Rh"
+                }
+            ]
+        },
+        "id": "1663459830659522565",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3677,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "What drives you to get out of bed every day?\ud83d\udc4a\ud83c\udffd\nTo Erik de Vries, Head of Newbuild, it is the ambition of delivering the world\u2019s first container vessels operating on green methanol\ud83d\udea2\ud83d\udc9a\n#Maersk #Shipping #Logistics #Sustainability #Alltheway https://t.co/1bQTcwL8Rh"
+    }
+}

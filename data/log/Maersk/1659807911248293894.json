@@ -1,0 +1,71 @@
+{
+    "1659807911248293894": {
+        "author_id": "380801406",
+        "created_at": "2023-05-20T06:26:58.000Z",
+        "edit_history_tweet_ids": [
+            "1659807911248293894"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "theoceancleanup",
+                    "probability": 0.5393,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "alltheway",
+                    "probability": 0.4949,
+                    "start": 110,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "maersk",
+                    "probability": 0.465,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 75,
+                    "tag": "theoceancleanup"
+                },
+                {
+                    "end": 119,
+                    "start": 109,
+                    "tag": "alltheway"
+                },
+                {
+                    "end": 127,
+                    "start": 120,
+                    "tag": "maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/TheOceanCleanu\u2026",
+                    "end": 151,
+                    "expanded_url": "https://twitter.com/TheOceanCleanup/status/1659568852110389251",
+                    "start": 128,
+                    "url": "https://t.co/YbHC3ZJQMu"
+                }
+            ]
+        },
+        "id": "1659807911248293894",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5006,
+            "like_count": 32,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We are onboard to help rid our oceans of plastic waste in partnership with #theoceancleanup  70th extraction #alltheway #maersk https://t.co/YbHC3ZJQMu"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "1736951994798031140": {
+        "attachments": {
+            "media_keys": [
+                "3_1736951991186620416"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-12-19T03:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1736951994798031140"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Hyderabad factory",
+                    "probability": 0.6003,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Lighthouse",
+                    "probability": 0.5587,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Schneider factory",
+                    "probability": 0.4104,
+                    "start": 96,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 208,
+                    "start": 193,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 213,
+                    "start": 209,
+                    "tag": "4IR"
+                },
+                {
+                    "end": 233,
+                    "start": 214,
+                    "tag": "WorldEconomicForum"
+                },
+                {
+                    "end": 246,
+                    "start": 234,
+                    "tag": "supplychain"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 84,
+                    "id": "5120691",
+                    "start": 80,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Schneider Electric Global. Hyderabad, India, factory is third Sustainability Lighthouse for Schneider Electric Sustainability Lighthouses are leading examples of how Fourth Industrial Revolution technologies deliver greater sustainability and efficiency.",
+                    "display_url": "spr.ly/6008RTRoY",
+                    "end": 191,
+                    "expanded_url": "http://spr.ly/6008RTRoY",
+                    "images": [
+                        {
+                            "height": 561,
+                            "url": "https://pbs.twimg.com/news_img/1742522428020973568/GAHJrpT_?format=jpg&name=orig",
+                            "width": 1000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1742522428020973568/GAHJrpT_?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 168,
+                    "status": 200,
+                    "title": "World Economic Forum recognizes Schneider Electric\u2019s Hyderabad factory as a Sustainability Lighthouse",
+                    "unwound_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/world-economic-forum-recognizes-schneider-electric%E2%80%99s-hyderabad-factory-as-a-sustainability-lighthouse-657bc5e81e57755d7e06770b?utm_source=twitter&utm_medium=organic_social&utm_campaign=2023dec_ww_allbu_wef2023",
+                    "url": "https://t.co/VsfMZwSydE"
+                },
+                {
+                    "display_url": "pic.twitter.com/xbcePmmRjz",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1736951994798031140/photo/1",
+                    "media_key": "3_1736951991186620416",
+                    "start": 247,
+                    "url": "https://t.co/xbcePmmRjz"
+                }
+            ]
+        },
+        "id": "1736951994798031140",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 987,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Our Hyderabad factory has been recognized as a Sustainability Lighthouse by the @wef, the third Schneider factory to receive the prestigious recognition. \n\nLearn more: https://t.co/VsfMZwSydE\n\n#sustainability #4IR #WorldEconomicForum #supplychain https://t.co/xbcePmmRjz"
+    }
+}

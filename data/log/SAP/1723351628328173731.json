@@ -1,0 +1,79 @@
+{
+    "1723351628328173731": {
+        "attachments": {
+            "media_keys": [
+                "3_1723351624939081728"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-11-11T14:47:01.000Z",
+        "edit_history_tweet_ids": [
+            "1723351628328173731"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Marine Corps",
+                    "probability": 0.412,
+                    "start": 15,
+                    "type": "Organization"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Natasha",
+                    "probability": 0.5917,
+                    "start": 36,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 227,
+                    "start": 215,
+                    "tag": "VeteransDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 88,
+                    "id": "2411407244",
+                    "start": 78,
+                    "username": "NS2Serves"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Natasha is a soccer, basketball, and flag football mom. That\u2019s how the 35-year-old single mom of two describes herself. \u201cMy kids take up 99% of my time between all their activities\u201d, she says \u2013",
+                    "display_url": "sap.to/6011utW5v",
+                    "end": 213,
+                    "expanded_url": "https://sap.to/6011utW5v",
+                    "start": 190,
+                    "status": 200,
+                    "title": "From Soccer Mom to Cybersecurity Expert: How SAP Helped Natasha Mulford Turn Her Life Around | SAP Blogs",
+                    "unwound_url": "https://blogs.sap.com/2023/07/20/from-soccer-mom-to-cybersecurity-expert-how-sap-helped-natasha-mulford-turn-her-life-around/?source=Life_at_SAP-Holidays%2FEvents-Image-Audience_Engagement_%2F_Develop_Community-Global-ST4%3A_Culture-blogs.sap.com&campaigncode=CRM-YA23-SMS-1941768&sprinklrid=11766237763",
+                    "url": "https://t.co/rEEwL2iPml"
+                },
+                {
+                    "display_url": "pic.twitter.com/GDhGjL1Lpz",
+                    "end": 251,
+                    "expanded_url": "https://twitter.com/SAP/status/1723351628328173731/photo/1",
+                    "media_key": "3_1723351624939081728",
+                    "start": 228,
+                    "url": "https://t.co/GDhGjL1Lpz"
+                }
+            ]
+        },
+        "id": "1723351628328173731",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5857,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Single mom and Marine Corps veteran Natasha turned her career around with the @NS2Serves program.\n\nTo our brave veterans, your service is never forgotten. We're here to lend a helping hand. https://t.co/rEEwL2iPml\n\n#VeteransDay https://t.co/GDhGjL1Lpz"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "1734597506833547761": {
+        "attachments": {
+            "media_keys": [
+                "3_1734596159086133248"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-12-12T15:34:07.000Z",
+        "edit_history_tweet_ids": [
+            "1734597506833547761"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "SolarPanels",
+                    "probability": 0.7052,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "David Field",
+                    "probability": 0.834,
+                    "start": 46,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 17,
+                    "tag": "SolarPanels"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "34610672",
+                    "start": 30,
+                    "username": "EdinburghZoo"
+                },
+                {
+                    "end": 64,
+                    "id": "2827514410",
+                    "start": 59,
+                    "username": "rzss"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/48ehVJWn",
+                    "end": 189,
+                    "expanded_url": "https://bit.ly/48ehVJWn",
+                    "start": 166,
+                    "status": 404,
+                    "unwound_url": "https://bit.ly/48ehVJWn",
+                    "url": "https://t.co/VgJ4A58ajr"
+                },
+                {
+                    "display_url": "pic.twitter.com/iDgS79zAXv",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1734597506833547761/photo/1",
+                    "media_key": "3_1734596159086133248",
+                    "start": 190,
+                    "url": "https://t.co/iDgS79zAXv"
+                }
+            ]
+        },
+        "id": "1734597506833547761",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 899,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We're installing #SolarPanels @EdinburghZoo\ud83d\udc27\n\nDavid Field, @rzss CEO, has shared with us how the solar meadow supports the charity\u2019s commitment to becoming net zero. https://t.co/VgJ4A58ajr https://t.co/iDgS79zAXv"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "1730192265342046421": {
+        "attachments": {
+            "media_keys": [
+                "13_1730192200670035968"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-11-30T11:49:16.000Z",
+        "edit_history_tweet_ids": [
+            "1730192265342046421"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "COP28",
+                    "probability": 0.9498,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "Dubai",
+                    "probability": 0.9954,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "COP28",
+                    "probability": 0.9365,
+                    "start": 189,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 53,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 255,
+                    "start": 241,
+                    "tag": "ClimateAction"
+                },
+                {
+                    "end": 273,
+                    "start": 256,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/47ujVNX",
+                    "end": 239,
+                    "expanded_url": "https://bit.ly/47ujVNX",
+                    "start": 216,
+                    "unwound_url": "https://www.whyenergyefficiency.com/?utm_source=social&utm_medium=twitter&utm_campaign=cf_cop28&utm_content=organic_group",
+                    "url": "https://t.co/cuaW8Lq1Xm"
+                },
+                {
+                    "display_url": "pic.twitter.com/0QOmGTgbBj",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1730192265342046421/video/1",
+                    "media_key": "13_1730192200670035968",
+                    "start": 274,
+                    "url": "https://t.co/0QOmGTgbBj"
+                }
+            ]
+        },
+        "id": "1730192265342046421",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1650,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We are committed to bringing action and solutions to #COP28 in Dubai. We can close the gap between promises and action by implementing what we already know works.\n\nMeet us on the ground at COP28.\n\nSee the solutions: https://t.co/cuaW8Lq1Xm\n\n#ClimateAction #EnergyEfficiency https://t.co/0QOmGTgbBj"
+    }
+}

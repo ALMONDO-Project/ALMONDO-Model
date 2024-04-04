@@ -1,0 +1,79 @@
+{
+    "1669379916234735616": {
+        "attachments": {
+            "media_keys": [
+                "7_1669354339813715985"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-06-15T16:22:42.000Z",
+        "edit_history_tweet_ids": [
+            "1669379916234735616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Jackson Richardson",
+                    "probability": 0.8948,
+                    "start": 30,
+                    "type": "Person"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Norbert Tarayre",
+                    "probability": 0.635,
+                    "start": 55,
+                    "type": "Person"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "HiPRO",
+                    "probability": 0.3782,
+                    "start": 157,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Hipro",
+                    "probability": 0.3056,
+                    "start": 167,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 172,
+                    "start": 166,
+                    "tag": "Hipro"
+                },
+                {
+                    "end": 186,
+                    "start": 173,
+                    "tag": "AllChampions"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7EDDl0rps0",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/Danone/status/1669379916234735616/video/1",
+                    "media_key": "7_1669354339813715985",
+                    "start": 187,
+                    "url": "https://t.co/7EDDl0rps0"
+                }
+            ]
+        },
+        "id": "1669379916234735616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2089,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 23,
+            "retweet_count": 3
+        },
+        "text": "With former handball champion Jackson Richardson, chef Norbert Tarayre teaches you how to make a protein snack, perfect for athletes: energy balls made with HiPRO \ud83d\udcaa\n\n#Hipro #AllChampions https://t.co/7EDDl0rps0"
+    }
+}

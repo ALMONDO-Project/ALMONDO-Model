@@ -1,0 +1,78 @@
+{
+    "1699331796167516595": {
+        "attachments": {
+            "media_keys": [
+                "13_1699331626927280128"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-09-06T08:00:46.000Z",
+        "edit_history_tweet_ids": [
+            "1699331796167516595"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "Volvo",
+                    "probability": 0.7752,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 16,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.5012,
+                    "start": 10,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 121,
+                    "start": 115,
+                    "tag": "Whyee"
+                },
+                {
+                    "end": 138,
+                    "start": 122,
+                    "tag": "GreenTransition"
+                },
+                {
+                    "end": 156,
+                    "start": 140,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "whyenergyefficiency.com/challenges/dec\u2026",
+                    "end": 112,
+                    "expanded_url": "https://www.whyenergyefficiency.com/challenges/decarbonizing-transport",
+                    "start": 89,
+                    "unwound_url": "https://www.whyenergyefficiency.com/challenges/decarbonizing-transport",
+                    "url": "https://t.co/WzLB85zRD0"
+                },
+                {
+                    "display_url": "pic.twitter.com/biRB2J2pGs",
+                    "end": 180,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1699331796167516595/video/1",
+                    "media_key": "13_1699331626927280128",
+                    "start": 157,
+                    "url": "https://t.co/biRB2J2pGs"
+                }
+            ]
+        },
+        "id": "1699331796167516595",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 798,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Volvo and Danfoss introduce first 24-hour E-truck fleet\u200b.\n\nRead more on decarbonizing: \u200b\nhttps://t.co/WzLB85zRD0\u200b\n\n#Whyee #GreenTransition  #Decarbonization https://t.co/biRB2J2pGs"
+    }
+}

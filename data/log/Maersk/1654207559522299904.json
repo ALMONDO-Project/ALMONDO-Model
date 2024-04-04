@@ -1,0 +1,71 @@
+{
+    "1654207559522299904": {
+        "author_id": "380801406",
+        "created_at": "2023-05-04T19:33:10.000Z",
+        "edit_history_tweet_ids": [
+            "1654207559522299904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Thor",
+                    "probability": 0.7639,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "MayThe4thBeWithYou",
+                    "probability": 0.4377,
+                    "start": 149,
+                    "type": "Person"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5351,
+                    "start": 169,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 167,
+                    "start": 148,
+                    "tag": "MayThe4thBeWithYou"
+                },
+                {
+                    "end": 175,
+                    "start": 168,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 186,
+                    "start": 176,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/onceuponasaga/\u2026",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/onceuponasaga/status/1654081530946523137",
+                    "start": 187,
+                    "url": "https://t.co/G52SFNGSpA"
+                }
+            ]
+        },
+        "id": "1654207559522299904",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4014,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We look forward to having you onboard Thor as you come close to completing your mission of travelling to every country in the world without flying. #MayThe4thBeWithYou #Maersk #AllTheWay https://t.co/G52SFNGSpA"
+    }
+}

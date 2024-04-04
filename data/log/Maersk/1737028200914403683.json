@@ -1,0 +1,62 @@
+{
+    "1737028200914403683": {
+        "author_id": "380801406",
+        "created_at": "2023-12-19T08:32:50.000Z",
+        "edit_history_tweet_ids": [
+            "1737028200914403683"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "A.P. Moller",
+                    "probability": 0.474,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 19,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3317,
+                    "start": 14,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Red Sea",
+                    "probability": 0.6175,
+                    "start": 77,
+                    "type": "Place"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Gulf of Aden",
+                    "probability": 0.5551,
+                    "start": 87,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/12/15/maersk-operations-through-red-sea-gulf-of-aden",
+                    "start": 255,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/12/15/maersk-operations-through-red-sea-gulf-of-aden",
+                    "url": "https://t.co/oVioa4SPCo"
+                }
+            ]
+        },
+        "id": "1737028200914403683",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 28499,
+            "like_count": 112,
+            "quote_count": 7,
+            "reply_count": 7,
+            "retweet_count": 38
+        },
+        "text": "A.P. Moller \u2013 Maersk announced that it would pause all vessels bound for the Red Sea / Gulf of Aden over the highly escalated security situation in the area. This decision was taken to ensure the safety of our crew, vessels and customers\u2019 cargo onboard.  https://t.co/oVioa4SPCo"
+    }
+}

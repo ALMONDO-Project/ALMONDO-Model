@@ -1,0 +1,97 @@
+{
+    "1622915160863125504": {
+        "attachments": {
+            "media_keys": [
+                "3_1622915159017590785"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-02-07T11:08:21.000Z",
+        "edit_history_tweet_ids": [
+            "1622915160863125504"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Coradia Nordic",
+                    "probability": 0.795,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Norway",
+                    "probability": 0.985,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Oslo",
+                    "probability": 0.9379,
+                    "start": 161,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 49,
+                    "tag": "regionaltrains"
+                },
+                {
+                    "end": 89,
+                    "start": 82,
+                    "tag": "Norway"
+                },
+                {
+                    "end": 129,
+                    "start": 120,
+                    "tag": "commuter"
+                },
+                {
+                    "end": 263,
+                    "start": 247,
+                    "tag": "publictransport"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "1092170438183141377",
+                    "start": 68,
+                    "username": "NorskeTog"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/LC2Z50MLArJ",
+                    "end": 288,
+                    "expanded_url": "http://ow.ly/LC2Z50MLArJ",
+                    "start": 265,
+                    "url": "https://t.co/ZiuJQqtGA8"
+                },
+                {
+                    "display_url": "pic.twitter.com/NBQtScXfls",
+                    "end": 312,
+                    "expanded_url": "https://twitter.com/Alstom/status/1622915160863125504/photo/1",
+                    "media_key": "3_1622915159017590785",
+                    "start": 289,
+                    "url": "https://t.co/NBQtScXfls"
+                }
+            ]
+        },
+        "id": "1622915160863125504",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3604,
+            "like_count": 83,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 16
+        },
+        "text": "We've won a contract to supply 25 Coradia Nordic #regionaltrains to @NorskeTog in #Norway. The trains will operate as a #commuter &amp; fast rail service in the Oslo region. The fleet will improve transport services &amp; strengthen emission-free #publictransport. https://t.co/ZiuJQqtGA8 https://t.co/NBQtScXfls"
+    }
+}

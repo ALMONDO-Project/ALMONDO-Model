@@ -1,0 +1,60 @@
+{
+    "1717840189207269867": {
+        "attachments": {
+            "poll_ids": [
+                "1717840187999322112"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-27T09:46:31.000Z",
+        "edit_history_tweet_ids": [
+            "1717840189207269867"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Halloween",
+                    "probability": 0.7573,
+                    "start": 3,
+                    "type": "Other"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Maersk",
+                    "probability": 0.291,
+                    "start": 264,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 2,
+                    "tag": "Halloween"
+                },
+                {
+                    "end": 270,
+                    "start": 263,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 276,
+                    "start": 271,
+                    "tag": "poll"
+                }
+            ]
+        },
+        "id": "1717840189207269867",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4466,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "\ud83c\udf83 #Halloween is just around the corner, and we are working in full swing to ensure your local store is filled with your favorite spooky season items\ud83d\udd77\ufe0fOur top pick? Pumpkins! But where do pumpkins come from?\n\n\ud83d\udc49\ud83c\udffdWhat is the primary exporting country for pumpkins?\n\n#Maersk #poll"
+    }
+}

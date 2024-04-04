@@ -1,0 +1,60 @@
+{
+    "1628299809454190593": {
+        "attachments": {
+            "media_keys": [
+                "13_1628295377014362112"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-02-22T07:45:01.000Z",
+        "edit_history_tweet_ids": [
+            "1628299809454190593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Antoine de Saint-Affrique",
+                    "probability": 0.6535,
+                    "start": 8,
+                    "type": "Person"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "Juergen Esser",
+                    "probability": 0.6275,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Danone",
+                    "probability": 0.4589,
+                    "start": 252,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DRO8ir6G8J",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Danone/status/1628299809454190593/video/1",
+                    "media_key": "13_1628295377014362112",
+                    "start": 280,
+                    "url": "https://t.co/DRO8ir6G8J"
+                }
+            ]
+        },
+        "id": "1628299809454190593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4232,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "Our CEO Antoine de Saint-Affrique and our CFO Juergen Esser comment on our 2022 results. In 2023, we will increase our investments in our brands and capabilities, accelerate our transformation to deliver on our mission with even more impact, and bring Danone to where it belongs\ud83d\udc47 https://t.co/DRO8ir6G8J"
+    }
+}

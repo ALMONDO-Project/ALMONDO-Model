@@ -1,0 +1,53 @@
+{
+    "1716398328072515720": {
+        "author_id": "393757140",
+        "created_at": "2023-10-23T10:17:05.000Z",
+        "edit_history_tweet_ids": [
+            "1716398328072515720"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Narayan",
+                    "probability": 0.5946,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8091,
+                    "start": 197,
+                    "type": "Organization"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "India",
+                    "probability": 0.7182,
+                    "start": 216,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "128622371",
+                    "start": 0,
+                    "username": "nishu5047"
+                }
+            ]
+        },
+        "id": "1716398328072515720",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 23,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@nishu5047 Dear Narayan,\nSorry for the inconvinence caused!\nPlease share invoice copy, complete site address &amp; contact details, also let us know the faulty qty.\nRegards,\nCustomer Care Centre | Schneider Electric India |"
+    }
+}

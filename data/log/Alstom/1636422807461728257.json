@@ -1,0 +1,100 @@
+{
+    "1636422807461728257": {
+        "attachments": {
+            "media_keys": [
+                "3_1636422804038926338"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-16T17:42:55.000Z",
+        "edit_history_tweet_ids": [
+            "1636422807461728257"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 171,
+                    "normalized_text": "Innovia",
+                    "probability": 0.4132,
+                    "start": 165,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "AirTrain",
+                    "probability": 0.4848,
+                    "start": 190,
+                    "type": "Other"
+                },
+                {
+                    "end": 204,
+                    "normalized_text": "Newark",
+                    "probability": 0.8539,
+                    "start": 199,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 128,
+                    "start": 117,
+                    "tag": "operations"
+                },
+                {
+                    "end": 147,
+                    "start": 135,
+                    "tag": "maintenance"
+                },
+                {
+                    "end": 259,
+                    "start": 244,
+                    "tag": "AlstomServices"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 52,
+                    "id": "43464013",
+                    "start": 45,
+                    "username": "PANYNJ"
+                },
+                {
+                    "end": 68,
+                    "id": "234423098",
+                    "start": 57,
+                    "username": "EWRairport"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "alstom.com/press-releases\u2026",
+                    "end": 243,
+                    "expanded_url": "https://www.alstom.com/press-releases-news/2023/3/alstom-signs-seven-year-operations-and-maintenance-services-contract-newark-liberty-international-airport",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/3/alstom-signs-seven-year-operations-and-maintenance-services-contract-newark-liberty-international-airport",
+                    "url": "https://t.co/KKUy8xMwRy"
+                },
+                {
+                    "display_url": "pic.twitter.com/gLRpere6Qr",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/Alstom/status/1636422807461728257/photo/1",
+                    "media_key": "3_1636422804038926338",
+                    "start": 260,
+                    "url": "https://t.co/gLRpere6Qr"
+                }
+            ]
+        },
+        "id": "1636422807461728257",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 37674,
+            "like_count": 39,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Happy to announce a new 7-year contract with @PANYNJ and @EWRairport valued at approximately \u20ac250 million to provide #operations &amp; #maintenance services for its Innovia monorail system, AirTrain Newark. \ud83d\ude9d\ud83c\udf89 Read more https://t.co/KKUy8xMwRy #AlstomServices https://t.co/gLRpere6Qr"
+    }
+}

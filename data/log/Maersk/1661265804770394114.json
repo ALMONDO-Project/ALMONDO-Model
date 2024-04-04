@@ -1,0 +1,81 @@
+{
+    "1661265804770394114": {
+        "attachments": {
+            "media_keys": [
+                "3_1661265800450256897"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-24T07:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1661265804770394114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 179,
+                    "normalized_text": "Breakbulk",
+                    "probability": 0.4807,
+                    "start": 171,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Rotterdam Ahoy",
+                    "probability": 0.5427,
+                    "start": 189,
+                    "type": "Place"
+                },
+                {
+                    "end": 279,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4486,
+                    "start": 274,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 180,
+                    "start": 170,
+                    "tag": "Breakbulk"
+                },
+                {
+                    "end": 280,
+                    "start": 273,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3MykXPM",
+                    "end": 272,
+                    "expanded_url": "https://bddy.me/3MykXPM",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/supply-chain-logistics/project-logistics?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_646B6E0ACACE9_646B6E7C3C138&utm_term=VOCP&utm_content=EUR_Breakbulk1",
+                    "url": "https://t.co/BsNFfvC8Sj"
+                },
+                {
+                    "display_url": "pic.twitter.com/oo4OAqDjtV",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Maersk/status/1661265804770394114/photo/1",
+                    "media_key": "3_1661265800450256897",
+                    "start": 281,
+                    "url": "https://t.co/oo4OAqDjtV"
+                }
+            ]
+        },
+        "id": "1661265804770394114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3075,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Project logistics facilitates big projects that can change countries for decades. Unlike most logistics projects, it starts backwards with an outcome. Visit our booth at #Breakbulk 2023 in Rotterdam Ahoy, from 6-8 June, 2023 &amp; get to know more: https://t.co/BsNFfvC8Sj #Maersk https://t.co/oo4OAqDjtV"
+    }
+}

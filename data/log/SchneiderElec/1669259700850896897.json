@@ -1,0 +1,78 @@
+{
+    "1669259700850896897": {
+        "author_id": "393757140",
+        "created_at": "2023-06-15T08:25:00.000Z",
+        "edit_history_tweet_ids": [
+            "1669259700850896897"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "CompoDrive",
+                    "probability": 0.8125,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "MV",
+                    "probability": 0.7254,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "SF6free",
+                    "probability": 0.8276,
+                    "start": 175,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 41,
+                    "tag": "MV"
+                },
+                {
+                    "end": 182,
+                    "start": 174,
+                    "tag": "SF6free"
+                },
+                {
+                    "end": 204,
+                    "start": 183,
+                    "tag": "InnovationIsInTheAir"
+                },
+                {
+                    "end": 214,
+                    "start": 205,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019OF7kb",
+                    "end": 171,
+                    "expanded_url": "http://spr.ly/6019OF7kb",
+                    "start": 148,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=UOvzbGZpp5Y",
+                    "url": "https://t.co/qtgPPgLnRh"
+                }
+            ]
+        },
+        "id": "1669259700850896897",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 670,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The CompoDrive operating mechanism takes #MV switchgear mechanical endurance  to a whole new level. Helping grids handle more DER. Watch the video. https://t.co/qtgPPgLnRh \n\n#SF6free #InnovationIsInTheAir #LifeIsOn"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1724887371701698911": {
+        "author_id": "194037150",
+        "created_at": "2023-11-15T20:29:30.000Z",
+        "edit_history_tweet_ids": [
+            "1724887371701698911"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 181,
+                    "normalized_text": "Novo Nordisk Social Media",
+                    "probability": 0.5423,
+                    "start": 157,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "14538233",
+                    "start": 0,
+                    "username": "GraceUnderFire"
+                }
+            ]
+        },
+        "id": "1724887371701698911",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 50,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@GraceUnderFire We take this situation very seriously and are doing everything we can to return to a stable supply situation as fast as possible. Thank you, Novo Nordisk Social Media (3/3)"
+    }
+}

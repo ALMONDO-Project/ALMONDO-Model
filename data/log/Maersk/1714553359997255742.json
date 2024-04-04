@@ -1,0 +1,68 @@
+{
+    "1714553359997255742": {
+        "attachments": {
+            "media_keys": [
+                "7_1714553015938519040"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-18T08:05:50.000Z",
+        "edit_history_tweet_ids": [
+            "1714553359997255742"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 191,
+                    "normalized_text": "Europe",
+                    "probability": 0.9529,
+                    "start": 186,
+                    "type": "Place"
+                },
+                {
+                    "end": 289,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5043,
+                    "start": 284,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 290,
+                    "start": 283,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ZYBkvi",
+                    "end": 282,
+                    "expanded_url": "https://bit.ly/3ZYBkvi",
+                    "start": 259,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/10/11/europe-market-update-october-23?utm_campaign=EURcustomercommunication&utm_source=twitter&utm_medium=direct_awareness&utm_content=",
+                    "url": "https://t.co/gZ7hHvxCNw"
+                },
+                {
+                    "display_url": "pic.twitter.com/3JpIa6vmDq",
+                    "end": 314,
+                    "expanded_url": "https://twitter.com/Maersk/status/1714553359997255742/video/1",
+                    "media_key": "7_1714553015938519040",
+                    "start": 291,
+                    "url": "https://t.co/3JpIa6vmDq"
+                }
+            ]
+        },
+        "id": "1714553359997255742",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3108,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Dive into the latest market insights &amp; trends in European logistics, vital for supplychain professionals and businesses in the region. Discover what's shaping the future of trade in Europe, get ahead of ocean, inland, &amp; air freight trends &amp; more:\u00a0https://t.co/gZ7hHvxCNw #Maersk https://t.co/3JpIa6vmDq"
+    }
+}

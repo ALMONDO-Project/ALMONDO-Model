@@ -1,0 +1,103 @@
+{
+    "1638498194664435712": {
+        "attachments": {
+            "media_keys": [
+                "3_1638497760545480705"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-22T11:09:46.000Z",
+        "edit_history_tweet_ids": [
+            "1638498194664435712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "ABB Formula E",
+                    "probability": 0.4555,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9815,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.5041,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "ElectricVehicles",
+                    "probability": 0.647,
+                    "start": 138,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 24,
+                    "tag": "energyefficiency"
+                },
+                {
+                    "end": 69,
+                    "start": 62,
+                    "tag": "Brazil"
+                },
+                {
+                    "end": 124,
+                    "start": 112,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 136,
+                    "start": 125,
+                    "tag": "motorsport"
+                },
+                {
+                    "end": 154,
+                    "start": 137,
+                    "tag": "ElectricVehicles"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/formula-e-moto\u2026",
+                    "end": 111,
+                    "expanded_url": "https://social.abb/formula-e-motorsport-brazil",
+                    "start": 88,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/101092/abb-formula-e-showcases-energy-efficiency-in-motorsport-crazy-brazil",
+                    "url": "https://t.co/NICmmuOJ4w"
+                },
+                {
+                    "display_url": "pic.twitter.com/jne0GvvWRc",
+                    "end": 178,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1638498194664435712/photo/1",
+                    "media_key": "3_1638497760545480705",
+                    "start": 155,
+                    "url": "https://t.co/jne0GvvWRc"
+                }
+            ]
+        },
+        "id": "1638498194664435712",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1755,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "ABB Formula E showcases #energyefficiency in motorsport crazy #Brazil. \u26a1\ud83c\udfce \ud83c\udde7\ud83c\uddf7\nRead more: https://t.co/NICmmuOJ4w\n#ABBFormulaE #motorsport #ElectricVehicles https://t.co/jne0GvvWRc"
+    }
+}

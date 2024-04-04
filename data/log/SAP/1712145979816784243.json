@@ -1,0 +1,39 @@
+{
+    "1712145979816784243": {
+        "author_id": "76117579",
+        "created_at": "2023-10-11T16:39:46.000Z",
+        "edit_history_tweet_ids": [
+            "1712145979816784243"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Dan",
+                    "probability": 0.6108,
+                    "start": 14,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "8479062",
+                    "start": 0,
+                    "username": "fromedome"
+                }
+            ]
+        },
+        "id": "1712145979816784243",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@fromedome Hi Dan \u2014 Thank you for your message. We're confirming that we've received your comment and will follow up with guidance."
+    }
+}

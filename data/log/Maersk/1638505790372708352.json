@@ -1,0 +1,94 @@
+{
+    "1638505790372708352": {
+        "attachments": {
+            "media_keys": [
+                "7_1638498057930063873"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-22T11:39:57.000Z",
+        "edit_history_tweet_ids": [
+            "1638505790372708352"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Mumbai",
+                    "probability": 0.9194,
+                    "start": 14,
+                    "type": "Place"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "Sukhwinder Kaur",
+                    "probability": 0.5019,
+                    "start": 22,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6055,
+                    "start": 154,
+                    "type": "Place"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "LifeatMaersk",
+                    "probability": 0.3024,
+                    "start": 244,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 160,
+                    "start": 153,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 256,
+                    "start": 243,
+                    "tag": "LifeatMaersk"
+                },
+                {
+                    "end": 264,
+                    "start": 257,
+                    "tag": "Career"
+                },
+                {
+                    "end": 275,
+                    "start": 265,
+                    "tag": "community"
+                },
+                {
+                    "end": 279,
+                    "start": 276,
+                    "tag": "CX"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/XIfF6ZQPAz",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1638505790372708352/video/1",
+                    "media_key": "7_1638498057930063873",
+                    "start": 280,
+                    "url": "https://t.co/XIfF6ZQPAz"
+                }
+            ]
+        },
+        "id": "1638505790372708352",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3596,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "Growing up in Mumbai, Sukhwinder Kaur collected funds for food and books to the students in the local schools\ud83d\udcdaToday, as a Customer Experience Manager at #Maersk, She has been given a wider platform to help local communities around the world.\n\n#LifeatMaersk #Career #community #CX https://t.co/XIfF6ZQPAz"
+    }
+}

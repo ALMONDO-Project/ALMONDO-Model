@@ -1,0 +1,72 @@
+{
+    "1664258863887966215": {
+        "attachments": {
+            "media_keys": [
+                "3_1664258860025012225"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-01T13:13:28.000Z",
+        "edit_history_tweet_ids": [
+            "1664258863887966215"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Pride",
+                    "probability": 0.5941,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "LGBT+",
+                    "probability": 0.851,
+                    "start": 164,
+                    "type": "Place"
+                },
+                {
+                    "end": 287,
+                    "normalized_text": "Pride2023",
+                    "probability": 0.822,
+                    "start": 279,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 224,
+                    "start": 210,
+                    "tag": "SEGreatPeople"
+                },
+                {
+                    "end": 288,
+                    "start": 278,
+                    "tag": "Pride2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wSL5tPyCFQ",
+                    "end": 312,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1664258863887966215/photo/1",
+                    "media_key": "3_1664258860025012225",
+                    "start": 289,
+                    "url": "https://t.co/wSL5tPyCFQ"
+                }
+            ]
+        },
+        "id": "1664258863887966215",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1103,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Happy Pride Month! In our strive to be the most inclusive &amp; caring company in the world, we challenge ourselves to increase awareness of the experiences of the LGBT+ community, &amp; actively challenge our #SEGreatPeople to be more open, to listen, learn, and act as allies #Pride2023 https://t.co/wSL5tPyCFQ"
+    }
+}

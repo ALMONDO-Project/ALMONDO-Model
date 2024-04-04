@@ -1,0 +1,80 @@
+{
+    "1667175978391486466": {
+        "attachments": {
+            "media_keys": [
+                "3_1667175975224745984"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-09T14:25:02.000Z",
+        "edit_history_tweet_ids": [
+            "1667175978391486466"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "EV",
+                    "probability": 0.4531,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "EVS36",
+                    "probability": 0.6908,
+                    "start": 115,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "eMobility",
+                    "probability": 0.5319,
+                    "start": 122,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 120,
+                    "start": 114,
+                    "tag": "EVS36"
+                },
+                {
+                    "end": 131,
+                    "start": 121,
+                    "tag": "eMobility"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6010Oa366",
+                    "end": 155,
+                    "expanded_url": "http://spr.ly/6010Oa366",
+                    "start": 132,
+                    "unwound_url": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fvideo%2Fevent%2Furn%3Ali%3AugcPost%3A7069718732226392066%2F&trk=login_reg_redirect",
+                    "url": "https://t.co/cjBGwAbctm"
+                },
+                {
+                    "display_url": "pic.twitter.com/NjzISZjUZj",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1667175978391486466/photo/1",
+                    "media_key": "3_1667175975224745984",
+                    "start": 156,
+                    "url": "https://t.co/NjzISZjUZj"
+                }
+            ]
+        },
+        "id": "1667175978391486466",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1572,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "How can open protocol shape the future of EV charging? Join us on June 15th 5 PM CET to learn more. Register here #EVS36 #eMobility https://t.co/cjBGwAbctm https://t.co/NjzISZjUZj"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "1621388070607011842": {
+        "attachments": {
+            "media_keys": [
+                "7_1621386893509251075"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-02-03T06:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1621388070607011842"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6295,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Coradia iLint",
+                    "probability": 0.695,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Quebec",
+                    "probability": 0.9947,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Americas",
+                    "probability": 0.8921,
+                    "start": 159,
+                    "type": "Place"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "greenhydrogen",
+                    "probability": 0.4191,
+                    "start": 223,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 94,
+                    "start": 85,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 133,
+                    "start": 126,
+                    "tag": "Quebec"
+                },
+                {
+                    "end": 183,
+                    "start": 177,
+                    "tag": "train"
+                },
+                {
+                    "end": 236,
+                    "start": 222,
+                    "tag": "greenhydrogen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/75Fy50MI9u9",
+                    "end": 273,
+                    "expanded_url": "http://ow.ly/75Fy50MI9u9",
+                    "start": 250,
+                    "url": "https://t.co/VmOTQNQljd"
+                },
+                {
+                    "display_url": "pic.twitter.com/LDhqyd231H",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Alstom/status/1621388070607011842/video/1",
+                    "media_key": "7_1621386893509251075",
+                    "start": 274,
+                    "url": "https://t.co/LDhqyd231H"
+                }
+            ]
+        },
+        "id": "1621388070607011842",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 11743,
+            "like_count": 46,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 13
+        },
+        "text": "Alstom has announced a passenger service demonstration project for its Coradia iLint #hydrogen-powered train. The province of #Quebec will be the first in the Americas to run a #train with zero direct emissions powered by #greenhydrogen.\nLearn more: https://t.co/VmOTQNQljd https://t.co/LDhqyd231H"
+    }
+}

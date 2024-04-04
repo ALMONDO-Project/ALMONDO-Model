@@ -1,0 +1,68 @@
+{
+    "1740280913760764054": {
+        "author_id": "393757140",
+        "created_at": "2023-12-28T07:57:57.000Z",
+        "edit_history_tweet_ids": [
+            "1740280913760764054"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "Manish Kumar",
+                    "probability": 0.9697,
+                    "start": 49,
+                    "type": "Person"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9731,
+                    "start": 63,
+                    "type": "Organization"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "EVP",
+                    "probability": 0.4169,
+                    "start": 84,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Digital Energy Division",
+                    "probability": 0.5293,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "The Economist",
+                    "probability": 0.8234,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/economistimpac\u2026",
+                    "end": 209,
+                    "expanded_url": "https://twitter.com/economistimpact/status/1725135377994829828",
+                    "start": 186,
+                    "url": "https://t.co/10DDK0F9Gs"
+                }
+            ]
+        },
+        "id": "1740280913760764054",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2103,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "What\u2019s the fastest way to decarbonize buildings? Manish Kumar, Schneider Electric\u2019s EVP of Digital Energy Division, shares a research-proven strategy in this article from The Economist. https://t.co/10DDK0F9Gs"
+    }
+}

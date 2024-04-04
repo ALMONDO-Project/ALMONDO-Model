@@ -1,0 +1,48 @@
+{
+    "1654131596826484736": {
+        "author_id": "23085995",
+        "created_at": "2023-05-04T14:31:19.000Z",
+        "edit_history_tweet_ids": [
+            "1654131596826484736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Mariia",
+                    "probability": 0.4794,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1437604705711140871",
+                    "start": 0,
+                    "username": "skorskamariia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 319,
+                    "expanded_url": "https://twitter.com/i/web/status/1654131596826484736",
+                    "start": 296,
+                    "url": "https://t.co/qjjrzuqcnR"
+                }
+            ]
+        },
+        "id": "1654131596826484736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 343,
+            "like_count": 0,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 0
+        },
+        "text": "@skorskamariia Dear Mariia, We take transparency seriously and want to report true progress and environmental impact, which is why we provide transparent reporting that's audited by independent third-parties. We are in dialogue regularly with many stakeholders through various platforms, forums\u2026 https://t.co/qjjrzuqcnR"
+    }
+}

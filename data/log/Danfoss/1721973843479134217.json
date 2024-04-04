@@ -1,0 +1,99 @@
+{
+    "1721973843479134217": {
+        "attachments": {
+            "media_keys": [
+                "3_1721973755239440384",
+                "3_1721973755373592576",
+                "3_1721973755541442560",
+                "3_1721973755679838208"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-11-07T19:32:11.000Z",
+        "edit_history_tweet_ids": [
+            "1721973843479134217"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "Denmark",
+                    "probability": 0.609,
+                    "start": 120,
+                    "type": "Place"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "London",
+                    "probability": 0.9738,
+                    "start": 131,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.4711,
+                    "start": 167,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 250,
+                    "start": 244,
+                    "tag": "WhyEE"
+                },
+                {
+                    "end": 268,
+                    "start": 251,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DYQ7WAffxI",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1721973843479134217/photo/1",
+                    "media_key": "3_1721973755239440384",
+                    "start": 269,
+                    "url": "https://t.co/DYQ7WAffxI"
+                },
+                {
+                    "display_url": "pic.twitter.com/DYQ7WAffxI",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1721973843479134217/photo/1",
+                    "media_key": "3_1721973755373592576",
+                    "start": 269,
+                    "url": "https://t.co/DYQ7WAffxI"
+                },
+                {
+                    "display_url": "pic.twitter.com/DYQ7WAffxI",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1721973843479134217/photo/1",
+                    "media_key": "3_1721973755541442560",
+                    "start": 269,
+                    "url": "https://t.co/DYQ7WAffxI"
+                },
+                {
+                    "display_url": "pic.twitter.com/DYQ7WAffxI",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1721973843479134217/photo/1",
+                    "media_key": "3_1721973755679838208",
+                    "start": 269,
+                    "url": "https://t.co/DYQ7WAffxI"
+                }
+            ]
+        },
+        "id": "1721973843479134217",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 499,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "How do we prepare our energy system for the era of renewables? \n\nThis was explored at a special event at the Embassy of Denmark in London today, marking the launch of Danfoss' new whitepaper which goes live tomorrow, November 8, at 09:00 CET.\n\n#WhyEE #EnergyEfficiency https://t.co/DYQ7WAffxI"
+    }
+}

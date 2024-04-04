@@ -1,0 +1,39 @@
+{
+    "1633040350624268290": {
+        "author_id": "194037150",
+        "created_at": "2023-03-07T09:42:14.000Z",
+        "edit_history_tweet_ids": [
+            "1633040350624268290"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Marc",
+                    "probability": 0.78,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "431660829",
+                    "start": 0,
+                    "username": "QuantumFish777"
+                }
+            ]
+        },
+        "id": "1633040350624268290",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 27,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@QuantumFish777 Hi Marc, we are sorry about the issue you\u2019re facing with our product and the inconvenience it causes you. Unfortunately, we\u2019re not allowed to discuss products on social media due to legal regulations, so please contact your doctor to discuss a treatment plan that fits your needs."
+    }
+}

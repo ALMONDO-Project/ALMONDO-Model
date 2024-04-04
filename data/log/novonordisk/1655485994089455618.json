@@ -1,0 +1,46 @@
+{
+    "1655485994089455618": {
+        "author_id": "194037150",
+        "created_at": "2023-05-08T08:13:13.000Z",
+        "edit_history_tweet_ids": [
+            "1655485994089455618"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 189,
+                    "normalized_text": "Asif",
+                    "probability": 0.3885,
+                    "start": 186,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.414,
+                    "start": 192,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "6566502",
+                    "start": 0,
+                    "username": "PeskyBulldog"
+                }
+            ]
+        },
+        "id": "1655485994089455618",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 82,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@PeskyBulldog Hi, I sincerely apologize for the issues that you are facing. Kindly DM your contact details so I can put you in contact with relevant colleagues. Thank you.\nKind regards,\nAsif, Novo Nordisk"
+    }
+}

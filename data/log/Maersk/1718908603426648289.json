@@ -1,0 +1,102 @@
+{
+    "1718908603426648289": {
+        "attachments": {
+            "media_keys": [
+                "7_1718908184688287744"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-30T08:32:01.000Z",
+        "edit_history_tweet_ids": [
+            "1718908603426648289"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Container Load",
+                    "probability": 0.5515,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5196,
+                    "start": 103,
+                    "type": "Person"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4256,
+                    "start": 152,
+                    "type": "Person"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "LCL",
+                    "probability": 0.5469,
+                    "start": 160,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 158,
+                    "start": 151,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 163,
+                    "start": 159,
+                    "tag": "LCL"
+                },
+                {
+                    "end": 172,
+                    "start": 164,
+                    "tag": "Digital"
+                },
+                {
+                    "end": 183,
+                    "start": 173,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 194,
+                    "start": 184,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/40iaMVZ",
+                    "end": 149,
+                    "expanded_url": "https://bit.ly/40iaMVZ",
+                    "start": 126,
+                    "unwound_url": "https://www.maersk.com/transportation-services/lcl/services?utm_campaign=GLOBAL_MCO_PROD_EN_DIGITAL-LCL-H2_1766168922165&utm_source=twitter&utm_medium=direct_awareness&utm_content=Phase1Drop1",
+                    "url": "https://t.co/Ea16rKBBdC"
+                },
+                {
+                    "display_url": "pic.twitter.com/sG85MgsU7G",
+                    "end": 218,
+                    "expanded_url": "https://twitter.com/Maersk/status/1718908603426648289/video/1",
+                    "media_key": "7_1718908184688287744",
+                    "start": 195,
+                    "url": "https://t.co/sG85MgsU7G"
+                }
+            ]
+        },
+        "id": "1718908603426648289",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2518,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Send your small shipment whenever you need\u00a0by easily booking your Less-than-Container Load online with Maersk.  \n\nLearn more: https://t.co/Ea16rKBBdC\n\n#Maersk #LCL #Digital #Logistics #AllTheWay https://t.co/sG85MgsU7G"
+    }
+}

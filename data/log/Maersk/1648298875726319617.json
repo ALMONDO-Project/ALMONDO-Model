@@ -1,0 +1,102 @@
+{
+    "1648298875726319617": {
+        "attachments": {
+            "media_keys": [
+                "3_1648298808206344192"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-18T12:14:10.000Z",
+        "edit_history_tweet_ids": [
+            "1648298875726319617"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "UPS Foundation",
+                    "probability": 0.4857,
+                    "start": 57,
+                    "type": "Organization"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "Kale Foundation",
+                    "probability": 0.4862,
+                    "start": 134,
+                    "type": "Other"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "T\u00fcrkiye",
+                    "probability": 0.8475,
+                    "start": 186,
+                    "type": "Place"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4614,
+                    "start": 252,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 258,
+                    "start": 251,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 270,
+                    "start": 259,
+                    "tag": "Airfreight"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 89,
+                    "id": "298058404",
+                    "start": 73,
+                    "username": "CoyoteLogistics"
+                },
+                {
+                    "end": 99,
+                    "id": "53135927",
+                    "start": 91,
+                    "username": "Good360"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/e8YBZamF",
+                    "end": 249,
+                    "expanded_url": "https://lnkd.in/e8YBZamF",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/18/logistics-providers-and-non-profits-unite-forces-to-send-donated-us-relief-supplies-to-turkish",
+                    "url": "https://t.co/9Sjx97AvGL"
+                },
+                {
+                    "display_url": "pic.twitter.com/KPwwNSwmNo",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1648298875726319617/photo/1",
+                    "media_key": "3_1648298808206344192",
+                    "start": 271,
+                    "url": "https://t.co/KPwwNSwmNo"
+                }
+            ]
+        },
+        "id": "1648298875726319617",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7043,
+            "like_count": 57,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Together we achieve more\ud83e\udd1d\nWe have joined forces with The UPS Foundation/ @CoyoteLogistics, @Good360, Lift Nonprofit Logistics and the Kale Foundation in transporting humanitarian aid to T\u00fcrkiye.\n\nRead full press release here: https://t.co/9Sjx97AvGL\n\n#Maersk #Airfreight https://t.co/KPwwNSwmNo"
+    }
+}

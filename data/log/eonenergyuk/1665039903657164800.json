@@ -1,0 +1,101 @@
+{
+    "1665039903657164800": {
+        "attachments": {
+            "media_keys": [
+                "3_1665039273265905664",
+                "3_1665039273760808961",
+                "3_1665039273928556546",
+                "3_1665039274213777412"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-06-03T16:57:02.000Z",
+        "edit_history_tweet_ids": [
+            "1665039903657164800"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": ".ON",
+                    "probability": 0.5121,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "F1",
+                    "probability": 0.5823,
+                    "start": 167,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 250,
+                    "start": 232,
+                    "tag": "PoweringTheFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 29,
+                    "id": "126718797",
+                    "start": 17,
+                    "username": "CovMotoFest"
+                },
+                {
+                    "end": 143,
+                    "id": "1161568956680941568",
+                    "start": 129,
+                    "username": "Veloce_Racing"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/KoakNaL6W8",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1665039903657164800/photo/1",
+                    "media_key": "3_1665039273265905664",
+                    "start": 251,
+                    "url": "https://t.co/KoakNaL6W8"
+                },
+                {
+                    "display_url": "pic.twitter.com/KoakNaL6W8",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1665039903657164800/photo/1",
+                    "media_key": "3_1665039273760808961",
+                    "start": 251,
+                    "url": "https://t.co/KoakNaL6W8"
+                },
+                {
+                    "display_url": "pic.twitter.com/KoakNaL6W8",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1665039903657164800/photo/1",
+                    "media_key": "3_1665039273928556546",
+                    "start": 251,
+                    "url": "https://t.co/KoakNaL6W8"
+                },
+                {
+                    "display_url": "pic.twitter.com/KoakNaL6W8",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1665039903657164800/photo/1",
+                    "media_key": "3_1665039274213777412",
+                    "start": 251,
+                    "url": "https://t.co/KoakNaL6W8"
+                }
+            ]
+        },
+        "id": "1665039903657164800",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1744,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "A sunny start to @CovMotoFest with the team showcasing E.ON's home energy solutions in the unmissable red tent \u26fa\u2600\ufe0f \nOur partners @Veloce_Racing showcasing their elite F1 racing with people lining up to compete for the fasest lap \ud83c\udfae\ud83d\ude97 #PoweringTheFuture https://t.co/KoakNaL6W8"
+    }
+}

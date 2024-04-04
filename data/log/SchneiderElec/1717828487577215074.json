@@ -1,0 +1,76 @@
+{
+    "1717828487577215074": {
+        "attachments": {
+            "media_keys": [
+                "3_1717828484871929856"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-10-27T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1717828487577215074"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "North America",
+                    "probability": 0.5245,
+                    "start": 94,
+                    "type": "Organization"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "WSJ Pro Sustainable Business Forum",
+                    "probability": 0.5782,
+                    "start": 157,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This conversation explores how the energy industry is responding and innovating to realize a more sustainable world through electrification and digitization.",
+                    "display_url": "spr.ly/6012ugwjp",
+                    "end": 216,
+                    "expanded_url": "http://spr.ly/6012ugwjp",
+                    "images": [
+                        {
+                            "height": 360,
+                            "url": "https://pbs.twimg.com/news_img/1723664733759528960/H8hhhOlV?format=png&name=orig",
+                            "width": 640
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1723664733759528960/H8hhhOlV?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 193,
+                    "status": 200,
+                    "title": "Paid Program: Moving from Ambition to Action to Achieve a More Sustainable Future",
+                    "unwound_url": "https://www.wsj.com/video/sponsored/moving-from-ambition-to-action-to-achieve-a-more-sustainable-future/E4B78A73-09D1-4BA4-8B79-C6C2856851A7.html",
+                    "url": "https://t.co/x3DhzABXRI"
+                },
+                {
+                    "display_url": "pic.twitter.com/06bFJqjPVy",
+                    "end": 240,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1717828487577215074/photo/1",
+                    "media_key": "3_1717828484871929856",
+                    "start": 217,
+                    "url": "https://t.co/06bFJqjPVy"
+                }
+            ]
+        },
+        "id": "1717828487577215074",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 644,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Hear interesting insights on digitization, demand-response, and virtual power plants from our North America CEO @AClaytonSE in this video interview from the WSJ Pro Sustainable Business Forum: https://t.co/x3DhzABXRI https://t.co/06bFJqjPVy"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1647925378453762049": {
+        "attachments": {
+            "media_keys": [
+                "3_1647925376050446336"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-17T11:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1647925378453762049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Sustainability",
+                    "probability": 0.5796,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Lighthouse factory",
+                    "probability": 0.4909,
+                    "start": 82,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 66,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 245,
+                    "start": 240,
+                    "tag": "HM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 138,
+                    "id": "23083866",
+                    "start": 123,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6013OMkM9",
+                    "end": 239,
+                    "expanded_url": "http://spr.ly/6013OMkM9",
+                    "start": 216,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/smart-factory/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9541891007&utm_campaign=Industry_of_the_Future&country=Global",
+                    "url": "https://t.co/pfOoJ6sjKP"
+                },
+                {
+                    "display_url": "pic.twitter.com/mo7E1K42Fs",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1647925378453762049/photo/1",
+                    "media_key": "3_1647925376050446336",
+                    "start": 246,
+                    "url": "https://t.co/mo7E1K42Fs"
+                }
+            ]
+        },
+        "id": "1647925378453762049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2157,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Want to know how to turn a 65-year-old factory into an efficient, #Sustainability Lighthouse factory? Come to our booth at @hannover_messe from Monday to Thursday at 15.00 (3 pm) for a live factory tour to find out. https://t.co/pfOoJ6sjKP #HM23 https://t.co/mo7E1K42Fs"
+    }
+}

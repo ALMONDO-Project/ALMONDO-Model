@@ -1,0 +1,83 @@
+{
+    "1618317066557325312": {
+        "author_id": "380801406",
+        "created_at": "2023-01-25T18:37:10.000Z",
+        "edit_history_tweet_ids": [
+            "1618317066557325312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3588,
+                    "start": 23,
+                    "type": "Person"
+                },
+                {
+                    "end": 33,
+                    "normalized_text": "MSC",
+                    "probability": 0.4734,
+                    "start": 31,
+                    "type": "Organization"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Johan Sigsgaard",
+                    "probability": 0.7758,
+                    "start": 92,
+                    "type": "Person"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3595,
+                    "start": 176,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 175,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 196,
+                    "start": 183,
+                    "tag": "shippingnews"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 126,
+                    "id": "1652541",
+                    "start": 118,
+                    "username": "Reuters"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "reut.rs/3R78Qvd",
+                    "end": 173,
+                    "expanded_url": "https://reut.rs/3R78Qvd",
+                    "start": 150,
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/business/autos-transportation/top-container-shippers-maersk-msc-end-alliance-2025-2023-01-25/",
+                    "url": "https://t.co/dzjC29aRlG"
+                }
+            ]
+        },
+        "id": "1618317066557325312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3777,
+            "like_count": 41,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Top container shippers Maersk, MSC to end 2M alliance from 2025. Our Head of Ocean Shipping Johan Sigsgaard speaks to @Reuters in an interview here \ud83d\udc47 https://t.co/dzjC29aRlG \n#Maersk #shippingnews"
+    }
+}

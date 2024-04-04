@@ -1,0 +1,76 @@
+{
+    "1654486497372897287": {
+        "attachments": {
+            "media_keys": [
+                "13_1654486127317856266"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-05-05T14:01:34.000Z",
+        "edit_history_tweet_ids": [
+            "1654486497372897287"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 173,
+                    "normalized_text": "DSM",
+                    "probability": 0.8133,
+                    "start": 171,
+                    "type": "Organization"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Systems",
+                    "probability": 0.4856,
+                    "start": 182,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 119,
+                    "id": "1752644041953644544",
+                    "start": 111,
+                    "username": "Teamdsm"
+                },
+                {
+                    "end": 142,
+                    "id": "1470793303",
+                    "start": 128,
+                    "username": "becky_storrie"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spkl.io/601345Rhc",
+                    "end": 278,
+                    "expanded_url": "http://spkl.io/601345Rhc",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.dsm.com/corporate/sustainability/nutrition-health/transforming-food-systems.html",
+                    "url": "https://t.co/e78VDOHHAF"
+                },
+                {
+                    "display_url": "pic.twitter.com/BrJCgfcmTP",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/DSM/status/1654486497372897287/video/1",
+                    "media_key": "13_1654486127317856266",
+                    "start": 279,
+                    "url": "https://t.co/BrJCgfcmTP"
+                }
+            ]
+        },
+        "id": "1654486497372897287",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6995,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "What we eat when we\u2019re young can set us up to fulfil our potential later in life. \ud83c\udf7d\ufe0f\n\nWatch our new video from @TeamDSM cyclist @becky_storrie and find out more about how DSM's Food Systems Commitments help create a brighter future for people and planet: https://t.co/e78VDOHHAF https://t.co/BrJCgfcmTP"
+    }
+}

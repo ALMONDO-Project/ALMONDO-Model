@@ -1,0 +1,69 @@
+{
+    "1703642561745670418": {
+        "attachments": {
+            "media_keys": [
+                "13_1703642513704185856"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-18T05:30:13.000Z",
+        "edit_history_tweet_ids": [
+            "1703642561745670418"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "David Witek",
+                    "probability": 0.6312,
+                    "start": 109,
+                    "type": "Other"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Arc Skoru Inc.,",
+                    "probability": 0.8097,
+                    "start": 126,
+                    "type": "Other"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.658,
+                    "start": 144,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6014P7YKA",
+                    "end": 244,
+                    "expanded_url": "http://spr.ly/l/6014P7YKA",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6014P7YKA",
+                    "url": "https://t.co/tSpG5PfsKS"
+                },
+                {
+                    "display_url": "pic.twitter.com/sR5hBB8rFi",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1703642561745670418/video/1",
+                    "media_key": "13_1703642513704185856",
+                    "start": 245,
+                    "url": "https://t.co/sR5hBB8rFi"
+                }
+            ]
+        },
+        "id": "1703642561745670418",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2562,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Passionate about sustainable building solutions? Join our insightful webinar on September 19 at 5PM CET with David Witek from Arc Skoru Inc., a Schneider Electric technology partner. Discover how we co-innovate to (cont) https://t.co/tSpG5PfsKS https://t.co/sR5hBB8rFi"
+    }
+}

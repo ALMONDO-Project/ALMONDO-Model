@@ -1,0 +1,62 @@
+{
+    "1641711936617234432": {
+        "attachments": {
+            "media_keys": [
+                "3_1641711933140131841"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-31T08:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1641711936617234432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "ParisMarathon",
+                    "probability": 0.5793,
+                    "start": 51,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 50,
+                    "tag": "ParisMarathon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014OBZ0a",
+                    "end": 207,
+                    "expanded_url": "http://spr.ly/6014OBZ0a",
+                    "start": 184,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/marathondeparis.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9289852031&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/1FjNuJxeBs"
+                },
+                {
+                    "display_url": "pic.twitter.com/JIRw3yrTnG",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1641711936617234432/photo/1",
+                    "media_key": "3_1641711933140131841",
+                    "start": 208,
+                    "url": "https://t.co/JIRw3yrTnG"
+                }
+            ]
+        },
+        "id": "1641711936617234432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1653,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "In just 2 days, around 50k runners will start the #ParisMarathon. Not everyone will make it to the podium. But in our book, everyone who takes on the challenge is already a winner! \ud83c\udfc5  https://t.co/1FjNuJxeBs https://t.co/JIRw3yrTnG"
+    }
+}

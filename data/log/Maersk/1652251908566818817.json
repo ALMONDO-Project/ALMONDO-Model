@@ -1,0 +1,98 @@
+{
+    "1652251908566818817": {
+        "attachments": {
+            "media_keys": [
+                "3_1652251902707376129"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-29T10:02:07.000Z",
+        "edit_history_tweet_ids": [
+            "1652251908566818817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Shashikant",
+                    "probability": 0.7516,
+                    "start": 10,
+                    "type": "Person"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Shashikant",
+                    "probability": 0.6551,
+                    "start": 108,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 46,
+                    "tag": "containers"
+                },
+                {
+                    "end": 215,
+                    "start": 203,
+                    "tag": "supplychain"
+                },
+                {
+                    "end": 228,
+                    "start": 221,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 238,
+                    "start": 229,
+                    "tag": "Seafarer"
+                },
+                {
+                    "end": 246,
+                    "start": 239,
+                    "tag": "Vessel"
+                },
+                {
+                    "end": 257,
+                    "start": 247,
+                    "tag": "Transport"
+                },
+                {
+                    "end": 268,
+                    "start": 258,
+                    "tag": "Container"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 45,
+                    "id": "380801406",
+                    "start": 38,
+                    "username": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/SH04gdFt6v",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Maersk/status/1652251908566818817/photo/1",
+                    "media_key": "3_1652251902707376129",
+                    "start": 269,
+                    "url": "https://t.co/SH04gdFt6v"
+                }
+            ]
+        },
+        "id": "1652251908566818817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4586,
+            "like_count": 70,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "\ud83d\udea2Seafarer Shashikant seen in front of @Maersk #containers after discharging all the reefers.\n\nWe agree with Shashikant that this place is like a superhero\u00b4s private underworld: The superheroes of global #supplychain\ud83d\udc4a\ud83d\udea2\ud83c\udf0d \n\n#Maersk #Seafarer #Vessel #Transport #Container https://t.co/SH04gdFt6v"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "1668540088597315585": {
+        "attachments": {
+            "media_keys": [
+                "13_1668539959412662278"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-06-13T08:45:31.000Z",
+        "edit_history_tweet_ids": [
+            "1668540088597315585"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9532,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "S\u00f8nderborg",
+                    "probability": 0.7556,
+                    "start": 39,
+                    "type": "Place"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9648,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.3474,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "CarbonNeutral Headquarters",
+                    "probability": 0.4645,
+                    "start": 130,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "S\u00f8nderborg",
+                    "probability": 0.3828,
+                    "start": 158,
+                    "type": "Organization"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "NetZero",
+                    "probability": 0.478,
+                    "start": 191,
+                    "type": "Organization"
+                },
+                {
+                    "end": 266,
+                    "normalized_text": "ProjectZero",
+                    "probability": 0.4488,
+                    "start": 256,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 129,
+                    "tag": "CarbonNeutral"
+                },
+                {
+                    "end": 198,
+                    "start": 190,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 224,
+                    "start": 207,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 267,
+                    "start": 255,
+                    "tag": "ProjectZero"
+                },
+                {
+                    "end": 275,
+                    "start": 269,
+                    "tag": "WhyEE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/P5lrfHtixY",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1668540088597315585/video/1",
+                    "media_key": "13_1668539959412662278",
+                    "start": 276,
+                    "url": "https://t.co/P5lrfHtixY"
+                }
+            ]
+        },
+        "id": "1668540088597315585",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 914,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Denmark\u2019s 200 Honorary Consuls came to S\u00f8nderborg, Denmark to visit 5 energy efficient solutions in the area, including Danfoss' #CarbonNeutral Headquarters. S\u00f8nderborg is on track to reach #NetZero putting #EnergyEfficiency first and working together in #ProjectZero. #WhyEE https://t.co/P5lrfHtixY"
+    }
+}

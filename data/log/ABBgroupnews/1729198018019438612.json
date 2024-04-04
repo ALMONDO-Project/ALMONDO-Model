@@ -1,0 +1,101 @@
+{
+    "1729198018019438612": {
+        "attachments": {
+            "media_keys": [
+                "7_1729197146732212224"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-11-27T17:58:29.000Z",
+        "edit_history_tweet_ids": [
+            "1729198018019438612"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "ABB",
+                    "probability": 0.6687,
+                    "start": 88,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "ABB_Ability",
+                    "probability": 0.7423,
+                    "start": 159,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 140,
+                    "start": 133,
+                    "tag": "mining"
+                },
+                {
+                    "end": 157,
+                    "start": 141,
+                    "tag": "betterdecisions"
+                },
+                {
+                    "end": 170,
+                    "start": 158,
+                    "tag": "ABB_Ability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "1124249762302189568",
+                    "start": 16,
+                    "username": "AurubisOlen"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "ABB Ability\u2122 Better decisions for water sustainability. Read how ABB helps Singapore\u2019s Public Utilities Bureau ensure water for the future.",
+                    "display_url": "social.abb/ability-aurubi\u2026",
+                    "end": 131,
+                    "expanded_url": "https://social.abb/ability-aurubis-olen",
+                    "images": [
+                        {
+                            "height": 450,
+                            "url": "https://pbs.twimg.com/news_img/1729198034897309696/2xwMd009?format=png&name=orig",
+                            "width": 900
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1729198034897309696/2xwMd009?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 108,
+                    "status": 200,
+                    "title": "Home - Aurubis Olen",
+                    "unwound_url": "https://stories.ability.abb.com/aurubis-olen/",
+                    "url": "https://t.co/45qqkc7hCn"
+                },
+                {
+                    "display_url": "pic.twitter.com/zSl0kE41LG",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1729198018019438612/video/1",
+                    "media_key": "7_1729197146732212224",
+                    "start": 171,
+                    "url": "https://t.co/zSl0kE41LG"
+                }
+            ]
+        },
+        "id": "1729198018019438612",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1638,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Copper producer @AurubisOlen boosts uptime by 10% with data insights and expertise from ABB.\nFind out more: https://t.co/45qqkc7hCn\n\n#mining #betterdecisions #ABB_Ability https://t.co/zSl0kE41LG"
+    }
+}

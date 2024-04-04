@@ -1,0 +1,89 @@
+{
+    "1691679284190974198": {
+        "attachments": {
+            "media_keys": [
+                "3_1691679191811391488"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-16T05:12:25.000Z",
+        "edit_history_tweet_ids": [
+            "1691679284190974198"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "South Africa",
+                    "probability": 0.9003,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Nokuphiwa Khumalo",
+                    "probability": 0.652,
+                    "start": 146,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 12,
+                    "tag": "WomensMonth"
+                },
+                {
+                    "end": 80,
+                    "start": 64,
+                    "tag": "Genderempowered"
+                },
+                {
+                    "end": 104,
+                    "start": 94,
+                    "tag": "Transport"
+                },
+                {
+                    "end": 121,
+                    "start": 111,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 280,
+                    "start": 273,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/dA-CRAqt",
+                    "end": 272,
+                    "expanded_url": "https://lnkd.in/dA-CRAqt",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/dA-CRAqt",
+                    "url": "https://t.co/ITwZ3fXt3K"
+                },
+                {
+                    "display_url": "pic.twitter.com/Z50BaiQEZ0",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Maersk/status/1691679284190974198/photo/1",
+                    "media_key": "3_1691679191811391488",
+                    "start": 281,
+                    "url": "https://t.co/Z50BaiQEZ0"
+                }
+            ]
+        },
+        "id": "1691679284190974198",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4305,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Celebrating #WomensMonth in South Africa!\ud83c\udf1f Recognized among top #Genderempowered Companies in #Transport &amp; #Logistics, we honor our colleague Nokuphiwa Khumalo, featured in Standard Bank Top Women Leaders 18th Edition for her impactful journey \ud83d\udc49https://t.co/ITwZ3fXt3K\n#Maersk https://t.co/Z50BaiQEZ0"
+    }
+}

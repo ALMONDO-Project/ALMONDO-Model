@@ -1,0 +1,95 @@
+{
+    "1643962512113647618": {
+        "attachments": {
+            "media_keys": [
+                "3_1643962502575734784",
+                "3_1643962502768631810",
+                "3_1643962503255212034",
+                "3_1643962504022839299"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-06T13:03:00.000Z",
+        "edit_history_tweet_ids": [
+            "1643962512113647618"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "FV Dosto",
+                    "probability": 0.5533,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Switzerland",
+                    "probability": 0.974,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "Venus",
+                    "probability": 0.3281,
+                    "start": 256,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 151,
+                    "id": "43882083",
+                    "start": 143,
+                    "username": "sbbnews"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/vmxh0d0jjX",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Alstom/status/1643962512113647618/photo/1",
+                    "media_key": "3_1643962502575734784",
+                    "start": 268,
+                    "url": "https://t.co/vmxh0d0jjX"
+                },
+                {
+                    "display_url": "pic.twitter.com/vmxh0d0jjX",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Alstom/status/1643962512113647618/photo/1",
+                    "media_key": "3_1643962502768631810",
+                    "start": 268,
+                    "url": "https://t.co/vmxh0d0jjX"
+                },
+                {
+                    "display_url": "pic.twitter.com/vmxh0d0jjX",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Alstom/status/1643962512113647618/photo/1",
+                    "media_key": "3_1643962503255212034",
+                    "start": 268,
+                    "url": "https://t.co/vmxh0d0jjX"
+                },
+                {
+                    "display_url": "pic.twitter.com/vmxh0d0jjX",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Alstom/status/1643962512113647618/photo/1",
+                    "media_key": "3_1643962504022839299",
+                    "start": 268,
+                    "url": "https://t.co/vmxh0d0jjX"
+                }
+            ]
+        },
+        "id": "1643962512113647618",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 9567,
+            "like_count": 69,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 16
+        },
+        "text": "Our FV Dosto is a real eye-catcher in Switzerland. But it doesn't just look great - it is one of the most reliable long-distance trains in the @sbbnews fleet. \n\nSince 2018, it has covered around 41 million km, roughly the distance from Earth to the planet Venus! \ud83c\udf0d \ud83d\udee4\ufe0f https://t.co/vmxh0d0jjX"
+    }
+}

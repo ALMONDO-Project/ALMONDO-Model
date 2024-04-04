@@ -1,0 +1,86 @@
+{
+    "1635908757111599104": {
+        "attachments": {
+            "media_keys": [
+                "13_1635908692670394368"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-03-15T07:40:16.000Z",
+        "edit_history_tweet_ids": [
+            "1635908757111599104"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 158,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.7149,
+                    "start": 152,
+                    "type": "Other"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "ESG",
+                    "probability": 0.6028,
+                    "start": 188,
+                    "type": "Other"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Danfoss2022",
+                    "probability": 0.6297,
+                    "start": 255,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 191,
+                    "start": 187,
+                    "tag": "ESG"
+                },
+                {
+                    "end": 208,
+                    "start": 192,
+                    "tag": "decarbonization"
+                },
+                {
+                    "end": 266,
+                    "start": 254,
+                    "tag": "Danfoss2022"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/41uCWgJ",
+                    "end": 253,
+                    "expanded_url": "https://bit.ly/41uCWgJ",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/annual-report-2022/?utm_source=social&utm_medium=twitter&utm_campaign=cf_annualreport2022&utm_content=post10",
+                    "url": "https://t.co/kaE8xhrlea"
+                },
+                {
+                    "display_url": "pic.twitter.com/fFEKAsKtdZ",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1635908757111599104/video/1",
+                    "media_key": "13_1635908692670394368",
+                    "start": 267,
+                    "url": "https://t.co/fFEKAsKtdZ"
+                }
+            ]
+        },
+        "id": "1635908757111599104",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 437,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We pioneer solutions for customers to enable decarbonization in an intelligent, cost-optimal manner and ensure carbon neutrality in our own operations. Danfoss has committed to ambitious #ESG #decarbonization targets. Read more: \nhttps://t.co/kaE8xhrlea #Danfoss2022 https://t.co/fFEKAsKtdZ"
+    }
+}

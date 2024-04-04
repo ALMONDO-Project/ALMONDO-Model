@@ -1,0 +1,79 @@
+{
+    "1658824880521977858": {
+        "attachments": {
+            "media_keys": [
+                "3_1658824874830311427"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-17T13:20:45.000Z",
+        "edit_history_tweet_ids": [
+            "1658824880521977858"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "TransportLogistic",
+                    "probability": 0.6509,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4103,
+                    "start": 150,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 3,
+                    "tag": "TransportLogistic"
+                },
+                {
+                    "end": 156,
+                    "start": 149,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 169,
+                    "start": 157,
+                    "tag": "supplychain"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/456MJeQ",
+                    "end": 276,
+                    "expanded_url": "https://bddy.me/456MJeQ",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/17/transport-logistic-2023-overcome-challenges-with-integrated-logistics?utm_source=Facebook_OwnedMedia&utm_medium=Organic&utm_campaign=M_63FC57B931E65_6463A1B43CA15&utm_term=TRCP&utm_content=EUR_Transport",
+                    "url": "https://t.co/H7V78TC9Le"
+                },
+                {
+                    "display_url": "pic.twitter.com/Hn3GZCQaNo",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658824880521977858/photo/1",
+                    "media_key": "3_1658824874830311427",
+                    "start": 277,
+                    "url": "https://t.co/Hn3GZCQaNo"
+                }
+            ]
+        },
+        "id": "1658824880521977858",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3366,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "At #TransportLogistic 2023, we had a great time offering visitors an immersive experience to discover new paths with truly integrated logistics. Our #Maersk #supplychain experts spoke with brands from various sectors &amp; shared their expertise. More: https://t.co/H7V78TC9Le https://t.co/Hn3GZCQaNo"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "1620078861110153216": {
+        "attachments": {
+            "media_keys": [
+                "3_1620078856592936960"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-30T15:17:54.000Z",
+        "edit_history_tweet_ids": [
+            "1620078861110153216"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Warehouse",
+                    "probability": 0.8097,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "North America",
+                    "probability": 0.9469,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3942,
+                    "start": 260,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "Warehouse"
+                },
+                {
+                    "end": 138,
+                    "start": 133,
+                    "tag": "data"
+                },
+                {
+                    "end": 266,
+                    "start": 259,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 278,
+                    "start": 267,
+                    "tag": "technology"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3RoFGry",
+                    "end": 257,
+                    "expanded_url": "https://bddy.me/3RoFGry",
+                    "start": 234,
+                    "url": "https://t.co/JKgMiDZcmt"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZoZPF4sqyk",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1620078861110153216/photo/1",
+                    "media_key": "3_1620078856592936960",
+                    "start": 279,
+                    "url": "https://t.co/ZoZPF4sqyk"
+                }
+            ]
+        },
+        "id": "1620078861110153216",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3660,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "#Warehouse drones deployed in North America for accurate, safe and speedy data delivery\u26a1 Moving between pallets to collect inventory #data, the drones will identify inventory errors and turn data into critical insights. Learn more  \ud83d\udc49 https://t.co/JKgMiDZcmt\n\n#Maersk #technology https://t.co/ZoZPF4sqyk"
+    }
+}

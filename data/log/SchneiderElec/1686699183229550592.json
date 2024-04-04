@@ -1,0 +1,86 @@
+{
+    "1686699183229550592": {
+        "attachments": {
+            "media_keys": [
+                "13_1686699112895225856"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-08-02T11:23:17.000Z",
+        "edit_history_tweet_ids": [
+            "1686699183229550592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "E.ON",
+                    "probability": 0.4687,
+                    "start": 40,
+                    "type": "Organization"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.4697,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "IoT",
+                    "probability": 0.6696,
+                    "start": 246,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 177,
+                    "start": 165,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 249,
+                    "start": 245,
+                    "tag": "IoT"
+                },
+                {
+                    "end": 259,
+                    "start": 250,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6017PZjsv",
+                    "end": 243,
+                    "expanded_url": "http://spr.ly/6017PZjsv",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=PY4M1xVbX1o&t=4s",
+                    "url": "https://t.co/qE57gN0mtD"
+                },
+                {
+                    "display_url": "pic.twitter.com/QgBsyZtTgc",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1686699183229550592/video/1",
+                    "media_key": "13_1686699112895225856",
+                    "start": 260,
+                    "url": "https://t.co/QgBsyZtTgc"
+                }
+            ]
+        },
+        "id": "1686699183229550592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1627,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "By 2025, the Swedish energy distributor E.ON wants to be a fossil fuel and greenhouse gas-free company. This innovative, insulated with pure air switchgear, part of #EcoStruxure Grid, is helping them get there. See how. https://t.co/qE57gN0mtD\n\n#IoT #LifeIsOn https://t.co/QgBsyZtTgc"
+    }
+}

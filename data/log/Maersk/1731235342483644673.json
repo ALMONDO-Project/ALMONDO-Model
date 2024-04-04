@@ -1,0 +1,107 @@
+{
+    "1731235342483644673": {
+        "author_id": "380801406",
+        "created_at": "2023-12-03T08:54:05.000Z",
+        "edit_history_tweet_ids": [
+            "1731235342483644673"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 111,
+                    "normalized_text": "Vincent Clerc",
+                    "probability": 0.6777,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Mitsui O.S.K. Lines",
+                    "probability": 0.7708,
+                    "start": 119,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Takeshi Hashimoto",
+                    "probability": 0.6305,
+                    "start": 143,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "maersk",
+                    "probability": 0.485,
+                    "start": 206,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 66,
+                    "start": 52,
+                    "tag": "decarbonizing"
+                },
+                {
+                    "end": 80,
+                    "start": 71,
+                    "tag": "maritime"
+                },
+                {
+                    "end": 212,
+                    "start": 205,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 224,
+                    "start": 213,
+                    "tag": "greenfuels"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 204,
+                    "id": "5120691",
+                    "start": 200,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Advancing and scaling the supply of green fuels to decarbonize the maritime sector demands government action and policy measures to help close the price gap. #COP28",
+                    "display_url": "weforum.org/agenda/2023/12\u2026",
+                    "end": 195,
+                    "expanded_url": "https://www.weforum.org/agenda/2023/12/closing-price-gap-green-fuels-decarbonize-maritime-sector/",
+                    "images": [
+                        {
+                            "height": 534,
+                            "url": "https://pbs.twimg.com/news_img/1756013092431974401/SACTfgj4?format=jpg&name=orig",
+                            "width": 800
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1756013092431974401/SACTfgj4?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 172,
+                    "status": 200,
+                    "title": "Closing the green fuels price gap can decarbonize maritime sector",
+                    "unwound_url": "https://www.weforum.org/agenda/2023/12/closing-price-gap-green-fuels-decarbonize-maritime-sector/",
+                    "url": "https://t.co/QrDVmV6GSF"
+                }
+            ]
+        },
+        "id": "1731235342483644673",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3328,
+            "like_count": 35,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "Why closing the price gap for green fuels is key to #decarbonizing the #maritime sector \ud83d\udef3. Our CEO Vincent Clerc &amp; Mitsui O.S.K. Lines CEO Takeshi Hashimoto blog here: https://t.co/QrDVmV6GSF via @wef #maersk #greenfuels"
+    }
+}

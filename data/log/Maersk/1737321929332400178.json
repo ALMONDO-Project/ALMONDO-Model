@@ -1,0 +1,90 @@
+{
+    "1737321929332400178": {
+        "attachments": {
+            "media_keys": [
+                "3_1737205357578240000"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-20T04:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1737321929332400178"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Maersk Spot",
+                    "probability": 0.7459,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Maersk App",
+                    "probability": 0.9152,
+                    "start": 109,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "MaerskSpot",
+                    "probability": 0.8418,
+                    "start": 237,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 247,
+                    "start": 236,
+                    "tag": "MaerskSpot"
+                },
+                {
+                    "end": 255,
+                    "start": 248,
+                    "tag": "Alerts"
+                },
+                {
+                    "end": 266,
+                    "start": 256,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 277,
+                    "start": 267,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/472rE4R",
+                    "end": 234,
+                    "expanded_url": "https://bit.ly/472rE4R",
+                    "start": 211,
+                    "unwound_url": "https://www.maersk.com/transportation-services/maersk-spot/alerts?utm_campaign=GLOBAL_MCO_PROD_EN_SPOTALERTS12-23_1020377698274&utm_source=twitter&utm_medium=direct_awareness&utm_content=Drop1",
+                    "url": "https://t.co/9sFzeQxewD"
+                },
+                {
+                    "display_url": "pic.twitter.com/2QYQVJiMdP",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1737321929332400178/photo/1",
+                    "media_key": "3_1737205357578240000",
+                    "start": 278,
+                    "url": "https://t.co/2QYQVJiMdP"
+                }
+            ]
+        },
+        "id": "1737321929332400178",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3252,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Save time and secure space early for your spot freight with Maersk Spot Alerts. The latest update to hit the Maersk App, gives you instant alerts when we open for bookings on your preferred routes.\n\nLearn more: https://t.co/9sFzeQxewD\n\n#MaerskSpot #Alerts #Logistics #AllTheWay https://t.co/2QYQVJiMdP"
+    }
+}

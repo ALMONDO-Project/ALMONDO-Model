@@ -1,0 +1,69 @@
+{
+    "1722916567413915761": {
+        "attachments": {
+            "media_keys": [
+                "13_1722916508974620672"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-11-10T09:58:14.000Z",
+        "edit_history_tweet_ids": [
+            "1722916567413915761"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "ABAP",
+                    "probability": 0.4657,
+                    "start": 0,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "ABAP, SAP\u2019s first and only programming language, is turning 40 years old. Read more about its history and its future.",
+                    "display_url": "sap.to/6017utWFW",
+                    "end": 168,
+                    "expanded_url": "https://sap.to/6017utWFW",
+                    "images": [
+                        {
+                            "height": 934,
+                            "url": "https://pbs.twimg.com/news_img/1722916577287274496/r_3a7Bjk?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1722916577287274496/r_3a7Bjk?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 145,
+                    "status": 200,
+                    "title": "Celebrating ABAP as SAP's Programming Language Turns 40",
+                    "unwound_url": "https://news.sap.com/2023/10/celebrating-abap-programming-language-turns-40/?source=Developer_Community-Collaborate-Reel-Audience_Engagement_%2F_Develop_Community-Global-SAP_News&campaigncode=CRM-YA23-SMS-1941768&sprinklrid=11766324411",
+                    "url": "https://t.co/ibTmvh8uvu"
+                },
+                {
+                    "display_url": "pic.twitter.com/GQG5BL4aMf",
+                    "end": 192,
+                    "expanded_url": "https://twitter.com/SAP/status/1722916567413915761/video/1",
+                    "media_key": "13_1722916508974620672",
+                    "start": 169,
+                    "url": "https://t.co/GQG5BL4aMf"
+                }
+            ]
+        },
+        "id": "1722916567413915761",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 21,
+            "impression_count": 22010,
+            "like_count": 190,
+            "quote_count": 14,
+            "reply_count": 10,
+            "retweet_count": 51
+        },
+        "text": "ABAP, our iconic programming language, reaches a momentous 40th anniversary this year. \ud83c\udf8a\n\nTake a look back at its history and toward its future: https://t.co/ibTmvh8uvu https://t.co/GQG5BL4aMf"
+    }
+}

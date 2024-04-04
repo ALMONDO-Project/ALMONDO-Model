@@ -1,0 +1,53 @@
+{
+    "1622624974514036736": {
+        "attachments": {
+            "media_keys": [
+                "7_1622624067403628546"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-02-06T15:55:15.000Z",
+        "edit_history_tweet_ids": [
+            "1622624974514036736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Greenhouse",
+                    "probability": 0.3023,
+                    "start": 13,
+                    "type": "Place"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Colorado",
+                    "probability": 0.8915,
+                    "start": 75,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/dFqfsoqS8Z",
+                    "end": 110,
+                    "expanded_url": "https://twitter.com/Danone/status/1622624974514036736/video/1",
+                    "media_key": "7_1622624067403628546",
+                    "start": 87,
+                    "url": "https://t.co/dFqfsoqS8Z"
+                }
+            ]
+        },
+        "id": "1622624974514036736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 413,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Focus on the Greenhouse technical innovation center located in Louisville, Colorado \ud83c\uddfa\ud83c\uddf8 https://t.co/dFqfsoqS8Z"
+    }
+}

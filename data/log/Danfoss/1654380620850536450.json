@@ -1,0 +1,92 @@
+{
+    "1654380620850536450": {
+        "attachments": {
+            "media_keys": [
+                "13_1654380430546677762"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-05-05T07:00:51.000Z",
+        "edit_history_tweet_ids": [
+            "1654380620850536450"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "CO2",
+                    "probability": 0.56,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "ESG",
+                    "probability": 0.3142,
+                    "start": 175,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 178,
+                    "start": 174,
+                    "tag": "ESG"
+                },
+                {
+                    "end": 195,
+                    "start": 179,
+                    "tag": "Decarbonization"
+                },
+                {
+                    "end": 212,
+                    "start": 196,
+                    "tag": "GreenTransition"
+                },
+                {
+                    "end": 219,
+                    "start": 213,
+                    "tag": "WhyEE"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 72,
+                    "id": "90463029",
+                    "start": 61,
+                    "username": "Danfoss_NA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3NEjqdh",
+                    "end": 173,
+                    "expanded_url": "https://bit.ly/3NEjqdh",
+                    "start": 150,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/en-us/about-danfoss/news/cf/danfoss-to-power-all-north-america-facilities-with-solar-energy-by-2025/",
+                    "url": "https://t.co/B7b4mc7T3w"
+                },
+                {
+                    "display_url": "pic.twitter.com/STdtwKX5DW",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1654380620850536450/video/1",
+                    "media_key": "13_1654380430546677762",
+                    "start": 220,
+                    "url": "https://t.co/STdtwKX5DW"
+                }
+            ]
+        },
+        "id": "1654380620850536450",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 415,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Good news for the climate: Our 36 factories and locations in @Danfoss_NA will cut 75% off their CO2 emissions in one go from 2025 onwards. Read more: https://t.co/B7b4mc7T3w #ESG #Decarbonization #GreenTransition #WhyEE https://t.co/STdtwKX5DW"
+    }
+}

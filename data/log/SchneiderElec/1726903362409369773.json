@@ -1,0 +1,86 @@
+{
+    "1726903362409369773": {
+        "attachments": {
+            "media_keys": [
+                "13_1726903290309279745"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-21T10:00:20.000Z",
+        "edit_history_tweet_ids": [
+            "1726903362409369773"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 138,
+                    "normalized_text": "IIoT",
+                    "probability": 0.6055,
+                    "start": 135,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 219,
+                    "start": 203,
+                    "tag": "WaterManagement"
+                },
+                {
+                    "end": 225,
+                    "start": 220,
+                    "tag": "IIoT"
+                },
+                {
+                    "end": 237,
+                    "start": 226,
+                    "tag": "Efficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Read about how digitizing operations and using intelligent monitoring helped an Italian utility reduce water losses and boost earnings.",
+                    "display_url": "spr.ly/6005uag8F",
+                    "end": 202,
+                    "expanded_url": "http://spr.ly/6005uag8F",
+                    "images": [
+                        {
+                            "height": 1707,
+                            "url": "https://pbs.twimg.com/news_img/1766052159412408320/cEx5an0v?format=jpg&name=orig",
+                            "width": 2560
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1766052159412408320/cEx5an0v?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 179,
+                    "status": 200,
+                    "title": "How one utility reduced non-revenue water with intelligent monitoring",
+                    "unwound_url": "https://blog.se.com/industry/water-and-wastewater/2023/09/12/how-one-utility-reduced-non-revenue-water-with-intelligent-monitoring/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=2023nov_ww_ia_industries_of_the_future",
+                    "url": "https://t.co/ouvwMcmuxu"
+                },
+                {
+                    "display_url": "pic.twitter.com/qxgjWmIZ7i",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1726903362409369773/video/1",
+                    "media_key": "13_1726903290309279745",
+                    "start": 238,
+                    "url": "https://t.co/qxgjWmIZ7i"
+                }
+            ]
+        },
+        "id": "1726903362409369773",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 885,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Discover how the water industry achieves real-time efficiency and seamless operations monitoring through the integration of telemetry, IIoT innovations, and cloud-based analytics https://t.co/ouvwMcmuxu #WaterManagement #IIoT #Efficiency https://t.co/qxgjWmIZ7i"
+    }
+}

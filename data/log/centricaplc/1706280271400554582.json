@@ -1,0 +1,115 @@
+{
+    "1706280271400554582": {
+        "attachments": {
+            "media_keys": [
+                "3_1706277471962664960"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-09-25T12:11:32.000Z",
+        "edit_history_tweet_ids": [
+            "1706280271400554582"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Centrica",
+                    "probability": 0.321,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Steve Petrie",
+                    "probability": 0.6536,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Lib",
+                    "probability": 0.4841,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4999,
+                    "start": 93,
+                    "type": "Organization"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Lord Teverson",
+                    "probability": 0.505,
+                    "start": 187,
+                    "type": "Other"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "GMB",
+                    "probability": 0.3716,
+                    "start": 219,
+                    "type": "Organization"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Stephen Gosling",
+                    "probability": 0.6086,
+                    "start": 251,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 100,
+                    "start": 92,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 144,
+                    "id": "5680622",
+                    "start": 136,
+                    "username": "LibDems"
+                },
+                {
+                    "end": 180,
+                    "id": "19915728",
+                    "start": 166,
+                    "username": "Wera_Hobhouse"
+                },
+                {
+                    "end": 211,
+                    "id": "127257025",
+                    "start": 202,
+                    "username": "andygpuk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/d0k7mAaGoj",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1706280271400554582/photo/1",
+                    "media_key": "3_1706277471962664960",
+                    "start": 268,
+                    "url": "https://t.co/d0k7mAaGoj"
+                }
+            ]
+        },
+        "id": "1706280271400554582",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 490,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Centrica's Professor Steve Petrie speaks at the Lib Dem conference on our role in achieving #NetZero and creating green jobs, joined by @LibDems  energy spokespeople @Wera_Hobhouse &amp; Lord Teverson, @andygpuk of the GMB and Business Network Chair, Stephen Gosling. https://t.co/d0k7mAaGoj"
+    }
+}

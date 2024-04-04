@@ -1,0 +1,87 @@
+{
+    "1720048117071188131": {
+        "attachments": {
+            "media_keys": [
+                "7_1720017458814140416"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-02T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1720048117071188131"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "G\u00fclbudak",
+                    "probability": 0.5589,
+                    "start": 45,
+                    "type": "Person"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7073,
+                    "start": 60,
+                    "type": "Person"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Apple",
+                    "probability": 0.3791,
+                    "start": 169,
+                    "type": "Organization"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.4967,
+                    "start": 266,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 264,
+                    "start": 254,
+                    "tag": "AllTheWay"
+                },
+                {
+                    "end": 278,
+                    "start": 265,
+                    "tag": "MaerskEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/45Y1L5U",
+                    "end": 253,
+                    "expanded_url": "https://bit.ly/45Y1L5U",
+                    "start": 230,
+                    "unwound_url": "https://www.maersk.com/local-information/europe/cold-chain-logistics/cold-chain-solutions/a-bountiful-harvest?utm_campaign=EUR_MCO_COLDCHAIN_EN_GULBUDAK_CASE_STUDY&utm_source=twitter&utm_medium=direct_awareness&utm_content=COLDCHAIN_Gulbudak_SoMe2",
+                    "url": "https://t.co/YIlDdN7sz8"
+                },
+                {
+                    "display_url": "pic.twitter.com/BcKZJGVb7Y",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1720048117071188131/video/1",
+                    "media_key": "7_1720017458814140416",
+                    "start": 279,
+                    "url": "https://t.co/BcKZJGVb7Y"
+                }
+            ]
+        },
+        "id": "1720048117071188131",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2722,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Unlock the mysteries of Nature's bounty with G\u00fclbudak &amp; Maersk: Discover the art of preserving freshness in every juicy bite. Explore the enchanting tale of Turkish Apple magic made possible thanks to trust and partnership at https://t.co/YIlDdN7sz8 #AllTheWay #MaerskEurope https://t.co/BcKZJGVb7Y"
+    }
+}

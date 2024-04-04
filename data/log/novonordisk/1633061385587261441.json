@@ -1,0 +1,45 @@
+{
+    "1633061385587261441": {
+        "author_id": "194037150",
+        "created_at": "2023-03-07T11:05:49.000Z",
+        "edit_history_tweet_ids": [
+            "1633061385587261441"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "PRESS",
+                    "probability": 0.3617,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6601,
+                    "start": 7,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "PRESS"
+                }
+            ]
+        },
+        "id": "1633061385587261441",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5448,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "#PRESS Novo Nordisk announces changes in Executive Management"
+    }
+}

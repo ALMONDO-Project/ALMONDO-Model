@@ -1,0 +1,74 @@
+{
+    "1663419065514225664": {
+        "attachments": {
+            "media_keys": [
+                "3_1663419061626126337"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-30T05:36:24.000Z",
+        "edit_history_tweet_ids": [
+            "1663419065514225664"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "Gartner Supply Chain Symposium",
+                    "probability": 0.6481,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4186,
+                    "start": 264,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 33,
+                    "tag": "Gartner"
+                },
+                {
+                    "end": 270,
+                    "start": 263,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/45AQIAq",
+                    "end": 262,
+                    "expanded_url": "https://bddy.me/45AQIAq",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/17/collaborate-to-achieve-sustainability-through-end-to-end-visibility?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_6455520E75908_646F5808956FE&utm_term=VOCP&utm_content=EUR_Garner2",
+                    "url": "https://t.co/b6VgQMLcMd"
+                },
+                {
+                    "display_url": "pic.twitter.com/af1WeWFrSQ",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1663419065514225664/photo/1",
+                    "media_key": "3_1663419061626126337",
+                    "start": 271,
+                    "url": "https://t.co/af1WeWFrSQ"
+                }
+            ]
+        },
+        "id": "1663419065514225664",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3282,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Join our speaking session at the #Gartner Supply Chain Symposium/Xpo\u2122 2023 conference, we\u2019ll explore big ideas and deliver actionable insights on Decarbonizing your supply chain: From gaining visibility to reducing emission. More info: \ud83d\udc49\ud83c\udffd https://t.co/b6VgQMLcMd #Maersk https://t.co/af1WeWFrSQ"
+    }
+}

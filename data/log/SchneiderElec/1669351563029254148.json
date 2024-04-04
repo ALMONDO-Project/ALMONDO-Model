@@ -1,0 +1,74 @@
+{
+    "1669351563029254148": {
+        "attachments": {
+            "media_keys": [
+                "3_1669351557094346762"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-15T14:30:02.000Z",
+        "edit_history_tweet_ids": [
+            "1669351563029254148"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "DocuSign",
+                    "probability": 0.7838,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "GreenIT",
+                    "probability": 0.559,
+                    "start": 108,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 115,
+                    "start": 107,
+                    "tag": "GreenIT"
+                },
+                {
+                    "end": 277,
+                    "start": 262,
+                    "tag": "Sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014ONRcg",
+                    "end": 261,
+                    "expanded_url": "http://spr.ly/6014ONRcg",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.docusign.com/blog/customer-award-winners",
+                    "url": "https://t.co/NQ5djXN4fl"
+                },
+                {
+                    "display_url": "pic.twitter.com/eX08vlqMDP",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1669351563029254148/photo/1",
+                    "media_key": "3_1669351557094346762",
+                    "start": 278,
+                    "url": "https://t.co/eX08vlqMDP"
+                }
+            ]
+        },
+        "id": "1669351563029254148",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1744,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "As an impact company, we have been awarded for our exceptional use of DocuSign solutions. In line with our #GreenIT strategy, we strive to continuously enhance the way we manage the agreements with employees, customers, and stakeholders: https://t.co/NQ5djXN4fl\n#Sustainability https://t.co/eX08vlqMDP"
+    }
+}

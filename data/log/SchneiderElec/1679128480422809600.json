@@ -1,0 +1,56 @@
+{
+    "1679128480422809600": {
+        "author_id": "393757140",
+        "created_at": "2023-07-12T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1679128480422809600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "International EcoXpert Panel Builder",
+                    "probability": 0.6542,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Paris",
+                    "probability": 0.9883,
+                    "start": 100,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 139,
+                    "start": 124,
+                    "tag": "sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019PMTol",
+                    "end": 260,
+                    "expanded_url": "http://spr.ly/6019PMTol",
+                    "start": 237,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=AWKLoL_UkRM&ab_channel=SchneiderElectric",
+                    "url": "https://t.co/rsNpGRaGqJ"
+                }
+            ]
+        },
+        "id": "1679128480422809600",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1620,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "We are thrilled to share the highlights from the International EcoXpert Panel Builder event held in Paris. From sessions on #sustainability, software and innovations for growth, the event delved into the pillars of green consciousness.  https://t.co/rsNpGRaGqJ"
+    }
+}

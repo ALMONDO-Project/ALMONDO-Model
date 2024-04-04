@@ -1,0 +1,114 @@
+{
+    "1702599013650813358": {
+        "attachments": {
+            "media_keys": [
+                "7_1702598256725790720"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-09-15T08:23:32.000Z",
+        "edit_history_tweet_ids": [
+            "1702599013650813358"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "ABB",
+                    "probability": 0.4436,
+                    "start": 10,
+                    "type": "Organization"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Europe",
+                    "probability": 0.9687,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "ABB",
+                    "probability": 0.471,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Sweden",
+                    "probability": 0.9888,
+                    "start": 109,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "AI",
+                    "probability": 0.7791,
+                    "start": 142,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 98,
+                    "start": 89,
+                    "tag": "robotics"
+                },
+                {
+                    "end": 189,
+                    "start": 182,
+                    "tag": "robots"
+                },
+                {
+                    "end": 251,
+                    "start": 240,
+                    "tag": "automation"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "65,000 m 2 integrated Robotics Campus replaces existing site bringing together automated manufacturing, R & D, customer experience and training centers to develop next generation AI-enabled technologies, strengthening the company\u2019s global leadership Campus will strengthen ABB\u2019s \u201clocal for local\u201d set up increasing production capacity by 50% to enhance ABB\u2019s ability to meet growing demand for flexible automation and robotics solutions close to its European customers ABB today announce d an investment of",
+                    "display_url": "social.abb/robotics-campu\u2026",
+                    "end": 277,
+                    "expanded_url": "https://social.abb/robotics-campus-Sweden-x",
+                    "images": [
+                        {
+                            "height": 432,
+                            "url": "https://pbs.twimg.com/news_img/1718613806082064384/xDvpRfh2?format=jpg&name=orig",
+                            "width": 768
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1718613806082064384/xDvpRfh2?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 254,
+                    "status": 200,
+                    "title": "ABB to invest $280 million in its European Robotics hub in Sweden",
+                    "unwound_url": "https://new.abb.com/news/detail/107115/abb-to-invest-280-million-in-its-european-robotics-hub-in-sweden?utm_source=twitter2&utm_medium=social&utm_campaign=libra_pr_09_2023",
+                    "url": "https://t.co/SUB1Es3Tnp"
+                },
+                {
+                    "display_url": "pic.twitter.com/muOi4Lz8i4",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1702599013650813358/video/1",
+                    "media_key": "7_1702598256725790720",
+                    "start": 278,
+                    "url": "https://t.co/muOi4Lz8i4"
+                }
+            ]
+        },
+        "id": "1702599013650813358",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1953,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Expanding ABB's manufacturing footprint in Europe.\nABB will build a new state-of-the-art #robotics campus in Sweden, providing customers with AI-enabled collaborative and industrial #robots, as well as digital solutions to support flexible #automation.\n\ud83d\udc49https://t.co/SUB1Es3Tnp https://t.co/muOi4Lz8i4"
+    }
+}

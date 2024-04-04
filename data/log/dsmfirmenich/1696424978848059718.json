@@ -1,0 +1,84 @@
+{
+    "1696424978848059718": {
+        "attachments": {
+            "media_keys": [
+                "3_1696424957725532160"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-08-29T07:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1696424978848059718"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "AI",
+                    "probability": 0.5604,
+                    "start": 41,
+                    "type": "Organization"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Jes\u00fas S\u00e1nchez Mesa",
+                    "probability": 0.77,
+                    "start": 109,
+                    "type": "Person"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "-firmenich",
+                    "probability": 0.5179,
+                    "start": 134,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 40,
+                    "tag": "AI"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 247,
+                    "id": "74453123",
+                    "start": 234,
+                    "username": "LaVanguardia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/45mgk3E",
+                    "end": 272,
+                    "expanded_url": "https://bit.ly/45mgk3E",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.lavanguardia.com/economia/20230717/9114690/inteligencia-artificial-revoluciona-negocios-brl.amp.html",
+                    "url": "https://t.co/JbxRC9QoeJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/u4veXbCBzT",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1696424978848059718/photo/1",
+                    "media_key": "3_1696424957725532160",
+                    "start": 273,
+                    "url": "https://t.co/u4veXbCBzT"
+                }
+            ]
+        },
+        "id": "1696424978848059718",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 609,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019ve already created the world\u2019s first #AI-generated flavor\u2026 \ud83c\udf54 but where else will the technology take us?\n\nJes\u00fas S\u00e1nchez Mesa at dsm-firmenich thinks it will make the employee of the future a \u201csuperhero\u201d! Read more in this article: @LaVanguardia: https://t.co/JbxRC9QoeJ https://t.co/u4veXbCBzT"
+    }
+}

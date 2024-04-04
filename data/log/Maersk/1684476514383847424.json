@@ -1,0 +1,117 @@
+{
+    "1684476514383847424": {
+        "attachments": {
+            "media_keys": [
+                "3_1684476469026717697",
+                "3_1684476469177614338",
+                "3_1684476469278306306",
+                "3_1684476469416787968"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-27T08:11:11.000Z",
+        "edit_history_tweet_ids": [
+            "1684476514383847424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 120,
+                    "normalized_text": "Singapore",
+                    "probability": 0.9631,
+                    "start": 112,
+                    "type": "Place"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Copenhagen",
+                    "probability": 0.979,
+                    "start": 136,
+                    "type": "Place"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3127,
+                    "start": 235,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 18,
+                    "tag": "containervessel"
+                },
+                {
+                    "end": 241,
+                    "start": 234,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 258,
+                    "start": 242,
+                    "tag": "Allthewaytozero"
+                },
+                {
+                    "end": 275,
+                    "start": 259,
+                    "tag": "Decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/all-the-way-to\u2026",
+                    "end": 233,
+                    "expanded_url": "https://www.maersk.com/all-the-way-to-zero/",
+                    "start": 210,
+                    "unwound_url": "https://www.maersk.com/all-the-way-to-zero/",
+                    "url": "https://t.co/jBBFrM8KGP"
+                },
+                {
+                    "display_url": "pic.twitter.com/ru8gSw4pvS",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1684476514383847424/photo/1",
+                    "media_key": "3_1684476469026717697",
+                    "start": 276,
+                    "url": "https://t.co/ru8gSw4pvS"
+                },
+                {
+                    "display_url": "pic.twitter.com/ru8gSw4pvS",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1684476514383847424/photo/1",
+                    "media_key": "3_1684476469177614338",
+                    "start": 276,
+                    "url": "https://t.co/ru8gSw4pvS"
+                },
+                {
+                    "display_url": "pic.twitter.com/ru8gSw4pvS",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1684476514383847424/photo/1",
+                    "media_key": "3_1684476469278306306",
+                    "start": 276,
+                    "url": "https://t.co/ru8gSw4pvS"
+                },
+                {
+                    "display_url": "pic.twitter.com/ru8gSw4pvS",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1684476514383847424/photo/1",
+                    "media_key": "3_1684476469416787968",
+                    "start": 276,
+                    "url": "https://t.co/ru8gSw4pvS"
+                }
+            ]
+        },
+        "id": "1684476514383847424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 13674,
+            "like_count": 227,
+            "quote_count": 9,
+            "reply_count": 8,
+            "retweet_count": 61
+        },
+        "text": "The world\u00b4s first #containervessel operating on green methanol paves the way for a greener future\ud83d\udc9a\nCurrently in Singapore and bound for Copenhagen, the vessel is setting sail on its maiden voyage\ud83d\udea2\ud83d\udc4f\nLearn more: https://t.co/jBBFrM8KGP\n#Maersk #Allthewaytozero #Decarbonization https://t.co/ru8gSw4pvS"
+    }
+}

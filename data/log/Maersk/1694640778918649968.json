@@ -1,0 +1,80 @@
+{
+    "1694640778918649968": {
+        "author_id": "380801406",
+        "created_at": "2023-08-24T09:20:21.000Z",
+        "edit_history_tweet_ids": [
+            "1694640778918649968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 127,
+                    "normalized_text": "A.P. Moller",
+                    "probability": 0.4446,
+                    "start": 117,
+                    "type": "Person"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3872,
+                    "start": 131,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1668256316236636161",
+                    "start": 0,
+                    "username": "helpme_tata"
+                },
+                {
+                    "end": 17,
+                    "id": "478432912",
+                    "start": 13,
+                    "username": "RBI"
+                },
+                {
+                    "end": 30,
+                    "id": "759992498517344256",
+                    "start": 18,
+                    "username": "MaerskIndia"
+                },
+                {
+                    "end": 46,
+                    "id": "766899733235249154",
+                    "start": 31,
+                    "username": "Cybercellindia"
+                },
+                {
+                    "end": 57,
+                    "id": "970591741131804672",
+                    "start": 47,
+                    "username": "Cyberdost"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/support/faqs/i\u2026",
+                    "end": 324,
+                    "expanded_url": "https://www.maersk.com/support/faqs/is-maerskrent-com-fake-or-real",
+                    "start": 301,
+                    "unwound_url": "https://www.maersk.com/support/faqs/is-maerskrent-com-fake-or-real",
+                    "url": "https://t.co/wabHzvywrQ"
+                }
+            ]
+        },
+        "id": "1694640778918649968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 67,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@helpme_tata @RBI @MaerskIndia @Cybercellindia @Cyberdost Please do not engage with the site as this is not official A.P. Moller - Maersk communication. We are investigating this case further. Thank you for bringing it to our attention. Please check the following website to avoid similar situations: https://t.co/wabHzvywrQ"
+    }
+}

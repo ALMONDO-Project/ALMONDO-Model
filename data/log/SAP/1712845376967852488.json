@@ -1,0 +1,39 @@
+{
+    "1712845376967852488": {
+        "author_id": "76117579",
+        "created_at": "2023-10-13T14:58:55.000Z",
+        "edit_history_tweet_ids": [
+            "1712845376967852488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Dan",
+                    "probability": 0.5019,
+                    "start": 37,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "8479062",
+                    "start": 0,
+                    "username": "fromedome"
+                }
+            ]
+        },
+        "id": "1712845376967852488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 29,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@fromedome Thanks for your feedback, Dan \u2014 we'll get to the bottom of it. Please contact us via DM with your email address so we can further investigate."
+    }
+}

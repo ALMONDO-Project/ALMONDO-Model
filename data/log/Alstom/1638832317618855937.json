@@ -1,0 +1,82 @@
+{
+    "1638832317618855937": {
+        "attachments": {
+            "media_keys": [
+                "16_1638832316150697984"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-23T09:17:27.000Z",
+        "edit_history_tweet_ids": [
+            "1638832317618855937"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.5746,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 0,
+                    "tag": "AlstomServices"
+                },
+                {
+                    "end": 41,
+                    "start": 30,
+                    "tag": "operations"
+                },
+                {
+                    "end": 88,
+                    "start": 80,
+                    "tag": "railway"
+                },
+                {
+                    "end": 277,
+                    "start": 259,
+                    "tag": "systemmaintenance"
+                },
+                {
+                    "end": 282,
+                    "start": 278,
+                    "tag": "OEM"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/mWzr50NoKHb",
+                    "end": 255,
+                    "expanded_url": "http://ow.ly/mWzr50NoKHb",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/solutions/services/train-operations-system-maintenance-increased-value-and-performance?utm_source=social_all&utm_medium=twitter&utm_content=9c76f73a-794f-40d2-8c90-58bc500bc54a&utm_campaign=Alstom_Services",
+                    "url": "https://t.co/k8yiVtao1D"
+                },
+                {
+                    "display_url": "pic.twitter.com/dWJ56flNBq",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Alstom/status/1638832317618855937/photo/1",
+                    "media_key": "16_1638832316150697984",
+                    "start": 283,
+                    "url": "https://t.co/dWJ56flNBq"
+                }
+            ]
+        },
+        "id": "1638832317618855937",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1378,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#AlstomServices provides both #operations &amp; maintenance services for entire #railway systems. We are committed to delivering reliable and safe passenger services, and best-in-class asset management and availability. Learn more: https://t.co/k8yiVtao1D \n \n#systemmaintenance #OEM https://t.co/dWJ56flNBq"
+    }
+}

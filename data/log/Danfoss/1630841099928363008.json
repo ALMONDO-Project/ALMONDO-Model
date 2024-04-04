@@ -1,0 +1,81 @@
+{
+    "1630841099928363008": {
+        "attachments": {
+            "media_keys": [
+                "13_1630840993141456896"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-03-01T08:03:12.000Z",
+        "edit_history_tweet_ids": [
+            "1630841099928363008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "EUR",
+                    "probability": 0.4144,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "GreenTransition",
+                    "probability": 0.4752,
+                    "start": 194,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Danfoss2022",
+                    "probability": 0.4792,
+                    "start": 247,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 209,
+                    "start": 193,
+                    "tag": "GreenTransition"
+                },
+                {
+                    "end": 258,
+                    "start": 246,
+                    "tag": "Danfoss2022"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3EJDSEo",
+                    "end": 245,
+                    "expanded_url": "https://bit.ly/3EJDSEo",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/annual-report-2022/?utm_source=social&utm_medium=twitter&utm_campaign=cf_annualreport2022&utm_content=post1",
+                    "url": "https://t.co/W3GI2VYWLF"
+                },
+                {
+                    "display_url": "pic.twitter.com/e8411PPoSO",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1630841099928363008/video/1",
+                    "media_key": "13_1630840993141456896",
+                    "start": 259,
+                    "url": "https://t.co/e8411PPoSO"
+                }
+            ]
+        },
+        "id": "1630841099928363008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11962,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "We are excited to announce our annual results! In 2022, our sales reached EUR 10.3 billion. With bold investments in our green growth strategy, we continue to improve our offerings to lead the #GreenTransition. Read more: https://t.co/W3GI2VYWLF #Danfoss2022 https://t.co/e8411PPoSO"
+    }
+}

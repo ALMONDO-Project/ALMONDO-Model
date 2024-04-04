@@ -1,0 +1,42 @@
+{
+    "1666858544866504730": {
+        "author_id": "268267143",
+        "created_at": "2023-06-08T17:23:40.000Z",
+        "edit_history_tweet_ids": [
+            "1666858544866504730"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "EDF",
+                    "probability": 0.4144,
+                    "start": 101,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "edf.fr/en/the-edf-gro\u2026",
+                    "end": 142,
+                    "expanded_url": "https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/implementation-of-the-squeeze-out-procedure-in-respect-of-the-equity-securities-of-edf",
+                    "start": 119,
+                    "status": 200,
+                    "unwound_url": "https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/implementation-of-the-squeeze-out-procedure-in-respect-of-the-equity-securities-of-edf",
+                    "url": "https://t.co/0FwCOIdDk0"
+                }
+            ]
+        },
+        "id": "1666858544866504730",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2051,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "English version : implementation of the squeeze-out procedure in respect of the equity securities of EDF\n\nLearn more : https://t.co/0FwCOIdDk0"
+    }
+}

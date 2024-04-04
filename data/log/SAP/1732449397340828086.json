@@ -1,0 +1,39 @@
+{
+    "1732449397340828086": {
+        "author_id": "76117579",
+        "created_at": "2023-12-06T17:18:18.000Z",
+        "edit_history_tweet_ids": [
+            "1732449397340828086"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Himanshu",
+                    "probability": 0.758,
+                    "start": 22,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1859917296",
+                    "start": 0,
+                    "username": "HsSachan"
+                }
+            ]
+        },
+        "id": "1732449397340828086",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 52,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@HsSachan Great work, Himanshu \ud83d\udc4f"
+    }
+}

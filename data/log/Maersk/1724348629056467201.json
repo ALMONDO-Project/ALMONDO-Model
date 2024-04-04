@@ -1,0 +1,73 @@
+{
+    "1724348629056467201": {
+        "author_id": "380801406",
+        "created_at": "2023-11-14T08:48:44.000Z",
+        "edit_history_tweet_ids": [
+            "1724348629056467201"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "CO2",
+                    "probability": 0.7601,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Kenny Kristensen",
+                    "probability": 0.813,
+                    "start": 138,
+                    "type": "Person"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Transportation Energy",
+                    "probability": 0.4729,
+                    "start": 173,
+                    "type": "Other"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3082,
+                    "start": 207,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 63,
+                    "start": 56,
+                    "tag": "trucks"
+                },
+                {
+                    "end": 213,
+                    "start": 206,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/transenv/statu\u2026",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/transenv/status/1724019330654879811",
+                    "start": 285,
+                    "url": "https://t.co/08eEfICaSK"
+                }
+            ]
+        },
+        "id": "1724348629056467201",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4165,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Separating fuel considerations from CO2 regulations for #trucks to reduce carbon emissions in shipping &amp; aviation sectors is crucial. Kenny Kristensen, Head of Landside Transportation Energy Transition #Maersk \nemphasizes the need for bold legislation to achieve net-zero by 2040. https://t.co/08eEfICaSK"
+    }
+}

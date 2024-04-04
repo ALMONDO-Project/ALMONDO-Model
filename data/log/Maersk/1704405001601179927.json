@@ -1,0 +1,64 @@
+{
+    "1704405001601179927": {
+        "author_id": "380801406",
+        "created_at": "2023-09-20T07:59:53.000Z",
+        "edit_history_tweet_ids": [
+            "1704405001601179927"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 225,
+                    "normalized_text": "ESG",
+                    "probability": 0.44,
+                    "start": 223,
+                    "type": "Other"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5761,
+                    "start": 272,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 9,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 226,
+                    "start": 222,
+                    "tag": "ESG"
+                },
+                {
+                    "end": 278,
+                    "start": 271,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/richardhowitt/\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/richardhowitt/status/1701869578324771021",
+                    "start": 279,
+                    "url": "https://t.co/wjzQosadoX"
+                }
+            ]
+        },
+        "id": "1704405001601179927",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3413,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "What has #sustainability in business achieved?\nGet the answer and much more insights when the panel gives you an update on key achievements and challenges in the sustainability transition including reporting, geopolitics, #ESG and much more\ud83c\udf0d\n\ud83c\udfa7Listen to the episode below\n#Maersk https://t.co/wjzQosadoX"
+    }
+}

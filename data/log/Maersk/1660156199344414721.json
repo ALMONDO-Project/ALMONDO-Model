@@ -1,0 +1,65 @@
+{
+    "1660156199344414721": {
+        "attachments": {
+            "poll_ids": [
+                "1660156198132260866"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-21T05:30:56.000Z",
+        "edit_history_tweet_ids": [
+            "1660156199344414721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "China",
+                    "probability": 0.9626,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3451,
+                    "start": 96,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 6,
+                    "tag": "InternationalTeaDay"
+                },
+                {
+                    "end": 102,
+                    "start": 95,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 113,
+                    "start": 103,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 126,
+                    "start": 114,
+                    "tag": "GlobalTrade"
+                }
+            ]
+        },
+        "id": "1660156199344414721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7722,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Happy #InternationalTeaDay\u2615 The main exporter of tea is China but who are the main importers?\n\n#Maersk #Logistics #GlobalTrade"
+    }
+}

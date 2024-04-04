@@ -1,0 +1,75 @@
+{
+    "1685908170433011713": {
+        "attachments": {
+            "media_keys": [
+                "3_1685908164548460544"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-07-31T07:00:05.000Z",
+        "edit_history_tweet_ids": [
+            "1685908170433011713"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "the Tour de Fr",
+                    "probability": 0.523,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "and Tour de France Fe",
+                    "probability": 0.6343,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 241,
+                    "start": 228,
+                    "tag": "TourDeFrance"
+                },
+                {
+                    "end": 246,
+                    "start": 242,
+                    "tag": "TDF"
+                },
+                {
+                    "end": 256,
+                    "start": 247,
+                    "tag": "TDFF2023"
+                },
+                {
+                    "end": 279,
+                    "start": 257,
+                    "tag": "webringprogresstolife"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WjyOmOiPuO",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1685908170433011713/photo/1",
+                    "media_key": "3_1685908164548460544",
+                    "start": 280,
+                    "url": "https://t.co/WjyOmOiPuO"
+                }
+            ]
+        },
+        "id": "1685908170433011713",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1053,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udeb4\u200d\u2642\ufe0f\ud83d\udeb4\u200d\u2640\ufe0f It\u2019s time to hit the brakes on the Tour de France and Tour de France Femmes for another year \u2013 but the riders have left us in awe of their incredible efforts!\n\nA big congratulations to the whole of @TDSM_Firmenich! \ud83c\udf1f \n\n#TourDeFrance #TDF #TDFF2023 #webringprogresstolife https://t.co/WjyOmOiPuO"
+    }
+}

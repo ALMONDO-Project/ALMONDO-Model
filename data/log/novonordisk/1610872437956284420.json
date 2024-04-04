@@ -1,0 +1,58 @@
+{
+    "1610872437956284420": {
+        "author_id": "194037150",
+        "created_at": "2023-01-05T05:34:52.000Z",
+        "edit_history_tweet_ids": [
+            "1610872437956284420"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 259,
+                    "normalized_text": "Asif",
+                    "probability": 0.3895,
+                    "start": 256,
+                    "type": "Organization"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4659,
+                    "start": 262,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "141527758",
+                    "start": 0,
+                    "username": "L122yT"
+                },
+                {
+                    "end": 24,
+                    "id": "14258807",
+                    "start": 8,
+                    "username": "teamnovonordisk"
+                },
+                {
+                    "end": 36,
+                    "id": "95022046",
+                    "start": 25,
+                    "username": "parthaskar"
+                }
+            ]
+        },
+        "id": "1610872437956284420",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 74,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@L122yT @teamnovonordisk @parthaskar To create a safety report, we would need your contact details. Kindly DM your contact number, email address and country of residence, so that we can put you in contact with relevant colleagues. Thank you.\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

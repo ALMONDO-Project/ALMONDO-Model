@@ -1,0 +1,94 @@
+{
+    "1736674212633362590": {
+        "attachments": {
+            "media_keys": [
+                "3_1736661981082288128"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-18T09:06:12.000Z",
+        "edit_history_tweet_ids": [
+            "1736674212633362590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 187,
+                    "normalized_text": "MedPort Tangier",
+                    "probability": 0.518,
+                    "start": 173,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3271,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 238,
+                    "start": 225,
+                    "tag": "APMTerminals"
+                },
+                {
+                    "end": 246,
+                    "start": 239,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 258,
+                    "start": 247,
+                    "tag": "TangierMed"
+                },
+                {
+                    "end": 270,
+                    "start": 259,
+                    "tag": "Automation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 172,
+                    "id": "85591450",
+                    "start": 159,
+                    "username": "APMTerminals"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "An expansion of more than a million TEU (Phase 2) was delivered at APM Terminals Tangier MedPort, Morocco today. The expansion covers 18 Hectares, with seven additional container stacks and an additional 400 metre berth. Electric equipment, shore power and auto-mooring will also contribute to APM Terminals industry-leading Net Zero emissions ambition.",
+                    "display_url": "apmterminals.com/en/news/news-r\u2026",
+                    "end": 222,
+                    "expanded_url": "https://www.apmterminals.com/en/news/news-releases/2023/231213-one-million-teu-expansion-at-apm-terminals-tangier-med-port-operational",
+                    "start": 199,
+                    "status": 200,
+                    "title": "You Tube",
+                    "unwound_url": "https://www.apmterminals.com/en/news/news-releases/2023/231213-one-million-teu-expansion-at-apm-terminals-tangier-med-port-operational",
+                    "url": "https://t.co/lW2k3XlBzI"
+                },
+                {
+                    "display_url": "pic.twitter.com/aZqb1XQr33",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1736674212633362590/photo/1",
+                    "media_key": "3_1736661981082288128",
+                    "start": 271,
+                    "url": "https://t.co/aZqb1XQr33"
+                }
+            ]
+        },
+        "id": "1736674212633362590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 5695,
+            "like_count": 37,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "\ud83d\udea2\ud83c\udfd7 Phase 2 of the\u00a0expansion of more than a million TEU, 7 additional container stacks and an additional 400 metre berth was delivered on schedule last week at\u00a0@APMTerminals MedPort Tangier, Morocco\ud83d\udc49\nhttps://t.co/lW2k3XlBzI\n \n#APMTerminals #Maersk #TangierMed #Automation https://t.co/aZqb1XQr33"
+    }
+}

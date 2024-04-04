@@ -1,0 +1,70 @@
+{
+    "1677593368572952576": {
+        "author_id": "194037150",
+        "created_at": "2023-07-08T08:20:01.000Z",
+        "edit_history_tweet_ids": [
+            "1677593368572952576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4499,
+                    "start": 46,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "548804376",
+                    "start": 0,
+                    "username": "nevermoreraven7"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "At Novo Nordisk, we remain committed to helping patients access and afford their medications. Find savings, coverage, and support for your medications.",
+                    "display_url": "NovoCare.com",
+                    "end": 105,
+                    "expanded_url": "http://NovoCare.com",
+                    "start": 82,
+                    "status": 200,
+                    "title": "Cost & Coverage for Novo Nordisk Medicines | NovoCare\u00ae",
+                    "unwound_url": "https://www.novocare.com/",
+                    "url": "https://t.co/YkhAx3Thnd"
+                },
+                {
+                    "display_url": "bit.ly/38WzaCx",
+                    "end": 244,
+                    "expanded_url": "http://bit.ly/38WzaCx",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk-us.com/content/dam/nncorp/us/en_us/homepage/pdfs/novocare/NovoCare-Infographic-May2020.jpg",
+                    "url": "https://t.co/jGYTWsJYmr"
+                },
+                {
+                    "display_url": "twitter.com/messages/compo\u2026",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "start": 245,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "url": "https://t.co/tGbtaZc8Sa"
+                }
+            ]
+        },
+        "id": "1677593368572952576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 41,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@nevermoreraven7 If you need help affording a Novo Nordisk medicine, please visit https://t.co/YkhAx3Thnd or call us at 1.844.NOVO4ME today. We have help, including for people in danger of rationing or without insurance: https://t.co/jGYTWsJYmr\nhttps://t.co/tGbtaZc8Sa"
+    }
+}

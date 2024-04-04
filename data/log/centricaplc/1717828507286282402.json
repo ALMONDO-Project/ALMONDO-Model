@@ -1,0 +1,75 @@
+{
+    "1717828507286282402": {
+        "attachments": {
+            "media_keys": [
+                "3_1717828504761335808"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-10-27T09:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1717828507286282402"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Bill Wiggin",
+                    "probability": 0.7323,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "Ledbury",
+                    "probability": 0.921,
+                    "start": 39,
+                    "type": "Place"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "NetZero",
+                    "probability": 0.3183,
+                    "start": 48,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 47,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 67,
+                    "id": "1721790608",
+                    "start": 56,
+                    "username": "HiveHomeUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/15h9z1kLoP",
+                    "end": 203,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1717828507286282402/photo/1",
+                    "media_key": "3_1717828504761335808",
+                    "start": 180,
+                    "url": "https://t.co/15h9z1kLoP"
+                }
+            ]
+        },
+        "id": "1717828507286282402",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 414,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Great to welcome Bill Wiggin MP to the Ledbury #NetZero @HiveHomeUK Roadshow. He tasked us with setting up a roadshow in his constituency and we were more than happy to deliver! \ud83d\udc99 https://t.co/15h9z1kLoP"
+    }
+}

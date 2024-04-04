@@ -1,0 +1,72 @@
+{
+    "1677227173269106689": {
+        "attachments": {
+            "media_keys": [
+                "3_1677226378658213888"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-07-07T08:04:54.000Z",
+        "edit_history_tweet_ids": [
+            "1677227173269106689"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "ABB",
+                    "probability": 0.5776,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 16,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 93,
+                    "start": 83,
+                    "tag": "emissions"
+                },
+                {
+                    "end": 121,
+                    "start": 116,
+                    "tag": "data"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/methane-measur\u2026",
+                    "end": 272,
+                    "expanded_url": "https://social.abb/methane-measuring-sensors",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/technology/did-you-know/methane-measuring-sensors",
+                    "url": "https://t.co/jNteh5Lxy8"
+                },
+                {
+                    "display_url": "pic.twitter.com/Rx9t5uqdqn",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1677227173269106689/photo/1",
+                    "media_key": "3_1677226378658213888",
+                    "start": 273,
+                    "url": "https://t.co/Rx9t5uqdqn"
+                }
+            ]
+        },
+        "id": "1677227173269106689",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1879,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\u2049\ufe0f Did you know #ABB-built optical sensors on board satellites monitor methane gas #emissions across the earth? The #data gathered helps governments and industries to come to informed decisions on how to meet emissions reduction targets.\nRead more: https://t.co/jNteh5Lxy8 https://t.co/Rx9t5uqdqn"
+    }
+}

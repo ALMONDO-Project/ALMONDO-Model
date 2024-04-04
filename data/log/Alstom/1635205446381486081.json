@@ -1,0 +1,69 @@
+{
+    "1635205446381486081": {
+        "attachments": {
+            "media_keys": [
+                "3_1635205444741353473"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-13T09:05:33.000Z",
+        "edit_history_tweet_ids": [
+            "1635205446381486081"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "Cracow University of Technology",
+                    "probability": 0.8158,
+                    "start": 56,
+                    "type": "Organization"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Poland",
+                    "probability": 0.8772,
+                    "start": 91,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 279,
+                    "start": 270,
+                    "tag": "learning"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/zB6M50NgqHg",
+                    "end": 269,
+                    "expanded_url": "http://ow.ly/zB6M50NgqHg",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/3/alstom-and-cracow-university-technology-sign-strategic-partnership-strengthen-students-competence-rail-traffic-control",
+                    "url": "https://t.co/3d8HfAtV5z"
+                },
+                {
+                    "display_url": "pic.twitter.com/GepIXy75OF",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Alstom/status/1635205446381486081/photo/1",
+                    "media_key": "3_1635205444741353473",
+                    "start": 280,
+                    "url": "https://t.co/GepIXy75OF"
+                }
+            ]
+        },
+        "id": "1635205446381486081",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1536,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We've signed a strategic partnership agreement with the Cracow University of Technology in Poland. It will potentially benefit up to 10,000 students annually, feature an exchange of knowledge &amp; experience, and offer internships to students.\ud83c\udf93 https://t.co/3d8HfAtV5z #learning https://t.co/GepIXy75OF"
+    }
+}

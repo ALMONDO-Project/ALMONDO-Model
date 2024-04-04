@@ -1,0 +1,55 @@
+{
+    "1641676237016817665": {
+        "attachments": {
+            "media_keys": [
+                "3_1641676150542925825"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-31T05:38:10.000Z",
+        "edit_history_tweet_ids": [
+            "1641676237016817665"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.4888,
+                    "start": 0,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/launches-share\u2026",
+                    "end": 94,
+                    "expanded_url": "https://social.abb/launches-share-buyback-program",
+                    "start": 71,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/101540/abb-launches-new-share-buyback-program-of-up-to-1-billion",
+                    "url": "https://t.co/31WCnbb1oh"
+                },
+                {
+                    "display_url": "pic.twitter.com/dhqu6qXmE4",
+                    "end": 118,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1641676237016817665/photo/1",
+                    "media_key": "3_1641676150542925825",
+                    "start": 95,
+                    "url": "https://t.co/dhqu6qXmE4"
+                }
+            ]
+        },
+        "id": "1641676237016817665",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2840,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "ABB launches new share buyback program of up to $1 billion.\nRead more: https://t.co/31WCnbb1oh https://t.co/dhqu6qXmE4"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1628289237127766016": {
+        "author_id": "570715775",
+        "created_at": "2023-02-22T07:03:00.000Z",
+        "edit_history_tweet_ids": [
+            "1628289237127766016"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Danone",
+                    "probability": 0.4536,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "DanoneResults",
+                    "probability": 0.3742,
+                    "start": 207,
+                    "type": "Other"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "BN",
+                    "probability": 0.6284,
+                    "start": 222,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 224,
+                    "start": 221,
+                    "tag": "BN"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 0,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 220,
+                    "start": 206,
+                    "tag": "DanoneResults"
+                }
+            ]
+        },
+        "id": "1628289237127766016",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1783,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "#FinancialResults While 2022 was a year of unprecedented external challenges and volatility, for Danone it has also been a year of deep transformation and solid delivery. Set for profitable growth in 2023.\n#DanoneResults $BN"
+    }
+}

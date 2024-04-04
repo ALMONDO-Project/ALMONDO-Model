@@ -1,0 +1,39 @@
+{
+    "1734317107503083999": {
+        "author_id": "194037150",
+        "created_at": "2023-12-11T20:59:55.000Z",
+        "edit_history_tweet_ids": [
+            "1734317107503083999"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 248,
+                    "normalized_text": "NNCIAE4377",
+                    "probability": 0.5289,
+                    "start": 239,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "28262849",
+                    "start": 0,
+                    "username": "Toddske"
+                }
+            ]
+        },
+        "id": "1734317107503083999",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 48,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Toddske Hi, Patient safety is important to us. We've forwarded your comment to our Patient Safety team and ask you please contact us with more information by calling 1-800-465-4334 during the hours 8:30 am to 5:00 pm with local reference NNCIAE4377. Thank you."
+    }
+}

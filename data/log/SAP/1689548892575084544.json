@@ -1,0 +1,63 @@
+{
+    "1689548892575084544": {
+        "attachments": {
+            "media_keys": [
+                "3_1689548890054287360"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-08-10T08:07:00.000Z",
+        "edit_history_tweet_ids": [
+            "1689548892575084544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "e SAP Datasphe",
+                    "probability": 0.5462,
+                    "start": 76,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 191,
+                    "id": "1396484258",
+                    "start": 179,
+                    "username": "SAPLearning"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6019P5QCl",
+                    "end": 177,
+                    "expanded_url": "https://sap.to/6019P5QCl",
+                    "start": 154,
+                    "status": 200,
+                    "unwound_url": "https://open.sap.com/courses/dsp1-1?source=social-Global-TWITTER-SAP_Learning-Training_Enablement-Database_and_Data_Management-spr-10994119481-ST2%3A_Ecosystem-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10994119481",
+                    "url": "https://t.co/Q2yompCgy8"
+                },
+                {
+                    "display_url": "pic.twitter.com/Re7DG7Ir0c",
+                    "end": 215,
+                    "expanded_url": "https://twitter.com/SAP/status/1689548892575084544/photo/1",
+                    "media_key": "3_1689548890054287360",
+                    "start": 192,
+                    "url": "https://t.co/Re7DG7Ir0c"
+                }
+            ]
+        },
+        "id": "1689548892575084544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 6344,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 13
+        },
+        "text": "Join more than 4,000 learners for our repeat course. \ud83e\uddd1\u200d\ud83d\udcbb \n\nExplore how to use SAP Datasphere with relatable and relevant use cases for your organization: https://t.co/Q2yompCgy8\n\n@SAPLearning https://t.co/Re7DG7Ir0c"
+    }
+}

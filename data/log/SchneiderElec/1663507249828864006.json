@@ -1,0 +1,79 @@
+{
+    "1663507249828864006": {
+        "attachments": {
+            "media_keys": [
+                "3_1663507243101302784"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-30T11:26:49.000Z",
+        "edit_history_tweet_ids": [
+            "1663507249828864006"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "IEA",
+                    "probability": 0.4911,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Olivier Blum",
+                    "probability": 0.972,
+                    "start": 190,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 50,
+                    "tag": "GlobalWarming"
+                },
+                {
+                    "end": 116,
+                    "start": 99,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 137,
+                    "start": 121,
+                    "tag": "electrification"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018OSY4k",
+                    "end": 238,
+                    "expanded_url": "http://spr.ly/6018OSY4k",
+                    "start": 215,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/energy-management-energy-efficiency/2023/05/10/why-industry-decarbonization-is-key-to-meeting-global-climate-targets/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10117880929&utm_campaign=Electricity_4.0_&country=Global",
+                    "url": "https://t.co/ECbe9UrEf9"
+                },
+                {
+                    "display_url": "pic.twitter.com/rabJv264qt",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1663507249828864006/photo/1",
+                    "media_key": "3_1663507243101302784",
+                    "start": 239,
+                    "url": "https://t.co/rabJv264qt"
+                }
+            ]
+        },
+        "id": "1663507249828864006",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1146,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The IEA recently listed the key tools for slowing #GlobalWarming - clean electricity, accelerating #EnergyEfficiency and #electrification. Want to know how leaders can play their part? Read Olivier Blum's new blog: https://t.co/ECbe9UrEf9 https://t.co/rabJv264qt"
+    }
+}

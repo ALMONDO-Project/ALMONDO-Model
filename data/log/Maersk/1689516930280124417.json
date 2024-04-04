@@ -1,0 +1,86 @@
+{
+    "1689516930280124417": {
+        "attachments": {
+            "media_keys": [
+                "7_1689294624349704192"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-10T06:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1689516930280124417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Beyond the Box",
+                    "probability": 0.9642,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3969,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 179,
+                    "start": 172,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 188,
+                    "start": 180,
+                    "tag": "podcast"
+                },
+                {
+                    "end": 199,
+                    "start": 189,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 213,
+                    "start": 200,
+                    "tag": "beyondthebox"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/eCr6mUbr",
+                    "end": 170,
+                    "expanded_url": "https://lnkd.in/eCr6mUbr",
+                    "start": 147,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/eCr6mUbr",
+                    "url": "https://t.co/903A8EqWl8"
+                },
+                {
+                    "display_url": "pic.twitter.com/q7h5nBStug",
+                    "end": 237,
+                    "expanded_url": "https://twitter.com/Maersk/status/1689516930280124417/video/1",
+                    "media_key": "7_1689294624349704192",
+                    "start": 214,
+                    "url": "https://t.co/q7h5nBStug"
+                }
+            ]
+        },
+        "id": "1689516930280124417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3349,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\udf99\ufe0f Episode 4 of \"Beyond the Box\" is already streaming\ud83c\udf0a\u201cWhen will the blue world go green\u201d?  \nHear from three experts who reflect on this and more\ud83d\udc49 https://t.co/903A8EqWl8 \n#Maersk #podcast #logistics #beyondthebox https://t.co/q7h5nBStug"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "1629020615607820289": {
+        "attachments": {
+            "media_keys": [
+                "3_1629020613082849280"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-02-24T07:29:15.000Z",
+        "edit_history_tweet_ids": [
+            "1629020615607820289"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "ETCS",
+                    "probability": 0.5009,
+                    "start": 1,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 5,
+                    "start": 0,
+                    "tag": "ETCS"
+                },
+                {
+                    "end": 144,
+                    "start": 140,
+                    "tag": "QoS"
+                },
+                {
+                    "end": 252,
+                    "start": 247,
+                    "tag": "rail"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 240,
+                    "id": "1201507710",
+                    "start": 229,
+                    "username": "railsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wTbGjCetcc",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Alstom/status/1629020615607820289/photo/1",
+                    "media_key": "3_1629020613082849280",
+                    "start": 280,
+                    "url": "https://t.co/wTbGjCetcc"
+                }
+            ]
+        },
+        "id": "1629020615607820289",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2574,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "#ETCS is the backbone of rail digitalisation. Depending on the latest technologies, we work every day to unlock digital benefits to improve #QoS for passengers - predictability, punctuality, higher speed &amp; comfort. Thank you @railsummit &amp; #rail family for a great panel ! https://t.co/wTbGjCetcc"
+    }
+}

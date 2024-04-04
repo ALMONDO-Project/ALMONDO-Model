@@ -1,0 +1,105 @@
+{
+    "1673284998906933251": {
+        "attachments": {
+            "media_keys": [
+                "3_1673284993806749696"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-26T11:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1673284998906933251"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3666,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "GlobalFashionSummit",
+                    "probability": 0.6434,
+                    "start": 32,
+                    "type": "Other"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Copenhagen Edition",
+                    "probability": 0.4453,
+                    "start": 58,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 15,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 51,
+                    "start": 31,
+                    "tag": "GlobalFashionSummit"
+                },
+                {
+                    "end": 231,
+                    "start": 210,
+                    "tag": "SustainableLogistics"
+                },
+                {
+                    "end": 252,
+                    "start": 232,
+                    "tag": "GlobalFashionAgenda"
+                },
+                {
+                    "end": 273,
+                    "start": 253,
+                    "tag": "IntegratedLogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "globalfashionsummit.com/summit-program\u2026",
+                    "end": 159,
+                    "expanded_url": "http://globalfashionsummit.com/summit-programme/",
+                    "start": 136,
+                    "status": 200,
+                    "unwound_url": "http://globalfashionsummit.com/summit-programme/",
+                    "url": "https://t.co/BmMLbIlYR9"
+                },
+                {
+                    "display_url": "globalfashionsummit.com/5515-2/online-\u2026",
+                    "end": 208,
+                    "expanded_url": "http://globalfashionsummit.com/5515-2/online-tickets/",
+                    "start": 185,
+                    "status": 200,
+                    "unwound_url": "http://globalfashionsummit.com/5515-2/online-tickets/",
+                    "url": "https://t.co/7tP4ANiCEj"
+                },
+                {
+                    "display_url": "pic.twitter.com/CFtKpmtvdM",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1673284998906933251/photo/1",
+                    "media_key": "3_1673284993806749696",
+                    "start": 274,
+                    "url": "https://t.co/CFtKpmtvdM"
+                }
+            ]
+        },
+        "id": "1673284998906933251",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3674,
+            "like_count": 35,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Are you ready? #Maersk is! The #GlobalFashionSummit, 2023 Copenhagen Edition kicks off tomorrow, June 27th!\n\nView the Summit programme: https://t.co/BmMLbIlYR9\nBuy online tickets here: https://t.co/7tP4ANiCEj\n\n#SustainableLogistics #GlobalFashionAgenda #IntegratedLogistics https://t.co/CFtKpmtvdM"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1724886619562328375": {
+        "author_id": "194037150",
+        "created_at": "2023-11-15T20:26:31.000Z",
+        "edit_history_tweet_ids": [
+            "1724886619562328375"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Wendy",
+                    "probability": 0.4654,
+                    "start": 12,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "424795529",
+                    "start": 0,
+                    "username": "sissyh8"
+                }
+            ]
+        },
+        "id": "1724886619562328375",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 47,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sissyh8 Hi Wendy,\u00a0we apologize for any delay and disruption to you or your loved one\u2019s care. If you require an emergency medicine supply our customer care team would like to help. Can you please give them a call at 1-800-727-6500 to discuss?"
+    }
+}

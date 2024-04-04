@@ -1,0 +1,90 @@
+{
+    "1677581898250420224": {
+        "attachments": {
+            "media_keys": [
+                "3_1677581891203919873",
+                "3_1677581891199795201",
+                "3_1677581891174645762"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-08T07:34:27.000Z",
+        "edit_history_tweet_ids": [
+            "1677581898250420224"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "New Jersey",
+                    "probability": 0.8744,
+                    "start": 27,
+                    "type": "Place"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "US",
+                    "probability": 0.9454,
+                    "start": 39,
+                    "type": "Place"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Elizabeth Terminal",
+                    "probability": 0.9039,
+                    "start": 68,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 209,
+                    "start": 202,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 218,
+                    "start": 210,
+                    "tag": "cleanup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/frJG6dx3wD",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/Maersk/status/1677581898250420224/photo/1",
+                    "media_key": "3_1677581891203919873",
+                    "start": 219,
+                    "url": "https://t.co/frJG6dx3wD"
+                },
+                {
+                    "display_url": "pic.twitter.com/frJG6dx3wD",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/Maersk/status/1677581898250420224/photo/1",
+                    "media_key": "3_1677581891199795201",
+                    "start": 219,
+                    "url": "https://t.co/frJG6dx3wD"
+                },
+                {
+                    "display_url": "pic.twitter.com/frJG6dx3wD",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/Maersk/status/1677581898250420224/photo/1",
+                    "media_key": "3_1677581891174645762",
+                    "start": 219,
+                    "url": "https://t.co/frJG6dx3wD"
+                }
+            ]
+        },
+        "id": "1677581898250420224",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3965,
+            "like_count": 37,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Recently our colleagues in New Jersey, US, gathered to clean up the Elizabeth Terminal beach\ud83c\udf0a They managed to collect 35 bags worth of trash including plastic bottles, glass bottles, straws and metals\ud83d\udc9a\n#maersk #cleanup https://t.co/frJG6dx3wD"
+    }
+}

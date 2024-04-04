@@ -1,0 +1,59 @@
+{
+    "1617884940846370820": {
+        "author_id": "393757140",
+        "created_at": "2023-01-24T14:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1617884940846370820"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "InternationalDayofEducation",
+                    "probability": 0.6534,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "Jana Gerber",
+                    "probability": 0.8937,
+                    "start": 123,
+                    "type": "Person"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8911,
+                    "start": 136,
+                    "type": "Organization"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "North American Microgrid",
+                    "probability": 0.4344,
+                    "start": 157,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 7,
+                    "tag": "InternationalDayofEducation"
+                }
+            ]
+        },
+        "id": "1617884940846370820",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1038,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "On the #InternationalDayofEducation, we celebrate our core value of lifelong learning. Meet one of our lifelong learners.\n\nJana Gerber, Schneider Electric\u2019s North American Microgrid President, has learned and developed with us for more than 20 years."
+    }
+}

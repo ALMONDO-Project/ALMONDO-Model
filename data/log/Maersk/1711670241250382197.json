@@ -1,0 +1,84 @@
+{
+    "1711670241250382197": {
+        "attachments": {
+            "media_keys": [
+                "7_1711669977734901760"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-10T09:09:21.000Z",
+        "edit_history_tweet_ids": [
+            "1711670241250382197"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5435,
+                    "start": 5,
+                    "type": "Person"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Mechell Chetty",
+                    "probability": 0.8313,
+                    "start": 118,
+                    "type": "Person"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Latin America",
+                    "probability": 0.4025,
+                    "start": 159,
+                    "type": "Place"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "IMEA",
+                    "probability": 0.4344,
+                    "start": 179,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 4,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 226,
+                    "start": 218,
+                    "tag": "diverse"
+                },
+                {
+                    "end": 275,
+                    "start": 255,
+                    "tag": "InclusiveLeadership"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/c9kTKKRdNo",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1711670241250382197/video/1",
+                    "media_key": "7_1711669977734901760",
+                    "start": 276,
+                    "url": "https://t.co/c9kTKKRdNo"
+                }
+            ]
+        },
+        "id": "1711670241250382197",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2957,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf0dAt #Maersk we are proud of the unique capabilities and years of experience that our colleagues bring to the company. Mechell Chetty, Head of People Function, Latin America &amp; IMEA, emphasizes the value of bringing #diverse perspectives to the table.\n\n#InclusiveLeadership https://t.co/c9kTKKRdNo"
+    }
+}

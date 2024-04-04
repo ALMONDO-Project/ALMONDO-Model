@@ -1,0 +1,49 @@
+{
+    "1646407873587445760": {
+        "author_id": "23085995",
+        "created_at": "2023-04-13T07:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1646407873587445760"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 172,
+                    "normalized_text": "Nestl\u00e9 Coca Plan",
+                    "probability": 0.9059,
+                    "start": 157,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 213,
+                    "id": "1306344123306323970",
+                    "start": 204,
+                    "username": "Url4Ever"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3m1wbmD",
+                    "end": 198,
+                    "expanded_url": "https://bit.ly/3m1wbmD",
+                    "start": 175,
+                    "unwound_url": "https://url4ever.com/2023/03/barry-callebaut-and-nestle-announce-large-scale-cocoa-agroforestry-mission-in-cote-divoire/",
+                    "url": "https://t.co/3ZD7tmeTIb"
+                }
+            ]
+        },
+        "id": "1646407873587445760",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11280,
+            "like_count": 790,
+            "quote_count": 1,
+            "reply_count": 21,
+            "retweet_count": 333
+        },
+        "text": "More than ever cocoa farms require practices to build resiliency to drought and illness. Check out our new partnership that aims to ensure just that via our Nestl\u00e9 Coca Plan: https://t.co/3ZD7tmeTIb (via @Url4Ever)"
+    }
+}

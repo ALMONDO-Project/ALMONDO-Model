@@ -1,0 +1,76 @@
+{
+    "1677258152323031042": {
+        "attachments": {
+            "media_keys": [
+                "7_1677257106867494914"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-07-07T10:08:00.000Z",
+        "edit_history_tweet_ids": [
+            "1677258152323031042"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "UK",
+                    "probability": 0.9873,
+                    "start": 13,
+                    "type": "Place"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5434,
+                    "start": 51,
+                    "type": "Organization"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "UK",
+                    "probability": 0.9744,
+                    "start": 182,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 58,
+                    "start": 50,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ufLk4B",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3ufLk4B",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/sustainability/our-role-in-net-zero/",
+                    "url": "https://t.co/3X70tHBduF"
+                },
+                {
+                    "display_url": "pic.twitter.com/SRDRSCJzkn",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1677258152323031042/video/1",
+                    "media_key": "7_1677257106867494914",
+                    "start": 280,
+                    "url": "https://t.co/SRDRSCJzkn"
+                }
+            ]
+        },
+        "id": "1677258152323031042",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 339,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Building the UK up, by laying the foundations for #NetZero\n\nWe're working on some of the most exciting projects in the industry, and we\u2019re committed to building and investing in the UK and its people, creating high-skilled jobs that support net zero\n\nMore\u2192https://t.co/3X70tHBduF https://t.co/SRDRSCJzkn"
+    }
+}

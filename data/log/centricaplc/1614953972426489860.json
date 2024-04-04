@@ -1,0 +1,75 @@
+{
+    "1614953972426489860": {
+        "attachments": {
+            "media_keys": [
+                "16_1614953970061000704"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-01-16T11:53:26.000Z",
+        "edit_history_tweet_ids": [
+            "1614953972426489860"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5864,
+                    "start": 44,
+                    "type": "Organization"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "UK",
+                    "probability": 0.9742,
+                    "start": 139,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 43,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 177,
+                    "id": "46630225",
+                    "start": 166,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3H59KVx",
+                    "end": 275,
+                    "expanded_url": "http://bit.ly/3H59KVx",
+                    "start": 252,
+                    "url": "https://t.co/DN1ILEEQHh"
+                },
+                {
+                    "display_url": "pic.twitter.com/IkYjM29Jg4",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1614953972426489860/photo/1",
+                    "media_key": "16_1614953970061000704",
+                    "start": 276,
+                    "url": "https://t.co/IkYjM29Jg4"
+                }
+            ]
+        },
+        "id": "1614953972426489860",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2128,
+            "like_count": 7,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "We\u2019re committed to helping customers reach #NetZero by 2050\ud83d\udc9a\n\nOne of the ways we're doing that is by leading the heat pump roll out in the UK.\n\nTo accelerate take up @BritishGas has announced a price drop alongside a price match guarantee. More here \u2192 https://t.co/DN1ILEEQHh https://t.co/IkYjM29Jg4"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "1736657784530206962": {
+        "attachments": {
+            "media_keys": [
+                "13_1736657657447030784"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-12-18T08:00:56.000Z",
+        "edit_history_tweet_ids": [
+            "1736657784530206962"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Dubai",
+                    "probability": 0.995,
+                    "start": 15,
+                    "type": "Place"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "UAEConsensus",
+                    "probability": 0.8516,
+                    "start": 31,
+                    "type": "Place"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "COP28",
+                    "probability": 0.9548,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 261,
+                    "normalized_text": "WhyEE",
+                    "probability": 0.4861,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 30,
+                    "tag": "UAEConsensus"
+                },
+                {
+                    "end": 262,
+                    "start": 256,
+                    "tag": "WhyEE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/47sGaE4",
+                    "end": 254,
+                    "expanded_url": "https://bit.ly/47sGaE4",
+                    "start": 231,
+                    "unwound_url": "https://www.whyenergyefficiency.com/solutions/allsolutions/energy-efficiency-2-0-engineering-the-future-energy-system?utm_source=social&utm_medium=linkedin&utm_campaign=cf_cop28&utm_content=organic_group",
+                    "url": "https://t.co/RXo5BsI8bc"
+                },
+                {
+                    "display_url": "pic.twitter.com/nUK3HPTd0p",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1736657784530206962/video/1",
+                    "media_key": "13_1736657657447030784",
+                    "start": 263,
+                    "url": "https://t.co/nUK3HPTd0p"
+                }
+            ]
+        },
+        "id": "1736657784530206962",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 750,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The world left Dubai with the #UAEConsensus. \n\nThe COP28 revealed to the world the huge role energy efficiency must play in a future energy system based on renewables. \n\nNow is the time to move from pledges to action.\n\nLearn more: https://t.co/RXo5BsI8bc\n\n#WhyEE https://t.co/nUK3HPTd0p"
+    }
+}

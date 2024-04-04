@@ -1,0 +1,93 @@
+{
+    "1665999696421089281": {
+        "attachments": {
+            "media_keys": [
+                "3_1665996143702990849"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-06T08:30:55.000Z",
+        "edit_history_tweet_ids": [
+            "1665999696421089281"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 205,
+                    "normalized_text": "Baltic",
+                    "probability": 0.6973,
+                    "start": 200,
+                    "type": "Place"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6384,
+                    "start": 237,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 236,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 260,
+                    "start": 244,
+                    "tag": "Decarbonisation"
+                },
+                {
+                    "end": 276,
+                    "start": 261,
+                    "tag": "Sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 100,
+                    "id": "157981564",
+                    "start": 86,
+                    "username": "EU_Commission"
+                },
+                {
+                    "end": 114,
+                    "id": "1146329871418843136",
+                    "start": 102,
+                    "username": "vonderleyen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/e2aQFE4v",
+                    "end": 235,
+                    "expanded_url": "https://lnkd.in/e2aQFE4v",
+                    "start": 212,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/06/06/ursula-von-der-leyen-to-be-godmother-of-landmark-green-methanol-powered-vessel",
+                    "url": "https://t.co/I52XAivu2c"
+                },
+                {
+                    "display_url": "pic.twitter.com/6EkAjw5drF",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1665999696421089281/photo/1",
+                    "media_key": "3_1665996143702990849",
+                    "start": 277,
+                    "url": "https://t.co/6EkAjw5drF"
+                }
+            ]
+        },
+        "id": "1665999696421089281",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15201,
+            "like_count": 147,
+            "quote_count": 6,
+            "reply_count": 0,
+            "retweet_count": 26
+        },
+        "text": "Naming the world\u2019s first container vessel sailing on green methanol\ud83d\udea2\nPresident of the @EU_Commission, @vonderleyen, will formally name the vessel in Sept before it begins its operational route in the Baltic Sea\ud83c\udf0d\nhttps://t.co/I52XAivu2c\n#Maersk #Decarbonisation #Sustainability https://t.co/6EkAjw5drF"
+    }
+}

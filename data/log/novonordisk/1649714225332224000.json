@@ -1,0 +1,53 @@
+{
+    "1649714225332224000": {
+        "author_id": "194037150",
+        "created_at": "2023-04-22T09:58:16.000Z",
+        "edit_history_tweet_ids": [
+            "1649714225332224000"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Nicholas",
+                    "probability": 0.739,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "US",
+                    "probability": 0.9075,
+                    "start": 194,
+                    "type": "Place"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.482,
+                    "start": 215,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "784916681290317824",
+                    "start": 0,
+                    "username": "Yofkndadho"
+                }
+            ]
+        },
+        "id": "1649714225332224000",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 33,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Yofkndadho Dear Nicholas,\nI am sorry that your wife is experiencing issues. Could I ask you to send me a DM with your contact information? I will then forward your case to my colleagues in the US.\nAll the best\nBo, Novo Nordisk"
+    }
+}

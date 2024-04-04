@@ -1,0 +1,53 @@
+{
+    "1671843276477939712": {
+        "author_id": "194037150",
+        "created_at": "2023-06-22T11:31:13.000Z",
+        "edit_history_tweet_ids": [
+            "1671843276477939712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Steve",
+                    "probability": 0.8014,
+                    "start": 13,
+                    "type": "Person"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Facebook",
+                    "probability": 0.9201,
+                    "start": 106,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5464,
+                    "start": 155,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1671161354919768065",
+                    "start": 0,
+                    "username": "sedgepty"
+                }
+            ]
+        },
+        "id": "1671843276477939712",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 31,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sedgepty Hi Steve, I am sorry to hear you are experiencing issues. Please check your private messages on Facebook. I have replied there.\nAll the best\nBo, Novo Nordisk"
+    }
+}

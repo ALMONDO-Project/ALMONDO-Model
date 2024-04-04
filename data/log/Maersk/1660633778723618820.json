@@ -1,0 +1,106 @@
+{
+    "1660633778723618820": {
+        "attachments": {
+            "media_keys": [
+                "3_1660633677062086656"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-22T13:08:40.000Z",
+        "edit_history_tweet_ids": [
+            "1660633778723618820"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Lexa Maersk",
+                    "probability": 0.6741,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Tersan Shipyard",
+                    "probability": 0.8247,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Iulian Mihai Acsente",
+                    "probability": 0.6382,
+                    "start": 198,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4836,
+                    "start": 221,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Vessel",
+                    "probability": 0.3475,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 48,
+                    "tag": "drydocking"
+                },
+                {
+                    "end": 122,
+                    "start": 115,
+                    "tag": "vessel"
+                },
+                {
+                    "end": 227,
+                    "start": 220,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 239,
+                    "start": 228,
+                    "tag": "DryDocking"
+                },
+                {
+                    "end": 247,
+                    "start": 240,
+                    "tag": "Vessel"
+                },
+                {
+                    "end": 258,
+                    "start": 248,
+                    "tag": "LifeatSea"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/iOECzc063Y",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Maersk/status/1660633778723618820/photo/1",
+                    "media_key": "3_1660633677062086656",
+                    "start": 259,
+                    "url": "https://t.co/iOECzc063Y"
+                }
+            ]
+        },
+        "id": "1660633778723618820",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5423,
+            "like_count": 94,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 12
+        },
+        "text": "Lexa Maersk have arrived at Tersan Shipyard for #drydocking\ud83d\udea2For the next couple of weeks the crew will work on the #vessel to ensure she has many more ventures around the world\ud83c\udf0d\n\ud83d\udcf8Thanks for sharing Iulian Mihai Acsente!\n#Maersk #DryDocking #Vessel #LifeatSea https://t.co/iOECzc063Y"
+    }
+}

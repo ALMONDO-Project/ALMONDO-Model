@@ -1,0 +1,78 @@
+{
+    "1622471790588198915": {
+        "author_id": "194037150",
+        "created_at": "2023-02-06T05:46:33.000Z",
+        "edit_history_tweet_ids": [
+            "1622471790588198915"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 213,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6973,
+                    "start": 202,
+                    "type": "Organization"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Asif",
+                    "probability": 0.7017,
+                    "start": 266,
+                    "type": "Organization"
+                },
+                {
+                    "end": 283,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6776,
+                    "start": 272,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "184999087",
+                    "start": 0,
+                    "username": "BFreeEmB"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact detail for all Novo Nordisk offices, research centres and production facilities.",
+                    "display_url": "novonordisk.com/contact-us/fin\u2026",
+                    "end": 251,
+                    "expanded_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 228,
+                    "status": 200,
+                    "title": "Find local information",
+                    "unwound_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "url": "https://t.co/gbKMu3XV0C"
+                }
+            ]
+        },
+        "id": "1622471790588198915",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 100,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@BFreeEmB Due to global privacy and legal regulations, we are not allowed to discuss our products on social media. For questions about local availability of our products, please reach out to your local Novo Nordisk office here: https://t.co/gbKMu3XV0C\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

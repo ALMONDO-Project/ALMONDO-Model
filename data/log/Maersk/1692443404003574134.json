@@ -1,0 +1,70 @@
+{
+    "1692443404003574134": {
+        "attachments": {
+            "media_keys": [
+                "7_1692442968391663616"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-18T07:48:46.000Z",
+        "edit_history_tweet_ids": [
+            "1692443404003574134"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "SuezCanal",
+                    "probability": 0.5926,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4866,
+                    "start": 249,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 23,
+                    "tag": "SuezCanal"
+                },
+                {
+                    "end": 255,
+                    "start": 248,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 272,
+                    "start": 256,
+                    "tag": "Allthewaytozero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/rDBm4q15B7",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Maersk/status/1692443404003574134/video/1",
+                    "media_key": "7_1692442968391663616",
+                    "start": 273,
+                    "url": "https://t.co/rDBm4q15B7"
+                }
+            ]
+        },
+        "id": "1692443404003574134",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 10858,
+            "like_count": 140,
+            "quote_count": 7,
+            "reply_count": 8,
+            "retweet_count": 20
+        },
+        "text": "\ud83d\udef3Navigating the iconic #SuezCanal. Watch the world\u2019s first methanol container vessel voyage through the fastest maritime crossing connecting East and West continents\ud83c\udf0d\n\nOur methanol vessel is on her maiden voyage, watch this space for more updates.\n#Maersk #Allthewaytozero https://t.co/rDBm4q15B7"
+    }
+}

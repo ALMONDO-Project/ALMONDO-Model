@@ -1,0 +1,64 @@
+{
+    "1623599105900531713": {
+        "author_id": "194037150",
+        "created_at": "2023-02-09T08:26:06.000Z",
+        "edit_history_tweet_ids": [
+            "1623599105900531713"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 116,
+                    "normalized_text": "US",
+                    "probability": 0.9618,
+                    "start": 115,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1161543558052139008",
+                    "start": 0,
+                    "username": "kjellbjorn"
+                },
+                {
+                    "end": 20,
+                    "id": "148529707",
+                    "start": 12,
+                    "username": "RBReich"
+                },
+                {
+                    "end": 36,
+                    "id": "735541993456164866",
+                    "start": 21,
+                    "username": "LarsFruergaard"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Our position on medicine pricing in the pharmaceutical industry.",
+                    "display_url": "novonordisk.com/sustainable-bu\u2026",
+                    "end": 312,
+                    "expanded_url": "https://www.novonordisk.com/sustainable-business/access-and-affordability/pricing-position.html",
+                    "start": 289,
+                    "status": 200,
+                    "title": "Position on medicine pricing in the pharmaceutical industry",
+                    "unwound_url": "https://www.novonordisk.com/sustainable-business/access-and-affordability/pricing-position.html",
+                    "url": "https://t.co/VbfpW2EpxE"
+                }
+            ]
+        },
+        "id": "1623599105900531713",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2471,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 0
+        },
+        "text": "@kjellbjorn @RBReich @LarsFruergaard The way our medicine prices are determined varies from country to country. In US it involves negotiations with insurance companies and pharma benefit managers. Patients rarely pay the list price but get discounts. You can read more here if interested: https://t.co/VbfpW2EpxE."
+    }
+}

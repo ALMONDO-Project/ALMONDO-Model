@@ -1,0 +1,105 @@
+{
+    "1645637829932863488": {
+        "attachments": {
+            "media_keys": [
+                "3_1645637823452553219"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-11T04:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1645637829932863488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "-",
+                    "probability": 0.5135,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Hall E",
+                    "probability": 0.5977,
+                    "start": 94,
+                    "type": "Place"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4707,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 221,
+                    "start": 214,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 233,
+                    "start": 222,
+                    "tag": "Technology"
+                },
+                {
+                    "end": 244,
+                    "start": 234,
+                    "tag": "Renewable"
+                },
+                {
+                    "end": 258,
+                    "start": 245,
+                    "tag": "WindEurope23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 65,
+                    "id": "380801406",
+                    "start": 58,
+                    "username": "Maersk"
+                },
+                {
+                    "end": 119,
+                    "id": "39255883",
+                    "start": 108,
+                    "username": "WindEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/43oCd1O",
+                    "end": 211,
+                    "expanded_url": "https://bddy.me/43oCd1O",
+                    "start": 188,
+                    "status": 200,
+                    "unwound_url": "https://windeurope.org/annual2023/?utm_source=Twitter_OwnedMedia&utm_medium=Organic&utm_campaign=M_642E8958A67DF_64339C7AF1468&utm_term=TRCP&utm_content=2022_Maersk_Tech_Wind_Europe_2023",
+                    "url": "https://t.co/yQ8YZmfrPg"
+                },
+                {
+                    "display_url": "pic.twitter.com/icwQiZRrVz",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Maersk/status/1645637829932863488/photo/1",
+                    "media_key": "3_1645637823452553219",
+                    "start": 259,
+                    "url": "https://t.co/icwQiZRrVz"
+                }
+            ]
+        },
+        "id": "1645637829932863488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4932,
+            "like_count": 36,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "To find out how you can optimise your supply chain, visit @Maersk at booths E-D1 and E-D19 in Hall E at the @WindEurope Fair this April to meet with our team of experts. \n \nTo learn more: https://t.co/yQ8YZmfrPg\n \n#Maersk #Technology #Renewable #WindEurope23 https://t.co/icwQiZRrVz"
+    }
+}

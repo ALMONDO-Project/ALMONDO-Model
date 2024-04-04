@@ -1,0 +1,77 @@
+{
+    "1613317333669347337": {
+        "attachments": {
+            "media_keys": [
+                "3_1613317331253436416"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-11T23:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1613317333669347337"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Adria Winch",
+                    "probability": 0.6009,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.5682,
+                    "start": 133,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 144,
+                    "start": 132,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 218,
+                    "start": 196,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 232,
+                    "start": 219,
+                    "tag": "SmartMachine"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60123rvMy",
+                    "end": 194,
+                    "expanded_url": "http://spr.ly/60123rvMy",
+                    "start": 171,
+                    "url": "https://t.co/t9aetaxhlY"
+                },
+                {
+                    "display_url": "pic.twitter.com/KrInU87MX5",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1613317333669347337/photo/1",
+                    "media_key": "3_1613317331253436416",
+                    "start": 233,
+                    "url": "https://t.co/KrInU87MX5"
+                }
+            ]
+        },
+        "id": "1613317333669347337",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1050,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Deck machinery builder Adria Winch meets the specific needs of its maritime customers by digitizing and automating its systems with #EcoStruxure Machine, Watch the story. https://t.co/t9aetaxhlY  #IndustriesOfTheFuture #SmartMachine https://t.co/KrInU87MX5"
+    }
+}

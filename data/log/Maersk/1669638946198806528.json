@@ -1,0 +1,59 @@
+{
+    "1669638946198806528": {
+        "attachments": {
+            "poll_ids": [
+                "1669638945255092224"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-16T09:31:59.000Z",
+        "edit_history_tweet_ids": [
+            "1669638946198806528"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "digitaltwin",
+                    "probability": 0.9076,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 25,
+                    "tag": "digitaltwin"
+                },
+                {
+                    "end": 55,
+                    "start": 45,
+                    "tag": "Logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/ea8E7gKm",
+                    "end": 259,
+                    "expanded_url": "https://lnkd.in/ea8E7gKm",
+                    "start": 236,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/01/20/transforming-decision-making-in-supply-chain-logistics-with-digital-twins",
+                    "url": "https://t.co/aV5pC90AOo"
+                }
+            ]
+        },
+        "id": "1669638946198806528",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2845,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Have you ever heard of a #digitaltwin?\ud83d\udc69\u200d\ud83d\udcbb In #Logistics, digital twins are an important tool for predicting bottlenecks before they become a reality in the physical world\ud83c\udf0d But what is a digital twin exactly?\n\nLet us know below or go to https://t.co/aV5pC90AOo to find out!"
+    }
+}

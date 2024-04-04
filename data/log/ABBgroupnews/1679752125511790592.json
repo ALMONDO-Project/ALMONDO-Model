@@ -1,0 +1,86 @@
+{
+    "1679752125511790592": {
+        "attachments": {
+            "media_keys": [
+                "3_1679751832149606400"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-07-14T07:18:09.000Z",
+        "edit_history_tweet_ids": [
+            "1679752125511790592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.4696,
+                    "start": 0,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 97,
+                    "start": 87,
+                    "tag": "education"
+                },
+                {
+                    "end": 107,
+                    "start": 98,
+                    "tag": "Robotics"
+                },
+                {
+                    "end": 116,
+                    "start": 108,
+                    "tag": "Careers"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "ABB is working closely with educators to close the automation skills gap with a new robotics education package.",
+                    "display_url": "social.abb/helping-to-pre\u2026",
+                    "end": 86,
+                    "expanded_url": "https://social.abb/helping-to-prepare-students-for-future-work",
+                    "images": [
+                        {
+                            "height": 432,
+                            "url": "https://pbs.twimg.com/news_img/1713948053009465344/o9FFiyqW?format=jpg&name=orig",
+                            "width": 768
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1713948053009465344/o9FFiyqW?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 63,
+                    "status": 200,
+                    "title": "ABB helping to prepare students for future of work",
+                    "unwound_url": "https://new.abb.com/news/detail/105172/abb-helping-to-prepare-students-for-future-of-work",
+                    "url": "https://t.co/muh9B0v0W8"
+                },
+                {
+                    "display_url": "pic.twitter.com/bQXeUcSzcz",
+                    "end": 140,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1679752125511790592/photo/1",
+                    "media_key": "3_1679751832149606400",
+                    "start": 117,
+                    "url": "https://t.co/bQXeUcSzcz"
+                }
+            ]
+        },
+        "id": "1679752125511790592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2903,
+            "like_count": 19,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "ABB helping to prepare students for future of work.\nRead more: https://t.co/muh9B0v0W8\n#education #Robotics #Careers https://t.co/bQXeUcSzcz"
+    }
+}

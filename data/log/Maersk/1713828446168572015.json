@@ -1,0 +1,103 @@
+{
+    "1713828446168572015": {
+        "attachments": {
+            "media_keys": [
+                "3_1713828376291487744"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-16T08:05:17.000Z",
+        "edit_history_tweet_ids": [
+            "1713828446168572015"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "ECO Delivery Ocean",
+                    "probability": 0.7664,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "maersk",
+                    "probability": 0.4261,
+                    "start": 192,
+                    "type": "Other"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "inditex",
+                    "probability": 0.6001,
+                    "start": 200,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 198,
+                    "start": 191,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 207,
+                    "start": 199,
+                    "tag": "inditex"
+                },
+                {
+                    "end": 220,
+                    "start": 208,
+                    "tag": "supplychain"
+                },
+                {
+                    "end": 237,
+                    "start": 221,
+                    "tag": "decarbonisation"
+                },
+                {
+                    "end": 253,
+                    "start": 238,
+                    "tag": "sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 30,
+                    "id": "1331581265896747010",
+                    "start": 22,
+                    "username": "Inditex"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 189,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/10/16/inditex-partners-with-maersk-to-reduce-its-maritime-transport-emissions",
+                    "start": 166,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/10/16/inditex-partners-with-maersk-to-reduce-its-maritime-transport-emissions",
+                    "url": "https://t.co/oTBj6IFxct"
+                },
+                {
+                    "display_url": "pic.twitter.com/jgJB3Udih4",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/Maersk/status/1713828446168572015/photo/1",
+                    "media_key": "3_1713828376291487744",
+                    "start": 254,
+                    "url": "https://t.co/jgJB3Udih4"
+                }
+            ]
+        },
+        "id": "1713828446168572015",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5600,
+            "like_count": 49,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 12
+        },
+        "text": "We are proud to share @Inditex has joined our ECO Delivery Ocean programme to reduce their maritime transport emissions by more than 80%\ud83d\udea2\ud83d\udc9a\n\n\ud83d\udc49Read full press release: https://t.co/oTBj6IFxct\n\n#maersk #inditex #supplychain #decarbonisation #sustainability https://t.co/jgJB3Udih4"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "1688831663474671616": {
+        "attachments": {
+            "media_keys": [
+                "3_1688816496749805568"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-08T08:37:00.000Z",
+        "edit_history_tweet_ids": [
+            "1688831663474671616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3685,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Holly Landry",
+                    "probability": 0.5156,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5464,
+                    "start": 101,
+                    "type": "Place"
+                },
+                {
+                    "end": 204,
+                    "normalized_text": "Enterprise Metaverse Summit",
+                    "probability": 0.9248,
+                    "start": 178,
+                    "type": "Other"
+                },
+                {
+                    "end": 266,
+                    "normalized_text": "Maersktech",
+                    "probability": 0.6969,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 107,
+                    "start": 100,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 267,
+                    "start": 256,
+                    "tag": "Maersktech"
+                },
+                {
+                    "end": 279,
+                    "start": 268,
+                    "tag": "technology"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 177,
+                    "id": "46575796",
+                    "start": 161,
+                    "username": "EconomistEvents"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=l7QyEY\u2026",
+                    "end": 254,
+                    "expanded_url": "https://www.youtube.com/watch?v=l7QyEYqC0TM",
+                    "start": 231,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=l7QyEYqC0TM",
+                    "url": "https://t.co/M97AtKxQs9"
+                },
+                {
+                    "display_url": "pic.twitter.com/KedKJh0CQY",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1688831663474671616/photo/1",
+                    "media_key": "3_1688816496749805568",
+                    "start": 280,
+                    "url": "https://t.co/KedKJh0CQY"
+                }
+            ]
+        },
+        "id": "1688831663474671616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3066,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "How are digital twins delivering value at Maersk?\ud83c\udf10\nThis is what Holly Landry, Chief Data Officer at #Maersk, brought insight to during a panel discussion at the @EconomistEvents Enterprise Metaverse Summit. Watch the panel here \ud83d\udc49\ud83c\udffd https://t.co/M97AtKxQs9\n\n#Maersktech #technology https://t.co/KedKJh0CQY"
+    }
+}

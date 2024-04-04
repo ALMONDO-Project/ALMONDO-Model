@@ -1,0 +1,106 @@
+{
+    "1633061960769052672": {
+        "attachments": {
+            "media_keys": [
+                "3_1633061958768361472"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-07T11:08:06.000Z",
+        "edit_history_tweet_ids": [
+            "1633061960769052672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 146,
+                    "normalized_text": "Henri Poupart-Lafarge",
+                    "probability": 0.5944,
+                    "start": 126,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Morocco",
+                    "probability": 0.9732,
+                    "start": 197,
+                    "type": "Place"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.3379,
+                    "start": 219,
+                    "type": "Place"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "UICWCHSR23",
+                    "probability": 0.5821,
+                    "start": 234,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "mobility"
+                },
+                {
+                    "end": 193,
+                    "start": 183,
+                    "tag": "highspeed"
+                },
+                {
+                    "end": 229,
+                    "start": 218,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 244,
+                    "start": 233,
+                    "tag": "UICWCHSR23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 182,
+                    "id": "278949184",
+                    "start": 178,
+                    "username": "uic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/SkXV50NaAJk",
+                    "end": 270,
+                    "expanded_url": "http://ow.ly/SkXV50NaAJk",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/2/uic-world-congress-high-speed-rail",
+                    "url": "https://t.co/imRyRqDAyz"
+                },
+                {
+                    "display_url": "pic.twitter.com/8pstdAdiav",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Alstom/status/1633061960769052672/photo/1",
+                    "media_key": "3_1633061958768361472",
+                    "start": 271,
+                    "url": "https://t.co/8pstdAdiav"
+                }
+            ]
+        },
+        "id": "1633061960769052672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2241,
+            "like_count": 33,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 9
+        },
+        "text": "The #mobility of the future needs to be inclusive, innovative, seamless, and above all, sustainable. \n\nOur CEO &amp; Chairman Henri Poupart-Lafarge joined today's opening panels @uic #highspeed in Morocco. \n\nMore from #TeamAlstom at #UICWCHSR23 \u25b6\ufe0fhttps://t.co/imRyRqDAyz https://t.co/8pstdAdiav"
+    }
+}

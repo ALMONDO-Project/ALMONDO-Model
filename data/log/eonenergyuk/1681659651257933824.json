@@ -1,0 +1,85 @@
+{
+    "1681659651257933824": {
+        "attachments": {
+            "media_keys": [
+                "3_1681657349667278851",
+                "3_1681657349663080448"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-07-19T13:37:59.000Z",
+        "edit_history_tweet_ids": [
+            "1681659651257933824"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "UK",
+                    "probability": 0.9823,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "UK",
+                    "probability": 0.976,
+                    "start": 177,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5088,
+                    "start": 183,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 190,
+                    "start": 182,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "rb.gy/h02pa",
+                    "end": 251,
+                    "expanded_url": "https://rb.gy/h02pa",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.energy-uk.org.uk/news/uk-businesses-call-for-renewed-government-commitment-to-net-zero-delivery/",
+                    "url": "https://t.co/MB9lvbv2nE"
+                },
+                {
+                    "display_url": "pic.twitter.com/pzD4J7pniR",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1681659651257933824/photo/1",
+                    "media_key": "3_1681657349667278851",
+                    "start": 252,
+                    "url": "https://t.co/pzD4J7pniR"
+                },
+                {
+                    "display_url": "pic.twitter.com/pzD4J7pniR",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1681659651257933824/photo/1",
+                    "media_key": "3_1681657349663080448",
+                    "start": 252,
+                    "url": "https://t.co/pzD4J7pniR"
+                }
+            ]
+        },
+        "id": "1681659651257933824",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1268,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The UK is in danger of being left behind. \n\nWe\u2019re one of the 100+ companies to send this letter to the Government, urging faster action, policy support, and investment into the UK\u2019s #NetZero journey.\n\nRead the full letter here: https://t.co/MB9lvbv2nE https://t.co/pzD4J7pniR"
+    }
+}

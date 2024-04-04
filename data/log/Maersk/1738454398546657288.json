@@ -1,0 +1,92 @@
+{
+    "1738454398546657288": {
+        "attachments": {
+            "media_keys": [
+                "7_1738208895217131520"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-23T07:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1738454398546657288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 130,
+                    "normalized_text": "AI",
+                    "probability": 0.7937,
+                    "start": 129,
+                    "type": "Organization"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "Dexory",
+                    "probability": 0.5474,
+                    "start": 137,
+                    "type": "Other"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4814,
+                    "start": 260,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 7,
+                    "tag": "Christmas"
+                },
+                {
+                    "end": 50,
+                    "start": 39,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 64,
+                    "start": 54,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 131,
+                    "start": 128,
+                    "tag": "AI"
+                },
+                {
+                    "end": 266,
+                    "start": 259,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 272,
+                    "start": 267,
+                    "tag": "Tech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jPwEwvC5Sv",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Maersk/status/1738454398546657288/video/1",
+                    "media_key": "7_1738208895217131520",
+                    "start": 273,
+                    "url": "https://t.co/jPwEwvC5Sv"
+                }
+            ]
+        },
+        "id": "1738454398546657288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4739,
+            "like_count": 31,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 6
+        },
+        "text": "\ud83c\udf84 This #Christmas we bring the gift of #innovation to #logistics worldwide with our robot partners!\ud83e\udd16\u2728 Verity's drones, Fabric's #AI, and Dexory's groundbreaking robotics redefine efficiency, bringing joy and futuristic solutions to warehouses and e-commerce\ud83c\udf1f\n#Maersk #Tech https://t.co/jPwEwvC5Sv"
+    }
+}

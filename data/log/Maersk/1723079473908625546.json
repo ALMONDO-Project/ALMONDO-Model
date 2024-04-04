@@ -1,0 +1,72 @@
+{
+    "1723079473908625546": {
+        "author_id": "380801406",
+        "created_at": "2023-11-10T20:45:34.000Z",
+        "edit_history_tweet_ids": [
+            "1723079473908625546"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 104,
+                    "normalized_text": "Tamworth",
+                    "probability": 0.5729,
+                    "start": 97,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Kettering",
+                    "probability": 0.4125,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 140,
+                    "start": 133,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 153,
+                    "start": 141,
+                    "tag": "warehousing"
+                },
+                {
+                    "end": 182,
+                    "start": 154,
+                    "tag": "SupplyChainExcellenceAwards"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 38,
+                    "id": "2883240352",
+                    "start": 29,
+                    "username": "dexoryHQ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/dexoryHQ/statu\u2026",
+                    "end": 206,
+                    "expanded_url": "https://twitter.com/dexoryHQ/status/1722934730633441540",
+                    "start": 183,
+                    "url": "https://t.co/VUAfzZoDAE"
+                }
+            ]
+        },
+        "id": "1723079473908625546",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6928,
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Thanks for the collaboration @dexoryHQ and for bringing our innovative robots into action at our Tamworth and Kettering warehouses\ud83d\ude4c\n\n#maersk #warehousing #SupplyChainExcellenceAwards https://t.co/VUAfzZoDAE"
+    }
+}

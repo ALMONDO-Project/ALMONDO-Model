@@ -1,0 +1,76 @@
+{
+    "1717845599075078638": {
+        "attachments": {
+            "media_keys": [
+                "3_1717845595740573696"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-10-27T10:08:01.000Z",
+        "edit_history_tweet_ids": [
+            "1717845599075078638"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "CybersecurityMonth",
+                    "probability": 0.681,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "AI",
+                    "probability": 0.7359,
+                    "start": 109,
+                    "type": "Organization"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "AI",
+                    "probability": 0.9337,
+                    "start": 127,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 60,
+                    "start": 41,
+                    "tag": "CybersecurityMonth"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6018ubwpM",
+                    "end": 154,
+                    "expanded_url": "https://sap.to/6018ubwpM",
+                    "start": 131,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/insights/viewpoints/ext-how-ai-powered-cybersecurity-combats-ai-threats.html?source=Brand_Story-Key_Dates-Image-Educate%2FEnable-Global-ST4%3A_Culture-SAP_Insights&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11607638054",
+                    "url": "https://t.co/8jDUmxnlFN"
+                },
+                {
+                    "display_url": "pic.twitter.com/AsiIXK8zJp",
+                    "end": 178,
+                    "expanded_url": "https://twitter.com/SAP/status/1717845599075078638/photo/1",
+                    "media_key": "3_1717845595740573696",
+                    "start": 155,
+                    "url": "https://t.co/AsiIXK8zJp"
+                }
+            ]
+        },
+        "id": "1717845599075078638",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6845,
+            "like_count": 24,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 13
+        },
+        "text": "It's as powerful as it is ironic. \n\nThis #CybersecurityMonth, it's more important than ever to stay ahead of AI threats \u2013 with AI: https://t.co/8jDUmxnlFN https://t.co/AsiIXK8zJp"
+    }
+}

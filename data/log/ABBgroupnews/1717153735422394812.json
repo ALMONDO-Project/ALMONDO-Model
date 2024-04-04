@@ -1,0 +1,84 @@
+{
+    "1717153735422394812": {
+        "attachments": {
+            "media_keys": [
+                "3_1717153333297729537"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-10-25T12:18:48.000Z",
+        "edit_history_tweet_ids": [
+            "1717153735422394812"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.5522,
+                    "start": 0,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 110,
+                    "start": 93,
+                    "tag": "EnergyTransition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 24,
+                    "id": "15353955",
+                    "start": 8,
+                    "username": "imperialcollege"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Plant at Imperial College equips workforce for net-zero and helps tackle science, technology, engineering and mathematics (STEM) shortages, with 4,500 students having already used it since 2012 The only teaching facility of its kind in the world uses over 250 instruments and sensors to measure and relay data to a distributed control system, replicating realistic operating conditions A dedicated carbon capture pilot plant will continue to train the net-zero workforce, and engineers and scientists of the",
+                    "display_url": "social.abb/imperial-colle\u2026",
+                    "end": 146,
+                    "expanded_url": "https://social.abb/imperial-college",
+                    "images": [
+                        {
+                            "height": 432,
+                            "url": "https://pbs.twimg.com/news_img/1717137328949403648/MvElIKjf?format=jpg&name=orig",
+                            "width": 768
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1717137328949403648/MvElIKjf?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 123,
+                    "status": 200,
+                    "title": "ABB and Imperial College extend carbon capture collaboration to support future workforce and energy transition",
+                    "unwound_url": "https://new.abb.com/news/detail/108806/abb-and-imperial-college-extend-carbon-capture-collaboration-to-support-future-workforce-and-energy-transition",
+                    "url": "https://t.co/RP46daUS1f"
+                },
+                {
+                    "display_url": "pic.twitter.com/Z8lnkPCcS7",
+                    "end": 170,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1717153735422394812/photo/1",
+                    "media_key": "3_1717153333297729537",
+                    "start": 147,
+                    "url": "https://t.co/Z8lnkPCcS7"
+                }
+            ]
+        },
+        "id": "1717153735422394812",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1991,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "ABB and @imperialcollege extend carbon capture collaboration to support future workforce and #EnergyTransition.\nRead more: https://t.co/RP46daUS1f https://t.co/Z8lnkPCcS7"
+    }
+}

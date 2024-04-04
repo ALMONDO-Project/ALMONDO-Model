@@ -1,0 +1,69 @@
+{
+    "1681688602839752704": {
+        "attachments": {
+            "media_keys": [
+                "3_1681688598377115649"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-19T15:33:01.000Z",
+        "edit_history_tweet_ids": [
+            "1681688602839752704"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Thomson Reuters",
+                    "probability": 0.3745,
+                    "start": 88,
+                    "type": "Organization"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Olivier Blum",
+                    "probability": 0.9709,
+                    "start": 105,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 269,
+                    "start": 247,
+                    "tag": "CleanEnergyTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015PRipS",
+                    "end": 245,
+                    "expanded_url": "http://spr.ly/6015PRipS",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/sustainability/climate-energy/analysis-why-efficiency-should-have-starring-role-energy-transition-2023-07-10/",
+                    "url": "https://t.co/UV4syD99C9"
+                },
+                {
+                    "display_url": "pic.twitter.com/Wp2E1Kz0xz",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1681688602839752704/photo/1",
+                    "media_key": "3_1681688598377115649",
+                    "start": 270,
+                    "url": "https://t.co/Wp2E1Kz0xz"
+                }
+            ]
+        },
+        "id": "1681688602839752704",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1709,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 11
+        },
+        "text": "Energy efficiency is the first fuel to tackle the energy crisis. \nIn his interview with Thomson Reuters, Olivier Blum explains why digital, demand-led transformation is the fastest solution to reducing energy consumption: https://t.co/UV4syD99C9 \n#CleanEnergyTransition https://t.co/Wp2E1Kz0xz"
+    }
+}

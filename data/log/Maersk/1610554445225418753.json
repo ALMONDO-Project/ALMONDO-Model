@@ -1,0 +1,77 @@
+{
+    "1610554445225418753": {
+        "attachments": {
+            "media_keys": [
+                "3_1610554362769678337"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-04T08:31:17.000Z",
+        "edit_history_tweet_ids": [
+            "1610554445225418753"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Lin-Gang",
+                    "probability": 0.709,
+                    "start": 72,
+                    "type": "Place"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Shanghai",
+                    "probability": 0.9634,
+                    "start": 82,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 137,
+                    "start": 125,
+                    "tag": "warehousing"
+                },
+                {
+                    "end": 186,
+                    "start": 176,
+                    "tag": "customers"
+                },
+                {
+                    "end": 228,
+                    "start": 208,
+                    "tag": "integratedlogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/e5cYgZ_r",
+                    "end": 279,
+                    "expanded_url": "https://lnkd.in/e5cYgZ_r",
+                    "start": 256,
+                    "url": "https://t.co/fYcUJZBoAp"
+                },
+                {
+                    "display_url": "pic.twitter.com/TSeXt1XnrD",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1610554445225418753/photo/1",
+                    "media_key": "3_1610554362769678337",
+                    "start": 280,
+                    "url": "https://t.co/TSeXt1XnrD"
+                }
+            ]
+        },
+        "id": "1610554445225418753",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4143,
+            "like_count": 51,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "\ud83c\udfe2We are building our first green and smart flagship logistics centre in Lin-Gang, Shanghai. The centre is designed to have a #warehousing storage of 150,000 sqm to provide our #customers with a wide range of #integratedlogistics services. \nRead more here: https://t.co/fYcUJZBoAp https://t.co/TSeXt1XnrD"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "1673228179375267840": {
+        "attachments": {
+            "media_keys": [
+                "3_1673228050295652354",
+                "3_1673228050513764353",
+                "3_1673228050715082752"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-26T07:14:19.000Z",
+        "edit_history_tweet_ids": [
+            "1673228179375267840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "methanol",
+                    "probability": 0.5101,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "methanol",
+                    "probability": 0.4732,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "methanol",
+                    "probability": 0.471,
+                    "start": 156,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5759,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 236,
+                    "start": 229,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eTpuSEiG",
+                    "end": 276,
+                    "expanded_url": "https://lnkd.in/eTpuSEiG",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/06/26/maersk-orders-six-methanol-powered-vessels",
+                    "url": "https://t.co/12mxcvBalm"
+                },
+                {
+                    "display_url": "pic.twitter.com/3n8mvoPUel",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1673228179375267840/photo/1",
+                    "media_key": "3_1673228050295652354",
+                    "start": 277,
+                    "url": "https://t.co/3n8mvoPUel"
+                },
+                {
+                    "display_url": "pic.twitter.com/3n8mvoPUel",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1673228179375267840/photo/1",
+                    "media_key": "3_1673228050513764353",
+                    "start": 277,
+                    "url": "https://t.co/3n8mvoPUel"
+                },
+                {
+                    "display_url": "pic.twitter.com/3n8mvoPUel",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1673228179375267840/photo/1",
+                    "media_key": "3_1673228050715082752",
+                    "start": 277,
+                    "url": "https://t.co/3n8mvoPUel"
+                }
+            ]
+        },
+        "id": "1673228179375267840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6744,
+            "like_count": 82,
+            "quote_count": 5,
+            "reply_count": 2,
+            "retweet_count": 13
+        },
+        "text": "We have ordered 6 additional green methanol powered vessels\ud83d\udea2\ud83d\udc9aWe now have 25 methanol-enabled vessels on order. Already this summer, the world\u2019s first green methanol-enabled vessel, a 2,100 TEU feeder vessel, will be delivered to #Maersk \ud83c\udf0a\n \nLearn more: https://t.co/12mxcvBalm https://t.co/3n8mvoPUel"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "1658180938528948224": {
+        "author_id": "95291408",
+        "created_at": "2023-05-15T18:41:57.000Z",
+        "edit_history_tweet_ids": [
+            "1658180938528948224"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "HeatPumps",
+                    "probability": 0.6602,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Europe",
+                    "probability": 0.969,
+                    "start": 58,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 14,
+                    "tag": "HeatPumps"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 224,
+                    "id": "2756913982",
+                    "start": 216,
+                    "username": "jfi1963"
+                },
+                {
+                    "end": 253,
+                    "id": "612473",
+                    "start": 245,
+                    "username": "BBCNews"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Nordic countries are way ahead when it comes to installing energy efficient heat pump systems.",
+                    "display_url": "bbc.com/news/business-\u2026",
+                    "end": 278,
+                    "expanded_url": "https://www.bbc.com/news/business-65317369",
+                    "images": [
+                        {
+                            "height": 576,
+                            "url": "https://pbs.twimg.com/news_img/1754854053014626304/a5nuwLk6?format=jpg&name=orig",
+                            "width": 1024
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1754854053014626304/a5nuwLk6?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 255,
+                    "status": 200,
+                    "title": "Which European nations are winning the heat pump race?",
+                    "unwound_url": "https://www.bbc.com/news/business-65317369",
+                    "url": "https://t.co/G0smXfw1W0"
+                }
+            ]
+        },
+        "id": "1658180938528948224",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 516,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "With sales of #HeatPumps growing globally by 11% &amp; in Europe by 40% in 2022, strong progress is being made in moving away from fossil-fuel based heating. However, more needs to be done to support installers says @jfi1963 in an interview for @BBCNews: https://t.co/G0smXfw1W0"
+    }
+}

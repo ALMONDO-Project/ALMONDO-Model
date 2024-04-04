@@ -1,0 +1,83 @@
+{
+    "1651575373925105666": {
+        "attachments": {
+            "media_keys": [
+                "7_1651575239417929729"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-27T13:13:48.000Z",
+        "edit_history_tweet_ids": [
+            "1651575373925105666"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 113,
+                    "normalized_text": "Transport Logistic",
+                    "probability": 0.5196,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 209,
+                    "normalized_text": "Trade Fair Center",
+                    "probability": 0.4739,
+                    "start": 193,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "Germany",
+                    "probability": 0.7004,
+                    "start": 227,
+                    "type": "Place"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6148,
+                    "start": 260,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 266,
+                    "start": 259,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/420Sybp",
+                    "end": 171,
+                    "expanded_url": "https://bit.ly/420Sybp",
+                    "start": 148,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/11/maersk-at-transport-logistic-2023?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_63FC57B931E65_6435717B9F341&utm_term=VOCP&utm_content=EUR_TransportLogistics",
+                    "url": "https://t.co/aNtEk9Kzuk"
+                },
+                {
+                    "display_url": "pic.twitter.com/yMC4Pi2p2H",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/Maersk/status/1651575373925105666/video/1",
+                    "media_key": "7_1651575239417929729",
+                    "start": 267,
+                    "url": "https://t.co/yMC4Pi2p2H"
+                }
+            ]
+        },
+        "id": "1651575373925105666",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3224,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Wondering what difference truly integrated logistics can make to your supply chains? Join us at Transport Logistic 2023 and meet our experts. More: https://t.co/aNtEk9Kzuk \n \ud83d\udcc5 May 9\u201312, 2023 \ud83d\udccd Trade Fair Center Messe - Munich, Germany\nBooth 301/401 - Hall B2 #Maersk https://t.co/yMC4Pi2p2H"
+    }
+}

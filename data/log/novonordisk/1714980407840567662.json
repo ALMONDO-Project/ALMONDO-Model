@@ -1,0 +1,46 @@
+{
+    "1714980407840567662": {
+        "author_id": "194037150",
+        "created_at": "2023-10-19T12:22:46.000Z",
+        "edit_history_tweet_ids": [
+            "1714980407840567662"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 221,
+                    "normalized_text": "Asif",
+                    "probability": 0.425,
+                    "start": 218,
+                    "type": "Organization"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4828,
+                    "start": 224,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "903992282",
+                    "start": 0,
+                    "username": "imidazopiridina"
+                }
+            ]
+        },
+        "id": "1714980407840567662",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 66,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@imidazopiridina Hi, I am sorry to hear that you are having these issues. Kindly DM your contact details and country of residence, so I can create a safety report and share with the relevant safety team.\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

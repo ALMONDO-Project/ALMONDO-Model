@@ -1,0 +1,111 @@
+{
+    "1655870171997691904": {
+        "attachments": {
+            "media_keys": [
+                "13_1655870065307156482"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-05-09T09:39:48.000Z",
+        "edit_history_tweet_ids": [
+            "1655870171997691904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Semikron Danfoss",
+                    "probability": 0.7029,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Nuremberg",
+                    "probability": 0.6864,
+                    "start": 102,
+                    "type": "Place"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "Germany",
+                    "probability": 0.9561,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Semikron Danfoss",
+                    "probability": 0.5048,
+                    "start": 149,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 98,
+                    "start": 81,
+                    "tag": "PowerElectronics"
+                },
+                {
+                    "end": 223,
+                    "start": 209,
+                    "tag": "Semiconductor"
+                },
+                {
+                    "end": 237,
+                    "start": 224,
+                    "tag": "PowerModules"
+                },
+                {
+                    "end": 245,
+                    "start": 238,
+                    "tag": "Stacks"
+                },
+                {
+                    "end": 254,
+                    "start": 246,
+                    "tag": "Systems"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "4857646727",
+                    "start": 35,
+                    "username": "pcimeurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3BaUpPv",
+                    "end": 278,
+                    "expanded_url": "https://bit.ly/3BaUpPv",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.semikron-danfoss.com/about-semikron-danfoss/fairs-events/semikron-danfoss-at-pcim-europe-2023.html",
+                    "url": "https://t.co/HHKEwKhyXE"
+                },
+                {
+                    "display_url": "pic.twitter.com/H0WO4R8Hiw",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1655870171997691904/video/1",
+                    "media_key": "13_1655870065307156482",
+                    "start": 279,
+                    "url": "https://t.co/H0WO4R8Hiw"
+                }
+            ]
+        },
+        "id": "1655870171997691904",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 487,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Happening now: Semikron Danfoss at @pcimeurope the most important trade fair for #PowerElectronics in Nuremberg, Germany. In a world going electric, Semikron Danfoss' technologies are more relevant than ever. #Semiconductor #PowerModules #Stacks #Systems https://t.co/HHKEwKhyXE https://t.co/H0WO4R8Hiw"
+    }
+}

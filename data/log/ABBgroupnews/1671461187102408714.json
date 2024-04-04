@@ -1,0 +1,70 @@
+{
+    "1671461187102408714": {
+        "attachments": {
+            "media_keys": [
+                "3_1671459537168084993"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-21T10:12:55.000Z",
+        "edit_history_tweet_ids": [
+            "1671461187102408714"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "PrideMonth",
+                    "probability": 0.5913,
+                    "start": 31,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "ABB",
+                    "probability": 0.5774,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 41,
+                    "start": 30,
+                    "tag": "PrideMonth"
+                },
+                {
+                    "end": 57,
+                    "start": 53,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 227,
+                    "start": 205,
+                    "tag": "DiversityandInclusion"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/c9KxbLqbcS",
+                    "end": 251,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1671461187102408714/photo/1",
+                    "media_key": "3_1671459537168084993",
+                    "start": 228,
+                    "url": "https://t.co/c9KxbLqbcS"
+                }
+            ]
+        },
+        "id": "1671461187102408714",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1475,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Come as you are - this year\u2019s #PrideMonth tagline at #ABB. Because we believe that everyone deserves to be valued and respected for who they are, regardless of their sexual orientation or gender identity.\n#DiversityandInclusion https://t.co/c9KxbLqbcS"
+    }
+}

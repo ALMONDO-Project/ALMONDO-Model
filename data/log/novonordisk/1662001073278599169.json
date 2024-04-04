@@ -1,0 +1,38 @@
+{
+    "1662001073278599169": {
+        "author_id": "194037150",
+        "created_at": "2023-05-26T07:41:49.000Z",
+        "edit_history_tweet_ids": [
+            "1662001073278599169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "CHMP",
+                    "probability": 0.4669,
+                    "start": 36,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "PRESS"
+                }
+            ]
+        },
+        "id": "1662001073278599169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5511,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 1
+        },
+        "text": "#PRESS Once-weekly product receives CHMP positive opinion for expanded use in children and adolescents with growth hormone deficiency"
+    }
+}

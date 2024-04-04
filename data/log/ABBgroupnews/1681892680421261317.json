@@ -1,0 +1,62 @@
+{
+    "1681892680421261317": {
+        "attachments": {
+            "media_keys": [
+                "7_1681891930781753344"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-07-20T05:03:57.000Z",
+        "edit_history_tweet_ids": [
+            "1681892680421261317"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.5439,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "EBITA",
+                    "probability": 0.5638,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/Q2-2023-results",
+                    "end": 139,
+                    "expanded_url": "https://social.abb/Q2-2023-results",
+                    "start": 116,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/105404/q2-2023-results",
+                    "url": "https://t.co/HyL85NgWI7"
+                },
+                {
+                    "display_url": "pic.twitter.com/GeJdZSPxBK",
+                    "end": 163,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1681892680421261317/video/1",
+                    "media_key": "7_1681891930781753344",
+                    "start": 140,
+                    "url": "https://t.co/GeJdZSPxBK"
+                }
+            ]
+        },
+        "id": "1681892680421261317",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3497,
+            "like_count": 24,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "ABB Q2 2023 results - Comparable order growth from a high base and record-high Operational EBITA margin.\nRead more: https://t.co/HyL85NgWI7 https://t.co/GeJdZSPxBK"
+    }
+}

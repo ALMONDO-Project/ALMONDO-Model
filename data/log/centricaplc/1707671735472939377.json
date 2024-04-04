@@ -1,0 +1,77 @@
+{
+    "1707671735472939377": {
+        "attachments": {
+            "media_keys": [
+                "3_1707671641939984384"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-09-29T08:20:43.000Z",
+        "edit_history_tweet_ids": [
+            "1707671735472939377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "BritishGas",
+                    "probability": 0.574,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "UK",
+                    "probability": 0.9291,
+                    "start": 214,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 31,
+                    "start": 20,
+                    "tag": "BritishGas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 155,
+                    "id": "46630225",
+                    "start": 144,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centrica.com/media-centre/n\u2026",
+                    "end": 269,
+                    "expanded_url": "https://www.centrica.com/media-centre/news/2023/british-gas-opens-up-support-fund-to-help-customers-this-winter/",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/british-gas-opens-up-support-fund-to-help-customers-this-winter/",
+                    "url": "https://t.co/ErpmlxzDMj"
+                },
+                {
+                    "display_url": "pic.twitter.com/lOF7UuTU2Z",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1707671735472939377/photo/1",
+                    "media_key": "3_1707671641939984384",
+                    "start": 270,
+                    "url": "https://t.co/lOF7UuTU2Z"
+                }
+            ]
+        },
+        "id": "1707671735472939377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 507,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "The latest round of #BritishGas Energy Support Funding opens on 2 October 2023, with grants of up to \u00a31.5k to help customers with energy bills. @BritishGas has now committed \u00a3100m, the biggest aid package from any UK supplier. Find out more &gt; https://t.co/ErpmlxzDMj https://t.co/lOF7UuTU2Z"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1704795055817462256": {
+        "attachments": {
+            "media_keys": [
+                "7_1704794915308179456"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-09-21T09:49:49.000Z",
+        "edit_history_tweet_ids": [
+            "1704795055817462256"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "Net Zero Homes Index",
+                    "probability": 0.8362,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5382,
+                    "start": 140,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 147,
+                    "start": 139,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 23,
+                    "id": "46630225",
+                    "start": 12,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3PNe3t1",
+                    "end": 272,
+                    "expanded_url": "https://bit.ly/3PNe3t1",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/british-gas-releases-second-uk-net-zero-homes-index/",
+                    "url": "https://t.co/7xOvelZ92U"
+                },
+                {
+                    "display_url": "pic.twitter.com/0k7wlBcLSD",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1704795055817462256/video/1",
+                    "media_key": "7_1704794915308179456",
+                    "start": 273,
+                    "url": "https://t.co/0k7wlBcLSD"
+                }
+            ]
+        },
+        "id": "1704795055817462256",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 273,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "The team at @BritishGas just published their second Net Zero Homes Index. \n\nThe Index is full of insights about the public\u2019s commitment to #NetZero and tells us how views of about the journey to net zero have changed over the past year.    \n\nMore \u2192 https://t.co/7xOvelZ92U https://t.co/0k7wlBcLSD"
+    }
+}

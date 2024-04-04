@@ -1,0 +1,69 @@
+{
+    "1634095885645668352": {
+        "author_id": "95291408",
+        "created_at": "2023-03-10T07:36:33.000Z",
+        "edit_history_tweet_ids": [
+            "1634095885645668352"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Niels",
+                    "probability": 0.5878,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 29,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.5204,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Brussels",
+                    "probability": 0.9348,
+                    "start": 124,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 118,
+                    "start": 101,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "whyee.com",
+                    "end": 278,
+                    "expanded_url": "http://whyee.com",
+                    "start": 255,
+                    "unwound_url": "https://www.whyenergyefficiency.com/",
+                    "url": "https://t.co/m3xJGrPfya"
+                },
+                {
+                    "display_url": "x.com/NielsFuglsang/\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/NielsFuglsang/status/1634068742115082240",
+                    "start": 279,
+                    "url": "https://t.co/UDqx8uKpN4"
+                }
+            ]
+        },
+        "id": "1634095885645668352",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 647,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Congratulations Niels! Danfoss welcomes the successful conclusion of negotiations. A strong push for #EnergyEfficiency from Brussels is key, if we are to both meet our climate goals and tackle elevated energy prices. Explore more about energy efficiency: https://t.co/m3xJGrPfya https://t.co/UDqx8uKpN4"
+    }
+}

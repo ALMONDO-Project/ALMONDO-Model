@@ -1,0 +1,64 @@
+{
+    "1630182561333870592": {
+        "author_id": "23085995",
+        "created_at": "2023-02-27T12:26:24.000Z",
+        "edit_history_tweet_ids": [
+            "1630182561333870592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Antonio",
+                    "probability": 0.5534,
+                    "start": 11,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "977270577634390016",
+                    "start": 0,
+                    "username": "_lxury"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Nestl\u00e9 is committed to working with our suppliers and local communities to prevent and address child labor risks in our supply chain. Find out more.",
+                    "display_url": "nes.tl/AskChildLabor",
+                    "end": 290,
+                    "expanded_url": "https://nes.tl/AskChildLabor",
+                    "images": [
+                        {
+                            "height": 519,
+                            "url": "https://pbs.twimg.com/news_img/1756721287114752000/4_lKQjYz?format=jpg&name=orig",
+                            "width": 1075
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1756721287114752000/4_lKQjYz?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 267,
+                    "status": 200,
+                    "title": "How is Nestl\u00e9 tackling child labor risk?",
+                    "unwound_url": "https://www.nestle.com/ask-nestle/human-rights/answers/nestle-child-labour-supply-chains",
+                    "url": "https://t.co/w0H9EhGv0s"
+                }
+            ]
+        },
+        "id": "1630182561333870592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 395,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@_lxury Hi Antonio, Child exploitation is unacceptable. That\u2019s why we work tirelessly to address it. Our new income accelerator program builds upon existing work to tackle child labor risks &amp; aims to transform not just ours but our industry\u2019s supply chain. More: https://t.co/w0H9EhGv0s"
+    }
+}

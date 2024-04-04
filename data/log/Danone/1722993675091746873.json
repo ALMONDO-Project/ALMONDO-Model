@@ -1,0 +1,50 @@
+{
+    "1722993675091746873": {
+        "author_id": "570715775",
+        "created_at": "2023-11-10T15:04:38.000Z",
+        "edit_history_tweet_ids": [
+            "1722993675091746873"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "cancer",
+                    "probability": 0.5547,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Danone",
+                    "probability": 0.6948,
+                    "start": 74,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 13,
+                    "tag": "malnutrition"
+                },
+                {
+                    "end": 212,
+                    "start": 195,
+                    "tag": "MedicalNutrition"
+                }
+            ]
+        },
+        "id": "1722993675091746873",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1937,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 6,
+            "retweet_count": 4
+        },
+        "text": "Did you know #malnutrition affects up to 70% of patients with cancer?\n\nAt Danone, we help bring health through food, including to people with or at risk of disease-related malnutrition through.\n\n#MedicalNutrition"
+    }
+}

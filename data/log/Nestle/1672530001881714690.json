@@ -1,0 +1,57 @@
+{
+    "1672530001881714690": {
+        "author_id": "23085995",
+        "created_at": "2023-06-24T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1672530001881714690"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Nigerian Empowering",
+                    "probability": 0.4275,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Nigeria Project",
+                    "probability": 0.5669,
+                    "start": 42,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 278,
+                    "id": "3124150666",
+                    "start": 263,
+                    "username": "nglobalpatriot"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3qSzpLs",
+                    "end": 257,
+                    "expanded_url": "http://bit.ly/3qSzpLs",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://globalpatriotnews.com/nestle-making-more-nigerian-women-financially-secure/",
+                    "url": "https://t.co/cj8OPNKa4B"
+                }
+            ]
+        },
+        "id": "1672530001881714690",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15313,
+            "like_count": 788,
+            "quote_count": 1,
+            "reply_count": 49,
+            "retweet_count": 366
+        },
+        "text": "Nestl\u00e9 Nigerian Empowering Rural Women in Nigeria Project aims to help rural women build financial security through training, mentorship, &amp; grants. \ud83d\udcaa Program participants are female retailers in our Nigerian value chain. Read up: https://t.co/cj8OPNKa4B (via @nglobalpatriot)"
+    }
+}

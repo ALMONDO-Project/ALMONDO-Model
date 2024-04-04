@@ -1,0 +1,79 @@
+{
+    "1669301194215358464": {
+        "attachments": {
+            "media_keys": [
+                "7_1669300693008613382"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-15T11:09:53.000Z",
+        "edit_history_tweet_ids": [
+            "1669301194215358464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "methanol",
+                    "probability": 0.5684,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4849,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 227,
+                    "start": 220,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 248,
+                    "start": 228,
+                    "tag": "sustainableshipping"
+                },
+                {
+                    "end": 265,
+                    "start": 249,
+                    "tag": "allthewaytozero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eaFeTTSV",
+                    "end": 218,
+                    "expanded_url": "https://lnkd.in/eaFeTTSV",
+                    "start": 195,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=0wt9n0jQ5xw&t",
+                    "url": "https://t.co/gPrQj1LaC8"
+                },
+                {
+                    "display_url": "pic.twitter.com/7uApWDG9My",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Maersk/status/1669301194215358464/video/1",
+                    "media_key": "7_1669300693008613382",
+                    "start": 266,
+                    "url": "https://t.co/7uApWDG9My"
+                }
+            ]
+        },
+        "id": "1669301194215358464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3535,
+            "like_count": 39,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Learn how the methanol for the maiden voyage of the world's first methanol-enabled container vessel is sourced and produced and how we ensure it complies with green fuel criteria\ud83d\udc9a\n\nFull episode: https://t.co/gPrQj1LaC8\n\n#Maersk #sustainableshipping #allthewaytozero https://t.co/7uApWDG9My"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "1636654899172634624": {
+        "attachments": {
+            "media_keys": [
+                "3_1636654879216156673",
+                "3_1636654879333548032",
+                "3_1636654879492939778",
+                "3_1636654879551660032"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-17T09:05:10.000Z",
+        "edit_history_tweet_ids": [
+            "1636654899172634624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Maersk Tech",
+                    "probability": 0.6658,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Maersk Copenhagen",
+                    "probability": 0.5186,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Bangalore",
+                    "probability": 0.9271,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Maersk Tech Expo",
+                    "probability": 0.8376,
+                    "start": 156,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 4,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 111,
+                    "start": 100,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 275,
+                    "start": 265,
+                    "tag": "logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/tdMS97czu3",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1636654899172634624/photo/1",
+                    "media_key": "3_1636654879216156673",
+                    "start": 277,
+                    "url": "https://t.co/tdMS97czu3"
+                },
+                {
+                    "display_url": "pic.twitter.com/tdMS97czu3",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1636654899172634624/photo/1",
+                    "media_key": "3_1636654879333548032",
+                    "start": 277,
+                    "url": "https://t.co/tdMS97czu3"
+                },
+                {
+                    "display_url": "pic.twitter.com/tdMS97czu3",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1636654899172634624/photo/1",
+                    "media_key": "3_1636654879492939778",
+                    "start": 277,
+                    "url": "https://t.co/tdMS97czu3"
+                },
+                {
+                    "display_url": "pic.twitter.com/tdMS97czu3",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1636654899172634624/photo/1",
+                    "media_key": "3_1636654879551660032",
+                    "start": 277,
+                    "url": "https://t.co/tdMS97czu3"
+                }
+            ]
+        },
+        "id": "1636654899172634624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4621,
+            "like_count": 64,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "The #Maersk Tech Expo\ud83d\udce3\nA day to get blown away at the Maersk Copenhagen and Bangalore offices where #innovation and collaboration come together\ud83e\udd1d\nDuring the Maersk Tech Expo 1400 colleagues gather to share, learn, and inspire each other with work to reinvent global #logistics. https://t.co/tdMS97czu3"
+    }
+}

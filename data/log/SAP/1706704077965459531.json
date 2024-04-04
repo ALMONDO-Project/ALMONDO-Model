@@ -1,0 +1,69 @@
+{
+    "1706704077965459531": {
+        "attachments": {
+            "media_keys": [
+                "13_1706703931101814787"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-09-26T16:15:35.000Z",
+        "edit_history_tweet_ids": [
+            "1706704077965459531"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Joule",
+                    "probability": 0.4499,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 22,
+                    "normalized_text": "AI",
+                    "probability": 0.5973,
+                    "start": 21,
+                    "type": "Organization"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "SAP",
+                    "probability": 0.7807,
+                    "start": 141,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017u18HJ",
+                    "end": 174,
+                    "expanded_url": "https://sap.to/6017u18HJ",
+                    "start": 151,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html?source=social-Global-TWITTER-BTP-Artificial_Intelligence-spr-11423782444-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11423782444",
+                    "url": "https://t.co/NwqvXCxBs4"
+                },
+                {
+                    "display_url": "pic.twitter.com/eHRPKKwr8c",
+                    "end": 198,
+                    "expanded_url": "https://twitter.com/SAP/status/1706704077965459531/video/1",
+                    "media_key": "13_1706703931101814787",
+                    "start": 175,
+                    "url": "https://t.co/eHRPKKwr8c"
+                }
+            ]
+        },
+        "id": "1706704077965459531",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 21852,
+            "like_count": 107,
+            "quote_count": 6,
+            "reply_count": 8,
+            "retweet_count": 49
+        },
+        "text": "Meet Joule, your new AI copilot for personalized assistance, instant insights, and enhanced productivity \u2013 seamlessly integrated across your SAP apps. https://t.co/NwqvXCxBs4 https://t.co/eHRPKKwr8c"
+    }
+}

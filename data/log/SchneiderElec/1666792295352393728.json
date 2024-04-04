@@ -1,0 +1,81 @@
+{
+    "1666792295352393728": {
+        "attachments": {
+            "media_keys": [
+                "13_1666792198497619968"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-08T13:00:25.000Z",
+        "edit_history_tweet_ids": [
+            "1666792295352393728"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 112,
+                    "normalized_text": "Blue Ocean Technology",
+                    "probability": 0.5422,
+                    "start": 92,
+                    "type": "Other"
+                },
+                {
+                    "end": 141,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.4687,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "WorldOceansDay",
+                    "probability": 0.5552,
+                    "start": 226,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 142,
+                    "start": 130,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 240,
+                    "start": 225,
+                    "tag": "WorldOceansDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6004OsCbO",
+                    "end": 280,
+                    "expanded_url": "http://spr.ly/6004OsCbO",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/life-is-on/case-study/blue-ocean-technology.jsp",
+                    "url": "https://t.co/KEMskJytF2"
+                },
+                {
+                    "display_url": "pic.twitter.com/Oifw3d9EBG",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1666792295352393728/video/1",
+                    "media_key": "13_1666792198497619968",
+                    "start": 281,
+                    "url": "https://t.co/Oifw3d9EBG"
+                }
+            ]
+        },
+        "id": "1666792295352393728",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1233,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "To create a healthy ocean, 30% of our planet\u2019s lands, waters, and ocean must be protected.\n\nBlue Ocean Technology uses the latest #EcoStruxure technologies for an innovative aquaculture solution that preserves our oceans. On #WorldOceansDay, discover more: https://t.co/KEMskJytF2 https://t.co/Oifw3d9EBG"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "1666038035782287360": {
+        "attachments": {
+            "media_keys": [
+                "3_1666038032875569152"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-06T11:03:15.000Z",
+        "edit_history_tweet_ids": [
+            "1666038035782287360"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Philippe Delorme",
+                    "probability": 0.7126,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 27,
+                    "normalized_text": "EVP Europe",
+                    "probability": 0.3324,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Conference",
+                    "probability": 0.6201,
+                    "start": 62,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 91,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 52,
+                    "id": "84679163",
+                    "start": 48,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/SMMpK6gUwa",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1666038035782287360/photo/1",
+                    "media_key": "3_1666038032875569152",
+                    "start": 269,
+                    "url": "https://t.co/SMMpK6gUwa"
+                }
+            ]
+        },
+        "id": "1666038035782287360",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 984,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Philippe Delorme, EVP Europe Operations, at the @IEA's Global Conference: \"We believe that #EnergyEfficiency is the best vaccine for the energy crisis we are going through today. The digital technologies needed to drive energy efficiency exist. What we need is speed!\" https://t.co/SMMpK6gUwa"
+    }
+}

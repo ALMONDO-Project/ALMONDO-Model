@@ -1,0 +1,68 @@
+{
+    "1620772935551299586": {
+        "author_id": "268267143",
+        "created_at": "2023-02-01T13:15:54.000Z",
+        "edit_history_tweet_ids": [
+            "1620772935551299586"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 49,
+                    "tag": "CarbonFighters"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "609443924",
+                    "start": 0,
+                    "username": "epicsefy"
+                },
+                {
+                    "end": 21,
+                    "id": "3390937060",
+                    "start": 10,
+                    "username": "RebeuDeter"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Planet Minecraft is a family friendly community that shares and respects the creative works and interests of others. We have a variety of entertaining...",
+                    "display_url": "planetminecraft.com",
+                    "end": 125,
+                    "expanded_url": "http://planetminecraft.com",
+                    "images": [
+                        {
+                            "height": 72,
+                            "url": "https://pbs.twimg.com/news_img/1772167838767198208/GAzW9DTh?format=png&name=orig",
+                            "width": 222
+                        },
+                        {
+                            "height": 72,
+                            "url": "https://pbs.twimg.com/news_img/1772167838767198208/GAzW9DTh?format=png&name=150x150",
+                            "width": 72
+                        }
+                    ],
+                    "start": 102,
+                    "status": 200,
+                    "title": "Planet Minecraft Community | Creative fansite for everything Minecraft!",
+                    "unwound_url": "https://www.planetminecraft.com/",
+                    "url": "https://t.co/93nsH95N5C"
+                }
+            ]
+        },
+        "id": "1620772935551299586",
+        "lang": "fr",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 373,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@epicsefy @RebeuDeter On voit que notre datapack #CarbonFighters fait des heureux !\u00a0Pour le tester \ud83d\udc49\u00a0\u00a0https://t.co/93nsH95N5C"
+    }
+}

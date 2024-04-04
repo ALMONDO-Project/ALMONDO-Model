@@ -1,0 +1,99 @@
+{
+    "1645692025822494720": {
+        "attachments": {
+            "media_keys": [
+                "3_1645692023519805440"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-11T07:35:29.000Z",
+        "edit_history_tweet_ids": [
+            "1645692025822494720"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 108,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5215,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Jamie Wright",
+                    "probability": 0.9552,
+                    "start": 111,
+                    "type": "Person"
+                },
+                {
+                    "end": 141,
+                    "normalized_text": "OCS",
+                    "probability": 0.4278,
+                    "start": 139,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Toronto",
+                    "probability": 0.7536,
+                    "start": 220,
+                    "type": "Place"
+                },
+                {
+                    "end": 234,
+                    "normalized_text": "Canada",
+                    "probability": 0.9534,
+                    "start": 229,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 109,
+                    "start": 98,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 252,
+                    "start": 237,
+                    "tag": "AlstomServices"
+                },
+                {
+                    "end": 263,
+                    "start": 253,
+                    "tag": "diversity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 216,
+                    "id": "826068739741347841",
+                    "start": 206,
+                    "username": "crosslinx"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/K7K4qHyBbL",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/Alstom/status/1645692025822494720/photo/1",
+                    "media_key": "3_1645692023519805440",
+                    "start": 264,
+                    "url": "https://t.co/K7K4qHyBbL"
+                }
+            ]
+        },
+        "id": "1645692025822494720",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1835,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Ensuring that our customers\u2019 assets are fully operational is key, and we couldn\u2019t do that without #TeamAlstom. Jamie Wright, our Track and OCS Team Lead Technician, actively contributes to this success for @crosslinx in Toronto, Canada. #AlstomServices #diversity https://t.co/K7K4qHyBbL"
+    }
+}

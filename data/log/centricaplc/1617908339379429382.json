@@ -1,0 +1,70 @@
+{
+    "1617908339379429382": {
+        "attachments": {
+            "media_keys": [
+                "7_1617906544569368578"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-01-24T15:33:02.000Z",
+        "edit_history_tweet_ids": [
+            "1617908339379429382"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "William Mezzullo",
+                    "probability": 0.9321,
+                    "start": 46,
+                    "type": "Person"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "UK",
+                    "probability": 0.9756,
+                    "start": 199,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 110,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 144,
+                    "start": 132,
+                    "tag": "flexibility"
+                },
+                {
+                    "end": 263,
+                    "start": 254,
+                    "tag": "hydrogen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/LpZYtLoJyr",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1617908339379429382/video/1",
+                    "media_key": "7_1617906544569368578",
+                    "start": 273,
+                    "url": "https://t.co/LpZYtLoJyr"
+                }
+            ]
+        },
+        "id": "1617908339379429382",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 584,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Speaking at the @CommonsBEIS select committee William Mezzullo, our head of hydrogen, spoke about the role of #hydrogen storage and #flexibility in a low carbon energy system.\n\nHe suggested that the UK is uniquely placed to take advantage of the growing #hydrogen economy. https://t.co/LpZYtLoJyr"
+    }
+}

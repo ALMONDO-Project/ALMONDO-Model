@@ -1,0 +1,76 @@
+{
+    "1693961888676094088": {
+        "attachments": {
+            "media_keys": [
+                "13_1693961864860839936"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-08-22T12:22:41.000Z",
+        "edit_history_tweet_ids": [
+            "1693961888676094088"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 110,
+                    "normalized_text": "AI",
+                    "probability": 0.8007,
+                    "start": 109,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 111,
+                    "start": 108,
+                    "tag": "AI"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 126,
+                    "id": "121245679",
+                    "start": 113,
+                    "username": "ritubhargava"
+                },
+                {
+                    "end": 173,
+                    "id": "20263610",
+                    "start": 166,
+                    "username": "SAP_CX"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017PWkUH",
+                    "end": 164,
+                    "expanded_url": "https://sap.to/6017PWkUH",
+                    "start": 141,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/08/data-transparency-ai-customer-experience/?source=social-Global-TWITTER-CX-spr-11119881197-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11119881197",
+                    "url": "https://t.co/JlyRN4RU45"
+                },
+                {
+                    "display_url": "pic.twitter.com/LGE7SwidZV",
+                    "end": 197,
+                    "expanded_url": "https://twitter.com/SAP/status/1693961888676094088/video/1",
+                    "media_key": "13_1693961864860839936",
+                    "start": 174,
+                    "url": "https://t.co/LGE7SwidZV"
+                }
+            ]
+        },
+        "id": "1693961888676094088",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5035,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Surveys show customers expect personalized shopping experiences.\n\nAnd retailers can deliver with generative #AI. @ritubhargava explains how: https://t.co/JlyRN4RU45\n\n@SAP_CX https://t.co/LGE7SwidZV"
+    }
+}

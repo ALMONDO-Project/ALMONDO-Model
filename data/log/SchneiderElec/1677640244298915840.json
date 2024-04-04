@@ -1,0 +1,79 @@
+{
+    "1677640244298915840": {
+        "attachments": {
+            "media_keys": [
+                "13_1677640136660590594"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-08T11:26:17.000Z",
+        "edit_history_tweet_ids": [
+            "1677640244298915840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 75,
+                    "normalized_text": "MCSet",
+                    "probability": 0.9042,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Switchgear",
+                    "probability": 0.3438,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 41,
+                    "tag": "connectivity"
+                },
+                {
+                    "end": 196,
+                    "start": 179,
+                    "tag": "DigitalSolutions"
+                },
+                {
+                    "end": 264,
+                    "start": 255,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6013PEHM7",
+                    "end": 253,
+                    "expanded_url": "http://spr.ly/6013PEHM7",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/product-range/984-mcset-17-5-kv/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10566110675&utm_campaign=EcoStruxure_for_Power_%26_Grid&country=Global#overview",
+                    "url": "https://t.co/sPYbiKsItp"
+                },
+                {
+                    "display_url": "pic.twitter.com/x3Ai0Kfmuk",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1677640244298915840/video/1",
+                    "media_key": "13_1677640136660590594",
+                    "start": 265,
+                    "url": "https://t.co/x3Ai0Kfmuk"
+                }
+            ]
+        },
+        "id": "1677640244298915840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1505,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Learn about the implementation of Active #connectivity in the existing MCSet MV Switchgear through our quick introduction. Dive deeper into this cutting-edge solution and embrace #DigitalSolutions that enhance our everyday lives. https://t.co/sPYbiKsItp\n\n#LifeIsOn https://t.co/x3Ai0Kfmuk"
+    }
+}

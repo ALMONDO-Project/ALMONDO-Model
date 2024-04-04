@@ -1,0 +1,50 @@
+{
+    "1684096213845528578": {
+        "author_id": "23085995",
+        "created_at": "2023-07-26T07:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1684096213845528578"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Milo",
+                    "probability": 0.3692,
+                    "start": 40,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 209,
+                    "id": "1335915221500764162",
+                    "start": 194,
+                    "username": "thegallantnews"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3O2PB69",
+                    "end": 188,
+                    "expanded_url": "https://bit.ly/3O2PB69",
+                    "start": 165,
+                    "status": 200,
+                    "unwound_url": "https://www.thegallantnews.com.ng/2023/06/topfields-college-wins-both-girls-boys.html",
+                    "url": "https://t.co/KcnQ9QEkhN"
+                }
+            ]
+        },
+        "id": "1684096213845528578",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 60678,
+            "like_count": 791,
+            "quote_count": 11,
+            "reply_count": 372,
+            "retweet_count": 313
+        },
+        "text": "There's no \"i\" in team, but there is in Milo, and our Nigerian teams, made sure to help support this basketball teams had the chance to shine on the court. Read up: https://t.co/KcnQ9QEkhN (via @thegallantnews)"
+    }
+}

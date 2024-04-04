@@ -1,0 +1,58 @@
+{
+    "1738591636374904949": {
+        "author_id": "23085995",
+        "created_at": "2023-12-23T16:05:22.000Z",
+        "edit_history_tweet_ids": [
+            "1738591636374904949"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Ange",
+                    "probability": 0.6381,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Nestl\u00e9 Ice Cream",
+                    "probability": 0.6284,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "FRONERI",
+                    "probability": 0.634,
+                    "start": 116,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "FRONERI will use your personal data for the purpose of responding to your query. Froneri will manage your personal data in accordance with applicable law and as further described in our Privacy Policy. You have rights relating to your personal data such as the right to access, rectify, erase, and restrict or object to the processing of your personal data as described in our Privacy Policy. If you have any comments or questions about Froneri, our products or our brands, please contact us and we\u2019ll be happy",
+                    "display_url": "froneri.ph/contact-us",
+                    "end": 206,
+                    "expanded_url": "https://www.froneri.ph/contact-us",
+                    "start": 183,
+                    "status": 200,
+                    "title": "Contact Us - Froneri PH",
+                    "unwound_url": "https://froneri.ph/contact-us/",
+                    "url": "https://t.co/CgfgzbgY19"
+                }
+            ]
+        },
+        "id": "1738591636374904949",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 510,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@gelhernz Hi, Ange! We\u2019d like to let you know that our Nestl\u00e9 Ice Cream and Chilled products are now handled by our FRONERI team. You may contact them directly through their website: https://t.co/CgfgzbgY19\n\nThank you and stay safe!"
+    }
+}

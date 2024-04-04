@@ -1,0 +1,61 @@
+{
+    "1661658546415476737": {
+        "attachments": {
+            "media_keys": [
+                "3_1661658048006324225"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-05-25T09:00:44.000Z",
+        "edit_history_tweet_ids": [
+            "1661658546415476737"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "t LGBT",
+                    "probability": 0.8343,
+                    "start": 93,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "e ",
+                    "probability": 0.9772,
+                    "start": 117,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 21,
+                    "id": "80542580",
+                    "start": 5,
+                    "username": "BirminghamPride"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/nk4don2ZYh",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1661658546415476737/photo/1",
+                    "media_key": "3_1661658048006324225",
+                    "start": 260,
+                    "url": "https://t.co/nk4don2ZYh"
+                }
+            ]
+        },
+        "id": "1661658546415476737",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 836,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "It's @BirminghamPride this weekend and we\u2019re supporting it \ud83c\udff3\ufe0f\u200d\ud83c\udf08\nIt's one of the most important LGBTQ+ festivals in the UK. \nInclusion in all its forms is at the heart of E.ON life and we\u2019re proud to be a place where our colleagues feel respected and valued \u2665\ufe0f https://t.co/nk4don2ZYh"
+    }
+}

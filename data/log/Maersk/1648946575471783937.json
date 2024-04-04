@@ -1,0 +1,77 @@
+{
+    "1648946575471783937": {
+        "attachments": {
+            "media_keys": [
+                "7_1648946384467271681"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-20T07:07:54.000Z",
+        "edit_history_tweet_ids": [
+            "1648946575471783937"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 148,
+                    "normalized_text": "greenmethanol",
+                    "probability": 0.6693,
+                    "start": 136,
+                    "type": "Other"
+                },
+                {
+                    "end": 267,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.487,
+                    "start": 253,
+                    "type": "Other"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4168,
+                    "start": 271,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 149,
+                    "start": 135,
+                    "tag": "greenmethanol"
+                },
+                {
+                    "end": 268,
+                    "start": 252,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 277,
+                    "start": 270,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/dWpel8ccoI",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1648946575471783937/video/1",
+                    "media_key": "7_1648946384467271681",
+                    "start": 278,
+                    "url": "https://t.co/dWpel8ccoI"
+                }
+            ]
+        },
+        "id": "1648946575471783937",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 12648,
+            "like_count": 161,
+            "quote_count": 8,
+            "reply_count": 1,
+            "retweet_count": 31
+        },
+        "text": "ICYMI\ud83c\udf0aLaunching the world\u2019s first methanol vessel from drydock to water for the first time. Our dual fuel engine is able to operate on #greenmethanol on both the main engine and auxiliary engines.\nA significant milestone in the decarbonisation journey #allthewaytozero.\n#Maersk https://t.co/dWpel8ccoI"
+    }
+}

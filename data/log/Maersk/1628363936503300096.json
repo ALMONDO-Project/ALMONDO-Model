@@ -1,0 +1,92 @@
+{
+    "1628363936503300096": {
+        "attachments": {
+            "media_keys": [
+                "3_1628363888721813507"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-22T11:59:50.000Z",
+        "edit_history_tweet_ids": [
+            "1628363936503300096"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "LinkedIn",
+                    "probability": 0.6835,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3156,
+                    "start": 128,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 99,
+                    "start": 89,
+                    "tag": "Diversity"
+                },
+                {
+                    "end": 108,
+                    "start": 101,
+                    "tag": "Equity"
+                },
+                {
+                    "end": 123,
+                    "start": 113,
+                    "tag": "Inclusion"
+                },
+                {
+                    "end": 134,
+                    "start": 127,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 267,
+                    "start": 252,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 272,
+                    "start": 268,
+                    "tag": "ESG"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "linkedin.com/events/7034126\u2026",
+                    "end": 205,
+                    "expanded_url": "https://www.linkedin.com/events/7034126491995009024",
+                    "start": 182,
+                    "url": "https://t.co/aq8QIeik6N"
+                },
+                {
+                    "display_url": "pic.twitter.com/kPaooDAaEs",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Maersk/status/1628363936503300096/photo/1",
+                    "media_key": "3_1628363888721813507",
+                    "start": 273,
+                    "url": "https://t.co/kPaooDAaEs"
+                }
+            ]
+        },
+        "id": "1628363936503300096",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3413,
+            "like_count": 29,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "Join us at our next LinkedIn Live event on 8th of March at 13:30 CET to learn more about #Diversity, #Equity and #Inclusion at #Maersk! \n\nLearn more and register for the event here: https://t.co/aq8QIeik6N\n\nLeave your questions in the comments below!\n\n#Sustainability #ESG https://t.co/kPaooDAaEs"
+    }
+}

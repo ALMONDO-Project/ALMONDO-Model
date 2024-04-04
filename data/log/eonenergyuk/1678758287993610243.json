@@ -1,0 +1,64 @@
+{
+    "1678758287993610243": {
+        "author_id": "142611379",
+        "created_at": "2023-07-11T13:29:00.000Z",
+        "edit_history_tweet_ids": [
+            "1678758287993610243"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Citigen",
+                    "probability": 0.4234,
+                    "start": 63,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "2220031111",
+                    "start": 17,
+                    "username": "LDN_gov"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This video showcases the Mayor\u2019s Flagship Retrofit Accelerator for Homes and Workplaces and the Local Energy Accelerator funding programmes, co-funded by the...",
+                    "display_url": "youtube.com/watch?v=sRX1ZH\u2026",
+                    "end": 199,
+                    "expanded_url": "https://www.youtube.com/watch?v=sRX1ZHQe1aM",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1741467330188595200/bme8gOz1?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1741467330188595200/bme8gOz1?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 176,
+                    "status": 200,
+                    "title": "Showcasing the Mayor of London\u2019s Low Carbon Accelerators",
+                    "unwound_url": "https://www.youtube.com/watch?v=sRX1ZHQe1aM",
+                    "url": "https://t.co/kMqk8ntqJN"
+                }
+            ]
+        },
+        "id": "1678758287993610243",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1191,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re supporting @LDN_gov\u2019s cleaner future with solutions like Citigen, our low carbon heating and cooling system in the heart of the city. Skip to 5:40 to see it in action \ud83c\udfac\n\nhttps://t.co/kMqk8ntqJN"
+    }
+}

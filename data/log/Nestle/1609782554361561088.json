@@ -1,0 +1,53 @@
+{
+    "1609782554361561088": {
+        "author_id": "23085995",
+        "created_at": "2023-01-02T05:24:03.000Z",
+        "edit_history_tweet_ids": [
+            "1609782554361561088"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Brooke",
+                    "probability": 0.5833,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "Violet Crumble",
+                    "probability": 0.8611,
+                    "start": 88,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Robern Menz",
+                    "probability": 0.8853,
+                    "start": 136,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "181154655",
+                    "start": 0,
+                    "username": "B_Richardson_"
+                }
+            ]
+        },
+        "id": "1609782554361561088",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 136,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@B_Richardson_ Hi Brooke, Thank you for contacting us regarding your recent purchase of Violet Crumble. This product is manufactured by Robern Menz so their team will be able to help."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1679664622876475393": {
+        "author_id": "393757140",
+        "created_at": "2023-07-14T01:30:27.000Z",
+        "edit_history_tweet_ids": [
+            "1679664622876475393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Alber Jahangir",
+                    "probability": 0.8531,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Rahul Ranjan",
+                    "probability": 0.9649,
+                    "start": 254,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "31709170",
+                    "start": 0,
+                    "username": "alber786"
+                },
+                {
+                    "end": 18,
+                    "id": "9072012",
+                    "start": 13,
+                    "username": "Mohd"
+                }
+            ]
+        },
+        "id": "1679664622876475393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 35,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "@alber786 Hi @Mohd. Alber Jahangir, we\u2019re sorry for your negative experience with our products. We\u2019d like  to know more about your situation and make things right. Would you mind  sending your contact details via DM so we can reach out to you? Thanks. - Rahul Ranjan"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "1623664555355172865": {
+        "attachments": {
+            "media_keys": [
+                "3_1623664200919777280"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-09T12:46:10.000Z",
+        "edit_history_tweet_ids": [
+            "1623664555355172865"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "ESG",
+                    "probability": 0.6952,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "ESG",
+                    "probability": 0.766,
+                    "start": 121,
+                    "type": "Other"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "ESG",
+                    "probability": 0.6573,
+                    "start": 198,
+                    "type": "Other"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5816,
+                    "start": 264,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "ESG",
+                    "probability": 0.5833,
+                    "start": 272,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 263,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 275,
+                    "start": 271,
+                    "tag": "ESG"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 89,
+                    "id": "1276023186346463233",
+                    "start": 74,
+                    "username": "ZeroCarbonShip"
+                },
+                {
+                    "end": 98,
+                    "id": "501801749",
+                    "start": 94,
+                    "username": "BCG"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "zerocarbonshipping.com/publications/t\u2026",
+                    "end": 261,
+                    "expanded_url": "https://www.zerocarbonshipping.com/publications/the-esg-playbook-for-shipping/",
+                    "start": 238,
+                    "url": "https://t.co/ROonoryW41"
+                },
+                {
+                    "display_url": "pic.twitter.com/fQFBPqZmpN",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1623664555355172865/photo/1",
+                    "media_key": "3_1623664200919777280",
+                    "start": 276,
+                    "url": "https://t.co/fQFBPqZmpN"
+                }
+            ]
+        },
+        "id": "1623664555355172865",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12059,
+            "like_count": 29,
+            "quote_count": 5,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "\ud83c\udf31 How can shipping companies ensure to build future-proof ESG strategies? @ZeroCarbonShip and @BCG have co-developed the ESG Playbook for Shipping to assist shipping companies of all sizes on their ESG journey. Access the Playbook here \ud83d\udc49 https://t.co/ROonoryW41\n\n#Maersk #ESG https://t.co/fQFBPqZmpN"
+    }
+}

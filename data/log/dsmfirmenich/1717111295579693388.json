@@ -1,0 +1,67 @@
+{
+    "1717111295579693388": {
+        "attachments": {
+            "media_keys": [
+                "3_1717111274562084864"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-10-25T09:30:09.000Z",
+        "edit_history_tweet_ids": [
+            "1717111295579693388"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 164,
+                    "normalized_text": "EFIB",
+                    "probability": 0.6903,
+                    "start": 161,
+                    "type": "Organization"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "Rotterdam",
+                    "probability": 0.9056,
+                    "start": 187,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 94,
+                    "id": "451481808",
+                    "start": 79,
+                    "username": "sarahreisinger"
+                },
+                {
+                    "end": 182,
+                    "id": "388812797",
+                    "start": 167,
+                    "username": "EFIBconference"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/HZItJuj0PO",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1717111295579693388/photo/1",
+                    "media_key": "3_1717111274562084864",
+                    "start": 262,
+                    "url": "https://t.co/HZItJuj0PO"
+                }
+            ]
+        },
+        "id": "1717111295579693388",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 761,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "\u201cWe cannot be successful in splendid isolation!\u201d\n \nInspiring words indeed from @sarahreisinger, our Chief Science &amp; Research Officer, delivered yesterday at EFIB (@EFIBconference) in Rotterdam. Let\u2019s keep collaborating to shape a sustainable future for all! https://t.co/HZItJuj0PO"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "1739923495344017488": {
+        "attachments": {
+            "media_keys": [
+                "3_1739923405975977985"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-27T08:17:42.000Z",
+        "edit_history_tweet_ids": [
+            "1739923495344017488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Yokohama",
+                    "probability": 0.779,
+                    "start": 60,
+                    "type": "Place"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "Mitsubishi Gas Chemical",
+                    "probability": 0.6468,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "Yokohama",
+                    "probability": 0.9796,
+                    "start": 221,
+                    "type": "Place"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6474,
+                    "start": 268,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 135,
+                    "start": 123,
+                    "tag": "sustainable"
+                },
+                {
+                    "end": 191,
+                    "start": 177,
+                    "tag": "greenmethanol"
+                },
+                {
+                    "end": 217,
+                    "start": 202,
+                    "tag": "infrastructure"
+                },
+                {
+                    "end": 274,
+                    "start": 267,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/dPTSy25f",
+                    "end": 266,
+                    "expanded_url": "https://lnkd.in/dPTSy25f",
+                    "start": 243,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/dPTSy25f",
+                    "url": "https://t.co/wbxLHbQr1f"
+                },
+                {
+                    "display_url": "pic.twitter.com/CD7047ULuA",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1739923495344017488/photo/1",
+                    "media_key": "3_1739923405975977985",
+                    "start": 275,
+                    "url": "https://t.co/CD7047ULuA"
+                }
+            ]
+        },
+        "id": "1739923495344017488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6523,
+            "like_count": 43,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "\ud83c\udf3f We have signed a collaborative agreement with the City of Yokohama and Mitsubishi Gas Chemical.\nWith our commitment to a #sustainable future, we\u00b4re driving the development of #greenmethanol bunkering #infrastructure in Yokohama. \nRead more: https://t.co/wbxLHbQr1f\n#Maersk https://t.co/CD7047ULuA"
+    }
+}

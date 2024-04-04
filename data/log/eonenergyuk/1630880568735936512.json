@@ -1,0 +1,84 @@
+{
+    "1630880568735936512": {
+        "attachments": {
+            "media_keys": [
+                "3_1630880380726149121"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-03-01T10:40:02.000Z",
+        "edit_history_tweet_ids": [
+            "1630880568735936512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Michael Lewis",
+                    "probability": 0.9698,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "E",
+                    "probability": 0.4805,
+                    "start": 40,
+                    "type": "Organization"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "ON",
+                    "probability": 0.4001,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "UK",
+                    "probability": 0.7692,
+                    "start": 45,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 83,
+                    "id": "3224469100",
+                    "start": 69,
+                    "username": "uniper_energy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "eonenergy.com/About-eon/medi\u2026",
+                    "end": 121,
+                    "expanded_url": "https://www.eonenergy.com/About-eon/media-centre/michael-lewis-plans-to-become-new-ceo-of-uniper/",
+                    "start": 98,
+                    "status": 200,
+                    "unwound_url": "https://www.eonenergy.com/About-eon/media-centre/michael-lewis-plans-to-become-new-ceo-of-uniper/",
+                    "url": "https://t.co/8nadWpYXPl"
+                },
+                {
+                    "display_url": "pic.twitter.com/T9YbdGlInf",
+                    "end": 145,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1630880568735936512/photo/1",
+                    "media_key": "3_1630880380726149121",
+                    "start": 122,
+                    "url": "https://t.co/T9YbdGlInf"
+                }
+            ]
+        },
+        "id": "1630880568735936512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 885,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Michael Lewis plans to resign as CEO of E.ON UK to become new CEO of @uniper_energy. \n\nMore here: https://t.co/8nadWpYXPl https://t.co/T9YbdGlInf"
+    }
+}

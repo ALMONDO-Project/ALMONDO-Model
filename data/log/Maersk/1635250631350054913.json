@@ -1,0 +1,67 @@
+{
+    "1635250631350054913": {
+        "attachments": {
+            "media_keys": [
+                "3_1635250627788808192"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-13T12:05:06.000Z",
+        "edit_history_tweet_ids": [
+            "1635250631350054913"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7224,
+                    "start": 4,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 3,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 271,
+                    "start": 261,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3mSdkug",
+                    "end": 260,
+                    "expanded_url": "https://bddy.me/3mSdkug",
+                    "start": 237,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/sustainability?utm_source=Twitter_OwnedMedia&utm_medium=Organic&utm_campaign=M_63FDB6945E3AB_63FDCE93C4423&utm_term=COCP&utm_content=2023_Maersk_CEN_ECO+DeliverySoMe_ECO+Delivery_63FDB6945E3AB",
+                    "url": "https://t.co/FL3LIN2QMb"
+                },
+                {
+                    "display_url": "pic.twitter.com/ONKaCiBeR2",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Maersk/status/1635250631350054913/photo/1",
+                    "media_key": "3_1635250627788808192",
+                    "start": 272,
+                    "url": "https://t.co/ONKaCiBeR2"
+                }
+            ]
+        },
+        "id": "1635250631350054913",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3645,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "At #Maersk, we are honoured to partner with customers who share our vision for a cleaner, more sustainable future. By spearheading the movement to provide green shipping solutions, we\u2019re building a brighter tomorrow for our world. More: https://t.co/FL3LIN2QMb #AllTheWay https://t.co/ONKaCiBeR2"
+    }
+}

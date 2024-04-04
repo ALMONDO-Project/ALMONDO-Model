@@ -1,0 +1,95 @@
+{
+    "1659894491837284353": {
+        "attachments": {
+            "media_keys": [
+                "3_1659894489090080768"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-20T12:11:00.000Z",
+        "edit_history_tweet_ids": [
+            "1659894491837284353"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Azalys Suez",
+                    "probability": 0.4432,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.5065,
+                    "start": 52,
+                    "type": "Organization"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "IoT",
+                    "probability": 0.587,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 196,
+                    "normalized_text": "IoT",
+                    "probability": 0.5363,
+                    "start": 194,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 197,
+                    "start": 193,
+                    "tag": "IoT"
+                },
+                {
+                    "end": 210,
+                    "start": 198,
+                    "tag": "maintenance"
+                },
+                {
+                    "end": 220,
+                    "start": 211,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                    "display_url": "spr.ly/6019OiShT",
+                    "end": 190,
+                    "expanded_url": "http://spr.ly/6019OiShT",
+                    "start": 167,
+                    "status": 200,
+                    "title": "- YouTube",
+                    "unwound_url": "https://www.youtube.com/watch?v=TYXuexmKA9s&feature=youtu.be",
+                    "url": "https://t.co/y3Iewl7zaJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/yvs3luIrjE",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1659894491837284353/photo/1",
+                    "media_key": "3_1659894489090080768",
+                    "start": 221,
+                    "url": "https://t.co/yvs3luIrjE"
+                }
+            ]
+        },
+        "id": "1659894491837284353",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1680,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "See how Azalys Suez used Connected switchgear &amp; Schneider Electric services to embrace IoT and shift from reactive to preventive maintenance. Check out the video: https://t.co/y3Iewl7zaJ \n\n#IoT #maintenance #LifeIsOn https://t.co/yvs3luIrjE"
+    }
+}

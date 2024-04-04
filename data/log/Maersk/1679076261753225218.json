@@ -1,0 +1,75 @@
+{
+    "1679076261753225218": {
+        "attachments": {
+            "media_keys": [
+                "7_1679067963515707394"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-12T10:32:31.000Z",
+        "edit_history_tweet_ids": [
+            "1679076261753225218"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 120,
+                    "normalized_text": "Rabab Boulos",
+                    "probability": 0.6529,
+                    "start": 109,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 29,
+                    "tag": "diverse"
+                },
+                {
+                    "end": 186,
+                    "start": 179,
+                    "tag": "leader"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 162,
+                    "id": "380801406",
+                    "start": 155,
+                    "username": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/en_tipH9",
+                    "end": 276,
+                    "expanded_url": "https://lnkd.in/en_tipH9",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/en_tipH9",
+                    "url": "https://t.co/QNqGKNqTDk"
+                },
+                {
+                    "display_url": "pic.twitter.com/YvTpyetyOj",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1679076261753225218/video/1",
+                    "media_key": "7_1679067963515707394",
+                    "start": 277,
+                    "url": "https://t.co/YvTpyetyOj"
+                }
+            ]
+        },
+        "id": "1679076261753225218",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2987,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Setting a vision, building a #diverse team, and having great expectations \u2013 these are some of the key skills Rabab Boulos, Chief Infrastructure Officer at @Maersk  believes every #leader should posses\ud83e\udd1d\ud83c\udffc\nCurious to learn more? Watch full interview here: https://t.co/QNqGKNqTDk https://t.co/YvTpyetyOj"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "1724366750706192744": {
+        "attachments": {
+            "media_keys": [
+                "13_1724366618275291136"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-14T10:00:45.000Z",
+        "edit_history_tweet_ids": [
+            "1724366750706192744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Schneider   Electric Capital Markets",
+                    "probability": 0.8423,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "Tottenham Hotspur Stadium",
+                    "probability": 0.9115,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "London",
+                    "probability": 0.9797,
+                    "start": 156,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Explore documents of the latest and previous Capital Markets Days, an event for investors and analysts.",
+                    "display_url": "spr.ly/6010uajqE",
+                    "end": 187,
+                    "expanded_url": "http://spr.ly/6010uajqE",
+                    "images": [
+                        {
+                            "height": 628,
+                            "url": "https://pbs.twimg.com/news_img/1726921046014771200/8ituF6up?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1726921046014771200/8ituF6up?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 164,
+                    "status": 200,
+                    "title": "Capital Markets Day",
+                    "unwound_url": "https://www.se.com/ww/en/about-us/investor-relations/capital-markets-day.jsp?utm_source=twitter&utm_medium=organic_social&utm_campaign=2023nov_global_es_capitalmarketday",
+                    "url": "https://t.co/tWN0P7A0kf"
+                },
+                {
+                    "display_url": "pic.twitter.com/jl1bvgFvrW",
+                    "end": 211,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1724366750706192744/video/1",
+                    "media_key": "13_1724366618275291136",
+                    "start": 188,
+                    "url": "https://t.co/jl1bvgFvrW"
+                }
+            ]
+        },
+        "id": "1724366750706192744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1621,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Highlights from the Schneider   Electric Capital Markets Day 2023 for investors and financial analysts hosted last week at the Tottenham Hotspur Stadium in London.\nhttps://t.co/tWN0P7A0kf https://t.co/jl1bvgFvrW"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "1666424801206968320": {
+        "attachments": {
+            "media_keys": [
+                "3_1666424795871731713"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-06-07T12:40:07.000Z",
+        "edit_history_tweet_ids": [
+            "1666424801206968320"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 130,
+                    "normalized_text": "Centrica",
+                    "probability": 0.5663,
+                    "start": 123,
+                    "type": "Place"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "Windsor",
+                    "probability": 0.8555,
+                    "start": 208,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 37,
+                    "tag": "WorldEnvironmentDay"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Discover how Centrica is committed to creating a sustainable future for both people and the planet through our innovative initiatives and actions. Join us in shaping a greener and more responsible world.",
+                    "display_url": "bit.ly/3sQPyfL",
+                    "end": 277,
+                    "expanded_url": "https://bit.ly/3sQPyfL",
+                    "start": 254,
+                    "status": 200,
+                    "title": "Sustainability",
+                    "unwound_url": "https://www.centrica.com/sustainability/",
+                    "url": "https://t.co/zus6kikvs3"
+                },
+                {
+                    "display_url": "pic.twitter.com/S0i2k9QFBn",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1666424801206968320/photo/1",
+                    "media_key": "3_1666424795871731713",
+                    "start": 278,
+                    "url": "https://t.co/S0i2k9QFBn"
+                }
+            ]
+        },
+        "id": "1666424801206968320",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 516,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Small acts = Big Impact\n\nThis year's #WorldEnvironmentDay theme was 'Solutions to plastic pollution'. \n\nEarlier this week, Centrica volunteers did their part to help out in our local community, helping clear Windsor of litter. \n\nOur volunteering goals \u2192 https://t.co/zus6kikvs3 https://t.co/S0i2k9QFBn"
+    }
+}

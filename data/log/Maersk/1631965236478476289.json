@@ -1,0 +1,82 @@
+{
+    "1631965236478476289": {
+        "attachments": {
+            "media_keys": [
+                "3_1631965230149271552"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-04T10:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1631965236478476289"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "ColdChainLogistics",
+                    "probability": 0.6747,
+                    "start": 4,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 3,
+                    "tag": "ColdChainLogistics"
+                },
+                {
+                    "end": 62,
+                    "start": 50,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 252,
+                    "start": 230,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 260,
+                    "start": 253,
+                    "tag": "Growth"
+                },
+                {
+                    "end": 278,
+                    "start": 261,
+                    "tag": "LogisticInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/growt\u2026",
+                    "end": 228,
+                    "expanded_url": "https://www.maersk.com/insights/growth/demand-forecasting-in-cold-chain-logistics",
+                    "start": 205,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/insights/growth/demand-forecasting-in-cold-chain-logistics",
+                    "url": "https://t.co/BW8gvss3hS"
+                },
+                {
+                    "display_url": "pic.twitter.com/p6K6cml5X6",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1631965236478476289/photo/1",
+                    "media_key": "3_1631965230149271552",
+                    "start": 279,
+                    "url": "https://t.co/p6K6cml5X6"
+                }
+            ]
+        },
+        "id": "1631965236478476289",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4815,
+            "like_count": 42,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "In #ColdChainLogistics, a break in a link of your #SupplyChain can turn a delivery into a wasted shipment of goods. Discover how demand forecasting can keep the chain intact and become a lever for growth: https://t.co/BW8gvss3hS\n\n#SupplyChainManagement #Growth #LogisticInsights https://t.co/p6K6cml5X6"
+    }
+}

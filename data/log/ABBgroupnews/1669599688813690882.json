@@ -1,0 +1,79 @@
+{
+    "1669599688813690882": {
+        "attachments": {
+            "media_keys": [
+                "13_1669596827274936320"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-16T06:56:00.000Z",
+        "edit_history_tweet_ids": [
+            "1669599688813690882"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "ABB",
+                    "probability": 0.4162,
+                    "start": 104,
+                    "type": "Organization"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Morten Wierod",
+                    "probability": 0.7864,
+                    "start": 110,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 83,
+                    "start": 76,
+                    "tag": "energy"
+                },
+                {
+                    "end": 107,
+                    "start": 103,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 223,
+                    "start": 215,
+                    "tag": "podcast"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/decoded-podcas\u2026",
+                    "end": 254,
+                    "expanded_url": "https://social.abb/decoded-podcasts-platform",
+                    "start": 231,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/media/podcasts/abb-decoded",
+                    "url": "https://t.co/6uC7aqA5Y3"
+                },
+                {
+                    "display_url": "pic.twitter.com/S4nD6vBQ9t",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1669599688813690882/video/1",
+                    "media_key": "13_1669596827274936320",
+                    "start": 255,
+                    "url": "https://t.co/S4nD6vBQ9t"
+                }
+            ]
+        },
+        "id": "1669599688813690882",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1799,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\u201cWe are happy to help customers, together with our partners, to address the #energy challenge.\u201d That\u2019s #ABB's Morten Wierod explaining how an energy audit can identify waste and saving opportunities. \nListen to our #podcast today! https://t.co/6uC7aqA5Y3 https://t.co/S4nD6vBQ9t"
+    }
+}

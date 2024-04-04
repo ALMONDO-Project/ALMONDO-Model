@@ -1,0 +1,76 @@
+{
+    "1635985452594262016": {
+        "attachments": {
+            "media_keys": [
+                "3_1635985449683435522"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-15T12:45:01.000Z",
+        "edit_history_tweet_ids": [
+            "1635985452594262016"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Citycon Lippulaiva",
+                    "probability": 0.5424,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Finland",
+                    "probability": 0.9778,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "CO2",
+                    "probability": 0.5946,
+                    "start": 88,
+                    "type": "Other"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.3765,
+                    "start": 206,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60193N4cH",
+                    "end": 254,
+                    "expanded_url": "http://spr.ly/60193N4cH",
+                    "start": 231,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/life-is-on/case-study/lippulaiva.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9162572531&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/qd00IJoyFh"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZQatDdY2w9",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1635985452594262016/photo/1",
+                    "media_key": "3_1635985449683435522",
+                    "start": 255,
+                    "url": "https://t.co/ZQatDdY2w9"
+                }
+            ]
+        },
+        "id": "1635985452594262016",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 944,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "The Citycon Lippulaiva shopping center in Finland spends 14% less on energy and reduces CO2 emissions equivalent to planting over 16,000 trees. Their secret? Advanced energy management solutions powered by EcoStruxure. Learn more: https://t.co/qd00IJoyFh https://t.co/ZQatDdY2w9"
+    }
+}

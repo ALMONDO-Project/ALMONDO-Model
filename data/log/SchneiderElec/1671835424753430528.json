@@ -1,0 +1,49 @@
+{
+    "1671835424753430528": {
+        "author_id": "393757140",
+        "created_at": "2023-06-22T11:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1671835424753430528"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 156,
+                    "normalized_text": "EcoStruxure Machine Expert Twin",
+                    "probability": 0.6529,
+                    "start": 126,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 137,
+                    "start": 125,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6004ONein",
+                    "end": 256,
+                    "expanded_url": "http://spr.ly/6004ONein",
+                    "start": 233,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=MJg26EkLgIg",
+                    "url": "https://t.co/NLBU2fpM9p"
+                }
+            ]
+        },
+        "id": "1671835424753430528",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 821,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "60% of commissioning time is used to identify and eliminate problems with control software, protocols, and integration. With #EcoStruxure Machine Expert Twin, we move to virtual commissioning, saving onsite time. Watch to learn more https://t.co/NLBU2fpM9p"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1610309175879368706": {
+        "author_id": "194037150",
+        "created_at": "2023-01-03T16:16:40.000Z",
+        "edit_history_tweet_ids": [
+            "1610309175879368706"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Edward",
+                    "probability": 0.7696,
+                    "start": 56,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "19541308",
+                    "start": 0,
+                    "username": "EdwardGarnett"
+                },
+                {
+                    "end": 29,
+                    "id": "53039176",
+                    "start": 15,
+                    "username": "FDA_Drug_Info"
+                },
+                {
+                    "end": 42,
+                    "id": "110775353",
+                    "start": 30,
+                    "username": "cvspharmacy"
+                },
+                {
+                    "end": 52,
+                    "id": "3290364847",
+                    "start": 43,
+                    "username": "statnews"
+                }
+            ]
+        },
+        "id": "1610309175879368706",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 412,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@EdwardGarnett @FDA_Drug_Info @cvspharmacy @statnews Hi Edward, we apologize for any delay and disruption to you or your loved one\u2019s care. We are currently experiencing intermittent supply disruptions due to a delay in manufacturing that should be resolved by early 2023. We take our responsibility for our patients (1/2)"
+    }
+}

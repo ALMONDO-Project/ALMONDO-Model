@@ -1,0 +1,74 @@
+{
+    "1654003393101287425": {
+        "attachments": {
+            "media_keys": [
+                "3_1653997753591029760"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-04T06:01:53.000Z",
+        "edit_history_tweet_ids": [
+            "1654003393101287425"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 260,
+                    "normalized_text": "maersk",
+                    "probability": 0.5679,
+                    "start": 255,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "maerskresults",
+                    "probability": 0.6503,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 261,
+                    "start": 254,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 276,
+                    "start": 262,
+                    "tag": "maerskresults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 252,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/05/04/maersk-reports-solid-q1-results",
+                    "start": 229,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/04/maersk-reports-solid-q1-results",
+                    "url": "https://t.co/rAyFrU4AKU"
+                },
+                {
+                    "display_url": "pic.twitter.com/YapOcAevwN",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1654003393101287425/photo/1",
+                    "media_key": "3_1653997753591029760",
+                    "start": 277,
+                    "url": "https://t.co/YapOcAevwN"
+                }
+            ]
+        },
+        "id": "1654003393101287425",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 29833,
+            "like_count": 109,
+            "quote_count": 9,
+            "reply_count": 18,
+            "retweet_count": 18
+        },
+        "text": "\ud83d\udce2Maersk delivered a solid financial performance in line with expectations in Q1 2023. Continued destocking and easing of congestions implied lower volumes across all segments. The full-year guidance remains unchanged. Read more: https://t.co/rAyFrU4AKU\n\n#maersk #maerskresults https://t.co/YapOcAevwN"
+    }
+}

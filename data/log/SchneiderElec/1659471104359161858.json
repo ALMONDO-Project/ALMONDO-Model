@@ -1,0 +1,54 @@
+{
+    "1659471104359161858": {
+        "author_id": "393757140",
+        "created_at": "2023-05-19T08:08:37.000Z",
+        "edit_history_tweet_ids": [
+            "1659471104359161858"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 160,
+                    "normalized_text": "EI Studios",
+                    "probability": 0.6223,
+                    "start": 151,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 61,
+                    "id": "878696122344198144",
+                    "start": 46,
+                    "username": "Gwenaelle_huet"
+                },
+                {
+                    "end": 202,
+                    "id": "29998941",
+                    "start": 186,
+                    "username": "economistimpact"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/economistimpac\u2026",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/economistimpact/status/1656628971847442433",
+                    "start": 278,
+                    "url": "https://t.co/tRQ5rlrsbR"
+                }
+            ]
+        },
+        "id": "1659471104359161858",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2032,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Our Chief Strategy and Sustainability Officer @Gwenaelle_huet talks sustainability, digitization, and competitive advantage in this feature article by EI Studios, the custom division of @economistimpact. Discover how to develop a game plan that will deliver measurable results. https://t.co/tRQ5rlrsbR"
+    }
+}

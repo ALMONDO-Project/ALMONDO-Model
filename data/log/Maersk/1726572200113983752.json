@@ -1,0 +1,104 @@
+{
+    "1726572200113983752": {
+        "attachments": {
+            "media_keys": [
+                "7_1726567659657900032"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-20T12:04:25.000Z",
+        "edit_history_tweet_ids": [
+            "1726572200113983752"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "Christian Klimt-M\u00f8llenbach",
+                    "probability": 0.4694,
+                    "start": 65,
+                    "type": "Person"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3016,
+                    "start": 149,
+                    "type": "Place"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Daniel Krauss",
+                    "probability": 0.739,
+                    "start": 166,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 155,
+                    "start": 148,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 229,
+                    "id": "999925369",
+                    "start": 221,
+                    "username": "FlixBus"
+                },
+                {
+                    "end": 254,
+                    "id": "74991835",
+                    "start": 244,
+                    "username": "WebSummit"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "What are the differences and similarities between container logistics and people logistics? Daniel Krauss, Co-Founder and CIO of global mobility provider Fli...",
+                    "display_url": "youtu.be/Ah1KOto4Pps",
+                    "end": 281,
+                    "expanded_url": "https://youtu.be/Ah1KOto4Pps",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1726572205075836928/rnVq4-3W?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1726572205075836928/rnVq4-3W?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 258,
+                    "status": 200,
+                    "title": "The interlink between tech and sustainability networks",
+                    "unwound_url": "https://www.youtube.com/watch?v=Ah1KOto4Pps&feature=youtu.be",
+                    "url": "https://t.co/mgxKnwAEiB"
+                },
+                {
+                    "display_url": "pic.twitter.com/J1wIT7k2DH",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/Maersk/status/1726572200113983752/video/1",
+                    "media_key": "7_1726567659657900032",
+                    "start": 282,
+                    "url": "https://t.co/J1wIT7k2DH"
+                }
+            ]
+        },
+        "id": "1726572200113983752",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2191,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "What differentiates container logistics from people logistics?\u26a1\ufe0f Christian Klimt-M\u00f8llenbach, Head of Fleet Energy Optimization &amp; Performance at #Maersk, met with Daniel Krauss, Co-founder and CIO of mobility provider @FlixBus at this years @WebSummit \ud83d\udc49\ud83c\udffd https://t.co/mgxKnwAEiB https://t.co/J1wIT7k2DH"
+    }
+}

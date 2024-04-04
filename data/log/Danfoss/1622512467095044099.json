@@ -1,0 +1,79 @@
+{
+    "1622512467095044099": {
+        "attachments": {
+            "media_keys": [
+                "3_1622512439051829249"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-02-06T08:28:11.000Z",
+        "edit_history_tweet_ids": [
+            "1622512467095044099"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 108,
+                    "normalized_text": "HVACR",
+                    "probability": 0.6742,
+                    "start": 104,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 54,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 109,
+                    "start": 103,
+                    "tag": "HVACR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 97,
+                    "id": "44649930",
+                    "start": 89,
+                    "username": "ahrexpo"
+                },
+                {
+                    "end": 197,
+                    "id": "90463029",
+                    "start": 186,
+                    "username": "Danfoss_NA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "danfoss.com/en/campaigns/d\u2026",
+                    "end": 272,
+                    "expanded_url": "https://www.danfoss.com/en/campaigns/dcs/ahr-expo-2023/#tab-overview",
+                    "start": 249,
+                    "url": "https://t.co/FJonGJvtI3"
+                },
+                {
+                    "display_url": "pic.twitter.com/jzn5foRcTH",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1622512467095044099/photo/1",
+                    "media_key": "3_1622512439051829249",
+                    "start": 273,
+                    "url": "https://t.co/jzn5foRcTH"
+                }
+            ]
+        },
+        "id": "1622512467095044099",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 735,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "This week, we will reveal our latest technologies and #EnergyEfficiency solutions at the @ahrexpo, the #HVACR industry's premier trade show. Stop by to visit us in booth B3231 or follow @Danfoss_NA for timely updates! Discover more about the event: https://t.co/FJonGJvtI3 https://t.co/jzn5foRcTH"
+    }
+}

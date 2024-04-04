@@ -1,0 +1,81 @@
+{
+    "1670635016353660929": {
+        "attachments": {
+            "media_keys": [
+                "3_1670635013723901952"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-19T03:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1670635016353660929"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "Shrikant Pawar",
+                    "probability": 0.6364,
+                    "start": 106,
+                    "type": "Person"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "REXEL",
+                    "probability": 0.5814,
+                    "start": 126,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "India",
+                    "probability": 0.7266,
+                    "start": 132,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "Alliance"
+                },
+                {
+                    "end": 233,
+                    "start": 211,
+                    "tag": "IndustriesOfTheFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6002Oid5r",
+                    "end": 209,
+                    "expanded_url": "http://spr.ly/6002Oid5r",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=tvXsALdubyM",
+                    "url": "https://t.co/BC4x9NOXd5"
+                },
+                {
+                    "display_url": "pic.twitter.com/TflLNFPcuV",
+                    "end": 257,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1670635016353660929/photo/1",
+                    "media_key": "3_1670635013723901952",
+                    "start": 234,
+                    "url": "https://t.co/TflLNFPcuV"
+                }
+            ]
+        },
+        "id": "1670635016353660929",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1148,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The #Alliance Partner Program allows Industrial Automation Distributors to better serve their customers.\n\nShrikant Pawar from REXEL India, an Alliance Master Distributor, explains here: https://t.co/BC4x9NOXd5\n\n#IndustriesOfTheFuture https://t.co/TflLNFPcuV"
+    }
+}

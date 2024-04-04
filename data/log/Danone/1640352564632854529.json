@@ -1,0 +1,50 @@
+{
+    "1640352564632854529": {
+        "author_id": "570715775",
+        "created_at": "2023-03-27T13:58:22.000Z",
+        "edit_history_tweet_ids": [
+            "1640352564632854529"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Juanki",
+                    "probability": 0.5417,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "101253847",
+                    "start": 0,
+                    "username": "Juankifdez"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "customerdanone.com",
+                    "end": 118,
+                    "expanded_url": "https://www.customerdanone.com/",
+                    "start": 95,
+                    "status": 200,
+                    "unwound_url": "https://www.customerdanone.com/",
+                    "url": "https://t.co/xLQz3FJSSK"
+                }
+            ]
+        },
+        "id": "1640352564632854529",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Juankifdez Hi Juanki. You should contact our customer service, that you can reach right here;\nhttps://t.co/xLQz3FJSSK\nHave a great day!"
+    }
+}

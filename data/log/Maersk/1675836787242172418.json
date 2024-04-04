@@ -1,0 +1,100 @@
+{
+    "1675836787242172418": {
+        "attachments": {
+            "media_keys": [
+                "7_1675774329991180288"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-03T12:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1675836787242172418"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Axel Maersk",
+                    "probability": 0.6338,
+                    "start": 31,
+                    "type": "Person"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Miami",
+                    "probability": 0.9429,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Mohammad Hamdan",
+                    "probability": 0.7117,
+                    "start": 107,
+                    "type": "Person"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3176,
+                    "start": 183,
+                    "type": "Person"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "Jordan",
+                    "probability": 0.3532,
+                    "start": 230,
+                    "type": "Place"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "Bahrain",
+                    "probability": 0.8613,
+                    "start": 238,
+                    "type": "Place"
+                },
+                {
+                    "end": 252,
+                    "normalized_text": "Kuwait",
+                    "probability": 0.9633,
+                    "start": 247,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 167,
+                    "start": 160,
+                    "tag": "career"
+                },
+                {
+                    "end": 189,
+                    "start": 182,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/uCPSlkObAf",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1675836787242172418/video/1",
+                    "media_key": "7_1675774329991180288",
+                    "start": 278,
+                    "url": "https://t.co/uCPSlkObAf"
+                }
+            ]
+        },
+        "id": "1675836787242172418",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3462,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "When the seven-pointed star of Axel Maersk caught his attention during a holiday in Miami, Account Manager Mohammad Hamdan knew where he wanted to kick off his #career\ud83c\udf1fSince joining #Maersk in 2011, his journey has taken him from Jordan, Bahrain, Kuwait, and finally Abu Dhabi\ud83c\udf0e https://t.co/uCPSlkObAf"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "1709528042731631056": {
+        "attachments": {
+            "media_keys": [
+                "3_1709528039451742208"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-10-04T11:17:01.000Z",
+        "edit_history_tweet_ids": [
+            "1709528042731631056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "EU",
+                    "probability": 0.9662,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "GHG",
+                    "probability": 0.8386,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Carbon Border Adjustment Mechanism",
+                    "probability": 0.7259,
+                    "start": 83,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "CBAM",
+                    "probability": 0.3478,
+                    "start": 119,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "LinkedIn",
+                    "probability": 0.6824,
+                    "start": 135,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 23,
+                    "tag": "GHG"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6017uzQIW",
+                    "end": 242,
+                    "expanded_url": "http://spr.ly/l/6017uzQIW",
+                    "start": 219,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6017uzQIW",
+                    "url": "https://t.co/mqVakcTV2b"
+                },
+                {
+                    "display_url": "pic.twitter.com/6eNyZsrJa8",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1709528042731631056/photo/1",
+                    "media_key": "3_1709528039451742208",
+                    "start": 243,
+                    "url": "https://t.co/6eNyZsrJa8"
+                }
+            ]
+        },
+        "id": "1709528042731631056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1428,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "The EU wants to reduce #GHG emissions by at least 55% by 2030 using tools like the Carbon Border Adjustment Mechanism (CBAM). Read the LinkedIn Article to understand its implications and how heavy industries can (cont) https://t.co/mqVakcTV2b https://t.co/6eNyZsrJa8"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1734974636935217349": {
+        "attachments": {
+            "media_keys": [
+                "3_1734974067722027009"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-12-13T16:32:42.000Z",
+        "edit_history_tweet_ids": [
+            "1734974636935217349"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Danone",
+                    "probability": 0.5585,
+                    "start": 3,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 11,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 154,
+                    "start": 130,
+                    "tag": "RegenerativeAgriculture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 251,
+                    "id": "3108351",
+                    "start": 247,
+                    "username": "WSJ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/i/web/status/1734974636935217349",
+                    "start": 263,
+                    "url": "https://t.co/w7HMR3iSBg"
+                },
+                {
+                    "display_url": "pic.twitter.com/opAjLakzBj",
+                    "end": 310,
+                    "expanded_url": "https://twitter.com/Danone/status/1734974636935217349/photo/1",
+                    "media_key": "3_1734974067722027009",
+                    "start": 287,
+                    "url": "https://t.co/opAjLakzBj"
+                }
+            ]
+        },
+        "id": "1734974636935217349",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1362,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 5
+        },
+        "text": "At Danone, #sustainability is at the\u2764\ufe0fof our business performance. \nWe prioritize transparency, collaboration, and a move towards #RegenerativeAgriculture\ud83c\udf31\ud83c\udf0dTogether, let's build a resilient future!\nDiscover more about our effort in the insightful @WSJ article \ud83d\udc49\u2026 https://t.co/w7HMR3iSBg https://t.co/opAjLakzBj"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "1679385197790281728": {
+        "attachments": {
+            "media_keys": [
+                "16_1679385168170168320"
+            ]
+        },
+        "author_id": "23085995",
+        "created_at": "2023-07-13T07:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1679385197790281728"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "US",
+                    "probability": 0.9601,
+                    "start": 4,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "22151553",
+                    "start": 54,
+                    "username": "DiGiorno"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nes.tl/RegenWheatDiGi\u2026",
+                    "end": 236,
+                    "expanded_url": "https://nes.tl/RegenWheatDiGiorno",
+                    "start": 213,
+                    "status": 200,
+                    "unwound_url": "https://www.nestle.com/media/news/regenerative-agriculture-wheat-digiorno-supply-chain",
+                    "url": "https://t.co/eMe5rTeBYu"
+                },
+                {
+                    "display_url": "pic.twitter.com/SyDP2y0Q45",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/Nestle/status/1679385197790281728/photo/1",
+                    "media_key": "16_1679385168170168320",
+                    "start": 237,
+                    "url": "https://t.co/SyDP2y0Q45"
+                }
+            ]
+        },
+        "id": "1679385197790281728",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 22629,
+            "like_count": 700,
+            "quote_count": 2,
+            "reply_count": 37,
+            "retweet_count": 315
+        },
+        "text": "Our US teams are helping farmers who supply wheat for @DiGiorno \ud83c\udf55 to transition to regenerative agriculture practices, which boosts soil health, protects water resources &amp; enhances biodiversity. \ud83d\ude9c Learn more: https://t.co/eMe5rTeBYu https://t.co/SyDP2y0Q45"
+    }
+}

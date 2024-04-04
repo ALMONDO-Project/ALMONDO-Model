@@ -1,0 +1,84 @@
+{
+    "1645366035048980481": {
+        "attachments": {
+            "media_keys": [
+                "3_1645366024064122880"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-10T10:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1645366035048980481"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Maria",
+                    "probability": 0.5117,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4595,
+                    "start": 213,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 219,
+                    "start": 212,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 235,
+                    "start": 220,
+                    "tag": "Dayinthelifeof"
+                },
+                {
+                    "end": 255,
+                    "start": 236,
+                    "tag": "Customerexperience"
+                },
+                {
+                    "end": 263,
+                    "start": 256,
+                    "tag": "Career"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/40UkPjL",
+                    "end": 209,
+                    "expanded_url": "https://bddy.me/40UkPjL",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/03/14/day-in-the-life-of-a-customer-experience-agent-and-student-marias-diary",
+                    "url": "https://t.co/mcguQsuiIk"
+                },
+                {
+                    "display_url": "pic.twitter.com/hfMg0GxntN",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/Maersk/status/1645366035048980481/photo/1",
+                    "media_key": "3_1645366024064122880",
+                    "start": 264,
+                    "url": "https://t.co/hfMg0GxntN"
+                }
+            ]
+        },
+        "id": "1645366035048980481",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 8647,
+            "like_count": 72,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Meet Maria, Customer Experience agent at Maersk\ud83d\udc4b\nHave you ever wondered how a typical day looks like for one of our employees in our CX Team?\n\n\ud83d\udc49Check out Maria\u00b4s diary for the day here: https://t.co/mcguQsuiIk  \n#Maersk #Dayinthelifeof #Customerexperience #Career https://t.co/hfMg0GxntN"
+    }
+}

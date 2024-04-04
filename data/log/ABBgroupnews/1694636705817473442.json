@@ -1,0 +1,90 @@
+{
+    "1694636705817473442": {
+        "attachments": {
+            "media_keys": [
+                "7_1694634511198257152"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-08-24T09:04:10.000Z",
+        "edit_history_tweet_ids": [
+            "1694636705817473442"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Johnie Watkins",
+                    "probability": 0.6621,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "North Carolina",
+                    "probability": 0.9187,
+                    "start": 64,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "ABB",
+                    "probability": 0.4181,
+                    "start": 135,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Johnie",
+                    "probability": 0.6865,
+                    "start": 140,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 138,
+                    "start": 134,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 279,
+                    "start": 267,
+                    "tag": "Engineering"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Meet the people electrifying our world through innovative services and the latest technology.",
+                    "display_url": "social.abb/everyday-heroe\u2026",
+                    "end": 266,
+                    "expanded_url": "https://social.abb/everyday-heroes-johnie-watkins",
+                    "start": 243,
+                    "status": 200,
+                    "title": "Everyday heroes",
+                    "unwound_url": "https://new.abb.com/service/electrification/heroes",
+                    "url": "https://t.co/Ky9D4sLOZv"
+                },
+                {
+                    "display_url": "pic.twitter.com/pjUxFqLOmX",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1694636705817473442/video/1",
+                    "media_key": "7_1694634511198257152",
+                    "start": 280,
+                    "url": "https://t.co/pjUxFqLOmX"
+                }
+            ]
+        },
+        "id": "1694636705817473442",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2330,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Meet Johnie Watkins, one of our Senior Field Engineers based in North Carolina, and an everyday hero. With 20 years under his belt at #ABB, Johnie leads our team of engineers to deliver the best possible outcomes for our customers. Read more: https://t.co/Ky9D4sLOZv\n#Engineering https://t.co/pjUxFqLOmX"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "1700075384698474972": {
+        "attachments": {
+            "media_keys": [
+                "7_1700075059035979776"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-08T09:15:32.000Z",
+        "edit_history_tweet_ids": [
+            "1700075384698474972"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "greenmethanol",
+                    "probability": 0.7493,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "Hyundai Mipo Dockyard Co., Ltd",
+                    "probability": 0.7436,
+                    "start": 181,
+                    "type": "Other"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4705,
+                    "start": 255,
+                    "type": "Other"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.4609,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 81,
+                    "tag": "greenmethanol"
+                },
+                {
+                    "end": 261,
+                    "start": 254,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 278,
+                    "start": 262,
+                    "tag": "allthewaytozero"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/eg8ExbiB",
+                    "end": 251,
+                    "expanded_url": "https://lnkd.in/eg8ExbiB",
+                    "start": 228,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/eg8ExbiB",
+                    "url": "https://t.co/vtJYhlN2jZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/OrAmfUP4Br",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1700075384698474972/video/1",
+                    "media_key": "7_1700075059035979776",
+                    "start": 279,
+                    "url": "https://t.co/OrAmfUP4Br"
+                }
+            ]
+        },
+        "id": "1700075384698474972",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 9169,
+            "like_count": 85,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 17
+        },
+        "text": "How do you build a mega structure like the world\u2019s first cargo vessel sailing on #greenmethanol?  Watch this timelapse showing the full shipbuilding process!\n \nShip construction by Hyundai Mipo Dockyard Co., Ltd.\n\nFull version: https://t.co/vtJYhlN2jZ\n \n#Maersk #allthewaytozero https://t.co/OrAmfUP4Br"
+    }
+}

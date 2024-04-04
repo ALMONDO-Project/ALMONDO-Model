@@ -1,0 +1,54 @@
+{
+    "1631274734053646341": {
+        "attachments": {
+            "media_keys": [
+                "7_1631273174141661185"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-03-02T12:46:18.000Z",
+        "edit_history_tweet_ids": [
+            "1631274734053646341"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "Antoine de Saint-Affrique",
+                    "probability": 0.8849,
+                    "start": 25,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 71,
+                    "id": "589013243",
+                    "start": 58,
+                    "username": "Salondelagri"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UliPWCf1xh",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Danone/status/1631274734053646341/video/1",
+                    "media_key": "7_1631273174141661185",
+                    "start": 277,
+                    "url": "https://t.co/UliPWCf1xh"
+                }
+            ]
+        },
+        "id": "1631274734053646341",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8888,
+            "like_count": 17,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "A few words from our CEO Antoine de Saint-Affrique at the @Salondelagri \n'We continue to support regenerative farming practices to protect the planet, biodiversity and animal welfare. With famers and partners, let's build sustainable production models for future generations!' https://t.co/UliPWCf1xh"
+    }
+}

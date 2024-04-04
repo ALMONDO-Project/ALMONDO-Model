@@ -1,0 +1,56 @@
+{
+    "1698579499133149198": {
+        "attachments": {
+            "poll_ids": [
+                "1698579498315227136"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-09-04T06:11:25.000Z",
+        "edit_history_tweet_ids": [
+            "1698579499133149198"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "ABB Review",
+                    "probability": 0.6442,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "ABB Review",
+                    "probability": 0.6973,
+                    "start": 118,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "ABB Review, ABB's corporate technical journal has been around for more than 100 years. Access to all old editions also available",
+                    "display_url": "social.abb/review-survey",
+                    "end": 232,
+                    "expanded_url": "https://social.abb/review-survey",
+                    "start": 209,
+                    "status": 200,
+                    "title": "ABB Review \u2014 ABB Group",
+                    "unwound_url": "https://global.abb/group/en/technology/abb-review",
+                    "url": "https://t.co/Stq4kSXHJ3"
+                }
+            ]
+        },
+        "id": "1698579499133149198",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1865,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Will you take the ABB Review readership survey today?\n\nReader feedback is important to chart the future course of the ABB Review, our corporate journal and you are invited to take part in our 5-minute survey: https://t.co/Stq4kSXHJ3. \nThanks for your time!"
+    }
+}

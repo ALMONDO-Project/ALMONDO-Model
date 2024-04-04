@@ -1,0 +1,52 @@
+{
+    "1680452556643008512": {
+        "author_id": "194037150",
+        "created_at": "2023-07-16T05:41:25.000Z",
+        "edit_history_tweet_ids": [
+            "1680452556643008512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "John",
+                    "probability": 0.7822,
+                    "start": 31,
+                    "type": "Person"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "Scott",
+                    "probability": 0.5701,
+                    "start": 152,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "46229351",
+                    "start": 0,
+                    "username": "johnpaulridley"
+                },
+                {
+                    "end": 27,
+                    "id": "16864209",
+                    "start": 16,
+                    "username": "DiabetesUK"
+                }
+            ]
+        },
+        "id": "1680452556643008512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 45,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@johnpaulridley @DiabetesUK Hi John. Can you send me an email? sccd@novonordisk.com. Thank you and once again apologies for the inconvenience. Regards, Scott"
+    }
+}

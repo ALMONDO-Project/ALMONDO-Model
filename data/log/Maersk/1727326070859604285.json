@@ -1,0 +1,76 @@
+{
+    "1727326070859604285": {
+        "attachments": {
+            "media_keys": [
+                "7_1726436014175248384"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-22T14:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1727326070859604285"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5182,
+                    "start": 68,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 61,
+                    "start": 41,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 74,
+                    "start": 67,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 257,
+                    "start": 235,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 276,
+                    "start": 258,
+                    "tag": "LogisticsInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/integ\u2026",
+                    "end": 232,
+                    "expanded_url": "https://www.maersk.com/insights/integrated-logistics/how-we-help",
+                    "start": 209,
+                    "unwound_url": "https://www.maersk.com/insights/integrated-logistics/how-we-help",
+                    "url": "https://t.co/LazbvDQpsV"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZDd2MGMSTr",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1727326070859604285/video/1",
+                    "media_key": "7_1726436014175248384",
+                    "start": 277,
+                    "url": "https://t.co/ZDd2MGMSTr"
+                }
+            ]
+        },
+        "id": "1727326070859604285",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 3045,
+            "like_count": 29,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "As the complexity of shipping increases, #IntegratedLogistics with #Maersk is here to help by providing an all-in-one solution to service all your supply chain needs from start to finish. This is how we help: https://t.co/LazbvDQpsV \n\n#SupplyChainManagement #LogisticsInsights https://t.co/ZDd2MGMSTr"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1671933522754387969": {
+        "author_id": "194037150",
+        "created_at": "2023-06-22T17:29:49.000Z",
+        "edit_history_tweet_ids": [
+            "1671933522754387969"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Tammy",
+                    "probability": 0.6013,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "59973384",
+                    "start": 0,
+                    "username": "trpotter71"
+                }
+            ]
+        },
+        "id": "1671933522754387969",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 38,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@trpotter71 Hi Tammy. We recognize people need options now more than ever given the complex challenges in the healthcare system. Over the past few years, we have introduced several recent programs to maximize the accessibility and affordability of the therapies that patients rely on. (1/2)"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1637756692178907137": {
+        "attachments": {
+            "media_keys": [
+                "3_1637756671257726976"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-03-20T10:03:18.000Z",
+        "edit_history_tweet_ids": [
+            "1637756692178907137"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 153,
+                    "normalized_text": "ESG",
+                    "probability": 0.4444,
+                    "start": 151,
+                    "type": "Other"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.4381,
+                    "start": 183,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 135,
+                    "start": 123,
+                    "tag": "Circularity"
+                },
+                {
+                    "end": 154,
+                    "start": 150,
+                    "tag": "ESG"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 64,
+                    "id": "189134186",
+                    "start": 48,
+                    "username": "circulareconomy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Tqqvit",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3Tqqvit",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/en/about-danfoss/news/cf/danfoss-announced-as-a-member-of-the-ellen-macarthur-foundations-network/",
+                    "url": "https://t.co/fOQU0IXpeS"
+                },
+                {
+                    "display_url": "pic.twitter.com/EAuL0iwAvI",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1637756692178907137/photo/1",
+                    "media_key": "3_1637756671257726976",
+                    "start": 280,
+                    "url": "https://t.co/EAuL0iwAvI"
+                }
+            ]
+        },
+        "id": "1637756692178907137",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 484,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We are proud to be announced as a Member of the @circulareconomy\u2019s Network, to accelerate the circular economy transition. #Circularity is key to our #ESG ambition. Membership places Danfoss amongst world\u2019s leading organizations on circularity. Read more: https://t.co/fOQU0IXpeS https://t.co/EAuL0iwAvI"
+    }
+}

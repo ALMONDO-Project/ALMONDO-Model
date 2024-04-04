@@ -1,0 +1,55 @@
+{
+    "1618226354247327745": {
+        "author_id": "23085995",
+        "created_at": "2023-01-25T12:36:42.000Z",
+        "edit_history_tweet_ids": [
+            "1618226354247327745"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1595160503122333714",
+                    "start": 0,
+                    "username": "rorchanny"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Explore Nestl\u00e9's house rules for communications and general behavior on its social media channels.",
+                    "display_url": "nes.tl/HouseRules",
+                    "end": 167,
+                    "expanded_url": "https://nes.tl/HouseRules",
+                    "images": [
+                        {
+                            "height": 190,
+                            "url": "https://pbs.twimg.com/news_img/1728752229866524672/UB7KMlyw?format=jpg&name=orig",
+                            "width": 500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1728752229866524672/UB7KMlyw?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 144,
+                    "status": 200,
+                    "title": "Social media house rules",
+                    "unwound_url": "https://www.nestle.com/info/social-media-house-rules",
+                    "url": "https://t.co/TgmaNZL0qu"
+                }
+            ]
+        },
+        "id": "1618226354247327745",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 281,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@rorchanny Hi, We appreciate open conversations across our social media accounts. However, comments that aren't compliant with our House Rules [https://t.co/TgmaNZL0qu], namely repetitive comments, often with obscenity, will be hidden or removed to maintain a respectful space for dialogue."
+    }
+}

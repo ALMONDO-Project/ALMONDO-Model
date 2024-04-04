@@ -1,0 +1,71 @@
+{
+    "1612174991159599112": {
+        "author_id": "194037150",
+        "created_at": "2023-01-08T19:50:45.000Z",
+        "edit_history_tweet_ids": [
+            "1612174991159599112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4629,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4279,
+                    "start": 209,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1307793467553308676",
+                    "start": 0,
+                    "username": "DfirTatted"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact detail for all Novo Nordisk offices, research centres and production facilities.",
+                    "display_url": "novonordisk.com/contact-us/fin\u2026",
+                    "end": 142,
+                    "expanded_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 119,
+                    "status": 200,
+                    "title": "Find local information",
+                    "unwound_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "url": "https://t.co/gbKMu3Xnb4"
+                }
+            ]
+        },
+        "id": "1612174991159599112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 165,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@DfirTatted Thanks for reaching out. Please contact you local Novo Nordisk office. You can find the contact info here:\nhttps://t.co/gbKMu3Xnb4\nMy colleagues there will be able to answer your question.\nBR//Bo, Novo Nordisk"
+    }
+}

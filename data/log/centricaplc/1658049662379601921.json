@@ -1,0 +1,65 @@
+{
+    "1658049662379601921": {
+        "attachments": {
+            "media_keys": [
+                "7_1658049624895094784"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-05-15T10:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1658049662379601921"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Alex",
+                    "probability": 0.504,
+                    "start": 51,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "PTSD",
+                    "probability": 0.7967,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 31,
+                    "start": 5,
+                    "tag": "MentalHealthAwarenessWeek"
+                },
+                {
+                    "end": 84,
+                    "start": 79,
+                    "tag": "PTSD"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/tnjv6ZXJSi",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1658049662379601921/video/1",
+                    "media_key": "7_1658049624895094784",
+                    "start": 277,
+                    "url": "https://t.co/tnjv6ZXJSi"
+                }
+            ]
+        },
+        "id": "1658049662379601921",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 392,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "It's #MentalHealthAwarenessWeek and we are sharing Alex's story of coping with #PTSD after life in the military, and the role his colleagues play in ensuring his wellbeing. \n\nWith so much pressure on each of us in our daily lives, it\u2019s important we care for our mental health! https://t.co/tnjv6ZXJSi"
+    }
+}

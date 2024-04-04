@@ -1,0 +1,80 @@
+{
+    "1659528213549268992": {
+        "attachments": {
+            "media_keys": [
+                "7_1659527842315608064"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-19T11:55:33.000Z",
+        "edit_history_tweet_ids": [
+            "1659528213549268992"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Maersk",
+                    "probability": 0.2616,
+                    "start": 15,
+                    "type": "Organization"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": " #Maer",
+                    "probability": 0.2674,
+                    "start": 211,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 219,
+                    "start": 212,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 236,
+                    "start": 220,
+                    "tag": "Womeninmaritime"
+                },
+                {
+                    "end": 247,
+                    "start": 237,
+                    "tag": "seafarers"
+                },
+                {
+                    "end": 258,
+                    "start": 248,
+                    "tag": "inclusion"
+                },
+                {
+                    "end": 269,
+                    "start": 259,
+                    "tag": "Alltheway"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Rf6zqTChfi",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Maersk/status/1659528213549268992/video/1",
+                    "media_key": "7_1659527842315608064",
+                    "start": 270,
+                    "url": "https://t.co/Rf6zqTChfi"
+                }
+            ]
+        },
+        "id": "1659528213549268992",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3067,
+            "like_count": 49,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "A Tribute from Maersk leadership to Women Seafarers\ud83d\udc77\u200d\u2640\ufe0f\ud83d\udc99 On International Day Of Women In Maritime, we pay tribute to our inspiring women seafarers, their contribution to our organization and for life on board\ud83c\udf0d  #Maersk #Womeninmaritime #seafarers #inclusion #Alltheway https://t.co/Rf6zqTChfi"
+    }
+}

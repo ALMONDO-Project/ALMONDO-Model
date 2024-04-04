@@ -1,0 +1,85 @@
+{
+    "1664894276709302273": {
+        "attachments": {
+            "media_keys": [
+                "3_1664894272812855298"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-03T07:18:22.000Z",
+        "edit_history_tweet_ids": [
+            "1664894276709302273"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Jakarta",
+                    "probability": 0.9442,
+                    "start": 45,
+                    "type": "Place"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "ABB",
+                    "probability": 0.4174,
+                    "start": 128,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.3817,
+                    "start": 192,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 203,
+                    "start": 191,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 215,
+                    "start": 204,
+                    "tag": "Motorsport"
+                },
+                {
+                    "end": 226,
+                    "start": 216,
+                    "tag": "emobility"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 111,
+                    "id": "703581570",
+                    "start": 99,
+                    "username": "FIAFormulaE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/mvkS0HRnUn",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1664894276709302273/photo/1",
+                    "media_key": "3_1664894272812855298",
+                    "start": 227,
+                    "url": "https://t.co/mvkS0HRnUn"
+                }
+            ]
+        },
+        "id": "1664894276709302273",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1566,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "We are thrilled and honored that Round 10 in Jakarta will mark our 75th race as a proud partner of @FIAFormulaE. \nFor 75 races, ABB has been at the forefront of driving sustainable mobility!\n#ABBFormulaE #Motorsport #emobility https://t.co/mvkS0HRnUn"
+    }
+}

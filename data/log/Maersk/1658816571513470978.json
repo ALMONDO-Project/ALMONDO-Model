@@ -1,0 +1,123 @@
+{
+    "1658816571513470978": {
+        "attachments": {
+            "media_keys": [
+                "3_1658816525740961793"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-17T12:47:44.000Z",
+        "edit_history_tweet_ids": [
+            "1658816571513470978"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Middle East",
+                    "probability": 0.7122,
+                    "start": 33,
+                    "type": "Place"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "Europe",
+                    "probability": 0.9565,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "Al Maha",
+                    "probability": 0.4908,
+                    "start": 95,
+                    "type": "Person"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "UAE",
+                    "probability": 0.9848,
+                    "start": 155,
+                    "type": "Place"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Saudi Arabia",
+                    "probability": 0.986,
+                    "start": 160,
+                    "type": "Place"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Oman",
+                    "probability": 0.9863,
+                    "start": 174,
+                    "type": "Place"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "Qatar",
+                    "probability": 0.9839,
+                    "start": 180,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Egypt",
+                    "probability": 0.9886,
+                    "start": 187,
+                    "type": "Place"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "Maersk",
+                    "probability": 0.8313,
+                    "start": 253,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 259,
+                    "start": 252,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 272,
+                    "start": 260,
+                    "tag": "supplychain"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eGZVP4n9",
+                    "end": 249,
+                    "expanded_url": "https://lnkd.in/eGZVP4n9",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/17/maersk-announces-ai-maha-ocean-service-connecting-the-middle-east-and-west-africa-markets",
+                    "url": "https://t.co/yWoSv3ssYf"
+                },
+                {
+                    "display_url": "pic.twitter.com/7gGCCL1AGs",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658816571513470978/photo/1",
+                    "media_key": "3_1658816525740961793",
+                    "start": 273,
+                    "url": "https://t.co/7gGCCL1AGs"
+                }
+            ]
+        },
+        "id": "1658816571513470978",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9243,
+            "like_count": 91,
+            "quote_count": 2,
+            "reply_count": 5,
+            "retweet_count": 16
+        },
+        "text": "New ocean service connecting the Middle East and Europe markets\ud83d\udea2 The newly introduced service, Al Maha, will rotate between the important ports across the UAE, Saudi Arabia, Oman, Qatar, Egypt, and Morocco\ud83d\udcf7Read press release: https://t.co/yWoSv3ssYf \n\n#Maersk #supplychain https://t.co/7gGCCL1AGs"
+    }
+}

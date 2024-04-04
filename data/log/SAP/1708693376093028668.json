@@ -1,0 +1,70 @@
+{
+    "1708693376093028668": {
+        "attachments": {
+            "media_keys": [
+                "13_1708693292232081408"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-10-02T04:00:21.000Z",
+        "edit_history_tweet_ids": [
+            "1708693376093028668"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "SAPTechEd",
+                    "probability": 0.4304,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 19,
+                    "tag": "SAPTechEd"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "2358564123",
+                    "start": 0,
+                    "username": "JuerMueller"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6012uJnjC",
+                    "end": 143,
+                    "expanded_url": "https://sap.to/6012uJnjC",
+                    "start": 120,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/events/teched.html?source=social-Global-TWITTER-Brand_Story-Artificial_Intelligence-SAPTechEd-spr-11461758882-account_name&campaigncode=CRM-YE23-TED-2084187_05&sprinklrid=11461758882",
+                    "url": "https://t.co/vPtDfVK24u"
+                },
+                {
+                    "display_url": "pic.twitter.com/wIJvdtPUfn",
+                    "end": 167,
+                    "expanded_url": "https://twitter.com/SAP/status/1708693376093028668/video/1",
+                    "media_key": "13_1708693292232081408",
+                    "start": 144,
+                    "url": "https://t.co/wIJvdtPUfn"
+                }
+            ]
+        },
+        "id": "1708693376093028668",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6772,
+            "like_count": 29,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "@JuerMueller talks #SAPTechEd 2023 topics! Don't miss the \u2728 ultimate \u2728 celebration of technology this November 2-3. \ud83d\udc68\u200d\ud83d\udcbb https://t.co/vPtDfVK24u https://t.co/wIJvdtPUfn"
+    }
+}

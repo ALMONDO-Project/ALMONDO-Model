@@ -1,0 +1,81 @@
+{
+    "1638444610920824832": {
+        "attachments": {
+            "media_keys": [
+                "13_1638444462618681348"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-03-22T07:36:50.000Z",
+        "edit_history_tweet_ids": [
+            "1638444610920824832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "WorldWaterDay",
+                    "probability": 0.625,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "Koyambedu",
+                    "probability": 0.6046,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "India",
+                    "probability": 0.9777,
+                    "start": 63,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 3,
+                    "tag": "WorldWaterDay"
+                },
+                {
+                    "end": 177,
+                    "start": 165,
+                    "tag": "WaterAction"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3z0bdHT",
+                    "end": 246,
+                    "expanded_url": "https://bit.ly/3z0bdHT",
+                    "start": 223,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/en/about-danfoss/insights-for-tomorrow/energy-efficiency/energy-and-water/#India",
+                    "url": "https://t.co/kQLuMaUM7v"
+                },
+                {
+                    "display_url": "pic.twitter.com/viw58hJSqY",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1638444610920824832/video/1",
+                    "media_key": "13_1638444462618681348",
+                    "start": 247,
+                    "url": "https://t.co/viw58hJSqY"
+                }
+            ]
+        },
+        "id": "1638444610920824832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 547,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "On #WorldWaterDay, the Koyambedu wastewater treatment plant in India is the beacon of addressing water crisis while cutting emissions. Every drop counts, start your #WaterAction today and find out more about our solutions: https://t.co/kQLuMaUM7v https://t.co/viw58hJSqY"
+    }
+}

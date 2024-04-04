@@ -1,0 +1,70 @@
+{
+    "1623305654399008770": {
+        "attachments": {
+            "media_keys": [
+                "3_1623305651483992067"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-08T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1623305654399008770"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 143,
+                    "normalized_text": "Peter Weckesser",
+                    "probability": 0.8806,
+                    "start": 129,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 190,
+                    "start": 170,
+                    "tag": "IndustrialMetaverse"
+                },
+                {
+                    "end": 194,
+                    "start": 191,
+                    "tag": "AI"
+                },
+                {
+                    "end": 207,
+                    "start": 195,
+                    "tag": "DigitalTwin"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60123eYFk",
+                    "end": 169,
+                    "expanded_url": "http://spr.ly/60123eYFk",
+                    "start": 146,
+                    "url": "https://t.co/0tF0e4x9Tg"
+                },
+                {
+                    "display_url": "pic.twitter.com/8OV2bYANW0",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1623305654399008770/photo/1",
+                    "media_key": "3_1623305651483992067",
+                    "start": 208,
+                    "url": "https://t.co/8OV2bYANW0"
+                }
+            ]
+        },
+        "id": "1623305654399008770",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1021,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "The enterprise metaverse \u2013 how do we get there? Instead of wondering, click, and read the new blog by our Chief Digital Officer, Peter Weckesser: https://t.co/0tF0e4x9Tg\n#IndustrialMetaverse #AI #DigitalTwin https://t.co/8OV2bYANW0"
+    }
+}

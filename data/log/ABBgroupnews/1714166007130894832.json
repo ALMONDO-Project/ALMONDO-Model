@@ -1,0 +1,78 @@
+{
+    "1714166007130894832": {
+        "attachments": {
+            "media_keys": [
+                "3_1714165583657238528"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-10-17T06:26:38.000Z",
+        "edit_history_tweet_ids": [
+            "1714166007130894832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.3901,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Bj\u00f6rn Rosengren",
+                    "probability": 0.7944,
+                    "start": 107,
+                    "type": "Person"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Timo Ihamuotila",
+                    "probability": 0.563,
+                    "start": 132,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "CFO",
+                    "probability": 0.4533,
+                    "start": 149,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "ABB quarterly results webcast",
+                    "display_url": "social.abb/q3-2023-webcast",
+                    "end": 254,
+                    "expanded_url": "https://social.abb/q3-2023-webcast",
+                    "start": 231,
+                    "status": 200,
+                    "title": "Webcast invitation \u2014 ABB Group",
+                    "unwound_url": "https://global.abb/group/en/investors/results-and-reports/quarterly-results-webcast",
+                    "url": "https://t.co/yeNiizIj1s"
+                },
+                {
+                    "display_url": "pic.twitter.com/phfHyzz1Vb",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1714166007130894832/photo/1",
+                    "media_key": "3_1714165583657238528",
+                    "start": 255,
+                    "url": "https://t.co/phfHyzz1Vb"
+                }
+            ]
+        },
+        "id": "1714166007130894832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2547,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "ABB will release its Q3 2023 results at 7:00 a.m. CEST on\u00a0Wednesday, October 18, 2023. A webcast hosted by Bj\u00f6rn Rosengren, CEO and Timo Ihamuotila, CFO will take place at 10:00am CEST on the same day.\nTo register for the webcast \ud83d\udc49https://t.co/yeNiizIj1s https://t.co/phfHyzz1Vb"
+    }
+}

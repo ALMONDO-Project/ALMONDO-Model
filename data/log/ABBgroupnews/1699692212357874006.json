@@ -1,0 +1,79 @@
+{
+    "1699692212357874006": {
+        "attachments": {
+            "media_keys": [
+                "3_1699691816906264576"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-09-07T07:52:56.000Z",
+        "edit_history_tweet_ids": [
+            "1699692212357874006"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "ABB",
+                    "probability": 0.7242,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "IE5",
+                    "probability": 0.7279,
+                    "start": 98,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 13,
+                    "tag": "technology"
+                },
+                {
+                    "end": 232,
+                    "start": 215,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 244,
+                    "start": 233,
+                    "tag": "DidYouKnow"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/IE5-synrm-safe\u2026",
+                    "end": 214,
+                    "expanded_url": "https://social.abb/IE5-synrm-safety-motors",
+                    "start": 191,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/technology/did-you-know/ie5-synrm-increased-safety-motors",
+                    "url": "https://t.co/YJ542vaUH5"
+                },
+                {
+                    "display_url": "pic.twitter.com/YiVAd11L4p",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1699692212357874006/photo/1",
+                    "media_key": "3_1699691816906264576",
+                    "start": 245,
+                    "url": "https://t.co/YiVAd11L4p"
+                }
+            ]
+        },
+        "id": "1699692212357874006",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1727,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Leading with #technology! \nABB has achieved a significant world-first by bringing the benefits of IE5 ultra-premium efficiency to electric motors in the hazardous area sector.\nDiscover more: https://t.co/YJ542vaUH5\n#EnergyEfficiency #DidYouKnow https://t.co/YiVAd11L4p"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1666331659715608576": {
+        "author_id": "393757140",
+        "created_at": "2023-06-07T06:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1666331659715608576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "IEA",
+                    "probability": 0.6969,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Jean-Pascal Tricoire",
+                    "probability": 0.7402,
+                    "start": 95,
+                    "type": "Person"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.7785,
+                    "start": 127,
+                    "type": "Organization"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Fatih Birol",
+                    "probability": 0.6138,
+                    "start": 151,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "IEA",
+                    "probability": 0.5597,
+                    "start": 164,
+                    "type": "Organization"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "Agn\u00e8s Pannier-",
+                    "probability": 0.5209,
+                    "start": 192,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018OxbKE",
+                    "end": 278,
+                    "expanded_url": "http://spr.ly/6018OxbKE",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/live/jklb021upfs?feature=share",
+                    "url": "https://t.co/bbzat3c4Vb"
+                }
+            ]
+        },
+        "id": "1666331659715608576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1560,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We're live! Watch the IEA's 8th Global Conference on Energy Efficiency's Opening Remarks, with Jean-Pascal Tricoire, Chairman, Schneider Electric, Dr. Fatih Birol, IEA Executive Director, and Agn\u00e8s Pannier-Runacher, French Minister of Energy Transition.\n\nhttps://t.co/bbzat3c4Vb"
+    }
+}

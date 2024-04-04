@@ -1,0 +1,108 @@
+{
+    "1638934301478883328": {
+        "attachments": {
+            "media_keys": [
+                "3_1638934298572083200"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-23T16:02:42.000Z",
+        "edit_history_tweet_ids": [
+            "1638934301478883328"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Shalom",
+                    "probability": 0.4447,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Alstom Traxx",
+                    "probability": 0.4867,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "locomotives",
+                    "probability": 0.3475,
+                    "start": 78,
+                    "type": "Place"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Israel",
+                    "probability": 0.9752,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 141,
+                    "normalized_text": "Kassel",
+                    "probability": 0.9564,
+                    "start": 136,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Germany",
+                    "probability": 0.9815,
+                    "start": 143,
+                    "type": "Place"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Israel",
+                    "probability": 0.9599,
+                    "start": 183,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 89,
+                    "start": 77,
+                    "tag": "locomotives"
+                },
+                {
+                    "end": 101,
+                    "start": 94,
+                    "tag": "Israel"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 236,
+                    "id": "1290976155491868672",
+                    "start": 221,
+                    "username": "israelrailways"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Q50LNw81dM",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/Alstom/status/1638934301478883328/photo/1",
+                    "media_key": "3_1638934298572083200",
+                    "start": 264,
+                    "url": "https://t.co/Q50LNw81dM"
+                }
+            ]
+        },
+        "id": "1638934301478883328",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2667,
+            "like_count": 30,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Shalom and have a safe trip! The first four of 36 newly ordered Alstom Traxx #locomotives for #Israel left their production facility in Kassel/Germany yesterday. They will operate in Israel in passenger traffic. We thank @israelrailways for their continued trust! https://t.co/Q50LNw81dM"
+    }
+}

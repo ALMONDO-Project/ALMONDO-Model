@@ -1,0 +1,71 @@
+{
+    "1719353534225719726": {
+        "attachments": {
+            "media_keys": [
+                "7_1718998823190851584"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-31T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1719353534225719726"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "GreenFuels",
+                    "probability": 0.4038,
+                    "start": 98,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 97,
+                    "tag": "GreenFuels"
+                },
+                {
+                    "end": 264,
+                    "start": 242,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 283,
+                    "start": 265,
+                    "tag": "LogisticsInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/susta\u2026",
+                    "end": 241,
+                    "expanded_url": "https://www.maersk.com/insights/sustainability/green-fuels",
+                    "start": 218,
+                    "unwound_url": "https://www.maersk.com/insights/sustainability/green-fuels",
+                    "url": "https://t.co/yseKg9yGop"
+                },
+                {
+                    "display_url": "pic.twitter.com/lxNGkAksV1",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Maersk/status/1719353534225719726/video/1",
+                    "media_key": "7_1718998823190851584",
+                    "start": 284,
+                    "url": "https://t.co/lxNGkAksV1"
+                }
+            ]
+        },
+        "id": "1719353534225719726",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4273,
+            "like_count": 45,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "The shipping industry uses about 300 million tons of fossil fuels per year \u2013 this is why we need #GreenFuels. Here are prospects &amp; challenges of scaling green fuels for a more sustainable future for supply chains: https://t.co/yseKg9yGop #SupplyChainManagement #LogisticsInsights https://t.co/lxNGkAksV1"
+    }
+}

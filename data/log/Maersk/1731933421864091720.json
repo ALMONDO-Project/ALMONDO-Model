@@ -1,0 +1,88 @@
+{
+    "1731933421864091720": {
+        "attachments": {
+            "media_keys": [
+                "3_1731932992535486464"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-05T07:08:00.000Z",
+        "edit_history_tweet_ids": [
+            "1731933421864091720"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 229,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3436,
+                    "start": 224,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "MaerskIMEA",
+                    "probability": 0.5063,
+                    "start": 266,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 25,
+                    "tag": "automotive"
+                },
+                {
+                    "end": 230,
+                    "start": 223,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 243,
+                    "start": 231,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 264,
+                    "start": 244,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 276,
+                    "start": 265,
+                    "tag": "MaerskIMEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3N2BrRf",
+                    "end": 221,
+                    "expanded_url": "https://bit.ly/3N2BrRf",
+                    "start": 198,
+                    "unwound_url": "https://www.maersk.com/imea-integrated-automotive-supply-chain?utm_campaign=IMEA_MCO_EN_INTEGRATED-LOGISTICS-2023-static-drop-15&utm_source=twitter&utm_medium=owned&utm_content=post",
+                    "url": "https://t.co/jQRSqMN2oV"
+                },
+                {
+                    "display_url": "pic.twitter.com/vKpheOfgBO",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1731933421864091720/photo/1",
+                    "media_key": "3_1731932992535486464",
+                    "start": 277,
+                    "url": "https://t.co/vKpheOfgBO"
+                }
+            ]
+        },
+        "id": "1731933421864091720",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2002,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Design a perfectly timed #automotive supply chain with our global network of assets backed by local expertise to ensure timely deliveries without incurring any financial penalties. \n\nDiscover More: https://t.co/jQRSqMN2oV\n\n#Maersk #SupplyChain #IntegratedLogistics #MaerskIMEA https://t.co/vKpheOfgBO"
+    }
+}

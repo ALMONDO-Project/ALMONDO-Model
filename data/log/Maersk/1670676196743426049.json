@@ -1,0 +1,67 @@
+{
+    "1670676196743426049": {
+        "attachments": {
+            "media_keys": [
+                "3_1670676192909819904"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-19T06:13:39.000Z",
+        "edit_history_tweet_ids": [
+            "1670676196743426049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "India",
+                    "probability": 0.9058,
+                    "start": 36,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 251,
+                    "start": 244,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 262,
+                    "start": 252,
+                    "tag": "eCommerce"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 241,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/06/19/maersk-announced-one-country-one-price-fulfilment-solution-in-india",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/06/19/maersk-announced-one-country-one-price-fulfilment-solution-in-india",
+                    "url": "https://t.co/P268wnNeKo"
+                },
+                {
+                    "display_url": "pic.twitter.com/heTxDJkHEA",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Maersk/status/1670676196743426049/photo/1",
+                    "media_key": "3_1670676192909819904",
+                    "start": 263,
+                    "url": "https://t.co/heTxDJkHEA"
+                }
+            ]
+        },
+        "id": "1670676196743426049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 11070,
+            "like_count": 97,
+            "quote_count": 3,
+            "reply_count": 8,
+            "retweet_count": 13
+        },
+        "text": "We are revolutionising eCommerce in India with a \u2018One Country, One Price\u2019 fulfilment solution\ud83e\udd1d\ud83c\udffc\n\nHighlights include:\n\ud83d\udccd India\n\ud83c\udf0dComplete eCommerce fulfilment \n\ud83d\udcb0 Rate of INR 80 / USD 1 per order\n\nRead full press release: https://t.co/P268wnNeKo \n\n#Maersk #eCommerce https://t.co/heTxDJkHEA"
+    }
+}

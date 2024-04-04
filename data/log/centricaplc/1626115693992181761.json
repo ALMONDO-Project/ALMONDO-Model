@@ -1,0 +1,53 @@
+{
+    "1626115693992181761": {
+        "attachments": {
+            "media_keys": [
+                "3_1626115672261464066"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-02-16T07:06:07.000Z",
+        "edit_history_tweet_ids": [
+            "1626115693992181761"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Centrica",
+                    "probability": 0.4437,
+                    "start": 0,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centrica.com/media-centre/n\u2026",
+                    "end": 96,
+                    "expanded_url": "https://www.centrica.com/media-centre/news/2023/preliminary-results-for-the-year-ended-31-december-2022/",
+                    "start": 73,
+                    "url": "https://t.co/gKwRkhFXk2"
+                },
+                {
+                    "display_url": "pic.twitter.com/pURFVxnaVM",
+                    "end": 120,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1626115693992181761/photo/1",
+                    "media_key": "3_1626115672261464066",
+                    "start": 97,
+                    "url": "https://t.co/pURFVxnaVM"
+                }
+            ]
+        },
+        "id": "1626115693992181761",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9585,
+            "like_count": 10,
+            "quote_count": 10,
+            "reply_count": 93,
+            "retweet_count": 4
+        },
+        "text": "Centrica has published its 2022 preliminary results today. \n\nRead more \u2192 https://t.co/gKwRkhFXk2 https://t.co/pURFVxnaVM"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1736684560815947825": {
+        "attachments": {
+            "media_keys": [
+                "13_1736684495355473921"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-12-18T09:47:19.000Z",
+        "edit_history_tweet_ids": [
+            "1736684560815947825"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "AI",
+                    "probability": 0.8857,
+                    "start": 31,
+                    "type": "Organization"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "AI",
+                    "probability": 0.8553,
+                    "start": 44,
+                    "type": "Organization"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "SAP",
+                    "probability": 0.8331,
+                    "start": 75,
+                    "type": "Organization"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "AI",
+                    "probability": 0.5253,
+                    "start": 88,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6018ROZP2",
+                    "end": 183,
+                    "expanded_url": "https://sap.to/6018ROZP2",
+                    "start": 160,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/products/artificial-intelligence.html?source=SAP_Innovations-SAP_Innovations_for_AI-Video-Awareness-Global-Artificial_Intelligence-ST1%3A_Intelligent_Enterprise-SAP.com&campaigncode=CRM-YA23-SMS-1941768&sprinklrid=12063677312",
+                    "url": "https://t.co/WHDPoIERDH"
+                },
+                {
+                    "display_url": "pic.twitter.com/qCcpG5W9VP",
+                    "end": 207,
+                    "expanded_url": "https://twitter.com/SAP/status/1736684560815947825/video/1",
+                    "media_key": "13_1736684495355473921",
+                    "start": 184,
+                    "url": "https://t.co/qCcpG5W9VP"
+                }
+            ]
+        },
+        "id": "1736684560815947825",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 6,
+            "impression_count": 8795,
+            "like_count": 74,
+            "quote_count": 9,
+            "reply_count": 2,
+            "retweet_count": 21
+        },
+        "text": "People are talking a lot about AI. But does AI understand your business? \n\nSAP Business AI is trained using your data to give you reliable, real-world results. https://t.co/WHDPoIERDH https://t.co/qCcpG5W9VP"
+    }
+}

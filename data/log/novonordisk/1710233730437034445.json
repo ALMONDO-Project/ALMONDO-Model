@@ -1,0 +1,77 @@
+{
+    "1710233730437034445": {
+        "author_id": "194037150",
+        "created_at": "2023-10-06T10:01:10.000Z",
+        "edit_history_tweet_ids": [
+            "1710233730437034445"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Aabid",
+                    "probability": 0.6083,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5988,
+                    "start": 175,
+                    "type": "Organization"
+                },
+                {
+                    "end": 289,
+                    "normalized_text": "Asif",
+                    "probability": 0.4933,
+                    "start": 286,
+                    "type": "Organization"
+                },
+                {
+                    "end": 303,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5308,
+                    "start": 292,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1284761069584515072",
+                    "start": 0,
+                    "username": "AabidMEHMOOD7"
+                },
+                {
+                    "end": 30,
+                    "id": "352184105",
+                    "start": 15,
+                    "username": "GovtofPakistan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.pk",
+                    "end": 279,
+                    "expanded_url": "https://www.novonordisk.pk/",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.pk/",
+                    "url": "https://t.co/1JE5sWry1E"
+                }
+            ]
+        },
+        "id": "1710233730437034445",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 70,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@AabidMEHMOOD7 @GovtofPakistan Dear Aabid, we are sorry to hear that. As we are not allowed to discuss about products on social media, I recommend you reach out to your local Novo Nordisk office for\u00a0questions about local availability of our products here:\u00a0https://t.co/1JE5sWry1E\nBest,\nAsif, Novo Nordisk"
+    }
+}

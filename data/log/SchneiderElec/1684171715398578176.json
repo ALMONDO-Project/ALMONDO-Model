@@ -1,0 +1,76 @@
+{
+    "1684171715398578176": {
+        "attachments": {
+            "media_keys": [
+                "3_1684171712663887873"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-26T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1684171715398578176"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.7026,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": ".0",
+                    "probability": 0.6733,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "AVEVA",
+                    "probability": 0.7928,
+                    "start": 56,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 0,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6004Ox4R6",
+                    "end": 274,
+                    "expanded_url": "http://spr.ly/6004Ox4R6",
+                    "start": 251,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/product-range/23643079-ecostruxure-automation-expert/#overview",
+                    "url": "https://t.co/dolWeKKSpz"
+                },
+                {
+                    "display_url": "pic.twitter.com/wo1u6gjDWM",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1684171715398578176/photo/1",
+                    "media_key": "3_1684171712663887873",
+                    "start": 275,
+                    "url": "https://t.co/wo1u6gjDWM"
+                }
+            ]
+        },
+        "id": "1684171715398578176",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1575,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "#EcoStruxure Automation Expert V23.0, now with enhanced AVEVA integration, enables you to reduce dependency on creating and maintaining applications with multiple software. Discover how it helps you focus on high-value engineering and innovation here https://t.co/dolWeKKSpz https://t.co/wo1u6gjDWM"
+    }
+}

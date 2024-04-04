@@ -1,0 +1,98 @@
+{
+    "1683718860640223233": {
+        "attachments": {
+            "media_keys": [
+                "7_1683718762841743360"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-25T06:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1683718860640223233"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "AI",
+                    "probability": 0.6875,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "SupplyChain",
+                    "probability": 0.4982,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 136,
+                    "start": 113,
+                    "tag": "ArtificialIntelligence"
+                },
+                {
+                    "end": 164,
+                    "start": 152,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 213,
+                    "start": 191,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 230,
+                    "start": 214,
+                    "tag": "MachineLearning"
+                },
+                {
+                    "end": 241,
+                    "start": 231,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 262,
+                    "start": 242,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 280,
+                    "start": 263,
+                    "tag": "LogisticInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/integ\u2026",
+                    "end": 189,
+                    "expanded_url": "https://www.maersk.com/insights/integrated-logistics/cloud-and-artificial-intelligence-logistics",
+                    "start": 166,
+                    "unwound_url": "https://www.maersk.com/insights/integrated-logistics/cloud-and-artificial-intelligence-logistics",
+                    "url": "https://t.co/IgBXMYGhCi"
+                },
+                {
+                    "display_url": "pic.twitter.com/QjyPiTfspw",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Maersk/status/1683718860640223233/video/1",
+                    "media_key": "7_1683718762841743360",
+                    "start": 281,
+                    "url": "https://t.co/QjyPiTfspw"
+                }
+            ]
+        },
+        "id": "1683718860640223233",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4844,
+            "like_count": 30,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "Can your supply chain unlock the power of AI? From real-time insights to better risk management, here are 7 ways #ArtificialIntelligence can boost your #SupplyChain: https://t.co/IgBXMYGhCi\n\n#SupplyChainManagement #MachineLearning #Logistics #IntegratedLogistics #LogisticInsights https://t.co/QjyPiTfspw"
+    }
+}

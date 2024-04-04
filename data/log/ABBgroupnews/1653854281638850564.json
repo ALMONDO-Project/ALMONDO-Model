@@ -1,0 +1,89 @@
+{
+    "1653854281638850564": {
+        "attachments": {
+            "media_keys": [
+                "13_1653852157521678339"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-05-03T20:09:22.000Z",
+        "edit_history_tweet_ids": [
+            "1653854281638850564"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "ABB",
+                    "probability": 0.6604,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9864,
+                    "start": 42,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 13,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 48,
+                    "start": 41,
+                    "tag": "Brazil"
+                },
+                {
+                    "end": 65,
+                    "start": 59,
+                    "tag": "paper"
+                },
+                {
+                    "end": 146,
+                    "start": 130,
+                    "tag": "betterdecisions"
+                },
+                {
+                    "end": 158,
+                    "start": 147,
+                    "tag": "automation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/ability_better\u2026",
+                    "end": 129,
+                    "expanded_url": "https://social.abb/ability_better_decisions_Klabin",
+                    "start": 106,
+                    "status": 200,
+                    "unwound_url": "https://stories.ability.abb.com/klabin/",
+                    "url": "https://t.co/Gxh2aKagyK"
+                },
+                {
+                    "display_url": "pic.twitter.com/hvfcjgR8mW",
+                    "end": 182,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1653854281638850564/video/1",
+                    "media_key": "13_1653852157521678339",
+                    "start": 159,
+                    "url": "https://t.co/hvfcjgR8mW"
+                }
+            ]
+        },
+        "id": "1653854281638850564",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2169,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Find out how #ABB digital solutions help #Brazil\u2019s largest #paper maker meet expanded production targets: https://t.co/Gxh2aKagyK\n#betterdecisions #automation https://t.co/hvfcjgR8mW"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1640646220409368576": {
+        "attachments": {
+            "media_keys": [
+                "7_1640645938023657472"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-03-28T09:25:15.000Z",
+        "edit_history_tweet_ids": [
+            "1640646220409368576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Net Zero Homes Index",
+                    "probability": 0.8653,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5672,
+                    "start": 152,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 151,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 135,
+                    "id": "46630225",
+                    "start": 124,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centrica.com/media-centre/n\u2026",
+                    "end": 276,
+                    "expanded_url": "https://www.centrica.com/media-centre/news/2023/british-gas-launches-new-services-to-supercharge-uks-net-zero-ambition/",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/british-gas-launches-new-services-to-supercharge-uks-net-zero-ambition/",
+                    "url": "https://t.co/PtlciYRDRY"
+                },
+                {
+                    "display_url": "pic.twitter.com/bg5eWNudgD",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1640646220409368576/video/1",
+                    "media_key": "7_1640645938023657472",
+                    "start": 277,
+                    "url": "https://t.co/bg5eWNudgD"
+                }
+            ]
+        },
+        "id": "1640646220409368576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 448,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our Net Zero Homes Index showed 4 in 5 people are willing to make changes in their home to tackle the climate crisis. \ud83c\udf0d\n\nSo @BritishGas has launched a #NetZero tool kit to make greener living more accessible and affordable than ever. \ud83d\udc9a\n\nFind out more \ud83d\udc49 https://t.co/PtlciYRDRY https://t.co/bg5eWNudgD"
+    }
+}

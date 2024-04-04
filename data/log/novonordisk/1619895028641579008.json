@@ -1,0 +1,64 @@
+{
+    "1619895028641579008": {
+        "author_id": "194037150",
+        "created_at": "2023-01-30T03:07:25.000Z",
+        "edit_history_tweet_ids": [
+            "1619895028641579008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 217,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.513,
+                    "start": 206,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "559533149",
+                    "start": 0,
+                    "username": "HealthWestIrl"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact detail for all Novo Nordisk offices, research centres and production facilities.",
+                    "display_url": "novonordisk.com/contact-us/fin\u2026",
+                    "end": 255,
+                    "expanded_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 232,
+                    "status": 200,
+                    "title": "Find local information",
+                    "unwound_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "url": "https://t.co/gbKMu3XV0C"
+                }
+            ]
+        },
+        "id": "1619895028641579008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 45,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@HealthWestIrl Hi, due to global privacy and legal regulations, we are not allowed to discuss our products on social media. For queries on local availability of our products, please reach out to your local Novo Nordisk office here: https://t.co/gbKMu3XV0C"
+    }
+}

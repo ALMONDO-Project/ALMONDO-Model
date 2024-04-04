@@ -1,0 +1,39 @@
+{
+    "1737132967959405024": {
+        "author_id": "76117579",
+        "created_at": "2023-12-19T15:29:08.000Z",
+        "edit_history_tweet_ids": [
+            "1737132967959405024"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "SAP",
+                    "probability": 0.7842,
+                    "start": 76,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "308402178",
+                    "start": 0,
+                    "username": "tweetissima"
+                }
+            ]
+        },
+        "id": "1737132967959405024",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 19,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@tweetissima We always value constructive feedback from users who work with SAP technologies. If we can help address a specific issue, please send us information about your company and your contact details via private message or email our team at brandsocial@sap.com."
+    }
+}

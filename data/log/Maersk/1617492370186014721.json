@@ -1,0 +1,86 @@
+{
+    "1617492370186014721": {
+        "attachments": {
+            "media_keys": [
+                "3_1617492366117535750"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-23T12:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1617492370186014721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "Maersk Reefer",
+                    "probability": 0.6365,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "Cold",
+                    "probability": 0.5185,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Fruit Logistica 2023",
+                    "probability": 0.6214,
+                    "start": 79,
+                    "type": "Other"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Berlin",
+                    "probability": 0.4549,
+                    "start": 103,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 36,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 283,
+                    "start": 273,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3R0OpQz",
+                    "end": 272,
+                    "expanded_url": "https://bddy.me/3R0OpQz",
+                    "start": 249,
+                    "url": "https://t.co/ysUN6g297F"
+                },
+                {
+                    "display_url": "pic.twitter.com/TWRU6hMycR",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Maersk/status/1617492370186014721/photo/1",
+                    "media_key": "3_1617492366117535750",
+                    "start": 284,
+                    "url": "https://t.co/TWRU6hMycR"
+                }
+            ]
+        },
+        "id": "1617492370186014721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3016,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udca1 Get a chance to catch up with the #Maersk Reefer &amp; Cold Chain Experts at Fruit Logistica 2023 in Berlin to discuss &amp; exchange ideas on how to build agile, flexible &amp; connected supply chains. \ud83e\udd51\ud83c\udf52\ud83c\udf4b\nVisit us at Booth D-40 / Hall 26. More: https://t.co/ysUN6g297F #AllTheWay https://t.co/TWRU6hMycR"
+    }
+}

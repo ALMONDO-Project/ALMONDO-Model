@@ -1,0 +1,84 @@
+{
+    "1629088759454085123": {
+        "attachments": {
+            "media_keys": [
+                "3_1629088756941594624"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-24T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1629088759454085123"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 151,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.9187,
+                    "start": 136,
+                    "type": "Person"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "AI",
+                    "probability": 0.7181,
+                    "start": 169,
+                    "type": "Organization"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Microgrid",
+                    "probability": 0.4447,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 247,
+                    "start": 238,
+                    "tag": "Prosumer"
+                },
+                {
+                    "end": 258,
+                    "start": 248,
+                    "tag": "Microgrid"
+                },
+                {
+                    "end": 271,
+                    "start": 259,
+                    "tag": "GreenEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60173sGyf",
+                    "end": 237,
+                    "expanded_url": "http://spr.ly/60173sGyf",
+                    "start": 214,
+                    "url": "https://t.co/70TQc3NaWs"
+                },
+                {
+                    "display_url": "pic.twitter.com/MbzeUoz9p0",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1629088759454085123/photo/1",
+                    "media_key": "3_1629088756941594624",
+                    "start": 272,
+                    "url": "https://t.co/MbzeUoz9p0"
+                }
+            ]
+        },
+        "id": "1629088759454085123",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 767,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Worried of rising energy costs? Come to the green side and make data-based energy decisions. \nRead the new blog by our Chief AI Officer Philippe Rambach to discover how AI can lower your bill and carbon footprint: https://t.co/70TQc3NaWs\n#Prosumer #Microgrid #GreenEnergy https://t.co/MbzeUoz9p0"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1625749652065624066": {
+        "author_id": "258725128",
+        "created_at": "2023-02-15T06:51:36.000Z",
+        "edit_history_tweet_ids": [
+            "1625749652065624066"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "AccessibleMobility",
+                    "probability": 0.6324,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "mobilitybynature",
+                    "probability": 0.5781,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 18,
+                    "tag": "AccessibleMobility"
+                },
+                {
+                    "end": 61,
+                    "start": 42,
+                    "tag": "InclusiveTransport"
+                },
+                {
+                    "end": 96,
+                    "start": 79,
+                    "tag": "mobilitybynature"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 76,
+                    "id": "271927841",
+                    "start": 67,
+                    "username": "UITPnews"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/UITPnews/statu\u2026",
+                    "end": 120,
+                    "expanded_url": "https://twitter.com/UITPnews/status/1623341488590536705",
+                    "start": 97,
+                    "url": "https://t.co/Vd3F2pEByj"
+                }
+            ]
+        },
+        "id": "1625749652065624066",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3610,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "Fully onboard for #AccessibleMobility and #InclusiveTransport with @UITPnews !\n#mobilitybynature https://t.co/Vd3F2pEByj"
+    }
+}

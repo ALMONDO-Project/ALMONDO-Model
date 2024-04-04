@@ -1,0 +1,73 @@
+{
+    "1732055940340359553": {
+        "attachments": {
+            "media_keys": [
+                "3_1732055919448530944"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-12-05T15:14:50.000Z",
+        "edit_history_tweet_ids": [
+            "1732055940340359553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Pledge",
+                    "probability": 0.5088,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "COP28",
+                    "probability": 0.9521,
+                    "start": 96,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 95,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 278,
+                    "start": 261,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3SXxbpY",
+                    "end": 258,
+                    "expanded_url": "https://bit.ly/3SXxbpY",
+                    "start": 235,
+                    "unwound_url": "https://www.whyenergyefficiency.com/solutions/allsolutions/energy-efficiency-2-0-engineering-the-future-energy-system?utm_source=social&utm_medium=twitter&utm_campaign=cf_cop28&utm_content=organic_group",
+                    "url": "https://t.co/Nv3MzwNygM"
+                },
+                {
+                    "display_url": "pic.twitter.com/Gf9hFa32ix",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1732055940340359553/photo/1",
+                    "media_key": "3_1732055919448530944",
+                    "start": 279,
+                    "url": "https://t.co/Gf9hFa32ix"
+                }
+            ]
+        },
+        "id": "1732055940340359553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 617,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Support of more than 100 countries to the Global Pledge on Renewables and Energy Efficiency at #COP28 is an encouraging step to get us on track for net zero by 2050. Energy efficiency &amp; renewables must go hand in hand.\n\nRead more: https://t.co/Nv3MzwNygM\n \n#EnergyEfficiency https://t.co/Gf9hFa32ix"
+    }
+}

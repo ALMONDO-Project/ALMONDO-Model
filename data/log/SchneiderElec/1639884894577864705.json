@@ -1,0 +1,74 @@
+{
+    "1639884894577864705": {
+        "attachments": {
+            "media_keys": [
+                "3_1639884891859963905"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-26T07:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1639884894577864705"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "ParisMarathon",
+                    "probability": 0.8251,
+                    "start": 27,
+                    "type": "Place"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "SEGreenRunners",
+                    "probability": 0.3459,
+                    "start": 93,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 26,
+                    "tag": "ParisMarathon"
+                },
+                {
+                    "end": 107,
+                    "start": 92,
+                    "tag": "SEGreenRunners"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60133h5Z3",
+                    "end": 175,
+                    "expanded_url": "http://spr.ly/60133h5Z3",
+                    "start": 152,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/marathondeparis.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9248430185&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/bBfDXbMxx6"
+                },
+                {
+                    "display_url": "pic.twitter.com/5mYAmHAFHV",
+                    "end": 199,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1639884894577864705/photo/1",
+                    "media_key": "3_1639884891859963905",
+                    "start": 176,
+                    "url": "https://t.co/5mYAmHAFHV"
+                }
+            ]
+        },
+        "id": "1639884894577864705",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3031,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Only 7 days left till the #ParisMarathon! Are you ready to meet us at the finish line? Join #SEGreenRunners for last-minute preparation tips. \ud83c\udfc3\u200d\u2642\ufe0f \ud83c\udfc3\u200d\u2640\ufe0f https://t.co/bBfDXbMxx6 https://t.co/5mYAmHAFHV"
+    }
+}

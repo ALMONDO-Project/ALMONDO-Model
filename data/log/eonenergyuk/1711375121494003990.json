@@ -1,0 +1,61 @@
+{
+    "1711375121494003990": {
+        "attachments": {
+            "media_keys": [
+                "3_1711342167124283392"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-10-09T13:36:39.000Z",
+        "edit_history_tweet_ids": [
+            "1711375121494003990"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "solarpanels",
+                    "probability": 0.5546,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 25,
+                    "tag": "solarpanels"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 85,
+                    "id": "34610672",
+                    "start": 72,
+                    "username": "EdinburghZoo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/EJiGaF1S3X",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1711375121494003990/photo/1",
+                    "media_key": "3_1711342167124283392",
+                    "start": 249,
+                    "url": "https://t.co/EJiGaF1S3X"
+                }
+            ]
+        },
+        "id": "1711375121494003990",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1043,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "We've started installing #solarpanels for some very important customers @EdinburghZoo \ud83e\udd92\ud83d\udc27\ud83e\udda9\n\nThe new solar meadow \u2600\ufe0fwill generate around 25% of the Zoo\u2019s electricity use, and contribute to its commitment to reduce its carbon footprint by 60% by 2030. https://t.co/EJiGaF1S3X"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1653640655019601921": {
+        "attachments": {
+            "media_keys": [
+                "13_1653640547582476288"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-05-03T06:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1653640655019601921"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 93,
+                    "normalized_text": "CO2",
+                    "probability": 0.5407,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Universe Science Park",
+                    "probability": 0.5753,
+                    "start": 110,
+                    "type": "Place"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9447,
+                    "start": 144,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 253,
+                    "start": 247,
+                    "tag": "WhyEE"
+                },
+                {
+                    "end": 271,
+                    "start": 254,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "danfoss.com/en/service-and\u2026",
+                    "end": 246,
+                    "expanded_url": "https://www.danfoss.com/en/service-and-support/case-stories/dds/universe-wind-tunnel-uses-less-power-with-danfoss-vsds/",
+                    "start": 223,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/en/service-and-support/case-stories/dds/universe-wind-tunnel-uses-less-power-with-danfoss-vsds/",
+                    "url": "https://t.co/dnKZ28l3iG"
+                },
+                {
+                    "display_url": "pic.twitter.com/XgIFZKTxSu",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1653640655019601921/video/1",
+                    "media_key": "13_1653640547582476288",
+                    "start": 272,
+                    "url": "https://t.co/XgIFZKTxSu"
+                }
+            ]
+        },
+        "id": "1653640655019601921",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 517,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Is it possible to simulate a tropical cyclone while reducing electricity consumption &amp; CO2 emissions? The Universe Science Park in southern Denmark managed to achieve that with the park's star attraction. Discover how: https://t.co/dnKZ28l3iG #WhyEE #EnergyEfficiency https://t.co/XgIFZKTxSu"
+    }
+}

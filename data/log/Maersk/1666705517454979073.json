@@ -1,0 +1,118 @@
+{
+    "1666705517454979073": {
+        "attachments": {
+            "media_keys": [
+                "7_1666703975427502083"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-08T07:15:35.000Z",
+        "edit_history_tweet_ids": [
+            "1666705517454979073"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Moller",
+                    "probability": 0.5356,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 20,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6079,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Microsoft Azure",
+                    "probability": 0.8549,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Maersk",
+                    "probability": 0.551,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5191,
+                    "start": 208,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 214,
+                    "start": 207,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 225,
+                    "start": 215,
+                    "tag": "microsoft"
+                },
+                {
+                    "end": 234,
+                    "start": 226,
+                    "tag": "digital"
+                },
+                {
+                    "end": 241,
+                    "start": 235,
+                    "tag": "cloud"
+                },
+                {
+                    "end": 245,
+                    "start": 242,
+                    "tag": "ai"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "74286565",
+                    "start": 48,
+                    "username": "Microsoft"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 206,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/06/08/maersk-expands-relationship-with-microsoft-to-further-digitize-and-decarbonize-logistics",
+                    "start": 183,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/06/08/maersk-expands-relationship-with-microsoft-to-further-digitize-and-decarbonize-logistics",
+                    "url": "https://t.co/4CUg2bqRYb"
+                },
+                {
+                    "display_url": "pic.twitter.com/twHcyNSWle",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/Maersk/status/1666705517454979073/video/1",
+                    "media_key": "7_1666703975427502083",
+                    "start": 246,
+                    "url": "https://t.co/twHcyNSWle"
+                }
+            ]
+        },
+        "id": "1666705517454979073",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3346,
+            "like_count": 38,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "\ud83e\udd1dA.P. Moller - Maersk expands relationship with @Microsoft to further digitize and decarbonize logistics. \ud83c\udf10With Microsoft Azure as Maersk\u2019s strategic cloud platform. Learn more here: https://t.co/4CUg2bqRYb\n#Maersk #microsoft #digital #cloud #ai https://t.co/twHcyNSWle"
+    }
+}

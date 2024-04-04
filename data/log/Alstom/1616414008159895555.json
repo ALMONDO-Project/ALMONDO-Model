@@ -1,0 +1,82 @@
+{
+    "1616414008159895555": {
+        "author_id": "258725128",
+        "created_at": "2023-01-20T12:35:05.000Z",
+        "edit_history_tweet_ids": [
+            "1616414008159895555"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "DelhiMeerut",
+                    "probability": 0.8431,
+                    "start": 64,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "RRTS",
+                    "probability": 0.6346,
+                    "start": 77,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 63,
+                    "tag": "DelhiMeerut"
+                },
+                {
+                    "end": 81,
+                    "start": 76,
+                    "tag": "RRTS"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Change is fast approaching Delhi and the vast region surrounding the capital of India - and it is coming by rail!",
+                    "display_url": "ow.ly/ktWt50Mw2Vn",
+                    "end": 62,
+                    "expanded_url": "http://ow.ly/ktWt50Mw2Vn",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1715582823309205504/kzLrEWyI?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1715582823309205504/kzLrEWyI?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 39,
+                    "status": 200,
+                    "title": "The Delhi-Ghaziabad-Meerut Rapid Rail network is a gamechanger",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2022/10/delhi-ghaziabad-meerut-rapid-rail-network-gamechanger",
+                    "url": "https://t.co/JPMljfGp2U"
+                },
+                {
+                    "display_url": "twitter.com/AlstomIndia/st\u2026",
+                    "end": 106,
+                    "expanded_url": "https://twitter.com/AlstomIndia/status/1616344801267548160",
+                    "start": 83,
+                    "url": "https://t.co/5tKr47EHRZ"
+                }
+            ]
+        },
+        "id": "1616414008159895555",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 17645,
+            "like_count": 306,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 19
+        },
+        "text": "Great milestone for a great project! \n\ud83d\udc49https://t.co/JPMljfGp2U\n#DelhiMeerut #RRTS\n https://t.co/5tKr47EHRZ"
+    }
+}

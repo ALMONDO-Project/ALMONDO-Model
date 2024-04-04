@@ -1,0 +1,69 @@
+{
+    "1663947390443716611": {
+        "attachments": {
+            "media_keys": [
+                "3_1663942098641354761"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-05-31T16:35:47.000Z",
+        "edit_history_tweet_ids": [
+            "1663947390443716611"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "HeatPumps",
+                    "probability": 0.6375,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "HeatPumps"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 214,
+                    "id": "41077970",
+                    "start": 202,
+                    "username": "energygovuk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3IOAaeO",
+                    "end": 272,
+                    "expanded_url": "http://bit.ly/3IOAaeO",
+                    "start": 249,
+                    "unwound_url": "https://www.heatpumpready.org.uk/wp-content/uploads/2023/05/feasibility-report-heat-pump-ready-newcastle.pdf",
+                    "url": "https://t.co/S4Bb64zDro"
+                },
+                {
+                    "display_url": "pic.twitter.com/vlqs6vPbBu",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1663947390443716611/photo/1",
+                    "media_key": "3_1663942098641354761",
+                    "start": 273,
+                    "url": "https://t.co/vlqs6vPbBu"
+                }
+            ]
+        },
+        "id": "1663947390443716611",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1518,
+            "like_count": 0,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#HeatPumps are a viable lower carbon solution that work across different house types &amp; communities.\n\nWe investigated how best to inspire a mass rollout of heat pumps. \n\nRead our findings as part of @energygovuk's Phase 1 Heat Pump Ready project https://t.co/S4Bb64zDro https://t.co/vlqs6vPbBu"
+    }
+}

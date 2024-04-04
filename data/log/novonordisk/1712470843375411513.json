@@ -1,0 +1,39 @@
+{
+    "1712470843375411513": {
+        "author_id": "194037150",
+        "created_at": "2023-10-12T14:10:39.000Z",
+        "edit_history_tweet_ids": [
+            "1712470843375411513"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 172,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5392,
+                    "start": 161,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "763605661",
+                    "start": 0,
+                    "username": "dankremnitzer"
+                }
+            ]
+        },
+        "id": "1712470843375411513",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 183,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@dankremnitzer Yes, the positive results from an interim analysis met certain pre-specified criteria for stopping the trial early for efficacy.\nBest regards\nBo, Novo Nordisk"
+    }
+}

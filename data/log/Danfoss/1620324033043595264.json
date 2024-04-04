@@ -1,0 +1,109 @@
+{
+    "1620324033043595264": {
+        "attachments": {
+            "media_keys": [
+                "13_1620323926650900485"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-01-31T07:32:08.000Z",
+        "edit_history_tweet_ids": [
+            "1620324033043595264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "Salling Group",
+                    "probability": 0.7097,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.7177,
+                    "start": 100,
+                    "type": "Other"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "FoodLoss",
+                    "probability": 0.555,
+                    "start": 147,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "WhyEE",
+                    "probability": 0.4892,
+                    "start": 244,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 5,
+                    "tag": "Digitalization"
+                },
+                {
+                    "end": 44,
+                    "start": 27,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 155,
+                    "start": 146,
+                    "tag": "FoodLoss"
+                },
+                {
+                    "end": 242,
+                    "start": 234,
+                    "tag": "Cooling"
+                },
+                {
+                    "end": 249,
+                    "start": 243,
+                    "tag": "WhyEE"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 135,
+                    "id": "74286565",
+                    "start": 125,
+                    "username": "Microsoft"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3DroDPR",
+                    "end": 232,
+                    "expanded_url": "https://bit.ly/3DroDPR",
+                    "start": 209,
+                    "url": "https://t.co/5Vte2VTtY4"
+                },
+                {
+                    "display_url": "pic.twitter.com/BJhcYvwasC",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1620324033043595264/video/1",
+                    "media_key": "13_1620323926650900485",
+                    "start": 250,
+                    "url": "https://t.co/BJhcYvwasC"
+                }
+            ]
+        },
+        "id": "1620324033043595264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1016,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "When #Digitalization meets #EnergyEfficiency, the potential is endless. Recently, Salling Group and Danfoss collaborate with @Microsoft to reduce #FoodLoss and energy usage in retail refrigeration. Read more: https://t.co/5Vte2VTtY4 \n#Cooling #WhyEE https://t.co/BJhcYvwasC"
+    }
+}

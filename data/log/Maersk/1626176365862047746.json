@@ -1,0 +1,82 @@
+{
+    "1626176365862047746": {
+        "attachments": {
+            "media_keys": [
+                "3_1626176263978160134"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-16T11:07:13.000Z",
+        "edit_history_tweet_ids": [
+            "1626176365862047746"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Chittagong",
+                    "probability": 0.9683,
+                    "start": 48,
+                    "type": "Place"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6853,
+                    "start": 207,
+                    "type": "Place"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "Warehouse",
+                    "probability": 0.4566,
+                    "start": 239,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 213,
+                    "start": 206,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 226,
+                    "start": 214,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 237,
+                    "start": 227,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 248,
+                    "start": 238,
+                    "tag": "Warehouse"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/MoDyQNRfwo",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/Maersk/status/1626176365862047746/photo/1",
+                    "media_key": "3_1626176263978160134",
+                    "start": 249,
+                    "url": "https://t.co/MoDyQNRfwo"
+                }
+            ]
+        },
+        "id": "1626176365862047746",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5218,
+            "like_count": 65,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 14
+        },
+        "text": "We have inaugurated two dedicated warehouses at Chittagong in Bangladesh\ud83d\udccd\n \nThese warehouses are multi-storied facilities equipped with lifts and conveyor belts which will expedite the handling of cargo\ud83e\udd1d\n \n#Maersk #SupplyChain #Logistics #Warehouse https://t.co/MoDyQNRfwo"
+    }
+}

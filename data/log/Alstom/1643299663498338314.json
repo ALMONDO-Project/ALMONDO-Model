@@ -1,0 +1,68 @@
+{
+    "1643299663498338314": {
+        "author_id": "258725128",
+        "created_at": "2023-04-04T17:09:05.000Z",
+        "edit_history_tweet_ids": [
+            "1643299663498338314"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Alstom Coradia iLint",
+                    "probability": 0.5203,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Qu\u00e9bec",
+                    "probability": 0.8556,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Canada",
+                    "probability": 0.9171,
+                    "start": 91,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1329333469",
+                    "start": 5,
+                    "username": "AlstomDACH"
+                },
+                {
+                    "end": 33,
+                    "id": "941346571521810433",
+                    "start": 20,
+                    "username": "AlstomCanada"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/AlstomDACH/sta\u2026",
+                    "end": 123,
+                    "expanded_url": "https://twitter.com/AlstomDACH/status/1643295692314533907",
+                    "start": 100,
+                    "url": "https://t.co/Hpyd7dyi57"
+                }
+            ]
+        },
+        "id": "1643299663498338314",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5160,
+            "like_count": 38,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "From @AlstomDACH to @AlstomCanada with\ud83d\udc99! Our Alstom Coradia iLint is on the way to Qu\u00e9bec, Canada \ud83d\udc47 https://t.co/Hpyd7dyi57"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "1620344098539323392": {
+        "attachments": {
+            "media_keys": [
+                "3_1620344096366665728",
+                "3_1620344096115023873",
+                "3_1620344096215662594",
+                "3_1620344096236642306"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-01-31T08:51:52.000Z",
+        "edit_history_tweet_ids": [
+            "1620344098539323392"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Alstom",
+                    "probability": 0.8223,
+                    "start": 3,
+                    "type": "Place"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Thailand",
+                    "probability": 0.9788,
+                    "start": 109,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "France",
+                    "probability": 0.9255,
+                    "start": 186,
+                    "type": "Place"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "Thailand",
+                    "probability": 0.6107,
+                    "start": 193,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 117,
+                    "start": 108,
+                    "tag": "Thailand"
+                },
+                {
+                    "end": 279,
+                    "start": 267,
+                    "tag": "sustainable"
+                },
+                {
+                    "end": 291,
+                    "start": 280,
+                    "tag": "innovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 172,
+                    "id": "2543242004",
+                    "start": 158,
+                    "username": "FRenThailande"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/pDzWH5VYuR",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/Alstom/status/1620344098539323392/photo/1",
+                    "media_key": "3_1620344096366665728",
+                    "start": 293,
+                    "url": "https://t.co/pDzWH5VYuR"
+                },
+                {
+                    "display_url": "pic.twitter.com/pDzWH5VYuR",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/Alstom/status/1620344098539323392/photo/1",
+                    "media_key": "3_1620344096115023873",
+                    "start": 293,
+                    "url": "https://t.co/pDzWH5VYuR"
+                },
+                {
+                    "display_url": "pic.twitter.com/pDzWH5VYuR",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/Alstom/status/1620344098539323392/photo/1",
+                    "media_key": "3_1620344096215662594",
+                    "start": 293,
+                    "url": "https://t.co/pDzWH5VYuR"
+                },
+                {
+                    "display_url": "pic.twitter.com/pDzWH5VYuR",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/Alstom/status/1620344098539323392/photo/1",
+                    "media_key": "3_1620344096236642306",
+                    "start": 293,
+                    "url": "https://t.co/pDzWH5VYuR"
+                }
+            ]
+        },
+        "id": "1620344098539323392",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3252,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "At Alstom, we innovate to deliver operationally and make mobility smarter &amp; greener within &amp; beyond #Thailand. That's why we're proud to partner with @FRenThailande for the 2023 France-Thailand Year of Innovation to nurture a culture of experimentation &amp; #sustainable #innovation. https://t.co/pDzWH5VYuR"
+    }
+}

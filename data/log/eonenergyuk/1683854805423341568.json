@@ -1,0 +1,63 @@
+{
+    "1683854805423341568": {
+        "author_id": "142611379",
+        "created_at": "2023-07-25T15:00:44.000Z",
+        "edit_history_tweet_ids": [
+            "1683854805423341568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Nottingham",
+                    "probability": 0.9384,
+                    "start": 0,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 139,
+                    "start": 117,
+                    "tag": "DiversityandInclusion"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 72,
+                    "id": "25382767",
+                    "start": 61,
+                    "username": "NottsPride"
+                },
+                {
+                    "end": 175,
+                    "id": "1257215696234254341",
+                    "start": 166,
+                    "username": "eon_next"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3KdoAu9",
+                    "end": 257,
+                    "expanded_url": "https://bit.ly/3KdoAu9",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://www.eonenergy.com/newsroom.html",
+                    "url": "https://t.co/aUY4KMNH87"
+                }
+            ]
+        },
+        "id": "1683854805423341568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1551,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Nottingham is close to our hearts and we\u2019re proud to support @NottsPride\ud83e\udd1d\n\nOur colleagues will be there to celebrate #DiversityandInclusion and to talk about life at @eon_next as we\u2019re recruiting for 300+ local roles \ud83c\udff3\ufe0f\u200d\ud83c\udf08\n\nRead more: https://t.co/aUY4KMNH87"
+    }
+}

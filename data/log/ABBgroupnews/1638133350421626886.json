@@ -1,0 +1,77 @@
+{
+    "1638133350421626886": {
+        "attachments": {
+            "media_keys": [
+                "13_1638103828061888512"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-21T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1638133350421626886"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Atilla",
+                    "probability": 0.6296,
+                    "start": 53,
+                    "type": "Place"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Brazil",
+                    "probability": 0.954,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "ABB",
+                    "probability": 0.5393,
+                    "start": 120,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 4,
+                    "tag": "technology"
+                },
+                {
+                    "end": 109,
+                    "start": 102,
+                    "tag": "coffee"
+                },
+                {
+                    "end": 146,
+                    "start": 135,
+                    "tag": "automation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/l8HDsDP2Np",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1638133350421626886/video/1",
+                    "media_key": "13_1638103828061888512",
+                    "start": 276,
+                    "url": "https://t.co/l8HDsDP2Np"
+                }
+            ]
+        },
+        "id": "1638133350421626886",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1922,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "The #technology behind the perfect cup of coffee! At Atilla, Brazil's biggest manufacturer of midsize #coffee roasters, ABB drives and #automation hardware are enabling millisecond-accurate control over how coffee is roasted \u2013 leading to a better cup of Joe than ever before. https://t.co/l8HDsDP2Np"
+    }
+}

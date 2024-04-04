@@ -1,0 +1,81 @@
+{
+    "1648906845153525760": {
+        "attachments": {
+            "media_keys": [
+                "3_1648906842150428674"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-20T04:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1648906845153525760"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Hannover Messe",
+                    "probability": 0.6895,
+                    "start": 59,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Le Vaudreuil Smart Factory",
+                    "probability": 0.8805,
+                    "start": 111,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.5031,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 164,
+                    "start": 152,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 277,
+                    "start": 272,
+                    "tag": "HM23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019OPw3t",
+                    "end": 271,
+                    "expanded_url": "http://spr.ly/6019OPw3t",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/smart-factory/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9614729823&utm_campaign=Industry_of_the_Future&country=Global",
+                    "url": "https://t.co/nCXt8rOZc4"
+                },
+                {
+                    "display_url": "pic.twitter.com/IOiNUTxbhf",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1648906845153525760/photo/1",
+                    "media_key": "3_1648906842150428674",
+                    "start": 278,
+                    "url": "https://t.co/IOiNUTxbhf"
+                }
+            ]
+        },
+        "id": "1648906845153525760",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1645,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Join us April 20th at 11AM CEST, Hall 11, Booth C46 during Hannover Messe to take part in our live tour of our Le Vaudreuil Smart Factory! Discover our #EcoStruxure offers and how we implement our own innovative technologies in our own production. https://t.co/nCXt8rOZc4 #HM23 https://t.co/IOiNUTxbhf"
+    }
+}

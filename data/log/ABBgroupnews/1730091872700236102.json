@@ -1,0 +1,93 @@
+{
+    "1730091872700236102": {
+        "attachments": {
+            "media_keys": [
+                "3_1730091061689622528"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-11-30T05:10:20.000Z",
+        "edit_history_tweet_ids": [
+            "1730091872700236102"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "ABB Capital",
+                    "probability": 0.6837,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "ABB",
+                    "probability": 0.6508,
+                    "start": 61,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 60,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 217,
+                    "start": 208,
+                    "tag": "business"
+                },
+                {
+                    "end": 271,
+                    "start": 260,
+                    "tag": "technology"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Future focus on consistency in operating model, accelerating growthand continuous improvements",
+                    "display_url": "social.abb/capital-market\u2026",
+                    "end": 259,
+                    "expanded_url": "https://social.abb/capital-markets-day-2023",
+                    "images": [
+                        {
+                            "height": 432,
+                            "url": "https://pbs.twimg.com/news_img/1730091880405176320/b1ZRKMmG?format=jpg&name=orig",
+                            "width": 768
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1730091880405176320/b1ZRKMmG?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 236,
+                    "status": 200,
+                    "title": "ABB Capital Markets Day 2023: Setting new standards",
+                    "unwound_url": "https://new.abb.com/news/detail/110097/abb-capital-markets-day-2023-setting-new-standards",
+                    "url": "https://t.co/1n397l5Arg"
+                },
+                {
+                    "display_url": "pic.twitter.com/Ew32k92TbY",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1730091872700236102/photo/1",
+                    "media_key": "3_1730091061689622528",
+                    "start": 272,
+                    "url": "https://t.co/Ew32k92TbY"
+                }
+            ]
+        },
+        "id": "1730091872700236102",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2064,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "ABB Capital Markets Day 2023: Setting new standards.\nToday, #ABB will provide an update on its successful transformation, financial targets and how the company will benefit from key secular trends across its #business areas.\nRead more: https://t.co/1n397l5Arg\n#technology https://t.co/Ew32k92TbY"
+    }
+}

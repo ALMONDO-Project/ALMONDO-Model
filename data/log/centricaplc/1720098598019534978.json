@@ -1,0 +1,43 @@
+{
+    "1720098598019534978": {
+        "author_id": "21746077",
+        "created_at": "2023-11-02T15:20:38.000Z",
+        "edit_history_tweet_ids": [
+            "1720098598019534978"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Centrica",
+                    "probability": 0.6541,
+                    "start": 49,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 5,
+                    "tag": "NationalStressAwarenessDay"
+                },
+                {
+                    "end": 125,
+                    "start": 112,
+                    "tag": "mentalhealth"
+                }
+            ]
+        },
+        "id": "1720098598019534978",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 269,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "It's #NationalStressAwarenessDay so we asked the Centrica Wellbeing Team for their top tips to maintaining good #mentalhealth and managing the daily stresses that life can throw at you!"
+    }
+}

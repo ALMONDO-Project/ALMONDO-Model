@@ -1,0 +1,68 @@
+{
+    "1703027454615380153": {
+        "author_id": "393757140",
+        "created_at": "2023-09-16T12:46:00.000Z",
+        "edit_history_tweet_ids": [
+            "1703027454615380153"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "eBus",
+                    "probability": 0.5731,
+                    "start": 103,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 174,
+                    "tag": "GreenTransportation"
+                },
+                {
+                    "end": 204,
+                    "start": 195,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Did you know a single eBus can save 60 tons of CO\u2082 per year compared to a diesel bus? Learn how you can increase city sustainability and optimize day to day ...",
+                    "display_url": "spr.ly/6013P4mUB",
+                    "end": 172,
+                    "expanded_url": "http://spr.ly/6013P4mUB",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1738877223543672833/wD3NhJn4?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1738877223543672833/wD3NhJn4?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 149,
+                    "status": 200,
+                    "title": "Unlock City Sustainability Potential by Utilizing eBuses | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=2dvGHtQLMOQ",
+                    "url": "https://t.co/OEbEpgNHKy"
+                }
+            ]
+        },
+        "id": "1703027454615380153",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1772,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "The fact is that eBuses are a smarter and more sustainable option than diesel buses. See how utilizing eBus can help improve cities' sustainability. https://t.co/OEbEpgNHKy\n\n#GreenTransportation #LifeIsOn"
+    }
+}

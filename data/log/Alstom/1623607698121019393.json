@@ -1,0 +1,84 @@
+{
+    "1623607698121019393": {
+        "attachments": {
+            "media_keys": [
+                "7_1623606623540334593"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-02-09T09:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1623607698121019393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Alstom Innovia",
+                    "probability": 0.3863,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 19,
+                    "normalized_text": "APMs",
+                    "probability": 0.3791,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "Monorails",
+                    "probability": 0.4652,
+                    "start": 28,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 15,
+                    "tag": "APMs"
+                },
+                {
+                    "end": 37,
+                    "start": 27,
+                    "tag": "Monorails"
+                },
+                {
+                    "end": 263,
+                    "start": 254,
+                    "tag": "airports"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/UBKx50MMLSs",
+                    "end": 288,
+                    "expanded_url": "http://ow.ly/UBKx50MMLSs",
+                    "start": 265,
+                    "url": "https://t.co/CE0d8BEI4E"
+                },
+                {
+                    "display_url": "pic.twitter.com/MNtsn7Eqv3",
+                    "end": 312,
+                    "expanded_url": "https://twitter.com/Alstom/status/1623607698121019393/video/1",
+                    "media_key": "7_1623606623540334593",
+                    "start": 289,
+                    "url": "https://t.co/MNtsn7Eqv3"
+                }
+            ]
+        },
+        "id": "1623607698121019393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1614,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Alstom Innovia #APMs &amp; #Monorails achieve close to 100% system availability because vehicles operate automatically on dedicated underground, ground level or elevated guideways. This ensures smooth service &amp; time accuracy, which is appreciated at #airports! https://t.co/CE0d8BEI4E https://t.co/MNtsn7Eqv3"
+    }
+}

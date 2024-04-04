@@ -1,0 +1,91 @@
+{
+    "1656920550302703616": {
+        "attachments": {
+            "media_keys": [
+                "3_1656920546620108800"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-05-12T07:13:37.000Z",
+        "edit_history_tweet_ids": [
+            "1656920550302703616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Finland",
+                    "probability": 0.9752,
+                    "start": 7,
+                    "type": "Place"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Arctic Circle",
+                    "probability": 0.4898,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "ABB",
+                    "probability": 0.4599,
+                    "start": 178,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 23,
+                    "tag": "hydropower"
+                },
+                {
+                    "end": 181,
+                    "start": 177,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 235,
+                    "start": 219,
+                    "tag": "electrification"
+                },
+                {
+                    "end": 251,
+                    "start": 236,
+                    "tag": "sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "new.abb.com/news/detail/10\u2026",
+                    "end": 217,
+                    "expanded_url": "https://new.abb.com/news/detail/102904/european-hydropower-leader-on-top-of-the-world-with-leaner-sf6-free-retrofit-solution",
+                    "start": 194,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/102904/european-hydropower-leader-on-top-of-the-world-with-leaner-sf6-free-retrofit-solution",
+                    "url": "https://t.co/H1yIT6w45S"
+                },
+                {
+                    "display_url": "pic.twitter.com/Msfzc7Qiad",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1656920550302703616/photo/1",
+                    "media_key": "3_1656920546620108800",
+                    "start": 252,
+                    "url": "https://t.co/Msfzc7Qiad"
+                }
+            ]
+        },
+        "id": "1656920550302703616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2997,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Two of Finland\u2019s major #hydropower plants, located in the freezing Arctic Circle, are now SF6 \u2018greenhouse gas\u2019 free thanks to a turn-key generator circuit breaker retrofit from #ABB.\nRead more: https://t.co/H1yIT6w45S\n\n#electrification #sustainability https://t.co/Msfzc7Qiad"
+    }
+}

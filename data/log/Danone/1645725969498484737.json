@@ -1,0 +1,103 @@
+{
+    "1645725969498484737": {
+        "attachments": {
+            "media_keys": [
+                "3_1645725535052365824"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-04-11T09:50:21.000Z",
+        "edit_history_tweet_ids": [
+            "1645725969498484737"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Danone",
+                    "probability": 0.4516,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "ChampionsForLife",
+                    "probability": 0.7432,
+                    "start": 184,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 174,
+                    "tag": "SOP2023"
+                },
+                {
+                    "end": 200,
+                    "start": 183,
+                    "tag": "ChampionsForLife"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 112,
+                    "id": "130832341",
+                    "start": 96,
+                    "username": "sofyanemehiaoui"
+                },
+                {
+                    "end": 120,
+                    "id": "492201888",
+                    "start": 113,
+                    "username": "JKR_17"
+                },
+                {
+                    "end": 135,
+                    "id": "1103361784885506048",
+                    "start": 121,
+                    "username": "SoldeTyphaine"
+                },
+                {
+                    "end": 147,
+                    "id": "1466477273306046464",
+                    "start": 136,
+                    "username": "ZhoyaSasha"
+                },
+                {
+                    "end": 162,
+                    "id": "3295467804",
+                    "start": 148,
+                    "username": "SMartinetJudo"
+                },
+                {
+                    "end": 173,
+                    "id": "951849552",
+                    "start": 163,
+                    "username": "Paris2024"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/MhRErsV6t3",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/Danone/status/1645725969498484737/photo/1",
+                    "media_key": "3_1645725535052365824",
+                    "start": 201,
+                    "url": "https://t.co/MhRErsV6t3"
+                }
+            ]
+        },
+        "id": "1645725969498484737",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1210,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The opportunity for Danone\u2019s champions to go back to school, to meet the champions of tomorrow! @sofyanemehiaoui @JKR_17 @SoldeTyphaine @ZhoyaSasha @SMartinetJudo @Paris2024 #SOP2023 #ChampionsForLife https://t.co/MhRErsV6t3"
+    }
+}

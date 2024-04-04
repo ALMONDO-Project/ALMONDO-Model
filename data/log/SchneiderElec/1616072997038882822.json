@@ -1,0 +1,96 @@
+{
+    "1616072997038882822": {
+        "attachments": {
+            "media_keys": [
+                "3_1616072991049416706"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-19T14:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1616072997038882822"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Barbara Frei",
+                    "probability": 0.8305,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "EVP",
+                    "probability": 0.491,
+                    "start": 32,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "Industrial Automation",
+                    "probability": 0.672,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "The Factory of the Future",
+                    "probability": 0.9692,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "WEF23",
+                    "probability": 0.743,
+                    "start": 125,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 130,
+                    "start": 124,
+                    "tag": "WEF23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 164,
+                    "id": "5120691",
+                    "start": 160,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60163VTWQ",
+                    "end": 159,
+                    "expanded_url": "http://spr.ly/60163VTWQ",
+                    "start": 136,
+                    "url": "https://t.co/omlOi4Q0dJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/kW2HUrnDpV",
+                    "end": 188,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1616072997038882822/photo/1",
+                    "media_key": "3_1616072991049416706",
+                    "start": 165,
+                    "url": "https://t.co/kW2HUrnDpV"
+                }
+            ]
+        },
+        "id": "1616072997038882822",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 904,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We're live! Watch Barbara Frei, EVP of Industrial Automation, hosts this interactive session \"The Factory of the Future\" at #WEF23 now: https://t.co/omlOi4Q0dJ\n@wef https://t.co/kW2HUrnDpV"
+    }
+}

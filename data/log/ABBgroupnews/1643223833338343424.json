@@ -1,0 +1,74 @@
+{
+    "1643223833338343424": {
+        "attachments": {
+            "media_keys": [
+                "3_1643223694393655299"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-04-04T12:07:46.000Z",
+        "edit_history_tweet_ids": [
+            "1643223833338343424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.4919,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 33,
+                    "normalized_text": "US",
+                    "probability": 0.9757,
+                    "start": 32,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 106,
+                    "start": 90,
+                    "tag": "electrification"
+                },
+                {
+                    "end": 122,
+                    "start": 111,
+                    "tag": "automation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/invests-170m-i\u2026",
+                    "end": 167,
+                    "expanded_url": "https://social.abb/invests-170m-in-the-US",
+                    "start": 144,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/101645/abb-invests-170-million-in-the-us",
+                    "url": "https://t.co/TaqIR5XQBi"
+                },
+                {
+                    "display_url": "pic.twitter.com/Wd9YtyacV9",
+                    "end": 191,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1643223833338343424/photo/1",
+                    "media_key": "3_1643223694393655299",
+                    "start": 168,
+                    "url": "https://t.co/Wd9YtyacV9"
+                }
+            ]
+        },
+        "id": "1643223833338343424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2852,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "ABB invests $170 million in the US. The investment reflects increased customer demand for #electrification and #automation products.\nRead more: https://t.co/TaqIR5XQBi https://t.co/Wd9YtyacV9"
+    }
+}

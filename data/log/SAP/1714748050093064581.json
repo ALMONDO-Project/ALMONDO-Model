@@ -1,0 +1,69 @@
+{
+    "1714748050093064581": {
+        "attachments": {
+            "media_keys": [
+                "13_1714747975551881216"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-10-18T20:59:28.000Z",
+        "edit_history_tweet_ids": [
+            "1714748050093064581"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "SAP",
+                    "probability": 0.9366,
+                    "start": 0,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "WALLDORF \u2014 The company announced financial results for the quarter ended September 30, 2023.",
+                    "display_url": "sap.to/6018uZjfQ",
+                    "end": 78,
+                    "expanded_url": "https://sap.to/6018uZjfQ",
+                    "images": [
+                        {
+                            "height": 600,
+                            "url": "https://pbs.twimg.com/news_img/1725186910015148032/bXg3i4Lv?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1725186910015148032/bXg3i4Lv?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 55,
+                    "status": 200,
+                    "title": "SAP Announces Q3 2023 Results",
+                    "unwound_url": "https://news.sap.com/2023/10/sap-announces-q3-2023-results/?source=social-Global-TWITTER-Brand_Story-Accounting_and_Financial_Close-spr-11590552974-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11590552974",
+                    "url": "https://t.co/CUoRapJ41O"
+                },
+                {
+                    "display_url": "pic.twitter.com/fVetOIWAq5",
+                    "end": 102,
+                    "expanded_url": "https://twitter.com/SAP/status/1714748050093064581/video/1",
+                    "media_key": "13_1714747975551881216",
+                    "start": 79,
+                    "url": "https://t.co/fVetOIWAq5"
+                }
+            ]
+        },
+        "id": "1714748050093064581",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8799,
+            "like_count": 41,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 22
+        },
+        "text": "SAP today announced its financial results for Q3 2023. https://t.co/CUoRapJ41O https://t.co/fVetOIWAq5"
+    }
+}

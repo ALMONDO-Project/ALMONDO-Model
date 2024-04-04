@@ -1,0 +1,74 @@
+{
+    "1698946564516204884": {
+        "attachments": {
+            "media_keys": [
+                "3_1698592775199993856"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-05T06:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1698946564516204884"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3813,
+                    "start": 1,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 42,
+                    "start": 32,
+                    "tag": "Diversity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 97,
+                    "id": "28305804",
+                    "start": 85,
+                    "username": "LogisticsUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/sustainability\u2026",
+                    "end": 281,
+                    "expanded_url": "https://www.maersk.com/sustainability/our-esg-priorities/diversity-equity-inclusion",
+                    "start": 258,
+                    "unwound_url": "https://www.maersk.com/sustainability/our-esg-priorities/diversity-equity-inclusion",
+                    "url": "https://t.co/Qe6h3uZIIQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/4FVaVrmdpd",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/Maersk/status/1698946564516204884/photo/1",
+                    "media_key": "3_1698592775199993856",
+                    "start": 282,
+                    "url": "https://t.co/4FVaVrmdpd"
+                }
+            ]
+        },
+        "id": "1698946564516204884",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3216,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "#Maersk has been shortlisted as #Diversity and Inclusion Champion of the Year at the @LogisticsUK Awards 2023! We are fully committed to diversity &amp; inclusion in the workplace &amp; are proud to support every employee helping our business thrive. More\ud83d\udc49: https://t.co/Qe6h3uZIIQ https://t.co/4FVaVrmdpd"
+    }
+}

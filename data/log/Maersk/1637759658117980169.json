@@ -1,0 +1,84 @@
+{
+    "1637759658117980169": {
+        "attachments": {
+            "media_keys": [
+                "3_1637759653072322562"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-20T10:15:05.000Z",
+        "edit_history_tweet_ids": [
+            "1637759658117980169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "A. P. Moller - Maersk",
+                    "probability": 0.6202,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "A.P. Moller Holding",
+                    "probability": 0.8146,
+                    "start": 169,
+                    "type": "Other"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6054,
+                    "start": 233,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 239,
+                    "start": 232,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 45,
+                    "id": "794534530401136641",
+                    "start": 32,
+                    "username": "MaerskSupply"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3Jx9DCb",
+                    "end": 230,
+                    "expanded_url": "https://bddy.me/3Jx9DCb",
+                    "start": 207,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/03/20/maersk-to-divest-maersk-supply-service-a-leading-provider-of-global-offshore-marine-services",
+                    "url": "https://t.co/XsOPQhtcTZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/WcHDA4vBXm",
+                    "end": 263,
+                    "expanded_url": "https://twitter.com/Maersk/status/1637759658117980169/photo/1",
+                    "media_key": "3_1637759653072322562",
+                    "start": 240,
+                    "url": "https://t.co/WcHDA4vBXm"
+                }
+            ]
+        },
+        "id": "1637759658117980169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5317,
+            "like_count": 46,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "A. P. Moller - Maersk to divest @MaerskSupply Service, a leading provider of global offshore marine services and project solutions for the energy sector. Agreement with A.P. Moller Holding.\nLearn more here: https://t.co/XsOPQhtcTZ\n\n#Maersk https://t.co/WcHDA4vBXm"
+    }
+}
