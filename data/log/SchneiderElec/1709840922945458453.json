@@ -1,0 +1,102 @@
+{
+    "1709840922945458453": {
+        "attachments": {
+            "media_keys": [
+                "13_1709840852850237440"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-10-05T08:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1709840922945458453"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 112,
+                    "normalized_text": "Roger Collins",
+                    "probability": 0.9018,
+                    "start": 100,
+                    "type": "Person"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "UK",
+                    "probability": 0.8822,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "Morgan Rusk",
+                    "probability": 0.518,
+                    "start": 132,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9403,
+                    "start": 145,
+                    "type": "Place"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "BPX",
+                    "probability": 0.4014,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Industrial",
+                    "probability": 0.5296,
+                    "start": 190,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "Alliance"
+                },
+                {
+                    "end": 280,
+                    "start": 258,
+                    "tag": "IndustriesOfTheFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6002Pr49y",
+                    "end": 257,
+                    "expanded_url": "http://spr.ly/6002Pr49y",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=4FQJojZRh1s",
+                    "url": "https://t.co/dNCZnoXQJS"
+                },
+                {
+                    "display_url": "pic.twitter.com/cKsv9GA20y",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1709840922945458453/video/1",
+                    "media_key": "13_1709840852850237440",
+                    "start": 281,
+                    "url": "https://t.co/cKsv9GA20y"
+                }
+            ]
+        },
+        "id": "1709840922945458453",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 825,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The #Alliance Partner Program means continuous investment in people and a digital route to market. \nRoger Collins, UK Director, and Morgan Rusk, Ireland Director, of BPX, an Alliance Master Industrial Automation Distributor, discuss: https://t.co/dNCZnoXQJS\n#IndustriesOfTheFuture https://t.co/cKsv9GA20y"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1722124400802103411": {
+        "attachments": {
+            "media_keys": [
+                "13_1722124290168881152"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-08T05:30:27.000Z",
+        "edit_history_tweet_ids": [
+            "1722124400802103411"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Citycon",
+                    "probability": 0.4653,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Lippulaiva",
+                    "probability": 0.5843,
+                    "start": 67,
+                    "type": "Place"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "AI",
+                    "probability": 0.7865,
+                    "start": 194,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 35,
+                    "id": "2178186788",
+                    "start": 25,
+                    "username": "LidlSuomi"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6010uS0P0",
+                    "end": 236,
+                    "expanded_url": "http://spr.ly/l/6010uS0P0",
+                    "start": 213,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6010uS0P0",
+                    "url": "https://t.co/KwACNY3g5V"
+                },
+                {
+                    "display_url": "pic.twitter.com/tNBGWAdeGv",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1722124400802103411/video/1",
+                    "media_key": "13_1722124290168881152",
+                    "start": 237,
+                    "url": "https://t.co/tNBGWAdeGv"
+                }
+            ]
+        },
+        "id": "1722124400802103411",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1219,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Learn how companies like @LidlSuomi and Citycon shopping center in Lippulaiva harness machine learning-enabled solutions to edge closer to net-zero goals. Experience the transformative power of AI with us: (cont) https://t.co/KwACNY3g5V https://t.co/tNBGWAdeGv"
+    }
+}

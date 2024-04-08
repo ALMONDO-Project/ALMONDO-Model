@@ -1,0 +1,90 @@
+{
+    "1638941232645951489": {
+        "attachments": {
+            "media_keys": [
+                "7_1638941194913816576"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-03-23T16:30:14.000Z",
+        "edit_history_tweet_ids": [
+            "1638941232645951489"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "British Gas",
+                    "probability": 0.4441,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "Save",
+                    "probability": 0.5507,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "DSR",
+                    "probability": 0.4071,
+                    "start": 122,
+                    "type": "Organization"
+                },
+                {
+                    "end": 225,
+                    "normalized_text": "DSR",
+                    "probability": 0.4403,
+                    "start": 223,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 99,
+                    "id": "109525104",
+                    "start": 86,
+                    "username": "nationalgrid"
+                },
+                {
+                    "end": 146,
+                    "id": "46630225",
+                    "start": 135,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ufLk4B",
+                    "end": 270,
+                    "expanded_url": "http://bit.ly/3ufLk4B",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/sustainability/our-role-in-net-zero/",
+                    "url": "https://t.co/cG0wBocOck"
+                },
+                {
+                    "display_url": "pic.twitter.com/HON5KGe9wA",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1638941232645951489/video/1",
+                    "media_key": "7_1638941194913816576",
+                    "start": 271,
+                    "url": "https://t.co/HON5KGe9wA"
+                }
+            ]
+        },
+        "id": "1638941232645951489",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 750,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We're powering up the savings on British Gas's Peak Save \u26a1\n\nTo mark the last event of @NationalGrid\u2019s demand flexibility (DSR) service @BritishGas will be paying Peak Save customers \u00a39 for every kWh saved\ud83c\udf89\n\nRead more about DSR and net zero here \u2192 https://t.co/cG0wBocOck https://t.co/HON5KGe9wA"
+    }
+}

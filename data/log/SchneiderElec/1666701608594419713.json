@@ -1,0 +1,86 @@
+{
+    "1666701608594419713": {
+        "attachments": {
+            "media_keys": [
+                "3_1666701604513251328"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-08T07:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1666701608594419713"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "IEA",
+                    "probability": 0.7582,
+                    "start": 14,
+                    "type": "Organization"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Jean-Pascal Tricoire",
+                    "probability": 0.7012,
+                    "start": 101,
+                    "type": "Person"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8925,
+                    "start": 132,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 229,
+                    "start": 212,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 245,
+                    "start": 230,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 254,
+                    "start": 246,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018OIKei",
+                    "end": 278,
+                    "expanded_url": "http://spr.ly/6018OIKei",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=nhu6dPLQZ70&feature=youtu.be",
+                    "url": "https://t.co/DwdzcEvLI2"
+                },
+                {
+                    "display_url": "pic.twitter.com/BKgzy6DFd2",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1666701608594419713/photo/1",
+                    "media_key": "3_1666701604513251328",
+                    "start": 279,
+                    "url": "https://t.co/BKgzy6DFd2"
+                }
+            ]
+        },
+        "id": "1666701608594419713",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 843,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Live from the IEA's 8th Global Conference on Energy Efficiency! Join us for the Opening Remarks from Jean-Pascal Tricoire, Chairman Schneider Electric. Be part of the conversation shaping a sustainable tomorrow. #EnergyEfficiency #Sustainability #NetZero https://t.co/DwdzcEvLI2 https://t.co/BKgzy6DFd2"
+    }
+}

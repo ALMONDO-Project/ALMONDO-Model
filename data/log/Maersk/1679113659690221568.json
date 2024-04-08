@@ -1,0 +1,77 @@
+{
+    "1679113659690221568": {
+        "attachments": {
+            "media_keys": [
+                "7_1679111752191975424"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-12T13:01:07.000Z",
+        "edit_history_tweet_ids": [
+            "1679113659690221568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4562,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4083,
+                    "start": 255,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 261,
+                    "start": 254,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 42,
+                    "id": "547452978",
+                    "start": 27,
+                    "username": "africaceoforum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/TijvESxzZEo",
+                    "end": 253,
+                    "expanded_url": "https://youtu.be/TijvESxzZEo",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=TijvESxzZEo&feature=youtu.be",
+                    "url": "https://t.co/0HVD0kHgXo"
+                },
+                {
+                    "display_url": "pic.twitter.com/DwkJTqGlIT",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Maersk/status/1679113659690221568/video/1",
+                    "media_key": "7_1679111752191975424",
+                    "start": 262,
+                    "url": "https://t.co/DwkJTqGlIT"
+                }
+            ]
+        },
+        "id": "1679113659690221568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2853,
+            "like_count": 31,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Maersk participated at the @africaceoforum 2023, where more than 2,000 top leaders, decision-makers, policymakers, and other stakeholders came together to discuss the potential and future of Africa\ud83d\ude86\ud83d\ude9b\u2708\ud83d\udea2\ud83c\udf0d\nWatch the full video here: https://t.co/0HVD0kHgXo\n#Maersk https://t.co/DwkJTqGlIT"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1646808023254409216": {
+        "attachments": {
+            "media_keys": [
+                "3_1646808015142567938"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-04-14T09:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1646808023254409216"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 198,
+                    "normalized_text": "Rwanda",
+                    "probability": 0.9632,
+                    "start": 193,
+                    "type": "Place"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "Saharan Africa",
+                    "probability": 0.4347,
+                    "start": 208,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 113,
+                    "id": "826813704394174465",
+                    "start": 103,
+                    "username": "AIFRwanda"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spkl.io/60184eO1g",
+                    "end": 261,
+                    "expanded_url": "http://spkl.io/60184eO1g",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.dsm.com/corporate/news/news-archive/2023/quantifies-food-system-impact.html",
+                    "url": "https://t.co/6JZhcYQpdH"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZFyD4OD3Bi",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/DSM/status/1646808023254409216/photo/1",
+                    "media_key": "3_1646808015142567938",
+                    "start": 262,
+                    "url": "https://t.co/ZFyD4OD3Bi"
+                }
+            ]
+        },
+        "id": "1646808023254409216",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1060,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Smallholder farmers are the major producers of food for the world. \ud83c\udf3e\n\nThanks to our joint venture with @AIFRwanda and other partners, we are already supporting at least 60,000 smallholdings in Rwanda and Sub-Saharan Africa. \n\nMore here \ud83d\udc49 https://t.co/6JZhcYQpdH https://t.co/ZFyD4OD3Bi"
+    }
+}

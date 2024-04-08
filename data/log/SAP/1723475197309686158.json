@@ -1,0 +1,39 @@
+{
+    "1723475197309686158": {
+        "author_id": "76117579",
+        "created_at": "2023-11-11T22:58:02.000Z",
+        "edit_history_tweet_ids": [
+            "1723475197309686158"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "ABAP",
+                    "probability": 0.6921,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "108081542",
+                    "start": 0,
+                    "username": "chamoe78"
+                }
+            ]
+        },
+        "id": "1723475197309686158",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 39,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@chamoe78 Love it! ABAP is alive and kickin' \u2014 and then some!\ud83d\udd7a"
+    }
+}

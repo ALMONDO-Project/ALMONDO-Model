@@ -1,0 +1,56 @@
+{
+    "1694641757202284808": {
+        "author_id": "380801406",
+        "created_at": "2023-08-24T09:24:14.000Z",
+        "edit_history_tweet_ids": [
+            "1694641757202284808"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "A.P. Moller",
+                    "probability": 0.4912,
+                    "start": 76,
+                    "type": "Person"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "Maersk",
+                    "probability": 0.476,
+                    "start": 90,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1617851611182936064",
+                    "start": 0,
+                    "username": "kdgupta6333"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/support/faqs/h\u2026",
+                    "end": 285,
+                    "expanded_url": "https://www.maersk.com/support/faqs/how-can-i-identify-a-fake-website",
+                    "start": 262,
+                    "unwound_url": "https://www.maersk.com/support/faqs/how-can-i-identify-a-fake-website",
+                    "url": "https://t.co/fLzxxcjMh4"
+                }
+            ]
+        },
+        "id": "1694641757202284808",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 53,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@kdgupta6333 Please do not engage with this content as this is not official A.P. Moller - Maersk communication. We are investigating this case further. Thank you for bringing it to our attention. See the following website to learn how to identify fake websites: https://t.co/fLzxxcjMh4"
+    }
+}

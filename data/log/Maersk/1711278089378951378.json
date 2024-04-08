@@ -1,0 +1,100 @@
+{
+    "1711278089378951378": {
+        "attachments": {
+            "media_keys": [
+                "3_1711277297070694400",
+                "3_1711277297192357888",
+                "3_1711277297339105280"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-09T07:11:05.000Z",
+        "edit_history_tweet_ids": [
+            "1711278089378951378"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "methanol",
+                    "probability": 0.7626,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5656,
+                    "start": 234,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "allthwaytozero",
+                    "probability": 0.4937,
+                    "start": 242,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 61,
+                    "start": 52,
+                    "tag": "methanol"
+                },
+                {
+                    "end": 240,
+                    "start": 233,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 256,
+                    "start": 241,
+                    "tag": "allthwaytozero"
+                },
+                {
+                    "end": 273,
+                    "start": 257,
+                    "tag": "decarbonisation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/063Su6dO3a",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1711278089378951378/photo/1",
+                    "media_key": "3_1711277297070694400",
+                    "start": 274,
+                    "url": "https://t.co/063Su6dO3a"
+                },
+                {
+                    "display_url": "pic.twitter.com/063Su6dO3a",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1711278089378951378/photo/1",
+                    "media_key": "3_1711277297192357888",
+                    "start": 274,
+                    "url": "https://t.co/063Su6dO3a"
+                },
+                {
+                    "display_url": "pic.twitter.com/063Su6dO3a",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1711278089378951378/photo/1",
+                    "media_key": "3_1711277297339105280",
+                    "start": 274,
+                    "url": "https://t.co/063Su6dO3a"
+                }
+            ]
+        },
+        "id": "1711278089378951378",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 8,
+            "impression_count": 24212,
+            "like_count": 248,
+            "quote_count": 11,
+            "reply_count": 4,
+            "retweet_count": 57
+        },
+        "text": "She floats \ud83d\udef3. The first in a new series of 12 large #methanol enabled container ships, made her launching and undocking milestone \ud83d\udc4f. Dual-fuel engine. \ud83d\udccf Measuring at 350m in length &amp; 53.5m width, with capacity to carry 16200 TEU #Maersk #allthwaytozero #decarbonisation https://t.co/063Su6dO3a"
+    }
+}

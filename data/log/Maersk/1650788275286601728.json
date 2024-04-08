@@ -1,0 +1,69 @@
+{
+    "1650788275286601728": {
+        "attachments": {
+            "media_keys": [
+                "7_1650787866241376258"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-25T09:06:09.000Z",
+        "edit_history_tweet_ids": [
+            "1650788275286601728"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 206,
+                    "normalized_text": "Morten Bo",
+                    "probability": 0.9669,
+                    "start": 198,
+                    "type": "Person"
+                },
+                {
+                    "end": 283,
+                    "normalized_text": "maersk",
+                    "probability": 0.4986,
+                    "start": 278,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 284,
+                    "start": 277,
+                    "tag": "maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=wr9JpL\u2026",
+                    "end": 276,
+                    "expanded_url": "https://www.youtube.com/watch?v=wr9JpLpOHsg",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=wr9JpLpOHsg",
+                    "url": "https://t.co/Vj0Lv8LnTW"
+                },
+                {
+                    "display_url": "pic.twitter.com/CQkRkQNdgK",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Maersk/status/1650788275286601728/video/1",
+                    "media_key": "7_1650787866241376258",
+                    "start": 285,
+                    "url": "https://t.co/CQkRkQNdgK"
+                }
+            ]
+        },
+        "id": "1650788275286601728",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3811,
+            "like_count": 38,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 12
+        },
+        "text": "Imagination, caring, empathy - what are the most important traits of a leader? Listening, being open to learn and to collaborate, but also inspiring &amp; being there when support is needed is what Morten Bo aspires to be as a leader. Watch full video: https://t.co/Vj0Lv8LnTW\n#maersk https://t.co/CQkRkQNdgK"
+    }
+}

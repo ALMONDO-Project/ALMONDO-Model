@@ -1,0 +1,103 @@
+{
+    "1701960145100546259": {
+        "attachments": {
+            "media_keys": [
+                "3_1701957770436653056"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-09-13T14:04:54.000Z",
+        "edit_history_tweet_ids": [
+            "1701960145100546259"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Kim Royds",
+                    "probability": 0.6968,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Sustainable Homes and Building Coalition",
+                    "probability": 0.5823,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Westminster",
+                    "probability": 0.9042,
+                    "start": 143,
+                    "type": "Place"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Laura Sandys",
+                    "probability": 0.4977,
+                    "start": 170,
+                    "type": "Other"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "Carl Arntzen",
+                    "probability": 0.6114,
+                    "start": 203,
+                    "type": "Person"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "Worcester Bosch",
+                    "probability": 0.5421,
+                    "start": 217,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Jade Lewis",
+                    "probability": 0.5784,
+                    "start": 237,
+                    "type": "Other"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "Sustainable Energy Association",
+                    "probability": 0.554,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 24,
+                    "id": "46630225",
+                    "start": 13,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/csp16lZIcZ",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1701960145100546259/photo/1",
+                    "media_key": "3_1701957770436653056",
+                    "start": 281,
+                    "url": "https://t.co/csp16lZIcZ"
+                }
+            ]
+        },
+        "id": "1701960145100546259",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 468,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Kim Royds of @BritishGas has been speaking at the launch of the Sustainable Homes and Building Coalition report 'Home is where the heat is' in Westminster. Pictured with Laura Sandys, challenging ideas, Carl Arntzen, Worcester Bosch and Jade Lewis, Sustainable Energy Association. https://t.co/csp16lZIcZ"
+    }
+}

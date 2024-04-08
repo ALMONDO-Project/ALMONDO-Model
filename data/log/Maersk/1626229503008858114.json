@@ -1,0 +1,89 @@
+{
+    "1626229503008858114": {
+        "author_id": "380801406",
+        "created_at": "2023-02-16T14:38:22.000Z",
+        "edit_history_tweet_ids": [
+            "1626229503008858114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "The Ocean Cleanup",
+                    "probability": 0.9344,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5162,
+                    "start": 251,
+                    "type": "Other"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Theoceancleanup",
+                    "probability": 0.5097,
+                    "start": 259,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 257,
+                    "start": 250,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 274,
+                    "start": 258,
+                    "tag": "Theoceancleanup"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Ten years ago today, the largest cleanup in history officially began. Subscribe to our YouTube channel to stay updated on our progress: https://bit.ly/371k8s...",
+                    "display_url": "youtu.be/TsPniQeEZA8",
+                    "end": 248,
+                    "expanded_url": "https://youtu.be/TsPniQeEZA8",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1751055513486307328/MgxQchaA?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1751055513486307328/MgxQchaA?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 225,
+                    "status": 200,
+                    "title": "10 years of The Ocean Cleanup",
+                    "unwound_url": "https://www.youtube.com/watch?v=TsPniQeEZA8&feature=youtu.be",
+                    "url": "https://t.co/XZHzuFsj3M"
+                },
+                {
+                    "display_url": "x.com/TheOceanCleanu\u2026",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/TheOceanCleanup/status/1625887694269054976",
+                    "start": 275,
+                    "url": "https://t.co/hL5jqvw1Sx"
+                }
+            ]
+        },
+        "id": "1626229503008858114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7444,
+            "like_count": 39,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "A very inspirational story of how The Ocean Cleanup was created 10 years ago!\nWe are proud partners of your mission, and we are amazed by the great efforts being done everyday cleaning the oceans of plastic\ud83d\uddd1\nWatch more here: https://t.co/XZHzuFsj3M \n#Maersk #Theoceancleanup https://t.co/hL5jqvw1Sx"
+    }
+}

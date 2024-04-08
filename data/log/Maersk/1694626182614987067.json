@@ -1,0 +1,81 @@
+{
+    "1694626182614987067": {
+        "author_id": "380801406",
+        "created_at": "2023-08-24T08:22:21.000Z",
+        "edit_history_tweet_ids": [
+            "1694626182614987067"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Dinesh",
+                    "probability": 0.6224,
+                    "start": 57,
+                    "type": "Person"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "A.P. Moller",
+                    "probability": 0.5387,
+                    "start": 124,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5297,
+                    "start": 138,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1161262691974971392",
+                    "start": 0,
+                    "username": "Dinesh79340886"
+                },
+                {
+                    "end": 26,
+                    "id": "61524430",
+                    "start": 16,
+                    "username": "MaerskNAM"
+                },
+                {
+                    "end": 39,
+                    "id": "759992498517344256",
+                    "start": 27,
+                    "username": "MaerskIndia"
+                },
+                {
+                    "end": 53,
+                    "id": "794534530401136641",
+                    "start": 40,
+                    "username": "MaerskSupply"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/support/faqs/h\u2026",
+                    "end": 331,
+                    "expanded_url": "https://www.maersk.com/support/faqs/how-can-i-identify-a-fake-website",
+                    "start": 308,
+                    "unwound_url": "https://www.maersk.com/support/faqs/how-can-i-identify-a-fake-website",
+                    "url": "https://t.co/fLzxxcjMh4"
+                }
+            ]
+        },
+        "id": "1694626182614987067",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 50,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Dinesh79340886 @MaerskNAM @MaerskIndia @MaerskSupply Hi Dinesh, please do not engage with the site as this is not official A.P. Moller - Maersk communication. We are investigating this case further. Thank you for bringing it to our attention. You can find information on how to identify fake websites here: https://t.co/fLzxxcjMh4"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1635895771168997376": {
+        "author_id": "194037150",
+        "created_at": "2023-03-15T06:48:39.000Z",
+        "edit_history_tweet_ids": [
+            "1635895771168997376"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "Asif",
+                    "probability": 0.6011,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.8696,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1462980220647100420",
+                    "start": 0,
+                    "username": "JoiedeVivreCan"
+                }
+            ]
+        },
+        "id": "1635895771168997376",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 40,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@JoiedeVivreCan Hi, thanks for getting in touch. How may I assist you?\nKind regards,\nAsif, Novo Nordisk"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1649401205125263363": {
+        "author_id": "194037150",
+        "created_at": "2023-04-21T13:14:26.000Z",
+        "edit_history_tweet_ids": [
+            "1649401205125263363"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 179,
+                    "normalized_text": "Iben",
+                    "probability": 0.6139,
+                    "start": 176,
+                    "type": "Person"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.7332,
+                    "start": 182,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1649401205125263363",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 202,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TallalMirza7 Hi again. Unfortunately, I don't know the details of this.\u00a0At this point, we cannot say when or where the results would be published in the future. Best regards, Iben, Novo Nordisk"
+    }
+}

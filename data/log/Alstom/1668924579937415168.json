@@ -1,0 +1,115 @@
+{
+    "1668924579937415168": {
+        "attachments": {
+            "media_keys": [
+                "3_1668924578154917890"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-14T10:13:21.000Z",
+        "edit_history_tweet_ids": [
+            "1668924579937415168"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 156,
+                    "normalized_text": "VivaTech",
+                    "probability": 0.4363,
+                    "start": 149,
+                    "type": "Other"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "PelikanMobility",
+                    "probability": 0.5595,
+                    "start": 222,
+                    "type": "Other"
+                },
+                {
+                    "end": 287,
+                    "normalized_text": "VivaTech",
+                    "probability": 0.3354,
+                    "start": 280,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 157,
+                    "start": 148,
+                    "tag": "VivaTech"
+                },
+                {
+                    "end": 237,
+                    "start": 221,
+                    "tag": "PelikanMobility"
+                },
+                {
+                    "end": 288,
+                    "start": 279,
+                    "tag": "VivaTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 122,
+                    "id": "4502885068",
+                    "start": 113,
+                    "username": "VivaTech"
+                },
+                {
+                    "end": 139,
+                    "id": "2164365481",
+                    "start": 125,
+                    "username": "cecile_texier"
+                },
+                {
+                    "end": 218,
+                    "id": "248736864",
+                    "start": 208,
+                    "username": "RATPgroup"
+                },
+                {
+                    "end": 244,
+                    "id": "19103481",
+                    "start": 239,
+                    "username": "Uber"
+                },
+                {
+                    "end": 260,
+                    "id": "1040936212054376448",
+                    "start": 251,
+                    "username": "Togg2022"
+                },
+                {
+                    "end": 277,
+                    "id": "992513943519326210",
+                    "start": 261,
+                    "username": "mguercankarakas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/4etynrPLNa",
+                    "end": 312,
+                    "expanded_url": "https://twitter.com/Alstom/status/1668924579937415168/photo/1",
+                    "media_key": "3_1668924578154917890",
+                    "start": 289,
+                    "url": "https://t.co/4etynrPLNa"
+                }
+            ]
+        },
+        "id": "1668924579937415168",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1096,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\"We\u2019re going to cut travel time by 2 and it\u2019s going to make a big difference in peoples lives.\"  \n\nHappening now @VivaTech : @cecile_texier  at the #VivaTech panel on making cities greener &amp; smarter with @RATPgroup , #PelikanMobility, @Uber &amp; @Togg2022 @mguercankarakas \n#VivaTech https://t.co/4etynrPLNa"
+    }
+}

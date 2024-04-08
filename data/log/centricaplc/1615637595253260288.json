@@ -1,0 +1,57 @@
+{
+    "1615637595253260288": {
+        "author_id": "21746077",
+        "created_at": "2023-01-18T09:09:54.000Z",
+        "edit_history_tweet_ids": [
+            "1615637595253260288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "Peter",
+                    "probability": 0.7267,
+                    "start": 59,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "286775819",
+                    "start": 0,
+                    "username": "DerrickKnight1"
+                },
+                {
+                    "end": 28,
+                    "id": "2232918559",
+                    "start": 16,
+                    "username": "PetrosGhali"
+                },
+                {
+                    "end": 40,
+                    "id": "46630225",
+                    "start": 29,
+                    "username": "BritishGas"
+                },
+                {
+                    "end": 55,
+                    "id": "3545818341",
+                    "start": 41,
+                    "username": "OctopusEnergy"
+                }
+            ]
+        },
+        "id": "1615637595253260288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 60,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@DerrickKnight1 @PetrosGhali @BritishGas @OctopusEnergy Hi Peter, the offer is nationwide. We previously launched a trial in the SW which is perhaps what you refer to \ud83d\udc4d"
+    }
+}

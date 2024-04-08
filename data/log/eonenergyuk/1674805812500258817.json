@@ -1,0 +1,57 @@
+{
+    "1674805812500258817": {
+        "author_id": "142611379",
+        "created_at": "2023-06-30T15:43:16.000Z",
+        "edit_history_tweet_ids": [
+            "1674805812500258817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 158,
+                    "normalized_text": "Ramona Vlasiu",
+                    "probability": 0.5408,
+                    "start": 146,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 177,
+                    "id": "1257215696234254341",
+                    "start": 168,
+                    "username": "eon_next"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/44j5v1l",
+                    "end": 274,
+                    "expanded_url": "http://bit.ly/44j5v1l",
+                    "start": 251,
+                    "status": 200,
+                    "unwound_url": "https://www.linkedin.com/pulse/supporting-vulnerable-customers-through-cost-living-crisis-beyond/",
+                    "url": "https://t.co/V4F7h2kh5M"
+                },
+                {
+                    "display_url": "x.com/theipaper/stat\u2026",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/theipaper/status/1673315189343625221",
+                    "start": 275,
+                    "url": "https://t.co/F7O5limd2W"
+                }
+            ]
+        },
+        "id": "1674805812500258817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2614,
+            "like_count": 0,
+            "quote_count": 3,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We endorse the calls for more help for customers this coming winter - specifically a safety net for financially vulnerable customers.\n\nPlease see Ramona Vlasiu, COO of @eon_next, on how we're supporting customers during the cost of living crisis here\ud83d\udc49https://t.co/V4F7h2kh5M https://t.co/F7O5limd2W"
+    }
+}

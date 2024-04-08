@@ -1,0 +1,40 @@
+{
+    "1620330542238470144": {
+        "author_id": "393757140",
+        "created_at": "2023-01-31T07:58:00.000Z",
+        "edit_history_tweet_ids": [
+            "1620330542238470144"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 13,
+                    "tag": "datacenter"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60183dxKq",
+                    "end": 221,
+                    "expanded_url": "http://spr.ly/60183dxKq",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://blog.apc.com/2023/01/26/modern-dcims-role-in-helping-to-ensure-cio-success/",
+                    "url": "https://t.co/dTgIRvICA2"
+                }
+            ]
+        },
+        "id": "1620330542238470144",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 749,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Did you know #datacenter environmental monitoring appliances can be used to detect a number of different factors including:\n\u2022 Temperature\n\u2022 Humidity\n\u2022 Fluid leaks\n\u2022 Smoke\n\u2022 Vibration\n\nCheck it out: https://t.co/dTgIRvICA2"
+    }
+}

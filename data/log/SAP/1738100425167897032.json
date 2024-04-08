@@ -1,0 +1,69 @@
+{
+    "1738100425167897032": {
+        "attachments": {
+            "media_keys": [
+                "13_1738100311233830912"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-12-22T07:33:28.000Z",
+        "edit_history_tweet_ids": [
+            "1738100425167897032"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "AI",
+                    "probability": 0.905,
+                    "start": 17,
+                    "type": "Organization"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Vinton G. Cerf",
+                    "probability": 0.9565,
+                    "start": 50,
+                    "type": "Person"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "AI",
+                    "probability": 0.736,
+                    "start": 87,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6011RVdbU",
+                    "end": 175,
+                    "expanded_url": "https://sap.to/6011RVdbU",
+                    "start": 152,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/products/artificial-intelligence/what-is-artificial-intelligence.html?source=SAP_Innovations-SAP_Innovations_for_AI-Reel-Awareness-Global-Artificial_Intelligence-ST1%3A_Intelligent_Enterprise-YouTube&campaigncode=CRM-YA23-SMS-1941768&sprinklrid=12134250577",
+                    "url": "https://t.co/7E7TFWeEZh"
+                },
+                {
+                    "display_url": "pic.twitter.com/SoCoaoovOk",
+                    "end": 199,
+                    "expanded_url": "https://twitter.com/SAP/status/1738100425167897032/video/1",
+                    "media_key": "13_1738100311233830912",
+                    "start": 176,
+                    "url": "https://t.co/SoCoaoovOk"
+                }
+            ]
+        },
+        "id": "1738100425167897032",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3731,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Today's world of AI is a thrill. \ud83e\udd29\n\nPioneers like Vinton G. Cerf uncover insights into AI's impact on science and industry with a data-driven approach. https://t.co/7E7TFWeEZh https://t.co/SoCoaoovOk"
+    }
+}

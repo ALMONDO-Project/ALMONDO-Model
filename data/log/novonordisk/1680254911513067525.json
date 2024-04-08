@@ -1,0 +1,78 @@
+{
+    "1680254911513067525": {
+        "author_id": "194037150",
+        "created_at": "2023-07-15T16:36:03.000Z",
+        "edit_history_tweet_ids": [
+            "1680254911513067525"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Sarah",
+                    "probability": 0.5843,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5027,
+                    "start": 245,
+                    "type": "Organization"
+                },
+                {
+                    "end": 295,
+                    "normalized_text": "Scott",
+                    "probability": 0.4616,
+                    "start": 291,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "148605506",
+                    "start": 0,
+                    "username": "Sarahlouby1986"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Product related enquiries, contact details and requesting information forms.",
+                    "display_url": "novonordisk.co.uk/contact-us.html",
+                    "end": 289,
+                    "expanded_url": "https://www.novonordisk.co.uk/contact-us.html",
+                    "images": [
+                        {
+                            "height": 334,
+                            "url": "https://pbs.twimg.com/news_img/1774215898678870016/4lq2ih9O?format=jpg&name=orig",
+                            "width": 556
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1774215898678870016/4lq2ih9O?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 266,
+                    "status": 200,
+                    "title": "Contact us",
+                    "unwound_url": "https://www.novonordisk.co.uk/contact-us.html",
+                    "url": "https://t.co/Gl1pZQLYre"
+                }
+            ]
+        },
+        "id": "1680254911513067525",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 116,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Sarahlouby1986 Dear Sarah,\u00a0Thank you for reaching out about the availability of one of our products.\u00a0Unfortunately, due to regulatory constraints, we are unable to provide product specific information via social media. Please contact our local Novo Nordisk office:\u00a0https://t.co/Gl1pZQLYre. Scott"
+    }
+}

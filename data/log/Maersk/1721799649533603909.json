@@ -1,0 +1,111 @@
+{
+    "1721799649533603909": {
+        "attachments": {
+            "media_keys": [
+                "7_1721569036218093568"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-07T08:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1721799649533603909"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 127,
+                    "normalized_text": "Copenhagen",
+                    "probability": 0.9327,
+                    "start": 118,
+                    "type": "Place"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "S\u00f8rensen",
+                    "probability": 0.3956,
+                    "start": 145,
+                    "type": "Place"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Maersk Facility",
+                    "probability": 0.4632,
+                    "start": 164,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "Denmark",
+                    "probability": 0.8911,
+                    "start": 191,
+                    "type": "Place"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Etienne Abadie",
+                    "probability": 0.5817,
+                    "start": 204,
+                    "type": "Other"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "ECOCEAN",
+                    "probability": 0.523,
+                    "start": 222,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 114,
+                    "start": 101,
+                    "tag": "biodiversity"
+                },
+                {
+                    "end": 170,
+                    "start": 163,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 261,
+                    "start": 246,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 268,
+                    "start": 262,
+                    "tag": "Ocean"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "712649081873674240",
+                    "start": 35,
+                    "username": "EcoceanPCC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/yCNsLjZmWM",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Maersk/status/1721799649533603909/video/1",
+                    "media_key": "7_1721569036218093568",
+                    "start": 269,
+                    "url": "https://t.co/yCNsLjZmWM"
+                }
+            ]
+        },
+        "id": "1721799649533603909",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4192,
+            "like_count": 42,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 9
+        },
+        "text": "In January 2023, we partnered with @EcoceanPCC to install 50 biohuts by our HQ waterfront to support #biodiversity in Copenhagen harbour\ud83d\udc1fAndreas S\u00f8rensen, Head of #Maersk Facility Management Denmark, and Etienne Abadie of ECOCEAN, explains more. #Sustainability #Ocean https://t.co/yCNsLjZmWM"
+    }
+}

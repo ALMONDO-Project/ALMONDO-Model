@@ -1,0 +1,77 @@
+{
+    "1611309100150702083": {
+        "attachments": {
+            "media_keys": [
+                "3_1611309098212933634"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-06T10:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1611309100150702083"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 149,
+                    "normalized_text": "CES2023",
+                    "probability": 0.7183,
+                    "start": 143,
+                    "type": "Other"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "NetZero",
+                    "probability": 0.618,
+                    "start": 208,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 150,
+                    "start": 142,
+                    "tag": "CES2023"
+                },
+                {
+                    "end": 206,
+                    "start": 189,
+                    "tag": "sustainablehomes"
+                },
+                {
+                    "end": 215,
+                    "start": 207,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60103MxLm",
+                    "end": 255,
+                    "expanded_url": "http://spr.ly/60103MxLm",
+                    "start": 232,
+                    "url": "https://t.co/ycDNCB6xyd"
+                },
+                {
+                    "display_url": "pic.twitter.com/lmVhiktyxx",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1611309100150702083/photo/1",
+                    "media_key": "3_1611309098212933634",
+                    "start": 256,
+                    "url": "https://t.co/lmVhiktyxx"
+                }
+            ]
+        },
+        "id": "1611309100150702083",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1317,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Smart homeowners can now reduce their carbon emissions and save on energy bills with the electrification of their home. \n\nJoin our session at #CES2023 to kick-start your net-zero journey.\n\n#sustainablehomes #NetZero \n\nRegister Now: https://t.co/ycDNCB6xyd https://t.co/lmVhiktyxx"
+    }
+}

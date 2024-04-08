@@ -1,0 +1,104 @@
+{
+    "1676131890481299461": {
+        "attachments": {
+            "media_keys": [
+                "3_1676131882017202177"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-04T07:32:38.000Z",
+        "edit_history_tweet_ids": [
+            "1676131890481299461"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "ECO Delivery",
+                    "probability": 0.4939,
+                    "start": 25,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Volvo Cars",
+                    "probability": 0.5667,
+                    "start": 98,
+                    "type": "Organization"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4628,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 80,
+                    "start": 69,
+                    "tag": "greenhouse"
+                },
+                {
+                    "end": 103,
+                    "start": 97,
+                    "tag": "Volvo"
+                },
+                {
+                    "end": 246,
+                    "start": 239,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 263,
+                    "start": 247,
+                    "tag": "Decarbonisation"
+                },
+                {
+                    "end": 279,
+                    "start": 264,
+                    "tag": "Sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "342772500",
+                    "start": 1,
+                    "username": "volvocars"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eagJq-u9",
+                    "end": 237,
+                    "expanded_url": "https://lnkd.in/eagJq-u9",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/07/04/volvo-cars-uses-eco-delivery-ocean-solution-from-maersk-to-reduce-its-greenhouse-gas-footprint",
+                    "url": "https://t.co/MXtITJY0Lp"
+                },
+                {
+                    "display_url": "pic.twitter.com/r52yEJ7nPT",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1676131890481299461/photo/1",
+                    "media_key": "3_1676131882017202177",
+                    "start": 280,
+                    "url": "https://t.co/r52yEJ7nPT"
+                }
+            ]
+        },
+        "id": "1676131890481299461",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2531,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udce3@volvocars is using our ECO Delivery Ocean solution to reduce their #greenhouse gas footprint!  #Volvo Cars will reduce their green house gas emissions by 28,000 tonnes over the next twelve months!   \n\nLearn more https://t.co/MXtITJY0Lp \n#Maersk #Decarbonisation #Sustainability https://t.co/r52yEJ7nPT"
+    }
+}

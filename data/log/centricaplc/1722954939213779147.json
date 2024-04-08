@@ -1,0 +1,95 @@
+{
+    "1722954939213779147": {
+        "attachments": {
+            "media_keys": [
+                "3_1722954906196185088",
+                "3_1722954918879780864",
+                "3_1722954926358224897",
+                "3_1722954935753392128"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-11-10T12:30:43.000Z",
+        "edit_history_tweet_ids": [
+            "1722954939213779147"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "London Lamplighters",
+                    "probability": 0.3656,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "St James's Park",
+                    "probability": 0.9424,
+                    "start": 139,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 126,
+                    "start": 111,
+                    "tag": "RemembranceDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 110,
+                    "id": "46630225",
+                    "start": 99,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/QiIqNoz5zn",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1722954939213779147/photo/1",
+                    "media_key": "3_1722954906196185088",
+                    "start": 156,
+                    "url": "https://t.co/QiIqNoz5zn"
+                },
+                {
+                    "display_url": "pic.twitter.com/QiIqNoz5zn",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1722954939213779147/photo/1",
+                    "media_key": "3_1722954918879780864",
+                    "start": 156,
+                    "url": "https://t.co/QiIqNoz5zn"
+                },
+                {
+                    "display_url": "pic.twitter.com/QiIqNoz5zn",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1722954939213779147/photo/1",
+                    "media_key": "3_1722954926358224897",
+                    "start": 156,
+                    "url": "https://t.co/QiIqNoz5zn"
+                },
+                {
+                    "display_url": "pic.twitter.com/QiIqNoz5zn",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1722954939213779147/photo/1",
+                    "media_key": "3_1722954935753392128",
+                    "start": 156,
+                    "url": "https://t.co/QiIqNoz5zn"
+                }
+            ]
+        },
+        "id": "1722954939213779147",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 342,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Lest we forget...  in commemoration of our Armed Forces, the London Lamplighters have unveiled the @BritishGas #RemembranceDay gas lamp in St James's Park. https://t.co/QiIqNoz5zn"
+    }
+}

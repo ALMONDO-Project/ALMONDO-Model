@@ -1,0 +1,71 @@
+{
+    "1651107616372736001": {
+        "author_id": "570715775",
+        "created_at": "2023-04-26T06:15:06.000Z",
+        "edit_history_tweet_ids": [
+            "1651107616372736001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "Danone",
+                    "probability": 0.5944,
+                    "start": 63,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Renew Danone",
+                    "probability": 0.647,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "DanoneResults",
+                    "probability": 0.4401,
+                    "start": 246,
+                    "type": "Other"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "BN",
+                    "probability": 0.6501,
+                    "start": 261,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 263,
+                    "start": 260,
+                    "tag": "BN"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 0,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 259,
+                    "start": 245,
+                    "tag": "DanoneResults"
+                }
+            ]
+        },
+        "id": "1651107616372736001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2158,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "#FinancialResults This quarter again, we consistently executed Danone\u2019s Renew Danone strategy, improving the quality of our execution, investing behind our winning brands and platforms, and taking increasingly better care of our core portfolio. #DanoneResults $BN"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1628364049552486402": {
+        "attachments": {
+            "media_keys": [
+                "13_1628363981541806082"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-22T12:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1628364049552486402"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 139,
+                    "normalized_text": "Peter Weckesser",
+                    "probability": 0.927,
+                    "start": 125,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 236,
+                    "start": 216,
+                    "tag": "IndustrialMetaverse"
+                },
+                {
+                    "end": 240,
+                    "start": 237,
+                    "tag": "AI"
+                },
+                {
+                    "end": 253,
+                    "start": 241,
+                    "tag": "DigitalTwin"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60183mLDY",
+                    "end": 215,
+                    "expanded_url": "http://spr.ly/60183mLDY",
+                    "start": 192,
+                    "url": "https://t.co/QX1bKXlcBQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/VNY0GFNTdu",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1628364049552486402/video/1",
+                    "media_key": "13_1628363981541806082",
+                    "start": 254,
+                    "url": "https://t.co/VNY0GFNTdu"
+                }
+            ]
+        },
+        "id": "1628364049552486402",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1586,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "What if digitally augmented, data-rich experiences could support energy and resource efficiency at scale? Read the blog from Peter Weckesser, our Chief Digital Officer to explore the answers: https://t.co/QX1bKXlcBQ\n#IndustrialMetaverse #AI #DigitalTwin https://t.co/VNY0GFNTdu"
+    }
+}

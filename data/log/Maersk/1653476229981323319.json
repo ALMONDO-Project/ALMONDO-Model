@@ -1,0 +1,90 @@
+{
+    "1653476229981323319": {
+        "author_id": "380801406",
+        "created_at": "2023-05-02T19:07:07.000Z",
+        "edit_history_tweet_ids": [
+            "1653476229981323319"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "ITC",
+                    "probability": 0.7542,
+                    "start": 29,
+                    "type": "Organization"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3626,
+                    "start": 127,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "ESG",
+                    "probability": 0.4672,
+                    "start": 135,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 33,
+                    "tag": "Shetrades"
+                },
+                {
+                    "end": 133,
+                    "start": 126,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 138,
+                    "start": 134,
+                    "tag": "ESG"
+                },
+                {
+                    "end": 149,
+                    "start": 139,
+                    "tag": "alltheway"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 166,
+                    "id": "2888230893",
+                    "start": 152,
+                    "username": "tembo_dorothy"
+                },
+                {
+                    "end": 177,
+                    "id": "1363884816",
+                    "start": 167,
+                    "username": "LeneSerpa"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ITCnews/status\u2026",
+                    "end": 201,
+                    "expanded_url": "https://twitter.com/ITCnews/status/1653419426031575041",
+                    "start": 178,
+                    "url": "https://t.co/3LmXQWQF1v"
+                }
+            ]
+        },
+        "id": "1653476229981323319",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3876,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We are happy to partner with ITC #Shetrades to support women-owned and led businesses gain access to international markets \ud83e\udd1d\ud83c\udf0e #Maersk #ESG #alltheway \n\n@tembo_dorothy @LeneSerpa https://t.co/3LmXQWQF1v"
+    }
+}

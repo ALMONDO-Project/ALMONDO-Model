@@ -1,0 +1,81 @@
+{
+    "1694636240857968878": {
+        "attachments": {
+            "media_keys": [
+                "7_1694636200600961025"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-08-24T09:02:19.000Z",
+        "edit_history_tweet_ids": [
+            "1694636240857968878"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5486,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 52,
+                    "normalized_text": "UK",
+                    "probability": 0.982,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "NetZero",
+                    "probability": 0.53,
+                    "start": 247,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 0,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 254,
+                    "start": 246,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3KnWZGX",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3KnWZGX",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/investors/results-centre/2023-strategy-update/",
+                    "url": "https://t.co/IkT03C7hHX"
+                },
+                {
+                    "display_url": "pic.twitter.com/DFsHjF4PYA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1694636240857968878/video/1",
+                    "media_key": "7_1694636200600961025",
+                    "start": 280,
+                    "url": "https://t.co/DFsHjF4PYA"
+                }
+            ]
+        },
+        "id": "1694636240857968878",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3663,
+            "like_count": 7,
+            "quote_count": 2,
+            "reply_count": 6,
+            "retweet_count": 1
+        },
+        "text": "#NetZero is a challenge that unites us all. As the UK's only truly integrated energy company, we have a crucial role to play.\n\nThat's why we're investing up to \u00a34bn over the next 5 years in renewables, flexibility and our customers to help reach #NetZero: https://t.co/IkT03C7hHX https://t.co/DFsHjF4PYA"
+    }
+}

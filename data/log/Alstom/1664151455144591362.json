@@ -1,0 +1,104 @@
+{
+    "1664151455144591362": {
+        "attachments": {
+            "media_keys": [
+                "16_1664151247375544320"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-01T06:06:40.000Z",
+        "edit_history_tweet_ids": [
+            "1664151455144591362"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.6647,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 268,
+                    "normalized_text": "aprail25",
+                    "probability": 0.5197,
+                    "start": 261,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "APAC",
+                    "probability": 0.4378,
+                    "start": 271,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 155,
+                    "start": 150,
+                    "tag": "rail"
+                },
+                {
+                    "end": 193,
+                    "start": 178,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 269,
+                    "start": 260,
+                    "tag": "aprail25"
+                },
+                {
+                    "end": 275,
+                    "start": 270,
+                    "tag": "APAC"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 88,
+                    "id": "803882059206901760",
+                    "start": 80,
+                    "username": "ap_rail"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "alstom.com/alstom-asia-pa\u2026",
+                    "end": 259,
+                    "expanded_url": "https://www.alstom.com/alstom-asia-pacific-rail-2023",
+                    "start": 236,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-asia-pacific-rail-2023",
+                    "url": "https://t.co/wh0Nbgsbri"
+                },
+                {
+                    "display_url": "pic.twitter.com/0bxkbFopJ8",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Alstom/status/1664151455144591362/photo/1",
+                    "media_key": "16_1664151247375544320",
+                    "start": 276,
+                    "url": "https://t.co/0bxkbFopJ8"
+                }
+            ]
+        },
+        "id": "1664151455144591362",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1271,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#TeamAlstom is sharing their expert insights at the following sessions today at @ap_rail 2023. Join them in conversations on important topics for the #rail industry ranging from #sustainability to long-term service support. Learn more: https://t.co/wh0Nbgsbri #aprail25 #APAC https://t.co/0bxkbFopJ8"
+    }
+}

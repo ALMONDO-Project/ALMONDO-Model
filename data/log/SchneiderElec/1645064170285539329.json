@@ -1,0 +1,66 @@
+{
+    "1645064170285539329": {
+        "author_id": "393757140",
+        "created_at": "2023-04-09T14:00:36.000Z",
+        "edit_history_tweet_ids": [
+            "1645064170285539329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "IoTDay",
+                    "probability": 0.68,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "IoTforSustainability",
+                    "probability": 0.5415,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 3,
+                    "tag": "IoTDay"
+                },
+                {
+                    "end": 167,
+                    "start": 146,
+                    "tag": "IoTforSustainability"
+                },
+                {
+                    "end": 180,
+                    "start": 168,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6006O1Umn",
+                    "end": 144,
+                    "expanded_url": "http://spr.ly/6006O1Umn",
+                    "start": 121,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/download/document/998-21342193/?ssr=true",
+                    "url": "https://t.co/jwWNOaVKoy"
+                }
+            ]
+        },
+        "id": "1645064170285539329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1219,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "On #IoTDay discover how you can accelerate the journey, bridging progress and sustainability for all.\n\nFollow this link: https://t.co/jwWNOaVKoy\n\n#IoTforSustainability #EcoStruxure"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "1613808191401238528": {
+        "attachments": {
+            "media_keys": [
+                "3_1613807727142207490"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-13T08:00:30.000Z",
+        "edit_history_tweet_ids": [
+            "1613808191401238528"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 166,
+                    "normalized_text": "Jebel Ali Port",
+                    "probability": 0.9621,
+                    "start": 153,
+                    "type": "Place"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "United Arab Emirates",
+                    "probability": 0.9458,
+                    "start": 171,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 79,
+                    "start": 67,
+                    "tag": "decarbonise"
+                },
+                {
+                    "end": 90,
+                    "start": 80,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 250,
+                    "start": 240,
+                    "tag": "emissions"
+                },
+                {
+                    "end": 283,
+                    "start": 276,
+                    "tag": "maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "2383410558",
+                    "start": 52,
+                    "username": "DPWorldUAE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 275,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/01/13/maersk-and-dp-world-enter-a-long-term-partnership",
+                    "start": 252,
+                    "url": "https://t.co/git3sR2793"
+                },
+                {
+                    "display_url": "pic.twitter.com/KAAuQHUDgc",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Maersk/status/1613808191401238528/photo/1",
+                    "media_key": "3_1613807727142207490",
+                    "start": 284,
+                    "url": "https://t.co/KAAuQHUDgc"
+                }
+            ]
+        },
+        "id": "1613808191401238528",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4096,
+            "like_count": 37,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "\ud83d\udce3NEWS: We are entering a long-term partnership with @DPWorldUAE to #decarbonise #logistics by implementing new processes to speed up turnaround times at Jebel Ali Port in United Arab Emirates, cutting bunker fuel consumption &amp; reducing #emissions: https://t.co/git3sR2793 #maersk https://t.co/KAAuQHUDgc"
+    }
+}

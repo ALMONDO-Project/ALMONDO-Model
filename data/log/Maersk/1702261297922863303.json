@@ -1,0 +1,89 @@
+{
+    "1702261297922863303": {
+        "attachments": {
+            "media_keys": [
+                "3_1702260955470553088"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-14T10:01:34.000Z",
+        "edit_history_tweet_ids": [
+            "1702261297922863303"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "LAURA",
+                    "probability": 0.6374,
+                    "start": 14,
+                    "type": "Place"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Commission",
+                    "probability": 0.4843,
+                    "start": 138,
+                    "type": "Organization"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Ursula von der Leyen",
+                    "probability": 0.9334,
+                    "start": 159,
+                    "type": "Person"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3246,
+                    "start": 224,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 223,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 247,
+                    "start": 231,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 260,
+                    "start": 248,
+                    "tag": "lauramaersk"
+                },
+                {
+                    "end": 275,
+                    "start": 261,
+                    "tag": "greenmethanol"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/3JxEyAWpGK",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1702261297922863303/photo/1",
+                    "media_key": "3_1702260955470553088",
+                    "start": 276,
+                    "url": "https://t.co/3JxEyAWpGK"
+                }
+            ]
+        },
+        "id": "1702261297922863303",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 10,
+            "impression_count": 84986,
+            "like_count": 543,
+            "quote_count": 28,
+            "reply_count": 38,
+            "retweet_count": 95
+        },
+        "text": "\ud83c\udf89Her name is\u2026 LAURA M\u00c6RSK\ud83c\udf7e the world\u2019s first container vessel sailing on green methanol was formally christened by her Godmother European Commission President Ursula von der Leyen at today\u2019s historic name giving ceremony. \n#Maersk #allthewaytozero #lauramaersk #greenmethanol https://t.co/3JxEyAWpGK"
+    }
+}

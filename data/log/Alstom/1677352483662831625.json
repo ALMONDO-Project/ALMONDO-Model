@@ -1,0 +1,82 @@
+{
+    "1677352483662831625": {
+        "attachments": {
+            "media_keys": [
+                "7_1677352398501605376"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-07-07T16:22:50.000Z",
+        "edit_history_tweet_ids": [
+            "1677352483662831625"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4061,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Citadis",
+                    "probability": 0.5386,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 231,
+                    "start": 225,
+                    "tag": "trams"
+                },
+                {
+                    "end": 244,
+                    "start": 232,
+                    "tag": "maintenance"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "92109455",
+                    "start": 38,
+                    "username": "villequebec"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/oArx50OVnYg",
+                    "end": 223,
+                    "expanded_url": "https://ow.ly/oArx50OVnYg",
+                    "start": 200,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/4/alstom-supply-34-citadis-trams-and-maintenance-quebec-city-canada",
+                    "url": "https://t.co/jXc8jq28Sa"
+                },
+                {
+                    "display_url": "pic.twitter.com/dN0TApdFVW",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/Alstom/status/1677352483662831625/video/1",
+                    "media_key": "7_1677352398501605376",
+                    "start": 245,
+                    "url": "https://t.co/dN0TApdFVW"
+                }
+            ]
+        },
+        "id": "1677352483662831625",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4930,
+            "like_count": 39,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 10
+        },
+        "text": "Alstom has been awarded a contract by @villequebec for the supply of 34 Citadis trams. The contract includes the design &amp; supply of the rolling stock and maintenance for a period of 30 years. \n\n\u25b6\ufe0fhttps://t.co/jXc8jq28Sa\n\n#trams #maintenance https://t.co/dN0TApdFVW"
+    }
+}

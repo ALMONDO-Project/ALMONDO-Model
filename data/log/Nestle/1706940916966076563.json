@@ -1,0 +1,60 @@
+{
+    "1706940916966076563": {
+        "author_id": "23085995",
+        "created_at": "2023-09-27T07:56:42.000Z",
+        "edit_history_tweet_ids": [
+            "1706940916966076563"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "Hungary",
+                    "probability": 0.9408,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Hungary",
+                    "probability": 0.9329,
+                    "start": 144,
+                    "type": "Place"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "Nestl\u00e9 Hung\u00e1ria",
+                    "probability": 0.5317,
+                    "start": 201,
+                    "type": "Organization"
+                },
+                {
+                    "end": 266,
+                    "normalized_text": "Hungary",
+                    "probability": 0.9233,
+                    "start": 260,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "14717520",
+                    "start": 0,
+                    "username": "dondreak"
+                }
+            ]
+        },
+        "id": "1706940916966076563",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 215,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@dondreak Thus, it is not certain that products that are popular abroad would be popular in Hungary, or that the products that are available in Hungary are not necessarily available in other countries.Nestl\u00e9 Hung\u00e1ria adjusts its product range and packaging in Hungary to meet local needs."
+    }
+}

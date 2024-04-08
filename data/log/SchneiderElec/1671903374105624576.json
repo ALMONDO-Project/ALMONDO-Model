@@ -1,0 +1,69 @@
+{
+    "1671903374105624576": {
+        "attachments": {
+            "media_keys": [
+                "3_1671903371127554050"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-22T15:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1671903374105624576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "Olivier Blum",
+                    "probability": 0.976,
+                    "start": 87,
+                    "type": "Person"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "The Economist",
+                    "probability": 0.8993,
+                    "start": 120,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 238,
+                    "start": 216,
+                    "tag": "CleanEnergyTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6013O7C03",
+                    "end": 265,
+                    "expanded_url": "http://spr.ly/6013O7C03",
+                    "start": 242,
+                    "status": 200,
+                    "unwound_url": "https://impact-stage.economist.com/sustainability/net-zero-and-energy/the-energy-crisis-and-the-climate-crisis-are-the-same-crisis",
+                    "url": "https://t.co/XFS9igos3o"
+                },
+                {
+                    "display_url": "pic.twitter.com/1uql1So0Ey",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1671903374105624576/photo/1",
+                    "media_key": "3_1671903371127554050",
+                    "start": 266,
+                    "url": "https://t.co/1uql1So0Ey"
+                }
+            ]
+        },
+        "id": "1671903374105624576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 936,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The energy crisis and climate crisis are two of the world\u2019s most pressing issues. Read Olivier Blum\u2019s latest article in The Economist explores how the drive for global energy security is acting as a catalyst for the #CleanEnergyTransition : \nhttps://t.co/XFS9igos3o https://t.co/1uql1So0Ey"
+    }
+}

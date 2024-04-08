@@ -1,0 +1,67 @@
+{
+    "1671821747379740672": {
+        "attachments": {
+            "media_keys": [
+                "7_1671821505158606848"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-22T10:05:40.000Z",
+        "edit_history_tweet_ids": [
+            "1671821747379740672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6626,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "United Arab Emirates",
+                    "probability": 0.9043,
+                    "start": 21,
+                    "type": "Place"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5972,
+                    "start": 151,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/w4v2gcw5F6",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Maersk/status/1671821747379740672/video/1",
+                    "media_key": "7_1671821505158606848",
+                    "start": 265,
+                    "url": "https://t.co/w4v2gcw5F6"
+                }
+            ]
+        },
+        "id": "1671821747379740672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3215,
+            "like_count": 29,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "#Maersk teams in the United Arab Emirates got together to sponsor a marine conservation program  to plant coral along the coast of Fujairah\ud83e\udd3f Today our Maersk coral structure, has seven different types of coral, attracting a variety of marine species to the area\ud83e\udd90\ud83d\udc1f\ud83e\udd80 https://t.co/w4v2gcw5F6"
+    }
+}

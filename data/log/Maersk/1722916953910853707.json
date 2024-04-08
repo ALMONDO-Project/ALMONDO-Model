@@ -1,0 +1,67 @@
+{
+    "1722916953910853707": {
+        "attachments": {
+            "media_keys": [
+                "7_1722916096796209152"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-10T09:59:46.000Z",
+        "edit_history_tweet_ids": [
+            "1722916953910853707"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "John Manish",
+                    "probability": 0.9205,
+                    "start": 51,
+                    "type": "Person"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Vuoksi",
+                    "probability": 0.6447,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4687,
+                    "start": 84,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 83,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/n7CGbZAjhS",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1722916953910853707/video/1",
+                    "media_key": "7_1722916096796209152",
+                    "start": 274,
+                    "url": "https://t.co/n7CGbZAjhS"
+                }
+            ]
+        },
+        "id": "1722916953910853707",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3676,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "What is the greatest milestone in your career?\ud83d\ude4c To John Manish, 2/O onboard Vuoksi #Maersk, it was his  first watch navigating the ship safely\ud83d\udea2 \"My first watch onboard a vessel, wearing the uniform, standing on the bridge navigating. That\u2019s the proudest moment of my life.\" https://t.co/n7CGbZAjhS"
+    }
+}

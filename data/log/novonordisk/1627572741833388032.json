@@ -1,0 +1,70 @@
+{
+    "1627572741833388032": {
+        "author_id": "194037150",
+        "created_at": "2023-02-20T07:35:55.000Z",
+        "edit_history_tweet_ids": [
+            "1627572741833388032"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 96,
+                    "normalized_text": "China",
+                    "probability": 0.9627,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 204,
+                    "normalized_text": "Benedikte",
+                    "probability": 0.5661,
+                    "start": 196,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4214,
+                    "start": 207,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1271637850660847616",
+                    "start": 0,
+                    "username": "Don5188"
+                },
+                {
+                    "end": 39,
+                    "id": "737983923335090176",
+                    "start": 23,
+                    "username": "novonordiskfond"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.com.cn/contact-us.html",
+                    "end": 157,
+                    "expanded_url": "https://www.novonordisk.com.cn/contact-us.html",
+                    "start": 134,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.com.cn/contact-us.html",
+                    "url": "https://t.co/m16isyTFq2"
+                }
+            ]
+        },
+        "id": "1627572741833388032",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 172,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Don5188 @Emmawang2018 @novonordiskfond Hi\nIf you need to get in contact with our office in China, you can find contact details here:\u00a0https://t.co/m16isyTFq2. Is it this number you'r using?\n\nBest\nBenedikte, Novo Nordisk"
+    }
+}

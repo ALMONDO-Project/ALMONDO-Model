@@ -1,0 +1,83 @@
+{
+    "1693563750366740590": {
+        "attachments": {
+            "media_keys": [
+                "13_1693563600957317120"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-08-21T10:00:37.000Z",
+        "edit_history_tweet_ids": [
+            "1693563750366740590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9369,
+                    "start": 9,
+                    "type": "Organization"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "Ali",
+                    "probability": 0.7058,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "France",
+                    "probability": 0.9682,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "US",
+                    "probability": 0.9733,
+                    "start": 127,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 44,
+                    "tag": "career"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6012PmYfK",
+                    "end": 241,
+                    "expanded_url": "http://spr.ly/l/6012PmYfK",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6012PmYfK",
+                    "url": "https://t.co/Q2yTJQKzXp"
+                },
+                {
+                    "display_url": "pic.twitter.com/HbOBOMXIXK",
+                    "end": 265,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1693563750366740590/video/1",
+                    "media_key": "13_1693563600957317120",
+                    "start": 242,
+                    "url": "https://t.co/HbOBOMXIXK"
+                }
+            ]
+        },
+        "id": "1693563750366740590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1547,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Hear how Schneider Electric empowered Ali's #career development \u2013 flexible work hours in France while acing grad school in the US \ud83c\udf93\n\nReady to forge your own path? Dive into our newsletter for exclusive insights (cont) https://t.co/Q2yTJQKzXp https://t.co/HbOBOMXIXK"
+    }
+}

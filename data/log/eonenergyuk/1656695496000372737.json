@@ -1,0 +1,61 @@
+{
+    "1656695496000372737": {
+        "attachments": {
+            "media_keys": [
+                "3_1656676277410234371"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-05-11T16:19:20.000Z",
+        "edit_history_tweet_ids": [
+            "1656695496000372737"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "UK",
+                    "probability": 0.9829,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 257,
+                    "start": 241,
+                    "tag": "decarbonisation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 231,
+                    "id": "56677195",
+                    "start": 218,
+                    "username": "dssmithgroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/RxJoCXyAS2",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1656695496000372737/photo/1",
+                    "media_key": "3_1656676277410234371",
+                    "start": 268,
+                    "url": "https://t.co/RxJoCXyAS2"
+                }
+            ]
+        },
+        "id": "1656695496000372737",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1095,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "What makes this paper mill special?\n\nIt's the largest mill for recycled papers in the UK and generates its own power and steam thanks to our new CHP power plant.\n\nWe\u2019re proud to continue our long-term partnership with @dssmithgroup, driving #decarbonisation together. https://t.co/RxJoCXyAS2"
+    }
+}

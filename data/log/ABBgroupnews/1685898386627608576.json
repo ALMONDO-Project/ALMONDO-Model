@@ -1,0 +1,103 @@
+{
+    "1685898386627608576": {
+        "attachments": {
+            "media_keys": [
+                "3_1685898379874676737"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-07-31T06:21:12.000Z",
+        "edit_history_tweet_ids": [
+            "1685898386627608576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Lucas Di Grassi",
+                    "probability": 0.6025,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Mahindra",
+                    "probability": 0.3133,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "ABB",
+                    "probability": 0.5967,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "of Progress Award",
+                    "probability": 0.6603,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.3891,
+                    "start": 201,
+                    "type": "Other"
+                },
+                {
+                    "end": 241,
+                    "normalized_text": "ElectricVehicle",
+                    "probability": 0.5399,
+                    "start": 227,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 60,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 212,
+                    "start": 200,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 225,
+                    "start": 213,
+                    "tag": "motorsports"
+                },
+                {
+                    "end": 242,
+                    "start": 226,
+                    "tag": "ElectricVehicle"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/qAREHEZPI5",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1685898386627608576/photo/1",
+                    "media_key": "3_1685898379874676737",
+                    "start": 243,
+                    "url": "https://t.co/qAREHEZPI5"
+                }
+            ]
+        },
+        "id": "1685898386627608576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2569,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "ABB Ambassador Lucas Di Grassi, of Mahindra, wins the first #ABB Driver of Progress Award, for gaining the most places from his starting position. The Award recognises smart use of energy in racing.\n\n#ABBFormulaE #motorsports #ElectricVehicle https://t.co/qAREHEZPI5"
+    }
+}

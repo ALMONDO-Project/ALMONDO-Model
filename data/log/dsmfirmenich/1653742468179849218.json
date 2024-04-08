@@ -1,0 +1,83 @@
+{
+    "1653742468179849218": {
+        "attachments": {
+            "media_keys": [
+                "3_1653742459552165888"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-05-03T12:45:04.000Z",
+        "edit_history_tweet_ids": [
+            "1653742468179849218"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "Africa",
+                    "probability": 0.9792,
+                    "start": 85,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 31,
+                    "id": "826813704394174465",
+                    "start": 21,
+                    "username": "AIFRwanda"
+                },
+                {
+                    "end": 130,
+                    "id": "317139568",
+                    "start": 124,
+                    "username": "wbcsd"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The Business Commission to Tackle Inequality is mobilizing the global business community to promote shared prosperity for all.",
+                    "display_url": "spkl.io/601945MXb",
+                    "end": 265,
+                    "expanded_url": "http://spkl.io/601945MXb",
+                    "images": [
+                        {
+                            "height": 630,
+                            "url": "https://pbs.twimg.com/news_img/1747554712264556545/D95zOGnj?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1747554712264556545/D95zOGnj?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 242,
+                    "status": 200,
+                    "title": "The Business Commission to Tackle Inequality",
+                    "unwound_url": "https://tacklinginequality.org/",
+                    "url": "https://t.co/M68iMSTq4F"
+                },
+                {
+                    "display_url": "pic.twitter.com/us8iSCv32W",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/DSM/status/1653742468179849218/photo/1",
+                    "media_key": "3_1653742459552165888",
+                    "start": 266,
+                    "url": "https://t.co/us8iSCv32W"
+                }
+            ]
+        },
+        "id": "1653742468179849218",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 811,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Our partnership with @AIFRwanda has been recognized as a great way to help people in Africa reach their full potential in a @wbcsd report, proving itself as a scalable solution to malnutrition that can be adapted across the continent.  \ud83c\udf7d\ufe0f\ud83c\udf0d \n\nhttps://t.co/M68iMSTq4F https://t.co/us8iSCv32W"
+    }
+}

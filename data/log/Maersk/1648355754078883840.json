@@ -1,0 +1,95 @@
+{
+    "1648355754078883840": {
+        "attachments": {
+            "media_keys": [
+                "3_1648355749368610818"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-18T16:00:11.000Z",
+        "edit_history_tweet_ids": [
+            "1648355754078883840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "North America",
+                    "probability": 0.9218,
+                    "start": 11,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "East Coast",
+                    "probability": 0.8929,
+                    "start": 75,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "U.S.",
+                    "probability": 0.8688,
+                    "start": 146,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "China",
+                    "probability": 0.9731,
+                    "start": 154,
+                    "type": "Place"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3503,
+                    "start": 216,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 25,
+                    "tag": "MarketUpdate"
+                },
+                {
+                    "end": 222,
+                    "start": 215,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3ocBm3V",
+                    "end": 273,
+                    "expanded_url": "https://bddy.me/3ocBm3V",
+                    "start": 250,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/17/north-america-market-update-april?utm_source=Twitter_OwnedMedia&utm_medium=Organic&utm_campaign=M_5D28D5200753A_64381F1C271CA&utm_term=VOCP&utm_content=NAM_SupplyChain",
+                    "url": "https://t.co/FrPf8ho8HM"
+                },
+                {
+                    "display_url": "pic.twitter.com/TPGOFobUxn",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1648355754078883840/photo/1",
+                    "media_key": "3_1648355749368610818",
+                    "start": 274,
+                    "url": "https://t.co/TPGOFobUxn"
+                }
+            ]
+        },
+        "id": "1648355754078883840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3436,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Our April \u201cNorth America #MarketUpdate\u201d is posted. This month we cover how East Coast ports are steaming ahead, a new air cargo link connects the U.S. to China, Shoptalk conversations, &amp; a new website featuring #Maersk\u2019s supply chain innovation: https://t.co/FrPf8ho8HM https://t.co/TPGOFobUxn"
+    }
+}

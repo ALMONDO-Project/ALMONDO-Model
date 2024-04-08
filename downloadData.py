@@ -84,27 +84,32 @@ class UserDataDownload():
             self.max_num_calls = math.ceil(self.max_tweets_per_session / self.max_tweets_per_call)
     
     def get_oldest_tweet_date(self):
-            filenames = []
-            for filename in os.listdir(f'{self.userlogpath}'):
-                if filename.endswith('.json') and not filename.startswith('page_meta_'):
-                    filenames.append(int(filename.replace('.json', '')))
-            filenames.sort(reverse=False)
-            if len(filenames) <= 0:
-                return datetime(2023, 12, 31, 23, 59, 59)
-            oldest_id = filenames[0]
-            print(oldest_id)
-            oldest_date = ''
-            with open(f'{self.userlogpath}/{oldest_id}.json', 'r') as file:
-                oldest = json.load(file)
-            oldest_date =oldest[str(oldest_id)]['created_at']
-            oldest_date = datetime.strptime(oldest_date, '%Y-%m-%dT%H:%M:%S.%fZ')
-            oldest_date =oldest_date.strftime('%Y-%m-%dT%H:%M:%SZ')
-            return oldest_date
+        filenames = []
+        print(self.userlogpath)
+        for filename in os.listdir(f'{self.userlogpath}'):
+            if filename.endswith('.json') and not filename.startswith('page_meta_'):
+                filenames.append(int(filename.replace('.json', '')))
+        filenames.sort(reverse=False)
+        if len(filenames) <= 0:
+            return datetime(2023, 12, 31, 23, 59, 59)
+        oldest_id = filenames[0]
+        oldest_date = ''
+        with open(f'{self.userlogpath}/{oldest_id}.json', 'r') as file:
+            oldest = json.load(file)
+        oldest_date = oldest[str(oldest_id)]['created_at']
+        oldest_date = datetime.strptime(oldest_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+        # oldest_date = oldest_date.strftime('%Y-%m-%dT%H:%M:%SZ')
+        return oldest_date
     
     def set_end_time(self):
-        self.end_time = self.get_oldest_tweet_date()
+        oldest_date = self.get_oldest_tweet_date()
+        print(type(oldest_date))
         print(type(self.start_time))
-        print(type(self.end_time))
+        if oldest_date < self.start_time:
+            raise ValueError("Tweets have been retrieved beyond 1 jan 2023")
+        else:
+            self.end_time = oldest_date
+
                         
     def set_paginator(self):        
         self.set_end_time()   
@@ -135,9 +140,9 @@ class UserDataDownload():
             with open(f'{self.userlogpath}/{page_file}', 'r') as file:
                 data = json.load(file)
                 # Return the value for the key "next_token"
-            page_file = page_file.split('_')
-            newest_id = page_file[2]
-            oldest_id = page_file[3]
+            # page_file = page_file.split('_')
+            newest_id = data['newest_id']
+            oldest_id = data['oldest_id']
             if os.path.exists(f'{self.userlogpath}/{oldest_id}.json'):
                 print('tweets in last saved page have been already dumped, can move to next page')            
                 return data.get("next_token", None)

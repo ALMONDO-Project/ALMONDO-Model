@@ -1,0 +1,82 @@
+{
+    "1635590987463491584": {
+        "attachments": {
+            "media_keys": [
+                "7_1635590888696029190"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-14T10:37:33.000Z",
+        "edit_history_tweet_ids": [
+            "1635590987463491584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4899,
+                    "start": 50,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 182,
+                    "start": 174,
+                    "tag": "railway"
+                },
+                {
+                    "end": 231,
+                    "start": 216,
+                    "tag": "AlstomServices"
+                },
+                {
+                    "end": 243,
+                    "start": 232,
+                    "tag": "operations"
+                },
+                {
+                    "end": 256,
+                    "start": 244,
+                    "tag": "maintenance"
+                },
+                {
+                    "end": 265,
+                    "start": 257,
+                    "tag": "turnkey"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/wvzo50NhFJm",
+                    "end": 214,
+                    "expanded_url": "http://ow.ly/wvzo50NhFJm",
+                    "start": 191,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2022/11/operations-and-maintenance-another-string-alstoms-bow?utm_source=social_all&utm_medium=twitter&utm_content=e2ffdd5e-35ef-42a3-8357-37de038531d9&utm_campaign=Alstom_Services",
+                    "url": "https://t.co/R794J2GqGi"
+                },
+                {
+                    "display_url": "pic.twitter.com/bkX1S1cpbd",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Alstom/status/1635590987463491584/video/1",
+                    "media_key": "7_1635590888696029190",
+                    "start": 266,
+                    "url": "https://t.co/bkX1S1cpbd"
+                }
+            ]
+        },
+        "id": "1635590987463491584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1894,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "As a train manufacturer, operator and maintainer, Alstom\u2019s integrated O&amp;M solution covers the full spectrum of customer needs and optimises performance across the entire #railway system. https://t.co/R794J2GqGi \n#AlstomServices #operations #maintenance #turnkey https://t.co/bkX1S1cpbd"
+    }
+}

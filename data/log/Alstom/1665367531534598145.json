@@ -1,0 +1,82 @@
+{
+    "1665367531534598145": {
+        "attachments": {
+            "media_keys": [
+                "3_1665367530330882049"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-04T14:38:55.000Z",
+        "edit_history_tweet_ids": [
+            "1665367531534598145"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.6404,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.52,
+                    "start": 100,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 33,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 108,
+                    "start": 99,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 22,
+                    "id": "2714012034",
+                    "start": 11,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/u6zm50OF2hQ",
+                    "end": 149,
+                    "expanded_url": "http://ow.ly/u6zm50OF2hQ",
+                    "start": 126,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-uitp-global-public-transport-summit-2023?utm_source=organic_social&utm_medium=twitter&utm_content=eff4c1ad-cba2-4477-9f89-1570c98b5a68&utm_campaign=UITP",
+                    "url": "https://t.co/lpGbVmdHzt"
+                },
+                {
+                    "display_url": "pic.twitter.com/kSvqWHvyR4",
+                    "end": 173,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665367531534598145/photo/1",
+                    "media_key": "3_1665367530330882049",
+                    "start": 150,
+                    "url": "https://t.co/kSvqWHvyR4"
+                }
+            ]
+        },
+        "id": "1665367531534598145",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1386,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Get social @uitpsummit! Count on #TeamAlstom to engage and share on smarter &amp; greener mobility #UITP2023\n\nFind us here: \u25b6\ufe0fhttps://t.co/lpGbVmdHzt https://t.co/kSvqWHvyR4"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1689223560118542337": {
+        "author_id": "194037150",
+        "created_at": "2023-08-09T10:34:15.000Z",
+        "edit_history_tweet_ids": [
+            "1689223560118542337"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Ozar",
+                    "probability": 0.5912,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 283,
+                    "normalized_text": "Asif",
+                    "probability": 0.3199,
+                    "start": 280,
+                    "type": "Other"
+                },
+                {
+                    "end": 297,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5169,
+                    "start": 286,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "946989260078485504",
+                    "start": 0,
+                    "username": "midrashim1991"
+                }
+            ]
+        },
+        "id": "1689223560118542337",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 69,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@midrashim1991 Hi Ozar, thanks for getting in touch.\nDue to global privacy and legal regulations, we are not allowed to discuss our products on social media.\nWe suggest you contact your Health Care Professional to get guidance for medical questions.\nTake care &amp; all the best,\nAsif, Novo Nordisk"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "1732661236154679419": {
+        "attachments": {
+            "media_keys": [
+                "3_1732660666626928640"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-07T07:20:04.000Z",
+        "edit_history_tweet_ids": [
+            "1732661236154679419"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Asia",
+                    "probability": 0.7948,
+                    "start": 5,
+                    "type": "Place"
+                },
+                {
+                    "end": 17,
+                    "normalized_text": "Europe",
+                    "probability": 0.8084,
+                    "start": 12,
+                    "type": "Place"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "AE7",
+                    "probability": 0.4281,
+                    "start": 145,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5877,
+                    "start": 213,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 219,
+                    "start": 212,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 236,
+                    "start": 220,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 253,
+                    "start": 237,
+                    "tag": "decarbonisation"
+                },
+                {
+                    "end": 264,
+                    "start": 254,
+                    "tag": "greenfuel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 211,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/12/07/maersk-to-deploy-first-large-methanol-enabled-vessel-on-asia-europe-trade-lane",
+                    "start": 188,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/12/07/maersk-to-deploy-first-large-methanol-enabled-vessel-on-asia-europe-trade-lane",
+                    "url": "https://t.co/rQ5BK0t4hY"
+                },
+                {
+                    "display_url": "pic.twitter.com/23Vfv64Wmd",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Maersk/status/1732661236154679419/photo/1",
+                    "media_key": "3_1732660666626928640",
+                    "start": 265,
+                    "url": "https://t.co/23Vfv64Wmd"
+                }
+            ]
+        },
+        "id": "1732661236154679419",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 10934,
+            "like_count": 88,
+            "quote_count": 4,
+            "reply_count": 5,
+            "retweet_count": 18
+        },
+        "text": "\ud83d\udce2The Asia - Europe shipping lane has a new vessel coming \ud83d\udef3. The first of 18 large methanol-enabled containerships will be deployed and enter the AE7 service next year. Discover more here: https://t.co/rQ5BK0t4hY #Maersk #allthewaytozero #decarbonisation #greenfuel https://t.co/23Vfv64Wmd"
+    }
+}

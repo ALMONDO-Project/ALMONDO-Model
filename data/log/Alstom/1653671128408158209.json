@@ -1,0 +1,88 @@
+{
+    "1653671128408158209": {
+        "attachments": {
+            "media_keys": [
+                "3_1653671126638243840"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-05-03T08:01:35.000Z",
+        "edit_history_tweet_ids": [
+            "1653671128408158209"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Alstom",
+                    "probability": 0.716,
+                    "start": 3,
+                    "type": "Place"
+                },
+                {
+                    "end": 23,
+                    "normalized_text": "AI",
+                    "probability": 0.8503,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "AI",
+                    "probability": 0.7847,
+                    "start": 191,
+                    "type": "Organization"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "Alstom",
+                    "probability": 0.3805,
+                    "start": 223,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 193,
+                    "start": 190,
+                    "tag": "AI"
+                },
+                {
+                    "end": 248,
+                    "start": 237,
+                    "tag": "whitepaper"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/sPyU50O0kTZ",
+                    "end": 277,
+                    "expanded_url": "http://ow.ly/sPyU50O0kTZ",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/whitepaper-artificial-intelligence-across-alstom",
+                    "url": "https://t.co/XpYhDDQ4LP"
+                },
+                {
+                    "display_url": "pic.twitter.com/nY706qaHue",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Alstom/status/1653671128408158209/photo/1",
+                    "media_key": "3_1653671126638243840",
+                    "start": 278,
+                    "url": "https://t.co/nY706qaHue"
+                }
+            ]
+        },
+        "id": "1653671128408158209",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 1982,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "At Alstom, we believe AI is a key competitive advantage that enables us to speed up value creation and makes railroads, the most sustainable transportation mode, more efficient. \n\nLearn how #AI is used across every part of Alstom in our #whitepaper.\n\n\u25b6\ufe0f https://t.co/XpYhDDQ4LP https://t.co/nY706qaHue"
+    }
+}

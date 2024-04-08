@@ -1,0 +1,96 @@
+{
+    "1660933592497762308": {
+        "attachments": {
+            "media_keys": [
+                "7_1660925316338950147"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-23T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1660933592497762308"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Maersk Innovation Center",
+                    "probability": 0.8266,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "Maersk",
+                    "probability": 0.713,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Center",
+                    "probability": 0.6706,
+                    "start": 100,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 80,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 99,
+                    "start": 88,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 236,
+                    "start": 224,
+                    "tag": "supplychain"
+                },
+                {
+                    "end": 248,
+                    "start": 237,
+                    "tag": "operations"
+                },
+                {
+                    "end": 261,
+                    "start": 249,
+                    "tag": "engineering"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 221,
+                    "expanded_url": "https://maersk.com/news/articles/2023/05/16/maersk-innovation-center-opens-to-accelerate-supply-chain-innovation-at-an-enterprise-level",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/16/maersk-innovation-center-opens-to-accelerate-supply-chain-innovation-at-an-enterprise-level",
+                    "url": "https://t.co/1eJ3bozmbB"
+                },
+                {
+                    "display_url": "pic.twitter.com/6FFdwAPI1m",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Maersk/status/1660933592497762308/video/1",
+                    "media_key": "7_1660925316338950147",
+                    "start": 262,
+                    "url": "https://t.co/6FFdwAPI1m"
+                }
+            ]
+        },
+        "id": "1660933592497762308",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2608,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "The Maersk Innovation Center \ud83d\udce3\nOn the 15th of May we have officially opened our #Maersk #Innovation Center. This will help us to accelerate our supply chain innovations even more. \n\ud83d\udc49Read more here: https://t.co/1eJ3bozmbB\u2026\n\n#supplychain #operations #engineering https://t.co/6FFdwAPI1m"
+    }
+}

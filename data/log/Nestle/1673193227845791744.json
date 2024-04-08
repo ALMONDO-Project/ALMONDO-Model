@@ -1,0 +1,78 @@
+{
+    "1673193227845791744": {
+        "author_id": "23085995",
+        "created_at": "2023-06-26T04:55:26.000Z",
+        "edit_history_tweet_ids": [
+            "1673193227845791744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "Facebook",
+                    "probability": 0.9682,
+                    "start": 79,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "COFFEE",
+                    "probability": 0.5352,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Philippines",
+                    "probability": 0.9062,
+                    "start": 106,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1438025037647282177",
+                    "start": 0,
+                    "username": "jstinediaz"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "COFFEE MATE Philippines, Cabuyao, Laguna. 557,970 likes \u00b7 8 talking about this. Add some COFFEE MATE in your coffee to make it creamy and overwhelmingly delicious.",
+                    "display_url": "facebook.com/371072207281",
+                    "end": 184,
+                    "expanded_url": "https://www.facebook.com/371072207281",
+                    "images": [
+                        {
+                            "height": 2048,
+                            "url": "https://pbs.twimg.com/news_img/1714719658010402816/S5ktv9eH?format=jpg&name=orig",
+                            "width": 2048
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1714719658010402816/S5ktv9eH?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 161,
+                    "status": 200,
+                    "title": "COFFEE MATE Philippines | Cabuyao",
+                    "unwound_url": "https://www.facebook.com/coffeemate.ph/",
+                    "url": "https://t.co/uo7d2Q1l1U"
+                }
+            ]
+        },
+        "id": "1673193227845791744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 158,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@jstinediaz Hi! For us to assist you better, please message us on our Official Facebook page, COFFEE MATE Philippines. You can visit our page through this link: https://t.co/uo7d2Q1l1U\n\nThank you!"
+    }
+}

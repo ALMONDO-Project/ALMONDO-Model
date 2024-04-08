@@ -1,0 +1,59 @@
+{
+    "1625124618913587201": {
+        "author_id": "23085995",
+        "created_at": "2023-02-13T13:27:57.000Z",
+        "edit_history_tweet_ids": [
+            "1625124618913587201"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Larry",
+                    "probability": 0.7588,
+                    "start": 26,
+                    "type": "Person"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Ukraine",
+                    "probability": 0.9641,
+                    "start": 90,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Russia",
+                    "probability": 0.973,
+                    "start": 174,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "22852074",
+                    "start": 0,
+                    "username": "eellaval"
+                },
+                {
+                    "end": 22,
+                    "id": "16887175",
+                    "start": 10,
+                    "username": "DailyMirror"
+                }
+            ]
+        },
+        "id": "1625124618913587201",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 410,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@eellaval @DailyMirror Hi Larry, We have taken strong and unprecedented steps to both aid Ukraine and the Ukrainian people, and to significantly scale back our operations in Russia. (1/2)"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1709876107938283963": {
+        "attachments": {
+            "media_keys": [
+                "13_1709876081396776960"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-10-05T10:20:06.000Z",
+        "edit_history_tweet_ids": [
+            "1709876107938283963"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "Hasso Plattner",
+                    "probability": 0.7008,
+                    "start": 40,
+                    "type": "Person"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "WorldTeachersDay",
+                    "probability": 0.7099,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 58,
+                    "tag": "WorldTeachersDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/szgEhrPZ1q",
+                    "end": 188,
+                    "expanded_url": "https://twitter.com/SAP/status/1709876107938283963/video/1",
+                    "media_key": "13_1709876081396776960",
+                    "start": 165,
+                    "url": "https://t.co/szgEhrPZ1q"
+                }
+            ]
+        },
+        "id": "1709876107938283963",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 13374,
+            "like_count": 73,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 14
+        },
+        "text": "We're celebrating our co-founder, Prof. Hasso Plattner on #WorldTeachersDay! \n\nA true mentor and innovator, he's ignited a lifelong love for learning in us all. \ud83e\uddd1\u200d\ud83c\udfeb https://t.co/szgEhrPZ1q"
+    }
+}

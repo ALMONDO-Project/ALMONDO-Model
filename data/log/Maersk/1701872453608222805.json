@@ -1,0 +1,82 @@
+{
+    "1701872453608222805": {
+        "attachments": {
+            "media_keys": [
+                "3_1701872426299056128"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-13T08:16:26.000Z",
+        "edit_history_tweet_ids": [
+            "1701872453608222805"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 136,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4513,
+                    "start": 131,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 137,
+                    "start": 130,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 143,
+                    "start": 138,
+                    "tag": "Rail"
+                },
+                {
+                    "end": 154,
+                    "start": 144,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 167,
+                    "start": 155,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 188,
+                    "start": 168,
+                    "tag": "integratedlogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eWJW-S4v",
+                    "end": 128,
+                    "expanded_url": "https://lnkd.in/eWJW-S4v",
+                    "start": 105,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/eWJW-S4v",
+                    "url": "https://t.co/wS48Sz1nrz"
+                },
+                {
+                    "display_url": "pic.twitter.com/TYJiBzPtUm",
+                    "end": 212,
+                    "expanded_url": "https://twitter.com/Maersk/status/1701872453608222805/photo/1",
+                    "media_key": "3_1701872426299056128",
+                    "start": 189,
+                    "url": "https://t.co/TYJiBzPtUm"
+                }
+            ]
+        },
+        "id": "1701872453608222805",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5040,
+            "like_count": 66,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 7
+        },
+        "text": "We are launching a new weekly ocean-rail offering to better connect Central Asian markets! \n\nLearn more:\u00a0https://t.co/wS48Sz1nrz\n\n#Maersk #Rail #Logistics #SupplyChain #integratedlogistics https://t.co/TYJiBzPtUm"
+    }
+}

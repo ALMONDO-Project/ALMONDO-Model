@@ -1,0 +1,67 @@
+{
+    "1739692393677373684": {
+        "attachments": {
+            "media_keys": [
+                "7_1739691957532680193"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-26T16:59:23.000Z",
+        "edit_history_tweet_ids": [
+            "1739692393677373684"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 283,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3996,
+                    "start": 278,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 6,
+                    "tag": "supplychain"
+                },
+                {
+                    "end": 284,
+                    "start": 277,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/.../24/supply-\u2026",
+                    "end": 276,
+                    "expanded_url": "https://www.maersk.com/.../24/supply-chain-visibility-trends",
+                    "start": 253,
+                    "status": 404,
+                    "unwound_url": "https://www.maersk.com/.../24/supply-chain-visibility-trends",
+                    "url": "https://t.co/FSuBhvPCff"
+                },
+                {
+                    "display_url": "pic.twitter.com/ToOKVebBuX",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Maersk/status/1739692393677373684/video/1",
+                    "media_key": "7_1739691957532680193",
+                    "start": 285,
+                    "url": "https://t.co/ToOKVebBuX"
+                }
+            ]
+        },
+        "id": "1739692393677373684",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4230,
+            "like_count": 37,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Today #supplychain visibility goes much deeper than product flow. It also includes insights into supply, demand, inventory, crisis management &amp; more to help businesses stay ahead. Here are the visibility trends that should be on your radar in 2024: https://t.co/FSuBhvPCff #Maersk https://t.co/ToOKVebBuX"
+    }
+}

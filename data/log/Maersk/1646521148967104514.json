@@ -1,0 +1,95 @@
+{
+    "1646521148967104514": {
+        "attachments": {
+            "media_keys": [
+                "3_1646521144797790208"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-13T14:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1646521148967104514"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "Logistic",
+                    "probability": 0.4548,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Fair",
+                    "probability": 0.465,
+                    "start": 129,
+                    "type": "Other"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "Munich",
+                    "probability": 0.4773,
+                    "start": 149,
+                    "type": "Place"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "Germany",
+                    "probability": 0.8211,
+                    "start": 157,
+                    "type": "Place"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.4105,
+                    "start": 191,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 203,
+                    "start": 190,
+                    "tag": "MaerskEurope"
+                },
+                {
+                    "end": 214,
+                    "start": 204,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3MECIyE",
+                    "end": 100,
+                    "expanded_url": "https://bddy.me/3MECIyE",
+                    "start": 77,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/11/maersk-at-transport-logistic-2023?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_63FC57B931E65_64356774574A6&utm_term=VOCP&utm_content=EUR_TransportLogistic2023",
+                    "url": "https://t.co/L5ehrpCwfm"
+                },
+                {
+                    "display_url": "pic.twitter.com/M8JTIVixs2",
+                    "end": 238,
+                    "expanded_url": "https://twitter.com/Maersk/status/1646521148967104514/photo/1",
+                    "media_key": "3_1646521144797790208",
+                    "start": 215,
+                    "url": "https://t.co/M8JTIVixs2"
+                }
+            ]
+        },
+        "id": "1646521148967104514",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4853,
+            "like_count": 38,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "We are happy to announce our participation at Transport Logistic 2023 .More: https://t.co/L5ehrpCwfm  \n \ud83d\udcc5 May 9\u201312, 2023 \ud83d\udccd Trade Fair Center Messe - Munich, Germany. Booth 301/401 - Hall B2 #MaerskEurope #AllTheWay https://t.co/M8JTIVixs2"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "1683367503962034177": {
+        "attachments": {
+            "media_keys": [
+                "3_1683367502116519936"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-07-24T06:44:23.000Z",
+        "edit_history_tweet_ids": [
+            "1683367503962034177"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Alstom",
+                    "probability": 0.341,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "RAILPOOL",
+                    "probability": 0.5429,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Universal #locomotives",
+                    "probability": 0.5471,
+                    "start": 92,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "Atlas",
+                    "probability": 0.4848,
+                    "start": 154,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4786,
+                    "start": 161,
+                    "type": "Other"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "European Train Control System",
+                    "probability": 0.5915,
+                    "start": 195,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 53,
+                    "tag": "RAILPOOL"
+                },
+                {
+                    "end": 114,
+                    "start": 102,
+                    "tag": "locomotives"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/SCTR50Pj7U2",
+                    "end": 271,
+                    "expanded_url": "http://ow.ly/SCTR50Pj7U2",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/7/alstom-and-railpool-sign-contract-50-traxx-universal-locomotives",
+                    "url": "https://t.co/DeUd7U8mlR"
+                },
+                {
+                    "display_url": "pic.twitter.com/EpjUxHYmJM",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Alstom/status/1683367503962034177/photo/1",
+                    "media_key": "3_1683367502116519936",
+                    "start": 272,
+                    "url": "https://t.co/EpjUxHYmJM"
+                }
+            ]
+        },
+        "id": "1683367503962034177",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3922,
+            "like_count": 32,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "\ud83d\ude82A contract valued at up to \u20ac260 million: Alstom and #RAILPOOL sign a contract for 50 Traxx Universal #locomotives\n\nAll locomotives will be equipped with Atlas, Alstom\u2019s onboard solution for the European Train Control System (ETCS).\n\n\u25b6\ufe0fLearn more: https://t.co/DeUd7U8mlR https://t.co/EpjUxHYmJM"
+    }
+}

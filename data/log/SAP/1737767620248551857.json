@@ -1,0 +1,77 @@
+{
+    "1737767620248551857": {
+        "attachments": {
+            "media_keys": [
+                "3_1737767617304096768"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-12-21T09:31:01.000Z",
+        "edit_history_tweet_ids": [
+            "1737767620248551857"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "AI",
+                    "probability": 0.8768,
+                    "start": 64,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 39,
+                    "id": "102743128",
+                    "start": 26,
+                    "username": "thsaueressig"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The current age of AI is disrupting every industry. To adapt, we must equip people with skills to adapt and thrive in changing environments.",
+                    "display_url": "sap.to/6013RVwsU",
+                    "end": 138,
+                    "expanded_url": "https://sap.to/6013RVwsU",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1737767643547869184/QI3WYacd?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1737767643547869184/QI3WYacd?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 115,
+                    "status": 200,
+                    "title": "Being Human in the Age of AI",
+                    "unwound_url": "https://news.sap.com/2023/12/being-human-in-the-age-of-ai/?source=SAP_Innovations-SAP_Innovations_for_AI-Image-Awareness-Global-Artificial_Intelligence-ST1%3A_Intelligent_Enterprise-SAP_News&campaigncode=CRM-YA23-LAM-2228564&sprinklrid=12133942309",
+                    "url": "https://t.co/vXofXNSQJw"
+                },
+                {
+                    "display_url": "pic.twitter.com/emaflf2KFu",
+                    "end": 162,
+                    "expanded_url": "https://twitter.com/SAP/status/1737767620248551857/photo/1",
+                    "media_key": "3_1737767617304096768",
+                    "start": 139,
+                    "url": "https://t.co/emaflf2KFu"
+                }
+            ]
+        },
+        "id": "1737767620248551857",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3917,
+            "like_count": 15,
+            "quote_count": 8,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "It's a duet, not a duel.\n\n@thsaueressig explains why people and AI working together are better than working alone. https://t.co/vXofXNSQJw https://t.co/emaflf2KFu"
+    }
+}

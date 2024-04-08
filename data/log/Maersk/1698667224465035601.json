@@ -1,0 +1,95 @@
+{
+    "1698667224465035601": {
+        "attachments": {
+            "media_keys": [
+                "3_1698577773982334976"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-04T12:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1698667224465035601"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "Cold Chain",
+                    "probability": 0.6241,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "IFEMA",
+                    "probability": 0.3052,
+                    "start": 167,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Madrid",
+                    "probability": 0.8045,
+                    "start": 173,
+                    "type": "Place"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3838,
+                    "start": 202,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 208,
+                    "start": 201,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 219,
+                    "start": 209,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 68,
+                    "id": "325429204",
+                    "start": 52,
+                    "username": "FruitAttraction"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3r79P5I",
+                    "end": 142,
+                    "expanded_url": "https://bit.ly/3r79P5I",
+                    "start": 119,
+                    "unwound_url": "https://www.maersk.com/explore-cold-at-fruit-attraction-2023?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_64F03A16CBE88_64F03A5A1E017&utm_term=VOCP&utm_content=EUR_FruitLogistica",
+                    "url": "https://t.co/igXCdA5xCa"
+                },
+                {
+                    "display_url": "pic.twitter.com/fHNkztBps5",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/Maersk/status/1698667224465035601/photo/1",
+                    "media_key": "3_1698577773982334976",
+                    "start": 220,
+                    "url": "https://t.co/fHNkztBps5"
+                }
+            ]
+        },
+        "id": "1698667224465035601",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3100,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We\u00b4re excited to announce we will be exhibiting at\u00a0 @FruitAttraction. Book now a meeting with our Cold Chain Experts\ud83d\udc49: https://t.co/igXCdA5xCa \ud83d\udcc5 October 3 - 5, 2023.\ud83d\udccd IFEMA Madrid. Booth 4C07 / Hall 4 #Maersk #AllTheWay https://t.co/fHNkztBps5"
+    }
+}

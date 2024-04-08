@@ -1,0 +1,103 @@
+{
+    "1658777118229102596": {
+        "attachments": {
+            "media_keys": [
+                "7_1658776520159113216"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-17T10:10:58.000Z",
+        "edit_history_tweet_ids": [
+            "1658777118229102596"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Motorcycle Diaries",
+                    "probability": 0.7916,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Colombia",
+                    "probability": 0.9871,
+                    "start": 41,
+                    "type": "Place"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Julian",
+                    "probability": 0.4996,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4343,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 40,
+                    "tag": "Colombia"
+                },
+                {
+                    "end": 162,
+                    "start": 148,
+                    "tag": "climatechange"
+                },
+                {
+                    "end": 255,
+                    "start": 248,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 267,
+                    "start": 256,
+                    "tag": "motorcycle"
+                },
+                {
+                    "end": 276,
+                    "start": 268,
+                    "tag": "purpose"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtube.com/watch?v=3DAemS\u2026",
+                    "end": 245,
+                    "expanded_url": "https://www.youtube.com/watch?v=3DAemSz7JpI&t=7s",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=3DAemSz7JpI&t=7s",
+                    "url": "https://t.co/H3zHZAYGD8"
+                },
+                {
+                    "display_url": "pic.twitter.com/jWdfBy1F9w",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1658777118229102596/video/1",
+                    "media_key": "7_1658776520159113216",
+                    "start": 277,
+                    "url": "https://t.co/jWdfBy1F9w"
+                }
+            ]
+        },
+        "id": "1658777118229102596",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3134,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udfcdThe Motorcycle Diaries continues on to #Colombia where our Product Manager Julian stays at an Eco-farm and learns about the devastating effects of #climatechange on the community and agriculture. Watch the full ep here:\ud83c\udfa5 https://t.co/H3zHZAYGD8   #Maersk #motorcycle #purpose https://t.co/jWdfBy1F9w"
+    }
+}

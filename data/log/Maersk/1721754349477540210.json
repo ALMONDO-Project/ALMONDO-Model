@@ -1,0 +1,107 @@
+{
+    "1721754349477540210": {
+        "attachments": {
+            "media_keys": [
+                "7_1718990348893220864"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-07T05:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1721754349477540210"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "William Petty",
+                    "probability": 0.9027,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3248,
+                    "start": 85,
+                    "type": "Place"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "MaerskCustomsServices",
+                    "probability": 0.652,
+                    "start": 213,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "GTCC",
+                    "probability": 0.3984,
+                    "start": 236,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 63,
+                    "tag": "CustomsConsulting"
+                },
+                {
+                    "end": 133,
+                    "start": 109,
+                    "tag": "TradeComplianceServices"
+                },
+                {
+                    "end": 234,
+                    "start": 212,
+                    "tag": "MaerskCustomsServices"
+                },
+                {
+                    "end": 240,
+                    "start": 235,
+                    "tag": "GTCC"
+                },
+                {
+                    "end": 262,
+                    "start": 242,
+                    "tag": "FreeTradeAgreements"
+                },
+                {
+                    "end": 283,
+                    "start": 263,
+                    "tag": "IntegratedLogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/498mjeN",
+                    "end": 210,
+                    "expanded_url": "https://bit.ly/498mjeN",
+                    "start": 187,
+                    "unwound_url": "https://www.maersk.com/supply-chain-logistics/customs-services/services/global-trade-and-customs-consulting?utm_campaign=GLOBAL_MCO_EN_MAERSK-GTCC-SEP23-SOME-TW-VIDEO-DROP1_AWR_PROMOTION_ONETIME_BROAD_BRO&utm_source=twitter&utm_medium=owned&utm_content=post#tcs",
+                    "url": "https://t.co/P0l0Oeol2v"
+                },
+                {
+                    "display_url": "pic.twitter.com/bssNLy9FwJ",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Maersk/status/1721754349477540210/video/1",
+                    "media_key": "7_1718990348893220864",
+                    "start": 284,
+                    "url": "https://t.co/bssNLy9FwJ"
+                }
+            ]
+        },
+        "id": "1721754349477540210",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2701,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "William Petty, Product Development Manager, Global Trade &amp; #CustomsConsulting at Maersk explains how our #TradeComplianceServices can help you stay on top of regulations. Learn more: https://t.co/P0l0Oeol2v\n\n#MaerskCustomsServices #GTCC  #FreeTradeAgreements #IntegratedLogistics https://t.co/bssNLy9FwJ"
+    }
+}

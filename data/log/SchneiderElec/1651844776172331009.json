@@ -1,0 +1,74 @@
+{
+    "1651844776172331009": {
+        "author_id": "393757140",
+        "created_at": "2023-04-28T07:04:19.000Z",
+        "edit_history_tweet_ids": [
+            "1651844776172331009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Mukesh",
+                    "probability": 0.9231,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Schneider",
+                    "probability": 0.3114,
+                    "start": 65,
+                    "type": "Person"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Schneidler",
+                    "probability": 0.3318,
+                    "start": 141,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Schneidler",
+                    "probability": 0.4178,
+                    "start": 213,
+                    "type": "Other"
+                },
+                {
+                    "end": 287,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.6241,
+                    "start": 270,
+                    "type": "Organization"
+                },
+                {
+                    "end": 293,
+                    "normalized_text": "India",
+                    "probability": 0.89,
+                    "start": 289,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1156503782840160256",
+                    "start": 0,
+                    "username": "thukral_mukesh"
+                }
+            ]
+        },
+        "id": "1651844776172331009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@thukral_mukesh Dear Mukesh,\nSorry for the inconvinence caused!\n\"Schneider\" is not into the manufacturing of lifts, it seems you are looking\"Schneidler\"both are different entity. Would request to coordinate with \"Schneidler\" customer care.\nRegards,\nCustomer Care Centre Schneider Electric India"
+    }
+}

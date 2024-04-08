@@ -1,0 +1,67 @@
+{
+    "1664301029683240963": {
+        "attachments": {
+            "media_keys": [
+                "3_1664300685897211904"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-06-01T16:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1664301029683240963"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "E.ON Drive",
+                    "probability": 0.7859,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "F1",
+                    "probability": 0.3501,
+                    "start": 221,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 51,
+                    "id": "126718797",
+                    "start": 39,
+                    "username": "CovMotoFest"
+                },
+                {
+                    "end": 189,
+                    "id": "1161568956680941568",
+                    "start": 175,
+                    "username": "Veloce_Racing"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/dCRLNMPaLm",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1664301029683240963/photo/1",
+                    "media_key": "3_1664300685897211904",
+                    "start": 271,
+                    "url": "https://t.co/dCRLNMPaLm"
+                }
+            ]
+        },
+        "id": "1664301029683240963",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1205,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "E.ON Drive are proudly partnering with @CovMotoFest this weekend! \ud83d\ude97\n\n\ud83c\udfc1The event showcases electric car innovation, heritage displays, street food, live music and our partners @veloce_racing will be showcasing their elite F1 racing simulators. Fastest lap wins a prize! \ud83c\udf81 https://t.co/dCRLNMPaLm"
+    }
+}

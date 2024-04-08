@@ -1,0 +1,83 @@
+{
+    "1663937249304510465": {
+        "attachments": {
+            "media_keys": [
+                "13_1663937132161892354"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-31T15:55:29.000Z",
+        "edit_history_tweet_ids": [
+            "1663937249304510465"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "eMobility",
+                    "probability": 0.3613,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "EVS36",
+                    "probability": 0.6389,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Sacramento",
+                    "probability": 0.5065,
+                    "start": 105,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "CA",
+                    "probability": 0.8563,
+                    "start": 117,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 84,
+                    "tag": "EVS36"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014OSoHg",
+                    "end": 171,
+                    "expanded_url": "http://spr.ly/6014OSoHg",
+                    "start": 148,
+                    "status": 200,
+                    "unwound_url": "https://events.se.com/ereg/newreg.php?eventid=200260961&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10169151203&utm_campaign=EcoStruxure_for_Automotive_and_Mobility&country=Global",
+                    "url": "https://t.co/x2qcqrLdbB"
+                },
+                {
+                    "display_url": "pic.twitter.com/rBvbDjwEim",
+                    "end": 195,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1663937249304510465/video/1",
+                    "media_key": "13_1663937132161892354",
+                    "start": 172,
+                    "url": "https://t.co/rBvbDjwEim"
+                }
+            ]
+        },
+        "id": "1663937249304510465",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1372,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "eMobility and prosumer solutions are building the new energy landscape \u2014 join us at #EVS36, Booth 420 in Sacramento, CA, June 11 \u2013 14 to learn how. https://t.co/x2qcqrLdbB https://t.co/rBvbDjwEim"
+    }
+}

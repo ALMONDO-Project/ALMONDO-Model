@@ -1,0 +1,109 @@
+{
+    "1656222654674731008": {
+        "attachments": {
+            "media_keys": [
+                "3_1656222591722323968",
+                "3_1656222612693893120",
+                "3_1656222633719914496"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-05-10T09:00:26.000Z",
+        "edit_history_tweet_ids": [
+            "1656222654674731008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Marine Competence Center",
+                    "probability": 0.8098,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "Norway",
+                    "probability": 0.9772,
+                    "start": 36,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Marine Competence Center",
+                    "probability": 0.7469,
+                    "start": 60,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 179,
+                    "start": 167,
+                    "tag": "decarbonize"
+                },
+                {
+                    "end": 191,
+                    "start": 184,
+                    "tag": "marine"
+                },
+                {
+                    "end": 243,
+                    "start": 237,
+                    "tag": "WhyEE"
+                },
+                {
+                    "end": 261,
+                    "start": 244,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "danfoss.com/en/about-danfo\u2026",
+                    "end": 236,
+                    "expanded_url": "https://www.danfoss.com/en/about-danfoss/news/cf/danfoss-celebrates-opening-of-new-marine-competence-center-in-norway/",
+                    "start": 213,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/en/about-danfoss/news/cf/danfoss-celebrates-opening-of-new-marine-competence-center-in-norway/",
+                    "url": "https://t.co/KgnDbqK0Ss"
+                },
+                {
+                    "display_url": "pic.twitter.com/LfQhZsIFGu",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1656222654674731008/photo/1",
+                    "media_key": "3_1656222591722323968",
+                    "start": 262,
+                    "url": "https://t.co/LfQhZsIFGu"
+                },
+                {
+                    "display_url": "pic.twitter.com/LfQhZsIFGu",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1656222654674731008/photo/1",
+                    "media_key": "3_1656222612693893120",
+                    "start": 262,
+                    "url": "https://t.co/LfQhZsIFGu"
+                },
+                {
+                    "display_url": "pic.twitter.com/LfQhZsIFGu",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1656222654674731008/photo/1",
+                    "media_key": "3_1656222633719914496",
+                    "start": 262,
+                    "url": "https://t.co/LfQhZsIFGu"
+                }
+            ]
+        },
+        "id": "1656222654674731008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 537,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our new Marine Competence Center in Norway is now open! The Marine Competence Center will play a key role in our ongoing commitment to become the preferred partner to #decarbonize the #marine industry. Read more: https://t.co/KgnDbqK0Ss\n#WhyEE #EnergyEfficiency https://t.co/LfQhZsIFGu"
+    }
+}

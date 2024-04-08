@@ -1,0 +1,83 @@
+{
+    "1730557421460816002": {
+        "author_id": "258725128",
+        "created_at": "2023-12-01T12:00:16.000Z",
+        "edit_history_tweet_ids": [
+            "1730557421460816002"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "Germany",
+                    "probability": 0.8627,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Mathias Korda",
+                    "probability": 0.6423,
+                    "start": 159,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 241,
+                    "start": 224,
+                    "tag": "MobilityByNature"
+                },
+                {
+                    "end": 255,
+                    "start": 242,
+                    "tag": "BatteryTrain"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 192,
+                    "id": "1232994542577692672",
+                    "start": 181,
+                    "username": "vmsinfahrt"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This past August, we had the pleasure of welcoming a new battery-powered train in Chemnitz, Germany. Get to know more about this exciting project from our cu...",
+                    "display_url": "youtu.be/ltCz-oRAC5c",
+                    "end": 221,
+                    "expanded_url": "https://youtu.be/ltCz-oRAC5c",
+                    "images": [
+                        {
+                            "height": 360,
+                            "url": "https://pbs.twimg.com/news_img/1730557423566331904/ZRiPSyGJ?format=jpg&name=orig",
+                            "width": 480
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1730557423566331904/ZRiPSyGJ?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 198,
+                    "status": 200,
+                    "title": "Customer Interview: Verkehrsverbund Mittelsachsen (VMS)",
+                    "unwound_url": "https://www.youtube.com/watch?v=ltCz-oRAC5c&feature=youtu.be",
+                    "url": "https://t.co/JTzatGQdqX"
+                }
+            ]
+        },
+        "id": "1730557421460816002",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1635,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "This past August, we had the pleasure of welcoming a new battery-powered train in Chemnitz, Germany. Learn more about this exciting project from our customer, Mathias Korda, CEO of @vmsinfahrt. \n\n\u25b6\ufe0fhttps://t.co/JTzatGQdqX \n\n#MobilityByNature #BatteryTrain"
+    }
+}

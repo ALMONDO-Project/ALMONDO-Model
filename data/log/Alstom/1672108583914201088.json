@@ -1,0 +1,95 @@
+{
+    "1672108583914201088": {
+        "author_id": "258725128",
+        "created_at": "2023-06-23T05:05:27.000Z",
+        "edit_history_tweet_ids": [
+            "1672108583914201088"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 117,
+                    "normalized_text": "Victor",
+                    "probability": 0.6267,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.7055,
+                    "start": 141,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 151,
+                    "start": 140,
+                    "tag": "TeamAlstom"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "2173911080",
+                    "start": 0,
+                    "username": "V_A_Martin"
+                },
+                {
+                    "end": 25,
+                    "id": "941346571521810433",
+                    "start": 12,
+                    "username": "AlstomCanada"
+                },
+                {
+                    "end": 36,
+                    "id": "920309020468051968",
+                    "start": 26,
+                    "username": "Alstom_es"
+                },
+                {
+                    "end": 49,
+                    "id": "2741678822",
+                    "start": 37,
+                    "username": "AlstomIndia"
+                },
+                {
+                    "end": 63,
+                    "id": "1262297329",
+                    "start": 50,
+                    "username": "AlstomFrance"
+                },
+                {
+                    "end": 73,
+                    "id": "821083604",
+                    "start": 64,
+                    "username": "AlstomUK"
+                },
+                {
+                    "end": 86,
+                    "id": "1207218313950089216",
+                    "start": 74,
+                    "username": "AlstomAMECA"
+                },
+                {
+                    "end": 101,
+                    "id": "740807436857159680",
+                    "start": 87,
+                    "username": "AlstomNordics"
+                }
+            ]
+        },
+        "id": "1672108583914201088",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 69,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@V_A_Martin @AlstomCanada @Alstom_es @AlstomIndia @AlstomFrance @AlstomUK @AlstomAMECA @AlstomNordics Thank you Victor! It takes a village! #TeamAlstom"
+    }
+}

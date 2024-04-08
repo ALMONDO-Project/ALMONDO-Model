@@ -1,0 +1,75 @@
+{
+    "1647812128802238464": {
+        "attachments": {
+            "media_keys": [
+                "3_1647812126180794370"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-17T04:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1647812128802238464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 194,
+                    "normalized_text": "HM23",
+                    "probability": 0.5274,
+                    "start": 191,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 163,
+                    "start": 141,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 195,
+                    "start": 190,
+                    "tag": "HM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 57,
+                    "id": "23083866",
+                    "start": 42,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6012OMkzE",
+                    "end": 188,
+                    "expanded_url": "http://spr.ly/6012OMkzE",
+                    "start": 165,
+                    "status": 200,
+                    "unwound_url": "https://events.se.com/website/10436/?reference=social-organic-twitter&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9541666566&utm_campaign=Industry_of_the_Future&country=Global",
+                    "url": "https://t.co/SfrZBaXvHK"
+                },
+                {
+                    "display_url": "pic.twitter.com/eCJRSgnVSy",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1647812128802238464/photo/1",
+                    "media_key": "3_1647812126180794370",
+                    "start": 196,
+                    "url": "https://t.co/eCJRSgnVSy"
+                }
+            ]
+        },
+        "id": "1647812128802238464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2838,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "The day is finally here! We're on-site at @hannover_messe. Come visit us at Hall 11, booth C46 to discover how our solutions are driving the #IndustriesOfTheFuture! https://t.co/SfrZBaXvHK  #HM23 https://t.co/eCJRSgnVSy"
+    }
+}

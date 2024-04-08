@@ -1,0 +1,86 @@
+{
+    "1670690559172784129": {
+        "attachments": {
+            "media_keys": [
+                "3_1670690549458784259"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-19T07:10:43.000Z",
+        "edit_history_tweet_ids": [
+            "1670690559172784129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5014,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "airfreight",
+                    "probability": 0.5083,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Maersk Air Cargo",
+                    "probability": 0.5544,
+                    "start": 159,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 47,
+                    "start": 36,
+                    "tag": "airfreight"
+                },
+                {
+                    "end": 213,
+                    "start": 206,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 270,
+                    "start": 260,
+                    "tag": "logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 258,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/06/19/maersk-increases-cargo-flight-frequency-and-commits-new-freighter-to-global-network",
+                    "start": 235,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/06/19/maersk-increases-cargo-flight-frequency-and-commits-new-freighter-to-global-network",
+                    "url": "https://t.co/eVLx9Dxlpz"
+                },
+                {
+                    "display_url": "pic.twitter.com/AJ2qw4tjcX",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1670690559172784129/photo/1",
+                    "media_key": "3_1670690549458784259",
+                    "start": 271,
+                    "url": "https://t.co/AJ2qw4tjcX"
+                }
+            ]
+        },
+        "id": "1670690559172784129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6045,
+            "like_count": 84,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 14
+        },
+        "text": "Maersk is strengthening its growing #airfreight network by increasing frequencies of regular flights as well as introducing an additional aircraft operated by Maersk Air Cargo, the inhouse cargo airline of #Maersk\u2708 Read the full PR \ud83d\udc49\ud83c\udffd https://t.co/eVLx9Dxlpz\n\n#logistics https://t.co/AJ2qw4tjcX"
+    }
+}

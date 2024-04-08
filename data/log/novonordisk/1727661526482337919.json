@@ -1,0 +1,53 @@
+{
+    "1727661526482337919": {
+        "author_id": "194037150",
+        "created_at": "2023-11-23T12:13:00.000Z",
+        "edit_history_tweet_ids": [
+            "1727661526482337919"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Denis",
+                    "probability": 0.595,
+                    "start": 12,
+                    "type": "Person"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6142,
+                    "start": 165,
+                    "type": "Organization"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "Asif",
+                    "probability": 0.3683,
+                    "start": 274,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "73680025",
+                    "start": 0,
+                    "username": "Riderkz"
+                }
+            ]
+        },
+        "id": "1727661526482337919",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 30,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@Riderkz Hi Denis, I am sorry to hear that. Due to global privacy and legal regulations, we are not allowed to discuss our products on social media. It is the local Novo Nordisk office that you need to reach out to for questions on local availability of our products.\nBest, Asif"
+    }
+}

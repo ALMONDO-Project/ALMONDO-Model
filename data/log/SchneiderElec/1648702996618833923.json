@@ -1,0 +1,53 @@
+{
+    "1648702996618833923": {
+        "author_id": "393757140",
+        "created_at": "2023-04-19T15:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1648702996618833923"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 84,
+                    "start": 70,
+                    "tag": "MakeItForLife"
+                },
+                {
+                    "end": 237,
+                    "start": 215,
+                    "tag": "IndustriesOfTheFuture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 113,
+                    "id": "23083866",
+                    "start": 98,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6010OOmwe",
+                    "end": 214,
+                    "expanded_url": "http://spr.ly/6010OOmwe",
+                    "start": 191,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=A_nPk2AEWVA",
+                    "url": "https://t.co/ZyofrfNrQc"
+                }
+            ]
+        },
+        "id": "1648702996618833923",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 770,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Software-centric automation is helping more people in more industries #MakeItForLife. Visit us at @hannover_messe to learn more about our digital initiatives in AI machine learning and more. https://t.co/ZyofrfNrQc #IndustriesOfTheFuture"
+    }
+}

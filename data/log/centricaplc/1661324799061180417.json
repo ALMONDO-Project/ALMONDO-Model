@@ -1,0 +1,80 @@
+{
+    "1661324799061180417": {
+        "attachments": {
+            "media_keys": [
+                "3_1661324304183697408"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-05-24T10:54:32.000Z",
+        "edit_history_tweet_ids": [
+            "1661324799061180417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Westminster",
+                    "probability": 0.9161,
+                    "start": 46,
+                    "type": "Place"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "UK",
+                    "probability": 0.9744,
+                    "start": 180,
+                    "type": "Place"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "HydrogenJourneyto2030",
+                    "probability": 0.7205,
+                    "start": 186,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 20,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 207,
+                    "start": 185,
+                    "tag": "HydrogenJourneyto2030"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 80,
+                    "id": "569816003",
+                    "start": 71,
+                    "username": "TheUKHEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/qzGZUf9375",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1661324799061180417/photo/1",
+                    "media_key": "3_1661324304183697408",
+                    "start": 208,
+                    "url": "https://t.co/qzGZUf9375"
+                }
+            ]
+        },
+        "id": "1661324799061180417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 463,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Great to be talking #hydrogen in the heart of Westminster today at the @TheUKHEA conference \u2013      we\u2019re excited about the key role hydrogen can play in decarbonising power in the UK.  #HydrogenJourneyto2030 https://t.co/qzGZUf9375"
+    }
+}

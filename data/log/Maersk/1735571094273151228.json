@@ -1,0 +1,38 @@
+{
+    "1735571094273151228": {
+        "author_id": "380801406",
+        "created_at": "2023-12-15T08:02:48.000Z",
+        "edit_history_tweet_ids": [
+            "1735571094273151228"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Maersk Honam",
+                    "probability": 0.8854,
+                    "start": 55,
+                    "type": "Person"
+                },
+                {
+                    "end": 267,
+                    "normalized_text": "Maersk Gibraltar",
+                    "probability": 0.691,
+                    "start": 252,
+                    "type": "Person"
+                }
+            ]
+        },
+        "id": "1735571094273151228",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 59226,
+            "like_count": 155,
+            "quote_count": 39,
+            "reply_count": 10,
+            "retweet_count": 51
+        },
+        "text": "A number of circulating posts are depicting the tragic Maersk Honam fire incident in 2018. Due to sensitivity and accuracy we wish to clarify the images and videos in question are unrelated and do not represent the event that transpired yesterday. The Maersk Gibraltar was not hit"
+    }
+}

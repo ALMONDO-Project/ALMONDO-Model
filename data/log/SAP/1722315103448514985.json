@@ -1,0 +1,84 @@
+{
+    "1722315103448514985": {
+        "attachments": {
+            "media_keys": [
+                "13_1722315054802956288"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-11-08T18:08:14.000Z",
+        "edit_history_tweet_ids": [
+            "1722315103448514985"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "AI",
+                    "probability": 0.6678,
+                    "start": 33,
+                    "type": "Organization"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "SAP",
+                    "probability": 0.7888,
+                    "start": 110,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 164,
+                    "id": "1396484258",
+                    "start": 152,
+                    "username": "SAPLearning"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Join this free online course to learn about the value of different types of artificial intelligence (AI), including generative AI, and explore how to leverage AI capabilities within your SAP products and solutions.",
+                    "display_url": "sap.to/6011useQB",
+                    "end": 150,
+                    "expanded_url": "https://sap.to/6011useQB",
+                    "images": [
+                        {
+                            "height": 436,
+                            "url": "https://pbs.twimg.com/news_img/1722315114274009089/BNzZP8Yg?format=jpg&name=orig",
+                            "width": 670
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1722315114274009089/BNzZP8Yg?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 127,
+                    "status": 200,
+                    "title": "Generative AI at SAP",
+                    "unwound_url": "https://open.sap.com/courses/genai1?source=SAP_Innovations-SAP_Innovations_for_AI-Video-Educate%2FEnable-Global-Artificial_Intelligence-ST2%3A_Ecosystem-openSAP&campaigncode=CRM-YA23-LAM-2228564&sprinklrid=11755348787",
+                    "url": "https://t.co/9co5PpxB8f"
+                },
+                {
+                    "display_url": "pic.twitter.com/Ukza5HcOrZ",
+                    "end": 188,
+                    "expanded_url": "https://twitter.com/SAP/status/1722315103448514985/video/1",
+                    "media_key": "13_1722315054802956288",
+                    "start": 165,
+                    "url": "https://t.co/Ukza5HcOrZ"
+                }
+            ]
+        },
+        "id": "1722315103448514985",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 8541,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 17
+        },
+        "text": "Go beyond the hype of generative AI. \n\nJoin our free course and learn about the capabilities available within SAP solutions. \ud83d\udc49 https://t.co/9co5PpxB8f\n\n@SAPLearning https://t.co/Ukza5HcOrZ"
+    }
+}

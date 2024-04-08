@@ -1,0 +1,105 @@
+{
+    "1701502274080813491": {
+        "attachments": {
+            "media_keys": [
+                "3_1701502246973042688"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-12T07:45:29.000Z",
+        "edit_history_tweet_ids": [
+            "1701502274080813491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 236,
+                    "normalized_text": "London",
+                    "probability": 0.6364,
+                    "start": 231,
+                    "type": "Place"
+                },
+                {
+                    "end": 252,
+                    "normalized_text": "MH Pod",
+                    "probability": 0.5432,
+                    "start": 247,
+                    "type": "Other"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "DSEI",
+                    "probability": 0.4781,
+                    "start": 257,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.3875,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 145,
+                    "start": 128,
+                    "tag": "ProjectLogistics"
+                },
+                {
+                    "end": 261,
+                    "start": 256,
+                    "tag": "DSEI"
+                },
+                {
+                    "end": 275,
+                    "start": 262,
+                    "tag": "MaerskEurope"
+                },
+                {
+                    "end": 281,
+                    "start": 276,
+                    "tag": "Tech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 20,
+                    "id": "14134850",
+                    "start": 15,
+                    "username": "dsei"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/48enw3Q",
+                    "end": 197,
+                    "expanded_url": "https://bit.ly/48enw3Q",
+                    "start": 174,
+                    "unwound_url": "https://www.maersk.com/supply-chain-logistics/international-development/services?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_64F5E56637BF0_64F5E62917FEF&utm_term=VOCP&utm_content=EUR_DSEIEventDrop2",
+                    "url": "https://t.co/pUeKanvplD"
+                },
+                {
+                    "display_url": "pic.twitter.com/qjezbNLs76",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/Maersk/status/1701502274080813491/photo/1",
+                    "media_key": "3_1701502246973042688",
+                    "start": 282,
+                    "url": "https://t.co/qjezbNLs76"
+                }
+            ]
+        },
+        "id": "1701502274080813491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3420,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 6
+        },
+        "text": "We are here at @DSEI 2023 showcasing our combination of global presence &amp; capabilities that enable us to deliver end-to-end #ProjectLogistics solutions to you. Visit us: https://t.co/pUeKanvplD\n\ud83d\udcc5 September 12\u2013 15, 2023\n\ud83d\udccd ExCeL London, Hall 2, MH Pod 2\n#DSEI #MaerskEurope #Tech https://t.co/qjezbNLs76"
+    }
+}

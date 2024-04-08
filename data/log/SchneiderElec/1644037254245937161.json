@@ -1,0 +1,66 @@
+{
+    "1644037254245937161": {
+        "author_id": "393757140",
+        "created_at": "2023-04-06T18:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1644037254245937161"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 92,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.5669,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "HM23",
+                    "probability": 0.6638,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 93,
+                    "start": 81,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 151,
+                    "start": 137,
+                    "tag": "MakeItForLife"
+                },
+                {
+                    "end": 157,
+                    "start": 152,
+                    "tag": "HM23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60123fPPa",
+                    "end": 136,
+                    "expanded_url": "http://spr.ly/60123fPPa",
+                    "start": 113,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=u2UrvVEKtJ4",
+                    "url": "https://t.co/PvcbMNhV9X"
+                }
+            ]
+        },
+        "id": "1644037254245937161",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 935,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Why repeat tasks from tool to tool when you can easily drag and drop assets with #EcoStruxure Automation Expert? https://t.co/PvcbMNhV9X #MakeItForLife #HM23"
+    }
+}

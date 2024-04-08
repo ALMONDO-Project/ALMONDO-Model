@@ -1,0 +1,62 @@
+{
+    "1638903148709306370": {
+        "attachments": {
+            "media_keys": [
+                "7_1638902847742832641"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-23T13:58:54.000Z",
+        "edit_history_tweet_ids": [
+            "1638903148709306370"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 278,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4691,
+                    "start": 273,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 279,
+                    "start": 272,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eyWMsx8b",
+                    "end": 271,
+                    "expanded_url": "https://lnkd.in/eyWMsx8b",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/02/24/why-we-continue-expand-warehouse-network",
+                    "url": "https://t.co/P2W2ieMHP9"
+                },
+                {
+                    "display_url": "pic.twitter.com/FRUa4dIkT6",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1638903148709306370/video/1",
+                    "media_key": "7_1638902847742832641",
+                    "start": 280,
+                    "url": "https://t.co/FRUa4dIkT6"
+                }
+            ]
+        },
+        "id": "1638903148709306370",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 3927,
+            "like_count": 35,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Why do we continue to expand our warehouse network?\ud83c\udfecIn the last year, we have more than doubled our warehousing footprint. Read the article to learn more why we think this is important and how you as a customer will benefit.\nRead the article here: https://t.co/P2W2ieMHP9\n#Maersk https://t.co/FRUa4dIkT6"
+    }
+}

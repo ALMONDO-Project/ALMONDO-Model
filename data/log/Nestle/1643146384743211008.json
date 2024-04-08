@@ -1,0 +1,50 @@
+{
+    "1643146384743211008": {
+        "author_id": "23085995",
+        "created_at": "2023-04-04T07:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1643146384743211008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "Cocoa Plan",
+                    "probability": 0.8536,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 217,
+                    "id": "106688413",
+                    "start": 201,
+                    "username": "ConfectioneryNw"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/40QUank",
+                    "end": 195,
+                    "expanded_url": "https://bit.ly/40QUank",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://www.confectionerynews.com/Article/2023/03/23/nestle-outlines-its-cocoa-sustainability-commitments-with-publication-of-annual-report",
+                    "url": "https://t.co/lQHtDMUks5"
+                }
+            ]
+        },
+        "id": "1643146384743211008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 13728,
+            "like_count": 702,
+            "quote_count": 2,
+            "reply_count": 28,
+            "retweet_count": 322
+        },
+        "text": "Caught the buzz on our 2022 Creating Shared Value and Sustainability Report? Read up on our Cocoa Plan, increased use of renewable electricity, and digital transformation: https://t.co/lQHtDMUks5 (via @ConfectioneryNw)"
+    }
+}

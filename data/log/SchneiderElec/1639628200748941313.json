@@ -1,0 +1,91 @@
+{
+    "1639628200748941313": {
+        "author_id": "393757140",
+        "created_at": "2023-03-25T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1639628200748941313"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Kevin O\u2019Marah",
+                    "probability": 0.9265,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "ZERO 100",
+                    "probability": 0.7545,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "Apple",
+                    "probability": 0.7708,
+                    "start": 154,
+                    "type": "Other"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "Spotify",
+                    "probability": 0.8375,
+                    "start": 194,
+                    "type": "Other"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "WorldWaterDay",
+                    "probability": 0.7125,
+                    "start": 228,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 241,
+                    "start": 227,
+                    "tag": "WorldWaterDay"
+                },
+                {
+                    "end": 255,
+                    "start": 242,
+                    "tag": "Digitization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018O6BEn",
+                    "end": 193,
+                    "expanded_url": "http://spr.ly/6018O6BEn",
+                    "start": 170,
+                    "status": 200,
+                    "unwound_url": "https://podcasts.apple.com/us/podcast/radical-reinvention-modernizing-the-worlds-supply-chains/id1652314978?i=1000605306844",
+                    "url": "https://t.co/8eLEczkIEI"
+                },
+                {
+                    "display_url": "spr.ly/6018O6BEn",
+                    "end": 226,
+                    "expanded_url": "http://spr.ly/6018O6BEn",
+                    "start": 203,
+                    "status": 200,
+                    "unwound_url": "https://podcasts.apple.com/us/podcast/radical-reinvention-modernizing-the-worlds-supply-chains/id1652314978?i=1000605306844",
+                    "url": "https://t.co/8eLEczkIEI"
+                }
+            ]
+        },
+        "id": "1639628200748941313",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1284,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Kevin O\u2019Marah from ZERO 100 spoke with industry leaders about the digital solutions at the heart of ensuring water security around the world. Listen here\nApple Podcasts: https://t.co/8eLEczkIEI\nSpotify: https://t.co/8eLEczkIEI\n#WorldWaterDay #Digitization"
+    }
+}

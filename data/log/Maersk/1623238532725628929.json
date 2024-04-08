@@ -1,0 +1,55 @@
+{
+    "1623238532725628929": {
+        "author_id": "380801406",
+        "created_at": "2023-02-08T08:33:19.000Z",
+        "edit_history_tweet_ids": [
+            "1623238532725628929"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Turkey",
+                    "probability": 0.9711,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "Syria",
+                    "probability": 0.9846,
+                    "start": 37,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 215,
+                    "start": 202,
+                    "tag": "humanitarian"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 269,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/02/06/operational-impact-of-earthquake-in-turkey",
+                    "start": 246,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/02/06/operational-impact-of-earthquake-in-turkey",
+                    "url": "https://t.co/7eJ8Bum5Q1"
+                }
+            ]
+        },
+        "id": "1623238532725628929",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3940,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "The earthquake impacts in Turkey and Syria is truly devastating, and we continue to monitor the situation and assist aid relief teams. We stand with our people and their communities to help during this #humanitarian crisis. Further updates here: https://t.co/7eJ8Bum5Q1"
+    }
+}

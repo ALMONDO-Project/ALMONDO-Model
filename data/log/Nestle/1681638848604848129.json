@@ -1,0 +1,48 @@
+{
+    "1681638848604848129": {
+        "author_id": "23085995",
+        "created_at": "2023-07-19T12:15:19.000Z",
+        "edit_history_tweet_ids": [
+            "1681638848604848129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 269,
+                    "normalized_text": "Europe",
+                    "probability": 0.9509,
+                    "start": 264,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1227963957866115072",
+                    "start": 0,
+                    "username": "EikeMar"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 310,
+                    "expanded_url": "https://twitter.com/i/web/status/1681638848604848129",
+                    "start": 287,
+                    "url": "https://t.co/n0tehb1DCy"
+                }
+            ]
+        },
+        "id": "1681638848604848129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 209,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@EikeMar Hi, Thanks for reaching out. We are committed to the highest possible standards of farm animal welfare and strongly condemn any mistreatment of farm animals across our global supply chain. We directly purchase 100% cage free eggs for our food products in Europe and the United\u2026 https://t.co/n0tehb1DCy"
+    }
+}

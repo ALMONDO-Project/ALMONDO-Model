@@ -1,0 +1,86 @@
+{
+    "1649654416482418689": {
+        "attachments": {
+            "media_keys": [
+                "13_1649654278594654208"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-04-22T06:00:36.000Z",
+        "edit_history_tweet_ids": [
+            "1649654416482418689"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "EarthDay",
+                    "probability": 0.8638,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 20,
+                    "normalized_text": "Danfoss",
+                    "probability": 0.3572,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Amsterdam",
+                    "probability": 0.9706,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Monaco",
+                    "probability": 0.971,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Datacloud Global Congress",
+                    "probability": 0.5023,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 3,
+                    "tag": "EarthDay"
+                },
+                {
+                    "end": 279,
+                    "start": 261,
+                    "tag": "InvestInOurPlanet"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/3jxUfqNb2x",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1649654416482418689/video/1",
+                    "media_key": "13_1649654278594654208",
+                    "start": 280,
+                    "url": "https://t.co/3jxUfqNb2x"
+                }
+            ]
+        },
+        "id": "1649654416482418689",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 682,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "On #EarthDay, Danfoss representatives are cycling 1,600km from Amsterdam to Monaco for the Datacloud Global Congress 2023. As individuals, they cut emissions, generate mental &amp; physical power, and raise funds to support construction workers' mental health. #InvestInOurPlanet https://t.co/3jxUfqNb2x"
+    }
+}

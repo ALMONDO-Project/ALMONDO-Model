@@ -1,0 +1,68 @@
+{
+    "1615725704603123713": {
+        "attachments": {
+            "media_keys": [
+                "3_1615725700354392065"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-18T15:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1615725704603123713"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 263,
+                    "normalized_text": "WEF23",
+                    "probability": 0.5925,
+                    "start": 259,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 264,
+                    "start": 258,
+                    "tag": "WEF23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 269,
+                    "id": "5120691",
+                    "start": 265,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60183VuKy",
+                    "end": 257,
+                    "expanded_url": "http://spr.ly/60183VuKy",
+                    "start": 234,
+                    "url": "https://t.co/xFgCt5zl5j"
+                },
+                {
+                    "display_url": "pic.twitter.com/UPojn38x41",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1615725704603123713/photo/1",
+                    "media_key": "3_1615725700354392065",
+                    "start": 270,
+                    "url": "https://t.co/UPojn38x41"
+                }
+            ]
+        },
+        "id": "1615725704603123713",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 890,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Get an insider's view of the most advanced and sustainable factories in the world, recognized as lighthouses for using 4IR technology to transform value chains and business models for financial and operational returns. Save the date: https://t.co/xFgCt5zl5j #WEF23 @wef https://t.co/UPojn38x41"
+    }
+}

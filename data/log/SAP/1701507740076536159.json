@@ -1,0 +1,95 @@
+{
+    "1701507740076536159": {
+        "attachments": {
+            "media_keys": [
+                "13_1701507693821698048"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-09-12T08:07:12.000Z",
+        "edit_history_tweet_ids": [
+            "1701507740076536159"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 1,
+                    "normalized_text": "AI",
+                    "probability": 0.9024,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "AI",
+                    "probability": 0.7885,
+                    "start": 127,
+                    "type": "Organization"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "SAPSpendConnectLive",
+                    "probability": 0.6878,
+                    "start": 134,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 129,
+                    "start": 126,
+                    "tag": "AI"
+                },
+                {
+                    "end": 153,
+                    "start": 133,
+                    "tag": "SAPSpendConnectLive"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "20536157",
+                    "start": 71,
+                    "username": "Google"
+                },
+                {
+                    "end": 190,
+                    "id": "19692276",
+                    "start": 181,
+                    "username": "SAPAriba"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6014PFQBE",
+                    "end": 179,
+                    "expanded_url": "https://sap.to/6014PFQBE",
+                    "start": 156,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/09/procurement-at-sap-spend-connect-live-2023/?source=social-Global-TWITTER-ISBN-Spend_Management-SpendConnect-spr-11297637643-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11297637643",
+                    "url": "https://t.co/RE0jwY0glg"
+                },
+                {
+                    "display_url": "pic.twitter.com/awDaPdzRvn",
+                    "end": 214,
+                    "expanded_url": "https://twitter.com/SAP/status/1701507740076536159/video/1",
+                    "media_key": "13_1701507693821698048",
+                    "start": 191,
+                    "url": "https://t.co/awDaPdzRvn"
+                }
+            ]
+        },
+        "id": "1701507740076536159",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6877,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "AI is everywhere \u2013 including procurement. \n\nSee how we're working with @Google to improve supplier management with generative #AI at #SAPSpendConnectLive.\n https://t.co/RE0jwY0glg\n\n@SAPAriba https://t.co/awDaPdzRvn"
+    }
+}

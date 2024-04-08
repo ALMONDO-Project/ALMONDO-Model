@@ -1,0 +1,75 @@
+{
+    "1681244149540958208": {
+        "attachments": {
+            "media_keys": [
+                "3_1681243108413931521"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-18T10:06:55.000Z",
+        "edit_history_tweet_ids": [
+            "1681244149540958208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "Gurugram",
+                    "probability": 0.7965,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5603,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 27,
+                    "tag": "electricscooters"
+                },
+                {
+                    "end": 62,
+                    "start": 49,
+                    "tag": "decarbonised"
+                },
+                {
+                    "end": 176,
+                    "start": 166,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 264,
+                    "start": 256,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ismVCuXzAP",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1681244149540958208/photo/1",
+                    "media_key": "3_1681243108413931521",
+                    "start": 276,
+                    "url": "https://t.co/ismVCuXzAP"
+                }
+            ]
+        },
+        "id": "1681244149540958208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5806,
+            "like_count": 80,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 13
+        },
+        "text": "We have deployed our first #electricscooters\u00a0for #decarbonised deliveries in Gurugram, India\ud83d\udef5 \nAn important step in the direction of building decarbonised end-to-end #logistics solutions for our customers and getting closer to our 2040 ambition to achieve #NetZero emissions. https://t.co/ismVCuXzAP"
+    }
+}

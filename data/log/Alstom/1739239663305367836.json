@@ -1,0 +1,58 @@
+{
+    "1739239663305367836": {
+        "attachments": {
+            "media_keys": [
+                "7_1739238419807477760"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-12-25T11:00:23.000Z",
+        "edit_history_tweet_ids": [
+            "1739239663305367836"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5566,
+                    "start": 47,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 46,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 113,
+                    "start": 96,
+                    "tag": "MobilityByNature"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/9XsCyzvZez",
+                    "end": 137,
+                    "expanded_url": "https://twitter.com/Alstom/status/1739239663305367836/video/1",
+                    "media_key": "7_1739238419807477760",
+                    "start": 114,
+                    "url": "https://t.co/9XsCyzvZez"
+                }
+            ]
+        },
+        "id": "1739239663305367836",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 13851,
+            "like_count": 121,
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 18
+        },
+        "text": "Wishing you a season filled with joy from our #TeamAlstom family, and more to come in 2024! \ud83d\ude85\u2728\n\n#MobilityByNature https://t.co/9XsCyzvZez"
+    }
+}

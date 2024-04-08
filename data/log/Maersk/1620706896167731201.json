@@ -1,0 +1,81 @@
+{
+    "1620706896167731201": {
+        "attachments": {
+            "media_keys": [
+                "3_1620706750985822208"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-01T08:53:29.000Z",
+        "edit_history_tweet_ids": [
+            "1620706896167731201"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "ASOS",
+                    "probability": 0.5128,
+                    "start": 67,
+                    "type": "Organization"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "UK",
+                    "probability": 0.9722,
+                    "start": 136,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "ASOS",
+                    "probability": 0.6029,
+                    "start": 140,
+                    "type": "Organization"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3928,
+                    "start": 159,
+                    "type": "Organization"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "Supply Chain Management",
+                    "probability": 0.543,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/ewmU7Qvv",
+                    "end": 277,
+                    "expanded_url": "https://lnkd.in/ewmU7Qvv",
+                    "start": 254,
+                    "url": "https://t.co/MsXI06asov"
+                },
+                {
+                    "display_url": "pic.twitter.com/auJIzCAFs2",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1620706896167731201/photo/1",
+                    "media_key": "3_1620706750985822208",
+                    "start": 278,
+                    "url": "https://t.co/auJIzCAFs2"
+                }
+            ]
+        },
+        "id": "1620706896167731201",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6836,
+            "like_count": 35,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "We are pleased to announce a new global logistics partnership with ASOS, the global fashion e-commerce destination headquartered in the UK. ASOS has appointed Maersk as its strategic logistics partner for Supply Chain Management (SCM)\ud83e\udd1d\n\ud83d\udc49Learn more here: https://t.co/MsXI06asov https://t.co/auJIzCAFs2"
+    }
+}

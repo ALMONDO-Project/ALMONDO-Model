@@ -1,0 +1,90 @@
+{
+    "1734842162469069006": {
+        "attachments": {
+            "media_keys": [
+                "13_1734842091761545216"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-12-13T07:46:17.000Z",
+        "edit_history_tweet_ids": [
+            "1734842162469069006"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "COP28",
+                    "probability": 0.9203,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "Mary Landrieu",
+                    "probability": 0.7014,
+                    "start": 172,
+                    "type": "Person"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "The Climate Solutions Foundation",
+                    "probability": 0.624,
+                    "start": 189,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 69,
+                    "tag": "COP28"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "See how our customers are succeeding with sustainability management solutions. By acting responsibly, our customers are helping the world achieve zero emissions, zero waste, and zero inequality.",
+                    "display_url": "sap.to/6012R3YZn",
+                    "end": 275,
+                    "expanded_url": "https://sap.to/6012R3YZn",
+                    "images": [
+                        {
+                            "height": 405,
+                            "url": "https://pbs.twimg.com/news_img/1734842213190844416/K40WWAun?format=jpg&name=orig",
+                            "width": 640
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1734842213190844416/K40WWAun?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 252,
+                    "status": 200,
+                    "title": "SAP Sustainability Solutions | Customers",
+                    "unwound_url": "https://www.sap.com/sustainability/customer-stories.html?source=Brand_Story-Brand_Purpose-Video-Awareness-Global-Sustainability-ST3%3A_Purpose-SAP.com&campaigncode=CRM-YA23-SMS-1941768&sprinklrid=12055450850#sustainability-challenge",
+                    "url": "https://t.co/ccLtHnwWKY"
+                },
+                {
+                    "display_url": "pic.twitter.com/XBtm8xPqck",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/SAP/status/1734842162469069006/video/1",
+                    "media_key": "13_1734842091761545216",
+                    "start": 276,
+                    "url": "https://t.co/XBtm8xPqck"
+                }
+            ]
+        },
+        "id": "1734842162469069006",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3064,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Climate change requires collaboration across sectors and borders. At #COP28, public-private partnerships are key to meeting climate goals and reducing emissions. \n\nSenator Mary Landrieu of The Climate Solutions Foundation discusses practical progress: https://t.co/ccLtHnwWKY https://t.co/XBtm8xPqck"
+    }
+}

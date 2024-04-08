@@ -1,0 +1,64 @@
+{
+    "1674980485406007306": {
+        "author_id": "23085995",
+        "created_at": "2023-07-01T03:17:22.000Z",
+        "edit_history_tweet_ids": [
+            "1674980485406007306"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Linda",
+                    "probability": 0.5798,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "KitKat Plant",
+                    "probability": 0.6125,
+                    "start": 29,
+                    "type": "Organization"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "Giving the Planet a Break",
+                    "probability": 0.9544,
+                    "start": 131,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "216226689",
+                    "start": 0,
+                    "username": "Lindamatija25"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6181PDMMN",
+                    "end": 287,
+                    "expanded_url": "http://spr.ly/6181PDMMN",
+                    "start": 264,
+                    "status": 200,
+                    "unwound_url": "https://www.nestle.com/sustainability/waste-reduction",
+                    "url": "https://t.co/fNlrjrh2fR"
+                }
+            ]
+        },
+        "id": "1674980485406007306",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 196,
+            "like_count": 1,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Lindamatija25 Hi Linda, our KitKat Plant Based are currently packed in our standard packaging. We're excited to be moving toward 'Giving the Planet a Break' by committing to our goal of 100% recyclable or reusable packaging by 2025. \n\nYou can find out more here: https://t.co/fNlrjrh2fR"
+    }
+}

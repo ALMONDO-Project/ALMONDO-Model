@@ -1,0 +1,108 @@
+{
+    "1634132118698639361": {
+        "attachments": {
+            "media_keys": [
+                "7_1634132011127394304"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-10T10:00:32.000Z",
+        "edit_history_tweet_ids": [
+            "1634132118698639361"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Patrick Hore",
+                    "probability": 0.8801,
+                    "start": 6,
+                    "type": "Person"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "LogiChem",
+                    "probability": 0.7027,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3865,
+                    "start": 159,
+                    "type": "Other"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "Syngenta",
+                    "probability": 0.4467,
+                    "start": 209,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 165,
+                    "start": 158,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 176,
+                    "start": 166,
+                    "tag": "AllTheWay"
+                },
+                {
+                    "end": 197,
+                    "start": 177,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 207,
+                    "start": 198,
+                    "tag": "Logichem"
+                },
+                {
+                    "end": 217,
+                    "start": 208,
+                    "tag": "Syngenta"
+                },
+                {
+                    "end": 228,
+                    "start": 218,
+                    "tag": "Chemicals"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3mxWD7k",
+                    "end": 155,
+                    "expanded_url": "https://bddy.me/3mxWD7k",
+                    "start": 132,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/02/17/new-paths-in-chemicals-logistics?utm_source=Twitter_OwnedMedia&utm_medium=Organic&utm_campaign=M_63E4AD1DD7BF7_63FC9426EF28B&utm_term=RCP&utm_content=2023_Maersk_CEN_Logichem_Chem_63E4AD1DD7BF7",
+                    "url": "https://t.co/IT0QDhXHeU"
+                },
+                {
+                    "display_url": "pic.twitter.com/kjZReopZ13",
+                    "end": 252,
+                    "expanded_url": "https://twitter.com/Maersk/status/1634132118698639361/video/1",
+                    "media_key": "7_1634132011127394304",
+                    "start": 229,
+                    "url": "https://t.co/kjZReopZ13"
+                }
+            ]
+        },
+        "id": "1634132118698639361",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2869,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Catch Patrick Hore\u2019s keynote talk on building strategic partnerships for Chemical Supply Chains at LogiChem 2023. \n \nEvent details: https://t.co/IT0QDhXHeU\n \n#Maersk #AllTheWay #IntegratedLogistics #Logichem #Syngenta #Chemicals https://t.co/kjZReopZ13"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "1646777419666169856": {
+        "attachments": {
+            "media_keys": [
+                "7_1646776989565562880"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-14T07:28:27.000Z",
+        "edit_history_tweet_ids": [
+            "1646777419666169856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.4635,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Hyundai Mipo Dockyard",
+                    "probability": 0.7934,
+                    "start": 142,
+                    "type": "Other"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "Henrik Ekmann",
+                    "probability": 0.6288,
+                    "start": 201,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "Newbuilding",
+                    "probability": 0.3875,
+                    "start": 223,
+                    "type": "Other"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5644,
+                    "start": 239,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 70,
+                    "start": 54,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 245,
+                    "start": 238,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 276,
+                    "start": 256,
+                    "tag": "sustainableshipping"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jglwFPsBoO",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1646777419666169856/video/1",
+                    "media_key": "7_1646776989565562880",
+                    "start": 277,
+                    "url": "https://t.co/jglwFPsBoO"
+                }
+            ]
+        },
+        "id": "1646777419666169856",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 10493,
+            "like_count": 103,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 19
+        },
+        "text": "Watch the floating milestone for our new vessel build #allthewaytozero. \ud83d\udef3 From drydock to water \ud83c\udf0a\u201cThe launching was successfully completed at Hyundai Mipo Dockyard and the construction is continuing.\u201d Henrik Ekmann Head of Newbuilding at #Maersk explains  #sustainableshipping https://t.co/jglwFPsBoO"
+    }
+}

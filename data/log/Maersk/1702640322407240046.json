@@ -1,0 +1,81 @@
+{
+    "1702640322407240046": {
+        "author_id": "380801406",
+        "created_at": "2023-09-15T11:07:41.000Z",
+        "edit_history_tweet_ids": [
+            "1702640322407240046"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "Vincent Clerc",
+                    "probability": 0.7419,
+                    "start": 47,
+                    "type": "Person"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Laura M\u00e6rsk",
+                    "probability": 0.8651,
+                    "start": 134,
+                    "type": "Person"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "maersk",
+                    "probability": 0.5044,
+                    "start": 222,
+                    "type": "Other"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.4449,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 228,
+                    "start": 221,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 245,
+                    "start": 229,
+                    "tag": "allthewaytozero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 21,
+                    "id": "497262990",
+                    "start": 6,
+                    "username": "jchatterleyCNN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/jchatterleyCNN\u2026",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/jchatterleyCNN/status/1702622583080751443",
+                    "start": 246,
+                    "url": "https://t.co/mQUf8uBk7z"
+                }
+            ]
+        },
+        "id": "1702640322407240046",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8921,
+            "like_count": 100,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 16
+        },
+        "text": "Watch @jchatterleyCNN's interview with our CEO Vincent Clerc about the launch of the world's first methanol-enabled container vessel, Laura M\u00e6rsk, the symbolic meaning behind the name and insights on energy transition \ud83d\udea2\ud83d\udc9a #maersk #allthewaytozero https://t.co/mQUf8uBk7z"
+    }
+}

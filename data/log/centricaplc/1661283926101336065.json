@@ -1,0 +1,81 @@
+{
+    "1661283926101336065": {
+        "attachments": {
+            "media_keys": [
+                "7_1661283885894836224"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-05-24T08:12:07.000Z",
+        "edit_history_tweet_ids": [
+            "1661283926101336065"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "Windsor",
+                    "probability": 0.9222,
+                    "start": 117,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 250,
+                    "start": 241,
+                    "tag": "Hydrogen"
+                },
+                {
+                    "end": 271,
+                    "start": 251,
+                    "tag": "DecentralisedEnergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 84,
+                    "id": "959448294832340992",
+                    "start": 68,
+                    "username": "CentricaSoln_UK"
+                },
+                {
+                    "end": 155,
+                    "id": "4882976412",
+                    "start": 146,
+                    "username": "2GEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centricabusinesssolutions.com/energy-solutio\u2026",
+                    "end": 240,
+                    "expanded_url": "https://www.centricabusinesssolutions.com/energy-solutions/combined-heat-and-power-chp/hydrogen-chp-units",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "https://www.centricabusinesssolutions.com/energy-solutions/combined-heat-and-power-chp/hydrogen-chp-units",
+                    "url": "https://t.co/BkdRHcdXDU"
+                },
+                {
+                    "display_url": "pic.twitter.com/f73fcvmnvr",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1661283926101336065/video/1",
+                    "media_key": "7_1661283885894836224",
+                    "start": 272,
+                    "url": "https://t.co/f73fcvmnvr"
+                }
+            ]
+        },
+        "id": "1661283926101336065",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3115,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Hydrogen is tomorrow\u2019s technology right? Think Again! \n\nThe team at @CentricaSoln_UK\u00a0hosted a drop-in session at our Windsor offices featuring a  @2GEnergy\u00a0100% hydrogen ready combined heat and power engine. \n\nMore \ud83d\udc49 https://t.co/BkdRHcdXDU\n#Hydrogen #DecentralisedEnergy https://t.co/f73fcvmnvr"
+    }
+}

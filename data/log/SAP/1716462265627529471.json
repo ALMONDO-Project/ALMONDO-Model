@@ -1,0 +1,39 @@
+{
+    "1716462265627529471": {
+        "author_id": "76117579",
+        "created_at": "2023-10-23T14:31:09.000Z",
+        "edit_history_tweet_ids": [
+            "1716462265627529471"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Allan",
+                    "probability": 0.7287,
+                    "start": 17,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1229956799408869376",
+                    "start": 0,
+                    "username": "amuciag"
+                }
+            ]
+        },
+        "id": "1716462265627529471",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 21,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@amuciag Thanks, Allan! We feel the same way about software engineers \ud83d\ude42"
+    }
+}

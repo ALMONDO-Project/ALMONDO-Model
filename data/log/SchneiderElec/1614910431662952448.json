@@ -1,0 +1,74 @@
+{
+    "1614910431662952448": {
+        "attachments": {
+            "media_keys": [
+                "13_1614910334866784257"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-16T09:00:25.000Z",
+        "edit_history_tweet_ids": [
+            "1614910431662952448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9355,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "WEF23",
+                    "probability": 0.7269,
+                    "start": 195,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Davos",
+                    "probability": 0.8847,
+                    "start": 204,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 194,
+                    "tag": "WEF23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60133Tnxb",
+                    "end": 239,
+                    "expanded_url": "http://spr.ly/60133Tnxb",
+                    "start": 216,
+                    "url": "https://t.co/jTIBf0TOsJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/MqyBOsVmmo",
+                    "end": 263,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1614910431662952448/video/1",
+                    "media_key": "13_1614910334866784257",
+                    "start": 240,
+                    "url": "https://t.co/MqyBOsVmmo"
+                }
+            ]
+        },
+        "id": "1614910431662952448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1265,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "At Schneider Electric, we believe that the root cause of the climate and energy crises is the same: an unsustainable energy model.\nThroughout this week, get ready to explore our conversation at #WEF23 in Davos here: https://t.co/jTIBf0TOsJ https://t.co/MqyBOsVmmo"
+    }
+}

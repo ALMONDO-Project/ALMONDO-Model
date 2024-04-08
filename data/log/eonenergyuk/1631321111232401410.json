@@ -1,0 +1,61 @@
+{
+    "1631321111232401410": {
+        "author_id": "142611379",
+        "created_at": "2023-03-02T15:50:36.000Z",
+        "edit_history_tweet_ids": [
+            "1631321111232401410"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "UK",
+                    "probability": 0.9777,
+                    "start": 6,
+                    "type": "Place"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "netzero",
+                    "probability": 0.6948,
+                    "start": 32,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 31,
+                    "tag": "netzero"
+                },
+                {
+                    "end": 155,
+                    "start": 138,
+                    "tag": "actionforclimate"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/eeyrWY2HoC8",
+                    "end": 180,
+                    "expanded_url": "https://youtu.be/eeyrWY2HoC8",
+                    "start": 157,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=eeyrWY2HoC8&feature=youtu.be",
+                    "url": "https://t.co/luT2bceOKZ"
+                }
+            ]
+        },
+        "id": "1631321111232401410",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 881,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83c\udf0f The UK is committed to being #netzero by 2050.\n\n\ud83d\udca1 Making changes around your home is a great place to start - discover how you can take #actionforclimate\n\nhttps://t.co/luT2bceOKZ"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "1662058859874189312": {
+        "attachments": {
+            "poll_ids": [
+                "1662058857705734149"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-05-26T11:31:26.000Z",
+        "edit_history_tweet_ids": [
+            "1662058859874189312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Elizabeth Line",
+                    "probability": 0.339,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Aventra",
+                    "probability": 0.432,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Old",
+                    "probability": 0.4207,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "Oak Common",
+                    "probability": 0.3566,
+                    "start": 84,
+                    "type": "Other"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "CO2",
+                    "probability": 0.5135,
+                    "start": 186,
+                    "type": "Other"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "Old Oak Common",
+                    "probability": 0.3897,
+                    "start": 229,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "CO2",
+                    "probability": 0.5975,
+                    "start": 256,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 0,
+                    "tag": "AlstomServices"
+                },
+                {
+                    "end": 21,
+                    "start": 16,
+                    "tag": "Quiz"
+                }
+            ]
+        },
+        "id": "1662058859874189312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3117,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "#AlstomServices #Quiz - The Elizabeth Line\u2019s Aventra fleet is maintained at our Old Oak Common depot. In addition to this, the depot focuses on renewable energy &amp; aims to reduce its CO2 emissions by 30%. So far, how much has Old Oak Common reduced its CO2 emissions by?"
+    }
+}

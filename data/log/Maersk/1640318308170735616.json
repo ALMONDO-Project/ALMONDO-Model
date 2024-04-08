@@ -1,0 +1,112 @@
+{
+    "1640318308170735616": {
+        "attachments": {
+            "media_keys": [
+                "7_1640317148890316800"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-27T11:42:14.000Z",
+        "edit_history_tweet_ids": [
+            "1640318308170735616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "Billund",
+                    "probability": 0.5732,
+                    "start": 62,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9636,
+                    "start": 71,
+                    "type": "Place"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Hangzhou",
+                    "probability": 0.9529,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Michel Pozas Lucic",
+                    "probability": 0.5588,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "LCL",
+                    "probability": 0.4361,
+                    "start": 157,
+                    "type": "Organization"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6456,
+                    "start": 165,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "Lars Rudnicki",
+                    "probability": 0.6274,
+                    "start": 177,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 171,
+                    "start": 164,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 255,
+                    "id": "95291408",
+                    "start": 247,
+                    "username": "Danfoss"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 281,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/03/20/maersk-launches-europe-china-air-freight-service-to-add-further-agility-to-customer-supply-chains",
+                    "start": 258,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/03/20/maersk-launches-europe-china-air-freight-service-to-add-further-agility-to-customer-supply-chains",
+                    "url": "https://t.co/jwJeeLrzqF"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZSzTBJAG2A",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/Maersk/status/1640318308170735616/video/1",
+                    "media_key": "7_1640317148890316800",
+                    "start": 282,
+                    "url": "https://t.co/ZSzTBJAG2A"
+                }
+            ]
+        },
+        "id": "1640318308170735616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4185,
+            "like_count": 50,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 8
+        },
+        "text": "Last week, we inaugurated our new air freight service between Billund, Denmark and Hangzhou, China\u2708 We spoke to Michel Pozas Lucic, Global Head of Air &amp; LCL at #Maersk, and Lars Rudnicki, VP of Indirect Procurement and Supplier Development at @Danfoss.\n\nhttps://t.co/jwJeeLrzqF https://t.co/ZSzTBJAG2A"
+    }
+}

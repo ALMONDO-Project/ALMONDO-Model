@@ -1,0 +1,60 @@
+{
+    "1668618128610451456": {
+        "author_id": "258725128",
+        "created_at": "2023-06-13T13:55:37.000Z",
+        "edit_history_tweet_ids": [
+            "1668618128610451456"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "HealthHub",
+                    "probability": 0.5394,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.5523,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 0,
+                    "tag": "HealthHub"
+                },
+                {
+                    "end": 32,
+                    "start": 16,
+                    "tag": "digitalsolution"
+                },
+                {
+                    "end": 59,
+                    "start": 37,
+                    "tag": "predictivemaintenance"
+                },
+                {
+                    "end": 263,
+                    "start": 248,
+                    "tag": "AlstomServices"
+                }
+            ]
+        },
+        "id": "1668618128610451456",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1258,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#HealthHub, our #digitalsolution for #predictivemaintenance, is key for improving fleet availability &amp; reliability. It captures standard &amp; smart data through real-time monitoring &amp; uses advanced AI-based algorithms to prevent failures. #AlstomServices"
+    }
+}

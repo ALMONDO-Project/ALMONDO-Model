@@ -1,0 +1,85 @@
+{
+    "1686302122642403328": {
+        "attachments": {
+            "media_keys": [
+                "3_1686302121304403968"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-08-01T09:05:30.000Z",
+        "edit_history_tweet_ids": [
+            "1686302122642403328"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "TGVM",
+                    "probability": 0.6202,
+                    "start": 14,
+                    "type": "Organization"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "TGV M",
+                    "probability": 0.4702,
+                    "start": 44,
+                    "type": "Organization"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Paris Gare de Lyon station",
+                    "probability": 0.5324,
+                    "start": 57,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 13,
+                    "tag": "TGVM"
+                },
+                {
+                    "end": 116,
+                    "start": 106,
+                    "tag": "highspeed"
+                },
+                {
+                    "end": 174,
+                    "start": 157,
+                    "tag": "MobilityByNature"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 186,
+                    "id": "432492827",
+                    "start": 175,
+                    "username": "GroupeSNCF"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WMlXPEDQWq",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/Alstom/status/1686302122642403328/photo/1",
+                    "media_key": "3_1686302121304403968",
+                    "start": 187,
+                    "url": "https://t.co/WMlXPEDQWq"
+                }
+            ]
+        },
+        "id": "1686302122642403328",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 32599,
+            "like_count": 420,
+            "quote_count": 15,
+            "reply_count": 5,
+            "retweet_count": 65
+        },
+        "text": "Welcome home #TGVM! \ud83d\ude85\ud83c\udf89 First arrival of the TGV M at the Paris Gare de Lyon station before continuing its #highspeed test programme on the French network. \n\n#MobilityByNature @GroupeSNCF https://t.co/WMlXPEDQWq"
+    }
+}

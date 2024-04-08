@@ -1,0 +1,68 @@
+{
+    "1652278810790838277": {
+        "author_id": "393757140",
+        "created_at": "2023-04-29T11:49:01.000Z",
+        "edit_history_tweet_ids": [
+            "1652278810790838277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "GHG",
+                    "probability": 0.5456,
+                    "start": 46,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 183,
+                    "start": 168,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 193,
+                    "start": 184,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Discover how you can make a bigger sustainability impact by digitalizing and electrifying railway assets for a greener and more energy efficient mobility.\u25baDi...",
+                    "display_url": "spr.ly/6018OVuvm",
+                    "end": 166,
+                    "expanded_url": "http://spr.ly/6018OVuvm",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1717796228220473344/JADtbliL?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1717796228220473344/JADtbliL?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 143,
+                    "status": 200,
+                    "title": "Making Railways Greener and More Sustainable | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=y5KjY3Sya6E",
+                    "url": "https://t.co/J185ZbKWhu"
+                }
+            ]
+        },
+        "id": "1652278810790838277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1460,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Did you know railways emit 7 to 11 times less GHG than cars? Watch how digitalizing and electrifying railways can make them more sustainable - https://t.co/J185ZbKWhu\n\n#Sustainability #LifeIsOn"
+    }
+}

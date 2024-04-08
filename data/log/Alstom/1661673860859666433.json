@@ -1,0 +1,79 @@
+{
+    "1661673860859666433": {
+        "attachments": {
+            "media_keys": [
+                "3_1661673859165171712"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-05-25T10:01:35.000Z",
+        "edit_history_tweet_ids": [
+            "1661673860859666433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "AI",
+                    "probability": 0.8696,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Alstom",
+                    "probability": 0.8279,
+                    "start": 132,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 3,
+                    "start": 0,
+                    "tag": "AI"
+                },
+                {
+                    "end": 67,
+                    "start": 56,
+                    "tag": "whitepaper"
+                },
+                {
+                    "end": 110,
+                    "start": 101,
+                    "tag": "mobility"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/qIyH50O0nMc",
+                    "end": 291,
+                    "expanded_url": "http://ow.ly/qIyH50O0nMc",
+                    "start": 268,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/whitepaper-artificial-intelligence-across-alstom",
+                    "url": "https://t.co/RVIxIEqln2"
+                },
+                {
+                    "display_url": "pic.twitter.com/zbL8UyUDdW",
+                    "end": 315,
+                    "expanded_url": "https://twitter.com/Alstom/status/1661673860859666433/photo/1",
+                    "media_key": "3_1661673859165171712",
+                    "start": 292,
+                    "url": "https://t.co/zbL8UyUDdW"
+                }
+            ]
+        },
+        "id": "1661673860859666433",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1821,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "#AI is now widely used across many industries. \n\nIn our #whitepaper, we look at its potential in the #mobility sector &amp; how, at Alstom, we are using it to help improve safety &amp; efficiency &amp; to provide the foundation for more sustainable transportation.\n\n\u25b6\ufe0fhttps://t.co/RVIxIEqln2 https://t.co/zbL8UyUDdW"
+    }
+}

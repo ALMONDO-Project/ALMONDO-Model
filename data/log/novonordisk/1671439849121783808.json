@@ -1,0 +1,53 @@
+{
+    "1671439849121783808": {
+        "author_id": "194037150",
+        "created_at": "2023-06-21T08:48:08.000Z",
+        "edit_history_tweet_ids": [
+            "1671439849121783808"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "James",
+                    "probability": 0.7777,
+                    "start": 13,
+                    "type": "Person"
+                },
+                {
+                    "end": 272,
+                    "normalized_text": "Asif",
+                    "probability": 0.3325,
+                    "start": 269,
+                    "type": "Other"
+                },
+                {
+                    "end": 286,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4313,
+                    "start": 275,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "312824881",
+                    "start": 0,
+                    "username": "Jamezola"
+                }
+            ]
+        },
+        "id": "1671439849121783808",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 72,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Jamezola Hi James, we are sorry to hear that. As your post contains information that we consider an adverse event, we are required to report it to the safety team. Kindly DM your contact details and country of residence so we can proceed with your case.\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

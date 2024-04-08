@@ -1,0 +1,91 @@
+{
+    "1656600040725680128": {
+        "attachments": {
+            "media_keys": [
+                "7_1656554394756808704"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-11T10:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1656600040725680128"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Fastdelivery",
+                    "probability": 0.5741,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "FMCG",
+                    "probability": 0.6971,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5518,
+                    "start": 255,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 4,
+                    "tag": "Fastdelivery"
+                },
+                {
+                    "end": 45,
+                    "start": 40,
+                    "tag": "FMCG"
+                },
+                {
+                    "end": 184,
+                    "start": 179,
+                    "tag": "Lead"
+                },
+                {
+                    "end": 261,
+                    "start": 254,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3VTpTTG",
+                    "end": 251,
+                    "expanded_url": "https://bit.ly/3VTpTTG",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2022/12/28/6-ways-optimise-processed-food-supply-chain-lead-logistics?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_63F745AD74CA9_645BA5C6400B7&utm_term=VOCP&utm_content=EUR_FMCG",
+                    "url": "https://t.co/31qHjCQjtB"
+                },
+                {
+                    "display_url": "pic.twitter.com/WYkrauVmzu",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Maersk/status/1656600040725680128/video/1",
+                    "media_key": "7_1656554394756808704",
+                    "start": 262,
+                    "url": "https://t.co/WYkrauVmzu"
+                }
+            ]
+        },
+        "id": "1656600040725680128",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3749,
+            "like_count": 39,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "\ud83c\udfec\ud83d\ude9a\ud83d\udea2 #Fastdelivery is a top priority for #FMCG processed food companies. Watch our video to learn how to optimise your supply chain with Lead Logistics. For more information about #Lead Logistics read our expert opinion article: https://t.co/31qHjCQjtB \n #Maersk https://t.co/WYkrauVmzu"
+    }
+}

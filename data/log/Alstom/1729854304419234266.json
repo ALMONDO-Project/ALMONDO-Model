@@ -1,0 +1,101 @@
+{
+    "1729854304419234266": {
+        "author_id": "258725128",
+        "created_at": "2023-11-29T13:26:19.000Z",
+        "edit_history_tweet_ids": [
+            "1729854304419234266"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 192,
+                    "normalized_text": "Dubai",
+                    "probability": 0.9895,
+                    "start": 188,
+                    "type": "Place"
+                },
+                {
+                    "end": 282,
+                    "normalized_text": "COP28",
+                    "probability": 0.6177,
+                    "start": 278,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 276,
+                    "start": 259,
+                    "tag": "MobilityByNature"
+                },
+                {
+                    "end": 283,
+                    "start": 277,
+                    "tag": "COP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "1607462747570163719",
+                    "start": 18,
+                    "username": "COP28_UAE"
+                },
+                {
+                    "end": 171,
+                    "id": "278949184",
+                    "start": 167,
+                    "username": "uic"
+                },
+                {
+                    "end": 187,
+                    "id": "17865542",
+                    "start": 173,
+                    "username": "unibirmingham"
+                },
+                {
+                    "end": 214,
+                    "id": "45801315",
+                    "start": 201,
+                    "username": "RolandBerger"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Increasing the amount of rail infrastructure with a strong focus on low-income countries and lower middle-income countries can help avoid substantial carbon emissions through decoupling economic development from transport emissions growth, which will also benefit the entire global community. Investing in sufficient infrastructure to quadruple rail modal share to 8% could allow the avoidance of 1.8 Gt of CO2 by 2050. In the collaborative spirit that brings about transformation, the International Union of",
+                    "display_url": "ow.ly/OtpT50QcpVz",
+                    "end": 257,
+                    "expanded_url": "https://ow.ly/OtpT50QcpVz",
+                    "images": [
+                        {
+                            "height": 1926,
+                            "url": "https://pbs.twimg.com/news_img/1729854313411776512/5jkU-TZi?format=jpg&name=orig",
+                            "width": 2561
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1729854313411776512/5jkU-TZi?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 234,
+                    "status": 200,
+                    "title": "Whitepaper: Bridging the rail finance gap - challenges and opportunities for low- and lower middle-income countries",
+                    "unwound_url": "https://www.alstom.com/whitepaper-bridging-rail-finance-gap-challenges-and-opportunities-low-and-lower-middle-income-countries?utm_source=organic_social&utm_content=twitter&utm_campaign=COP28",
+                    "url": "https://t.co/i5Q9t0aTrT"
+                }
+            ]
+        },
+        "id": "1729854304419234266",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1487,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "As we gear up for @COP28_UAE, explore how investing in 192,000km of rail could be a game-changer for global sustainability with our latest study in collaboration with @uic, @unibirmingham Dubai, &amp; @RolandBerger.\n\nRead the report: https://t.co/i5Q9t0aTrT\n\n#MobilityByNature #COP28"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "1679047473237508097": {
+        "attachments": {
+            "media_keys": [
+                "3_1679047403482099712"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-12T08:38:07.000Z",
+        "edit_history_tweet_ids": [
+            "1679047473237508097"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "AI",
+                    "probability": 0.8602,
+                    "start": 16,
+                    "type": "Organization"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "UK",
+                    "probability": 0.9694,
+                    "start": 47,
+                    "type": "Place"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3739,
+                    "start": 235,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 60,
+                    "start": 50,
+                    "tag": "warehouse"
+                },
+                {
+                    "end": 163,
+                    "start": 153,
+                    "tag": "customers"
+                },
+                {
+                    "end": 241,
+                    "start": 234,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 262,
+                    "start": 242,
+                    "tag": "Integratedlogistics"
+                },
+                {
+                    "end": 275,
+                    "start": 263,
+                    "tag": "Supplychain"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/efrRPPYb",
+                    "end": 233,
+                    "expanded_url": "https://lnkd.in/efrRPPYb",
+                    "start": 210,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/07/12/maersk-deploys-ai-enabled-robotic-solution-in-uk-warehouse",
+                    "url": "https://t.co/VNrhjbeyPL"
+                },
+                {
+                    "display_url": "pic.twitter.com/75BHawMIj2",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1679047473237508097/photo/1",
+                    "media_key": "3_1679047403482099712",
+                    "start": 276,
+                    "url": "https://t.co/75BHawMIj2"
+                }
+            ]
+        },
+        "id": "1679047473237508097",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2615,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83d\udce2Maersk deploys AI enabled robotic solution in UK #warehouse. The flexible system reflects our commitment to optimizing processes and better serving our #customers in rapidly evolving markets.\n\ud83d\udc49Read more here: https://t.co/VNrhjbeyPL\n#Maersk #Integratedlogistics #Supplychain https://t.co/75BHawMIj2"
+    }
+}

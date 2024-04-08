@@ -1,0 +1,94 @@
+{
+    "1664166355883393025": {
+        "attachments": {
+            "media_keys": [
+                "7_1664166254586785792"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-01T07:05:52.000Z",
+        "edit_history_tweet_ids": [
+            "1664166355883393025"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Singapore",
+                    "probability": 0.9834,
+                    "start": 71,
+                    "type": "Place"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "North-South",
+                    "probability": 0.5311,
+                    "start": 129,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Singapore",
+                    "probability": 0.979,
+                    "start": 171,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 60,
+                    "start": 54,
+                    "tag": "metro"
+                },
+                {
+                    "end": 80,
+                    "start": 70,
+                    "tag": "Singapore"
+                },
+                {
+                    "end": 203,
+                    "start": 196,
+                    "tag": "design"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 170,
+                    "id": "68321763",
+                    "start": 164,
+                    "username": "LTAsg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/1u6m50OBur3",
+                    "end": 266,
+                    "expanded_url": "http://ow.ly/1u6m50OBur3",
+                    "start": 243,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/6/alstom-reveals-first-new-trains-north-south-east-west-lines-singapore",
+                    "url": "https://t.co/3ei4B62BVm"
+                },
+                {
+                    "display_url": "pic.twitter.com/3HkyOq7Rx8",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/Alstom/status/1664166355883393025/video/1",
+                    "media_key": "7_1664166254586785792",
+                    "start": 267,
+                    "url": "https://t.co/3HkyOq7Rx8"
+                }
+            ]
+        },
+        "id": "1664166355883393025",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2559,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We're proud to announce we have a new addition to the #metro fleet in #Singapore. We are currently delivering new trains for the North-South and East-West Lines to @LTAsg Singapore. The 1st train #design was revealed this morning. Learn more: https://t.co/3ei4B62BVm https://t.co/3HkyOq7Rx8"
+    }
+}

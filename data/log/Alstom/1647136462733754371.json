@@ -1,0 +1,98 @@
+{
+    "1647136462733754371": {
+        "attachments": {
+            "media_keys": [
+                "3_1647136460993187841"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-15T07:15:09.000Z",
+        "edit_history_tweet_ids": [
+            "1647136462733754371"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "DYK Alstom",
+                    "probability": 0.4537,
+                    "start": 1,
+                    "type": "Person"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "HM23",
+                    "probability": 0.4978,
+                    "start": 261,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 22,
+                    "start": 14,
+                    "tag": "digital"
+                },
+                {
+                    "end": 265,
+                    "start": 260,
+                    "tag": "HM23"
+                },
+                {
+                    "end": 282,
+                    "start": 266,
+                    "tag": "digitalmobility"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 188,
+                    "id": "14109159",
+                    "start": 178,
+                    "username": "Capgemini"
+                },
+                {
+                    "end": 231,
+                    "id": "23083866",
+                    "start": 216,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/QL1750NJQhS",
+                    "end": 259,
+                    "expanded_url": "http://ow.ly/QL1750NJQhS",
+                    "start": 236,
+                    "status": 200,
+                    "unwound_url": "https://www.capgemini.com/news/events/hannover-messe-23/",
+                    "url": "https://t.co/ZI7EuxBISI"
+                },
+                {
+                    "display_url": "pic.twitter.com/Zbxrn0qgt9",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Alstom/status/1647136462733754371/photo/1",
+                    "media_key": "3_1647136460993187841",
+                    "start": 283,
+                    "url": "https://t.co/Zbxrn0qgt9"
+                }
+            ]
+        },
+        "id": "1647136462733754371",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2405,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#DYK Alstom's #digital journey started already 15 years ago? \nLearn about our foundations for data-centric products &amp; how we support our customers' multiple digital journeys @Capgemini Intelligent industry talks @hannover_messe \n\n\u25b6\ufe0fhttps://t.co/ZI7EuxBISI\n#HM23 #digitalmobility https://t.co/Zbxrn0qgt9"
+    }
+}

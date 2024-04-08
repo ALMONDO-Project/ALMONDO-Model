@@ -1,0 +1,67 @@
+{
+    "1656283941089812482": {
+        "attachments": {
+            "media_keys": [
+                "7_1656283833044533250"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-05-10T13:03:58.000Z",
+        "edit_history_tweet_ids": [
+            "1656283941089812482"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.6716,
+                    "start": 43,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 53,
+                    "start": 42,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 126,
+                    "start": 109,
+                    "tag": "MobilityByNature"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "alstom.com/company/key-fi\u2026",
+                    "end": 107,
+                    "expanded_url": "https://www.alstom.com/company/key-figures-202223",
+                    "start": 84,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/company/key-figures-202223",
+                    "url": "https://t.co/jfxqUgYdzu"
+                },
+                {
+                    "display_url": "pic.twitter.com/1H9UMcCAlX",
+                    "end": 150,
+                    "expanded_url": "https://twitter.com/Alstom/status/1656283941089812482/video/1",
+                    "media_key": "7_1656283833044533250",
+                    "start": 127,
+                    "url": "https://t.co/1H9UMcCAlX"
+                }
+            ]
+        },
+        "id": "1656283941089812482",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4829,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 14
+        },
+        "text": "Take a look at our favourite moments with #TeamAlstom from 2022/23 \ud83d\ude85\ud83c\udf0d \n\nLearn more: https://t.co/jfxqUgYdzu\n\n#MobilityByNature https://t.co/1H9UMcCAlX"
+    }
+}

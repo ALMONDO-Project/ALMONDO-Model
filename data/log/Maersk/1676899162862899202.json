@@ -1,0 +1,103 @@
+{
+    "1676899162862899202": {
+        "attachments": {
+            "media_keys": [
+                "3_1676899058122719232",
+                "3_1676899058332446720"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-06T10:21:30.000Z",
+        "edit_history_tweet_ids": [
+            "1676899162862899202"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Maersk Herrera",
+                    "probability": 0.5762,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "Rajan Gupta",
+                    "probability": 0.5911,
+                    "start": 122,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Instagram",
+                    "probability": 0.8957,
+                    "start": 135,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "_rajann",
+                    "probability": 0.8221,
+                    "start": 149,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 197,
+                    "start": 187,
+                    "tag": "LifeAtSea"
+                },
+                {
+                    "end": 206,
+                    "start": 198,
+                    "tag": "Drydock"
+                },
+                {
+                    "end": 220,
+                    "start": 207,
+                    "tag": "Maintainance"
+                },
+                {
+                    "end": 230,
+                    "start": 221,
+                    "tag": "Makeover"
+                },
+                {
+                    "end": 238,
+                    "start": 231,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/W4Isznr8aZ",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/Maersk/status/1676899162862899202/photo/1",
+                    "media_key": "3_1676899058122719232",
+                    "start": 239,
+                    "url": "https://t.co/W4Isznr8aZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/W4Isznr8aZ",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/Maersk/status/1676899162862899202/photo/1",
+                    "media_key": "3_1676899058332446720",
+                    "start": 239,
+                    "url": "https://t.co/W4Isznr8aZ"
+                }
+            ]
+        },
+        "id": "1676899162862899202",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4389,
+            "like_count": 67,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 11
+        },
+        "text": "Maersk Herrera is getting glammed up at drydock\ud83d\udea2\ud83d\udc85\ud83c\udffc Ready to serve our customers out at sea\ud83c\udf0a\nThank you to our 2nd Engineer Rajan Gupta (Instagram: itz_rajann) for capturing this makeover\ud83d\udcf8\n#LifeAtSea #Drydock #Maintainance #Makeover #Maersk https://t.co/W4Isznr8aZ"
+    }
+}

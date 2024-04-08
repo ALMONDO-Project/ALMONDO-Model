@@ -1,0 +1,46 @@
+{
+    "1722715279652782223": {
+        "author_id": "194037150",
+        "created_at": "2023-11-09T20:38:23.000Z",
+        "edit_history_tweet_ids": [
+            "1722715279652782223"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Denise",
+                    "probability": 0.7476,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "U.S.",
+                    "probability": 0.9389,
+                    "start": 104,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "313139272",
+                    "start": 0,
+                    "username": "pumascloset"
+                }
+            ]
+        },
+        "id": "1722715279652782223",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 29,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@pumascloset Hi Denise, we\u2019re sorry for any delay or disruption to you or your loved one\u2019s care. In the U.S., we continue to see strong interest for this medicine. While we are actively producing and shipping all dose strengths, demand continues to outpace our increasing production.\u00a0 (1/4)"
+    }
+}

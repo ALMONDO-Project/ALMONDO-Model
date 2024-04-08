@@ -1,0 +1,98 @@
+{
+    "1705184925173854478": {
+        "attachments": {
+            "media_keys": [
+                "3_1705184921851920384"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-09-22T11:39:01.000Z",
+        "edit_history_tweet_ids": [
+            "1705184925173854478"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "Gunther Rothermel",
+                    "probability": 0.7264,
+                    "start": 119,
+                    "type": "Person"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Sophia Mendelsohn",
+                    "probability": 0.7931,
+                    "start": 141,
+                    "type": "Person"
+                },
+                {
+                    "end": 196,
+                    "normalized_text": "UNGA78",
+                    "probability": 0.4784,
+                    "start": 191,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 197,
+                    "start": 190,
+                    "tag": "UNGA78"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 189,
+                    "id": "5120691",
+                    "start": 185,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "By treating carbon emissions as a resource and accounting for the costs associated with producing carbon, organizations can better manage climate finance. #SDIM23",
+                    "display_url": "sap.to/6012PhDZq",
+                    "end": 183,
+                    "expanded_url": "https://sap.to/6012PhDZq",
+                    "images": [
+                        {
+                            "height": 533,
+                            "url": "https://pbs.twimg.com/news_img/1717180472239763457/8U8c7AcJ?format=jpg&name=orig",
+                            "width": 800
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1717180472239763457/8U8c7AcJ?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 160,
+                    "status": 200,
+                    "title": "Finance and data analysts can become key enables for a sustainable future - here's how",
+                    "unwound_url": "https://www.weforum.org/agenda/2023/09/discover-the-unsung-climate-heroes-the-finance-and-data-analysts-who-help-shape-a-more-sustainable-future/",
+                    "url": "https://t.co/uvhUTfGfDA"
+                },
+                {
+                    "display_url": "pic.twitter.com/OPFwJcpuv4",
+                    "end": 221,
+                    "expanded_url": "https://twitter.com/SAP/status/1705184925173854478/photo/1",
+                    "media_key": "3_1705184921851920384",
+                    "start": 198,
+                    "url": "https://t.co/OPFwJcpuv4"
+                }
+            ]
+        },
+        "id": "1705184925173854478",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3928,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Harnessing the expertise of finance professionals and data analysts is key to a sustainable future.\n\nHear from our own Gunther Rothermel and Sophia Mendelsohn: https://t.co/uvhUTfGfDA\n\n@wef #UNGA78 https://t.co/OPFwJcpuv4"
+    }
+}

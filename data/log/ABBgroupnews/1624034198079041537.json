@@ -1,0 +1,79 @@
+{
+    "1624034198079041537": {
+        "attachments": {
+            "media_keys": [
+                "13_1624028047388311553"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-02-10T13:15:00.000Z",
+        "edit_history_tweet_ids": [
+            "1624034198079041537"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 173,
+                    "normalized_text": "Andreas Moglestue",
+                    "probability": 0.9436,
+                    "start": 157,
+                    "type": "Person"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "ABB",
+                    "probability": 0.5446,
+                    "start": 197,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 196,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 236,
+                    "start": 228,
+                    "tag": "podcast"
+                },
+                {
+                    "end": 274,
+                    "start": 263,
+                    "tag": "didyouknow"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/decoded-podcas\u2026",
+                    "end": 262,
+                    "expanded_url": "https://social.abb/decoded-podcast-platform",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/media/podcasts/abb-decoded?_ga=2.133469134.1912055705.1618210361-39147843.1606897664",
+                    "url": "https://t.co/9rJWPJiqEa"
+                },
+                {
+                    "display_url": "pic.twitter.com/o0YNhfNwMC",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1624034198079041537/video/1",
+                    "media_key": "13_1624028047388311553",
+                    "start": 275,
+                    "url": "https://t.co/o0YNhfNwMC"
+                }
+            ]
+        },
+        "id": "1624034198079041537",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1856,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\"Corporate journals didn't come into vogue until the beginning of the 20th century when companies started to advertise their services and capabilities...\" - Andreas Moglestue, Chief Editor of the #ABB Review.\nListen to the full #podcast \ud83d\udc49 https://t.co/9rJWPJiqEa\n#didyouknow https://t.co/o0YNhfNwMC"
+    }
+}

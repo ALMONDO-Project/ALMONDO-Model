@@ -1,0 +1,88 @@
+{
+    "1676955238014779393": {
+        "author_id": "258725128",
+        "created_at": "2023-07-06T14:04:19.000Z",
+        "edit_history_tweet_ids": [
+            "1676955238014779393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6189,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Italo",
+                    "probability": 0.6863,
+                    "start": 165,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 16,
+                    "tag": "highspeed"
+                },
+                {
+                    "end": 45,
+                    "start": 33,
+                    "tag": "maintenance"
+                },
+                {
+                    "end": 63,
+                    "start": 54,
+                    "tag": "customer"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 75,
+                    "id": "130106305",
+                    "start": 64,
+                    "username": "ItaloTreno"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Alstom provides high-speed train maintenance for its customer Italo. The scope of the high-speed train maintenance project is for Italo to give the best expe...",
+                    "display_url": "youtu.be/i-WCxCxEoAM",
+                    "end": 197,
+                    "expanded_url": "https://youtu.be/i-WCxCxEoAM",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1770012395202650112/8OFf2IiK?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1770012395202650112/8OFf2IiK?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 174,
+                    "status": 200,
+                    "title": "Customer Interview: Italo",
+                    "unwound_url": "https://www.youtube.com/watch?v=i-WCxCxEoAM&feature=youtu.be",
+                    "url": "https://t.co/2jMCG9yTYt"
+                }
+            ]
+        },
+        "id": "1676955238014779393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1737,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Alstom provides #highspeed train #maintenance for its #customer @ItaloTreno. \n\nWatch the customer interview to learn more about the project and our partnership with Italo: \ud83d\udc47 https://t.co/2jMCG9yTYt"
+    }
+}

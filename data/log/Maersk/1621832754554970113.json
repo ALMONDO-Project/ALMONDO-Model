@@ -1,0 +1,127 @@
+{
+    "1621832754554970113": {
+        "attachments": {
+            "media_keys": [
+                "7_1621832700993617921"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-04T11:27:15.000Z",
+        "edit_history_tweet_ids": [
+            "1621832754554970113"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Madrid",
+                    "probability": 0.9233,
+                    "start": 34,
+                    "type": "Place"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7147,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Suez Canal",
+                    "probability": 0.4641,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Suez Canal",
+                    "probability": 0.6249,
+                    "start": 91,
+                    "type": "Place"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Mediterranean Sea",
+                    "probability": 0.671,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Red Sea",
+                    "probability": 0.646,
+                    "start": 140,
+                    "type": "Place"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "Asia",
+                    "probability": 0.9484,
+                    "start": 191,
+                    "type": "Place"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "Michael Schindler",
+                    "probability": 0.6486,
+                    "start": 219,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 41,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 71,
+                    "start": 66,
+                    "tag": "Suez"
+                },
+                {
+                    "end": 181,
+                    "start": 172,
+                    "tag": "maritime"
+                },
+                {
+                    "end": 249,
+                    "start": 239,
+                    "tag": "lifeatsea"
+                },
+                {
+                    "end": 257,
+                    "start": 250,
+                    "tag": "vessel"
+                },
+                {
+                    "end": 264,
+                    "start": 258,
+                    "tag": "ocean"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/6tQItBYUjG",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Maersk/status/1621832754554970113/video/1",
+                    "media_key": "7_1621832700993617921",
+                    "start": 265,
+                    "url": "https://t.co/6tQItBYUjG"
+                }
+            ]
+        },
+        "id": "1621832754554970113",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11509,
+            "like_count": 136,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 24
+        },
+        "text": "So close you can almost touch it! Madrid #Maersk passes under the #Suez Canal Bridge\ud83d\udea2\n\nThe Suez Canal connects the Mediterranean Sea to the Red Sea, making it the shortest #maritime route to Asia from Europe\ud83c\udf0d\n\n\ud83c\udfac by CPT Michael Schindler \n\n#lifeatsea #vessel #ocean https://t.co/6tQItBYUjG"
+    }
+}

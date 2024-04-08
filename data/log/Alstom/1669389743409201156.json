@@ -1,0 +1,128 @@
+{
+    "1669389743409201156": {
+        "attachments": {
+            "media_keys": [
+                "7_1669389672575795217"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-15T17:01:45.000Z",
+        "edit_history_tweet_ids": [
+            "1669389743409201156"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5551,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Bruno Gutierres",
+                    "probability": 0.533,
+                    "start": 64,
+                    "type": "Person"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "AI",
+                    "probability": 0.7586,
+                    "start": 149,
+                    "type": "Organization"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "DYK",
+                    "probability": 0.4466,
+                    "start": 154,
+                    "type": "Organization"
+                },
+                {
+                    "end": 279,
+                    "normalized_text": "VivaTech",
+                    "probability": 0.3364,
+                    "start": 272,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 31,
+                    "start": 20,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 124,
+                    "start": 113,
+                    "tag": "automation"
+                },
+                {
+                    "end": 140,
+                    "start": 126,
+                    "tag": "cybersecurity"
+                },
+                {
+                    "end": 151,
+                    "start": 148,
+                    "tag": "AI"
+                },
+                {
+                    "end": 157,
+                    "start": 153,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 190,
+                    "start": 178,
+                    "tag": "maintenance"
+                },
+                {
+                    "end": 280,
+                    "start": 271,
+                    "tag": "VivaTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "4502885068",
+                    "start": 32,
+                    "username": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/Nk1k50OPF8b",
+                    "end": 269,
+                    "expanded_url": "https://ow.ly/Nk1k50OPF8b",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-viva-technology-2023?utm_source=organic_social&utm_medium=twitter&utm_content=c98d8d85-2d89-477e-91c6-5eda1a883142&utm_campaign=VivaTech",
+                    "url": "https://t.co/cP0X6XXPfa"
+                },
+                {
+                    "display_url": "pic.twitter.com/gSmzfh8I6M",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Alstom/status/1669389743409201156/video/1",
+                    "media_key": "7_1669389672575795217",
+                    "start": 281,
+                    "url": "https://t.co/gSmzfh8I6M"
+                }
+            ]
+        },
+        "id": "1669389743409201156",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2107,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Fantastic day 2 for #TeamAlstom @VivaTech ! \n\nWe caught up with Bruno Gutierres, our Open Innovation Director on #automation, #cybersecurity, &amp; #AI.\n#DYK that kAI, our smart #maintenance robot was born in an in-house innovation project?  \n\n\ud83d\udca1 https://t.co/cP0X6XXPfa\n\n#VivaTech https://t.co/gSmzfh8I6M"
+    }
+}

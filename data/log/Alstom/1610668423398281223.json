@@ -1,0 +1,92 @@
+{
+    "1610668423398281223": {
+        "attachments": {
+            "media_keys": [
+                "3_1610668419682078727"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-01-04T16:04:11.000Z",
+        "edit_history_tweet_ids": [
+            "1610668423398281223"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "DYK",
+                    "probability": 0.4262,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 10,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6631,
+                    "start": 5,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 4,
+                    "start": 0,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 51,
+                    "start": 39,
+                    "tag": "sustainable"
+                },
+                {
+                    "end": 61,
+                    "start": 52,
+                    "tag": "mobility"
+                },
+                {
+                    "end": 127,
+                    "start": 118,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 179,
+                    "start": 164,
+                    "tag": "greentransport"
+                },
+                {
+                    "end": 276,
+                    "start": 265,
+                    "tag": "components"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/wLBU50MinwZ",
+                    "end": 264,
+                    "expanded_url": "http://ow.ly/wLBU50MinwZ",
+                    "start": 241,
+                    "url": "https://t.co/5UDTuEuZ7H"
+                },
+                {
+                    "display_url": "pic.twitter.com/tEmhHTzsFd",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Alstom/status/1610668423398281223/photo/1",
+                    "media_key": "3_1610668419682078727",
+                    "start": 277,
+                    "url": "https://t.co/tEmhHTzsFd"
+                }
+            ]
+        },
+        "id": "1610668423398281223",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3679,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "#DYK Alstom leads the industry towards #sustainable #mobility? Thanks to over 20 years of our unrivalled expertise in #hydrogen &amp; battery technologies, we make #greentransport a reality for thousands of passengers worldwide. Learn more: https://t.co/5UDTuEuZ7H #components https://t.co/tEmhHTzsFd"
+    }
+}

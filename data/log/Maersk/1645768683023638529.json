@@ -1,0 +1,92 @@
+{
+    "1645768683023638529": {
+        "attachments": {
+            "media_keys": [
+                "3_1645768548839567360"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-11T12:40:05.000Z",
+        "edit_history_tweet_ids": [
+            "1645768683023638529"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Ricardo",
+                    "probability": 0.6388,
+                    "start": 83,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Ricardo",
+                    "probability": 0.6336,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 164,
+                    "start": 154,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 252,
+                    "start": 244,
+                    "tag": "Purpose"
+                },
+                {
+                    "end": 263,
+                    "start": 253,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 277,
+                    "start": 264,
+                    "tag": "Supplychains"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "380801406",
+                    "start": 12,
+                    "username": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eD_a5Wm7",
+                    "end": 242,
+                    "expanded_url": "https://lnkd.in/eD_a5Wm7",
+                    "start": 219,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/11/working-for-maersk-is-working-for-a-bigger-purpose",
+                    "url": "https://t.co/4oz9U8ZR7Q"
+                },
+                {
+                    "display_url": "pic.twitter.com/SDQOgZS3Im",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1645768683023638529/photo/1",
+                    "media_key": "3_1645768548839567360",
+                    "start": 278,
+                    "url": "https://t.co/SDQOgZS3Im"
+                }
+            ]
+        },
+        "id": "1645768683023638529",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7939,
+            "like_count": 58,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "Working for @Maersk means working for a bigger purpose\u2b50\nWe had a conversation with Ricardo about challenging the status quo and prepare for the future of #logistics.\n\ud83d\udc49Read the insightful conversation with Ricardo here: https://t.co/4oz9U8ZR7Q\n\n#Purpose #Logistics #Supplychains https://t.co/SDQOgZS3Im"
+    }
+}

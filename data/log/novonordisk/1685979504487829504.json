@@ -1,0 +1,85 @@
+{
+    "1685979504487829504": {
+        "author_id": "194037150",
+        "created_at": "2023-07-31T11:43:32.000Z",
+        "edit_history_tweet_ids": [
+            "1685979504487829504"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Stephen",
+                    "probability": 0.7745,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5835,
+                    "start": 191,
+                    "type": "Organization"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "Asif",
+                    "probability": 0.5949,
+                    "start": 255,
+                    "type": "Organization"
+                },
+                {
+                    "end": 272,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5685,
+                    "start": 261,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1386986999911956485",
+                    "start": 0,
+                    "username": "Stephen27784350"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact detail for all Novo Nordisk offices, research centres and production facilities.",
+                    "display_url": "novonordisk.com/contact-us/fin\u2026",
+                    "end": 240,
+                    "expanded_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 217,
+                    "status": 200,
+                    "title": "Find local information",
+                    "unwound_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "url": "https://t.co/gbKMu3Xnb4"
+                }
+            ]
+        },
+        "id": "1685979504487829504",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 45,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Stephen27784350 Hi Stephen, we are sorry to hear that you are not able to access the product you need. For questions about local availability of our products, please reach out to your local Novo Nordisk office here: https://t.co/gbKMu3Xnb4\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

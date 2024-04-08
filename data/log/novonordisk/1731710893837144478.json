@@ -1,0 +1,64 @@
+{
+    "1731710893837144478": {
+        "author_id": "194037150",
+        "created_at": "2023-12-04T16:23:45.000Z",
+        "edit_history_tweet_ids": [
+            "1731710893837144478"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 237,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5382,
+                    "start": 226,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1239462855264686080",
+                    "start": 0,
+                    "username": "ChristoMuller73"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Contact detail for all Novo Nordisk offices, research centres and production facilities.",
+                    "display_url": "novonordisk.com/contact-us/fin\u2026",
+                    "end": 275,
+                    "expanded_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1770661127757664259/4NYfqAPb?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 252,
+                    "status": 200,
+                    "title": "Find local information",
+                    "unwound_url": "https://www.novonordisk.com/contact-us/find-local-information.html",
+                    "url": "https://t.co/gbKMu3Xnb4"
+                }
+            ]
+        },
+        "id": "1731710893837144478",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 188,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ChristoMuller73 Thank you for reaching out. Unfortunately, due to regulatory constraints, we are unable to provide specific information about product availability directly via social media. However, please contact your local Novo Nordisk office here: https://t.co/gbKMu3Xnb4"
+    }
+}

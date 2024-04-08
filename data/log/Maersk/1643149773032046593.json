@@ -1,0 +1,107 @@
+{
+    "1643149773032046593": {
+        "attachments": {
+            "media_keys": [
+                "3_1643149727301529602"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-04T07:13:28.000Z",
+        "edit_history_tweet_ids": [
+            "1643149773032046593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "US",
+                    "probability": 0.9229,
+                    "start": 21,
+                    "type": "Place"
+                },
+                {
+                    "end": 28,
+                    "normalized_text": "China",
+                    "probability": 0.9612,
+                    "start": 24,
+                    "type": "Place"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "United States",
+                    "probability": 0.9059,
+                    "start": 182,
+                    "type": "Place"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "China",
+                    "probability": 0.9924,
+                    "start": 199,
+                    "type": "Place"
+                },
+                {
+                    "end": 251,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7326,
+                    "start": 246,
+                    "type": "Place"
+                },
+                {
+                    "end": 267,
+                    "normalized_text": "Maerskaircargo",
+                    "probability": 0.8431,
+                    "start": 254,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 252,
+                    "start": 245,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 268,
+                    "start": 253,
+                    "tag": "Maerskaircargo"
+                },
+                {
+                    "end": 279,
+                    "start": 269,
+                    "tag": "Logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/e87BE5N9",
+                    "end": 244,
+                    "expanded_url": "https://lnkd.in/e87BE5N9",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/04/maersk-launches-new-us-china-air-cargo-link",
+                    "url": "https://t.co/1BLa3Oxpt5"
+                },
+                {
+                    "display_url": "pic.twitter.com/RJ8Wm9Onqo",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1643149773032046593/photo/1",
+                    "media_key": "3_1643149727301529602",
+                    "start": 280,
+                    "url": "https://t.co/RJ8Wm9Onqo"
+                }
+            ]
+        },
+        "id": "1643149773032046593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8094,
+            "like_count": 106,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 14
+        },
+        "text": "We are launching new US-China air cargo link\u2708\nIn an effort to meet customers end-to-end logistics needs, we are introducing two new air freight services with regular flights linking United States to China\nRead more here:\u00a0https://t.co/1BLa3Oxpt5\n#Maersk #Maerskaircargo #Logistics https://t.co/RJ8Wm9Onqo"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "1724079676488859833": {
+        "attachments": {
+            "media_keys": [
+                "3_1724079674429435904"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-13T15:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1724079676488859833"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "DesignEngineers",
+                    "probability": 0.6276,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "SF6",
+                    "probability": 0.526,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 53,
+                    "start": 37,
+                    "tag": "DesignEngineers"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Join our webinar and learn how SF6-free alternatives drive decarbonisation",
+                    "display_url": "spr.ly/6019uS3Qt",
+                    "end": 240,
+                    "expanded_url": "http://spr.ly/6019uS3Qt",
+                    "images": [
+                        {
+                            "height": 1500,
+                            "url": "https://pbs.twimg.com/news_img/1724079682713178112/QT-PvKfo?format=jpg&name=orig",
+                            "width": 1500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1724079682713178112/QT-PvKfo?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 217,
+                    "status": 200,
+                    "title": "SF6-free alernatives drives decarbonisation",
+                    "unwound_url": "https://go.schneider-electric.com/WW_202309_IET-SF6-Free-Alternatives_OnDemand_ER-LP.html?source=Webinar&sDetail=IET-SF6-Free-Alternatives_WW?utm_source=SE&utm_medium=SoMe&utm_campaign=S&R_SF6Webinar_2023",
+                    "url": "https://t.co/wIEGRYdIYw"
+                },
+                {
+                    "display_url": "pic.twitter.com/SD3bsXM7zd",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1724079676488859833/photo/1",
+                    "media_key": "3_1724079674429435904",
+                    "start": 241,
+                    "url": "https://t.co/SD3bsXM7zd"
+                }
+            ]
+        },
+        "id": "1724079676488859833",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1184,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Have you missed our live webinar for #DesignEngineers? Access it on-demand to learn how an SF6-free approach for medium-voltage offerings can improve decarbonization and energy efficiency for your clients, watch now: https://t.co/wIEGRYdIYw https://t.co/SD3bsXM7zd"
+    }
+}

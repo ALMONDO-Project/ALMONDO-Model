@@ -1,0 +1,86 @@
+{
+    "1730630918195298695": {
+        "attachments": {
+            "media_keys": [
+                "13_1730630854123081728"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-12-01T16:52:19.000Z",
+        "edit_history_tweet_ids": [
+            "1730630918195298695"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 242,
+                    "normalized_text": "COP28",
+                    "probability": 0.9113,
+                    "start": 238,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 237,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 258,
+                    "start": 244,
+                    "tag": "ClimateAction"
+                },
+                {
+                    "end": 276,
+                    "start": 259,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A huge number of Danfoss drives secure comfortable temperatures and cut down energy use inside Chile\u2019s famous Costanera Center.",
+                    "display_url": "bit.ly/3Nw0QDt",
+                    "end": 234,
+                    "expanded_url": "https://bit.ly/3Nw0QDt",
+                    "images": [
+                        {
+                            "height": 747,
+                            "url": "https://pbs.twimg.com/news_img/1730630928165216256/DaahmOm2?format=jpg&name=orig",
+                            "width": 1120
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1730630928165216256/DaahmOm2?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 211,
+                    "status": 200,
+                    "title": "Drives secure fresh air inside South America\u2019s tallest building",
+                    "unwound_url": "https://www.danfoss.com/en/service-and-support/case-stories/cf/drives-secure-fresh-air-inside-south-america-s-tallest-building/",
+                    "url": "https://t.co/NsT5IdLpZl"
+                },
+                {
+                    "display_url": "pic.twitter.com/msJN2pCzsl",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1730630918195298695/video/1",
+                    "media_key": "13_1730630854123081728",
+                    "start": 277,
+                    "url": "https://t.co/msJN2pCzsl"
+                }
+            ]
+        },
+        "id": "1730630918195298695",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 434,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Cooling is a necessity, not a luxury as demand for cooling could triple by 2050. We can meet the increased demand, but it\u2019s critical to save energy, and cost and reduce emissions at the same time. \n\nLearn more: https://t.co/NsT5IdLpZl \n\n#COP28 #ClimateAction #EnergyEfficiency https://t.co/msJN2pCzsl"
+    }
+}

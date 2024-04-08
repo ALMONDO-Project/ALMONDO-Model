@@ -1,0 +1,93 @@
+{
+    "1647940494192787457": {
+        "attachments": {
+            "media_keys": [
+                "3_1647940261933187075",
+                "3_1647940261929005056"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-04-17T12:30:05.000Z",
+        "edit_history_tweet_ids": [
+            "1647940494192787457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 112,
+                    "normalized_text": "handball",
+                    "probability": 0.7827,
+                    "start": 105,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Germany",
+                    "probability": 0.9556,
+                    "start": 216,
+                    "type": "Place"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "German",
+                    "probability": 0.5237,
+                    "start": 238,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 113,
+                    "start": 104,
+                    "tag": "handball"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 135,
+                    "id": "1071178296",
+                    "start": 121,
+                    "username": "liquimoly_hbl"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "danfoss.com/de-de/about-da\u2026",
+                    "end": 269,
+                    "expanded_url": "https://www.danfoss.com/de-de/about-danfoss/news/cf/danfoss-supports-the-transformation-process-in-professional-handball-as-a-sustainability-partner/",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.danfoss.com/de-de/about-danfoss/news/cf/danfoss-supports-the-transformation-process-in-professional-handball-as-a-sustainability-partner/",
+                    "url": "https://t.co/D0yGwg7ccP"
+                },
+                {
+                    "display_url": "pic.twitter.com/vT9grmd5BX",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1647940494192787457/photo/1",
+                    "media_key": "3_1647940261933187075",
+                    "start": 270,
+                    "url": "https://t.co/vT9grmd5BX"
+                },
+                {
+                    "display_url": "pic.twitter.com/vT9grmd5BX",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1647940494192787457/photo/1",
+                    "media_key": "3_1647940261929005056",
+                    "start": 270,
+                    "url": "https://t.co/vT9grmd5BX"
+                }
+            ]
+        },
+        "id": "1647940494192787457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1130,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We're pleased to announce that we're the official sustainability partner of the top German professional #handball league @liquimoly_hbl. Through the partnership, we support transformation in professional handball in Germany. Read more in German: https://t.co/D0yGwg7ccP https://t.co/vT9grmd5BX"
+    }
+}

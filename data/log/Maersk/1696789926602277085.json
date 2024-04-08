@@ -1,0 +1,72 @@
+{
+    "1696789926602277085": {
+        "author_id": "380801406",
+        "created_at": "2023-08-30T07:40:17.000Z",
+        "edit_history_tweet_ids": [
+            "1696789926602277085"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 109,
+                    "normalized_text": "maersk",
+                    "probability": 0.3156,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.4215,
+                    "start": 112,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 110,
+                    "start": 103,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 127,
+                    "start": 111,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 144,
+                    "start": 128,
+                    "tag": "decarbonisation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 102,
+                    "id": "39569679",
+                    "start": 86,
+                    "username": "PortOfRotterdam"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/Reuters/status\u2026",
+                    "end": 187,
+                    "expanded_url": "https://twitter.com/Reuters/status/1696520708887843045",
+                    "start": 164,
+                    "url": "https://t.co/n5qJeYgO0j"
+                }
+            ]
+        },
+        "id": "1696789926602277085",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2477,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "\ud83d\udef3The industry firsts continue for our green methanol vessel\ud83d\udd0bwith a refuelling stop at @PortOfRotterdam #maersk #allthewaytozero #decarbonisation  Learn more here \ud83d\udc47 https://t.co/n5qJeYgO0j"
+    }
+}

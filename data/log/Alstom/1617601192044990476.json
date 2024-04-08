@@ -1,0 +1,75 @@
+{
+    "1617601192044990476": {
+        "attachments": {
+            "media_keys": [
+                "7_1617601101984894985"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-01-23T19:12:32.000Z",
+        "edit_history_tweet_ids": [
+            "1617601192044990476"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 137,
+                    "normalized_text": "Ferroviaires",
+                    "probability": 0.3351,
+                    "start": 126,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Petite-For\u00eat",
+                    "probability": 0.5397,
+                    "start": 148,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 35,
+                    "tag": "railway"
+                },
+                {
+                    "end": 102,
+                    "start": 86,
+                    "tag": "climaticchamber"
+                },
+                {
+                    "end": 264,
+                    "start": 249,
+                    "tag": "RailwayTesting"
+                },
+                {
+                    "end": 276,
+                    "start": 265,
+                    "tag": "Innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/uiHcFjbFys",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Alstom/status/1617601192044990476/video/1",
+                    "media_key": "7_1617601101984894985",
+                    "start": 277,
+                    "url": "https://t.co/uiHcFjbFys"
+                }
+            ]
+        },
+        "id": "1617601192044990476",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 10710,
+            "like_count": 79,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 16
+        },
+        "text": "\ud83c\udf21\ufe0f\ud83d\ude84 \u2744\ufe0fExciting news for the French #railway industry! Last week, we inaugurated a new #climaticchamber at the Centre d'Essais Ferroviaires (CEF) in Petite-For\u00eat.\n\nIt will test trains in extreme temperatures (70\u00baC to -45\u00baC), humidity &amp; sunlight. #RailwayTesting #Innovation https://t.co/uiHcFjbFys"
+    }
+}

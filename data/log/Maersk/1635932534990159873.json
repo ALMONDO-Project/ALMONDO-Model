@@ -1,0 +1,119 @@
+{
+    "1635932534990159873": {
+        "attachments": {
+            "media_keys": [
+                "7_1635932353821388801"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-15T09:14:45.000Z",
+        "edit_history_tweet_ids": [
+            "1635932534990159873"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "AI",
+                    "probability": 0.8001,
+                    "start": 47,
+                    "type": "Organization"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "ChatGPT",
+                    "probability": 0.8279,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "AI",
+                    "probability": 0.6951,
+                    "start": 182,
+                    "type": "Organization"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "ChatGPT",
+                    "probability": 0.5736,
+                    "start": 186,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3503,
+                    "start": 250,
+                    "type": "Other"
+                },
+                {
+                    "end": 259,
+                    "normalized_text": "AI",
+                    "probability": 0.4978,
+                    "start": 258,
+                    "type": "Organization"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "openai",
+                    "probability": 0.5289,
+                    "start": 271,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 256,
+                    "start": 249,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 260,
+                    "start": 257,
+                    "tag": "AI"
+                },
+                {
+                    "end": 269,
+                    "start": 261,
+                    "tag": "ChatGBT"
+                },
+                {
+                    "end": 277,
+                    "start": 270,
+                    "tag": "openai"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 248,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/03/14/the-ai-chatbot-chatgpt-is-a-game-changer",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/03/14/the-ai-chatbot-chatgpt-is-a-game-changer",
+                    "url": "https://t.co/J4YeFiUCh3"
+                },
+                {
+                    "display_url": "pic.twitter.com/OUr5pgOwrG",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1635932534990159873/video/1",
+                    "media_key": "7_1635932353821388801",
+                    "start": 278,
+                    "url": "https://t.co/OUr5pgOwrG"
+                }
+            ]
+        },
+        "id": "1635932534990159873",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3616,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "We are investigating ways to use and invest in AI technology like ChatGPT to help improve lives for all responsibly\ud83c\udf0d \nLearn more about the topic, the up and downside, our Generative AI (ChatGPT) policy and what is next here \ud83d\udc49https://t.co/J4YeFiUCh3\n#Maersk #AI #ChatGBT #openai https://t.co/OUr5pgOwrG"
+    }
+}

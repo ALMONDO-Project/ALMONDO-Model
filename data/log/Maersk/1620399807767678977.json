@@ -1,0 +1,75 @@
+{
+    "1620399807767678977": {
+        "attachments": {
+            "media_keys": [
+                "7_1620399463159185408"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-31T12:33:14.000Z",
+        "edit_history_tweet_ids": [
+            "1620399807767678977"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 146,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9709,
+                    "start": 140,
+                    "type": "Place"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "maersk",
+                    "probability": 0.4292,
+                    "start": 237,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 236,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 254,
+                    "start": 244,
+                    "tag": "warehouse"
+                },
+                {
+                    "end": 265,
+                    "start": 255,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 282,
+                    "start": 266,
+                    "tag": "decarbonization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/2QdLrccnRa",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Maersk/status/1620399807767678977/video/1",
+                    "media_key": "7_1620399463159185408",
+                    "start": 283,
+                    "url": "https://t.co/2QdLrccnRa"
+                }
+            ]
+        },
+        "id": "1620399807767678977",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4041,
+            "like_count": 44,
+            "quote_count": 4,
+            "reply_count": 0,
+            "retweet_count": 11
+        },
+        "text": "Making global trade more sustainable one warehouse at a time\ud83d\udc9aRecently, we held the ground breaking ceremony for our very first warehouse in Denmark.\nThe warehouse has a zero emissions approach to both direct &amp; indirect operations\ud83d\ude4c\ud83c\udffc #maersk #warehouse #logistics #decarbonization https://t.co/2QdLrccnRa"
+    }
+}

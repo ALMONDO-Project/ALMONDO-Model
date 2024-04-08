@@ -1,0 +1,84 @@
+{
+    "1698690175348470166": {
+        "attachments": {
+            "media_keys": [
+                "3_1698669077160464384"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-09-04T13:31:12.000Z",
+        "edit_history_tweet_ids": [
+            "1698690175348470166"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 163,
+                    "normalized_text": "Queen\u2019s Medical Centre",
+                    "probability": 0.5226,
+                    "start": 142,
+                    "type": "Other"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Nottingham",
+                    "probability": 0.9598,
+                    "start": 168,
+                    "type": "Place"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "QMC",
+                    "probability": 0.3497,
+                    "start": 212,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 36,
+                    "tag": "energy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 93,
+                    "id": "24703791",
+                    "start": 78,
+                    "username": "nottmhospitals"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/45BDZNG",
+                    "end": 246,
+                    "expanded_url": "https://bit.ly/45BDZNG",
+                    "start": 223,
+                    "status": 200,
+                    "unwound_url": "https://www.eonenergy.com/about-eon/media-centre/nottingham-university-hospitals-partners-eon-net-zero-ambitions/?utm_source=twitter&utm_medium=organic-brand&utm_campaign=actionforclimate&utm_content=qmc",
+                    "url": "https://t.co/jfs8SmXnuc"
+                },
+                {
+                    "display_url": "pic.twitter.com/NJWem1k7DU",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1698690175348470166/photo/1",
+                    "media_key": "3_1698669077160464384",
+                    "start": 247,
+                    "url": "https://t.co/NJWem1k7DU"
+                }
+            ]
+        },
+        "id": "1698690175348470166",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1234,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re helping hospitals become more #energy efficient and have partnered with @nottmhospitals to deliver a new heating and cooling system for Queen\u2019s Medical Centre in Nottingham.\n\nTo read more about our work at QMC visit: https://t.co/jfs8SmXnuc https://t.co/NJWem1k7DU"
+    }
+}

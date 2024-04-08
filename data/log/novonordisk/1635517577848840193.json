@@ -1,0 +1,46 @@
+{
+    "1635517577848840193": {
+        "author_id": "194037150",
+        "created_at": "2023-03-14T05:45:51.000Z",
+        "edit_history_tweet_ids": [
+            "1635517577848840193"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 203,
+                    "normalized_text": "Asif",
+                    "probability": 0.323,
+                    "start": 200,
+                    "type": "Person"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4284,
+                    "start": 206,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "949341805522444288",
+                    "start": 0,
+                    "username": "SirWilfredUK"
+                }
+            ]
+        },
+        "id": "1635517577848840193",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 60,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SirWilfredUK Hi, I am sorry to hear about that. Could you kindly DM your contact details so that I can put you in contact with relevant colleagues? Looking forward to hearing from you.\nBest regards,\nAsif, Novo Nordisk"
+    }
+}

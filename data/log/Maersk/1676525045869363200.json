@@ -1,0 +1,105 @@
+{
+    "1676525045869363200": {
+        "attachments": {
+            "media_keys": [
+                "7_1676524742474383360"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-05T09:34:53.000Z",
+        "edit_history_tweet_ids": [
+            "1676525045869363200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "UX",
+                    "probability": 0.5762,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "Scott Horn",
+                    "probability": 0.8821,
+                    "start": 110,
+                    "type": "Person"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "Tammy Snow",
+                    "probability": 0.5787,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "maersk",
+                    "probability": 0.6381,
+                    "start": 228,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "ux",
+                    "probability": 0.5126,
+                    "start": 253,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 234,
+                    "start": 227,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 245,
+                    "start": 235,
+                    "tag": "Head2Head"
+                },
+                {
+                    "end": 251,
+                    "start": 246,
+                    "tag": "tech"
+                },
+                {
+                    "end": 255,
+                    "start": 252,
+                    "tag": "ux"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 226,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/07/03/driving-operational-excellence-with-fulfilment-technology",
+                    "start": 203,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/07/03/driving-operational-excellence-with-fulfilment-technology",
+                    "url": "https://t.co/dSkqqvTslR"
+                },
+                {
+                    "display_url": "pic.twitter.com/VBTqu4en7Y",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/Maersk/status/1676525045869363200/video/1",
+                    "media_key": "7_1676524742474383360",
+                    "start": 256,
+                    "url": "https://t.co/VBTqu4en7Y"
+                }
+            ]
+        },
+        "id": "1676525045869363200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2204,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Don't miss this epic battle between tech leaders in a game while discussing UX in fulfilment software!\ud83d\udd25 Watch Scott Horn and Tammy Snow go head-to-head and gain valuable insights.\ud83e\uddd0 Curious to know more \ud83d\udc49https://t.co/dSkqqvTslR\n#maersk #Head2Head #tech #ux https://t.co/VBTqu4en7Y"
+    }
+}

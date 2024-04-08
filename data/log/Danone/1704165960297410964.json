@@ -1,0 +1,53 @@
+{
+    "1704165960297410964": {
+        "attachments": {
+            "media_keys": [
+                "7_1704158896493862912"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-09-19T16:10:01.000Z",
+        "edit_history_tweet_ids": [
+            "1704165960297410964"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Danone",
+                    "probability": 0.4691,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Danone",
+                    "probability": 0.4775,
+                    "start": 57,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/AGCmfWfejs",
+                    "end": 119,
+                    "expanded_url": "https://twitter.com/Danone/status/1704165960297410964/video/1",
+                    "media_key": "7_1704158896493862912",
+                    "start": 96,
+                    "url": "https://t.co/AGCmfWfejs"
+                }
+            ]
+        },
+        "id": "1704165960297410964",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2053,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "We Are Danone.\nDiscover very soon the unexpected jobs at Danone in our new series!\nStay tuned \u23f0 https://t.co/AGCmfWfejs"
+    }
+}

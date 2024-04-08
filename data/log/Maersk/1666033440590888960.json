@@ -1,0 +1,84 @@
+{
+    "1666033440590888960": {
+        "attachments": {
+            "media_keys": [
+                "7_1666023289704022019"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-06T10:45:00.000Z",
+        "edit_history_tweet_ids": [
+            "1666033440590888960"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "\n#DigitalTwi",
+                    "probability": 0.5134,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": ". Jonas Edsm",
+                    "probability": 0.5759,
+                    "start": 183,
+                    "type": "Person"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": " #Maer",
+                    "probability": 0.4029,
+                    "start": 234,
+                    "type": "Other"
+                },
+                {
+                    "end": 272,
+                    "normalized_text": "\n#Maerskte",
+                    "probability": 0.6445,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 56,
+                    "start": 43,
+                    "tag": "DigitalTwins"
+                },
+                {
+                    "end": 242,
+                    "start": 235,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 275,
+                    "start": 264,
+                    "tag": "Maersktech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jajH2A86MW",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1666033440590888960/video/1",
+                    "media_key": "7_1666023289704022019",
+                    "start": 276,
+                    "url": "https://t.co/jajH2A86MW"
+                }
+            ]
+        },
+        "id": "1666033440590888960",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2851,
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Have you ever heard of a Digital Twin?\ud83d\udc69\u200d\ud83d\udcbb\u26a1\n#DigitalTwins are virtual models of the real world that allow you to visualize, test and explore new ideas without disrupting real processes. Jonas Edsman, Data Lead for Digital Operations at #Maersk, explains further\ud83d\udc47\ud83c\udffd\n\n#Maersktech https://t.co/jajH2A86MW"
+    }
+}

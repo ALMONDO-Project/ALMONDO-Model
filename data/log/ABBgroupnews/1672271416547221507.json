@@ -1,0 +1,91 @@
+{
+    "1672271416547221507": {
+        "attachments": {
+            "media_keys": [
+                "7_1672271326051028992"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-23T15:52:29.000Z",
+        "edit_history_tweet_ids": [
+            "1672271416547221507"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "ABB",
+                    "probability": 0.6123,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "FIA Formula E World Championship",
+                    "probability": 0.7342,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "ABB",
+                    "probability": 0.6183,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Driver of Progress Award",
+                    "probability": 0.777,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "PortlandEPrix",
+                    "probability": 0.5931,
+                    "start": 245,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 225,
+                    "start": 208,
+                    "tag": "DriverOfProgress"
+                },
+                {
+                    "end": 258,
+                    "start": 244,
+                    "tag": "PortlandEPrix"
+                },
+                {
+                    "end": 277,
+                    "start": 260,
+                    "tag": "energyefficiency"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/gag4D1ElxG",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1672271416547221507/video/1",
+                    "media_key": "7_1672271326051028992",
+                    "start": 278,
+                    "url": "https://t.co/gag4D1ElxG"
+                }
+            ]
+        },
+        "id": "1672271416547221507",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2327,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "As title partner of the ABB FIA Formula E World Championship, ABB is proud to have created the Driver of Progress Award, to recognise smart, energy-efficient racing in the all-electric series. See who is our #DriverOfProgress at this weekend's #PortlandEPrix. #energyefficiency https://t.co/gag4D1ElxG"
+    }
+}

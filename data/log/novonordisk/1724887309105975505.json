@@ -1,0 +1,39 @@
+{
+    "1724887309105975505": {
+        "author_id": "194037150",
+        "created_at": "2023-11-15T20:29:16.000Z",
+        "edit_history_tweet_ids": [
+            "1724887309105975505"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.594,
+                    "start": 32,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "14538233",
+                    "start": 0,
+                    "username": "GraceUnderFire"
+                }
+            ]
+        },
+        "id": "1724887309105975505",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 45,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@GraceUnderFire Hi there.\u00a0While Novo Nordisk is delivering more products than ever, we are experiencing supply constraints for some of our products. This is driven by higher-than-expected demand and temporary capacity limitations at some of our manufacturing sites. (1/3)"
+    }
+}

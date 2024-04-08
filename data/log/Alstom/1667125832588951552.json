@@ -1,0 +1,115 @@
+{
+    "1667125832588951552": {
+        "attachments": {
+            "media_keys": [
+                "3_1667125825223774208",
+                "3_1667125825315930114",
+                "3_1667125825051807745",
+                "3_1667125824833703936"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-09T11:05:46.000Z",
+        "edit_history_tweet_ids": [
+            "1667125832588951552"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5849,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "Norway",
+                    "probability": 0.9885,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Sk\u00f8yen station",
+                    "probability": 0.7965,
+                    "start": 117,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Oslo",
+                    "probability": 0.984,
+                    "start": 188,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 50,
+                    "start": 43,
+                    "tag": "Norway"
+                },
+                {
+                    "end": 166,
+                    "start": 158,
+                    "tag": "railway"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/JjFv50OJVcf",
+                    "end": 284,
+                    "expanded_url": "https://ow.ly/JjFv50OJVcf",
+                    "start": 261,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/6/alstom-celebrates-150th-anniversary-norway-and-constructs-street-art-ukrainian-artists-skoyen-station-oslo",
+                    "url": "https://t.co/YGjqdhmODR"
+                },
+                {
+                    "display_url": "pic.twitter.com/6aAujUJ8uK",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Alstom/status/1667125832588951552/photo/1",
+                    "media_key": "3_1667125825223774208",
+                    "start": 285,
+                    "url": "https://t.co/6aAujUJ8uK"
+                },
+                {
+                    "display_url": "pic.twitter.com/6aAujUJ8uK",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Alstom/status/1667125832588951552/photo/1",
+                    "media_key": "3_1667125825315930114",
+                    "start": 285,
+                    "url": "https://t.co/6aAujUJ8uK"
+                },
+                {
+                    "display_url": "pic.twitter.com/6aAujUJ8uK",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Alstom/status/1667125832588951552/photo/1",
+                    "media_key": "3_1667125825051807745",
+                    "start": 285,
+                    "url": "https://t.co/6aAujUJ8uK"
+                },
+                {
+                    "display_url": "pic.twitter.com/6aAujUJ8uK",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Alstom/status/1667125832588951552/photo/1",
+                    "media_key": "3_1667125824833703936",
+                    "start": 285,
+                    "url": "https://t.co/6aAujUJ8uK"
+                }
+            ]
+        },
+        "id": "1667125832588951552",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2047,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Alstom celebrates its 150th anniversary in #Norway &amp; for this special occasion, we've unveiled street artwork at Sk\u00f8yen station. The two murals under the #railway bridge are a gift to Oslo, painted by Ukrainian artists on the topic of mobility or movement. https://t.co/YGjqdhmODR https://t.co/6aAujUJ8uK"
+    }
+}

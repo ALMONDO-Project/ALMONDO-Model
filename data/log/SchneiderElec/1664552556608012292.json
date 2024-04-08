@@ -1,0 +1,39 @@
+{
+    "1664552556608012292": {
+        "author_id": "393757140",
+        "created_at": "2023-06-02T08:40:30.000Z",
+        "edit_history_tweet_ids": [
+            "1664552556608012292"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Rahul",
+                    "probability": 0.7421,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1544774582355521538",
+                    "start": 0,
+                    "username": "RahulGu58743481"
+                }
+            ]
+        },
+        "id": "1664552556608012292",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 31,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@RahulGu58743481 Hi Rahul,\nWe apologize for the inconvenience caused.\nPlease share the below details to take it forward\n1. Model ref \n2. Invoice copy\n3. Nature of fault\n4. Complete address &amp; contact details"
+    }
+}

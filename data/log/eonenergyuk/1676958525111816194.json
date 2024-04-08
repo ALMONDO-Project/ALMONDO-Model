@@ -1,0 +1,75 @@
+{
+    "1676958525111816194": {
+        "attachments": {
+            "media_keys": [
+                "3_1676958323827154947"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-07-06T14:17:23.000Z",
+        "edit_history_tweet_ids": [
+            "1676958525111816194"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": ".ON IQ Energy",
+                    "probability": 0.5339,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "AI",
+                    "probability": 0.6644,
+                    "start": 78,
+                    "type": "Organization"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "Kemsley Mill",
+                    "probability": 0.4586,
+                    "start": 264,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 129,
+                    "start": 122,
+                    "tag": "energy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 261,
+                    "id": "56677195",
+                    "start": 248,
+                    "username": "dssmithgroup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/l7jxOML23a",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1676958525111816194/photo/1",
+                    "media_key": "3_1676958323827154947",
+                    "start": 278,
+                    "url": "https://t.co/l7jxOML23a"
+                }
+            ]
+        },
+        "id": "1676958525111816194",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1143,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Energy + A.I = more efficient energy \u26a1\n\nPatented E.ON IQ Energy uses data and AI to optimise supply real time.\n\nThe smart #energy supply solution has been specially developed for energy-intensive industries, and is deployed at leading plants, like @dssmithgroup\u2019s Kemsley Mill. https://t.co/l7jxOML23a"
+    }
+}

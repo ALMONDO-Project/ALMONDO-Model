@@ -1,0 +1,93 @@
+{
+    "1729145827086483748": {
+        "attachments": {
+            "media_keys": [
+                "3_1729145821692612608"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-11-27T14:31:05.000Z",
+        "edit_history_tweet_ids": [
+            "1729145827086483748"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "Eurobalise",
+                    "probability": 0.8019,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "ERTMS",
+                    "probability": 0.7463,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "RailSafety",
+                    "probability": 0.6878,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Belgium",
+                    "probability": 0.9707,
+                    "start": 158,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 113,
+                    "start": 102,
+                    "tag": "RailSafety"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 156,
+                    "id": "413990456",
+                    "start": 144,
+                    "username": "Infrabel_FR"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Redefining rail safety standards by enhancing Eurobalise with simplified ERTMS encoding capability for multiple use cases",
+                    "display_url": "ow.ly/NbIF50QbuUv",
+                    "end": 265,
+                    "expanded_url": "https://ow.ly/NbIF50QbuUv",
+                    "start": 242,
+                    "status": 200,
+                    "title": "Alstom unveils the world\u2019s first Eurobalise with integrated encoding capabilities \u2013 a pioneering breakthrough in rail safety",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/11/alstom-unveils-worlds-first-eurobalise-integrated-encoding-capabilities-pioneering-breakthrough-rail-safety",
+                    "url": "https://t.co/AVJpnNvqXb"
+                },
+                {
+                    "display_url": "pic.twitter.com/UHehOIi5wx",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Alstom/status/1729145827086483748/photo/1",
+                    "media_key": "3_1729145821692612608",
+                    "start": 266,
+                    "url": "https://t.co/UHehOIi5wx"
+                }
+            ]
+        },
+        "id": "1729145827086483748",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2837,
+            "like_count": 43,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "We're excited to unveil the world's 1st Eurobalise with integrated ERTMS encoding - a game-changer in #RailSafety. This framework contract with @Infrabel_FR, Belgium's rail network, includes 50 balises and a 20-year maintenance.\ud83c\udf10\n\nRead more: https://t.co/AVJpnNvqXb https://t.co/UHehOIi5wx"
+    }
+}

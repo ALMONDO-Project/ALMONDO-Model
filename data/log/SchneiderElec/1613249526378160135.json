@@ -1,0 +1,67 @@
+{
+    "1613249526378160135": {
+        "attachments": {
+            "media_keys": [
+                "13_1613249387521531906"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-11T19:00:34.000Z",
+        "edit_history_tweet_ids": [
+            "1613249526378160135"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 144,
+                    "normalized_text": "WEF23",
+                    "probability": 0.8022,
+                    "start": 140,
+                    "type": "Other"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Davos",
+                    "probability": 0.801,
+                    "start": 149,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 145,
+                    "start": 139,
+                    "tag": "WEF23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60163Tnso",
+                    "end": 184,
+                    "expanded_url": "http://spr.ly/60163Tnso",
+                    "start": 161,
+                    "url": "https://t.co/jqx6UosbOt"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZBMYkyz5w8",
+                    "end": 208,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1613249526378160135/video/1",
+                    "media_key": "13_1613249387521531906",
+                    "start": 185,
+                    "url": "https://t.co/ZBMYkyz5w8"
+                }
+            ]
+        },
+        "id": "1613249526378160135",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1170,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Did you know that only 1/3 of the energy produced reaches us as the end-users? Read more on our need to reboot the entire energy system at #WEF23 in Davos here: https://t.co/jqx6UosbOt https://t.co/ZBMYkyz5w8"
+    }
+}

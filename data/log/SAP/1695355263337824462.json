@@ -1,0 +1,70 @@
+{
+    "1695355263337824462": {
+        "attachments": {
+            "media_keys": [
+                "13_1695355162238300161"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-08-26T08:39:27.000Z",
+        "edit_history_tweet_ids": [
+            "1695355263337824462"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "Esports",
+                    "probability": 0.5355,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "SAP",
+                    "probability": 0.9011,
+                    "start": 82,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 195,
+                    "id": "257268592",
+                    "start": 184,
+                    "username": "TeamLiquid"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6013PUIvL",
+                    "end": 182,
+                    "expanded_url": "https://sap.to/6013PUIvL",
+                    "start": 159,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Tjt-C5ye3kQ",
+                    "url": "https://t.co/ospMQGabgi"
+                },
+                {
+                    "display_url": "pic.twitter.com/0cMZAmznkx",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/SAP/status/1695355263337824462/video/1",
+                    "media_key": "13_1695355162238300161",
+                    "start": 196,
+                    "url": "https://t.co/0cMZAmznkx"
+                }
+            ]
+        },
+        "id": "1695355263337824462",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7514,
+            "like_count": 17,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 9
+        },
+        "text": "Let's uncover the fascinating work of Esports coaches and how data analytics from SAP helps to prepare for the next game. \n\nWatch part two of the documentary: https://t.co/ospMQGabgi\n\n@TeamLiquid https://t.co/0cMZAmznkx"
+    }
+}

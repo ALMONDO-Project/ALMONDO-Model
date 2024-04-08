@@ -1,0 +1,53 @@
+{
+    "1654448648413904902": {
+        "attachments": {
+            "poll_ids": [
+                "1654448645746626560"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-05T11:31:10.000Z",
+        "edit_history_tweet_ids": [
+            "1654448648413904902"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3664,
+                    "start": 55,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 61,
+                    "start": 54,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 67,
+                    "start": 62,
+                    "tag": "Poll"
+                },
+                {
+                    "end": 76,
+                    "start": 68,
+                    "tag": "Funfact"
+                }
+            ]
+        },
+        "id": "1654448648413904902",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4363,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "What is the ideal reefer temperature for ice cream?\ud83c\udf66\n\n#Maersk #Poll #Funfact"
+    }
+}

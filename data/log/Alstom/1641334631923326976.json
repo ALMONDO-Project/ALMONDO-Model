@@ -1,0 +1,82 @@
+{
+    "1641334631923326976": {
+        "attachments": {
+            "media_keys": [
+                "7_1641333347908452353"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-30T07:00:45.000Z",
+        "edit_history_tweet_ids": [
+            "1641334631923326976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Nantes",
+                    "probability": 0.854,
+                    "start": 34,
+                    "type": "Place"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "Bertrand Affil\u00e9",
+                    "probability": 0.8256,
+                    "start": 79,
+                    "type": "Person"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Alstom",
+                    "probability": 0.605,
+                    "start": 194,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Bertrand",
+                    "probability": 0.5726,
+                    "start": 204,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 234,
+                    "start": 224,
+                    "tag": "lightrail"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 118,
+                    "id": "33846272",
+                    "start": 102,
+                    "username": "NantesMetropole"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/i8uUx6Pu9i",
+                    "end": 258,
+                    "expanded_url": "https://twitter.com/Alstom/status/1641334631923326976/video/1",
+                    "media_key": "7_1641333347908452353",
+                    "start": 235,
+                    "url": "https://t.co/i8uUx6Pu9i"
+                }
+            ]
+        },
+        "id": "1641334631923326976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1433,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Discover the success story behind Nantes' new light rail project! \ud83d\ude8a\ud83d\udca1 Hear from Bertrand Affil\u00e9, VP of @NantesMetropole, on the benefits of our accessible and modern design. One word to describe Alstom by Bertrand: Quality! \n#lightrail https://t.co/i8uUx6Pu9i"
+    }
+}

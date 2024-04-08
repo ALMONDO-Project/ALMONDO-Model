@@ -1,0 +1,67 @@
+{
+    "1613098490824892416": {
+        "attachments": {
+            "media_keys": [
+                "13_1613098394725109760"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-11T09:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1613098490824892416"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 155,
+                    "normalized_text": "WEF23",
+                    "probability": 0.7495,
+                    "start": 151,
+                    "type": "Other"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Davos",
+                    "probability": 0.8721,
+                    "start": 160,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 156,
+                    "start": 150,
+                    "tag": "WEF23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60113Tnml",
+                    "end": 195,
+                    "expanded_url": "http://spr.ly/60113Tnml",
+                    "start": 172,
+                    "url": "https://t.co/mcJnx6ibFz"
+                },
+                {
+                    "display_url": "pic.twitter.com/GQQtRdd2Pg",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1613098490824892416/video/1",
+                    "media_key": "13_1613098394725109760",
+                    "start": 196,
+                    "url": "https://t.co/GQQtRdd2Pg"
+                }
+            ]
+        },
+        "id": "1613098490824892416",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 828,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Sustainability and profitability can co-exist. How can we power industries of the future for a smarter and greener tomorrow? Get ready to find out at #WEF23 in Davos here: https://t.co/mcJnx6ibFz https://t.co/GQQtRdd2Pg"
+    }
+}

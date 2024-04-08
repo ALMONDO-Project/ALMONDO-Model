@@ -1,0 +1,98 @@
+{
+    "1738243502792741031": {
+        "attachments": {
+            "media_keys": [
+                "3_1738243500527767552"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-12-22T17:02:00.000Z",
+        "edit_history_tweet_ids": [
+            "1738243502792741031"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Puglia",
+                    "probability": 0.9094,
+                    "start": 97,
+                    "type": "Place"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Italy",
+                    "probability": 0.939,
+                    "start": 105,
+                    "type": "Place"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "Ferrovie del Sud Est",
+                    "probability": 0.7059,
+                    "start": 115,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 55,
+                    "tag": "hydrogen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 229,
+                    "id": "805765553315004417",
+                    "start": 219,
+                    "username": "FNM_Group"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Ferrovie del Sud Est (FSE) orders two Coradia Stream hydrogen trains for Puglia",
+                    "display_url": "ow.ly/XegR50QluEv",
+                    "end": 268,
+                    "expanded_url": "https://ow.ly/XegR50QluEv",
+                    "images": [
+                        {
+                            "height": 3656,
+                            "url": "https://pbs.twimg.com/news_img/1773857361339326464/PIvmpSXw?format=jpg&name=orig",
+                            "width": 6500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1773857361339326464/PIvmpSXw?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 245,
+                    "status": 200,
+                    "title": "Alstom to supply first hydrogen trains to the Italian region of Puglia and second order of trains in the framework agreement with Lombardy",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/12/alstom-supply-first-hydrogen-trains-italian-region-puglia-and-second-order-trains-framework-agreement-lombardy",
+                    "url": "https://t.co/85ey9qgxNS"
+                },
+                {
+                    "display_url": "pic.twitter.com/MdS5beQal4",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Alstom/status/1738243502792741031/photo/1",
+                    "media_key": "3_1738243500527767552",
+                    "start": 269,
+                    "url": "https://t.co/MdS5beQal4"
+                }
+            ]
+        },
+        "id": "1738243502792741031",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 5056,
+            "like_count": 51,
+            "quote_count": 5,
+            "reply_count": 2,
+            "retweet_count": 15
+        },
+        "text": "We are happy to announce that we will supply the first #hydrogen trains to the Italian region of Puglia, Italy for Ferrovie del Sud Est and in addition, a second order of hydrogen trains in our framework agreement with @FNM_Group. \n\nLearn more: https://t.co/85ey9qgxNS https://t.co/MdS5beQal4"
+    }
+}

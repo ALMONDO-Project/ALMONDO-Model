@@ -1,0 +1,91 @@
+{
+    "1684821109097578497": {
+        "attachments": {
+            "media_keys": [
+                "7_1684819884054634496"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-07-28T07:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1684821109097578497"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 151,
+                    "normalized_text": "Alstom",
+                    "probability": 0.445,
+                    "start": 146,
+                    "type": "Place"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "MobilitybyNature",
+                    "probability": 0.5365,
+                    "start": 240,
+                    "type": "Other"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "Turnkey",
+                    "probability": 0.3763,
+                    "start": 258,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 43,
+                    "tag": "metro"
+                },
+                {
+                    "end": 145,
+                    "start": 134,
+                    "tag": "driverless"
+                },
+                {
+                    "end": 256,
+                    "start": 239,
+                    "tag": "MobilitybyNature"
+                },
+                {
+                    "end": 265,
+                    "start": 257,
+                    "tag": "Turnkey"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/SLvF50PhcHY",
+                    "end": 237,
+                    "expanded_url": "https://ow.ly/SLvF50PhcHY",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/our-solutions/systems/metro-systems-efficient-effective-rapid-transit-delivery?utm_source=organic_social&utm_medium=twitter&utm_content=page&utm_campaign=RSC",
+                    "url": "https://t.co/PMDTa8CYct"
+                },
+                {
+                    "display_url": "pic.twitter.com/JVxV3B4oyi",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Alstom/status/1684821109097578497/video/1",
+                    "media_key": "7_1684819884054634496",
+                    "start": 266,
+                    "url": "https://t.co/JVxV3B4oyi"
+                }
+            ]
+        },
+        "id": "1684821109097578497",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3403,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Automation is one the key features to make #metro operations even safer, reliable and more efficient. We are proud to have sold 6,000 #driverless Alstom metro cars to over 22 cities around the world. \n\nLearn more: https://t.co/PMDTa8CYct \n#MobilitybyNature #Turnkey https://t.co/JVxV3B4oyi"
+    }
+}

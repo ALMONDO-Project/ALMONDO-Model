@@ -1,0 +1,122 @@
+{
+    "1631595124395237377": {
+        "attachments": {
+            "media_keys": [
+                "3_1631592948151222273"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-03T09:59:25.000Z",
+        "edit_history_tweet_ids": [
+            "1631595124395237377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "WorldWildlifeDay",
+                    "probability": 0.7068,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "ESG",
+                    "probability": 0.4049,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "maersk",
+                    "probability": 0.4291,
+                    "start": 222,
+                    "type": "Other"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "WWD2023",
+                    "probability": 0.6853,
+                    "start": 230,
+                    "type": "Other"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "ESG",
+                    "probability": 0.3429,
+                    "start": 268,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 42,
+                    "start": 25,
+                    "tag": "WorldWildlifeDay"
+                },
+                {
+                    "end": 228,
+                    "start": 221,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 237,
+                    "start": 229,
+                    "tag": "WWD2023"
+                },
+                {
+                    "end": 253,
+                    "start": 238,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 266,
+                    "start": 254,
+                    "tag": "supplychain"
+                },
+                {
+                    "end": 271,
+                    "start": 267,
+                    "tag": "ESG"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 24,
+                    "id": "14159148",
+                    "start": 21,
+                    "username": "UN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/sustainability",
+                    "end": 219,
+                    "expanded_url": "https://www.maersk.com/sustainability",
+                    "start": 196,
+                    "unwound_url": "https://www.maersk.com/sustainability",
+                    "url": "https://t.co/Mvj26KalKt"
+                },
+                {
+                    "display_url": "pic.twitter.com/ee5XaWNS5r",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Maersk/status/1631595124395237377/photo/1",
+                    "media_key": "3_1631592948151222273",
+                    "start": 272,
+                    "url": "https://t.co/ee5XaWNS5r"
+                }
+            ]
+        },
+        "id": "1631595124395237377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2459,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We are proud to mark @UN #WorldWildlifeDay and reaffirm our commitment to combatting illegal wildlife trade along the world\u2019s supply chains\ud83c\udf0e \n\n\ud83d\udc49\ud83c\udffcLearn more about our ESG commitments and actions:  https://t.co/Mvj26KalKt\n\n#maersk #WWD2023 #sustainability #supplychain #ESG https://t.co/ee5XaWNS5r"
+    }
+}

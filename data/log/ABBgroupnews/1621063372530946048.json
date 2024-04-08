@@ -1,0 +1,62 @@
+{
+    "1621063372530946048": {
+        "attachments": {
+            "media_keys": [
+                "13_1621047436339826689"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-02-02T08:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1621063372530946048"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "ABB",
+                    "probability": 0.5394,
+                    "start": 33,
+                    "type": "Organization"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Bj\u00f6rn Rosengren",
+                    "probability": 0.9282,
+                    "start": 42,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/Q4-2022-results",
+                    "end": 154,
+                    "expanded_url": "https://social.abb/Q4-2022-results",
+                    "start": 131,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/99188/q4-2022-results",
+                    "url": "https://t.co/fIms5u939l"
+                },
+                {
+                    "display_url": "pic.twitter.com/8NvUuo3rRS",
+                    "end": 178,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1621063372530946048/video/1",
+                    "media_key": "13_1621047436339826689",
+                    "start": 155,
+                    "url": "https://t.co/8NvUuo3rRS"
+                }
+            ]
+        },
+        "id": "1621063372530946048",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2161,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "'A good ending to a good year' - ABB CEO, Bj\u00f6rn Rosengren, discusses the key takeaways from the fourth quarter in 2022.\nRead more: https://t.co/fIms5u939l https://t.co/8NvUuo3rRS"
+    }
+}

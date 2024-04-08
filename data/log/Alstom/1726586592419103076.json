@@ -1,0 +1,100 @@
+{
+    "1726586592419103076": {
+        "attachments": {
+            "media_keys": [
+                "3_1726586591211110401"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-11-20T13:01:36.000Z",
+        "edit_history_tweet_ids": [
+            "1726586592419103076"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "Alstom",
+                    "probability": 0.4254,
+                    "start": 9,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "LightRail",
+                    "probability": 0.6726,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Citadis",
+                    "probability": 0.3725,
+                    "start": 56,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 29,
+                    "tag": "LightRail"
+                },
+                {
+                    "end": 63,
+                    "start": 55,
+                    "tag": "Citadis"
+                },
+                {
+                    "end": 251,
+                    "start": 234,
+                    "tag": "MobilityByNature"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "With 8,000 vehicles delivered to 140 cities, Alstom\u2019s light rail platform is on a streak of success that seems to have lasted more than 30 years. We caught up with Julien Chauvignat on one of Alstom's most popular mobility solutions.\u00a0",
+                    "display_url": "ow.ly/PU6B50Q9ltS",
+                    "end": 232,
+                    "expanded_url": "https://ow.ly/PU6B50Q9ltS",
+                    "images": [
+                        {
+                            "height": 1280,
+                            "url": "https://pbs.twimg.com/news_img/1726586636220141568/jTH7ITax?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1726586636220141568/jTH7ITax?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 209,
+                    "status": 200,
+                    "title": "Inclusive, adaptable: a glance at Alstom\u2019s light rail solutions",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/11/inclusive-adaptable-glance-alstoms-light-rail-solutions?utm_source=organic_social&utm_medium=twitter&utm_content=page&utm_campaign=RSC",
+                    "url": "https://t.co/M8bWwruYEE"
+                },
+                {
+                    "display_url": "pic.twitter.com/k9vGOpCByq",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/Alstom/status/1726586592419103076/photo/1",
+                    "media_key": "3_1726586591211110401",
+                    "start": 252,
+                    "url": "https://t.co/k9vGOpCByq"
+                }
+            ]
+        },
+        "id": "1726586592419103076",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2260,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Discover Alstom's successful #LightRail platform - our #Citadis trams and light rail vehicles are inclusive and adaptable to meet the needs of any city, anywhere in the world! \ud83d\ude88\n\nRead the full web story here: https://t.co/M8bWwruYEE\n\n#MobilityByNature https://t.co/k9vGOpCByq"
+    }
+}

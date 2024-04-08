@@ -1,0 +1,74 @@
+{
+    "1709563171944464821": {
+        "author_id": "21746077",
+        "created_at": "2023-10-04T13:36:36.000Z",
+        "edit_history_tweet_ids": [
+            "1709563171944464821"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "North West",
+                    "probability": 0.8479,
+                    "start": 86,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Wales",
+                    "probability": 0.9539,
+                    "start": 98,
+                    "type": "Place"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Scotland",
+                    "probability": 0.8159,
+                    "start": 105,
+                    "type": "Organization"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "North East",
+                    "probability": 0.8981,
+                    "start": 122,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "London",
+                    "probability": 0.9711,
+                    "start": 178,
+                    "type": "Place"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Michael",
+                    "probability": 0.4833,
+                    "start": 187,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "77684035",
+                    "start": 0,
+                    "username": "Si_M66"
+                }
+            ]
+        },
+        "id": "1709563171944464821",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Si_M66 We run the funding rounds region by region and have supported projects in the North West, Wales, Scotland and the North East, it just so happens this funding round is in London. ^Michael"
+    }
+}

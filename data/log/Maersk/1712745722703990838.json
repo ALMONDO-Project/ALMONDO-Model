@@ -1,0 +1,96 @@
+{
+    "1712745722703990838": {
+        "attachments": {
+            "media_keys": [
+                "7_1712745040525557760"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-13T08:22:56.000Z",
+        "edit_history_tweet_ids": [
+            "1712745722703990838"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "methanol",
+                    "probability": 0.6231,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "d Naval Archite",
+                    "probability": 0.6786,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "t Hyundai Heavy Industri",
+                    "probability": 0.5924,
+                    "start": 182,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": " #maer",
+                    "probability": 0.3841,
+                    "start": 228,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": " #allthewaytoze",
+                    "probability": 0.3626,
+                    "start": 236,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 17,
+                    "tag": "methanol"
+                },
+                {
+                    "end": 222,
+                    "start": 209,
+                    "tag": "shipbuilding"
+                },
+                {
+                    "end": 236,
+                    "start": 229,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 253,
+                    "start": 237,
+                    "tag": "allthewaytozero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TXEaAJkbQY",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/Maersk/status/1712745722703990838/video/1",
+                    "media_key": "7_1712745040525557760",
+                    "start": 254,
+                    "url": "https://t.co/TXEaAJkbQY"
+                }
+            ]
+        },
+        "id": "1712745722703990838",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 7991,
+            "like_count": 123,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 21
+        },
+        "text": "\ud83d\udef3Watch our large #methanol-enabled vessel undock for the first time. \ud83d\udc77\ud83c\udffb\u200d\u2642\ufe0fKristian Agdrup our Lead Naval Architect shares interesting facts about our new vessel class, from on site at Hyundai Heavy Industries #shipbuilding yard. #maersk #allthewaytozero https://t.co/TXEaAJkbQY"
+    }
+}

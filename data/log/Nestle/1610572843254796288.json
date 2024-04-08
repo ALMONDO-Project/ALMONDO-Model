@@ -1,0 +1,39 @@
+{
+    "1610572843254796288": {
+        "author_id": "23085995",
+        "created_at": "2023-01-04T09:44:23.000Z",
+        "edit_history_tweet_ids": [
+            "1610572843254796288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 149,
+                    "normalized_text": "Vietnam",
+                    "probability": 0.9777,
+                    "start": 143,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1234434923789864963",
+                    "start": 0,
+                    "username": "JackFromVietnam"
+                }
+            ]
+        },
+        "id": "1610572843254796288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 288,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JackFromVietnam Thank you for your enquiry. We noted for your interest in our product and let\u2019s follow us to be updated on our new product in Vietnam."
+    }
+}

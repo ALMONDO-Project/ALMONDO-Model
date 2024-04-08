@@ -1,0 +1,53 @@
+{
+    "1680068924912852994": {
+        "author_id": "23085995",
+        "created_at": "2023-07-15T04:17:00.000Z",
+        "edit_history_tweet_ids": [
+            "1680068924912852994"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Keags",
+                    "probability": 0.6948,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Coles",
+                    "probability": 0.3654,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "Woolworths Supermarket",
+                    "probability": 0.5347,
+                    "start": 147,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1404939326564167688",
+                    "start": 0,
+                    "username": "Gizzaspellm8"
+                }
+            ]
+        },
+        "id": "1680068924912852994",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 161,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Gizzaspellm8 Hi Keags! Thanks for your feedback. ALLEN'S Big red frogs is also available at 465g bags exclusively from Coles &amp; 420g bags from Woolworths Supermarket that you may consider. Hope you track some down soon! \u2764\ufe0f"
+    }
+}

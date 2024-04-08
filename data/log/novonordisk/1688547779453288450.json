@@ -1,0 +1,70 @@
+{
+    "1688547779453288450": {
+        "author_id": "194037150",
+        "created_at": "2023-08-07T13:48:56.000Z",
+        "edit_history_tweet_ids": [
+            "1688547779453288450"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Ian",
+                    "probability": 0.7222,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Scott",
+                    "probability": 0.5095,
+                    "start": 213,
+                    "type": "Person"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5646,
+                    "start": 221,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "894490213887737857",
+                    "start": 0,
+                    "username": "SalopianRunner"
+                },
+                {
+                    "end": 32,
+                    "id": "3588618214",
+                    "start": 16,
+                    "username": "FreeStyleDiabet"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/messages/compo\u2026",
+                    "end": 257,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "start": 234,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "url": "https://t.co/tGbtaZc8Sa"
+                }
+            ]
+        },
+        "id": "1688547779453288450",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 167,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@SalopianRunner @FreeStyleDiabet Dear Ian. We are sorry to hear about this. Which country do you live? I can share the contact details for our offices, or help you get in contact with my colleagues. All the best, Scott / Novo Nordisk\nhttps://t.co/tGbtaZc8Sa"
+    }
+}

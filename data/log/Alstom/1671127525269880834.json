@@ -1,0 +1,126 @@
+{
+    "1671127525269880834": {
+        "attachments": {
+            "media_keys": [
+                "7_1671127400338300932"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-20T12:07:04.000Z",
+        "edit_history_tweet_ids": [
+            "1671127525269880834"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "Traxx",
+                    "probability": 0.5416,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5314,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "Atlas",
+                    "probability": 0.6862,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 97,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5626,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Kassel",
+                    "probability": 0.5625,
+                    "start": 99,
+                    "type": "Place"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Germany",
+                    "probability": 0.9751,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Velim",
+                    "probability": 0.5508,
+                    "start": 155,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "Czech Republic",
+                    "probability": 0.8515,
+                    "start": 162,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 16,
+                    "tag": "locomotive"
+                },
+                {
+                    "end": 71,
+                    "start": 60,
+                    "tag": "signalling"
+                },
+                {
+                    "end": 122,
+                    "start": 114,
+                    "tag": "Germany"
+                },
+                {
+                    "end": 251,
+                    "start": 234,
+                    "tag": "MobilitybyNature"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/GKf950OSBx4",
+                    "end": 232,
+                    "expanded_url": "https://ow.ly/GKf950OSBx4",
+                    "start": 209,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/6/traxx-locomotives-atlas-are-coming?utm_source=organic_social&utm_medium=twitter&utm_content=585aee99-e45c-4e93-98c1-d07a8c07433f&utm_campaign=VivaTech",
+                    "url": "https://t.co/QtthiXjMGW"
+                },
+                {
+                    "display_url": "pic.twitter.com/VpFXvD23x0",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/Alstom/status/1671127525269880834/video/1",
+                    "media_key": "7_1671127400338300932",
+                    "start": 252,
+                    "url": "https://t.co/VpFXvD23x0"
+                }
+            ]
+        },
+        "id": "1671127525269880834",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2141,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our first Traxx #locomotive refurbished with Alstom's Atlas #signalling system has left the Alstom Kassel site in #Germany for a 2-month test programme in Velim, Czech Republic. \ud83d\ude82\n\n\u25b6\ufe0fRead the full story here: https://t.co/QtthiXjMGW\n\n#MobilitybyNature https://t.co/VpFXvD23x0"
+    }
+}

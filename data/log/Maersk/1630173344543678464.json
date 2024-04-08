@@ -1,0 +1,88 @@
+{
+    "1630173344543678464": {
+        "attachments": {
+            "media_keys": [
+                "7_1630172897858732033"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-27T11:49:47.000Z",
+        "edit_history_tweet_ids": [
+            "1630173344543678464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Deepak Chincholi",
+                    "probability": 0.5813,
+                    "start": 5,
+                    "type": "Person"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4642,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Alang",
+                    "probability": 0.684,
+                    "start": 90,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "India",
+                    "probability": 0.9564,
+                    "start": 97,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 42,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 78,
+                    "start": 64,
+                    "tag": "ShipRecycling"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/e8PCsuSg",
+                    "end": 279,
+                    "expanded_url": "https://lnkd.in/e8PCsuSg",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=2mZXWw-ifrk&feature=youtu.be",
+                    "url": "https://t.co/4aUHVwFgHC"
+                },
+                {
+                    "display_url": "pic.twitter.com/MeKGYfVE26",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1630173344543678464/video/1",
+                    "media_key": "7_1630172897858732033",
+                    "start": 280,
+                    "url": "https://t.co/MeKGYfVE26"
+                }
+            ]
+        },
+        "id": "1630173344543678464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5194,
+            "like_count": 47,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "Meet Deepak Chincholi, Social Advisor for #Maersk\u2019s Responsible #ShipRecycling program in Alang, India.\nEnsuring access to quality healthcare for an area that houses some 10,000 workers is a key part of our commitment to the local community.\u00a0\u00a0\nFull video: https://t.co/4aUHVwFgHC https://t.co/MeKGYfVE26"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1737480476250591549": {
+        "attachments": {
+            "media_keys": [
+                "3_1737480473842974720"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-12-20T14:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1737480476250591549"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "COP28",
+                    "probability": 0.9436,
+                    "start": 33,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 32,
+                    "tag": "COP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 81,
+                    "id": "257901741",
+                    "start": 74,
+                    "username": "olblum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6011RVRc9",
+                    "end": 242,
+                    "expanded_url": "http://spr.ly/l/6011RVRc9",
+                    "start": 219,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6011RVRc9",
+                    "url": "https://t.co/bMLJbGnSnc"
+                },
+                {
+                    "display_url": "pic.twitter.com/LVrieFEQtp",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1737480476250591549/photo/1",
+                    "media_key": "3_1737480473842974720",
+                    "start": 243,
+                    "url": "https://t.co/LVrieFEQtp"
+                }
+            ]
+        },
+        "id": "1737480476250591549",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1077,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Still digesting the outcomes of #COP28? For our EVP of Energy Management, @olblum the key takeaway is clear - climate change action can't happen without data. After all, if you can see it, you can track it.\n\nFor (cont) https://t.co/bMLJbGnSnc https://t.co/LVrieFEQtp"
+    }
+}

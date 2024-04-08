@@ -1,0 +1,39 @@
+{
+    "1674390498335772674": {
+        "author_id": "23085995",
+        "created_at": "2023-06-29T12:12:58.000Z",
+        "edit_history_tweet_ids": [
+            "1674390498335772674"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Melissa",
+                    "probability": 0.5798,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1219594918605152256",
+                    "start": 0,
+                    "username": "MelissaWarland"
+                }
+            ]
+        },
+        "id": "1674390498335772674",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 174,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@MelissaWarland Hi Melissa, we would love the opportunity to speak with you if you could kindly call 1800 025 361, alternatively email consumer.service@au.nestle.com w/ your full name, address, contact number &amp; a photo of the barcode and best before date, so we can investigate for you."
+    }
+}

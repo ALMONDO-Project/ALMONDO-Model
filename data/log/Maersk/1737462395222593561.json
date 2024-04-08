@@ -1,0 +1,88 @@
+{
+    "1737462395222593561": {
+        "author_id": "380801406",
+        "created_at": "2023-12-20T13:18:10.000Z",
+        "edit_history_tweet_ids": [
+            "1737462395222593561"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 159,
+                    "normalized_text": "maersk",
+                    "probability": 0.3743,
+                    "start": 154,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "mvp",
+                    "probability": 0.5266,
+                    "start": 169,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 160,
+                    "start": 153,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 167,
+                    "start": 161,
+                    "tag": "blast"
+                },
+                {
+                    "end": 172,
+                    "start": 168,
+                    "tag": "mvp"
+                },
+                {
+                    "end": 184,
+                    "start": 173,
+                    "tag": "worldfinal"
+                },
+                {
+                    "end": 198,
+                    "start": 185,
+                    "tag": "blastpremier"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 79,
+                    "id": "831259300551073792",
+                    "start": 73,
+                    "username": "zywoo"
+                },
+                {
+                    "end": 117,
+                    "id": "3122619229",
+                    "start": 111,
+                    "username": "Blast"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/BLASTPremier/s\u2026",
+                    "end": 222,
+                    "expanded_url": "https://twitter.com/BLASTPremier/status/1736418217780723944",
+                    "start": 199,
+                    "url": "https://t.co/pfMuMQF9lw"
+                }
+            ]
+        },
+        "id": "1737462395222593561",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4403,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "From the Fall Final to the World Final \ud83d\udc49 the winner of the MVP trophy is @zywoo! \ud83c\udfc6 Congratulations! Thank you, @Blast, for yet another amazing season. \n\n#maersk #blast #mvp #worldfinal #blastpremier https://t.co/pfMuMQF9lw"
+    }
+}

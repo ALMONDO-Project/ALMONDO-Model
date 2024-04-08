@@ -1,0 +1,103 @@
+{
+    "1731938318248489291": {
+        "attachments": {
+            "media_keys": [
+                "7_1731938016363769856"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-05T07:27:27.000Z",
+        "edit_history_tweet_ids": [
+            "1731938318248489291"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Santa",
+                    "probability": 0.8789,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6878,
+                    "start": 192,
+                    "type": "Person"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "OmnichannelFulfilment",
+                    "probability": 0.5392,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 198,
+                    "start": 191,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 209,
+                    "start": 199,
+                    "tag": "AllTheWay"
+                },
+                {
+                    "end": 232,
+                    "start": 210,
+                    "tag": "OmnichannelFulfilment"
+                },
+                {
+                    "end": 250,
+                    "start": 233,
+                    "tag": "LastMileDelivery"
+                },
+                {
+                    "end": 265,
+                    "start": 251,
+                    "tag": "HolidaySeason"
+                },
+                {
+                    "end": 277,
+                    "start": 266,
+                    "tag": "PeakSeason"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/gdpJYyi2",
+                    "end": 188,
+                    "expanded_url": "https://lnkd.in/gdpJYyi2",
+                    "start": 165,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/gdpJYyi2",
+                    "url": "https://t.co/kwt9u7qEZO"
+                },
+                {
+                    "display_url": "pic.twitter.com/3o7uTdofww",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1731938318248489291/video/1",
+                    "media_key": "7_1731938016363769856",
+                    "start": 278,
+                    "url": "https://t.co/3o7uTdofww"
+                }
+            ]
+        },
+        "id": "1731938318248489291",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2192,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "This holiday season, Santa is getting all the time he needs to perfect his putt-putt golf. And we might have something to do with it\u00a0\ud83c\udf85\ud83c\udf84\u2603\ufe0f\ud83c\udf89Find out for yourself how: https://t.co/kwt9u7qEZO \n #Maersk #AllTheWay #OmnichannelFulfilment #LastMileDelivery #HolidaySeason #PeakSeason https://t.co/3o7uTdofww"
+    }
+}

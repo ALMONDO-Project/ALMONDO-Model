@@ -1,0 +1,88 @@
+{
+    "1665267350398967808": {
+        "attachments": {
+            "media_keys": [
+                "3_1665267348805238787"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-04T08:00:50.000Z",
+        "edit_history_tweet_ids": [
+            "1665267350398967808"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 109,
+                    "normalized_text": "CSR",
+                    "probability": 0.3718,
+                    "start": 107,
+                    "type": "Organization"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.5814,
+                    "start": 238,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 246,
+                    "start": 237,
+                    "tag": "UITP2023"
+                },
+                {
+                    "end": 267,
+                    "start": 247,
+                    "tag": "SustainableMobility"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 81,
+                    "id": "2164365481",
+                    "start": 67,
+                    "username": "cecile_texier"
+                },
+                {
+                    "end": 203,
+                    "id": "2714012034",
+                    "start": 192,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/9Zp550OyYyM",
+                    "end": 235,
+                    "expanded_url": "http://ow.ly/9Zp550OyYyM",
+                    "start": 212,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-uitp-global-public-transport-summit-2023?utm_source=organic_social&utm_medium=twitter&utm_content=89009844-d570-4905-8306-b626f623db38&utm_campaign=UITP",
+                    "url": "https://t.co/h5bQPOCqOF"
+                },
+                {
+                    "display_url": "pic.twitter.com/GtOeYrpQuB",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665267350398967808/photo/1",
+                    "media_key": "3_1665267348805238787",
+                    "start": 268,
+                    "url": "https://t.co/GtOeYrpQuB"
+                }
+            ]
+        },
+        "id": "1665267350398967808",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1764,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Public transport as a decarbonisation leader? \n\nDiscover more with @cecile_texier our Sustainability &amp; CSR VP, tomorrow in a discussion on the importance of renewable energy supply at the @uitpsummit 2023.\n\n\ud83d\udcc6https://t.co/h5bQPOCqOF\n\n#UITP2023 #SustainableMobility https://t.co/GtOeYrpQuB"
+    }
+}

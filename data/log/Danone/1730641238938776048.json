@@ -1,0 +1,67 @@
+{
+    "1730641238938776048": {
+        "attachments": {
+            "media_keys": [
+                "7_1730641006918250496"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-12-01T17:33:19.000Z",
+        "edit_history_tweet_ids": [
+            "1730641238938776048"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Danone",
+                    "probability": 0.3573,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Antoine de Saint-Affrique",
+                    "probability": 0.8502,
+                    "start": 26,
+                    "type": "Person"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "COP28",
+                    "probability": 0.9275,
+                    "start": 74,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 79,
+                    "start": 73,
+                    "tag": "COP28"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/5IB9JQUOOO",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Danone/status/1730641238938776048/video/1",
+                    "media_key": "7_1730641006918250496",
+                    "start": 279,
+                    "url": "https://t.co/5IB9JQUOOO"
+                }
+            ]
+        },
+        "id": "1730641238938776048",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2014,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 7
+        },
+        "text": "Earlier today, Danone CEO Antoine de Saint-Affrique talked to leaders at #COP28 about transformative initiatives. \u201cOne such solution is regenerative agriculture. We know it works, we've proven it as a company. So, the name of the game is scaling, and scaling as fast as we can.\u201d https://t.co/5IB9JQUOOO"
+    }
+}

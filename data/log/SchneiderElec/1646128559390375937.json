@@ -1,0 +1,79 @@
+{
+    "1646128559390375937": {
+        "attachments": {
+            "media_keys": [
+                "13_1646128535000473605"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-12T12:30:06.000Z",
+        "edit_history_tweet_ids": [
+            "1646128559390375937"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "AI",
+                    "probability": 0.75,
+                    "start": 19,
+                    "type": "Organization"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "AI",
+                    "probability": 0.5615,
+                    "start": 170,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 156,
+                    "start": 134,
+                    "tag": "DigitalTransformation"
+                },
+                {
+                    "end": 168,
+                    "start": 157,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 172,
+                    "start": 169,
+                    "tag": "AI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6012OKhjm",
+                    "end": 132,
+                    "expanded_url": "http://spr.ly/6012OKhjm",
+                    "start": 109,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/digital-transformation/artificial-intelligence/2023/03/27/unlocking-the-roi-of-ai-strategies-for-successful-ai-implementation/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9501063588&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/gAdc509IMA"
+                },
+                {
+                    "display_url": "pic.twitter.com/TqnptRUuFH",
+                    "end": 196,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1646128559390375937/video/1",
+                    "media_key": "13_1646128535000473605",
+                    "start": 173,
+                    "url": "https://t.co/TqnptRUuFH"
+                }
+            ]
+        },
+        "id": "1646128559390375937",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1641,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Reading about epic AI failures can be fun. Make sure they don\u2019t concern you. Consult this blog to know more: https://t.co/gAdc509IMA \n#DigitalTransformation #Innovation #AI https://t.co/TqnptRUuFH"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1626543848016031745": {
+        "author_id": "380801406",
+        "created_at": "2023-02-17T11:27:27.000Z",
+        "edit_history_tweet_ids": [
+            "1626543848016031745"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Spring",
+                    "probability": 0.4618,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "BLASTPremier",
+                    "probability": 0.4288,
+                    "start": 154,
+                    "type": "Organization"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "MaerskMVP",
+                    "probability": 0.6877,
+                    "start": 168,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 153,
+                    "tag": "BLASTPremier"
+                },
+                {
+                    "end": 177,
+                    "start": 167,
+                    "tag": "MaerskMVP"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 29,
+                    "id": "851767989250772992",
+                    "start": 16,
+                    "username": "BLASTPremier"
+                },
+                {
+                    "end": 53,
+                    "id": "831259300551073792",
+                    "start": 47,
+                    "username": "zywoo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/BLASTPremier/s\u2026",
+                    "end": 201,
+                    "expanded_url": "https://twitter.com/BLASTPremier/status/1626541349901070338",
+                    "start": 178,
+                    "url": "https://t.co/f5QmxOXzIr"
+                }
+            ]
+        },
+        "id": "1626543848016031745",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4508,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Big congrats to @BLASTPremier Spring Group MVP @zywoo on receiving your trophy\ud83d\udc4f\ud83c\udffd We\u2019re excited to see what you have in store for the rest of the year! \n\n#BLASTPremier #MaerskMVP https://t.co/f5QmxOXzIr"
+    }
+}

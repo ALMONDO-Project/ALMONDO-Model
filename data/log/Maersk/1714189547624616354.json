@@ -1,0 +1,81 @@
+{
+    "1714189547624616354": {
+        "attachments": {
+            "media_keys": [
+                "3_1714189533796077568"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-17T08:00:10.000Z",
+        "edit_history_tweet_ids": [
+            "1714189547624616354"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Jane\u00e9 Ortiz",
+                    "probability": 0.7147,
+                    "start": 5,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 77,
+                    "start": 70,
+                    "tag": "values"
+                },
+                {
+                    "end": 120,
+                    "start": 110,
+                    "tag": "wellbeing"
+                },
+                {
+                    "end": 157,
+                    "start": 147,
+                    "tag": "inclusive"
+                },
+                {
+                    "end": 197,
+                    "start": 190,
+                    "tag": "career"
+                },
+                {
+                    "end": 208,
+                    "start": 201,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 270,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/10/11/wellbeing-and-inclusion-at-maersk",
+                    "start": 247,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/10/11/wellbeing-and-inclusion-at-maersk",
+                    "url": "https://t.co/1Eo19GVH7N"
+                },
+                {
+                    "display_url": "pic.twitter.com/M8lo6g8aFM",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1714189547624616354/photo/1",
+                    "media_key": "3_1714189533796077568",
+                    "start": 271,
+                    "url": "https://t.co/M8lo6g8aFM"
+                }
+            ]
+        },
+        "id": "1714189547624616354",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3032,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Meet Jane\u00e9 Ortiz, Capability Business Partner, as she reflects on our #values and what they mean for employee #wellbeing, and how it has shaped an #inclusive culture helping her develop her #career at #Maersk\ud83e\udd1d\ud83d\ude80\n\n\ud83d\udcd6 Dive into the inspiring article: https://t.co/1Eo19GVH7N https://t.co/M8lo6g8aFM"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "1638876860690976768": {
+        "attachments": {
+            "media_keys": [
+                "3_1638876731019874305"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-23T12:14:27.000Z",
+        "edit_history_tweet_ids": [
+            "1638876860690976768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.5679,
+                    "start": 0,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/AGM-2023",
+                    "end": 105,
+                    "expanded_url": "https://social.abb/AGM-2023",
+                    "start": 82,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/101153/abb-shareholders-approve-all-proposals-at-2023-annual-general-meeting",
+                    "url": "https://t.co/3bdhCyEjIk"
+                },
+                {
+                    "display_url": "pic.twitter.com/uU1sp93Ro0",
+                    "end": 129,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1638876860690976768/photo/1",
+                    "media_key": "3_1638876731019874305",
+                    "start": 106,
+                    "url": "https://t.co/uU1sp93Ro0"
+                }
+            ]
+        },
+        "id": "1638876860690976768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2444,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "ABB shareholders approve all proposals at 2023 Annual General Meeting.\nRead more: https://t.co/3bdhCyEjIk https://t.co/uU1sp93Ro0"
+    }
+}

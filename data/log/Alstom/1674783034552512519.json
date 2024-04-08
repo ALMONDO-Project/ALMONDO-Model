@@ -1,0 +1,86 @@
+{
+    "1674783034552512519": {
+        "attachments": {
+            "media_keys": [
+                "7_1674782794982252545"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-30T14:12:46.000Z",
+        "edit_history_tweet_ids": [
+            "1674783034552512519"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6237,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "GBA International Rail Transit Forum",
+                    "probability": 0.6765,
+                    "start": 102,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "Guangzhou",
+                    "probability": 0.9065,
+                    "start": 159,
+                    "type": "Place"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "China",
+                    "probability": 0.9825,
+                    "start": 170,
+                    "type": "Place"
+                },
+                {
+                    "end": 284,
+                    "normalized_text": "Booth",
+                    "probability": 0.3897,
+                    "start": 280,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 45,
+                    "tag": "lowcarbon"
+                },
+                {
+                    "end": 68,
+                    "start": 62,
+                    "tag": "smart"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/f5S2g2BpzL",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/Alstom/status/1674783034552512519/video/1",
+                    "media_key": "7_1674782794982252545",
+                    "start": 293,
+                    "url": "https://t.co/f5S2g2BpzL"
+                }
+            ]
+        },
+        "id": "1674783034552512519",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2143,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Alstom is highlighting its vision to build a #lowcarbon &amp; #smart transportation future at the 1st GBA International Rail Transit Forum &amp; Exhibition in Guangzhou, China from June 29 - July 1. Join us to explore our world's leading products &amp; innovative technologies at Booth 9T202. https://t.co/f5S2g2BpzL"
+    }
+}

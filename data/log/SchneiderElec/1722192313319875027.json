@@ -1,0 +1,76 @@
+{
+    "1722192313319875027": {
+        "attachments": {
+            "media_keys": [
+                "13_1722192238757781504"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-08T10:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1722192313319875027"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.903,
+                    "start": 60,
+                    "type": "Organization"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Bart Van Quickelberghe",
+                    "probability": 0.727,
+                    "start": 118,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "Alliance"
+                },
+                {
+                    "end": 252,
+                    "start": 230,
+                    "tag": "IndustriesOfTheFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Let's hear Bart Van Quickelberghe, Director of AUTOMOTION, about the partnership between AUTOMOTION and Schneider Electric and their main value as a Master A...",
+                    "display_url": "spr.ly/6007uYcwB",
+                    "end": 228,
+                    "expanded_url": "http://spr.ly/6007uYcwB",
+                    "start": 205,
+                    "status": 200,
+                    "title": "Alliance Interview Series: AUTOMOTION | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=TXJo65vPu-Y&feature=youtu.be",
+                    "url": "https://t.co/5iwl1PPF3d"
+                },
+                {
+                    "display_url": "pic.twitter.com/1wrroFUKoB",
+                    "end": 276,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1722192313319875027/video/1",
+                    "media_key": "13_1722192238757781504",
+                    "start": 253,
+                    "url": "https://t.co/1wrroFUKoB"
+                }
+            ]
+        },
+        "id": "1722192313319875027",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1126,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "The #Alliance Partner Program means complete alignment with Schneider Electric\u2019s solutions for IoT and Digitization.\n\nBart Van Quickelberghe of Automotion, an Alliance Master Machine Integrator, explains: https://t.co/5iwl1PPF3d\n\n#IndustriesOfTheFuture https://t.co/1wrroFUKoB"
+    }
+}

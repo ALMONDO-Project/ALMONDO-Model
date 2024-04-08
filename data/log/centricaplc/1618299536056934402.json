@@ -1,0 +1,82 @@
+{
+    "1618299536056934402": {
+        "attachments": {
+            "media_keys": [
+                "3_1618299067280330771"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-01-25T17:27:30.000Z",
+        "edit_history_tweet_ids": [
+            "1618299536056934402"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Centrica Carers Network",
+                    "probability": 0.6222,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Patrick McCarthy",
+                    "probability": 0.8811,
+                    "start": 41,
+                    "type": "Person"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "John Dunster",
+                    "probability": 0.544,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "UK",
+                    "probability": 0.7823,
+                    "start": 86,
+                    "type": "Place"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "UK",
+                    "probability": 0.963,
+                    "start": 241,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 143,
+                    "id": "2785648892",
+                    "start": 130,
+                    "username": "wendychambLD"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/a6raL36qIE",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1618299536056934402/photo/1",
+                    "media_key": "3_1618299067280330771",
+                    "start": 281,
+                    "url": "https://t.co/a6raL36qIE"
+                }
+            ]
+        },
+        "id": "1618299536056934402",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 658,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Today, Centrica Carers Network Co-Chairs Patrick McCarthy and John Dunster spoke at a UK MP drop in session for MPs in support of @wendychambLD Carer\u2019s Leave Bill.\n\nWe're proud to support the bill which would give 2.4M working carers in the UK the right to 5 days of unpaid leave. https://t.co/a6raL36qIE"
+    }
+}

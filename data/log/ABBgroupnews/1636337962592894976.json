@@ -1,0 +1,81 @@
+{
+    "1636337962592894976": {
+        "attachments": {
+            "media_keys": [
+                "3_1636337863670349827"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-16T12:05:46.000Z",
+        "edit_history_tweet_ids": [
+            "1636337962592894976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.5658,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 22,
+                    "normalized_text": "Robotics",
+                    "probability": 0.5119,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "US",
+                    "probability": 0.9712,
+                    "start": 35,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 23,
+                    "start": 14,
+                    "tag": "Robotics"
+                },
+                {
+                    "end": 114,
+                    "start": 100,
+                    "tag": "manufacturing"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/to-expand-robo\u2026",
+                    "end": 188,
+                    "expanded_url": "https://social.abb/to-expand-robotics-in-us",
+                    "start": 165,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/100873/prsrl-abb-to-expand-robotics-factory-in-us",
+                    "url": "https://t.co/UitSDUGMUY"
+                },
+                {
+                    "display_url": "pic.twitter.com/xXzwVJVnoc",
+                    "end": 212,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1636337962592894976/photo/1",
+                    "media_key": "3_1636337863670349827",
+                    "start": 189,
+                    "url": "https://t.co/xXzwVJVnoc"
+                }
+            ]
+        },
+        "id": "1636337962592894976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1672,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "ABB to expand #Robotics factory in US. The expansion featuring the latest in automated and advanced #manufacturing processes is to open in November 2023.\nRead more: https://t.co/UitSDUGMUY https://t.co/xXzwVJVnoc"
+    }
+}

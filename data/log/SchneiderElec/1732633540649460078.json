@@ -1,0 +1,95 @@
+{
+    "1732633540649460078": {
+        "attachments": {
+            "media_keys": [
+                "3_1732633538543906816"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-12-07T05:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1732633540649460078"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "GenerativeAI",
+                    "probability": 0.6304,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Sreedhar Sistu",
+                    "probability": 0.5287,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "AI",
+                    "probability": 0.7535,
+                    "start": 91,
+                    "type": "Organization"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "GenAI",
+                    "probability": 0.5549,
+                    "start": 146,
+                    "type": "Organization"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Summit",
+                    "probability": 0.6272,
+                    "start": 176,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 38,
+                    "tag": "GenerativeAI"
+                },
+                {
+                    "end": 151,
+                    "start": 145,
+                    "tag": "GenAI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6015RJZ2D",
+                    "end": 247,
+                    "expanded_url": "http://spr.ly/l/6015RJZ2D",
+                    "start": 224,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6015RJZ2D",
+                    "url": "https://t.co/bEiOmBZYkO"
+                },
+                {
+                    "display_url": "pic.twitter.com/z1VizZdcmz",
+                    "end": 271,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1732633540649460078/photo/1",
+                    "media_key": "3_1732633538543906816",
+                    "start": 248,
+                    "url": "https://t.co/z1VizZdcmz"
+                }
+            ]
+        },
+        "id": "1732633540649460078",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1040,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Discover the transformative impact of #GenerativeAI on businesses. Sreedhar Sistu, our VP, AI Offers will delve into our strategic deployment of #GenAI at the Chief AI Officer Summit. Learn about the crucial elements (cont) https://t.co/bEiOmBZYkO https://t.co/z1VizZdcmz"
+    }
+}

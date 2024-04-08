@@ -1,0 +1,103 @@
+{
+    "1633854590285225987": {
+        "attachments": {
+            "media_keys": [
+                "7_1633854512946454528"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-09T15:37:44.000Z",
+        "edit_history_tweet_ids": [
+            "1633854590285225987"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "DYK",
+                    "probability": 0.4579,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "HealthHub",
+                    "probability": 0.6342,
+                    "start": 139,
+                    "type": "Other"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "UICWCHSR2",
+                    "probability": 0.6311,
+                    "start": 257,
+                    "type": "Other"
+                },
+                {
+                    "end": 281,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.5021,
+                    "start": 268,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 69,
+                    "tag": "DYK"
+                },
+                {
+                    "end": 127,
+                    "start": 115,
+                    "tag": "maintenance"
+                },
+                {
+                    "end": 170,
+                    "start": 160,
+                    "tag": "highspeed"
+                },
+                {
+                    "end": 266,
+                    "start": 256,
+                    "tag": "UICWCHSR2"
+                },
+                {
+                    "end": 282,
+                    "start": 267,
+                    "tag": "AlstomServices"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/gUTa50Neb0n",
+                    "end": 255,
+                    "expanded_url": "http://ow.ly/gUTa50Neb0n",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/solutions/rolling-stock/high-speed-trains-complete-portfolio-every-need",
+                    "url": "https://t.co/j7oTMaWvR4"
+                },
+                {
+                    "display_url": "pic.twitter.com/U5aTmS1znX",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Alstom/status/1633854590285225987/video/1",
+                    "media_key": "7_1633854512946454528",
+                    "start": 283,
+                    "url": "https://t.co/U5aTmS1znX"
+                }
+            ]
+        },
+        "id": "1633854590285225987",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2070,
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Everyone knows high-performance machines need special attention. But #DYK that our telediagnostic &amp; predictive #maintenance tools like HealthHub can reduce #highspeed &amp; very high-speed train maintenance costs by up to 30%?  https://t.co/j7oTMaWvR4 #UICWCHSR2 #AlstomServices https://t.co/U5aTmS1znX"
+    }
+}

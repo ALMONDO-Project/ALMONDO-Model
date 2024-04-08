@@ -1,0 +1,74 @@
+{
+    "1646858937365413888": {
+        "attachments": {
+            "media_keys": [
+                "3_1646858463610372098"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-14T12:52:22.000Z",
+        "edit_history_tweet_ids": [
+            "1646858937365413888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Mexico",
+                    "probability": 0.93,
+                    "start": 46,
+                    "type": "Place"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9817,
+                    "start": 57,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 263,
+                    "start": 256,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 274,
+                    "start": 264,
+                    "tag": "logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eeQEKmBd",
+                    "end": 255,
+                    "expanded_url": "https://lnkd.in/eeQEKmBd",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/04/13/maersk-opens-new-global-service-centres-in-mexico-and-brazil",
+                    "url": "https://t.co/EMQuQyBMUg"
+                },
+                {
+                    "display_url": "pic.twitter.com/2ss80yqiW5",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1646858937365413888/photo/1",
+                    "media_key": "3_1646858463610372098",
+                    "start": 275,
+                    "url": "https://t.co/2ss80yqiW5"
+                }
+            ]
+        },
+        "id": "1646858937365413888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4968,
+            "like_count": 34,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "\ud83d\udce2We are opening new Global Service Centres in Mexico and Brazil \n\nHighlights include:\n\ud83e\udd1d\ud83c\udffc A wide combination of talent availability across functions and disciplines\n\ud83c\udf0d Regional expertise\n\ud83d\udce3 Local language support \n\nRead press release: https://t.co/EMQuQyBMUg\n#maersk #logistics https://t.co/2ss80yqiW5"
+    }
+}

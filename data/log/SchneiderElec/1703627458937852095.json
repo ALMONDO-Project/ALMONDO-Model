@@ -1,0 +1,76 @@
+{
+    "1703627458937852095": {
+        "attachments": {
+            "media_keys": [
+                "13_1703627412406177792"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-18T04:30:12.000Z",
+        "edit_history_tweet_ids": [
+            "1703627458937852095"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "WorldWaterMonitoringDay",
+                    "probability": 0.6958,
+                    "start": 4,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 3,
+                    "tag": "WorldWaterMonitoringDay"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Read about how digitizing operations and using intelligent monitoring helped an Italian utility reduce water losses and boost earnings.",
+                    "display_url": "spr.ly/6008PNnzr",
+                    "end": 140,
+                    "expanded_url": "http://spr.ly/6008PNnzr",
+                    "images": [
+                        {
+                            "height": 1707,
+                            "url": "https://pbs.twimg.com/news_img/1766052159412408320/cEx5an0v?format=jpg&name=orig",
+                            "width": 2560
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1766052159412408320/cEx5an0v?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 117,
+                    "status": 200,
+                    "title": "How one utility reduced non-revenue water with intelligent monitoring",
+                    "unwound_url": "https://blog.se.com/industry/water-and-wastewater/2023/09/12/how-one-utility-reduced-non-revenue-water-with-intelligent-monitoring/",
+                    "url": "https://t.co/3s4cPXNald"
+                },
+                {
+                    "display_url": "pic.twitter.com/B2N732sGz9",
+                    "end": 164,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1703627458937852095/video/1",
+                    "media_key": "13_1703627412406177792",
+                    "start": 141,
+                    "url": "https://t.co/B2N732sGz9"
+                }
+            ]
+        },
+        "id": "1703627458937852095",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 772,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "On #WorldWaterMonitoringDay, learn how we are supporting industries to optimize water supply and monitoring systems: https://t.co/3s4cPXNald https://t.co/B2N732sGz9"
+    }
+}

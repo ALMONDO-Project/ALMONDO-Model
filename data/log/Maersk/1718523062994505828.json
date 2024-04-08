@@ -1,0 +1,103 @@
+{
+    "1718523062994505828": {
+        "attachments": {
+            "media_keys": [
+                "3_1711709797643694080"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-29T07:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1718523062994505828"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "SaudiArabia",
+                    "probability": 0.7389,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Maersk",
+                    "probability": 0.2634,
+                    "start": 180,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 103,
+                    "start": 91,
+                    "tag": "SaudiArabia"
+                },
+                {
+                    "end": 152,
+                    "start": 133,
+                    "tag": "CustomerExperience"
+                },
+                {
+                    "end": 186,
+                    "start": 179,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 209,
+                    "start": 187,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 220,
+                    "start": 210,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 236,
+                    "start": 221,
+                    "tag": "Digitalisation"
+                },
+                {
+                    "end": 257,
+                    "start": 237,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 276,
+                    "start": 258,
+                    "tag": "LogisticsInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/digit\u2026",
+                    "end": 177,
+                    "expanded_url": "https://www.maersk.com/insights/digitalisation/customer-experience-saudi-arabia",
+                    "start": 154,
+                    "unwound_url": "https://www.maersk.com/insights/digitalisation/customer-experience-saudi-arabia",
+                    "url": "https://t.co/7uus2XwWYz"
+                },
+                {
+                    "display_url": "pic.twitter.com/9V2nFC3akB",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1718523062994505828/photo/1",
+                    "media_key": "3_1711709797643694080",
+                    "start": 277,
+                    "url": "https://t.co/9V2nFC3akB"
+                }
+            ]
+        },
+        "id": "1718523062994505828",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3664,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "From augmented reality to customised marketing, here are the key tools retail companies in #SaudiArabia use to adapt and personalise #CustomerExperience: https://t.co/7uus2XwWYz\n\n#Maersk #SupplyChainManagement #Logistics #Digitalisation #IntegratedLogistics #LogisticsInsights https://t.co/9V2nFC3akB"
+    }
+}

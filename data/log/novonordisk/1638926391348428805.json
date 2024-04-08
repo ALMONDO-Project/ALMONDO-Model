@@ -1,0 +1,38 @@
+{
+    "1638926391348428805": {
+        "author_id": "194037150",
+        "created_at": "2023-03-23T15:31:16.000Z",
+        "edit_history_tweet_ids": [
+            "1638926391348428805"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4629,
+                    "start": 54,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "PRESS"
+                }
+            ]
+        },
+        "id": "1638926391348428805",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4826,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#PRESS Resolutions from the Annual General Meeting of Novo Nordisk A/S"
+    }
+}

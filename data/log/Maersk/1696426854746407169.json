@@ -1,0 +1,60 @@
+{
+    "1696426854746407169": {
+        "attachments": {
+            "media_keys": [
+                "7_1696426428043026432"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-29T07:37:34.000Z",
+        "edit_history_tweet_ids": [
+            "1696426854746407169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Affan Ahmed",
+                    "probability": 0.5096,
+                    "start": 9,
+                    "type": "Person"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6108,
+                    "start": 57,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 63,
+                    "start": 56,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Jaz9KgQcM0",
+                    "end": 312,
+                    "expanded_url": "https://twitter.com/Maersk/status/1696426854746407169/video/1",
+                    "media_key": "7_1696426428043026432",
+                    "start": 289,
+                    "url": "https://t.co/Jaz9KgQcM0"
+                }
+            ]
+        },
+        "id": "1696426854746407169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4513,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Watch as Affan Ahmed, Intermodal Execution Associate at #Maersk explains how he &amp; his team thrive through difficult logistical challenges to deliver aid &amp; relief shipments to victims of affected areas when circumstances as natural disasters impact infrastructure and connectivity. https://t.co/Jaz9KgQcM0"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "1705152470035357975": {
+        "attachments": {
+            "media_keys": [
+                "3_1705152464960249856"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-22T09:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1705152470035357975"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "GenAI",
+                    "probability": 0.5469,
+                    "start": 38,
+                    "type": "Organization"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "AI",
+                    "probability": 0.671,
+                    "start": 97,
+                    "type": "Organization"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "AI",
+                    "probability": 0.6043,
+                    "start": 154,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6012uBjSp",
+                    "end": 250,
+                    "expanded_url": "http://spr.ly/l/6012uBjSp",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6012uBjSp",
+                    "url": "https://t.co/Ux0piKX6Pe"
+                },
+                {
+                    "display_url": "pic.twitter.com/gJmNkjl4vx",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1705152470035357975/photo/1",
+                    "media_key": "3_1705152464960249856",
+                    "start": 251,
+                    "url": "https://t.co/gJmNkjl4vx"
+                }
+            ]
+        },
+        "id": "1705152470035357975",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1151,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Best gift to our kids? Ensuring their GenAI world is responsible and sustainable, says our VP of AI Strategy &amp; Innovation Didem Un Ates. Discover how AI may impact our jobs and our environment and how to ensure that (cont) https://t.co/Ux0piKX6Pe https://t.co/gJmNkjl4vx"
+    }
+}

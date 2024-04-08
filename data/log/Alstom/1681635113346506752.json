@@ -1,0 +1,98 @@
+{
+    "1681635113346506752": {
+        "attachments": {
+            "media_keys": [
+                "7_1681634195519537152"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-07-19T12:00:28.000Z",
+        "edit_history_tweet_ids": [
+            "1681635113346506752"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Alstom",
+                    "probability": 0.5796,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 39,
+                    "normalized_text": "metros",
+                    "probability": 0.5262,
+                    "start": 34,
+                    "type": "Place"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Alstom",
+                    "probability": 0.405,
+                    "start": 157,
+                    "type": "Place"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Metropolis",
+                    "probability": 0.72,
+                    "start": 165,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 33,
+                    "tag": "metros"
+                },
+                {
+                    "end": 175,
+                    "start": 164,
+                    "tag": "Metropolis"
+                },
+                {
+                    "end": 205,
+                    "start": 198,
+                    "tag": "design"
+                },
+                {
+                    "end": 234,
+                    "start": 222,
+                    "tag": "performance"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/tTLS50P8Ga6",
+                    "end": 273,
+                    "expanded_url": "https://ow.ly/tTLS50P8Ga6",
+                    "start": 250,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/solutions/rolling-stock/metro-safe-quiet-and-green-solutions-urban-mobility?utm_source=organic_social&utm_medium=twitter&utm_content=page&utm_campaign=RSC",
+                    "url": "https://t.co/Sm4dgVukKh"
+                },
+                {
+                    "display_url": "pic.twitter.com/I5rXisLXWq",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Alstom/status/1681635113346506752/video/1",
+                    "media_key": "7_1681634195519537152",
+                    "start": 274,
+                    "url": "https://t.co/I5rXisLXWq"
+                }
+            ]
+        },
+        "id": "1681635113346506752",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2440,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Alstom carries a rich history in #metros and that's why we're proud to have our metros operating in 10/10 of the oldest metro networks around the world. Our Alstom #Metropolis metros offer a unique #design and the highest #performance.\ud83d\ude87\n\nLearn more: https://t.co/Sm4dgVukKh https://t.co/I5rXisLXWq"
+    }
+}

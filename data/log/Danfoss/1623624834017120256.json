@@ -1,0 +1,77 @@
+{
+    "1623624834017120256": {
+        "author_id": "95291408",
+        "created_at": "2023-02-09T10:08:20.000Z",
+        "edit_history_tweet_ids": [
+            "1623624834017120256"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4975,
+                    "start": 84,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "EPBD",
+                    "probability": 0.6957,
+                    "start": 119,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 46,
+                    "start": 29,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 91,
+                    "start": 83,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 123,
+                    "start": 118,
+                    "tag": "EPBD"
+                },
+                {
+                    "end": 182,
+                    "start": 168,
+                    "tag": "decarbonizing"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "84679163",
+                    "start": 7,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/CiaranCuffe/st\u2026",
+                    "end": 226,
+                    "expanded_url": "https://twitter.com/CiaranCuffe/status/1623596956965642240",
+                    "start": 203,
+                    "url": "https://t.co/aA4RbDZws2"
+                }
+            ]
+        },
+        "id": "1623624834017120256",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 763,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "As the @IEA has pointed out, #EnergyEfficiency can take us one-third of the way to #NetZero. We are behind you on the #EPBD to support increasing energy efficiency and #decarbonizing the building stock! https://t.co/aA4RbDZws2"
+    }
+}

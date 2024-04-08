@@ -1,0 +1,49 @@
+{
+    "1678744554390843393": {
+        "author_id": "258725128",
+        "created_at": "2023-07-11T12:34:25.000Z",
+        "edit_history_tweet_ids": [
+            "1678744554390843393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.6408,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 18,
+                    "tag": "AlstomServices"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/OPzH50P8qPa",
+                    "end": 282,
+                    "expanded_url": "https://ow.ly/OPzH50P8qPa",
+                    "start": 259,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/solutions/services/asset-life-management-extending-lifetime-our-customers-fleets?utm_source=social_all&utm_medium=twitter&utm_content=efdc7d4a-51c7-470f-92be-5687850336ef&utm_campaign=Alstom_Services",
+                    "url": "https://t.co/956OB3K3Uc"
+                }
+            ]
+        },
+        "id": "1678744554390843393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1899,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Did you know that #AlstomServices can extend the lifetime of a train by up to 20 years with our asset life management solutions? We provide a portfolio of solutions to enhance performance, improve passenger experience &amp; make trains greener. \n\nLearn more: https://t.co/956OB3K3Uc"
+    }
+}

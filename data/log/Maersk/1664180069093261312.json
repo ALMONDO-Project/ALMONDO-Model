@@ -1,0 +1,82 @@
+{
+    "1664180069093261312": {
+        "attachments": {
+            "media_keys": [
+                "7_1664179998599651328"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-01T08:00:22.000Z",
+        "edit_history_tweet_ids": [
+            "1664180069093261312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Children",
+                    "probability": 0.5681,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 29,
+                    "normalized_text": "s",
+                    "probability": 0.5099,
+                    "start": 29,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "maersk",
+                    "probability": 0.4434,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 221,
+                    "start": 214,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 248,
+                    "start": 222,
+                    "tag": "InternationalChildrensDay"
+                },
+                {
+                    "end": 269,
+                    "start": 249,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 275,
+                    "start": 270,
+                    "tag": "lego"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UDrlR2wOGF",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1664180069093261312/video/1",
+                    "media_key": "7_1664179998599651328",
+                    "start": 276,
+                    "url": "https://t.co/UDrlR2wOGF"
+                }
+            ]
+        },
+        "id": "1664180069093261312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4062,
+            "like_count": 50,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "Happy International Children's Day! Let's build a brighter future for children by ensuring their access to essential goods, education, and play. Join us in supporting their well-being and limitless potential! \ud83c\udf1f\ud83d\udc67\ud83d\udc66 \n#maersk #InternationalChildrensDay #IntegratedLogistics #lego https://t.co/UDrlR2wOGF"
+    }
+}

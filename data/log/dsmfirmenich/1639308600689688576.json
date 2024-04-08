@@ -1,0 +1,84 @@
+{
+    "1639308600689688576": {
+        "attachments": {
+            "media_keys": [
+                "3_1639308595786399747"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-03-24T16:50:01.000Z",
+        "edit_history_tweet_ids": [
+            "1639308600689688576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "Spring Classics",
+                    "probability": 0.639,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "BruggeDePanne",
+                    "probability": 0.4173,
+                    "start": 201,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 214,
+                    "start": 200,
+                    "tag": "BruggeDePanne"
+                },
+                {
+                    "end": 245,
+                    "start": 217,
+                    "tag": "PerformanceThroughNutrition"
+                },
+                {
+                    "end": 262,
+                    "start": 246,
+                    "tag": "KeepChallenging"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 71,
+                    "id": "1752644041953644544",
+                    "start": 63,
+                    "username": "Teamdsm"
+                },
+                {
+                    "end": 121,
+                    "id": "721318218745425920",
+                    "start": 106,
+                    "username": "pfeiffergeorgi"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TsbfTn8tQe",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/DSM/status/1639308600689688576/photo/1",
+                    "media_key": "3_1639308595786399747",
+                    "start": 263,
+                    "url": "https://t.co/TsbfTn8tQe"
+                }
+            ]
+        },
+        "id": "1639308600689688576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6101,
+            "like_count": 38,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "What a way to start the Spring Classics cycling season for the @TeamDSM women! \ud83c\udf89\n\nHuge congratulations to @pfeiffergeorgi and the rest of the team for their impressive World Tour-level victory at the #BruggeDePanne.\n\n#PerformanceThroughNutrition #KeepChallenging https://t.co/TsbfTn8tQe"
+    }
+}

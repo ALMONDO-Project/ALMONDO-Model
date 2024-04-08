@@ -1,0 +1,84 @@
+{
+    "1639552750467043335": {
+        "author_id": "95291408",
+        "created_at": "2023-03-25T09:00:11.000Z",
+        "edit_history_tweet_ids": [
+            "1639552750467043335"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "UK",
+                    "probability": 0.9844,
+                    "start": 24,
+                    "type": "Place"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "NetZero",
+                    "probability": 0.6298,
+                    "start": 89,
+                    "type": "Organization"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Daniel Scott",
+                    "probability": 0.9446,
+                    "start": 166,
+                    "type": "Person"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "Northern Europe Region",
+                    "probability": 0.7184,
+                    "start": 202,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 96,
+                    "start": 88,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 201,
+                    "id": "467336360",
+                    "start": 186,
+                    "username": "DanfossClimate"
+                },
+                {
+                    "end": 243,
+                    "id": "22157005",
+                    "start": 228,
+                    "username": "Facilitate_Mag"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3FNtb42",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3FNtb42",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.facilitatemagazine.com/content/news/2023/02/28/public-building-decarbonisation-must-be-done-five-times-faster",
+                    "url": "https://t.co/hpEUGSOX2x"
+                }
+            ]
+        },
+        "id": "1639552750467043335",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 754,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Public buildings in the UK must be decarbonized 5x faster than the current rate to meet #NetZero targets. There is significant potential to recycle excess heat, said Daniel Scott, VP of @DanfossClimate Northern Europe Region to @Facilitate_Mag. Read more: https://t.co/hpEUGSOX2x"
+    }
+}

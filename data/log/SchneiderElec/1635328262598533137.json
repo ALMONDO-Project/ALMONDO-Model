@@ -1,0 +1,83 @@
+{
+    "1635328262598533137": {
+        "attachments": {
+            "media_keys": [
+                "3_1635328260069367836"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-13T17:13:35.000Z",
+        "edit_history_tweet_ids": [
+            "1635328262598533137"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Gaya Herrington",
+                    "probability": 0.9054,
+                    "start": 36,
+                    "type": "Person"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "ESG",
+                    "probability": 0.4156,
+                    "start": 63,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 188,
+                    "start": 174,
+                    "tag": "EmbraceEquity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 23,
+                    "id": "1247810319608451079",
+                    "start": 14,
+                    "username": "un_today"
+                },
+                {
+                    "end": 154,
+                    "id": "1265975128103550976",
+                    "start": 140,
+                    "username": "illuminemNews"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60173NKMP",
+                    "end": 279,
+                    "expanded_url": "http://spr.ly/60173NKMP",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://untoday.org/we-are-working-in-a-complex-system/",
+                    "url": "https://t.co/Vn2ipUtU5K"
+                },
+                {
+                    "display_url": "pic.twitter.com/WzqpzhbUaA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1635328262598533137/photo/1",
+                    "media_key": "3_1635328260069367836",
+                    "start": 280,
+                    "url": "https://t.co/WzqpzhbUaA"
+                }
+            ]
+        },
+        "id": "1635328262598533137",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 988,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 11
+        },
+        "text": "In the recent @un_today  interview, Gaya Herrington, our VP of ESG research, also named one of the top 100 Female Sustainability leaders by @illuminemNews , explained how we #EmbraceEquity on the business agenda &amp; culture in the STEM field. Read more: https://t.co/Vn2ipUtU5K https://t.co/WzqpzhbUaA"
+    }
+}

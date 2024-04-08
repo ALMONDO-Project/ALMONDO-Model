@@ -1,0 +1,77 @@
+{
+    "1622928166246383616": {
+        "attachments": {
+            "media_keys": [
+                "3_1622928164132470784"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-07T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1622928166246383616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.8119,
+                    "start": 104,
+                    "type": "Person"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Microgrid",
+                    "probability": 0.4999,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 171,
+                    "start": 162,
+                    "tag": "Prosumer"
+                },
+                {
+                    "end": 182,
+                    "start": 172,
+                    "tag": "Microgrid"
+                },
+                {
+                    "end": 195,
+                    "start": 183,
+                    "tag": "GreenEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60123goZA",
+                    "end": 161,
+                    "expanded_url": "http://spr.ly/60123goZA",
+                    "start": 138,
+                    "url": "https://t.co/lR1f4bwh9e"
+                },
+                {
+                    "display_url": "pic.twitter.com/EhAQa4G4Fq",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1622928166246383616/photo/1",
+                    "media_key": "3_1622928164132470784",
+                    "start": 196,
+                    "url": "https://t.co/EhAQa4G4Fq"
+                }
+            ]
+        },
+        "id": "1622928166246383616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1274,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Can we predict energy prices thanks to data-driven technology? Read the blog from our Chief AI Officer, Philippe Rambach, and learn more: https://t.co/lR1f4bwh9e\n#Prosumer #Microgrid #GreenEnergy https://t.co/EhAQa4G4Fq"
+    }
+}

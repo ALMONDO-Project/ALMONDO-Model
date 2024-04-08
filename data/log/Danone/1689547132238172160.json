@@ -1,0 +1,92 @@
+{
+    "1689547132238172160": {
+        "attachments": {
+            "media_keys": [
+                "13_1687075683905007616"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-08-10T08:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1689547132238172160"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Norbert Tarayre",
+                    "probability": 0.7128,
+                    "start": 12,
+                    "type": "Person"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Danette",
+                    "probability": 0.3788,
+                    "start": 138,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Danette",
+                    "probability": 0.5208,
+                    "start": 211,
+                    "type": "Person"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "ChampionsForLife",
+                    "probability": 0.7233,
+                    "start": 220,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 218,
+                    "start": 210,
+                    "tag": "Danette"
+                },
+                {
+                    "end": 236,
+                    "start": 219,
+                    "tag": "ChampionsForLife"
+                },
+                {
+                    "end": 258,
+                    "start": 237,
+                    "tag": "ChampionATousLesAges"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "1103361784885506048",
+                    "start": 32,
+                    "username": "SoldeTyphaine"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/HFuSncjzX6",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Danone/status/1689547132238172160/video/1",
+                    "media_key": "13_1687075683905007616",
+                    "start": 259,
+                    "url": "https://t.co/HFuSncjzX6"
+                }
+            ]
+        },
+        "id": "1689547132238172160",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1463,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Today, Chef Norbert Tarayre and @SoldeTyphaine revisit a classic of Italian cuisine: a panna cotta made with two pots of vanilla-flavored Danette \ud83d\ude0b A super gourmet dessert that won't leave anyone indifferent!\n\n#Danette #ChampionsForLife #ChampionATousLesAges https://t.co/HFuSncjzX6"
+    }
+}

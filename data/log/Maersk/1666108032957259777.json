@@ -1,0 +1,88 @@
+{
+    "1666108032957259777": {
+        "attachments": {
+            "media_keys": [
+                "7_1666107929185988608"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-06T15:41:24.000Z",
+        "edit_history_tweet_ids": [
+            "1666108032957259777"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Gartner Supply Chain",
+                    "probability": 0.6829,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Mads Stensen",
+                    "probability": 0.8422,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4588,
+                    "start": 126,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "GHG",
+                    "probability": 0.6988,
+                    "start": 144,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 14,
+                    "tag": "Gartner"
+                },
+                {
+                    "end": 132,
+                    "start": 125,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/42tpKIl",
+                    "end": 277,
+                    "expanded_url": "https://bddy.me/42tpKIl",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/17/collaborate-to-achieve-sustainability-through-end-to-end-visibility?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_6452140298698_647A349CBD2D8&utm_term=VOCP&utm_content=EUR_Gartner",
+                    "url": "https://t.co/EsqgIDzwY0"
+                },
+                {
+                    "display_url": "pic.twitter.com/DhwDwbL7vI",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1666108032957259777/video/1",
+                    "media_key": "7_1666107929185988608",
+                    "start": 278,
+                    "url": "https://t.co/DhwDwbL7vI"
+                }
+            ]
+        },
+        "id": "1666108032957259777",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3148,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Today, at the #Gartner Supply Chain Symposium/Xpo\u2122 2023, Mads Stensen, Head of Sustainability for Key Clients, presented how #Maersk offers low GHG emission solutions for all transport modes &amp; help in gaining visibility of logistics emissions. More: https://t.co/EsqgIDzwY0 https://t.co/DhwDwbL7vI"
+    }
+}

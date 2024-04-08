@@ -1,0 +1,91 @@
+{
+    "1652985382797975555": {
+        "attachments": {
+            "media_keys": [
+                "7_1652980378418794500"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-01T10:36:40.000Z",
+        "edit_history_tweet_ids": [
+            "1652985382797975555"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3432,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "Beyond the Box",
+                    "probability": 0.956,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Spotify",
+                    "probability": 0.9477,
+                    "start": 202,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 6,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 22,
+                    "start": 14,
+                    "tag": "podcast"
+                },
+                {
+                    "end": 252,
+                    "start": 242,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 266,
+                    "start": 253,
+                    "tag": "beyondthebox"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "open.spotify.com/show/2ZBhpvwMJ\u2026",
+                    "end": 239,
+                    "expanded_url": "https://open.spotify.com/show/2ZBhpvwMJCdBwMIxtDDxtA",
+                    "start": 216,
+                    "status": 200,
+                    "unwound_url": "https://open.spotify.com/show/2ZBhpvwMJCdBwMIxtDDxtA",
+                    "url": "https://t.co/KLmpwo0M5s"
+                },
+                {
+                    "display_url": "pic.twitter.com/S128iqSMXw",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/Maersk/status/1652985382797975555/video/1",
+                    "media_key": "7_1652980378418794500",
+                    "start": 267,
+                    "url": "https://t.co/S128iqSMXw"
+                }
+            ]
+        },
+        "id": "1652985382797975555",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3962,
+            "like_count": 35,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "\ud83c\udf99\ufe0fOur #Maersk #podcast \u201cBeyond the Box\u201d is now live\ud83c\udfa7Listen and unpack global trade and supply chains in this first episode, where we discuss changes to trade patterns during turbulent times. \nListen on Spotify now \ud83d\udc49 https://t.co/KLmpwo0M5s \n\n#logistics #beyondthebox https://t.co/S128iqSMXw"
+    }
+}

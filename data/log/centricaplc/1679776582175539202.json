@@ -1,0 +1,111 @@
+{
+    "1679776582175539202": {
+        "attachments": {
+            "media_keys": [
+                "3_1679776543155838976",
+                "3_1679776553629040645",
+                "3_1679776567566782466",
+                "3_1679776578421633025"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-07-14T08:55:20.000Z",
+        "edit_history_tweet_ids": [
+            "1679776582175539202"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4602,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Hamilton Academy",
+                    "probability": 0.6828,
+                    "start": 66,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 41,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 150,
+                    "start": 134,
+                    "tag": "apprenticeships"
+                },
+                {
+                    "end": 170,
+                    "start": 151,
+                    "tag": "FutureEnergySkills"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 31,
+                    "id": "21125405",
+                    "start": 17,
+                    "username": "patrickharvie"
+                },
+                {
+                    "end": 40,
+                    "id": "46650770",
+                    "start": 32,
+                    "username": "scotgov"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/guTo5KGsQE",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1679776582175539202/photo/1",
+                    "media_key": "3_1679776543155838976",
+                    "start": 171,
+                    "url": "https://t.co/guTo5KGsQE"
+                },
+                {
+                    "display_url": "pic.twitter.com/guTo5KGsQE",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1679776582175539202/photo/1",
+                    "media_key": "3_1679776553629040645",
+                    "start": 171,
+                    "url": "https://t.co/guTo5KGsQE"
+                },
+                {
+                    "display_url": "pic.twitter.com/guTo5KGsQE",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1679776582175539202/photo/1",
+                    "media_key": "3_1679776567566782466",
+                    "start": 171,
+                    "url": "https://t.co/guTo5KGsQE"
+                },
+                {
+                    "display_url": "pic.twitter.com/guTo5KGsQE",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1679776582175539202/photo/1",
+                    "media_key": "3_1679776578421633025",
+                    "start": 171,
+                    "url": "https://t.co/guTo5KGsQE"
+                }
+            ]
+        },
+        "id": "1679776582175539202",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 444,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Great to welcome @patrickharvie @scotgov #NetZero Minister to our Hamilton Academy &amp; talk green skills, heat pumps and hydrogen \ud83d\udc99 #apprenticeships #FutureEnergySkills https://t.co/guTo5KGsQE"
+    }
+}

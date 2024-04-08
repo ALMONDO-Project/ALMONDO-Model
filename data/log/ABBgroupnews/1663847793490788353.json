@@ -1,0 +1,89 @@
+{
+    "1663847793490788353": {
+        "attachments": {
+            "media_keys": [
+                "13_1663842807281319936"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-05-31T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1663847793490788353"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "World Cup",
+                    "probability": 0.5985,
+                    "start": 41,
+                    "type": "Organization"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "ABB",
+                    "probability": 0.7989,
+                    "start": 64,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 67,
+                    "start": 63,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 123,
+                    "start": 107,
+                    "tag": "betterdecisions"
+                },
+                {
+                    "end": 141,
+                    "start": 124,
+                    "tag": "energyefficiency"
+                },
+                {
+                    "end": 149,
+                    "start": 142,
+                    "tag": "skiing"
+                },
+                {
+                    "end": 161,
+                    "start": 150,
+                    "tag": "technology"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/ability-ski-wo\u2026",
+                    "end": 106,
+                    "expanded_url": "https://social.abb/ability-ski-world-cup",
+                    "start": 83,
+                    "status": 200,
+                    "unwound_url": "https://stories.ability.abb.com/ski-world-cup/",
+                    "url": "https://t.co/vNmiLizqjm"
+                },
+                {
+                    "display_url": "pic.twitter.com/zE0hvUApGN",
+                    "end": 185,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1663847793490788353/video/1",
+                    "media_key": "13_1663842807281319936",
+                    "start": 162,
+                    "url": "https://t.co/zE0hvUApGN"
+                }
+            ]
+        },
+        "id": "1663847793490788353",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1564,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Making perfect snow with less energy - a World Cup winner from #ABB\nDiscover more: https://t.co/vNmiLizqjm\n#betterdecisions #energyefficiency #skiing #technology https://t.co/zE0hvUApGN"
+    }
+}

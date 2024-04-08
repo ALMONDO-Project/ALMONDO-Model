@@ -1,0 +1,89 @@
+{
+    "1640291024604897282": {
+        "attachments": {
+            "media_keys": [
+                "7_1640287463401742338"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-27T09:53:50.000Z",
+        "edit_history_tweet_ids": [
+            "1640291024604897282"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3987,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "TEDFutureForum",
+                    "probability": 0.7763,
+                    "start": 40,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 54,
+                    "start": 39,
+                    "tag": "TEDFutureForum"
+                },
+                {
+                    "end": 155,
+                    "start": 141,
+                    "tag": "climateaction"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "15492359",
+                    "start": 69,
+                    "username": "TEDTalks"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The TED Future Forum is an initiative of TED Countdown, focused on the role of business in accelerating solutions to the climate crisis. Given its reach and scale, business is vital to transforming the global economy and creating a more prosperous future for all. Yet, insufficient action continues to erode trust in business \u2013 both in the public eye and internally. Achieving an equitable, zero-carbon world requires nothing less than a transformation of the global economy. Research shows there is a multi-tril",
+                    "display_url": "countdown.ted.com/future-forum",
+                    "end": 276,
+                    "expanded_url": "https://countdown.ted.com/future-forum",
+                    "start": 253,
+                    "status": 200,
+                    "title": "Future Forum",
+                    "unwound_url": "https://countdown.ted.com/future-forum",
+                    "url": "https://t.co/MbVSHrDVqT"
+                },
+                {
+                    "display_url": "pic.twitter.com/vDsj9IAokB",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1640291024604897282/video/1",
+                    "media_key": "7_1640287463401742338",
+                    "start": 277,
+                    "url": "https://t.co/vDsj9IAokB"
+                }
+            ]
+        },
+        "id": "1640291024604897282",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4654,
+            "like_count": 56,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "#Maersk is a proud founding partner of #TEDFutureForum, initiated by @TEDTalks together with other founding partners, with high ambitions on #climateaction and commitment to sharing solutions and learnings for a sustainable future for all.\n\nLearn more: https://t.co/MbVSHrDVqT https://t.co/vDsj9IAokB"
+    }
+}

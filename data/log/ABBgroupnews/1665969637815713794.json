@@ -1,0 +1,100 @@
+{
+    "1665969637815713794": {
+        "attachments": {
+            "media_keys": [
+                "3_1665969244545114113"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-06T06:31:28.000Z",
+        "edit_history_tweet_ids": [
+            "1665969637815713794"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "ABB E",
+                    "probability": 0.6349,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 28,
+                    "normalized_text": "HVC360",
+                    "probability": 0.8419,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "ABB",
+                    "probability": 0.6905,
+                    "start": 115,
+                    "type": "Other"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "emobility",
+                    "probability": 0.4754,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "ElectricVehicles",
+                    "probability": 0.5854,
+                    "start": 131,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 118,
+                    "start": 114,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 129,
+                    "start": 119,
+                    "tag": "emobility"
+                },
+                {
+                    "end": 147,
+                    "start": 130,
+                    "tag": "ElectricVehicles"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/e-mobility-unv\u2026",
+                    "end": 113,
+                    "expanded_url": "https://social.abb/e-mobility-unveils-HVC360",
+                    "start": 90,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/103789/abb-e-mobility-unveils-hvc360-the-next-evolution-in-fleet-charging-solutions",
+                    "url": "https://t.co/Yum52fiOU5"
+                },
+                {
+                    "display_url": "pic.twitter.com/api75NPOOQ",
+                    "end": 171,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1665969637815713794/photo/1",
+                    "media_key": "3_1665969244545114113",
+                    "start": 148,
+                    "url": "https://t.co/api75NPOOQ"
+                }
+            ]
+        },
+        "id": "1665969637815713794",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2049,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "ABB E-mobility unveils HVC360, the next evolution in fleet charging solutions.\nRead more: https://t.co/Yum52fiOU5\n#ABB #emobility #ElectricVehicles https://t.co/api75NPOOQ"
+    }
+}

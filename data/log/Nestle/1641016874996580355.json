@@ -1,0 +1,98 @@
+{
+    "1641016874996580355": {
+        "author_id": "23085995",
+        "created_at": "2023-03-29T09:58:06.000Z",
+        "edit_history_tweet_ids": [
+            "1641016874996580355"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "Ukraine",
+                    "probability": 0.9775,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Russia",
+                    "probability": 0.9807,
+                    "start": 130,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "Nespresso",
+                    "probability": 0.4495,
+                    "start": 175,
+                    "type": "Organization"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "Pellegrino",
+                    "probability": 0.5566,
+                    "start": 189,
+                    "type": "Other"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "KitKat",
+                    "probability": 0.5056,
+                    "start": 201,
+                    "type": "Organization"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Nesquik",
+                    "probability": 0.4694,
+                    "start": 212,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "As the war rages in Ukraine, our activities in Russia will focus on providing essential food, such as infant food and medical/hospital nutrition \u2014 not on making a profit. This approach is in line with our purpose and values.",
+                    "display_url": "nes.tl/UARU",
+                    "end": 291,
+                    "expanded_url": "https://nes.tl/UARU",
+                    "images": [
+                        {
+                            "height": 190,
+                            "url": "https://pbs.twimg.com/news_img/1763096048141271040/nUnkOfyr?format=jpg&name=orig",
+                            "width": 500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1763096048141271040/nUnkOfyr?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 268,
+                    "status": 200,
+                    "title": "Update on Ukraine and Russia",
+                    "unwound_url": "https://www.nestle.com/ask-nestle/our-company/answers/update-ukraine-russia",
+                    "url": "https://t.co/7tlBPyLawp"
+                },
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "end": 316,
+                    "expanded_url": "https://twitter.com/i/web/status/1641016874996580355",
+                    "start": 293,
+                    "url": "https://t.co/AJILpbeic2"
+                }
+            ]
+        },
+        "id": "1641016874996580355",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 272,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ceoralari Hi, thank you for reaching out. Since the outbreak of the war in Ukraine, we have drastically reduced our portfolio in Russia, suspending well-known brands such as Nespresso, S. Pellegrino, KitKat and Nesquik. We refocused our activities on delivering only https://t.co/7tlBPyLawp\u2026 https://t.co/AJILpbeic2"
+    }
+}

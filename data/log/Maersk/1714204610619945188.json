@@ -1,0 +1,92 @@
+{
+    "1714204610619945188": {
+        "attachments": {
+            "media_keys": [
+                "7_1714129082852773888"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-17T09:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1714204610619945188"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Patrick Hore",
+                    "probability": 0.655,
+                    "start": 6,
+                    "type": "Person"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "Head of Chemicals",
+                    "probability": 0.6373,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3456,
+                    "start": 46,
+                    "type": "Place"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3615,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 246,
+                    "start": 239,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 257,
+                    "start": 247,
+                    "tag": "AllTheWay"
+                },
+                {
+                    "end": 278,
+                    "start": 258,
+                    "tag": "ChemicalSupplyChain"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/46SyN8o",
+                    "end": 237,
+                    "expanded_url": "https://bit.ly/46SyN8o",
+                    "start": 214,
+                    "unwound_url": "https://www.maersk.com/industry-sectors/chemicals?utm_campaign=GLOBAL_MCO_EN_CHEM-EFFICIENCY-2H-2023-22092023-VIDEO1-TW-DROP1_AWR_PROMOTION_ONETIME_BROAD_BRO&utm_source=twitter&utm_medium=owned&utm_content=video#efficiency",
+                    "url": "https://t.co/fg9ddFo8Hh"
+                },
+                {
+                    "display_url": "pic.twitter.com/j4l2lsSS9V",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1714204610619945188/video/1",
+                    "media_key": "7_1714129082852773888",
+                    "start": 279,
+                    "url": "https://t.co/j4l2lsSS9V"
+                }
+            ]
+        },
+        "id": "1714204610619945188",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3505,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Watch Patrick Hore, Global Head of Chemicals, Maersk explain how the industry can tackle major operational\u00a0challenges, and how planning an efficient supply chain can lead to lower landed cost.\n\nFor the full video: https://t.co/fg9ddFo8Hh\n\n#Maersk #AllTheWay #ChemicalSupplyChain https://t.co/j4l2lsSS9V"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "1712457432251740457": {
+        "attachments": {
+            "media_keys": [
+                "3_1712457429378633728"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-10-12T13:17:22.000Z",
+        "edit_history_tweet_ids": [
+            "1712457432251740457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "UK",
+                    "probability": 0.9479,
+                    "start": 27,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 188,
+                    "id": "959448294832340992",
+                    "start": 172,
+                    "username": "CentricaSoln_UK"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A press release about business attitudes to hydrogen technology.",
+                    "display_url": "centrica.com/media-centre/n\u2026",
+                    "end": 235,
+                    "expanded_url": "https://www.centrica.com/media-centre/news/2023/hydrogen-first-uk-businesses-to-accelerate-hydrogen-technology-to-transform-their-energy-systems/",
+                    "start": 212,
+                    "status": 200,
+                    "title": "Hydrogen First: UK businesses to accelerate hydrogen technology to transform their energy systems",
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/hydrogen-first-uk-businesses-to-accelerate-hydrogen-technology-to-transform-their-energy-systems/",
+                    "url": "https://t.co/qxUPvlb9ZX"
+                },
+                {
+                    "display_url": "pic.twitter.com/iE7yLyENkL",
+                    "end": 259,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1712457432251740457/photo/1",
+                    "media_key": "3_1712457429378633728",
+                    "start": 236,
+                    "url": "https://t.co/iE7yLyENkL"
+                }
+            ]
+        },
+        "id": "1712457432251740457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 239,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Nearly two-thirds (59%) of UK businesses plan to explore the role of hydrogen-based energy technologies to help them transition to net zero, according to new research from @CentricaSoln_UK.\n\nFind out more here \ud83d\udc49 https://t.co/qxUPvlb9ZX https://t.co/iE7yLyENkL"
+    }
+}

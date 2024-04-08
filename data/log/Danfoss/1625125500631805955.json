@@ -1,0 +1,71 @@
+{
+    "1625125500631805955": {
+        "author_id": "95291408",
+        "created_at": "2023-02-13T13:31:27.000Z",
+        "edit_history_tweet_ids": [
+            "1625125500631805955"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Mads Clausen's Foundation",
+                    "probability": 0.4971,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Denmark",
+                    "probability": 0.7618,
+                    "start": 120,
+                    "type": "Place"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "Turkey",
+                    "probability": 0.8357,
+                    "start": 208,
+                    "type": "Place"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "Syria",
+                    "probability": 0.9048,
+                    "start": 219,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 140,
+                    "id": "1922647237",
+                    "start": 128,
+                    "username": "redbarnetdk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bmcfond.com/news/1-million\u2026",
+                    "end": 260,
+                    "expanded_url": "https://www.bmcfond.com/news/1-million-kroners-donation-to-earthquake-victims-via-save-the-children/",
+                    "start": 237,
+                    "status": 200,
+                    "unwound_url": "https://www.bmcfond.com/news/1-million-kroners-donation-to-earthquake-victims-via-save-the-children/",
+                    "url": "https://t.co/6Ym63q1fn9"
+                }
+            ]
+        },
+        "id": "1625125500631805955",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2666,
+            "like_count": 20,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "The Bitten &amp; Mads Clausen's Foundation, our main shareholder, announces 1 million DKK donation to Save the Children Denmark @redbarnetdk for children and young people affected by the severe earthquake in Turkey and Syria. Read more: https://t.co/6Ym63q1fn9"
+    }
+}

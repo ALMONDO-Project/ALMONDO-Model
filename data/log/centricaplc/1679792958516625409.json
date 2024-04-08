@@ -1,0 +1,111 @@
+{
+    "1679792958516625409": {
+        "attachments": {
+            "media_keys": [
+                "7_1679792892762550273"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-07-14T10:00:25.000Z",
+        "edit_history_tweet_ids": [
+            "1679792958516625409"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "UK",
+                    "probability": 0.9797,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "Net Zero",
+                    "probability": 0.7725,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "Glasgow",
+                    "probability": 0.9531,
+                    "start": 227,
+                    "type": "Place"
+                },
+                {
+                    "end": 251,
+                    "normalized_text": "WeAreCentrica",
+                    "probability": 0.3528,
+                    "start": 239,
+                    "type": "Place"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "GreenSkills",
+                    "probability": 0.3408,
+                    "start": 254,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 252,
+                    "start": 238,
+                    "tag": "WeAreCentrica"
+                },
+                {
+                    "end": 265,
+                    "start": 253,
+                    "tag": "GreenSkills"
+                },
+                {
+                    "end": 276,
+                    "start": 266,
+                    "tag": "GreenJobs"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 166,
+                    "id": "34374472",
+                    "start": 151,
+                    "username": "RachelReevesMP"
+                },
+                {
+                    "end": 179,
+                    "id": "201226827",
+                    "start": 168,
+                    "username": "AnasSarwar"
+                },
+                {
+                    "end": 197,
+                    "id": "18632946",
+                    "start": 185,
+                    "username": "jreynoldsMP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zvo6Al18ng",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1679792958516625409/video/1",
+                    "media_key": "7_1679792892762550273",
+                    "start": 277,
+                    "url": "https://t.co/zvo6Al18ng"
+                }
+            ]
+        },
+        "id": "1679792958516625409",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1548,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The UK can be at the forefront of the Net Zero transition, but we need to develop the right skills to deliver that vision.  \ud83d\udc9a\ud83c\udf0d\n\nLast week, we welcomed @RachelReevesMP, @AnasSarwar, and @jreynoldsMP to our training academy near Glasgow. \n\n#WeAreCentrica #GreenSkills #GreenJobs https://t.co/zvo6Al18ng"
+    }
+}

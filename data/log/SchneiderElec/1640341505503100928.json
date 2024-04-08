@@ -1,0 +1,81 @@
+{
+    "1640341505503100928": {
+        "attachments": {
+            "media_keys": [
+                "13_1640341403048787969"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-27T13:14:25.000Z",
+        "edit_history_tweet_ids": [
+            "1640341505503100928"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "UPS",
+                    "probability": 0.4929,
+                    "start": 20,
+                    "type": "Organization"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "EcoCare",
+                    "probability": 0.4305,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "SkipTheDrama",
+                    "probability": 0.4888,
+                    "start": 222,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 132,
+                    "start": 124,
+                    "tag": "EcoCare"
+                },
+                {
+                    "end": 234,
+                    "start": 221,
+                    "tag": "SkipTheDrama"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6011O6B1X",
+                    "end": 271,
+                    "expanded_url": "http://spr.ly/6011O6B1X",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/product-range/162286738-ecocare-for-singlephase-ups/?parent-category-id=7700&parent-subcategory-id=7720&filter=business-3-critical-power-cooling-and-racks&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9258441606&utm_campaign=Installed_Based_Services&country=Global#overview",
+                    "url": "https://t.co/mFeqe3gVTd"
+                },
+                {
+                    "display_url": "pic.twitter.com/NF6ZQPs7JA",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1640341505503100928/video/1",
+                    "media_key": "13_1640341403048787969",
+                    "start": 272,
+                    "url": "https://t.co/NF6ZQPs7JA"
+                }
+            ]
+        },
+        "id": "1640341505503100928",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1228,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "With a single-phase UPS fleet, an issue can turn into drama due to budget constraints and limited on-site team capacity. An #EcoCare services membership provides the support you need to act more effectively than ever and #SkipTheDrama\n\nLearn more: https://t.co/mFeqe3gVTd https://t.co/NF6ZQPs7JA"
+    }
+}

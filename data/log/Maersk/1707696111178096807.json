@@ -1,0 +1,91 @@
+{
+    "1707696111178096807": {
+        "attachments": {
+            "media_keys": [
+                "3_1707688714778849280"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-29T09:57:35.000Z",
+        "edit_history_tweet_ids": [
+            "1707696111178096807"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Cambodia",
+                    "probability": 0.9707,
+                    "start": 57,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "River Ocean Cleanup",
+                    "probability": 0.757,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Chroy Chongva",
+                    "probability": 0.6531,
+                    "start": 189,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "Phnom Penh city",
+                    "probability": 0.5305,
+                    "start": 204,
+                    "type": "Place"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4815,
+                    "start": 264,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 29,
+                    "start": 17,
+                    "tag": "environment"
+                },
+                {
+                    "end": 162,
+                    "start": 154,
+                    "tag": "cleanup"
+                },
+                {
+                    "end": 270,
+                    "start": 263,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7bV10T0kZI",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1707696111178096807/photo/1",
+                    "media_key": "3_1707688714778849280",
+                    "start": 271,
+                    "url": "https://t.co/7bV10T0kZI"
+                }
+            ]
+        },
+        "id": "1707696111178096807",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3128,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Together for the #environment\ud83d\udc9aRecently our colleagues in Cambodia joined forces with River Ocean Cleanup and primary students in their local community to #cleanup the riverbank and park of Chroy Chongva, Phnom Penh city.\ud83e\udd1d\ud83c\udffcThank you to everyone who participated!\ud83c\udf0d\n#Maersk https://t.co/7bV10T0kZI"
+    }
+}

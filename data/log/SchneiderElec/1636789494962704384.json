@@ -1,0 +1,76 @@
+{
+    "1636789494962704384": {
+        "author_id": "393757140",
+        "created_at": "2023-03-17T18:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1636789494962704384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 221,
+                    "normalized_text": "HM23",
+                    "probability": 0.586,
+                    "start": 218,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 216,
+                    "start": 202,
+                    "tag": "MakeItForLife"
+                },
+                {
+                    "end": 222,
+                    "start": 217,
+                    "tag": "HM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 165,
+                    "id": "23083866",
+                    "start": 150,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "EcoStruxure Automation Expert is Schneider Electric's latest evolution for the Industries of the future.Are you ready to revolutionize your industrial automa...",
+                    "display_url": "spr.ly/60193INNz",
+                    "end": 201,
+                    "expanded_url": "http://spr.ly/60193INNz",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1751895378679447552/2xaIru_C?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1751895378679447552/2xaIru_C?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 178,
+                    "status": 200,
+                    "title": "EcoStruxure Automation Expert Reinvents Your Industrial Automation System | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=kqDPIv-wAmg",
+                    "url": "https://t.co/9XV2Arrrmo"
+                }
+            ]
+        },
+        "id": "1636789494962704384",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 946,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "It's a jungle out there, but it doesn\u2019t have to be on a factory floor. Improve operations with software-centric industrial automation and visit us at @hannover_messe this April. https://t.co/9XV2Arrrmo #MakeItForLife #HM23"
+    }
+}

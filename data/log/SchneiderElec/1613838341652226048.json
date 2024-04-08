@@ -1,0 +1,87 @@
+{
+    "1613838341652226048": {
+        "attachments": {
+            "media_keys": [
+                "13_1613838271158566914"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-13T10:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1613838341652226048"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.9134,
+                    "start": 28,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.7984,
+                    "start": 66,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 125,
+                    "start": 109,
+                    "tag": "domainknowledge"
+                },
+                {
+                    "end": 149,
+                    "start": 137,
+                    "tag": "datascience"
+                },
+                {
+                    "end": 206,
+                    "start": 184,
+                    "tag": "RoleOfDomainKnowledge"
+                },
+                {
+                    "end": 230,
+                    "start": 207,
+                    "tag": "ArtificialIntelligence"
+                },
+                {
+                    "end": 247,
+                    "start": 231,
+                    "tag": "DomainExpertise"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60183T48o",
+                    "end": 182,
+                    "expanded_url": "http://spr.ly/60183T48o",
+                    "start": 159,
+                    "url": "https://t.co/upmcXA1a3K"
+                },
+                {
+                    "display_url": "pic.twitter.com/OVPqRcffFp",
+                    "end": 271,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1613838341652226048/video/1",
+                    "media_key": "13_1613838271158566914",
+                    "start": 248,
+                    "url": "https://t.co/OVPqRcffFp"
+                }
+            ]
+        },
+        "id": "1613838341652226048",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1005,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Read this recent blog where Philippe Rambach, Chief AI Officer at Schneider Electric, shares his thoughts on #domainknowledge supporting #datascience experts: https://t.co/upmcXA1a3K \n#RoleOfDomainKnowledge #ArtificialIntelligence #DomainExpertise https://t.co/OVPqRcffFp"
+    }
+}

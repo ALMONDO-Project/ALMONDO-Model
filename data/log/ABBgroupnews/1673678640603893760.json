@@ -1,0 +1,86 @@
+{
+    "1673678640603893760": {
+        "attachments": {
+            "media_keys": [
+                "13_1673674125129433088"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-27T13:04:18.000Z",
+        "edit_history_tweet_ids": [
+            "1673678640603893760"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 99,
+                    "normalized_text": "ABB",
+                    "probability": 0.5747,
+                    "start": 97,
+                    "type": "Other"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Onboard",
+                    "probability": 0.6215,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "DC Grid\u2122",
+                    "probability": 0.7078,
+                    "start": 111,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 37,
+                    "tag": "marine"
+                },
+                {
+                    "end": 217,
+                    "start": 208,
+                    "tag": "shipping"
+                },
+                {
+                    "end": 234,
+                    "start": 218,
+                    "tag": "electrification"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/10-years-succe\u2026",
+                    "end": 207,
+                    "expanded_url": "https://social.abb/10-years-success-electrification-marine-vessels",
+                    "start": 184,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/104313/ten-years-of-success-in-electrifying-marine-vessels",
+                    "url": "https://t.co/gjuRmJyvLb"
+                },
+                {
+                    "display_url": "pic.twitter.com/DCaIWC3QSa",
+                    "end": 258,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1673678640603893760/video/1",
+                    "media_key": "13_1673674125129433088",
+                    "start": 235,
+                    "url": "https://t.co/DCaIWC3QSa"
+                }
+            ]
+        },
+        "id": "1673678640603893760",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1963,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Ten years of success in electrifying #marine vessels! \u26a1\ud83d\udea2\nTen years since its first installation, ABB\u2019s Onboard DC Grid\u2122 has become the standard in multiple vessel segments.\nRead more: https://t.co/gjuRmJyvLb\n#shipping #electrification https://t.co/DCaIWC3QSa"
+    }
+}

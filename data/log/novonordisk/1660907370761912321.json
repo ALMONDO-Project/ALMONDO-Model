@@ -1,0 +1,57 @@
+{
+    "1660907370761912321": {
+        "author_id": "194037150",
+        "created_at": "2023-05-23T07:15:50.000Z",
+        "edit_history_tweet_ids": [
+            "1660907370761912321"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 187,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.7322,
+                    "start": 176,
+                    "type": "Organization"
+                },
+                {
+                    "end": 204,
+                    "normalized_text": "Canada",
+                    "probability": 0.9594,
+                    "start": 199,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "1389334817397952514",
+                    "start": 0,
+                    "username": "j12665"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.ca/contact-us.html",
+                    "end": 269,
+                    "expanded_url": "https://www.novonordisk.ca/contact-us.html",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.ca/contact-us.html",
+                    "url": "https://t.co/vgWgKbgbME"
+                }
+            ]
+        },
+        "id": "1660907370761912321",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 158,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@j12665 Thanks for getting in touch. Due to global privacy and legal regulations, we are not allowed to discuss our products on social media. We recommend that you contact the Novo Nordisk office in Canada. The contact details can be found here:\u00a0https://t.co/vgWgKbgbME"
+    }
+}

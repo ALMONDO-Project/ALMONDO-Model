@@ -1,0 +1,46 @@
+{
+    "1711631932956569662": {
+        "author_id": "23085995",
+        "created_at": "2023-10-10T06:37:08.000Z",
+        "edit_history_tweet_ids": [
+            "1711631932956569662"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Mary",
+                    "probability": 0.5257,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "MilkMaid",
+                    "probability": 0.6822,
+                    "start": 69,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1581260341824344065",
+                    "start": 0,
+                    "username": "aimeeparel2"
+                }
+            ]
+        },
+        "id": "1711631932956569662",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 902,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@aimeeparel2 Hello Mary. Unfortunately, we have already discontinued MilkMaid but you may still find remaining supplies in leading supermarkets nationwide or in our official e-commerce stores. Hope this helps."
+    }
+}

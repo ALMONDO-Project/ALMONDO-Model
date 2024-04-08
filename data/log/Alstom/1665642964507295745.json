@@ -1,0 +1,122 @@
+{
+    "1665642964507295745": {
+        "attachments": {
+            "media_keys": [
+                "3_1665642956416483330",
+                "3_1665642959084179457",
+                "3_1665642962540167168"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-05T08:53:23.000Z",
+        "edit_history_tweet_ids": [
+            "1665642964507295745"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 162,
+                    "normalized_text": "Metropolis",
+                    "probability": 0.4304,
+                    "start": 153,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.5573,
+                    "start": 186,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 185,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "249678137",
+                    "start": 29,
+                    "username": "MedMezghani"
+                },
+                {
+                    "end": 57,
+                    "id": "376658822",
+                    "start": 42,
+                    "username": "raquelsjimenez"
+                },
+                {
+                    "end": 73,
+                    "id": "277008918",
+                    "start": 59,
+                    "username": "laiabonetrull"
+                },
+                {
+                    "end": 88,
+                    "id": "14970635",
+                    "start": 74,
+                    "username": "julifernandez"
+                },
+                {
+                    "end": 106,
+                    "id": "271927841",
+                    "start": 97,
+                    "username": "UITPnews"
+                },
+                {
+                    "end": 182,
+                    "id": "115624105",
+                    "start": 168,
+                    "username": "TMB_Barcelona"
+                },
+                {
+                    "end": 206,
+                    "id": "2714012034",
+                    "start": 195,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/iOKuItOotW",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665642964507295745/photo/1",
+                    "media_key": "3_1665642956416483330",
+                    "start": 207,
+                    "url": "https://t.co/iOKuItOotW"
+                },
+                {
+                    "display_url": "pic.twitter.com/iOKuItOotW",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665642964507295745/photo/1",
+                    "media_key": "3_1665642959084179457",
+                    "start": 207,
+                    "url": "https://t.co/iOKuItOotW"
+                },
+                {
+                    "display_url": "pic.twitter.com/iOKuItOotW",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/Alstom/status/1665642964507295745/photo/1",
+                    "media_key": "3_1665642962540167168",
+                    "start": 207,
+                    "url": "https://t.co/iOKuItOotW"
+                }
+            ]
+        },
+        "id": "1665642964507295745",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1793,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We were delighted to welcome @MedMezghani @raquelsjimenez \n@laiabonetrull @julifernandez and the @UITPnews\ndelegation to our Alstom booth to present our Metropolis for @TMB_Barcelona !\n#UITP2023 @uitpsummit https://t.co/iOKuItOotW"
+    }
+}

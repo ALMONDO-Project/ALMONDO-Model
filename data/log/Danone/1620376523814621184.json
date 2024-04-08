@@ -1,0 +1,53 @@
+{
+    "1620376523814621184": {
+        "attachments": {
+            "media_keys": [
+                "16_1620376482085310464"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-01-31T11:00:43.000Z",
+        "edit_history_tweet_ids": [
+            "1620376523814621184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Twitter",
+                    "probability": 0.9824,
+                    "start": 29,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 131,
+                    "start": 114,
+                    "tag": "ResearchAtDanone"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DUMss9HWoC",
+                    "end": 155,
+                    "expanded_url": "https://twitter.com/Danone/status/1620376523814621184/photo/1",
+                    "media_key": "16_1620376482085310464",
+                    "start": 132,
+                    "url": "https://t.co/DUMss9HWoC"
+                }
+            ]
+        },
+        "id": "1620376523814621184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1119,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "See you next Monday, live on Twitter from our new research center to put health and innovation in the spotlight \ud83c\udfa5 #ResearchAtDanone https://t.co/DUMss9HWoC"
+    }
+}

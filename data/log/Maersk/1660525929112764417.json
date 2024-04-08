@@ -1,0 +1,76 @@
+{
+    "1660525929112764417": {
+        "attachments": {
+            "media_keys": [
+                "3_1660525921856634880"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-22T06:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1660525929112764417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3804,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Henriette Hallberg Thygesen",
+                    "probability": 0.7461,
+                    "start": 43,
+                    "type": "Person"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Global Fashion Summit",
+                    "probability": 0.8621,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "Copenhagen Concert Hall",
+                    "probability": 0.6282,
+                    "start": 157,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/422c1YK",
+                    "end": 268,
+                    "expanded_url": "https://bddy.me/422c1YK",
+                    "start": 245,
+                    "status": 200,
+                    "unwound_url": "https://globalfashionsummit.com/speakers-2/",
+                    "url": "https://t.co/4E75MiKEhW"
+                },
+                {
+                    "display_url": "pic.twitter.com/eQGnVsNP5p",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Maersk/status/1660525929112764417/photo/1",
+                    "media_key": "3_1660525921856634880",
+                    "start": 269,
+                    "url": "https://t.co/eQGnVsNP5p"
+                }
+            ]
+        },
+        "id": "1660525929112764417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4581,
+            "like_count": 45,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Maersk is pleased to announce that our CDO Henriette Hallberg Thygesen will be speaking at the Global Fashion Summit 2023, taking place on 27-28 June at the Copenhagen Concert Hall. Meet all the speakers and join the sustainability conversation https://t.co/4E75MiKEhW https://t.co/eQGnVsNP5p"
+    }
+}

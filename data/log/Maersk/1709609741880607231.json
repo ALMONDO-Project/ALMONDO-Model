@@ -1,0 +1,78 @@
+{
+    "1709609741880607231": {
+        "author_id": "380801406",
+        "created_at": "2023-10-04T16:41:40.000Z",
+        "edit_history_tweet_ids": [
+            "1709609741880607231"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Egypt",
+                    "probability": 0.9644,
+                    "start": 23,
+                    "type": "Place"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Brian Davis",
+                    "probability": 0.9482,
+                    "start": 115,
+                    "type": "Person"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "maersk",
+                    "probability": 0.4158,
+                    "start": 145,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.4682,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 94,
+                    "tag": "greenfuel"
+                },
+                {
+                    "end": 151,
+                    "start": 144,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 168,
+                    "start": 152,
+                    "tag": "allthewaytozero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/Forbes_MENA_/s\u2026",
+                    "end": 192,
+                    "expanded_url": "https://twitter.com/Forbes_MENA_/status/1709559005654249776",
+                    "start": 169,
+                    "url": "https://t.co/GVGEM70Cmk"
+                }
+            ]
+        },
+        "id": "1709609741880607231",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4396,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "The new agreement with Egypt is a pivotal step in our effort towards the global transition to #greenfuel - C2X CEO Brian Davis, read more here \ud83d\udc47#maersk #allthewaytozero https://t.co/GVGEM70Cmk"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "1680946482642407424": {
+        "author_id": "393757140",
+        "created_at": "2023-07-17T14:24:06.000Z",
+        "edit_history_tweet_ids": [
+            "1680946482642407424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "EVlink Home Smart",
+                    "probability": 0.7399,
+                    "start": 9,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Wiser",
+                    "probability": 0.6168,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "EVcharging",
+                    "probability": 0.4927,
+                    "start": 212,
+                    "type": "Other"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "eMobility",
+                    "probability": 0.4407,
+                    "start": 224,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 222,
+                    "start": 211,
+                    "tag": "EVcharging"
+                },
+                {
+                    "end": 233,
+                    "start": 223,
+                    "tag": "eMobility"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015P3bL5",
+                    "end": 258,
+                    "expanded_url": "http://spr.ly/6015P3bL5",
+                    "start": 235,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Wtev2Tva_Lk",
+                    "url": "https://t.co/XZxcWIMm4G"
+                }
+            ]
+        },
+        "id": "1680946482642407424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2000,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "Discover EVlink Home Smart, a smart EV charger connected to the Wiser app. Control your EV charging experience and create a sustainable energy ecosystem for your home. Optimize savings, comfort, and resiliency. #EVcharging #eMobility  https://t.co/XZxcWIMm4G"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1635249352884224000": {
+        "attachments": {
+            "media_keys": [
+                "3_1635249349910224896"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-13T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1635249352884224000"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Indonesia",
+                    "probability": 0.9643,
+                    "start": 20,
+                    "type": "Place"
+                },
+                {
+                    "end": 46,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.6072,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 249,
+                    "normalized_text": "HM23",
+                    "probability": 0.5184,
+                    "start": 246,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 47,
+                    "start": 35,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 244,
+                    "start": 222,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 250,
+                    "start": 245,
+                    "tag": "HM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "142622175",
+                    "start": 8,
+                    "username": "Wilo_Group"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60133INIZ",
+                    "end": 221,
+                    "expanded_url": "http://spr.ly/60133INIZ",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/life-is-on/case-study/wilo-indonesia.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9100809358&utm_campaign=EcoStruxure_for_Machinery&country=Global",
+                    "url": "https://t.co/LBu8upa8gR"
+                },
+                {
+                    "display_url": "pic.twitter.com/bKnF2W2yev",
+                    "end": 274,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1635249352884224000/photo/1",
+                    "media_key": "3_1635249349910224896",
+                    "start": 251,
+                    "url": "https://t.co/bKnF2W2yev"
+                }
+            ]
+        },
+        "id": "1635249352884224000",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 885,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "See how @Wilo_Group Indonesia uses #EcoStruxure Machine to build a smart pump and water management system with remote monitoring capabilities for optimal precision, reliability, and sustainability. https://t.co/LBu8upa8gR #IndustriesOfTheFuture #HM23 https://t.co/bKnF2W2yev"
+    }
+}

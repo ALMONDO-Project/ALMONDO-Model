@@ -1,0 +1,102 @@
+{
+    "1656948079545729027": {
+        "attachments": {
+            "media_keys": [
+                "3_1656948076429426688"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-12T09:03:01.000Z",
+        "edit_history_tweet_ids": [
+            "1656948079545729027"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Nestle",
+                    "probability": 0.6702,
+                    "start": 13,
+                    "type": "Organization"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "IoT",
+                    "probability": 0.7289,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "MIT",
+                    "probability": 0.8668,
+                    "start": 184,
+                    "type": "Organization"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "IoT",
+                    "probability": 0.6395,
+                    "start": 236,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 239,
+                    "start": 235,
+                    "tag": "IoT"
+                },
+                {
+                    "end": 249,
+                    "start": 240,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Take a look at the Schneider Electric x MIT Technology Review Insights to learn more about the modern challenges of sustainable manufacturing, and solutions implemented by leading firms to meet their sustainability goals. Discover, how equipment and asset management, circular economy, and better analytics can bring your business to a new level of efficiency and optimization.",
+                    "display_url": "spr.ly/6018Od7Se",
+                    "end": 233,
+                    "expanded_url": "http://spr.ly/6018Od7Se",
+                    "images": [
+                        {
+                            "height": 1500,
+                            "url": "https://pbs.twimg.com/news_img/1727351942978904064/JTjoEzov?format=jpg&name=orig",
+                            "width": 1500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1727351942978904064/JTjoEzov?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 210,
+                    "status": 200,
+                    "title": "Equipment management and sustainability",
+                    "unwound_url": "https://go.schneider-electric.com/WW_202206_Services-MIT-Report-Social-Media_01-EA-LP-EN.html?source=Social-Media&sDetail=WW",
+                    "url": "https://t.co/Prs4nYeVBG"
+                },
+                {
+                    "display_url": "pic.twitter.com/8bGBsBuivs",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1656948079545729027/photo/1",
+                    "media_key": "3_1656948076429426688",
+                    "start": 250,
+                    "url": "https://t.co/8bGBsBuivs"
+                }
+            ]
+        },
+        "id": "1656948079545729027",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1670,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Discover how Nestle leverages the power of IoT-enabled solutions to optimize their operational efficiency, reduce energy consumption, and lower maintenance costs. Check out our latest MIT report to learn more. https://t.co/Prs4nYeVBG\n\n#IoT #LifeIsOn https://t.co/8bGBsBuivs"
+    }
+}

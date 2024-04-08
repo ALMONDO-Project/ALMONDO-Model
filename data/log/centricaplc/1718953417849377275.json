@@ -1,0 +1,81 @@
+{
+    "1718953417849377275": {
+        "attachments": {
+            "media_keys": [
+                "3_1718953415387095040"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-10-30T11:30:06.000Z",
+        "edit_history_tweet_ids": [
+            "1718953417849377275"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Dartford",
+                    "probability": 0.5575,
+                    "start": 27,
+                    "type": "Organization"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Johnson",
+                    "probability": 0.4595,
+                    "start": 121,
+                    "type": "Person"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "NetZero",
+                    "probability": 0.4878,
+                    "start": 153,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 160,
+                    "start": 152,
+                    "tag": "NetZero"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 55,
+                    "id": "3202369007",
+                    "start": 39,
+                    "username": "GarethJohnsonMP"
+                },
+                {
+                    "end": 74,
+                    "id": "46630225",
+                    "start": 63,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/fpocppodfb",
+                    "end": 263,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1718953417849377275/photo/1",
+                    "media_key": "3_1718953415387095040",
+                    "start": 240,
+                    "url": "https://t.co/fpocppodfb"
+                }
+            ]
+        },
+        "id": "1718953417849377275",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 642,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We were pleased to welcome Dartford MP @GarethJohnsonMP to the @BritishGas Academy in his constituency \ud83d\udc77 \n\nWe updated Mr Johnson on our work to deliver #NetZero, as well as our recruitment drive to hire an apprentice every day this decade. https://t.co/fpocppodfb"
+    }
+}

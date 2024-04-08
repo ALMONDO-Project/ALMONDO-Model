@@ -1,0 +1,72 @@
+{
+    "1636253452262166529": {
+        "attachments": {
+            "media_keys": [
+                "3_1636253142605086721"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-16T06:29:57.000Z",
+        "edit_history_tweet_ids": [
+            "1636253452262166529"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 143,
+                    "normalized_text": "ABB",
+                    "probability": 0.7645,
+                    "start": 141,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 103,
+                    "start": 87,
+                    "tag": "decarbonization"
+                },
+                {
+                    "end": 144,
+                    "start": 140,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 160,
+                    "start": 145,
+                    "tag": "energysecurity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/energy-insight\u2026",
+                    "end": 139,
+                    "expanded_url": "https://social.abb/energy-insights-survey-report-2023",
+                    "start": 116,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/100874/research-reveals-energy-concerns-impacting-business-competitiveness-the-workforce-and-decarbonization",
+                    "url": "https://t.co/kD83K8F6Tn"
+                },
+                {
+                    "display_url": "pic.twitter.com/uxsmrNj43Z",
+                    "end": 184,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1636253452262166529/photo/1",
+                    "media_key": "3_1636253142605086721",
+                    "start": 161,
+                    "url": "https://t.co/uxsmrNj43Z"
+                }
+            ]
+        },
+        "id": "1636253452262166529",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1441,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Research reveals energy concerns impacting business competitiveness, the workforce and #decarbonization.\nRead more: https://t.co/kD83K8F6Tn\n#ABB #energysecurity https://t.co/uxsmrNj43Z"
+    }
+}

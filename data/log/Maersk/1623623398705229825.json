@@ -1,0 +1,92 @@
+{
+    "1623623398705229825": {
+        "attachments": {
+            "media_keys": [
+                "7_1623622106998095872"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-09T10:02:38.000Z",
+        "edit_history_tweet_ids": [
+            "1623623398705229825"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Logistics",
+                    "probability": 0.658,
+                    "start": 22,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Expected",
+                    "probability": 0.5163,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Holly Landry",
+                    "probability": 0.9183,
+                    "start": 99,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 144,
+                    "tag": "representation"
+                },
+                {
+                    "end": 191,
+                    "start": 180,
+                    "tag": "unexpected"
+                },
+                {
+                    "end": 233,
+                    "start": 223,
+                    "tag": "alltheway"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 97,
+                    "id": "380801406",
+                    "start": 90,
+                    "username": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/dN2FwrgE",
+                    "end": 276,
+                    "expanded_url": "https://lnkd.in/dN2FwrgE",
+                    "start": 253,
+                    "url": "https://t.co/bdHodBGvmD"
+                },
+                {
+                    "display_url": "pic.twitter.com/2rALWD33gQ",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Maersk/status/1623623398705229825/video/1",
+                    "media_key": "7_1623622106998095872",
+                    "start": 277,
+                    "url": "https://t.co/2rALWD33gQ"
+                }
+            ]
+        },
+        "id": "1623623398705229825",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2527,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "This month\u2019s Women in Logistics Blog is a story of \u201cNot Expected\u201d \ud83d\udd2eChief Data Officer for @Maersk, Holly Landry, weighs in on the importance of #representation \u2013 and how doing the #unexpected might just be the recipe to go #alltheway. \n\ud83d\udc49Read more here: https://t.co/bdHodBGvmD https://t.co/2rALWD33gQ"
+    }
+}

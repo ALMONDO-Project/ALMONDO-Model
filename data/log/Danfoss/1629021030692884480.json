@@ -1,0 +1,96 @@
+{
+    "1629021030692884480": {
+        "attachments": {
+            "media_keys": [
+                "3_1629020965437833216"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-02-24T07:30:54.000Z",
+        "edit_history_tweet_ids": [
+            "1629021030692884480"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "EnergyEfficiencyMovement",
+                    "probability": 0.6156,
+                    "start": 25,
+                    "type": "Other"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "IEA",
+                    "probability": 0.4674,
+                    "start": 69,
+                    "type": "Organization"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5451,
+                    "start": 187,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "WhyEE",
+                    "probability": 0.5436,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 24,
+                    "tag": "EnergyEfficiencyMovement"
+                },
+                {
+                    "end": 113,
+                    "start": 96,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 194,
+                    "start": 186,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 246,
+                    "start": 240,
+                    "tag": "WhyEE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "whyenergyefficiency.com/challenges/dec\u2026",
+                    "end": 239,
+                    "expanded_url": "https://www.whyenergyefficiency.com/challenges/decarbonizing-buildings/the-neglected-demand-side-of-the-green-equation",
+                    "start": 216,
+                    "url": "https://t.co/mREq1Rl5DF"
+                },
+                {
+                    "display_url": "pic.twitter.com/T0XwxYyEz8",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1629021030692884480/photo/1",
+                    "media_key": "3_1629020965437833216",
+                    "start": 247,
+                    "url": "https://t.co/T0XwxYyEz8"
+                }
+            ]
+        },
+        "id": "1629021030692884480",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 336,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We're proud to join the #EnergyEfficiencyMovement. \nAccording to the IEA, a collective push for #EnergyEfficiency can deliver one-third of the total emissions reductions needed to reach #NetZero. Read more about it: https://t.co/mREq1Rl5DF #WhyEE https://t.co/T0XwxYyEz8"
+    }
+}

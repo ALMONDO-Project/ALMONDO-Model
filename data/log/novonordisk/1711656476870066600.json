@@ -1,0 +1,84 @@
+{
+    "1711656476870066600": {
+        "author_id": "194037150",
+        "created_at": "2023-10-10T08:14:39.000Z",
+        "edit_history_tweet_ids": [
+            "1711656476870066600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Christopher",
+                    "probability": 0.7691,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6025,
+                    "start": 98,
+                    "type": "Organization"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Australia",
+                    "probability": 0.9811,
+                    "start": 121,
+                    "type": "Place"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.3741,
+                    "start": 249,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1704001512631144448",
+                    "start": 0,
+                    "username": "kiwi_chrisaus"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.com.au/contact-us.html",
+                    "end": 240,
+                    "expanded_url": "https://www.novonordisk.com.au/contact-us.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1711656525591158784/PCpt8bqk?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1711656525591158784/PCpt8bqk?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 217,
+                    "status": 200,
+                    "title": "Contact us",
+                    "unwound_url": "https://www.novonordisk.com.au/contact-us.html",
+                    "url": "https://t.co/AZGMXNMMgN"
+                }
+            ]
+        },
+        "id": "1711656476870066600",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 74,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@kiwi_chrisaus Hi Christopher, I am sorry to hear you are experiencing issues. Please contact the Novo Nordisk office in Australia if you have any questions to our products. You can find the contact information here:\nhttps://t.co/AZGMXNMMgN\nBR//Bo, Novo Nordisk"
+    }
+}

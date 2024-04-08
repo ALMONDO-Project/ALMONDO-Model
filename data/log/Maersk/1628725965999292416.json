@@ -1,0 +1,84 @@
+{
+    "1628725965999292416": {
+        "attachments": {
+            "media_keys": [
+                "7_1628720101997395969"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-23T11:58:25.000Z",
+        "edit_history_tweet_ids": [
+            "1628725965999292416"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "SAP Technology",
+                    "probability": 0.577,
+                    "start": 5,
+                    "type": "Organization"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "SAP",
+                    "probability": 0.8532,
+                    "start": 58,
+                    "type": "Organization"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6176,
+                    "start": 75,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 4,
+                    "tag": "SAP"
+                },
+                {
+                    "end": 141,
+                    "start": 130,
+                    "tag": "technology"
+                },
+                {
+                    "end": 226,
+                    "start": 216,
+                    "tag": "logistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/careers/vacanc\u2026",
+                    "end": 277,
+                    "expanded_url": "https://www.maersk.com/careers/vacancies?continent=&category=&country=&searchText=SAP&limit=24",
+                    "start": 254,
+                    "url": "https://t.co/obdAmYhVp5"
+                },
+                {
+                    "display_url": "pic.twitter.com/w8NwYqDN8v",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1628725965999292416/video/1",
+                    "media_key": "7_1628720101997395969",
+                    "start": 278,
+                    "url": "https://t.co/w8NwYqDN8v"
+                }
+            ]
+        },
+        "id": "1628725965999292416",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2029,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Our #SAP Technology team designs, builds and operates the SAP platforms at Maersk, using the latest technologies to modernise our #technology landscape and realize our vision to be the global integrator of container #logistics\u26a1\n\nBe part of our journey \ud83d\udc49 https://t.co/obdAmYhVp5 https://t.co/w8NwYqDN8v"
+    }
+}

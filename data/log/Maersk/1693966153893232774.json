@@ -1,0 +1,84 @@
+{
+    "1693966153893232774": {
+        "attachments": {
+            "media_keys": [
+                "7_1693956293990457344"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-22T12:39:38.000Z",
+        "edit_history_tweet_ids": [
+            "1693966153893232774"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "South America",
+                    "probability": 0.9358,
+                    "start": 29,
+                    "type": "Place"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4187,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Julian Pueschel",
+                    "probability": 0.5585,
+                    "start": 68,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 44,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 122,
+                    "id": "860201319423934466",
+                    "start": 106,
+                    "username": "amigosdelmarONG"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/AwopCA88HxI",
+                    "end": 278,
+                    "expanded_url": "https://youtu.be/AwopCA88HxI",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=AwopCA88HxI&feature=youtu.be",
+                    "url": "https://t.co/p4qPh2N4kd"
+                },
+                {
+                    "display_url": "pic.twitter.com/u8jAxvPbSr",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1693966153893232774/video/1",
+                    "media_key": "7_1693956293990457344",
+                    "start": 279,
+                    "url": "https://t.co/u8jAxvPbSr"
+                }
+            ]
+        },
+        "id": "1693966153893232774",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3830,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "On his final stretch through South America, #Maersk Product Manager Julian Pueschel visits the foundation @amigosdelmarONG to learn how they help children with education, and involves them in water sports and beach cleanings. Catch the full episode here: https://t.co/p4qPh2N4kd https://t.co/u8jAxvPbSr"
+    }
+}

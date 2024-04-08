@@ -1,0 +1,92 @@
+{
+    "1613468258106998787": {
+        "author_id": "194037150",
+        "created_at": "2023-01-12T09:29:44.000Z",
+        "edit_history_tweet_ids": [
+            "1613468258106998787"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Abhishek",
+                    "probability": 0.7692,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Sikkim",
+                    "probability": 0.6344,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Sikkim",
+                    "probability": 0.4446,
+                    "start": 182,
+                    "type": "Place"
+                },
+                {
+                    "end": 242,
+                    "normalized_text": "Sikkim",
+                    "probability": 0.6269,
+                    "start": 237,
+                    "type": "Other"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "Clara",
+                    "probability": 0.4963,
+                    "start": 272,
+                    "type": "Other"
+                },
+                {
+                    "end": 290,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4003,
+                    "start": 279,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "724799164287225856",
+                    "start": 0,
+                    "username": "AbhishekAmit07"
+                },
+                {
+                    "end": 32,
+                    "id": "14258807",
+                    "start": 16,
+                    "username": "teamnovonordisk"
+                },
+                {
+                    "end": 46,
+                    "id": "1004698688889843712",
+                    "start": 33,
+                    "username": "official_sdf"
+                },
+                {
+                    "end": 61,
+                    "id": "1191587765453910016",
+                    "start": 47,
+                    "username": "NovoNordiskIN"
+                }
+            ]
+        },
+        "id": "1613468258106998787",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 68,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AbhishekAmit07 @teamnovonordisk @official_sdf @NovoNordiskIN Hi Abhishek,\nSikkim is part of the state list in our recruitment system. As of now, we don\u2019t have an active position in Sikkim which is the reason why you're not able to view Sikkim in the list.\n\nAll the best,\nClara, Novo Nordisk"
+    }
+}

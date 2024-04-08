@@ -1,0 +1,91 @@
+{
+    "1612441523777605632": {
+        "attachments": {
+            "media_keys": [
+                "7_1612433780198838272"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-09T13:29:51.000Z",
+        "edit_history_tweet_ids": [
+            "1612441523777605632"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Europe",
+                    "probability": 0.9804,
+                    "start": 35,
+                    "type": "Place"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "Anna Petrova",
+                    "probability": 0.7801,
+                    "start": 122,
+                    "type": "Person"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Ukraine",
+                    "probability": 0.9583,
+                    "start": 155,
+                    "type": "Place"
+                },
+                {
+                    "end": 268,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4729,
+                    "start": 263,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 10,
+                    "tag": "entrepreneurs"
+                },
+                {
+                    "end": 66,
+                    "start": 58,
+                    "tag": "support"
+                },
+                {
+                    "end": 269,
+                    "start": 262,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/VYJh5jY_C8w",
+                    "end": 261,
+                    "expanded_url": "https://youtu.be/VYJh5jY_C8w",
+                    "start": 238,
+                    "url": "https://t.co/DZhWyT1utu"
+                },
+                {
+                    "display_url": "pic.twitter.com/nDGSjdaxZV",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Maersk/status/1612441523777605632/video/1",
+                    "media_key": "7_1612433780198838272",
+                    "start": 270,
+                    "url": "https://t.co/nDGSjdaxZV"
+                }
+            ]
+        },
+        "id": "1612441523777605632",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3617,
+            "like_count": 21,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Ukrainian #entrepreneurs living in Europe are looking for #support from local communities to help build their businesses. Anna Petrova, Founder of Startup Ukraine, shares her insights from 10 years of assisting entrepreneurs. Watch more: https://t.co/DZhWyT1utu\n#Maersk https://t.co/nDGSjdaxZV"
+    }
+}

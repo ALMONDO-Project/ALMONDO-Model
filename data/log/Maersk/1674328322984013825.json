@@ -1,0 +1,79 @@
+{
+    "1674328322984013825": {
+        "attachments": {
+            "media_keys": [
+                "3_1674328261210300419"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-29T08:05:54.000Z",
+        "edit_history_tweet_ids": [
+            "1674328322984013825"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "Leonardo Sonzio",
+                    "probability": 0.7221,
+                    "start": 67,
+                    "type": "Person"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4067,
+                    "start": 251,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 257,
+                    "start": 250,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 272,
+                    "start": 258,
+                    "tag": "Sustainbility"
+                },
+                {
+                    "end": 280,
+                    "start": 273,
+                    "tag": "Decarb"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/LLNXrOht09U",
+                    "end": 248,
+                    "expanded_url": "https://youtu.be/LLNXrOht09U",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=LLNXrOht09U&feature=youtu.be",
+                    "url": "https://t.co/iy73o0bNlY"
+                },
+                {
+                    "display_url": "pic.twitter.com/IwXEJO2vwG",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Maersk/status/1674328322984013825/photo/1",
+                    "media_key": "3_1674328261210300419",
+                    "start": 281,
+                    "url": "https://t.co/IwXEJO2vwG"
+                }
+            ]
+        },
+        "id": "1674328322984013825",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3666,
+            "like_count": 41,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Bringing the world\u2019s first green methanol-enabled vessel to life\ud83d\udea2\ud83d\udc9a Leonardo Sonzio, Head of Fleet Management &amp; Technology shares how this vessel came to be and the challenges we have overcome along the way\ud83d\udc4a \nWatch video: https://t.co/iy73o0bNlY\n\n#Maersk #Sustainbility #Decarb https://t.co/IwXEJO2vwG"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "1640613957944725504": {
+        "attachments": {
+            "media_keys": [
+                "3_1640613956417986560"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-28T07:17:03.000Z",
+        "edit_history_tweet_ids": [
+            "1640613957944725504"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Malaga",
+                    "probability": 0.5913,
+                    "start": 51,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Metro",
+                    "probability": 0.2598,
+                    "start": 59,
+                    "type": "Organization"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "CBTC",
+                    "probability": 0.4525,
+                    "start": 79,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 15,
+                    "tag": "signalling"
+                },
+                {
+                    "end": 64,
+                    "start": 58,
+                    "tag": "Metro"
+                },
+                {
+                    "end": 83,
+                    "start": 78,
+                    "tag": "CBTC"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "920309020468051968",
+                    "start": 4,
+                    "username": "Alstom_es"
+                },
+                {
+                    "end": 201,
+                    "id": "753873812270223360",
+                    "start": 185,
+                    "username": "metromlgoficial"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/bnIT50Nt0Y8",
+                    "end": 279,
+                    "expanded_url": "http://ow.ly/bnIT50Nt0Y8",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/3/malaga-metro-reaches-city-centre-thanks-alstoms-cbtc-signalling-technology",
+                    "url": "https://t.co/iz0nUzPi52"
+                },
+                {
+                    "display_url": "pic.twitter.com/ewK8ZDeO3y",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Alstom/status/1640613957944725504/photo/1",
+                    "media_key": "3_1640613956417986560",
+                    "start": 280,
+                    "url": "https://t.co/ewK8ZDeO3y"
+                }
+            ]
+        },
+        "id": "1640613957944725504",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1704,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our @Alstom_es #signalling teams have equipped the Malaga #Metro network with #CBTC technology, including the recently inaugurated city centre extension. \n\nWith its entry into service, @metromlgoficial will double its capacity to 14 M passengers per year. https://t.co/iz0nUzPi52 https://t.co/ewK8ZDeO3y"
+    }
+}

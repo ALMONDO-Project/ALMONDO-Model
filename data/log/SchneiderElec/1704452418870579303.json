@@ -1,0 +1,100 @@
+{
+    "1704452418870579303": {
+        "attachments": {
+            "media_keys": [
+                "13_1704452348834099200"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-20T11:08:18.000Z",
+        "edit_history_tweet_ids": [
+            "1704452418870579303"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "es Renault Gr",
+                    "probability": 0.7073,
+                    "start": 11,
+                    "type": "Organization"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "e #SF6f",
+                    "probability": 0.7049,
+                    "start": 143,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "e #Air",
+                    "probability": 0.5543,
+                    "start": 152,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 153,
+                    "start": 145,
+                    "tag": "SF6free"
+                },
+                {
+                    "end": 161,
+                    "start": 154,
+                    "tag": "AirSeT"
+                },
+                {
+                    "end": 247,
+                    "start": 238,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Le Groupe Renault a renforc\u00e9 ses ambitions en mati\u00e8re d'\u00e9conomie circulaire en transformant une usine existante en Re-Factory, la premi\u00e8re usine europ\u00e9enne d...",
+                    "display_url": "spr.ly/6014PCOBu",
+                    "end": 236,
+                    "expanded_url": "http://spr.ly/6014PCOBu",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1738707548109258752/IijMRDqH?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1738707548109258752/IijMRDqH?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 213,
+                    "status": 200,
+                    "title": "La circularit\u00e9 du Groupe Renault en bonne voie avec AirSeT | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=01_jo8POesg",
+                    "url": "https://t.co/Mhxn2cAr0g"
+                },
+                {
+                    "display_url": "pic.twitter.com/mxA5Xq45Y3",
+                    "end": 271,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1704452418870579303/video/1",
+                    "media_key": "13_1704452348834099200",
+                    "start": 248,
+                    "url": "https://t.co/mxA5Xq45Y3"
+                }
+            ]
+        },
+        "id": "1704452418870579303",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2636,
+            "like_count": 23,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "\u00ad\u00ad\u00adWhat makes Renault Group a leader in green mobility? The automaker is laser focused on reducing its carbon footprint through innovations like #SF6free #AirSeT MV switchgear. Check out this video to learn more: https://t.co/Mhxn2cAr0g\n\n#LifeIsOn https://t.co/mxA5Xq45Y3"
+    }
+}

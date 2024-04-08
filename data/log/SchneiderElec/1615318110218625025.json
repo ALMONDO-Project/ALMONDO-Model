@@ -1,0 +1,96 @@
+{
+    "1615318110218625025": {
+        "attachments": {
+            "media_keys": [
+                "13_1615318018212466691"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-17T12:00:23.000Z",
+        "edit_history_tweet_ids": [
+            "1615318110218625025"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "AI",
+                    "probability": 0.7254,
+                    "start": 85,
+                    "type": "Organization"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Phillippe Rambach",
+                    "probability": 0.8608,
+                    "start": 109,
+                    "type": "Person"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "AI",
+                    "probability": 0.4607,
+                    "start": 134,
+                    "type": "Organization"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8685,
+                    "start": 148,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 79,
+                    "start": 67,
+                    "tag": "datascience"
+                },
+                {
+                    "end": 87,
+                    "start": 84,
+                    "tag": "AI"
+                },
+                {
+                    "end": 263,
+                    "start": 240,
+                    "tag": "ArtificialIntelligence"
+                },
+                {
+                    "end": 280,
+                    "start": 264,
+                    "tag": "DomainExpertise"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60133T4MZ",
+                    "end": 237,
+                    "expanded_url": "http://spr.ly/60133T4MZ",
+                    "start": 214,
+                    "url": "https://t.co/kF79UY1uMW"
+                },
+                {
+                    "display_url": "pic.twitter.com/xIctXEW9ZZ",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1615318110218625025/video/1",
+                    "media_key": "13_1615318018212466691",
+                    "start": 281,
+                    "url": "https://t.co/xIctXEW9ZZ"
+                }
+            ]
+        },
+        "id": "1615318110218625025",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1017,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "As human &amp; machine worlds blend, what is the key to success in #datascience and #AI project development? Phillippe Rambach, Chief AI Officer at Schneider Electric, shares his thoughts on this topic. Read more: https://t.co/kF79UY1uMW \n\u202f#ArtificialIntelligence #DomainExpertise https://t.co/xIctXEW9ZZ"
+    }
+}

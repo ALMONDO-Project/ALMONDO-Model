@@ -1,0 +1,73 @@
+{
+    "1636272592188317696": {
+        "author_id": "393757140",
+        "created_at": "2023-03-16T07:46:01.000Z",
+        "edit_history_tweet_ids": [
+            "1636272592188317696"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.6341,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "DCIM",
+                    "probability": 0.5066,
+                    "start": 154,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "EcoStruxureIT",
+                    "probability": 0.4267,
+                    "start": 214,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 99,
+                    "start": 88,
+                    "tag": "DataCenter"
+                },
+                {
+                    "end": 158,
+                    "start": 153,
+                    "tag": "DCIM"
+                },
+                {
+                    "end": 227,
+                    "start": 213,
+                    "tag": "EcoStruxureIT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019345Ix",
+                    "end": 266,
+                    "expanded_url": "http://spr.ly/6019345Ix",
+                    "start": 243,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/datacenter/2023/03/14/new-ecostruxure-it-elearning-portal/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9166385020&utm_campaign=EcoStruxure_for_Data_Center&country=Global",
+                    "url": "https://t.co/NAXDxpSwVh"
+                }
+            ]
+        },
+        "id": "1636272592188317696",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 972,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Learn how EcoStruxure IT can help you create a more:\n\n- Efficient\n- Reliable\n- Secure \n\n#DataCenter for your organization, all while improving access to #DCIM\n\nCheck out the new learning portal and get started! \n\n#EcoStruxureIT \n\nExplore Now: https://t.co/NAXDxpSwVh"
+    }
+}

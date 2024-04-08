@@ -1,0 +1,94 @@
+{
+    "1610146436544430080": {
+        "attachments": {
+            "media_keys": [
+                "7_1601521174546202627"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-03T05:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1610146436544430080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "Maersk Value Protect",
+                    "probability": 0.7495,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5198,
+                    "start": 215,
+                    "type": "Other"
+                },
+                {
+                    "end": 283,
+                    "normalized_text": "Reefer",
+                    "probability": 0.4734,
+                    "start": 278,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 221,
+                    "start": 214,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 242,
+                    "start": 222,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 262,
+                    "start": 243,
+                    "tag": "ColdChainLogistics"
+                },
+                {
+                    "end": 276,
+                    "start": 263,
+                    "tag": "ValueProtect"
+                },
+                {
+                    "end": 284,
+                    "start": 277,
+                    "tag": "Reefer"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3uBQ9oO",
+                    "end": 210,
+                    "expanded_url": "https://bit.ly/3uBQ9oO",
+                    "start": 187,
+                    "url": "https://t.co/c47LWDYCa5"
+                },
+                {
+                    "display_url": "pic.twitter.com/Kqr6YgI7QN",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Maersk/status/1610146436544430080/video/1",
+                    "media_key": "7_1601521174546202627",
+                    "start": 285,
+                    "url": "https://t.co/Kqr6YgI7QN"
+                }
+            ]
+        },
+        "id": "1610146436544430080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3362,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "For perishable goods, even the slight quality dip can have a large impact. Maersk Value Protect allows you to seek indemnity for unplanned delays with fixed payouts &amp; no extra costs. https://t.co/c47LWDYCa5\n  \n#Maersk #IntegratedLogistics #ColdChainLogistics #ValueProtect #Reefer https://t.co/Kqr6YgI7QN"
+    }
+}

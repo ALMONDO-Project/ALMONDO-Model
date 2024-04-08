@@ -1,0 +1,98 @@
+{
+    "1703309296337867232": {
+        "author_id": "380801406",
+        "created_at": "2023-09-17T07:25:56.000Z",
+        "edit_history_tweet_ids": [
+            "1703309296337867232"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Vincent Clerc",
+                    "probability": 0.5765,
+                    "start": 14,
+                    "type": "Person"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Laura Maersk",
+                    "probability": 0.527,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "maersk",
+                    "probability": 0.398,
+                    "start": 192,
+                    "type": "Other"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "CNBC",
+                    "probability": 0.5051,
+                    "start": 211,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 139,
+                    "start": 130,
+                    "tag": "shipping"
+                },
+                {
+                    "end": 190,
+                    "start": 174,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 198,
+                    "start": 191,
+                    "tag": "maersk"
+                },
+                {
+                    "end": 209,
+                    "start": 199,
+                    "tag": "greenfuel"
+                },
+                {
+                    "end": 215,
+                    "start": 210,
+                    "tag": "CNBC"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "20402945",
+                    "start": 36,
+                    "username": "CNBC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cnbc.com/2023/09/14/shi\u2026",
+                    "end": 173,
+                    "expanded_url": "https://www.cnbc.com/2023/09/14/shipping-giant-maersk-unveils-first-vessel-operating-on-green-methanol.html",
+                    "start": 150,
+                    "status": 200,
+                    "unwound_url": "https://www.cnbc.com/2023/09/14/shipping-giant-maersk-unveils-first-vessel-operating-on-green-methanol.html",
+                    "url": "https://t.co/LkiIOjJxoY"
+                }
+            ]
+        },
+        "id": "1703309296337867232",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7283,
+            "like_count": 89,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 21
+        },
+        "text": "Watch our CEO Vincent Clerc special @CNBC feature on our Laura Maersk vessel powered by green methanol, a landmark moment for the #shipping industry. https://t.co/LkiIOjJxoY #allthewaytozero #maersk #greenfuel #CNBC"
+    }
+}

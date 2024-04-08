@@ -1,0 +1,65 @@
+{
+    "1629103066619252740": {
+        "attachments": {
+            "poll_ids": [
+                "1629103065025445888"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-24T12:56:53.000Z",
+        "edit_history_tweet_ids": [
+            "1629103066619252740"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "MaerskFridayPoll",
+                    "probability": 0.5175,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3852,
+                    "start": 138,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 101,
+                    "tag": "Career"
+                },
+                {
+                    "end": 118,
+                    "start": 109,
+                    "tag": "Jobtitle"
+                },
+                {
+                    "end": 136,
+                    "start": 119,
+                    "tag": "MaerskFridayPoll"
+                },
+                {
+                    "end": 144,
+                    "start": 137,
+                    "tag": "Maersk"
+                }
+            ]
+        },
+        "id": "1629103066619252740",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2577,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\u2753 Some job titles are simple, others downright confusing. What do you think a title should reflect?\n\n#Career #Jobtitle #MaerskFridayPoll #Maersk"
+    }
+}

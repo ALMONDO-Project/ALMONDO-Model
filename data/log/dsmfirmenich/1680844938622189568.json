@@ -1,0 +1,69 @@
+{
+    "1680844938622189568": {
+        "attachments": {
+            "media_keys": [
+                "3_1680844931047235585"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-07-17T07:40:36.000Z",
+        "edit_history_tweet_ids": [
+            "1680844938622189568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "vitamin",
+                    "probability": 0.3251,
+                    "start": 47,
+                    "type": "Organization"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "-firmenich",
+                    "probability": 0.6783,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "US Manufacturing Leadership Council",
+                    "probability": 0.5413,
+                    "start": 98,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spkl.io/60184ivxp",
+                    "end": 275,
+                    "expanded_url": "http://spkl.io/60184ivxp",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.manufacturingleadershipcouncil.com/leadership-awards/2023-manufacturing-leadership-award-finalists/",
+                    "url": "https://t.co/2VGnvrJM1f"
+                },
+                {
+                    "display_url": "pic.twitter.com/07sjqcK9BX",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1680844938622189568/photo/1",
+                    "media_key": "3_1680844931047235585",
+                    "start": 276,
+                    "url": "https://t.co/07sjqcK9BX"
+                }
+            ]
+        },
+        "id": "1680844938622189568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 943,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "And the winner is: the world\u2019s first bio-based vitamin A! \ud83c\udf31\u267b\ufe0f\n\ndsm-firmenich has triumphed at the US Manufacturing Leadership Council's annual awards, taking home the top spot in the 'Sustainability &amp; Circular Economy' category! \ud83c\udf0e\n\nRead more here: https://t.co/2VGnvrJM1f https://t.co/07sjqcK9BX"
+    }
+}

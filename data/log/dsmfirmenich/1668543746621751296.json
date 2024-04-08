@@ -1,0 +1,75 @@
+{
+    "1668543746621751296": {
+        "attachments": {
+            "media_keys": [
+                "3_1668543737184546818"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-06-13T09:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1668543746621751296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "-firmenich",
+                    "probability": 0.5726,
+                    "start": 85,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 168,
+                    "start": 146,
+                    "tag": "webringprogresstolife"
+                },
+                {
+                    "end": 203,
+                    "start": 169,
+                    "tag": "progressthroughhealthandnutrition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 212,
+                    "id": "1752644041953644544",
+                    "start": 204,
+                    "username": "Teamdsm"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spkl.io/601849zgu",
+                    "end": 143,
+                    "expanded_url": "http://spkl.io/601849zgu",
+                    "start": 120,
+                    "status": 200,
+                    "unwound_url": "https://www.dsm-firmenich.com/corporate/our-company/team-dsm-firmenich.html",
+                    "url": "https://t.co/Esp6NW1gvk"
+                },
+                {
+                    "display_url": "pic.twitter.com/EEBCbRaxGj",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1668543746621751296/photo/1",
+                    "media_key": "3_1668543737184546818",
+                    "start": 213,
+                    "url": "https://t.co/EEBCbRaxGj"
+                }
+            ]
+        },
+        "id": "1668543746621751296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15252,
+            "like_count": 70,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "Today, an exciting new era begins for our cycling partnership.\ud83d\udeb2 Say hello to team dsm-firmenich! \ud83d\udc4b\n\nFind out more here: https://t.co/Esp6NW1gvk \n\n#webringprogresstolife #progressthroughhealthandnutrition @TeamDSM https://t.co/EEBCbRaxGj"
+    }
+}

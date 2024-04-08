@@ -1,0 +1,91 @@
+{
+    "1613121718452723712": {
+        "attachments": {
+            "media_keys": [
+                "7_1613111373776490497"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-11T10:32:42.000Z",
+        "edit_history_tweet_ids": [
+            "1613121718452723712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 113,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4517,
+                    "start": 108,
+                    "type": "Other"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "CTIO",
+                    "probability": 0.4904,
+                    "start": 140,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 1,
+                    "tag": "Technology"
+                },
+                {
+                    "end": 114,
+                    "start": 107,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 222,
+                    "start": 212,
+                    "tag": "logistics"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 134,
+                    "id": "1455605835808362497",
+                    "start": 119,
+                    "username": "VincentClerc_m"
+                },
+                {
+                    "end": 158,
+                    "id": "2164461786",
+                    "start": 145,
+                    "username": "navrajkapoor"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/about/technolo\u2026",
+                    "end": 270,
+                    "expanded_url": "https://www.maersk.com/about/technology",
+                    "start": 247,
+                    "url": "https://t.co/xeX6kmAYYK"
+                },
+                {
+                    "display_url": "pic.twitter.com/gxsVGWY62t",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1613121718452723712/video/1",
+                    "media_key": "7_1613111373776490497",
+                    "start": 271,
+                    "url": "https://t.co/gxsVGWY62t"
+                }
+            ]
+        },
+        "id": "1613121718452723712",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2854,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "\u26a1#Technology is radically transforming the global flow of goods, connecting and simplifying supply chains. #Maersk CEO @VincentClerc_m, and CTIO @navrajkapoor discuss how technology and data are transforming the #logistics industry. Explore more: https://t.co/xeX6kmAYYK https://t.co/gxsVGWY62t"
+    }
+}

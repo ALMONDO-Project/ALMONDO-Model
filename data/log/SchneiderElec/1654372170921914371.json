@@ -1,0 +1,61 @@
+{
+    "1654372170921914371": {
+        "attachments": {
+            "media_keys": [
+                "3_1654372166660497409"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-05T06:27:16.000Z",
+        "edit_history_tweet_ids": [
+            "1654372170921914371"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.6553,
+                    "start": 21,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 95,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 79,
+                    "id": "1042778751908700160",
+                    "start": 70,
+                    "username": "PHerweck"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jtarJPKAjX",
+                    "end": 128,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1654372170921914371/photo/1",
+                    "media_key": "3_1654372166660497409",
+                    "start": 105,
+                    "url": "https://t.co/jtarJPKAjX"
+                }
+            ]
+        },
+        "id": "1654372170921914371",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7693,
+            "like_count": 80,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 13
+        },
+        "text": "The next chapter for Schneider Electric begins. Join us as we welcome @PHerweck, our new CEO! \n#LifeIsOn https://t.co/jtarJPKAjX"
+    }
+}

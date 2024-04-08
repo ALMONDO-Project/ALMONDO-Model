@@ -1,0 +1,95 @@
+{
+    "1709200375570423909": {
+        "attachments": {
+            "media_keys": [
+                "7_1709200299733213184"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-10-03T13:34:59.000Z",
+        "edit_history_tweet_ids": [
+            "1709200375570423909"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "EXPOFer23",
+                    "probability": 0.6727,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Italy",
+                    "probability": 0.9688,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "FNM",
+                    "probability": 0.4778,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "CO2",
+                    "probability": 0.6159,
+                    "start": 136,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 28,
+                    "start": 18,
+                    "tag": "EXPOFer23"
+                },
+                {
+                    "end": 66,
+                    "start": 57,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 215,
+                    "start": 198,
+                    "tag": "MobilityByNature"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Today's event follows the agreement signed in November 2020 to supply Trenord with six hydrogen fuel cell trains with an option for an additional eight",
+                    "display_url": "ow.ly/I99550PSpwk",
+                    "end": 196,
+                    "expanded_url": "https://ow.ly/I99550PSpwk",
+                    "start": 173,
+                    "status": 200,
+                    "title": "FNM and Alstom present Italy's first hydrogen-powered train",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/10/fnm-and-alstom-present-italys-first-hydrogen-powered-train",
+                    "url": "https://t.co/evqksa8A65"
+                },
+                {
+                    "display_url": "pic.twitter.com/DUUmYuImQ9",
+                    "end": 239,
+                    "expanded_url": "https://twitter.com/Alstom/status/1709200375570423909/video/1",
+                    "media_key": "7_1709200299733213184",
+                    "start": 216,
+                    "url": "https://t.co/DUUmYuImQ9"
+                }
+            ]
+        },
+        "id": "1709200375570423909",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 3814,
+            "like_count": 24,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "This just in from #EXPOFer23! We presented Italy's first #hydrogen-powered train for FNM. The train meets the European target to reduce CO2 emissions by 100% by 2050. \n\n\ud83c\udf31\ud83d\udca7\ud83d\ude85 https://t.co/evqksa8A65\n\n#MobilityByNature https://t.co/DUUmYuImQ9"
+    }
+}

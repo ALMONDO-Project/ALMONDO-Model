@@ -1,0 +1,73 @@
+{
+    "1641727802536763394": {
+        "attachments": {
+            "media_keys": [
+                "7_1641727499242467329"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-03-31T09:03:04.000Z",
+        "edit_history_tweet_ids": [
+            "1641727802536763394"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "Acceleration",
+                    "probability": 0.625,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "MIMA",
+                    "probability": 0.5464,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 74,
+                    "start": 69,
+                    "tag": "MIMA"
+                },
+                {
+                    "end": 273,
+                    "start": 261,
+                    "tag": "SupplyChain"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 88,
+                    "id": "74286565",
+                    "start": 78,
+                    "username": "Microsoft"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zXilB5rLhZ",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Danone/status/1641727802536763394/video/1",
+                    "media_key": "7_1641727499242467329",
+                    "start": 274,
+                    "url": "https://t.co/zXilB5rLhZ"
+                }
+            ]
+        },
+        "id": "1641727802536763394",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1249,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Our Digital Manufacturing Acceleration Program has won an award, the #MIMA by @Microsoft! It recognized its unique, integrated approach to constantly innovate to find better ways to do things across our factories, so they become more efficient and sustainable. #SupplyChain https://t.co/zXilB5rLhZ"
+    }
+}

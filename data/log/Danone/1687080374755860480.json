@@ -1,0 +1,79 @@
+{
+    "1687080374755860480": {
+        "attachments": {
+            "media_keys": [
+                "13_1687075683598823424"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-08-03T12:38:00.000Z",
+        "edit_history_tweet_ids": [
+            "1687080374755860480"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Norbert Tarayre",
+                    "probability": 0.7557,
+                    "start": 50,
+                    "type": "Person"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "ChampionsForLife",
+                    "probability": 0.6782,
+                    "start": 224,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 223,
+                    "tag": "ChampionsForLife"
+                },
+                {
+                    "end": 262,
+                    "start": 241,
+                    "tag": "ChampionATousLesAges"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "1103361784885506048",
+                    "start": 5,
+                    "username": "SoldeTyphaine"
+                },
+                {
+                    "end": 113,
+                    "id": "4792727422",
+                    "start": 103,
+                    "username": "ActimelFR"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/sehoUdWM1N",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Danone/status/1687080374755860480/video/1",
+                    "media_key": "13_1687075683598823424",
+                    "start": 263,
+                    "url": "https://t.co/sehoUdWM1N"
+                }
+            ]
+        },
+        "id": "1687080374755860480",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1590,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "It's @SoldeTyphaine's turn to lend a hand to chef Norbert Tarayre! Together, they make a smoothie with @ActimelFR. A homemade drink full of vitamins B6 and D that contribute to the proper functioning of our immune system \ud83d\ude42\n#ChampionsForLife #ChampionATousLesAges https://t.co/sehoUdWM1N"
+    }
+}

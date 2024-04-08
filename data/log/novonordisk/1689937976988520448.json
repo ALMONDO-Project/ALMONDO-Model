@@ -1,0 +1,46 @@
+{
+    "1689937976988520448": {
+        "author_id": "194037150",
+        "created_at": "2023-08-11T09:53:05.000Z",
+        "edit_history_tweet_ids": [
+            "1689937976988520448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 277,
+                    "normalized_text": "Asif",
+                    "probability": 0.5258,
+                    "start": 274,
+                    "type": "Organization"
+                },
+                {
+                    "end": 291,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6634,
+                    "start": 280,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1433112413721841673",
+                    "start": 0,
+                    "username": "hematokrit2"
+                }
+            ]
+        },
+        "id": "1689937976988520448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 95,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@hematokrit2 Hi, thanks for getting in touch. Due to global privacy and legal regulations, we are not allowed to discuss our products or give medical advice on social media. I\u00a0suggest you contact your Health Care Professional to get guidance for medical questions.\nRegards,\nAsif, Novo Nordisk"
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "1620769944807026689": {
+        "attachments": {
+            "media_keys": [
+                "3_1620769904977747968",
+                "3_1620769904981852161",
+                "3_1620769904512143362"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-02-01T13:04:01.000Z",
+        "edit_history_tweet_ids": [
+            "1620769944807026689"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "India",
+                    "probability": 0.973,
+                    "start": 65,
+                    "type": "Place"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "India",
+                    "probability": 0.9642,
+                    "start": 194,
+                    "type": "Place"
+                },
+                {
+                    "end": 282,
+                    "normalized_text": "WhyEE",
+                    "probability": 0.4328,
+                    "start": 278,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 126,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 283,
+                    "start": 277,
+                    "tag": "WhyEE"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 37,
+                    "id": "2204638274",
+                    "start": 25,
+                    "username": "pooja_kapur"
+                },
+                {
+                    "end": 120,
+                    "id": "84679163",
+                    "start": 116,
+                    "username": "IEA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "danfoss.com/en/about-danfo\u2026",
+                    "end": 276,
+                    "expanded_url": "https://www.danfoss.com/en/about-danfoss/news/cf/india-s-ambassador-to-denmark-visits-danfoss-to-discuss-energy-efficiency/",
+                    "start": 253,
+                    "url": "https://t.co/x4ZA2tYT3P"
+                },
+                {
+                    "display_url": "pic.twitter.com/Cln4ck0iQV",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1620769944807026689/photo/1",
+                    "media_key": "3_1620769904977747968",
+                    "start": 284,
+                    "url": "https://t.co/Cln4ck0iQV"
+                },
+                {
+                    "display_url": "pic.twitter.com/Cln4ck0iQV",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1620769944807026689/photo/1",
+                    "media_key": "3_1620769904981852161",
+                    "start": 284,
+                    "url": "https://t.co/Cln4ck0iQV"
+                },
+                {
+                    "display_url": "pic.twitter.com/Cln4ck0iQV",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1620769944807026689/photo/1",
+                    "media_key": "3_1620769904512143362",
+                    "start": 284,
+                    "url": "https://t.co/Cln4ck0iQV"
+                }
+            ]
+        },
+        "id": "1620769944807026689",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 995,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "It was our honor to host @pooja_kapur at our headquarters today. India has sizeable &amp; growing energy needs. The @IEA says #EnergyEfficiency can deliver 25% of emissions reductions needed in India's industry sector. We have the solutions, read more: https://t.co/x4ZA2tYT3P #WhyEE https://t.co/Cln4ck0iQV"
+    }
+}

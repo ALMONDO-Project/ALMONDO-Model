@@ -1,0 +1,67 @@
+{
+    "1684420880082903040": {
+        "attachments": {
+            "media_keys": [
+                "13_1684420853256056832"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-27T04:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1684420880082903040"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Florent Berard",
+                    "probability": 0.3916,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8792,
+                    "start": 20,
+                    "type": "Organization"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "BASF",
+                    "probability": 0.4279,
+                    "start": 194,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 255,
+                    "tag": "sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/I1BeyLrhRs",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1684420880082903040/video/1",
+                    "media_key": "13_1684420853256056832",
+                    "start": 272,
+                    "url": "https://t.co/I1BeyLrhRs"
+                }
+            ]
+        },
+        "id": "1684420880082903040",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2143,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "Florent Berard from Schneider Electric, Vice President of Strategy for Home &amp; Distribution, and his guest Patrick Hasenh\u00fctl, Vice President Business Management for Industrial Application at BASF, are joining forces to tackle plastic waste and promote #sustainability. https://t.co/I1BeyLrhRs"
+    }
+}

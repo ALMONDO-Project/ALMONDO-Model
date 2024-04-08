@@ -1,0 +1,103 @@
+{
+    "1630165419670511617": {
+        "attachments": {
+            "media_keys": [
+                "3_1630165181895516162"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-02-27T11:18:17.000Z",
+        "edit_history_tweet_ids": [
+            "1630165419670511617"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Marc Segura",
+                    "probability": 0.9274,
+                    "start": 48,
+                    "type": "Person"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "ABB",
+                    "probability": 0.4749,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Robotics",
+                    "probability": 0.3345,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "ABB",
+                    "probability": 0.5592,
+                    "start": 200,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 17,
+                    "tag": "robots"
+                },
+                {
+                    "end": 74,
+                    "start": 65,
+                    "tag": "Robotics"
+                },
+                {
+                    "end": 152,
+                    "start": 141,
+                    "tag": "automation"
+                },
+                {
+                    "end": 203,
+                    "start": 199,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 215,
+                    "start": 204,
+                    "tag": "innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/predicts-top-r\u2026",
+                    "end": 198,
+                    "expanded_url": "https://social.abb/predicts-top-robotics-trends-2023",
+                    "start": 175,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/100312/prsrl-abb-predicts-top-robotics-trends-for-2023",
+                    "url": "https://t.co/rmccjeiEtF"
+                },
+                {
+                    "display_url": "pic.twitter.com/LDGC6WsV7G",
+                    "end": 239,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1630165419670511617/photo/1",
+                    "media_key": "3_1630165181895516162",
+                    "start": 216,
+                    "url": "https://t.co/LDGC6WsV7G"
+                }
+            ]
+        },
+        "id": "1630165419670511617",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2108,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "With the sale of #robots hitting record levels, Marc Segura, ABB #Robotics President is making several predictions on key trends in robotics #automation for 2023. \nRead more: https://t.co/rmccjeiEtF\n#ABB #innovation https://t.co/LDGC6WsV7G"
+    }
+}

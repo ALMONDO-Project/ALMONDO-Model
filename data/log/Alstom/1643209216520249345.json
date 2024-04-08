@@ -1,0 +1,83 @@
+{
+    "1643209216520249345": {
+        "author_id": "258725128",
+        "created_at": "2023-04-04T11:09:41.000Z",
+        "edit_history_tweet_ids": [
+            "1643209216520249345"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "ARAMIS",
+                    "probability": 0.7339,
+                    "start": 73,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 138,
+                    "tag": "rail"
+                },
+                {
+                    "end": 173,
+                    "start": 159,
+                    "tag": "cybersecurity"
+                },
+                {
+                    "end": 252,
+                    "start": 244,
+                    "tag": "FIC2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "1355473747",
+                    "start": 18,
+                    "username": "FIC_eu"
+                },
+                {
+                    "end": 55,
+                    "id": "1517122071532290048",
+                    "start": 41,
+                    "username": "AirbusProtect"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/v6SZ50NzFMA",
+                    "end": 242,
+                    "expanded_url": "http://ow.ly/v6SZ50NzFMA",
+                    "start": 219,
+                    "unwound_url": "https://europe.forum-incyber.comen/programme-2023-2/",
+                    "url": "https://t.co/mGFfQC2VW8"
+                },
+                {
+                    "description": "In a world driven by digital, having assurance that data and connected systems are protected is a basic requirement to ensure continuous operations. For this reason, Alstom has placed cybersecurity at the heart of its culture of excellence and safety. of Alstom's po rtfolio assessed As a leader in railway and cybersecurity, Alstom addresses the entire Cyber Security Lifecycle. Alstom can help rail asset owners and operators undertake risk analysis and understand where their vulnerabilities lie and react",
+                    "display_url": "alstom.com/solutions/digi\u2026",
+                    "end": 276,
+                    "expanded_url": "https://www.alstom.com/solutions/digital-mobility/cybersecurity-safe-secure-mobility",
+                    "start": 253,
+                    "status": 200,
+                    "title": "Cybersecurity: for safe & secure mobility",
+                    "unwound_url": "https://www.alstom.com/solutions/digital-mobility/cybersecurity-safe-secure-mobility",
+                    "url": "https://t.co/dpTdhx7ZIG"
+                }
+            ]
+        },
+        "id": "1643209216520249345",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1813,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Save the date: at @FIC_eu, together with @AirbusProtect, we will present ARAMIS, a new risk assessment methodology bringing innovation to #rail and industrial #cybersecurity merging IEC 62443, TS 50701 and EBIOS RM. \n\ud83d\udcc6 https://t.co/mGFfQC2VW8\n\n#FIC2023 https://t.co/dpTdhx7ZIG"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1663228709157978125": {
+        "attachments": {
+            "media_keys": [
+                "3_1661715439771107329"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-29T17:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1663228709157978125"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 202,
+                    "normalized_text": "Europe",
+                    "probability": 0.9609,
+                    "start": 197,
+                    "type": "Place"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "Rotterdam",
+                    "probability": 0.9072,
+                    "start": 207,
+                    "type": "Place"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Ahoy",
+                    "probability": 0.4,
+                    "start": 217,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 196,
+                    "id": "93871793",
+                    "start": 185,
+                    "username": "Break_Bulk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3q8gNqy",
+                    "end": 267,
+                    "expanded_url": "https://bit.ly/3q8gNqy",
+                    "start": 244,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/supply-chain-logistics/project-logistics?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_646B6E0ACACE9_646B6E97A05D1&utm_term=VOCP&utm_content=EUR_Breakbulk2",
+                    "url": "https://t.co/m4H4adVq62"
+                },
+                {
+                    "display_url": "pic.twitter.com/9ygZJli7u0",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Maersk/status/1663228709157978125/photo/1",
+                    "media_key": "3_1661715439771107329",
+                    "start": 268,
+                    "url": "https://t.co/9ygZJli7u0"
+                }
+            ]
+        },
+        "id": "1663228709157978125",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4025,
+            "like_count": 34,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Our unique and powerful combination of global presence, assets, capabilities and scale help us deliver multi-modal end-to-end project logistics solutions. To know more you can visit us @Break_Bulk Europe in Rotterdam Ahoy, from 6-8 June, 2023: https://t.co/m4H4adVq62 https://t.co/9ygZJli7u0"
+    }
+}

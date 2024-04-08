@@ -1,0 +1,66 @@
+{
+    "1704752185530093852": {
+        "attachments": {
+            "media_keys": [
+                "3_1704751662366158848"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-21T06:59:28.000Z",
+        "edit_history_tweet_ids": [
+            "1704752185530093852"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Douala",
+                    "probability": 0.8963,
+                    "start": 64,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 60,
+                    "start": 50,
+                    "tag": "warehouse"
+                },
+                {
+                    "end": 280,
+                    "start": 273,
+                    "tag": "maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 271,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/09/21/brand-new-and-technology-driven-warehouse-in-douala",
+                    "start": 248,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/09/21/brand-new-and-technology-driven-warehouse-in-douala",
+                    "url": "https://t.co/sKz5kJfqnJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/1thj3V8zLp",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Maersk/status/1704752185530093852/photo/1",
+                    "media_key": "3_1704751662366158848",
+                    "start": 281,
+                    "url": "https://t.co/1thj3V8zLp"
+                }
+            ]
+        },
+        "id": "1704752185530093852",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1768,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We are opening a 16.000 sqm new technology-driven #warehouse in Douala, Cameroon\u26a1The facility offers:\n\ud83c\udfed More than 8,000 pallet positions.\n\ud83e\udd1d\ud83c\udffc Focus on deconsolidation and fulfilment.\n\ud83d\udc6e\ud83c\udffc\u200d\u2642\ufe0f Provide storage of cargo in the customs clearance process.\n https://t.co/sKz5kJfqnJ\n\n#maersk https://t.co/1thj3V8zLp"
+    }
+}

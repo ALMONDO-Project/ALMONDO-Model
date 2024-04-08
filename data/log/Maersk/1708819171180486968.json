@@ -1,0 +1,91 @@
+{
+    "1708819171180486968": {
+        "attachments": {
+            "media_keys": [
+                "7_1708818887867834368"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-02T12:20:13.000Z",
+        "edit_history_tweet_ids": [
+            "1708819171180486968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "LauraM\u00e6rsk",
+                    "probability": 0.6412,
+                    "start": 48,
+                    "type": "Person"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "methanol",
+                    "probability": 0.8259,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "Second Engineer",
+                    "probability": 0.6809,
+                    "start": 236,
+                    "type": "Other"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "Luzviminda Ornopia",
+                    "probability": 0.5074,
+                    "start": 253,
+                    "type": "Person"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4856,
+                    "start": 273,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 58,
+                    "start": 47,
+                    "tag": "LauraM\u00e6rsk"
+                },
+                {
+                    "end": 85,
+                    "start": 76,
+                    "tag": "methanol"
+                },
+                {
+                    "end": 279,
+                    "start": 272,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/mwZsmx1349",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Maersk/status/1708819171180486968/video/1",
+                    "media_key": "7_1708818887867834368",
+                    "start": 280,
+                    "url": "https://t.co/mwZsmx1349"
+                }
+            ]
+        },
+        "id": "1708819171180486968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 3200,
+            "like_count": 36,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "What is it like being part of the crew onboard #LauraM\u00e6rsk?\n\n\"With this new #methanol enabled vessel, there are always new challenges, new learnings, and having all eyes on us, I can tell everyone that it\u2019s working \u2013 we make it work\" - Second Engineer, Luzviminda Ornopia\n#Maersk https://t.co/mwZsmx1349"
+    }
+}

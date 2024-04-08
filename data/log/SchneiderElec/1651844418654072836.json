@@ -1,0 +1,59 @@
+{
+    "1651844418654072836": {
+        "author_id": "393757140",
+        "created_at": "2023-04-28T07:02:53.000Z",
+        "edit_history_tweet_ids": [
+            "1651844418654072836"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Mukesh",
+                    "probability": 0.9496,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1156503782840160256",
+                    "start": 0,
+                    "username": "thukral_mukesh"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6010OVGN2",
+                    "end": 221,
+                    "expanded_url": "http://spr.ly/6010OVGN2",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=dux6kG13QWM&t=13s",
+                    "url": "https://t.co/Y6jnSWOXR2"
+                },
+                {
+                    "display_url": "spr.ly/6011OVGNN",
+                    "end": 254,
+                    "expanded_url": "http://spr.ly/6011OVGNN",
+                    "start": 231,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/in/en/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9744636064&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/thwBPz1K1j"
+                }
+            ]
+        },
+        "id": "1651844418654072836",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@thukral_mukesh Hi Mukesh,\nWe do not make lifts, we are leading the digital transformation of energy management and automation. To know more about what we exactly do, please watch this short video: https://t.co/Y6jnSWOXR2 or visit https://t.co/thwBPz1K1j"
+    }
+}

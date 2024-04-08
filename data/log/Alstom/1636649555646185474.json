@@ -1,0 +1,103 @@
+{
+    "1636649555646185474": {
+        "attachments": {
+            "media_keys": [
+                "3_1636649553947492354"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-03-17T08:43:56.000Z",
+        "edit_history_tweet_ids": [
+            "1636649555646185474"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Cityflo 650",
+                    "probability": 0.6129,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Putrajaya Line",
+                    "probability": 0.5628,
+                    "start": 103,
+                    "type": "Place"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "Malaysia",
+                    "probability": 0.9723,
+                    "start": 121,
+                    "type": "Place"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "Greater Kuala Lumpur",
+                    "probability": 0.7112,
+                    "start": 132,
+                    "type": "Place"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "Malaysia",
+                    "probability": 0.9827,
+                    "start": 200,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 208,
+                    "start": 199,
+                    "tag": "Malaysia"
+                },
+                {
+                    "end": 220,
+                    "start": 209,
+                    "tag": "signalling"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 102,
+                    "id": "385323351",
+                    "start": 90,
+                    "username": "MRTMalaysia"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/otIq50NkT9P",
+                    "end": 197,
+                    "expanded_url": "http://ow.ly/otIq50NkT9P",
+                    "start": 174,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/3/alstom-delivers-complete-signalling-system-and-board-signalling-equipment-malaysias-mrt-putrajaya-line",
+                    "url": "https://t.co/DuJMqKg3Rs"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZJ6jM4gcP4",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/Alstom/status/1636649555646185474/photo/1",
+                    "media_key": "3_1636649553947492354",
+                    "start": 221,
+                    "url": "https://t.co/ZJ6jM4gcP4"
+                }
+            ]
+        },
+        "id": "1636649555646185474",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1375,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We have successfully delivered the Cityflo 650 signalling solution for the 57.7-kilometre @MRTMalaysia Putrajaya Line in Malaysia\u2019s Greater Kuala Lumpur region.\n\nLearn more: https://t.co/DuJMqKg3Rs\n\n#Malaysia #signalling https://t.co/ZJ6jM4gcP4"
+    }
+}

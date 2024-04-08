@@ -1,0 +1,67 @@
+{
+    "1691724681181626653": {
+        "attachments": {
+            "media_keys": [
+                "7_1691723439998926848"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-16T08:12:49.000Z",
+        "edit_history_tweet_ids": [
+            "1691724681181626653"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "Torbj\u00f8rn Pedersen",
+                    "probability": 0.9314,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Thor",
+                    "probability": 0.6325,
+                    "start": 171,
+                    "type": "Person"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5609,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 211,
+                    "start": 204,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DzIyYL8E9C",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Maersk/status/1691724681181626653/video/1",
+                    "media_key": "7_1691723439998926848",
+                    "start": 274,
+                    "url": "https://t.co/DzIyYL8E9C"
+                }
+            ]
+        },
+        "id": "1691724681181626653",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3836,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "For the past decade Torbj\u00f8rn Pedersen has been on a mission to visit every country in the world in one unbroken journey, completely without flying\ud83c\udf0dThroughout his journey, Thor has sailed onboard numerous #Maersk vessels to visit destinations he was unable to reach by land\ud83d\udea2 https://t.co/DzIyYL8E9C"
+    }
+}

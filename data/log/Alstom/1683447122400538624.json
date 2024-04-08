@@ -1,0 +1,102 @@
+{
+    "1683447122400538624": {
+        "attachments": {
+            "media_keys": [
+                "7_1683446176513773568"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-07-24T12:00:45.000Z",
+        "edit_history_tweet_ids": [
+            "1683447122400538624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6392,
+                    "start": 10,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "London",
+                    "probability": 0.9865,
+                    "start": 124,
+                    "type": "Place"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Paris",
+                    "probability": 0.9943,
+                    "start": 135,
+                    "type": "Place"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "MobilitybyNature",
+                    "probability": 0.5957,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 33,
+                    "tag": "metro"
+                },
+                {
+                    "end": 245,
+                    "start": 228,
+                    "tag": "MobilitybyNature"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Market leading in metros, with more than 60 years of experience, Alstom\u2019s Metropolis\u2122 metros are designed to keep cities breathing. They combine service-proven components with innovative technologies to enhance reliability, passenger comfort and sustainability. With flexible configurations, they can be adapted to multiple capacity and operational needs for new and existing infrastructure.",
+                    "display_url": "ow.ly/gG3Q50PanzA",
+                    "end": 226,
+                    "expanded_url": "https://ow.ly/gG3Q50PanzA",
+                    "images": [
+                        {
+                            "height": 1079,
+                            "url": "https://pbs.twimg.com/news_img/1745907712540495872/pkCNElwk?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1745907712540495872/pkCNElwk?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 203,
+                    "status": 200,
+                    "title": "Metropolis metros: Keeping your city breathing",
+                    "unwound_url": "https://www.alstom.com/solutions/rolling-stock/metropolis-metros-keeping-your-city-breathing",
+                    "url": "https://t.co/srzzGziJMj"
+                },
+                {
+                    "display_url": "pic.twitter.com/NggdG4x332",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/Alstom/status/1683447122400538624/video/1",
+                    "media_key": "7_1683446176513773568",
+                    "start": 246,
+                    "url": "https://t.co/NggdG4x332"
+                }
+            ]
+        },
+        "id": "1683447122400538624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3177,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "Fun fact: Alstom has sold 35,000 #metro cars worldwide. That would provide the passenger capacity to transport the whole of London and Paris at the same time - 11,000,000 people!\n\nMore about our metros: https://t.co/srzzGziJMj \n#MobilitybyNature https://t.co/NggdG4x332"
+    }
+}

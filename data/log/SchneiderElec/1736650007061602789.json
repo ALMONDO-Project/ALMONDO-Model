@@ -1,0 +1,69 @@
+{
+    "1736650007061602789": {
+        "attachments": {
+            "media_keys": [
+                "3_1736650004498882560"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-12-18T07:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1736650007061602789"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9284,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "STEM",
+                    "probability": 0.5419,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "Maud Tournoud",
+                    "probability": 0.6529,
+                    "start": 156,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6012RTH1p",
+                    "end": 244,
+                    "expanded_url": "http://spr.ly/l/6012RTH1p",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6012RTH1p",
+                    "url": "https://t.co/7G89oxCeDZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/Mt3u0mnDUj",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1736650007061602789/photo/1",
+                    "media_key": "3_1736650004498882560",
+                    "start": 245,
+                    "url": "https://t.co/Mt3u0mnDUj"
+                }
+            ]
+        },
+        "id": "1736650007061602789",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1111,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "At Schneider Electric, we are committed to increasing women's representation in STEM (Science, technology, engineering, and mathematics). In a recent blog, Maud Tournoud, our senior data science manager shares her (cont) https://t.co/7G89oxCeDZ https://t.co/Mt3u0mnDUj"
+    }
+}

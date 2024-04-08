@@ -1,0 +1,93 @@
+{
+    "1615302916541235202": {
+        "attachments": {
+            "media_keys": [
+                "13_1615294086080069637"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-01-17T11:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1615302916541235202"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "EV",
+                    "probability": 0.3466,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Frank Muehlon",
+                    "probability": 0.9146,
+                    "start": 158,
+                    "type": "Person"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "ABB",
+                    "probability": 0.5071,
+                    "start": 180,
+                    "type": "Other"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "ABB",
+                    "probability": 0.7131,
+                    "start": 235,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 8,
+                    "start": 5,
+                    "tag": "EV"
+                },
+                {
+                    "end": 238,
+                    "start": 234,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 255,
+                    "start": 247,
+                    "tag": "podcast"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/decoded-podcas\u2026",
+                    "end": 280,
+                    "expanded_url": "https://social.abb/decoded-podcast-platform",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/media/podcasts/abb-decoded?_ga=2.133469134.1912055705.1618210361-39147843.1606897664",
+                    "url": "https://t.co/9rJWPJiqEa"
+                },
+                {
+                    "display_url": "pic.twitter.com/chDVpEe7MN",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1615302916541235202/video/1",
+                    "media_key": "13_1615294086080069637",
+                    "start": 281,
+                    "url": "https://t.co/chDVpEe7MN"
+                }
+            ]
+        },
+        "id": "1615302916541235202",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2533,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "'The #EV transition is in full swing. It's not so much a question of whether this market will take off, it's more a question of how fast will it go..' - says Frank Muehlon, CEO of ABB E-mobility.  \nListen to the latest episode of the #ABB Decoded #podcast: https://t.co/9rJWPJiqEa https://t.co/chDVpEe7MN"
+    }
+}

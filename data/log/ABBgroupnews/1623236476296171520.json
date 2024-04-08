@@ -1,0 +1,89 @@
+{
+    "1623236476296171520": {
+        "attachments": {
+            "media_keys": [
+                "3_1623236153745764352"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-02-08T08:25:08.000Z",
+        "edit_history_tweet_ids": [
+            "1623236476296171520"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.6219,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "India",
+                    "probability": 0.9845,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Motorsport",
+                    "probability": 0.3344,
+                    "start": 104,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 37,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 114,
+                    "start": 103,
+                    "tag": "Motorsport"
+                },
+                {
+                    "end": 122,
+                    "start": 115,
+                    "tag": "racing"
+                },
+                {
+                    "end": 138,
+                    "start": 123,
+                    "tag": "sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/formula-debuts\u2026",
+                    "end": 102,
+                    "expanded_url": "https://social.abb/formula-debuts-in-india",
+                    "start": 79,
+                    "url": "https://t.co/d9MEBUHMxR"
+                },
+                {
+                    "display_url": "pic.twitter.com/voO2C1drTf",
+                    "end": 162,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1623236476296171520/photo/1",
+                    "media_key": "3_1623236153745764352",
+                    "start": 139,
+                    "url": "https://t.co/voO2C1drTf"
+                }
+            ]
+        },
+        "id": "1623236476296171520",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1757,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Pearl of sustainable transportation, #ABBFormulaE, debuts in India.\nRead more: https://t.co/d9MEBUHMxR\n#Motorsport #racing #sustainability https://t.co/voO2C1drTf"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "1626195463656337409": {
+        "attachments": {
+            "media_keys": [
+                "3_1626193764308983808"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-16T12:23:06.000Z",
+        "edit_history_tweet_ids": [
+            "1626195463656337409"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "Saudi Arabia",
+                    "probability": 0.9782,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Logistics Park",
+                    "probability": 0.5157,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Jeddah Islamic Port",
+                    "probability": 0.6547,
+                    "start": 128,
+                    "type": "Place"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3954,
+                    "start": 250,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 96,
+                    "start": 86,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 211,
+                    "start": 199,
+                    "tag": "solarenergy"
+                },
+                {
+                    "end": 256,
+                    "start": 249,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 277,
+                    "start": 257,
+                    "tag": "Integratedlogistics"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 24,
+                    "id": "479320838",
+                    "start": 14,
+                    "username": "MawaniKSA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/ei8VUwi2",
+                    "end": 248,
+                    "expanded_url": "https://lnkd.in/ei8VUwi2",
+                    "start": 225,
+                    "url": "https://t.co/ySQ4CW63Av"
+                },
+                {
+                    "display_url": "pic.twitter.com/DzkViyoFlw",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1626195463656337409/photo/1",
+                    "media_key": "3_1626193764308983808",
+                    "start": 278,
+                    "url": "https://t.co/DzkViyoFlw"
+                }
+            ]
+        },
+        "id": "1626195463656337409",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3849,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "Together with @MawaniKSA  we have broken ground for Saudi Arabia\u2019s largest Integrated #Logistics Park!\n\nHighlights:\n\ud83d\udccdLocated at Jeddah Islamic Port\n\ud83c\udfedSpread over 225,000 square meter\n\u26a1100% powered by #solarenergy\n\nLearn more: https://t.co/ySQ4CW63Av\n#Maersk #Integratedlogistics https://t.co/DzkViyoFlw"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "1637820559311470598": {
+        "attachments": {
+            "media_keys": [
+                "3_1637820554039160832"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-20T14:17:05.000Z",
+        "edit_history_tweet_ids": [
+            "1637820559311470598"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Billund Airport",
+                    "probability": 0.9156,
+                    "start": 9,
+                    "type": "Place"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9717,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Maersk Air Cargo Eurasia",
+                    "probability": 0.649,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9676,
+                    "start": 161,
+                    "type": "Place"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "Asia",
+                    "probability": 0.9762,
+                    "start": 173,
+                    "type": "Place"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7802,
+                    "start": 221,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 227,
+                    "start": 220,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 237,
+                    "start": 228,
+                    "tag": "aircargo"
+                },
+                {
+                    "end": 258,
+                    "start": 238,
+                    "tag": "integratedlogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3TwEm76",
+                    "end": 218,
+                    "expanded_url": "https://bddy.me/3TwEm76",
+                    "start": 195,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/03/20/maersk-launches-europe-china-air-freight-service-to-add-further-agility-to-customer-supply-chains",
+                    "url": "https://t.co/Yjv6M0fyjZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/aAyRmBgC7w",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Maersk/status/1637820559311470598/photo/1",
+                    "media_key": "3_1637820554039160832",
+                    "start": 259,
+                    "url": "https://t.co/aAyRmBgC7w"
+                }
+            ]
+        },
+        "id": "1637820559311470598",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 7655,
+            "like_count": 111,
+            "quote_count": 3,
+            "reply_count": 4,
+            "retweet_count": 13
+        },
+        "text": "\u2708Live at Billund Airport, Denmark today to launch our Maersk Air Cargo Eurasia route. The inaugural flight marks the first scheduled air cargo operation between Denmark and Asia. \n\nFull PR here: https://t.co/Yjv6M0fyjZ\n\n#Maersk #aircargo #integratedlogistics https://t.co/aAyRmBgC7w"
+    }
+}

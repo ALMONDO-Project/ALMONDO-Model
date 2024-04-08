@@ -1,0 +1,80 @@
+{
+    "1636023240215724034": {
+        "attachments": {
+            "media_keys": [
+                "3_1636023225216909313"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-03-15T15:15:10.000Z",
+        "edit_history_tweet_ids": [
+            "1636023240215724034"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 258,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5094,
+                    "start": 253,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 156,
+                    "tag": "warehouse"
+                },
+                {
+                    "end": 259,
+                    "start": 252,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 271,
+                    "start": 260,
+                    "tag": "Technology"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "1349657181231198209",
+                    "start": 14,
+                    "username": "bionichive"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eUWnbJUp",
+                    "end": 251,
+                    "expanded_url": "https://lnkd.in/eUWnbJUp",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/03/15/maersk-tests-bionichive-for-warehouse-automation-solution",
+                    "url": "https://t.co/gJApeHfP62"
+                },
+                {
+                    "display_url": "pic.twitter.com/yl8yljTpPN",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Maersk/status/1636023240215724034/photo/1",
+                    "media_key": "3_1636023225216909313",
+                    "start": 272,
+                    "url": "https://t.co/yl8yljTpPN"
+                }
+            ]
+        },
+        "id": "1636023240215724034",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4944,
+            "like_count": 59,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 11
+        },
+        "text": "Together with @bionichive, we are four months into a pilot designed to assess automation processes that sort, select and put away packages and can navigate #warehouse floors using built-in cameras and sensors\u2699\ufe0f\n\ud83d\udc49Read more here: https://t.co/gJApeHfP62\n#Maersk #Technology https://t.co/yl8yljTpPN"
+    }
+}

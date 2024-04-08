@@ -1,0 +1,87 @@
+{
+    "1610939191302520834": {
+        "attachments": {
+            "media_keys": [
+                "3_1610939187959681027"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-01-05T10:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1610939191302520834"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6953,
+                    "start": 102,
+                    "type": "Other"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "Maersk",
+                    "probability": 0.424,
+                    "start": 209,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 215,
+                    "start": 208,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 236,
+                    "start": 216,
+                    "tag": "IntegratedLogistics"
+                },
+                {
+                    "end": 252,
+                    "start": 237,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 267,
+                    "start": 253,
+                    "tag": "Collaboration"
+                },
+                {
+                    "end": 278,
+                    "start": 268,
+                    "tag": "Chemicals"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3Ip7xFk",
+                    "end": 205,
+                    "expanded_url": "https://bddy.me/3Ip7xFk",
+                    "start": 182,
+                    "url": "https://t.co/0kFDzV6mUz"
+                },
+                {
+                    "display_url": "pic.twitter.com/WHOS2JZtu4",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1610939191302520834/photo/1",
+                    "media_key": "3_1610939187959681027",
+                    "start": 279,
+                    "url": "https://t.co/WHOS2JZtu4"
+                }
+            ]
+        },
+        "id": "1610939191302520834",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3234,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Chemical companies can now make quicker, better-informed decisions on reducing Scope 3 emissions with Maersk Emissions Dashboard - a one-stop shop for consolidated view.\n \nRead More https://t.co/0kFDzV6mUz\n \n#Maersk #IntegratedLogistics #Sustainability #Collaboration #Chemicals https://t.co/WHOS2JZtu4"
+    }
+}

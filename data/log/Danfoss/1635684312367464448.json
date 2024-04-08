@@ -1,0 +1,71 @@
+{
+    "1635684312367464448": {
+        "author_id": "95291408",
+        "created_at": "2023-03-14T16:48:24.000Z",
+        "edit_history_tweet_ids": [
+            "1635684312367464448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Morten",
+                    "probability": 0.655,
+                    "start": 10,
+                    "type": "Person"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "EPBD",
+                    "probability": 0.4673,
+                    "start": 173,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "WhyEE",
+                    "probability": 0.4469,
+                    "start": 197,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 177,
+                    "start": 172,
+                    "tag": "EPBD"
+                },
+                {
+                    "end": 195,
+                    "start": 178,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 202,
+                    "start": 196,
+                    "tag": "WhyEE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/mortenhelveg/s\u2026",
+                    "end": 226,
+                    "expanded_url": "https://twitter.com/mortenhelveg/status/1635640301757890568",
+                    "start": 203,
+                    "url": "https://t.co/DWXya4uqHh"
+                }
+            ]
+        },
+        "id": "1635684312367464448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1041,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Good work Morten, we are behind you! Decarbonizing our buildings is absolutely critical and today's successful vote brings us one step further to realizing that objective. #EPBD #EnergyEfficiency #WhyEE https://t.co/DWXya4uqHh"
+    }
+}

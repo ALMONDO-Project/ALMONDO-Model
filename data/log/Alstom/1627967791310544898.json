@@ -1,0 +1,77 @@
+{
+    "1627967791310544898": {
+        "attachments": {
+            "media_keys": [
+                "3_1627967789007773696"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-02-21T09:45:42.000Z",
+        "edit_history_tweet_ids": [
+            "1627967791310544898"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "RAILPOOL",
+                    "probability": 0.4905,
+                    "start": 44,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Europe",
+                    "probability": 0.9545,
+                    "start": 61,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 43,
+                    "tag": "RAILPOOL"
+                },
+                {
+                    "end": 83,
+                    "start": 78,
+                    "tag": "rail"
+                },
+                {
+                    "end": 229,
+                    "start": 216,
+                    "tag": "rollingstock"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/kIki50MXItW",
+                    "end": 284,
+                    "expanded_url": "http://ow.ly/kIki50MXItW",
+                    "start": 261,
+                    "url": "https://t.co/00G2Eiim2k"
+                },
+                {
+                    "display_url": "pic.twitter.com/TVDkKhfnzN",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/Alstom/status/1627967791310544898/photo/1",
+                    "media_key": "3_1627967789007773696",
+                    "start": 285,
+                    "url": "https://t.co/TVDkKhfnzN"
+                }
+            ]
+        },
+        "id": "1627967791310544898",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2751,
+            "like_count": 36,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "We've signed a new framework contract with #RAILPOOL, one of Europe\u2019s leading #rail vehicle leasing companies, to expand their footprint in Polish, Italian &amp; Scandinavian markets with an existing fleet &amp; new #rollingstock - delivery starting in 2024\ud83d\ude4c\n\n\ud83d\udcf0https://t.co/00G2Eiim2k https://t.co/TVDkKhfnzN"
+    }
+}

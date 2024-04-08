@@ -1,0 +1,49 @@
+{
+    "1627703520769064960": {
+        "author_id": "23085995",
+        "created_at": "2023-02-20T16:15:35.000Z",
+        "edit_history_tweet_ids": [
+            "1627703520769064960"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Nestl\u00e9",
+                    "probability": 0.344,
+                    "start": 38,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1457192456102072320",
+                    "start": 0,
+                    "username": "berd_funny"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "nes.tl/AskPlasticWaste",
+                    "end": 295,
+                    "expanded_url": "https://nes.tl/AskPlasticWaste",
+                    "start": 272,
+                    "unwound_url": "https://nes.tl/AskPlasticWaste",
+                    "url": "https://t.co/RDyDBZqreW"
+                }
+            ]
+        },
+        "id": "1627703520769064960",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 455,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@berd_funny Hi, Our vision is that no Nestl\u00e9 packaging, including plastics, should end up in landfill or litter in seas, oceans, &amp; waterways. We expect more than 95% of our plastic packaging to be designed for recycling by 2025 and remain committed to achieving 100%: https://t.co/RDyDBZqreW"
+    }
+}

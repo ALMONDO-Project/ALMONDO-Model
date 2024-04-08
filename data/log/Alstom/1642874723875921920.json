@@ -1,0 +1,72 @@
+{
+    "1642874723875921920": {
+        "attachments": {
+            "media_keys": [
+                "7_1642873776655286272"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-03T13:00:31.000Z",
+        "edit_history_tweet_ids": [
+            "1642874723875921920"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5055,
+                    "start": 2,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 1,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 98,
+                    "start": 89,
+                    "tag": "mobility"
+                },
+                {
+                    "end": 136,
+                    "start": 125,
+                    "tag": "Innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "alstom.com/company/innova\u2026",
+                    "end": 268,
+                    "expanded_url": "https://www.alstom.com/company/innovation-alstom",
+                    "start": 245,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/company/innovation-alstom",
+                    "url": "https://t.co/d9uzOkMU8Q"
+                },
+                {
+                    "display_url": "pic.twitter.com/UlVSkES2c5",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Alstom/status/1642874723875921920/video/1",
+                    "media_key": "7_1642873776655286272",
+                    "start": 269,
+                    "url": "https://t.co/UlVSkES2c5"
+                }
+            ]
+        },
+        "id": "1642874723875921920",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2505,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udca1#TeamAlstom is shaping the future of sustainable, smart, healthy, safe, &amp; inclusive #mobility solutions. \n\n\ud83c\udfc6Last week's #Innovation awards ceremony celebrated 1606 teams from 101 sites &amp; 32 countries, comprising over 3000 colleagues !\n\nhttps://t.co/d9uzOkMU8Q https://t.co/UlVSkES2c5"
+    }
+}

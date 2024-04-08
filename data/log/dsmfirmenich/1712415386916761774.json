@@ -1,0 +1,80 @@
+{
+    "1712415386916761774": {
+        "attachments": {
+            "media_keys": [
+                "13_1712415321850560512"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-10-12T10:30:18.000Z",
+        "edit_history_tweet_ids": [
+            "1712415386916761774"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "World Food Day",
+                    "probability": 0.6397,
+                    "start": 3,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 235,
+                    "tag": "WorldFoodDay"
+                },
+                {
+                    "end": 271,
+                    "start": 249,
+                    "tag": "webringprogresstolife"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Q44ZzZ",
+                    "end": 232,
+                    "expanded_url": "https://bit.ly/3Q44ZzZ",
+                    "images": [
+                        {
+                            "height": 300,
+                            "url": "https://pbs.twimg.com/news_img/1712415400493735936/YrNZw_Dc?format=jpg&name=orig",
+                            "width": 379
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1712415400493735936/YrNZw_Dc?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 209,
+                    "status": 200,
+                    "title": "Fortified rice study | dsm-firmenich Talking Nutrition",
+                    "unwound_url": "https://www.dsm.com/human-nutrition/en/talking-nutrition/fortified-rice-study.html?utm_source=linkedin&utm_medium=social-post&utm_campaign=fortified-rice&utm_term=global&utm_content=nutrition-improvement&utm_vehicle=workforce-fortification-image-post1",
+                    "url": "https://t.co/WKcLoV3wmV"
+                },
+                {
+                    "display_url": "pic.twitter.com/gCh5xjjbvx",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1712415386916761774/video/1",
+                    "media_key": "13_1712415321850560512",
+                    "start": 272,
+                    "url": "https://t.co/gCh5xjjbvx"
+                }
+            ]
+        },
+        "id": "1712415386916761774",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 609,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "As World Food Day approaches, we\u2019re shining a light on our rice fortification partnerships to address micronutrient deficiencies around the world. \n\nDiscover our latest insights on micronutrient deficiencies: https://t.co/WKcLoV3wmV \n\n#WorldFoodDay #webringprogresstolife https://t.co/gCh5xjjbvx"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1654002925604151299": {
+        "attachments": {
+            "media_keys": [
+                "3_1654002921682395136"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-05-04T06:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1654002925604151299"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "Geraldine Matchett",
+                    "probability": 0.6183,
+                    "start": 83,
+                    "type": "Person"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "DSM",
+                    "probability": 0.861,
+                    "start": 138,
+                    "type": "Organization"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "DSM",
+                    "probability": 0.7783,
+                    "start": 165,
+                    "type": "Organization"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "Firmenich",
+                    "probability": 0.2593,
+                    "start": 169,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spkl.io/601445OM4",
+                    "end": 267,
+                    "expanded_url": "http://spkl.io/601445OM4",
+                    "start": 244,
+                    "status": 200,
+                    "unwound_url": "https://www.dsm-firmenich.com/media/0r4lcusn/dsm-firmenich-press-release-ceo-structure-final.pdf",
+                    "url": "https://t.co/u0POWY2MT5"
+                },
+                {
+                    "display_url": "pic.twitter.com/HkIRG1WBUB",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/DSM/status/1654002925604151299/photo/1",
+                    "media_key": "3_1654002921682395136",
+                    "start": 268,
+                    "url": "https://t.co/HkIRG1WBUB"
+                }
+            ]
+        },
+        "id": "1654002925604151299",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1619,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "After almost a decade on our Managing Board, including the past 3 years as Co-CEO, Geraldine Matchett has announced her decision to leave DSM. \u201cI cannot wait to see DSM-Firmenich become a reality\u2026 My own journey leads elsewhere\u201d More here &gt; https://t.co/u0POWY2MT5 https://t.co/HkIRG1WBUB"
+    }
+}

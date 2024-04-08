@@ -1,0 +1,107 @@
+{
+    "1729411286264377642": {
+        "attachments": {
+            "media_keys": [
+                "3_1729411250474364928"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-28T08:05:56.000Z",
+        "edit_history_tweet_ids": [
+            "1729411286264377642"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "South Asia",
+                    "probability": 0.4499,
+                    "start": 25,
+                    "type": "Place"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "Pakistan Terminals",
+                    "probability": 0.6021,
+                    "start": 36,
+                    "type": "Place"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "SAPT",
+                    "probability": 0.353,
+                    "start": 56,
+                    "type": "Organization"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "FI3",
+                    "probability": 0.4841,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5677,
+                    "start": 238,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 244,
+                    "start": 237,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 255,
+                    "start": 245,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 268,
+                    "start": 256,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 278,
+                    "start": 269,
+                    "tag": "Terminal"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/db6dq66q",
+                    "end": 235,
+                    "expanded_url": "https://lnkd.in/db6dq66q",
+                    "start": 212,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/db6dq66q",
+                    "url": "https://t.co/m2nkgeioCT"
+                },
+                {
+                    "display_url": "pic.twitter.com/dTz03RXUIn",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1729411286264377642/photo/1",
+                    "media_key": "3_1729411250474364928",
+                    "start": 279,
+                    "url": "https://t.co/dTz03RXUIn"
+                }
+            ]
+        },
+        "id": "1729411286264377642",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4628,
+            "like_count": 50,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "\ud83d\udce3NEWS: We are adding the South Asia Pakistan Terminals (SAPT) to our FI3 service rotation, providing our customers faster connectivity between the Far East Asian markets and Pakistan\ud83c\udf0d\n\n\ud83d\udc49\ud83c\udffcRead press release here: https://t.co/m2nkgeioCT\n\n#Maersk #Logistics #SupplyChain #Terminal https://t.co/dTz03RXUIn"
+    }
+}

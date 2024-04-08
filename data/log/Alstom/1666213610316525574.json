@@ -1,0 +1,79 @@
+{
+    "1666213610316525574": {
+        "author_id": "258725128",
+        "created_at": "2023-06-06T22:40:56.000Z",
+        "edit_history_tweet_ids": [
+            "1666213610316525574"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "Henri Poupart Lafarge",
+                    "probability": 0.5866,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 280,
+                    "normalized_text": "UITP2023",
+                    "probability": 0.4658,
+                    "start": 273,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 133,
+                    "start": 119,
+                    "tag": "cybersecurity"
+                },
+                {
+                    "end": 175,
+                    "start": 166,
+                    "tag": "mobility"
+                },
+                {
+                    "end": 242,
+                    "start": 232,
+                    "tag": "inclusive"
+                },
+                {
+                    "end": 281,
+                    "start": 272,
+                    "tag": "UITP2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 33,
+                    "id": "2714012034",
+                    "start": 22,
+                    "username": "uitpsummit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/NmUE50OHoEb",
+                    "end": 270,
+                    "expanded_url": "http://ow.ly/NmUE50OHoEb",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=pwmT_Zlr5o4&utm_source=organic_social&utm_medium=twitter&utm_content=6465aebc-e99c-4d52-a57a-15279149e058&utm_campaign=UITP",
+                    "url": "https://t.co/Ezb8hGzL38"
+                }
+            ]
+        },
+        "id": "1666213610316525574",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1097,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "For the second day at @uitpsummit we hear from our CEO &amp; Chairman Henri Poupart Lafarge, we learn about our latest #cybersecurity innovations for safe and secure #mobility, and look at digital solutions that make transport more #inclusive.  \ud83d\udc47\nhttps://t.co/Ezb8hGzL38\n\n#UITP2023"
+    }
+}

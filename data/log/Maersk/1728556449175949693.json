@@ -1,0 +1,89 @@
+{
+    "1728556449175949693": {
+        "author_id": "380801406",
+        "created_at": "2023-11-25T23:29:07.000Z",
+        "edit_history_tweet_ids": [
+            "1728556449175949693"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Nazeeh",
+                    "probability": 0.5376,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3359,
+                    "start": 219,
+                    "type": "Organization"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "CSGO",
+                    "probability": 0.7174,
+                    "start": 229,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 225,
+                    "start": 218,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 233,
+                    "start": 228,
+                    "tag": "CSGO"
+                },
+                {
+                    "end": 247,
+                    "start": 234,
+                    "tag": "BLASTPremier"
+                },
+                {
+                    "end": 255,
+                    "start": 248,
+                    "tag": "gaming"
+                },
+                {
+                    "end": 263,
+                    "start": 256,
+                    "tag": "career"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 42,
+                    "id": "851767989250772992",
+                    "start": 29,
+                    "username": "BLASTPremier"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/BLASTPremier/s\u2026",
+                    "end": 287,
+                    "expanded_url": "https://twitter.com/BLASTPremier/status/1728523517669277847",
+                    "start": 264,
+                    "url": "https://t.co/wbO6q0Q2qe"
+                }
+            ]
+        },
+        "id": "1728556449175949693",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7714,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "\u26a1\ufe0fOur colleague Nazeeh is at @BLASTPremier Fall Final ready to hand over the MVP trophy after tomorrow\u2019s final match\ud83c\udfc6\n\nWatch below as he shares his passion for CS:GO, and the similarities between gaming and working at #Maersk \n\n#CSGO #BLASTPremier #gaming #career https://t.co/wbO6q0Q2qe"
+    }
+}

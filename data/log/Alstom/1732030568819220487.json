@@ -1,0 +1,75 @@
+{
+    "1732030568819220487": {
+        "author_id": "258725128",
+        "created_at": "2023-12-05T13:34:01.000Z",
+        "edit_history_tweet_ids": [
+            "1732030568819220487"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 132,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.3501,
+                    "start": 123,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "NGOs",
+                    "probability": 0.4583,
+                    "start": 142,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 6,
+                    "tag": "InternationalVolunteerDay"
+                },
+                {
+                    "end": 133,
+                    "start": 122,
+                    "tag": "TeamAlstom"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Alstom engages with local communities: to have a positive impact, nurture good relationships and demonstrate long-term commitment through the Alstom Foundation and Country Community Action plans (CCAPs)",
+                    "display_url": "ow.ly/iMeR50Qfu7j",
+                    "end": 228,
+                    "expanded_url": "https://ow.ly/iMeR50Qfu7j",
+                    "images": [
+                        {
+                            "height": 1568,
+                            "url": "https://pbs.twimg.com/news_img/1732029667672981504/sIrOGtm5?format=jpg&name=orig",
+                            "width": 2352
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1732029667672981504/sIrOGtm5?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 205,
+                    "status": 200,
+                    "title": "Local Communities",
+                    "unwound_url": "https://www.alstom.com/company/commitments/local-communities",
+                    "url": "https://t.co/pPblkhTTFL"
+                }
+            ]
+        },
+        "id": "1732030568819220487",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1349,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Happy #InternationalVolunteerDay! From environmental conservation to education and social welfare, we'd like to recognise #TeamAlstom and the NGOs who inspires us to create a better world. \ud83c\udf0e\ud83c\udf31\n\nLearn more: https://t.co/pPblkhTTFL"
+    }
+}

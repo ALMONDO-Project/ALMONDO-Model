@@ -1,0 +1,72 @@
+{
+    "1659535169605214208": {
+        "author_id": "21746077",
+        "created_at": "2023-05-19T12:23:11.000Z",
+        "edit_history_tweet_ids": [
+            "1659535169605214208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Carer",
+                    "probability": 0.3997,
+                    "start": 25,
+                    "type": "Other"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Bill",
+                    "probability": 0.5287,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "House of Lords",
+                    "probability": 0.6143,
+                    "start": 68,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 246,
+                    "start": 227,
+                    "tag": "RightToCarersLeave"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 173,
+                    "id": "22495247",
+                    "start": 164,
+                    "username": "CarersUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "carersuk.org/news-and-campa\u2026",
+                    "end": 277,
+                    "expanded_url": "https://www.carersuk.org/news-and-campaigns/our-campaigns/right-to-carers-leave",
+                    "start": 254,
+                    "status": 200,
+                    "title": "Right to Carer's Leave | Carers UK",
+                    "unwound_url": "https://www.carersuk.org/news-and-campaigns/our-campaigns/right-to-carers-leave",
+                    "url": "https://t.co/I3DpobTvOs"
+                }
+            ]
+        },
+        "id": "1659535169605214208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 449,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udce2 Exciting news that the Carer\u2019s Leave Bill has today passed in the House of Lords! We\u2019re proud to provide paid leave for our colleague carers \u2013 and have supported @CarersUK in their efforts to ensure millions of people have a #RightToCarersLeave. More \ud83d\udc49https://t.co/I3DpobTvOs"
+    }
+}

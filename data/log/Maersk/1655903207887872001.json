@@ -1,0 +1,95 @@
+{
+    "1655903207887872001": {
+        "attachments": {
+            "media_keys": [
+                "3_1655903201445523457"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-09T11:51:04.000Z",
+        "edit_history_tweet_ids": [
+            "1655903207887872001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Global Seafood Expo",
+                    "probability": 0.8635,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Seafood Industry",
+                    "probability": 0.6417,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Barcelona",
+                    "probability": 0.9864,
+                    "start": 114,
+                    "type": "Place"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "SeafoodExpo",
+                    "probability": 0.6467,
+                    "start": 211,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3498,
+                    "start": 258,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 222,
+                    "start": 210,
+                    "tag": "SeafoodExpo"
+                },
+                {
+                    "end": 264,
+                    "start": 257,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/3VIJoyh",
+                    "end": 255,
+                    "expanded_url": "https://bddy.me/3VIJoyh",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/05/04/three-key-themes-at-seafood-expo?utm_source=Twitter&utm_medium=organicpost&utm_campaign=M_63EB7BEFE3EB5_643547A633C00&utm_term=VOCP&utm_content=EUR_GlobalSeaFood",
+                    "url": "https://t.co/2sH6z8CdiW"
+                },
+                {
+                    "display_url": "pic.twitter.com/kdNvhXCdEd",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/Maersk/status/1655903207887872001/photo/1",
+                    "media_key": "3_1655903201445523457",
+                    "start": 265,
+                    "url": "https://t.co/kdNvhXCdEd"
+                }
+            ]
+        },
+        "id": "1655903207887872001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2766,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "What did we catch in our net at the Global Seafood Expo? \ud83d\udc1f\ud83e\uddaa\ud83e\udd90 Leaders from across the Seafood Industry gathered in Barcelona to discuss the latest trends and innovations in the market.\nFind out the 3 key topics #SeafoodExpo 2023  \ud83d\udc49: https://t.co/2sH6z8CdiW  #Maersk https://t.co/kdNvhXCdEd"
+    }
+}

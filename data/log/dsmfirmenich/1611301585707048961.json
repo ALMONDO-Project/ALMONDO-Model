@@ -1,0 +1,65 @@
+{
+    "1611301585707048961": {
+        "attachments": {
+            "media_keys": [
+                "3_1611301568921362435"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-01-06T10:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1611301585707048961"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "BBQ",
+                    "probability": 0.6661,
+                    "start": 11,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 113,
+                    "start": 102,
+                    "tag": "nutritious"
+                },
+                {
+                    "end": 128,
+                    "start": 118,
+                    "tag": "delicious"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spkl.io/60124ZYX0",
+                    "end": 210,
+                    "expanded_url": "http://spkl.io/60124ZYX0",
+                    "start": 187,
+                    "url": "https://t.co/WLXdSJtQvV"
+                },
+                {
+                    "display_url": "pic.twitter.com/fViYXOFJ0Z",
+                    "end": 234,
+                    "expanded_url": "https://twitter.com/DSM/status/1611301585707048961/photo/1",
+                    "media_key": "3_1611301568921362435",
+                    "start": 211,
+                    "url": "https://t.co/fViYXOFJ0Z"
+                }
+            ]
+        },
+        "id": "1611301585707048961",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 684,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "From smoky BBQ sauce to creamy salad dressing, @DSM's ingredients help make sauces and dressings more #nutritious and #delicious.\n\nCheck out our range of savory taste solutions here &gt; https://t.co/WLXdSJtQvV https://t.co/fViYXOFJ0Z"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1664654639470354433": {
+        "author_id": "194037150",
+        "created_at": "2023-06-02T15:26:08.000Z",
+        "edit_history_tweet_ids": [
+            "1664654639470354433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 217,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5669,
+                    "start": 206,
+                    "type": "Organization"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "Scott",
+                    "probability": 0.5397,
+                    "start": 261,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "364777385",
+                    "start": 0,
+                    "username": "doctorinsulin"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Product related enquiries, contact details and requesting information forms.",
+                    "display_url": "novonordisk.co.uk/contact-us.html",
+                    "end": 250,
+                    "expanded_url": "https://www.novonordisk.co.uk/contact-us.html",
+                    "images": [
+                        {
+                            "height": 334,
+                            "url": "https://pbs.twimg.com/news_img/1774215898678870016/4lq2ih9O?format=jpg&name=orig",
+                            "width": 556
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1774215898678870016/4lq2ih9O?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 227,
+                    "status": 200,
+                    "title": "Contact us",
+                    "unwound_url": "https://www.novonordisk.co.uk/contact-us.html",
+                    "url": "https://t.co/Gl1pZQLYre"
+                },
+                {
+                    "display_url": "twitter.com/messages/compo\u2026",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "start": 267,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "url": "https://t.co/tGbtaZc8Sa"
+                }
+            ]
+        },
+        "id": "1664654639470354433",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 94,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@doctorinsulin Hi. We are sorry to hear abou this. However, due to global privacy and legal regulations, we are not allowed to discuss our products on social media. We recommend that you contact your local Novo Nordisk office:\u00a0https://t.co/Gl1pZQLYre. Regards, Scott\nhttps://t.co/tGbtaZc8Sa"
+    }
+}

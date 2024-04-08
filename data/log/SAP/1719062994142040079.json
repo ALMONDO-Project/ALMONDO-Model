@@ -1,0 +1,46 @@
+{
+    "1719062994142040079": {
+        "author_id": "76117579",
+        "created_at": "2023-10-30T18:45:31.000Z",
+        "edit_history_tweet_ids": [
+            "1719062994142040079"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "George-Stephenson",
+                    "probability": 0.9235,
+                    "start": 58,
+                    "type": "Person"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Berlin",
+                    "probability": 0.4321,
+                    "start": 93,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "16173334",
+                    "start": 0,
+                    "username": "greg_not_so"
+                }
+            ]
+        },
+        "id": "1719062994142040079",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 48,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@greg_not_so Thanks for the question. Here's the address: George-Stephenson-Str. 7-13, 10557 Berlin"
+    }
+}

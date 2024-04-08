@@ -1,0 +1,89 @@
+{
+    "1699692510379978833": {
+        "attachments": {
+            "media_keys": [
+                "3_1699692354909708288"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-07T07:54:07.000Z",
+        "edit_history_tweet_ids": [
+            "1699692510379978833"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 199,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4343,
+                    "start": 194,
+                    "type": "Place"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "allthewaytozero",
+                    "probability": 0.3655,
+                    "start": 202,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 193,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 217,
+                    "start": 201,
+                    "tag": "allthewaytozero"
+                },
+                {
+                    "end": 234,
+                    "start": 218,
+                    "tag": "decarbonisation"
+                },
+                {
+                    "end": 251,
+                    "start": 235,
+                    "tag": "shipchristening"
+                },
+                {
+                    "end": 262,
+                    "start": 252,
+                    "tag": "liveevent"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "linkedin.com/events/7105452\u2026",
+                    "end": 191,
+                    "expanded_url": "https://www.linkedin.com/events/7105452629844979712/about/?invite=false&sAtp=&sTrk=&sV=&showRequesters=false&showShareByPost=false",
+                    "start": 168,
+                    "status": 200,
+                    "unwound_url": "https://www.linkedin.com/events/7105452629844979712/",
+                    "url": "https://t.co/4oXxyyEPyI"
+                },
+                {
+                    "display_url": "pic.twitter.com/hnODyomAR8",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/Maersk/status/1699692510379978833/photo/1",
+                    "media_key": "3_1699692354909708288",
+                    "start": 263,
+                    "url": "https://t.co/hnODyomAR8"
+                }
+            ]
+        },
+        "id": "1699692510379978833",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5889,
+            "like_count": 64,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 11
+        },
+        "text": "Join us live for the name giving ceremony of the world\u2019s first container vessel sailing on green methanol!\ud83c\udf7e \n\n\ud83d\uddd3 14th September at 10AM CET\n\n\ud83d\udc49\ud83c\udffcFind the live event here: https://t.co/4oXxyyEPyI\n\n#Maersk #allthewaytozero #decarbonisation #shipchristening #liveevent https://t.co/hnODyomAR8"
+    }
+}

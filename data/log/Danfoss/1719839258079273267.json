@@ -1,0 +1,100 @@
+{
+    "1719839258079273267": {
+        "attachments": {
+            "media_keys": [
+                "3_1719839236935872512"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-11-01T22:10:06.000Z",
+        "edit_history_tweet_ids": [
+            "1719839258079273267"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "MOU",
+                    "probability": 0.5122,
+                    "start": 26,
+                    "type": "Organization"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "SK Inc",
+                    "probability": 0.5075,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "WhyEE",
+                    "probability": 0.4007,
+                    "start": 224,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 222,
+                    "start": 205,
+                    "tag": "EnergyEfficiency"
+                },
+                {
+                    "end": 229,
+                    "start": 223,
+                    "tag": "WhyEE"
+                },
+                {
+                    "end": 246,
+                    "start": 230,
+                    "tag": "GreenTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Danfoss announced today that it has signed a Memorandum of Understanding (MOU) with SK Inc. a holding and investing company of SK Group which is the second largest conglomerate in Korea. Their main business areas are advanced materials, green, digital, and bio solutions.",
+                    "display_url": "bit.ly/3u14QEJ",
+                    "end": 203,
+                    "expanded_url": "https://bit.ly/3u14QEJ",
+                    "images": [
+                        {
+                            "height": 747,
+                            "url": "https://pbs.twimg.com/news_img/1719658069133529088/DI6REkh7?format=jpg&name=orig",
+                            "width": 1120
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1719658069133529088/DI6REkh7?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 180,
+                    "status": 200,
+                    "title": "Danfoss and SK Inc. sign MOU to advance solutions for a sustainable future",
+                    "unwound_url": "https://www.danfoss.com/en/about-danfoss/news/cf/danfoss-and-sk-inc-sign-mou-to-advance-solutions-for-a-sustainable-future/",
+                    "url": "https://t.co/oQH1kXCdfP"
+                },
+                {
+                    "display_url": "pic.twitter.com/ygsEVdJex8",
+                    "end": 270,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1719839258079273267/photo/1",
+                    "media_key": "3_1719839236935872512",
+                    "start": 247,
+                    "url": "https://t.co/ygsEVdJex8"
+                }
+            ]
+        },
+        "id": "1719839258079273267",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 631,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "With the signing of a new MOU with SK Inc., we will continue to invest in technology &amp; solutions that address the five global megatrends affecting the world today.\n\nRead more: https://t.co/oQH1kXCdfP\n\n#EnergyEfficiency #WhyEE #GreenTransition https://t.co/ygsEVdJex8"
+    }
+}

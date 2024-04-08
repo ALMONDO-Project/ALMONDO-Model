@@ -1,0 +1,104 @@
+{
+    "1696146260611170751": {
+        "attachments": {
+            "media_keys": [
+                "3_1696146259591983104"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-08-28T13:02:36.000Z",
+        "edit_history_tweet_ids": [
+            "1696146260611170751"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Fideicomiso",
+                    "probability": 0.5815,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "del Sistema de Transporte Masivo",
+                    "probability": 0.7013,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Dominican Republic",
+                    "probability": 0.7275,
+                    "start": 140,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "Innovia",
+                    "probability": 0.3371,
+                    "start": 183,
+                    "type": "Other"
+                },
+                {
+                    "end": 249,
+                    "normalized_text": "Santiago de los Caballeros",
+                    "probability": 0.8429,
+                    "start": 224,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 191,
+                    "tag": "monorail"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "City of Santiago de los Caballeros to receive country\u2019s first monorail",
+                    "display_url": "ow.ly/sJMZ50PETf9",
+                    "end": 277,
+                    "expanded_url": "https://ow.ly/sJMZ50PETf9",
+                    "images": [
+                        {
+                            "height": 281,
+                            "url": "https://pbs.twimg.com/news_img/1732218480332509184/8Jr2keEy?format=jpg&name=orig",
+                            "width": 600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1732218480332509184/8Jr2keEy?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 254,
+                    "status": 200,
+                    "title": "Alstom consortium selected to deliver Dominican Republic\u2019s first monorail system",
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/8/alstom-consortium-selected-deliver-dominican-republics-first-monorail-system",
+                    "url": "https://t.co/MnTB8zfL1u"
+                },
+                {
+                    "display_url": "pic.twitter.com/1R5qsfXU2L",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Alstom/status/1696146260611170751/photo/1",
+                    "media_key": "3_1696146259591983104",
+                    "start": 278,
+                    "url": "https://t.co/1R5qsfXU2L"
+                }
+            ]
+        },
+        "id": "1696146260611170751",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3682,
+            "like_count": 23,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "Exciting news! Our Consortium SIF, has been selected by Fideicomiso para el Desarrollo del Sistema de Transporte Masivo (FITRAM) to deliver Dominican Republic's first-ever integrated Innovia #monorail system for the city of Santiago de los Caballeros. \n\nhttps://t.co/MnTB8zfL1u https://t.co/1R5qsfXU2L"
+    }
+}

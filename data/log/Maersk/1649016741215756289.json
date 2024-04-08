@@ -1,0 +1,95 @@
+{
+    "1649016741215756289": {
+        "attachments": {
+            "media_keys": [
+                "7_1649016327489699840"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-04-20T11:46:43.000Z",
+        "edit_history_tweet_ids": [
+            "1649016741215756289"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "Jesus",
+                    "probability": 0.6849,
+                    "start": 97,
+                    "type": "Person"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Jonathan",
+                    "probability": 0.5777,
+                    "start": 107,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7078,
+                    "start": 131,
+                    "type": "Place"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "Santa Fe Springs",
+                    "probability": 0.8592,
+                    "start": 152,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "California",
+                    "probability": 0.9133,
+                    "start": 170,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 73,
+                    "tag": "Electric"
+                },
+                {
+                    "end": 137,
+                    "start": 130,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 274,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/01/27/maersk-na-shares-best-practices-to-help-customers-prepare-for-electric-vehicle-future",
+                    "start": 251,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/01/27/maersk-na-shares-best-practices-to-help-customers-prepare-for-electric-vehicle-future",
+                    "url": "https://t.co/5n1VO3kJCm"
+                },
+                {
+                    "display_url": "pic.twitter.com/CYoDQFcX7j",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1649016741215756289/video/1",
+                    "media_key": "7_1649016327489699840",
+                    "start": 275,
+                    "url": "https://t.co/CYoDQFcX7j"
+                }
+            ]
+        },
+        "id": "1649016741215756289",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3459,
+            "like_count": 45,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 8
+        },
+        "text": "\ud83d\ude9a From Diesel to Electric\n\nHear more about our transition from Diesel to #Electric Vehicles from Jesus and Jonathan at one of our #Maersk facilities in Santa Fe Springs, California.\n\nMore about how we prepare for a fully electric vehicle future here\ud83d\udc49\nhttps://t.co/5n1VO3kJCm https://t.co/CYoDQFcX7j"
+    }
+}

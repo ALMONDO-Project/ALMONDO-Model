@@ -1,0 +1,93 @@
+{
+    "1623711176172380161": {
+        "attachments": {
+            "media_keys": [
+                "3_1623711170237456386"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-02-09T15:51:26.000Z",
+        "edit_history_tweet_ids": [
+            "1623711176172380161"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 140,
+                    "normalized_text": "European Parliament\u2019s",
+                    "probability": 0.7471,
+                    "start": 120,
+                    "type": "Organization"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Committee",
+                    "probability": 0.5846,
+                    "start": 149,
+                    "type": "Organization"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "EPBD",
+                    "probability": 0.4706,
+                    "start": 198,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 202,
+                    "start": 197,
+                    "tag": "EPBD"
+                },
+                {
+                    "end": 280,
+                    "start": 263,
+                    "tag": "EnergyEfficiency"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 224,
+                    "id": "16627544",
+                    "start": 212,
+                    "username": "CiaranCuffe"
+                },
+                {
+                    "end": 238,
+                    "id": "25980581",
+                    "start": 225,
+                    "username": "mortenhelveg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "Whyee.com",
+                    "end": 262,
+                    "expanded_url": "http://Whyee.com",
+                    "start": 239,
+                    "url": "https://t.co/DX1OnxUqMA"
+                },
+                {
+                    "display_url": "pic.twitter.com/3agevZLqw0",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1623711176172380161/photo/1",
+                    "media_key": "3_1623711170237456386",
+                    "start": 281,
+                    "url": "https://t.co/3agevZLqw0"
+                }
+            ]
+        },
+        "id": "1623711176172380161",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1756,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 5
+        },
+        "text": "Increased ambitions for energy savings in building is key to reach climate targets. Important step taken today with the European Parliament\u2019s Energy Committee approving its position on the revised #EPBD Congrats @CiaranCuffe @mortenhelveg https://t.co/DX1OnxUqMA #EnergyEfficiency https://t.co/3agevZLqw0"
+    }
+}

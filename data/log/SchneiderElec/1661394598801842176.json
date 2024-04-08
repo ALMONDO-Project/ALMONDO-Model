@@ -1,0 +1,74 @@
+{
+    "1661394598801842176": {
+        "attachments": {
+            "media_keys": [
+                "3_1661394596436254722"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-24T15:31:54.000Z",
+        "edit_history_tweet_ids": [
+            "1661394598801842176"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "EV",
+                    "probability": 0.5355,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "EVS36",
+                    "probability": 0.7826,
+                    "start": 76,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 23,
+                    "tag": "EV"
+                },
+                {
+                    "end": 81,
+                    "start": 75,
+                    "tag": "EVS36"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6012Olr5j",
+                    "end": 260,
+                    "expanded_url": "http://spr.ly/6012Olr5j",
+                    "start": 237,
+                    "status": 200,
+                    "unwound_url": "https://events.se.com/ereg/newreg.php?eventid=200260961&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10082956411&utm_campaign=EcoStruxure_for_Automotive_and_Mobility&country=Global",
+                    "url": "https://t.co/Azfos8ZFFu"
+                },
+                {
+                    "display_url": "pic.twitter.com/bcnpQXsauE",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1661394598801842176/photo/1",
+                    "media_key": "3_1661394596436254722",
+                    "start": 261,
+                    "url": "https://t.co/bcnpQXsauE"
+                }
+            ]
+        },
+        "id": "1661394598801842176",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1601,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "The rapid shift toward #EV is driving the new energy landscape. Join us at #EVS36 to discover how to utilize renewable sources like solar produced by homes and buildings to power EVs, while also minimizing the impact on our environment. https://t.co/Azfos8ZFFu https://t.co/bcnpQXsauE"
+    }
+}

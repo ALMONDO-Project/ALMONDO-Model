@@ -1,0 +1,82 @@
+{
+    "1733116753830375506": {
+        "attachments": {
+            "media_keys": [
+                "3_1733116732829569024"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-12-08T13:30:08.000Z",
+        "edit_history_tweet_ids": [
+            "1733116753830375506"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Europe",
+                    "probability": 0.9441,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "US",
+                    "probability": 0.9694,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "China",
+                    "probability": 0.9792,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "COP28",
+                    "probability": 0.8454,
+                    "start": 274,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 279,
+                    "start": 273,
+                    "tag": "COP28"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Rhnstu",
+                    "end": 271,
+                    "expanded_url": "https://bit.ly/3Rhnstu",
+                    "start": 248,
+                    "unwound_url": "https://www.whyenergyefficiency.com/solutions/allsolutions/roadmap-for-decarbonizing-cities?utm_source=social&utm_medium=twitter&utm_campaign=cf_cop28&utm_content=organic_group",
+                    "url": "https://t.co/9AXc6ldyZO"
+                },
+                {
+                    "display_url": "pic.twitter.com/YjTSHSQK6S",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1733116753830375506/photo/1",
+                    "media_key": "3_1733116732829569024",
+                    "start": 280,
+                    "url": "https://t.co/YjTSHSQK6S"
+                }
+            ]
+        },
+        "id": "1733116753830375506",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 576,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "The solutions for decarbonizing cities exist. If all urban areas in Europe, US and China invest in energy-efficient heating &amp; cooling of buildings, we could reduce emissions by 20% in urban areas: needed to reach the 1.5\u00b0C target.\n\nLearn more: https://t.co/9AXc6ldyZO\n\n#COP28 https://t.co/YjTSHSQK6S"
+    }
+}

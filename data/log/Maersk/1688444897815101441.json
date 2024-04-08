@@ -1,0 +1,90 @@
+{
+    "1688444897815101441": {
+        "attachments": {
+            "media_keys": [
+                "3_1688444889032245248"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-08-07T07:00:08.000Z",
+        "edit_history_tweet_ids": [
+            "1688444897815101441"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "Inner Circle Summit",
+                    "probability": 0.9354,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "Ham Yard Hotel",
+                    "probability": 0.7294,
+                    "start": 137,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "London",
+                    "probability": 0.9797,
+                    "start": 153,
+                    "type": "Place"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3343,
+                    "start": 268,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 274,
+                    "start": 267,
+                    "tag": "Maersk"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 69,
+                    "id": "15482079",
+                    "start": 61,
+                    "username": "Drapers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bddy.me/45hNiBH",
+                    "end": 266,
+                    "expanded_url": "https://bddy.me/45hNiBH",
+                    "start": 243,
+                    "unwound_url": "https://www.maersk.com/insights/sustainability/logistics-can-support-a-sustainable-fashion-revolution",
+                    "url": "https://t.co/1a2LOxfGhg"
+                },
+                {
+                    "display_url": "pic.twitter.com/jreRwZUxSt",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1688444897815101441/photo/1",
+                    "media_key": "3_1688444889032245248",
+                    "start": 275,
+                    "url": "https://t.co/jreRwZUxSt"
+                }
+            ]
+        },
+        "id": "1688444897815101441",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3293,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "\ud83d\udce2 We are pleased to announce our gold sponsor partnership at @Drapers Inner Circle Summit this year\u2019s, taking place on 8 November at the Ham Yard Hotel, London. \ud83d\udc57\ud83d\udc53\ud83d\udc5e Read the five ways logistics can support a sustainable fashion revolution: \ud83d\udc49: https://t.co/1a2LOxfGhg #Maersk https://t.co/jreRwZUxSt"
+    }
+}

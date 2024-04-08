@@ -1,0 +1,79 @@
+{
+    "1656260341779648512": {
+        "attachments": {
+            "media_keys": [
+                "13_1656260294740434946"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-10T11:30:11.000Z",
+        "edit_history_tweet_ids": [
+            "1656260341779648512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "AI",
+                    "probability": 0.7881,
+                    "start": 10,
+                    "type": "Organization"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "AI",
+                    "probability": 0.5504,
+                    "start": 198,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 184,
+                    "start": 162,
+                    "tag": "DigitalTransformation"
+                },
+                {
+                    "end": 196,
+                    "start": 185,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 200,
+                    "start": 197,
+                    "tag": "AI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6016Ou1o2",
+                    "end": 160,
+                    "expanded_url": "http://spr.ly/6016Ou1o2",
+                    "start": 137,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/digital-transformation/artificial-intelligence/2023/03/27/unlocking-the-roi-of-ai-strategies-for-successful-ai-implementation/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9628315950&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/9Ax6sVYO4U"
+                },
+                {
+                    "display_url": "pic.twitter.com/eK9JEroaLK",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1656260341779648512/video/1",
+                    "media_key": "13_1656260294740434946",
+                    "start": 201,
+                    "url": "https://t.co/eK9JEroaLK"
+                }
+            ]
+        },
+        "id": "1656260341779648512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1861,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Your next AI project can bring you closer to net zero. Take your first step towards sustainability with us. Read this blog to know more: https://t.co/9Ax6sVYO4U\n\n#DigitalTransformation #innovation #AI https://t.co/eK9JEroaLK"
+    }
+}

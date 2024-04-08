@@ -1,0 +1,69 @@
+{
+    "1709554744941769115": {
+        "attachments": {
+            "media_keys": [
+                "13_1709554717242572800"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-10-04T13:03:07.000Z",
+        "edit_history_tweet_ids": [
+            "1709554744941769115"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "AI",
+                    "probability": 0.7249,
+                    "start": 72,
+                    "type": "Organization"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "SAPCXLIVE",
+                    "probability": 0.54,
+                    "start": 119,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 128,
+                    "start": 118,
+                    "tag": "SAPCXLIVE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6013uzpTh",
+                    "end": 154,
+                    "expanded_url": "https://sap.to/6013uzpTh",
+                    "start": 131,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/events/customer-experience-live.html?source=social-Global-TWITTER-CX-Artificial_Intelligence-CX_Live-spr-11477991031-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=11477991031",
+                    "url": "https://t.co/Dk1K9ztaj0"
+                },
+                {
+                    "display_url": "pic.twitter.com/wzlDwHrKae",
+                    "end": 178,
+                    "expanded_url": "https://twitter.com/SAP/status/1709554744941769115/video/1",
+                    "media_key": "13_1709554717242572800",
+                    "start": 155,
+                    "url": "https://t.co/wzlDwHrKae"
+                }
+            ]
+        },
+        "id": "1709554744941769115",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7245,
+            "like_count": 31,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 11
+        },
+        "text": "Be the first to hear product announcements and see demos showcasing how AI will revolutionize business. \n\nJoin us for #SAPCXLIVE \ud83d\udc49 https://t.co/Dk1K9ztaj0 https://t.co/wzlDwHrKae"
+    }
+}

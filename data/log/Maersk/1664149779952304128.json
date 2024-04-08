@@ -1,0 +1,76 @@
+{
+    "1664149779952304128": {
+        "attachments": {
+            "media_keys": [
+                "7_1663504007204069379"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-01T06:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1664149779952304128"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 165,
+                    "normalized_text": "Ana Ferraz",
+                    "probability": 0.7139,
+                    "start": 156,
+                    "type": "Person"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "Fuels",
+                    "probability": 0.5375,
+                    "start": 178,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5567,
+                    "start": 196,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 202,
+                    "start": 195,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3OKiSD6",
+                    "end": 275,
+                    "expanded_url": "https://bit.ly/3OKiSD6",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/insights/sustainability/biofuels-that-power-ships-and-aircrafts?utm_source=Twitter_OwnedMedia&utm_medium=Organic&utm_campaign=M_646229E3513D2_64631AE6C5673&utm_term=RCP&utm_content=2023_Maersk_CEN_Biofuel+SoMe_Sustainability_646229E3513D2",
+                    "url": "https://t.co/7tYWCkqnnQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/4xT88GCpul",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Maersk/status/1664149779952304128/video/1",
+                    "media_key": "7_1663504007204069379",
+                    "start": 276,
+                    "url": "https://t.co/4xT88GCpul"
+                }
+            ]
+        },
+        "id": "1664149779952304128",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2926,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Isn\u2019t it amazing when something gets a second life? But how does biowaste become biofuel? How is it sourced? Learn more by reading the article below, where Ana Ferraz, Renewable Fuels Analyst at #Maersk explains the details of 2nd generation biofuels. https://t.co/7tYWCkqnnQ https://t.co/4xT88GCpul"
+    }
+}

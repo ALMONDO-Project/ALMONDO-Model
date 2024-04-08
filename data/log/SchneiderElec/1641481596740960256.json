@@ -1,0 +1,88 @@
+{
+    "1641481596740960256": {
+        "attachments": {
+            "media_keys": [
+                "3_1641481593276575774"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-30T16:44:44.000Z",
+        "edit_history_tweet_ids": [
+            "1641481596740960256"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "ETAP",
+                    "probability": 0.5102,
+                    "start": 116,
+                    "type": "Other"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Caneco ONE",
+                    "probability": 0.7538,
+                    "start": 122,
+                    "type": "Other"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.5903,
+                    "start": 138,
+                    "type": "Other"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "GHG",
+                    "probability": 0.7154,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 98,
+                    "start": 82,
+                    "tag": "DesignEngineers"
+                },
+                {
+                    "end": 280,
+                    "start": 271,
+                    "tag": "Software"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015ODU2P",
+                    "end": 270,
+                    "expanded_url": "http://spr.ly/6015ODU2P",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/partners/consultant-engineers/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9330586779&utm_campaign=Specifiers&country=Global",
+                    "url": "https://t.co/3LcOeFNe2k"
+                },
+                {
+                    "display_url": "pic.twitter.com/jgMfqUJikn",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1641481596740960256/photo/1",
+                    "media_key": "3_1641481593276575774",
+                    "start": 281,
+                    "url": "https://t.co/jgMfqUJikn"
+                }
+            ]
+        },
+        "id": "1641481596740960256",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1398,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Do you know that buildings contribute to 40% of global carbon emissions per year? #DesignEngineers can now leverage ETAP, Caneco ONE, and EcoStruxure Power Design to reduce GHG emissions and get closer to their sustainability goals.   Learn more: https://t.co/3LcOeFNe2k #Software https://t.co/jgMfqUJikn"
+    }
+}

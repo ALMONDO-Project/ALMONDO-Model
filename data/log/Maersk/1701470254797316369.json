@@ -1,0 +1,62 @@
+{
+    "1701470254797316369": {
+        "attachments": {
+            "media_keys": [
+                "3_1701469216514220032"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-12T05:38:15.000Z",
+        "edit_history_tweet_ids": [
+            "1701470254797316369"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Fleet",
+                    "probability": 0.5195,
+                    "start": 69,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 277,
+                    "start": 270,
+                    "tag": "maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "linkedin.com/events/7104749\u2026",
+                    "end": 269,
+                    "expanded_url": "https://www.linkedin.com/events/7104749983857262592",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.linkedin.com/events/7104749983857262592",
+                    "url": "https://t.co/1nHEfL9ZyF"
+                },
+                {
+                    "display_url": "pic.twitter.com/RpSJZkkLi0",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Maersk/status/1701470254797316369/photo/1",
+                    "media_key": "3_1701469216514220032",
+                    "start": 278,
+                    "url": "https://t.co/RpSJZkkLi0"
+                }
+            ]
+        },
+        "id": "1701470254797316369",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5799,
+            "like_count": 33,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "\ud83c\udfacWe will be live tomorrow \u2013 remember to submit your questions to our Fleet Experts already today\ud83d\udea2\n\nWith our Experts in the studio we'll follow the vessel as it makes its way through the Danish waters towards its final destination\ud83d\udc9a\n\n\ud83d\udc47\ud83c\udffcJoin event: https://t.co/1nHEfL9ZyF\n#maersk https://t.co/RpSJZkkLi0"
+    }
+}

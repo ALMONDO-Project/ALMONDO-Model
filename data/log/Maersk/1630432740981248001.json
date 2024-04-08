@@ -1,0 +1,98 @@
+{
+    "1630432740981248001": {
+        "attachments": {
+            "media_keys": [
+                "7_1630425677467107330"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-02-28T05:00:32.000Z",
+        "edit_history_tweet_ids": [
+            "1630432740981248001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 142,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4218,
+                    "start": 137,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": ".",
+                    "probability": 0.4943,
+                    "start": 199,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Moller",
+                    "probability": 0.3901,
+                    "start": 203,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6665,
+                    "start": 212,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 136,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 154,
+                    "start": 144,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 180,
+                    "start": 155,
+                    "tag": "TrulyIntegratedLogistics"
+                },
+                {
+                    "end": 190,
+                    "start": 181,
+                    "tag": "NewPaths"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3EGqrVK",
+                    "end": 134,
+                    "expanded_url": "http://bit.ly/3EGqrVK",
+                    "start": 111,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/newpaths/?utm_source=twitter&utm_medium=social&utm_content=organic-gl&utm_term=video-Hero-100&utm_campaign=new%20paths_m_2023_feb_63a450a276915",
+                    "url": "https://t.co/twS7vD4JCt"
+                },
+                {
+                    "display_url": "pic.twitter.com/rYtcDQsIYj",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/Maersk/status/1630432740981248001/video/1",
+                    "media_key": "7_1630425677467107330",
+                    "start": 219,
+                    "url": "https://t.co/rYtcDQsIYj"
+                }
+            ]
+        },
+        "id": "1630432740981248001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 152,
+            "impression_count": 10950777,
+            "like_count": 10832,
+            "quote_count": 77,
+            "reply_count": 223,
+            "retweet_count": 1063
+        },
+        "text": "A new path has been found. Where it leads is for you to discover. Seek it out with truly integrated logistics. https://t.co/twS7vD4JCt\n\n#Maersk #Logistics #TrulyIntegratedLogistics #NewPaths\n\n\u00a92023 A.P. Moller - Maersk https://t.co/rYtcDQsIYj"
+    }
+}

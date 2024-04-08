@@ -1,0 +1,104 @@
+{
+    "1677317256504565765": {
+        "attachments": {
+            "media_keys": [
+                "13_1677316556714287104"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-07-07T14:02:51.000Z",
+        "edit_history_tweet_ids": [
+            "1677317256504565765"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Norbert Tarayre",
+                    "probability": 0.7266,
+                    "start": 25,
+                    "type": "Person"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Jackson Richardson",
+                    "probability": 0.8389,
+                    "start": 45,
+                    "type": "Person"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "Danonino",
+                    "probability": 0.5461,
+                    "start": 209,
+                    "type": "Other"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "AllChampions",
+                    "probability": 0.4482,
+                    "start": 219,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "Championsforlife",
+                    "probability": 0.6887,
+                    "start": 233,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 217,
+                    "start": 208,
+                    "tag": "Danonino"
+                },
+                {
+                    "end": 231,
+                    "start": 218,
+                    "tag": "AllChampions"
+                },
+                {
+                    "end": 249,
+                    "start": 232,
+                    "tag": "Championsforlife"
+                },
+                {
+                    "end": 271,
+                    "start": 250,
+                    "tag": "Championatouslesages"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 155,
+                    "id": "705011179975012352",
+                    "start": 140,
+                    "username": "DanoninoFrance"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jAe6yiXjVk",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Danone/status/1677317256504565765/video/1",
+                    "media_key": "13_1677316556714287104",
+                    "start": 272,
+                    "url": "https://t.co/jAe6yiXjVk"
+                }
+            ]
+        },
+        "id": "1677317256504565765",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2767,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 28,
+            "retweet_count": 3
+        },
+        "text": "For their latest recipe, Norbert Tarayre and Jackson Richardson finish on a high note with a refreshing ice cream for this summer made with @DanoninoFrance, a source of calcium. And it's not just for kids \ud83d\ude0e\n\n#Danonino #AllChampions #Championsforlife #Championatouslesages https://t.co/jAe6yiXjVk"
+    }
+}

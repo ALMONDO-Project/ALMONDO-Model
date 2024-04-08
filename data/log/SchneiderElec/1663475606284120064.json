@@ -1,0 +1,107 @@
+{
+    "1663475606284120064": {
+        "attachments": {
+            "media_keys": [
+                "3_1663475604073721856"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-30T09:21:05.000Z",
+        "edit_history_tweet_ids": [
+            "1663475606284120064"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "Grid",
+                    "probability": 0.4835,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "DER",
+                    "probability": 0.6649,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "SF6free",
+                    "probability": 0.832,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Frederic Godemel",
+                    "probability": 0.6357,
+                    "start": 173,
+                    "type": "Person"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "IoT",
+                    "probability": 0.6606,
+                    "start": 258,
+                    "type": "Other"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.4771,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 124,
+                    "start": 116,
+                    "tag": "SF6free"
+                },
+                {
+                    "end": 261,
+                    "start": 257,
+                    "tag": "IoT"
+                },
+                {
+                    "end": 274,
+                    "start": 262,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6010OS9wr",
+                    "end": 255,
+                    "expanded_url": "http://spr.ly/6010OS9wr",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/infrastructure-and-grid/2023/03/23/3-ways-eliminating-f-gases-improving-efficiency-and-increasing-der-integration-can-cut-mv-power-grids-carbon-footprint/?draftsforfriends=SDnKQdOEWX2PuUxgC8nnG1sj9QmRceoR&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10122732269&utm_campaign=EcoStruxure_for_Power_%26_Grid&country=Global",
+                    "url": "https://t.co/Ofwl4PW6re"
+                },
+                {
+                    "display_url": "pic.twitter.com/pXuL4ebq6B",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1663475606284120064/photo/1",
+                    "media_key": "3_1663475604073721856",
+                    "start": 275,
+                    "url": "https://t.co/pXuL4ebq6B"
+                }
+            ]
+        },
+        "id": "1663475606284120064",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1419,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Grid operators can solve decarbonization challenges by improving DER integration, using digital tools, and adopting #SF6free MV switchgear technology. Check out our blog by Frederic Godemel to learn how these key enablers can help. https://t.co/Ofwl4PW6re\n\n#IoT #EcoStruxure https://t.co/pXuL4ebq6B"
+    }
+}

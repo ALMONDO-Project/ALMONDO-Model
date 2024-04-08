@@ -1,0 +1,109 @@
+{
+    "1675806591684333568": {
+        "attachments": {
+            "media_keys": [
+                "7_1675770230507810816"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-03T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1675806591684333568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "DTU",
+                    "probability": 0.7829,
+                    "start": 23,
+                    "type": "Organization"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "Technical University of Denmark",
+                    "probability": 0.801,
+                    "start": 29,
+                    "type": "Organization"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Maersk",
+                    "probability": 0.7064,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Gothenburg",
+                    "probability": 0.7555,
+                    "start": 96,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Sweden",
+                    "probability": 0.91,
+                    "start": 108,
+                    "type": "Place"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Wilhelmshaven",
+                    "probability": 0.7308,
+                    "start": 118,
+                    "type": "Place"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Germany",
+                    "probability": 0.9186,
+                    "start": 133,
+                    "type": "Place"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "Lars Hansmann",
+                    "probability": 0.5019,
+                    "start": 203,
+                    "type": "Other"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "DTU",
+                    "probability": 0.6572,
+                    "start": 236,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 83,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/NuGExaaXoq",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Maersk/status/1675806591684333568/video/1",
+                    "media_key": "7_1675770230507810816",
+                    "start": 271,
+                    "url": "https://t.co/NuGExaaXoq"
+                }
+            ]
+        },
+        "id": "1675806591684333568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3284,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Recently students from DTU - Technical University of Denmark sailed onboard Munich #Maersk from Gothenburg, Sweden to Wilhelmshaven, Germany learning about our vessels and how we operate them. Hear from Lars Hansmann, Master Student at DTU, how he experienced the sail\ud83d\udc47\ud83c\udffc https://t.co/NuGExaaXoq"
+    }
+}

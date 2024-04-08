@@ -1,0 +1,105 @@
+{
+    "1651984628008230913": {
+        "attachments": {
+            "media_keys": [
+                "7_1651984532092997632"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-04-28T16:20:02.000Z",
+        "edit_history_tweet_ids": [
+            "1651984628008230913"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "MetroTrans",
+                    "probability": 0.591,
+                    "start": 23,
+                    "type": "Organization"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "International Metro Transit Exhibition",
+                    "probability": 0.5027,
+                    "start": 79,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Beijing",
+                    "probability": 0.8719,
+                    "start": 139,
+                    "type": "Place"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "China",
+                    "probability": 0.9676,
+                    "start": 148,
+                    "type": "Place"
+                },
+                {
+                    "end": 234,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.3979,
+                    "start": 225,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 22,
+                    "tag": "MetroTrans"
+                },
+                {
+                    "end": 146,
+                    "start": 138,
+                    "tag": "Beijing"
+                },
+                {
+                    "end": 235,
+                    "start": 224,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 253,
+                    "start": 236,
+                    "tag": "MobilitybyNature"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/Rzsw50O1e0m",
+                    "end": 222,
+                    "expanded_url": "http://ow.ly/Rzsw50O1e0m",
+                    "start": 199,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/press-releases-news/2023/4/alstom-attends-international-metro-transit-exhibition-forum-2023-beijing-qingdao-and-1st-china-metro-transit-hi-tech-fair",
+                    "url": "https://t.co/pBFdYbLhzH"
+                },
+                {
+                    "display_url": "pic.twitter.com/Hjqex24nTt",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/Alstom/status/1651984628008230913/video/1",
+                    "media_key": "7_1651984532092997632",
+                    "start": 254,
+                    "url": "https://t.co/Hjqex24nTt"
+                }
+            ]
+        },
+        "id": "1651984628008230913",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1881,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "And that's a wrap for #MetroTrans 2023! Thank you for the great discussions at International Metro Transit Exhibition &amp; Forum 2023 in #Beijing, China!\n\nLearn more about our presence at the show: https://t.co/pBFdYbLhzH\n\n#TeamAlstom #MobilitybyNature https://t.co/Hjqex24nTt"
+    }
+}

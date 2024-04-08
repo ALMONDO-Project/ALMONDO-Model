@@ -1,0 +1,74 @@
+{
+    "1703703043571646476": {
+        "attachments": {
+            "poll_ids": [
+                "1703703042124570624"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-09-18T09:30:33.000Z",
+        "edit_history_tweet_ids": [
+            "1703703043571646476"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 281,
+                    "normalized_text": "AlstomServices",
+                    "probability": 0.4624,
+                    "start": 268,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 133,
+                    "start": 121,
+                    "tag": "maintainers"
+                },
+                {
+                    "end": 150,
+                    "start": 140,
+                    "tag": "operators"
+                },
+                {
+                    "end": 282,
+                    "start": 267,
+                    "tag": "AlstomServices"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 30,
+                    "id": "236302464",
+                    "start": 18,
+                    "username": "Station_One"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Vendor : Alstom Italy Ferroviaria S.p.A., Lecco Unit Manufacturer : Alstom Ferroviaria, Pescate (LC) By clicking on I accept, you accept the terms and conditions of use, including the use of cookies to perform statistics of audiences.",
+                    "display_url": "ow.ly/l2UB50PM5mB",
+                    "end": 265,
+                    "expanded_url": "https://ow.ly/l2UB50PM5mB",
+                    "start": 242,
+                    "status": 200,
+                    "title": "Home",
+                    "unwound_url": "https://www.station-one.com/en/?utm_source=social_all&utm_medium=twitter&utm_content=54701230-bba0-4674-809b-0ffbfae53f71&utm_campaign=Alstom_Services",
+                    "url": "https://t.co/rKtmJTlvef"
+                }
+            ]
+        },
+        "id": "1703703043571646476",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2482,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Launched in 2019, @Station_One specialises in all types of railway related products, offering a customised catalogue for #maintainers &amp; #operators. Can you guess what percentage of the catalogue falls into the circular economy category?\n\nhttps://t.co/rKtmJTlvef\n\n#AlstomServices"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "1676879253248307201": {
+        "attachments": {
+            "media_keys": [
+                "3_1676871953448157184"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-07-06T09:02:23.000Z",
+        "edit_history_tweet_ids": [
+            "1676879253248307201"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 178,
+                    "normalized_text": "Scotland",
+                    "probability": 0.9258,
+                    "start": 171,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 107,
+                    "id": "959448294832340992",
+                    "start": 91,
+                    "username": "CentricaSoln_UK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3O1R10o",
+                    "end": 269,
+                    "expanded_url": "https://bit.ly/3O1R10o",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/centrica-to-build-largest-battery-storage-project-to-date/",
+                    "url": "https://t.co/5Z1ew8HnLG"
+                },
+                {
+                    "display_url": "pic.twitter.com/9Gq88nu7qo",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1676879253248307201/photo/1",
+                    "media_key": "3_1676871953448157184",
+                    "start": 270,
+                    "url": "https://t.co/9Gq88nu7qo"
+                }
+            ]
+        },
+        "id": "1676879253248307201",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 548,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udce2 We\u2019re investing in energy security and helping maximise the potential of offshore wind.\n\n@CentricaSoln_UK  has secured rights to develop a 65MW battery storage plant in Scotland, with enough capacity to power 130,000 homes for one hour.\n\nMore\u2192 https://t.co/5Z1ew8HnLG https://t.co/9Gq88nu7qo"
+    }
+}

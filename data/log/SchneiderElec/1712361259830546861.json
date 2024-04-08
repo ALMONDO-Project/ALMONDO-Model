@@ -1,0 +1,98 @@
+{
+    "1712361259830546861": {
+        "attachments": {
+            "media_keys": [
+                "13_1712361208873984000"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-10-12T06:55:13.000Z",
+        "edit_history_tweet_ids": [
+            "1712361259830546861"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "EU",
+                    "probability": 0.9615,
+                    "start": 70,
+                    "type": "Place"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "US",
+                    "probability": 0.9779,
+                    "start": 81,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Schneider Electric Sustainability Research Institute",
+                    "probability": 0.6118,
+                    "start": 122,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 266,
+                    "start": 252,
+                    "tag": "ImpactCompany"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 117,
+                    "id": "781531567155998720",
+                    "start": 110,
+                    "username": "IGS_BU"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A study reveals over 2 million new jobs can be created during the transition to net-zero buildings.",
+                    "display_url": "spr.ly/6017uTnED",
+                    "end": 250,
+                    "expanded_url": "http://spr.ly/6017uTnED",
+                    "images": [
+                        {
+                            "height": 628,
+                            "url": "https://pbs.twimg.com/news_img/1712361306857091072/3FHqnU63?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1712361306857091072/3FHqnU63?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 227,
+                    "status": 200,
+                    "title": "Building a green future: examining the job creation potential of electricity, heating, and storage in low-carbon buildings",
+                    "unwound_url": "https://www.se.com/ww/en/insights/sustainability/sustainability-research-institute/building-a-green-future.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=11519254296&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/EkcjjdUSAg"
+                },
+                {
+                    "display_url": "pic.twitter.com/sBCOqqJSZ1",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1712361259830546861/video/1",
+                    "media_key": "13_1712361208873984000",
+                    "start": 267,
+                    "url": "https://t.co/sBCOqqJSZ1"
+                }
+            ]
+        },
+        "id": "1712361259830546861",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1377,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\udf0d Adopting clean energy technologies could create millions of jobs in EU and the US, according to research by @IGS_BU and Schneider Electric Sustainability Research Institute. Learn more about the socio-economic benefits here: https://t.co/EkcjjdUSAg\n\n#ImpactCompany https://t.co/sBCOqqJSZ1"
+    }
+}

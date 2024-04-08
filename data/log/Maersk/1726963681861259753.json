@@ -1,0 +1,81 @@
+{
+    "1726963681861259753": {
+        "attachments": {
+            "media_keys": [
+                "7_1725488340584034304"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-11-21T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1726963681861259753"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "Fresh",
+                    "probability": 0.4776,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3637,
+                    "start": 238,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 244,
+                    "start": 237,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 255,
+                    "start": 245,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "325429204",
+                    "start": 0,
+                    "username": "FruitAttraction"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/40F4i3X",
+                    "end": 236,
+                    "expanded_url": "https://bit.ly/40F4i3X",
+                    "start": 213,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/11/08/fruit-attraction-2023-what-we-learned?utm_campaign=EUR_MCO_REF_EN_FRUIT_ATTRACTION_23_3634824745377&utm_source=twitter&utm_medium=owned&utm_content=FA2023_Some_4",
+                    "url": "https://t.co/a342zsG181"
+                },
+                {
+                    "display_url": "pic.twitter.com/oSJtwTmA0T",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/Maersk/status/1726963681861259753/video/1",
+                    "media_key": "7_1725488340584034304",
+                    "start": 256,
+                    "url": "https://t.co/oSJtwTmA0T"
+                }
+            ]
+        },
+        "id": "1726963681861259753",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 57,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@FruitAttraction 2023 unveiled new trends &amp; crucial insights shaping the Fresh Produce industry.\u00a0Dive into the key focus areas &amp; discover how we can navigate the challenges ahead to innovate &amp; thrive. https://t.co/a342zsG181 #Maersk #AllTheWay https://t.co/oSJtwTmA0T"
+    }
+}

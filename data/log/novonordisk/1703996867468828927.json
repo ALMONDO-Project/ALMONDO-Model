@@ -1,0 +1,60 @@
+{
+    "1703996867468828927": {
+        "author_id": "194037150",
+        "created_at": "2023-09-19T04:58:06.000Z",
+        "edit_history_tweet_ids": [
+            "1703996867468828927"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Elizabeth",
+                    "probability": 0.6148,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4959,
+                    "start": 68,
+                    "type": "Organization"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "aunrsafetyalert",
+                    "probability": 0.4636,
+                    "start": 196,
+                    "type": "Other"
+                },
+                {
+                    "end": 251,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5472,
+                    "start": 240,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1245796981",
+                    "start": 0,
+                    "username": "thewaitinghours"
+                }
+            ]
+        },
+        "id": "1703996867468828927",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 56,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@thewaitinghours Hi Elizabeth,\nYou described your experience with a Novo Nordisk product. Based on the content of your message, we would like to follow up directly. Could you kindly contact us at aunrsafetyalert@novonordisk.com?\nThank you,\nNovo Nordisk Customer Care"
+    }
+}

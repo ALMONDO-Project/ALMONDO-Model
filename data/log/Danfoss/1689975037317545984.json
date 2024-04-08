@@ -1,0 +1,61 @@
+{
+    "1689975037317545984": {
+        "attachments": {
+            "media_keys": [
+                "13_1689974951770550272"
+            ]
+        },
+        "author_id": "95291408",
+        "created_at": "2023-08-11T12:20:21.000Z",
+        "edit_history_tweet_ids": [
+            "1689975037317545984"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "Marselisborg Wastewater Treatment Plant",
+                    "probability": 0.753,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "WWTP",
+                    "probability": 0.4241,
+                    "start": 41,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3XQ2WSz",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3XQ2WSz",
+                    "start": 256,
+                    "unwound_url": "https://www.whyenergyefficiency.com/challenges/decarbonizing-energy-systems/energy-neutral-water-sector",
+                    "url": "https://t.co/gIoiOwurm8"
+                },
+                {
+                    "display_url": "pic.twitter.com/yxPpA5AtaW",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Danfoss/status/1689975037317545984/video/1",
+                    "media_key": "13_1689974951770550272",
+                    "start": 280,
+                    "url": "https://t.co/yxPpA5AtaW"
+                }
+            ]
+        },
+        "id": "1689975037317545984",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 499,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Marselisborg Wastewater Treatment Plant (WWTP) produces more energy than it needs for treating wastewater for the 200,000 people it services. It produces so much energy that it can cover the energy needed for supply of drinking water as well. \n\nRead more: https://t.co/gIoiOwurm8 https://t.co/yxPpA5AtaW"
+    }
+}

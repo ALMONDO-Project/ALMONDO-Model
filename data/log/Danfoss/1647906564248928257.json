@@ -1,0 +1,50 @@
+{
+    "1647906564248928257": {
+        "author_id": "95291408",
+        "created_at": "2023-04-17T10:15:16.000Z",
+        "edit_history_tweet_ids": [
+            "1647906564248928257"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 205,
+                    "normalized_text": "Martin Rossen",
+                    "probability": 0.8626,
+                    "start": 193,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 264,
+                    "id": "45840503",
+                    "start": 257,
+                    "username": "CityAM"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "cityam.com/our-measure-of\u2026",
+                    "end": 288,
+                    "expanded_url": "https://www.cityam.com/our-measure-of-productivity-should-be-how-much-energy-it-takes-to-create-new-growth/",
+                    "start": 265,
+                    "status": 200,
+                    "unwound_url": "https://www.cityam.com/our-measure-of-productivity-should-be-how-much-energy-it-takes-to-create-new-growth/",
+                    "url": "https://t.co/6Safv1VImw"
+                }
+            ]
+        },
+        "id": "1647906564248928257",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 445,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Energy productivity is a lever for valuable economic growth that\u2019s been neglected too often. Leaders who prioritize energy productivity will be best placed to protect &amp; grow economies said Martin Rossen, SVP of Group Communication &amp; Sustainability, @CityAM https://t.co/6Safv1VImw"
+    }
+}

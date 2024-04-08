@@ -1,0 +1,78 @@
+{
+    "1656660442000007171": {
+        "attachments": {
+            "media_keys": [
+                "3_1656660432550244354"
+            ]
+        },
+        "author_id": "249548988",
+        "created_at": "2023-05-11T14:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1656660442000007171"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "Giro d'Italia",
+                    "probability": 0.5568,
+                    "start": 122,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 218,
+                    "tag": "webringprogresstolife"
+                },
+                {
+                    "end": 257,
+                    "start": 241,
+                    "tag": "keepchallenging"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 86,
+                    "id": "1291910623",
+                    "start": 75,
+                    "username": "andreaslek"
+                },
+                {
+                    "end": 178,
+                    "id": "249548988",
+                    "start": 165,
+                    "username": "dsmfirmenich"
+                },
+                {
+                    "end": 266,
+                    "id": "1752644041953644544",
+                    "start": 258,
+                    "username": "Teamdsm"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/NAxG9LRbUN",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/dsmfirmenich/status/1656660442000007171/photo/1",
+                    "media_key": "3_1656660432550244354",
+                    "start": 267,
+                    "url": "https://t.co/NAxG9LRbUN"
+                }
+            ]
+        },
+        "id": "1656660442000007171",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2051,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "A photo finish to mark our historic start! \ud83d\udeb4\n\nWe were over the moon to see @andreaslek race to a fantastic victory at the Giro d'Italia on our first official day as @dsmfirmenich. \n\nCongratulations to the whole team!\n\n#webringprogresstolife #keepchallenging @TeamDSM https://t.co/NAxG9LRbUN"
+    }
+}

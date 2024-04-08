@@ -1,0 +1,105 @@
+{
+    "1655462815111544832": {
+        "attachments": {
+            "media_keys": [
+                "3_1655462810783031296"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-05-08T06:41:06.000Z",
+        "edit_history_tweet_ids": [
+            "1655462815111544832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.4215,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "Lhyfe",
+                    "probability": 0.4847,
+                    "start": 22,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "Skyborn",
+                    "probability": 0.4102,
+                    "start": 32,
+                    "type": "Other"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "Europe",
+                    "probability": 0.9606,
+                    "start": 50,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "ABB",
+                    "probability": 0.4961,
+                    "start": 133,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 86,
+                    "start": 77,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 136,
+                    "start": 132,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 152,
+                    "start": 137,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 164,
+                    "start": 153,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "new.abb.com/news/detail/10\u2026",
+                    "end": 131,
+                    "expanded_url": "https://new.abb.com/news/detail/102934/abb-collaborates-with-lhyfe-and-skyborn-on-one-of-europes-largest-renewable-hydrogen-projects",
+                    "start": 108,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/102934/abb-collaborates-with-lhyfe-and-skyborn-on-one-of-europes-largest-renewable-hydrogen-projects",
+                    "url": "https://t.co/XhfXK2eYM4"
+                },
+                {
+                    "display_url": "pic.twitter.com/7ZPXtJl0z8",
+                    "end": 188,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1655462815111544832/photo/1",
+                    "media_key": "3_1655462810783031296",
+                    "start": 165,
+                    "url": "https://t.co/7ZPXtJl0z8"
+                }
+            ]
+        },
+        "id": "1655462815111544832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3447,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "ABB collaborates with Lhyfe and Skyborn on one of Europe\u2019s largest renewable #hydrogen projects.\nRead more: https://t.co/XhfXK2eYM4\n#ABB #Sustainability #renewables https://t.co/7ZPXtJl0z8"
+    }
+}

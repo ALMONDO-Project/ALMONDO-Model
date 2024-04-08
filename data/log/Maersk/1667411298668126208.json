@@ -1,0 +1,84 @@
+{
+    "1667411298668126208": {
+        "attachments": {
+            "media_keys": [
+                "3_1667411294008254464"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-06-10T06:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1667411298668126208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "Container Load",
+                    "probability": 0.654,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "LCL",
+                    "probability": 0.5177,
+                    "start": 191,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 190,
+                    "tag": "LCL"
+                },
+                {
+                    "end": 244,
+                    "start": 222,
+                    "tag": "SupplyChainManagement"
+                },
+                {
+                    "end": 260,
+                    "start": 245,
+                    "tag": "Digitalisation"
+                },
+                {
+                    "end": 278,
+                    "start": 261,
+                    "tag": "LogisticInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/insights/integ\u2026",
+                    "end": 219,
+                    "expanded_url": "https://www.maersk.com/insights/integrated-logistics/benefits-of-less-than-container-load",
+                    "start": 196,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/insights/integrated-logistics/benefits-of-less-than-container-load",
+                    "url": "https://t.co/I6TJbHMXw4"
+                },
+                {
+                    "display_url": "pic.twitter.com/5nKPK9oASw",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1667411298668126208/photo/1",
+                    "media_key": "3_1667411294008254464",
+                    "start": 279,
+                    "url": "https://t.co/5nKPK9oASw"
+                }
+            ]
+        },
+        "id": "1667411298668126208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5457,
+            "like_count": 41,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Sometimes, less is more \u2013 when it comes to your business, going small with Less than Container Load can be a cost and time saving approach. Discover how and what the future has in store for #LCL: https://t.co/I6TJbHMXw4   #SupplyChainManagement #Digitalisation #LogisticInsights https://t.co/5nKPK9oASw"
+    }
+}

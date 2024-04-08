@@ -1,0 +1,78 @@
+{
+    "1616094129041334272": {
+        "author_id": "393757140",
+        "created_at": "2023-01-19T15:24:00.000Z",
+        "edit_history_tweet_ids": [
+            "1616094129041334272"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Olivier Blum",
+                    "probability": 0.9656,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 37,
+                    "normalized_text": "Management",
+                    "probability": 0.3992,
+                    "start": 28,
+                    "type": "Organization"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "CNBC",
+                    "probability": 0.9714,
+                    "start": 128,
+                    "type": "Organization"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "WEF23",
+                    "probability": 0.6508,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 245,
+                    "start": 239,
+                    "tag": "WEF23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 59,
+                    "id": "19898168",
+                    "start": 53,
+                    "username": "CNBCi"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60143X2Ea",
+                    "end": 269,
+                    "expanded_url": "http://spr.ly/60143X2Ea",
+                    "start": 246,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Rby25iCAzVk",
+                    "url": "https://t.co/MqVa5yiGYF"
+                }
+            ]
+        },
+        "id": "1616094129041334272",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1109,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Olivier Blum, EVP of Energy Management sat down with @CNBCi to discuss how sustainable energy transition is so important. Watch CNBC\u2019s \u201cIOT Powering the Digital Economy: The energy transition needed to meet the world\u2019s climate goals\u201d from #WEF23 https://t.co/MqVa5yiGYF"
+    }
+}

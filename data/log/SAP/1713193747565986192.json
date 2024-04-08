@@ -1,0 +1,69 @@
+{
+    "1713193747565986192": {
+        "attachments": {
+            "media_keys": [
+                "13_1713193697704087552"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-10-14T14:03:13.000Z",
+        "edit_history_tweet_ids": [
+            "1713193747565986192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "AI",
+                    "probability": 0.6388,
+                    "start": 68,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Communication intelligence is a service on SAP BTP that can analyze, categorize, and correspond to written communication by leveraging AI.",
+                    "display_url": "sap.to/6010up4Xk",
+                    "end": 104,
+                    "expanded_url": "https://sap.to/6010up4Xk",
+                    "images": [
+                        {
+                            "height": 1280,
+                            "url": "https://pbs.twimg.com/news_img/1715955601099124737/K6_VjoJi?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1715955601099124737/K6_VjoJi?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 81,
+                    "status": 200,
+                    "title": "From Sentiments to Solutions: Decoding Business Correspondence with Gen AI",
+                    "unwound_url": "https://news.sap.com/2023/10/decoding-business-correspondence-ai-communication-intelligence/?source=social-Global-TWITTER-SAP_Innovations-Artificial_Intelligence-spr-11554280288-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-LAM-2228564&sprinklrid=11554280288",
+                    "url": "https://t.co/OPNPhiQ8Wy"
+                },
+                {
+                    "display_url": "pic.twitter.com/nr1TLbGrfR",
+                    "end": 128,
+                    "expanded_url": "https://twitter.com/SAP/status/1713193747565986192/video/1",
+                    "media_key": "13_1713193697704087552",
+                    "start": 105,
+                    "url": "https://t.co/nr1TLbGrfR"
+                }
+            ]
+        },
+        "id": "1713193747565986192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 9733,
+            "like_count": 29,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 13
+        },
+        "text": "Does your to-do list include too many emails for follow-up? \n\nMaybe AI can help. https://t.co/OPNPhiQ8Wy https://t.co/nr1TLbGrfR"
+    }
+}

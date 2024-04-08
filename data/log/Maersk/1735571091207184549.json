@@ -1,0 +1,66 @@
+{
+    "1735571091207184549": {
+        "author_id": "380801406",
+        "created_at": "2023-12-15T08:02:48.000Z",
+        "edit_history_tweet_ids": [
+            "1735571091207184549"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Maersk",
+                    "probability": 0.629,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "MAERSK GIBRALTAR",
+                    "probability": 0.7335,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "Salalah",
+                    "probability": 0.8967,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Oman",
+                    "probability": 0.9738,
+                    "start": 122,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Jeddah",
+                    "probability": 0.9566,
+                    "start": 130,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Saudi Arabia",
+                    "probability": 0.9836,
+                    "start": 138,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1735571091207184549",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 10,
+            "impression_count": 221187,
+            "like_count": 251,
+            "quote_count": 23,
+            "reply_count": 29,
+            "retweet_count": 84
+        },
+        "text": "Maersk is deeply concerned about the incident involving the MAERSK GIBRALTAR while the vessel was traveling from Salalah, Oman to Jeddah, Saudi Arabia. The crew &amp; vessel are reported safe. We are currently working to ascertain the full details of the incident. Vessel was not hit"
+    }
+}

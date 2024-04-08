@@ -1,0 +1,53 @@
+{
+    "1730191097706451272": {
+        "author_id": "194037150",
+        "created_at": "2023-11-30T11:44:37.000Z",
+        "edit_history_tweet_ids": [
+            "1730191097706451272"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "S.K. Sharma",
+                    "probability": 0.9483,
+                    "start": 22,
+                    "type": "Person"
+                },
+                {
+                    "end": 281,
+                    "normalized_text": "Kerynn",
+                    "probability": 0.3469,
+                    "start": 276,
+                    "type": "Person"
+                },
+                {
+                    "end": 295,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6862,
+                    "start": 284,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "232575088",
+                    "start": 0,
+                    "username": "sachinksharma11"
+                }
+            ]
+        },
+        "id": "1730191097706451272",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 55,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sachinksharma11 Dear S.K. Sharma, thank you for your message, we are currently experiencing issues with our job agent sending multiple unsubscribe mails. We're working on solving the issue as soon as possible. Please accept our apologies for the inconvenience. All the best, Kerynn, Novo Nordisk"
+    }
+}

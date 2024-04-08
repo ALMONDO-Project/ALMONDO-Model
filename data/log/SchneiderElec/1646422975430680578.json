@@ -1,0 +1,62 @@
+{
+    "1646422975430680578": {
+        "attachments": {
+            "media_keys": [
+                "3_1646422971878191104"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-13T08:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1646422975430680578"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "ParisMarathon",
+                    "probability": 0.7853,
+                    "start": 27,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 26,
+                    "tag": "ParisMarathon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6012Oz8tq",
+                    "end": 240,
+                    "expanded_url": "http://spr.ly/6012Oz8tq",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/segreenrunners/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9513973507&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/DRF6CGxE4S"
+                },
+                {
+                    "display_url": "pic.twitter.com/tA2NcbPCpq",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1646422975430680578/photo/1",
+                    "media_key": "3_1646422971878191104",
+                    "start": 241,
+                    "url": "https://t.co/tA2NcbPCpq"
+                }
+            ]
+        },
+        "id": "1646422975430680578",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1734,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "What an event this year\u2019s #ParisMarathon was! Thanks to everyone who participated and let\u2019s continue the journey to net-zero together! \n\nContinue to be a part of our running community and sustainability journey here: https://t.co/DRF6CGxE4S https://t.co/tA2NcbPCpq"
+    }
+}

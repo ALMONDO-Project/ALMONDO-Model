@@ -1,0 +1,82 @@
+{
+    "1702622929828131143": {
+        "attachments": {
+            "media_keys": [
+                "7_1702622586813706240"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-15T09:58:34.000Z",
+        "edit_history_tweet_ids": [
+            "1702622929828131143"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "Laura",
+                    "probability": 0.4844,
+                    "start": 111,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6077,
+                    "start": 238,
+                    "type": "Person"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "LauraMaersk",
+                    "probability": 0.9065,
+                    "start": 246,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 235,
+                    "start": 219,
+                    "tag": "ALLTHEWAYTOZERO"
+                },
+                {
+                    "end": 244,
+                    "start": 237,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 257,
+                    "start": 245,
+                    "tag": "LauraMaersk"
+                },
+                {
+                    "end": 274,
+                    "start": 258,
+                    "tag": "Decarbonisation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/b3bEHQPrZD",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1702622929828131143/video/1",
+                    "media_key": "7_1702622586813706240",
+                    "start": 275,
+                    "url": "https://t.co/b3bEHQPrZD"
+                }
+            ]
+        },
+        "id": "1702622929828131143",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 15004,
+            "like_count": 199,
+            "quote_count": 6,
+            "reply_count": 9,
+            "retweet_count": 47
+        },
+        "text": "Watch the highlights from\u00a0the naming ceremony of the world\u2019s first container vessel sailing on green methanol, Laura M\u00e6rsk\ud83c\udf7eThis marks a momentous milestone towards reaching net-zero emissions by 2040\ud83c\udf0fTogether we can go #ALLTHEWAYTOZERO\n\n#Maersk #LauraMaersk #Decarbonisation https://t.co/b3bEHQPrZD"
+    }
+}

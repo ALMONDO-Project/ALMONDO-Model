@@ -1,0 +1,82 @@
+{
+    "1622868159270191104": {
+        "author_id": "258725128",
+        "created_at": "2023-02-07T08:01:35.000Z",
+        "edit_history_tweet_ids": [
+            "1622868159270191104"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "USA",
+                    "probability": 0.9875,
+                    "start": 38,
+                    "type": "Place"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.359,
+                    "start": 69,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 20,
+                    "tag": "highspeed"
+                },
+                {
+                    "end": 79,
+                    "start": 68,
+                    "tag": "TeamAlstom"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Built with Alstom\u2019s proven high-speed rail technology currently operating in 25 countries around the world, the Avelia Liberty high-speed train is specifically designed to responsibly accelerate the future of American rail travel. The Avelia Liberty can reach speeds up to 220 miles per hour with its articulated structure and co ncentrated traction. Tiltronix, our tilting technology, also allows the train to run up to 30% faster on curves. Alstom is delivering a faster, smoother, and more efficient ride",
+                    "display_url": "ow.ly/p2qF50MKbqZ",
+                    "end": 67,
+                    "expanded_url": "http://ow.ly/p2qF50MKbqZ",
+                    "images": [
+                        {
+                            "height": 1280,
+                            "url": "https://pbs.twimg.com/news_img/1762859473482244097/1RRb3ku4?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1762859473482244097/1RRb3ku4?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 44,
+                    "status": 200,
+                    "title": "High-speed rail in America is already here with Alstom",
+                    "unwound_url": "https://www.alstom.com/high-speed-rail-america-already-here-alstom?utm_source=organic_social&utm_medium=twitter&utm_content=246bcfc6-6aec-4b8c-896e-d917c1348ec5&utm_campaign=HSUSA",
+                    "url": "https://t.co/fhre3QfKzv"
+                },
+                {
+                    "display_url": "ow.ly/TmHq50MKbr0",
+                    "end": 103,
+                    "expanded_url": "http://ow.ly/TmHq50MKbr0",
+                    "start": 80,
+                    "url": "https://t.co/OFuOGAUoqh"
+                }
+            ]
+        },
+        "id": "1622868159270191104",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1555,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\uddfa\ud83c\uddf8 Learn more about #highspeed in the USA \u25b6\ufe0fhttps://t.co/fhre3QfKzv\n#TeamAlstom\nhttps://t.co/OFuOGAUoqh"
+    }
+}

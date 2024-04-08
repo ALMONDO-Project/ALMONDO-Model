@@ -1,0 +1,77 @@
+{
+    "1610976912620376066": {
+        "attachments": {
+            "media_keys": [
+                "3_1610976910128955394"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-05T12:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1610976912620376066"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 195,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.7658,
+                    "start": 178,
+                    "type": "Organization"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "NetZero",
+                    "probability": 0.6561,
+                    "start": 226,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 215,
+                    "start": 200,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 224,
+                    "start": 216,
+                    "tag": "ces2023"
+                },
+                {
+                    "end": 233,
+                    "start": 225,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60193MxxL",
+                    "end": 273,
+                    "expanded_url": "http://spr.ly/60193MxxL",
+                    "start": 250,
+                    "url": "https://t.co/gdrYom3wBH"
+                },
+                {
+                    "display_url": "pic.twitter.com/b9YNOBohJW",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1610976912620376066/photo/1",
+                    "media_key": "3_1610976910128955394",
+                    "start": 274,
+                    "url": "https://t.co/b9YNOBohJW"
+                }
+            ]
+        },
+        "id": "1610976912620376066",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1385,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "What Homes means to us has evolved a lot over the past years. \n\nLearn how you can future-proof your home with not just smart but smart and sustainable home energy solutions from Schneider Electric. \n\n#sustainability #ces2023 #NetZero \n\nRegister Now: https://t.co/gdrYom3wBH https://t.co/b9YNOBohJW"
+    }
+}

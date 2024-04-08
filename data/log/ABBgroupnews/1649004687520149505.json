@@ -1,0 +1,121 @@
+{
+    "1649004687520149505": {
+        "attachments": {
+            "media_keys": [
+                "3_1649004404828241920",
+                "3_1649004405264359425"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-04-20T10:58:49.000Z",
+        "edit_history_tweet_ids": [
+            "1649004687520149505"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.6475,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 15,
+                    "normalized_text": "PLN Icon",
+                    "probability": 0.7056,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "ElectricVehicle",
+                    "probability": 0.7926,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "ABB",
+                    "probability": 0.5799,
+                    "start": 133,
+                    "type": "Other"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "emobility",
+                    "probability": 0.6051,
+                    "start": 138,
+                    "type": "Other"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "HM23",
+                    "probability": 0.642,
+                    "start": 149,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 77,
+                    "start": 61,
+                    "tag": "ElectricVehicle"
+                },
+                {
+                    "end": 136,
+                    "start": 132,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 147,
+                    "start": 137,
+                    "tag": "emobility"
+                },
+                {
+                    "end": 153,
+                    "start": 148,
+                    "tag": "HM23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/PLN-Icon-EV-ch\u2026",
+                    "end": 131,
+                    "expanded_url": "https://social.abb/PLN-Icon-EV-charging-collaboration",
+                    "start": 108,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/102189/abb-and-pln-icon-plus-strengthen-collaboration-on-developing-electric-vehicle-charging-services",
+                    "url": "https://t.co/yXgQXzw8JF"
+                },
+                {
+                    "display_url": "pic.twitter.com/RocsdTezHY",
+                    "end": 177,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1649004687520149505/photo/1",
+                    "media_key": "3_1649004404828241920",
+                    "start": 154,
+                    "url": "https://t.co/RocsdTezHY"
+                },
+                {
+                    "display_url": "pic.twitter.com/RocsdTezHY",
+                    "end": 177,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1649004687520149505/photo/1",
+                    "media_key": "3_1649004405264359425",
+                    "start": 154,
+                    "url": "https://t.co/RocsdTezHY"
+                }
+            ]
+        },
+        "id": "1649004687520149505",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1776,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "ABB and PLN Icon Plus strengthen collaboration on developing #ElectricVehicle charging services.\nRead more: https://t.co/yXgQXzw8JF\n#ABB #emobility #HM23 https://t.co/RocsdTezHY"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1668921231360286721": {
+        "attachments": {
+            "media_keys": [
+                "3_1668921228524912640"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-14T10:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1668921231360286721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "ERN",
+                    "probability": 0.6539,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Hector Solis",
+                    "probability": 0.5506,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "\n#Pride20",
+                    "probability": 0.76,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 102,
+                    "start": 92,
+                    "tag": "Pride2023"
+                },
+                {
+                    "end": 117,
+                    "start": 103,
+                    "tag": "SEGreatPeople"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018OxNHA",
+                    "end": 89,
+                    "expanded_url": "http://spr.ly/6018OxNHA",
+                    "start": 66,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/life-at-schneider-electric/2023/06/14/the-power-of-inclusion-how-employee-resource-networks-can-drive-a-sense-of-belonging-at-work/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10268113183&utm_campaign=Bold_Idea_-_Employer_Branding&country=Global",
+                    "url": "https://t.co/U4xhrC9TqW"
+                },
+                {
+                    "display_url": "pic.twitter.com/1L9mbI0Nb5",
+                    "end": 141,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1668921231360286721/photo/1",
+                    "media_key": "3_1668921228524912640",
+                    "start": 118,
+                    "url": "https://t.co/1L9mbI0Nb5"
+                }
+            ]
+        },
+        "id": "1668921231360286721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 865,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Find out more about the network from our ERN Chair, Hector Solis: https://t.co/U4xhrC9TqW \u200b\n#Pride2023 #SEGreatPeople https://t.co/1L9mbI0Nb5"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "1656976188022345735": {
+        "attachments": {
+            "media_keys": [
+                "3_1656975140633317378",
+                "3_1656975171058831360",
+                "3_1656975197650698242",
+                "3_1656975223542128641"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-12T10:54:43.000Z",
+        "edit_history_tweet_ids": [
+            "1656976188022345735"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "DEC Ukrainian Humanitarian Appeal",
+                    "probability": 0.5465,
+                    "start": 102,
+                    "type": "Organization"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "Eurovision",
+                    "probability": 0.9561,
+                    "start": 188,
+                    "type": "Other"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "MaerskEurope",
+                    "probability": 0.5462,
+                    "start": 262,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 198,
+                    "start": 187,
+                    "tag": "Eurovision"
+                },
+                {
+                    "end": 274,
+                    "start": 261,
+                    "tag": "MaerskEurope"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 229,
+                    "id": "126065306",
+                    "start": 217,
+                    "username": "KatrinasWeb"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/gKsqz",
+                    "end": 260,
+                    "expanded_url": "https://lnkd.in/gKsqz",
+                    "start": 237,
+                    "status": 404,
+                    "unwound_url": "https://lnkd.in/gKsqz",
+                    "url": "https://t.co/0DaaFpbCK8"
+                },
+                {
+                    "display_url": "pic.twitter.com/C0N2MpI0v0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1656976188022345735/photo/1",
+                    "media_key": "3_1656975140633317378",
+                    "start": 275,
+                    "url": "https://t.co/C0N2MpI0v0"
+                },
+                {
+                    "display_url": "pic.twitter.com/C0N2MpI0v0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1656976188022345735/photo/1",
+                    "media_key": "3_1656975171058831360",
+                    "start": 275,
+                    "url": "https://t.co/C0N2MpI0v0"
+                },
+                {
+                    "display_url": "pic.twitter.com/C0N2MpI0v0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1656976188022345735/photo/1",
+                    "media_key": "3_1656975197650698242",
+                    "start": 275,
+                    "url": "https://t.co/C0N2MpI0v0"
+                },
+                {
+                    "display_url": "pic.twitter.com/C0N2MpI0v0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Maersk/status/1656976188022345735/photo/1",
+                    "media_key": "3_1656975223542128641",
+                    "start": 275,
+                    "url": "https://t.co/C0N2MpI0v0"
+                }
+            ]
+        },
+        "id": "1656976188022345735",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3160,
+            "like_count": 27,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Thank you to those who joined us for our charity fundraiser last night to help us raise money for the DEC Ukrainian Humanitarian Appeal. We hope you enjoyed the performances from special #Eurovision artists including @KatrinasWeb. More: https://t.co/0DaaFpbCK8 #MaerskEurope https://t.co/C0N2MpI0v0"
+    }
+}

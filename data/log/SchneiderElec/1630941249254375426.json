@@ -1,0 +1,73 @@
+{
+    "1630941249254375426": {
+        "attachments": {
+            "media_keys": [
+                "13_1630941225384550400"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-01T14:41:09.000Z",
+        "edit_history_tweet_ids": [
+            "1630941249254375426"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 200,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8485,
+                    "start": 183,
+                    "type": "Organization"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "Chain",
+                    "probability": 0.624,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 15,
+                    "tag": "students"
+                },
+                {
+                    "end": 41,
+                    "start": 29,
+                    "tag": "EarlyCareer"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60163aKNE",
+                    "end": 255,
+                    "expanded_url": "http://spr.ly/60163aKNE",
+                    "start": 232,
+                    "unwound_url": "https://careers-se.icims.com/connect?eventId=1202011&shareLink=1&mobile=false&width=1562&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480",
+                    "url": "https://t.co/AXafZEdJjQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/HACyk1chzB",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1630941249254375426/video/1",
+                    "media_key": "13_1630941225384550400",
+                    "start": 256,
+                    "url": "https://t.co/HACyk1chzB"
+                }
+            ]
+        },
+        "id": "1630941249254375426",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1184,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Calling out to #students and #EarlyCareer talents! \ud83d\udce3 Here's your chance to kick-start your career in Supply Chain on March 9th, by joining us for a virtual Career Fair!\n\nRegister for Schneider Electric's Supply Chain Live Day here: https://t.co/AXafZEdJjQ https://t.co/HACyk1chzB"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "1676558728617754624": {
+        "attachments": {
+            "media_keys": [
+                "3_1676558428607578114"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-07-05T11:48:44.000Z",
+        "edit_history_tweet_ids": [
+            "1676558728617754624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4622,
+                    "start": 56,
+                    "type": "Organization"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "AI",
+                    "probability": 0.7313,
+                    "start": 72,
+                    "type": "Organization"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "e ",
+                    "probability": 0.7461,
+                    "start": 165,
+                    "type": "Organization"
+                },
+                {
+                    "end": 251,
+                    "normalized_text": "\n#",
+                    "probability": 0.4941,
+                    "start": 250,
+                    "type": "Organization"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": " #Maer",
+                    "probability": 0.3608,
+                    "start": 270,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 254,
+                    "start": 251,
+                    "tag": "AI"
+                },
+                {
+                    "end": 270,
+                    "start": 255,
+                    "tag": "Transportation"
+                },
+                {
+                    "end": 278,
+                    "start": 271,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/e47gFv-7",
+                    "end": 249,
+                    "expanded_url": "https://lnkd.in/e47gFv-7",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://www.cnbc.com/2023/06/19/supply-chains-how-ai-could-remove-all-human-touchpoints.html",
+                    "url": "https://t.co/BRZHmGHLiq"
+                },
+                {
+                    "display_url": "pic.twitter.com/gzWFfP78Ew",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1676558728617754624/photo/1",
+                    "media_key": "3_1676558428607578114",
+                    "start": 279,
+                    "url": "https://t.co/gzWFfP78Ew"
+                }
+            ]
+        },
+        "id": "1676558728617754624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2497,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "\ud83d\udce2Artificial intelligence revolutionizes transportation. Maersk utilizes AI to enhance reliability, optimize routes, and track shipments.\ud83d\udc69\u200d\ud83d\udcbb Read more about how we use AI and the future it holds in this recent article on CNBC\ud83d\udc49 https://t.co/BRZHmGHLiq \n#AI #Transportation #Maersk https://t.co/gzWFfP78Ew"
+    }
+}

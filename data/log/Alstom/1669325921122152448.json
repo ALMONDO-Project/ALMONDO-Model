@@ -1,0 +1,94 @@
+{
+    "1669325921122152448": {
+        "attachments": {
+            "media_keys": [
+                "7_1669325849668075521"
+            ]
+        },
+        "author_id": "258725128",
+        "created_at": "2023-06-15T12:48:08.000Z",
+        "edit_history_tweet_ids": [
+            "1669325921122152448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Julia Schwartz",
+                    "probability": 0.8167,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "TeamAlstom",
+                    "probability": 0.5966,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Alstom",
+                    "probability": 0.6266,
+                    "start": 74,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 16,
+                    "tag": "TeamAlstom"
+                },
+                {
+                    "end": 70,
+                    "start": 59,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 287,
+                    "start": 278,
+                    "tag": "VivaTech"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 126,
+                    "id": "4502885068",
+                    "start": 117,
+                    "username": "VivaTech"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/Jhvg50OPgRN",
+                    "end": 277,
+                    "expanded_url": "https://ow.ly/Jhvg50OPgRN",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.alstom.com/alstom-viva-technology-2023?utm_source=organic_social&utm_medium=twitter&utm_content=b32e7e70-0196-4152-97d7-fd789c859770&utm_campaign=VivaTech",
+                    "url": "https://t.co/TijOtg4ljr"
+                },
+                {
+                    "display_url": "pic.twitter.com/eiKfFzSHht",
+                    "end": 311,
+                    "expanded_url": "https://twitter.com/Alstom/status/1669325921122152448/video/1",
+                    "media_key": "7_1669325849668075521",
+                    "start": 288,
+                    "url": "https://t.co/eiKfFzSHht"
+                }
+            ]
+        },
+        "id": "1669325921122152448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1468,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Julia Schwartz, #TeamAlstom colleague, speaking about open #innovation at Alstom &amp; our collaborative approach at @VivaTech. We promote open innovation, partnering with universities, research centres &amp; startups to strengthen our innovation scope. https://t.co/TijOtg4ljr #VivaTech https://t.co/eiKfFzSHht"
+    }
+}

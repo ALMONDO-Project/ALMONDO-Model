@@ -1,0 +1,79 @@
+{
+    "1661685229331918848": {
+        "attachments": {
+            "media_keys": [
+                "3_1661685145793970177"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-05-25T10:46:45.000Z",
+        "edit_history_tweet_ids": [
+            "1661685229331918848"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 220,
+                    "normalized_text": "Triple",
+                    "probability": 0.4497,
+                    "start": 215,
+                    "type": "Other"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "Maersk",
+                    "probability": 0.5235,
+                    "start": 272,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 30,
+                    "tag": "shippingcontainer"
+                },
+                {
+                    "end": 142,
+                    "start": 132,
+                    "tag": "customers"
+                },
+                {
+                    "end": 278,
+                    "start": 271,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/eS4mMjeC",
+                    "end": 270,
+                    "expanded_url": "https://lnkd.in/eS4mMjeC",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.maersk.com/about/our-history",
+                    "url": "https://t.co/86ueI1DoPC"
+                },
+                {
+                    "display_url": "pic.twitter.com/ou7s16l3oR",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Maersk/status/1661685229331918848/photo/1",
+                    "media_key": "3_1661685145793970177",
+                    "start": 279,
+                    "url": "https://t.co/ou7s16l3oR"
+                }
+            ]
+        },
+        "id": "1661685229331918848",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 11006,
+            "like_count": 181,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 42
+        },
+        "text": "Since the introduction of the #shippingcontainer in 1956, we have worked to innovate, optimize and improve them to better serve our #customers. This has led to 3 world record breaking container series: The K, E and Triple E Series\ud83c\udf0a\u00a0\n\ud83d\udc49\ud83c\udffcLearn more:\u00a0https://t.co/86ueI1DoPC\n#Maersk https://t.co/ou7s16l3oR"
+    }
+}

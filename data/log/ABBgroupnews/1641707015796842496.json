@@ -1,0 +1,83 @@
+{
+    "1641707015796842496": {
+        "attachments": {
+            "poll_ids": [
+                "1641707015016775681"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-03-31T07:40:28.000Z",
+        "edit_history_tweet_ids": [
+            "1641707015796842496"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.5825,
+                    "start": 42,
+                    "type": "Other"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Stoffel Vandoorne",
+                    "probability": 0.474,
+                    "start": 69,
+                    "type": "Person"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "ElectricVehicles",
+                    "probability": 0.5902,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 53,
+                    "start": 41,
+                    "tag": "ABBFormulaE"
+                },
+                {
+                    "end": 112,
+                    "start": 102,
+                    "tag": "emobility"
+                },
+                {
+                    "end": 203,
+                    "start": 191,
+                    "tag": "motorsports"
+                },
+                {
+                    "end": 221,
+                    "start": 204,
+                    "tag": "ElectricVehicles"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/decoded-podcas\u2026",
+                    "end": 190,
+                    "expanded_url": "https://social.abb/decoded-podcast-platform",
+                    "start": 167,
+                    "status": 200,
+                    "unwound_url": "https://global.abb/group/en/media/podcasts/abb-decoded?_ga=2.133469134.1912055705.1618210361-39147843.1606897664",
+                    "url": "https://t.co/9rJWPJiqEa"
+                }
+            ]
+        },
+        "id": "1641707015796842496",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7716,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Podcast \ud83c\udfa7 - Have you listened to current #ABBFormulaE World Champion Stoffel Vandoorne talk about the #emobility technology transfer from the race track to the road? \ud83d\udc47https://t.co/9rJWPJiqEa\n#motorsports #ElectricVehicles"
+    }
+}

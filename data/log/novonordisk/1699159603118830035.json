@@ -1,0 +1,71 @@
+{
+    "1699159603118830035": {
+        "author_id": "194037150",
+        "created_at": "2023-09-05T20:36:32.000Z",
+        "edit_history_tweet_ids": [
+            "1699159603118830035"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Aftab",
+                    "probability": 0.4044,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5804,
+                    "start": 186,
+                    "type": "Organization"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "Asif",
+                    "probability": 0.6213,
+                    "start": 250,
+                    "type": "Organization"
+                },
+                {
+                    "end": 267,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6637,
+                    "start": 256,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "145679872",
+                    "start": 0,
+                    "username": "aftabkhan13"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.pk",
+                    "end": 235,
+                    "expanded_url": "https://www.novonordisk.pk/",
+                    "start": 212,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.pk/",
+                    "url": "https://t.co/1JE5sWry1E"
+                }
+            ]
+        },
+        "id": "1699159603118830035",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 55,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@aftabkhan13 Hi Aftab, we are sorry to hear that you are not able to access the medicine you need. For questions about local availability of our products, please reach out to your local Novo Nordisk office here:\u00a0https://t.co/1JE5sWry1E\nAll the best,\nAsif, Novo Nordisk"
+    }
+}

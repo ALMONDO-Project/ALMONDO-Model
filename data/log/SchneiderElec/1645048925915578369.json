@@ -1,0 +1,75 @@
+{
+    "1645048925915578369": {
+        "attachments": {
+            "media_keys": [
+                "3_1645048922849656832"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-09T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1645048925915578369"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 271,
+                    "normalized_text": "HM23",
+                    "probability": 0.6006,
+                    "start": 268,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 266,
+                    "start": 244,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 272,
+                    "start": 267,
+                    "tag": "HM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 177,
+                    "id": "23083866",
+                    "start": 162,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014OH2QQ",
+                    "end": 243,
+                    "expanded_url": "http://spr.ly/6014OH2QQ",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/insights/next-generation-automation/industrial-sustainability/moving-sustainability-forward-in-manufacturing.jsp?stream=industrial-sustainability&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9246603137&utm_campaign=Industry_of_the_Future&country=Global",
+                    "url": "https://t.co/Udgw3dyMVs"
+                },
+                {
+                    "display_url": "pic.twitter.com/xQyAcTXw8Y",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1645048925915578369/photo/1",
+                    "media_key": "3_1645048922849656832",
+                    "start": 273,
+                    "url": "https://t.co/xQyAcTXw8Y"
+                }
+            ]
+        },
+        "id": "1645048925915578369",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1878,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Sustainability efforts in manufacturing have been spearheaded by digital innovations. See how key experts are exploring digitization across business functions at @hannover_messe and read more in our new infographic here https://t.co/Udgw3dyMVs #IndustriesOfTheFuture #HM23 https://t.co/xQyAcTXw8Y"
+    }
+}

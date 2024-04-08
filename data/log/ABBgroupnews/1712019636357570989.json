@@ -1,0 +1,88 @@
+{
+    "1712019636357570989": {
+        "attachments": {
+            "media_keys": [
+                "3_1712018257937350656"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-10-11T08:17:43.000Z",
+        "edit_history_tweet_ids": [
+            "1712019636357570989"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "ABB",
+                    "probability": 0.5573,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9726,
+                    "start": 66,
+                    "type": "Place"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "GW",
+                    "probability": 0.528,
+                    "start": 81,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 48,
+                    "tag": "hydrogen"
+                },
+                {
+                    "end": 254,
+                    "start": 239,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 266,
+                    "start": 255,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "ABB will provide electrical engineering support for the H2 Energy Esbjerg hydrogen production facility in Denmark The 1 GW plant will produce 90,000 tons of green hydrogen per year, the equivalent of about 1.9 million barrels of oil per year Output to support decarbonization of heavy industry and road transportation ABB has been contracted by Danish company H2 Energy Esbjerg ApS to provide basic electrical engineering for the power distribution from grid point of connection to electrolyzers, and for other",
+                    "display_url": "social.abb/electrical-exp\u2026",
+                    "end": 238,
+                    "expanded_url": "https://social.abb/electrical-expertise-green-hydrogen-site-denmark",
+                    "start": 215,
+                    "status": 200,
+                    "title": "ABB applies electrical expertise at major green hydrogen site in Denmark",
+                    "unwound_url": "https://new.abb.com/news/detail/108246/abb-applies-electrical-expertise-at-major-green-hydrogen-site-in-denmark",
+                    "url": "https://t.co/Tsvbsy0FxH"
+                },
+                {
+                    "display_url": "pic.twitter.com/iSubwmxJrh",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1712019636357570989/photo/1",
+                    "media_key": "3_1712018257937350656",
+                    "start": 267,
+                    "url": "https://t.co/iSubwmxJrh"
+                }
+            ]
+        },
+        "id": "1712019636357570989",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 6800,
+            "like_count": 34,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 11
+        },
+        "text": "ABB applies electrical expertise at major green #hydrogen site in Denmark. The 1 GW plant will produce 90,000 tons of green hydrogen per year, the equivalent of about 1.9 million barrels of oil per year.\nRead more: https://t.co/Tsvbsy0FxH\n#sustainability #renewables https://t.co/iSubwmxJrh"
+    }
+}

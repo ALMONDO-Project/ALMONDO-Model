@@ -1,0 +1,69 @@
+{
+    "1707670015665746170": {
+        "attachments": {
+            "poll_ids": [
+                "1707670014671671296"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-09-29T08:13:53.000Z",
+        "edit_history_tweet_ids": [
+            "1707670015665746170"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 237,
+                    "normalized_text": "Maersk",
+                    "probability": 0.3375,
+                    "start": 232,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 238,
+                    "start": 231,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 248,
+                    "start": 239,
+                    "tag": "FoodLoss"
+                },
+                {
+                    "end": 261,
+                    "start": 249,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 267,
+                    "start": 262,
+                    "tag": "Poll"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/emMQ4Yyq",
+                    "end": 101,
+                    "expanded_url": "https://lnkd.in/emMQ4Yyq",
+                    "start": 78,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/emMQ4Yyq",
+                    "url": "https://t.co/PHaOOsJrCn"
+                }
+            ]
+        },
+        "id": "1707670015665746170",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3142,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Today we mark International Day of Awareness of Food Loss and Waste\ud83c\udf0d\n\n\ud83d\udc49\ud83c\udffcGo to https://t.co/PHaOOsJrCn to learn how retailers can reduce food loss.\n\nWhich of the 5 solutions from the article will you implement to reduce food loss?\n\n#Maersk #FoodLoss #SupplyChain #Poll"
+    }
+}

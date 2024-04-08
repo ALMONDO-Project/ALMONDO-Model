@@ -1,0 +1,53 @@
+{
+    "1622624968667279360": {
+        "attachments": {
+            "media_keys": [
+                "7_1622623512413208577"
+            ]
+        },
+        "author_id": "570715775",
+        "created_at": "2023-02-06T15:55:14.000Z",
+        "edit_history_tweet_ids": [
+            "1622624968667279360"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Danone",
+                    "probability": 0.4667,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Shanghai",
+                    "probability": 0.9819,
+                    "start": 99,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/VOPnmX4gjp",
+                    "end": 134,
+                    "expanded_url": "https://twitter.com/Danone/status/1622624968667279360/video/1",
+                    "media_key": "7_1622623512413208577",
+                    "start": 111,
+                    "url": "https://t.co/VOPnmX4gjp"
+                }
+            ]
+        },
+        "id": "1622624968667279360",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 306,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Let's discover the Danone open science research center for life-transforming nutrition, located in Shanghai \ud83c\udde8\ud83c\uddf3 https://t.co/VOPnmX4gjp"
+    }
+}

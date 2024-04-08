@@ -1,0 +1,134 @@
+{
+    "1671490584769445888": {
+        "attachments": {
+            "media_keys": [
+                "3_1671490033008689152"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-06-21T12:09:44.000Z",
+        "edit_history_tweet_ids": [
+            "1671490584769445888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Formula E",
+                    "probability": 0.6295,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "ABB",
+                    "probability": 0.4687,
+                    "start": 47,
+                    "type": "Organization"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "ABB",
+                    "probability": 0.511,
+                    "start": 88,
+                    "type": "Other"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "World",
+                    "probability": 0.4962,
+                    "start": 105,
+                    "type": "Other"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "US",
+                    "probability": 0.9483,
+                    "start": 139,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "Portland",
+                    "probability": 0.7746,
+                    "start": 176,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Oregon",
+                    "probability": 0.9408,
+                    "start": 186,
+                    "type": "Place"
+                },
+                {
+                    "end": 261,
+                    "normalized_text": "ABBFormulaE",
+                    "probability": 0.3008,
+                    "start": 251,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 10,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 50,
+                    "start": 46,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 184,
+                    "start": 175,
+                    "tag": "Portland"
+                },
+                {
+                    "end": 262,
+                    "start": 250,
+                    "tag": "ABBFormulaE"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 104,
+                    "id": "703581570",
+                    "start": 92,
+                    "username": "FIAFormulaE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/formula-e-sust\u2026",
+                    "end": 249,
+                    "expanded_url": "https://social.abb/formula-e-sustainability-showcase-returns-to-USA",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://new.abb.com/news/detail/104428/formula-e-sustainability-showcase-returns-to-abbs-largest-market",
+                    "url": "https://t.co/iUK0XEW8us"
+                },
+                {
+                    "display_url": "pic.twitter.com/CcytKzUHwF",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1671490584769445888/photo/1",
+                    "media_key": "3_1671490033008689152",
+                    "start": 274,
+                    "url": "https://t.co/CcytKzUHwF"
+                }
+            ]
+        },
+        "id": "1671490584769445888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2450,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Formula E #sustainability showcase returns to #ABB\u2019s largest market. \nThis weekend, the ABB @FIAFormulaE World Championship returns to the US, but to the new race location of #Portland, Oregon, for the 12th round of Season 9: https://t.co/iUK0XEW8us\n#ABBFormulaE \n[\ud83d\udcf8: DPPI] https://t.co/CcytKzUHwF"
+    }
+}

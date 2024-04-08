@@ -1,0 +1,119 @@
+{
+    "1709229318923309288": {
+        "attachments": {
+            "media_keys": [
+                "3_1709182553196740608"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-10-03T15:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1709229318923309288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "North America",
+                    "probability": 0.9463,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "Los Angeles International",
+                    "probability": 0.7475,
+                    "start": 110,
+                    "type": "Place"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "LAX",
+                    "probability": 0.5258,
+                    "start": 137,
+                    "type": "Place"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "LAX",
+                    "probability": 0.3462,
+                    "start": 218,
+                    "type": "Place"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "Maersk",
+                    "probability": 0.6841,
+                    "start": 235,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 181,
+                    "start": 170,
+                    "tag": "Airfreight"
+                },
+                {
+                    "end": 194,
+                    "start": 182,
+                    "tag": "SupplyChain"
+                },
+                {
+                    "end": 205,
+                    "start": 195,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 216,
+                    "start": 206,
+                    "tag": "Solutions"
+                },
+                {
+                    "end": 221,
+                    "start": 217,
+                    "tag": "LAX"
+                },
+                {
+                    "end": 233,
+                    "start": 222,
+                    "tag": "LosAngeles"
+                },
+                {
+                    "end": 241,
+                    "start": 234,
+                    "tag": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "maersk.com/news/articles/\u2026",
+                    "end": 168,
+                    "expanded_url": "https://www.maersk.com/news/articles/2023/10/03/maersk-expands-its-global-air-freight-services-with-new-los-angeles-strategic-air-cargo-gateway",
+                    "start": 145,
+                    "unwound_url": "https://www.maersk.com/news/articles/2023/10/03/maersk-expands-its-global-air-freight-services-with-new-los-angeles-strategic-air-cargo-gateway",
+                    "url": "https://t.co/5fK3E58Aee"
+                },
+                {
+                    "display_url": "pic.twitter.com/iqjedlLbf0",
+                    "end": 265,
+                    "expanded_url": "https://twitter.com/Maersk/status/1709229318923309288/photo/1",
+                    "media_key": "3_1709182553196740608",
+                    "start": 242,
+                    "url": "https://t.co/iqjedlLbf0"
+                }
+            ]
+        },
+        "id": "1709229318923309288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3655,
+            "like_count": 51,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 5
+        },
+        "text": "We have expanded our global air freight services in North America with a new strategic air cargo gateway near Los Angeles International (LAX)\u2708\ud83d\udc49\ud83c\udffd https://t.co/5fK3E58Aee\n\n#Airfreight #SupplyChain #Logistics #Solutions #LAX #LosAngeles #Maersk https://t.co/iqjedlLbf0"
+    }
+}

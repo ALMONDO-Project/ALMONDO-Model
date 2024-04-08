@@ -1,0 +1,92 @@
+{
+    "1620324240313442306": {
+        "attachments": {
+            "media_keys": [
+                "13_1620322386183585793"
+            ]
+        },
+        "author_id": "51801586",
+        "created_at": "2023-01-31T07:32:57.000Z",
+        "edit_history_tweet_ids": [
+            "1620324240313442306"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "5G",
+                    "probability": 0.4537,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "ABB",
+                    "probability": 0.7141,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "OPPO",
+                    "probability": 0.5736,
+                    "start": 148,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 61,
+                    "start": 57,
+                    "tag": "ABB"
+                },
+                {
+                    "end": 144,
+                    "start": 129,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 247,
+                    "start": 244,
+                    "tag": "5G"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 33,
+                    "id": "960653964",
+                    "start": 28,
+                    "username": "oppo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "social.abb/ability-oppo-5G",
+                    "end": 274,
+                    "expanded_url": "https://social.abb/ability-oppo-5G",
+                    "start": 251,
+                    "url": "https://t.co/WwRbCH0FPF"
+                },
+                {
+                    "display_url": "pic.twitter.com/81K5iz5cXD",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/ABBgroupnews/status/1620324240313442306/video/1",
+                    "media_key": "13_1620322386183585793",
+                    "start": 275,
+                    "url": "https://t.co/81K5iz5cXD"
+                }
+            ]
+        },
+        "id": "1620324240313442306",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1817,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Smart energy management for @oppo's 5G future!\nLearn how #ABB digital solutions deliver reliable uptime, improved efficiency and #sustainability to OPPO, one of the world\u2019s largest manufacturers of mobile devices and a growing global player in #5G.\n\ud83d\udc49 https://t.co/WwRbCH0FPF https://t.co/81K5iz5cXD"
+    }
+}

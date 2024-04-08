@@ -1,0 +1,102 @@
+{
+    "1736735128213504393": {
+        "attachments": {
+            "media_keys": [
+                "7_1736734623630311424"
+            ]
+        },
+        "author_id": "380801406",
+        "created_at": "2023-12-18T13:08:16.000Z",
+        "edit_history_tweet_ids": [
+            "1736735128213504393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "LCL",
+                    "probability": 0.4414,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Maersk",
+                    "probability": 0.4413,
+                    "start": 119,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "\n#Maer",
+                    "probability": 0.3949,
+                    "start": 169,
+                    "type": "Other"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": " #L",
+                    "probability": 0.5232,
+                    "start": 177,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 177,
+                    "start": 170,
+                    "tag": "Maersk"
+                },
+                {
+                    "end": 182,
+                    "start": 178,
+                    "tag": "LCL"
+                },
+                {
+                    "end": 191,
+                    "start": 183,
+                    "tag": "Digital"
+                },
+                {
+                    "end": 202,
+                    "start": 192,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 213,
+                    "start": 203,
+                    "tag": "AllTheWay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/47bSqbm",
+                    "end": 167,
+                    "expanded_url": "https://bit.ly/47bSqbm",
+                    "start": 144,
+                    "unwound_url": "https://www.maersk.com/transportation-services/lcl/services?utm_campaign=GLOBAL_MCO_PROD_EN_DIGITAL-LCL-H2_1766168922165&utm_source=twitter&utm_medium=direct_awareness&utm_content=Phase2Drop4",
+                    "url": "https://t.co/HsBRMjQxoY"
+                },
+                {
+                    "display_url": "pic.twitter.com/mrFqTkw54n",
+                    "end": 237,
+                    "expanded_url": "https://twitter.com/Maersk/status/1736735128213504393/video/1",
+                    "media_key": "7_1736734623630311424",
+                    "start": 214,
+                    "url": "https://t.co/mrFqTkw54n"
+                }
+            ]
+        },
+        "id": "1736735128213504393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3984,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Get transparency in speed and costs along with end-to-end tracking of your shipment when you book your LCL online with Maersk. \u200b  \n\nKnow more : https://t.co/HsBRMjQxoY \n\n#Maersk #LCL #Digital #Logistics #AllTheWay https://t.co/mrFqTkw54n"
+    }
+}
