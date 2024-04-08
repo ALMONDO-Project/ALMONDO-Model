@@ -44,7 +44,7 @@ def save_dataset(dataset, output_file, file_format='json'):
 # Main function
 if __name__ == "__main__":
     path = 'data/log/'  # Your path here
-    output_file = 'filtered_tweets.json'  # Output file name
+    output_file = 'data/out/filtered_tweets.json'  # Output file name
     tweets = traverse_folders(path)
     save_dataset(tweets, output_file, file_format='json')
     print('Dataset saved')
