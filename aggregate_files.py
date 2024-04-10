@@ -11,6 +11,7 @@ def process_json_file(file_path, folder_name):
             print(f"Error reading file: {file_path}")
             return []
         
+        c=0
         valid_tweets = []
         for tweet_id, tweet_data in data.items():
             if 'created_at' in tweet_data:
@@ -18,6 +19,12 @@ def process_json_file(file_path, folder_name):
                 if '2023-01-01' <= created_at[:10] <= '2023-12-31':
                     tweet_data['username'] = folder_name
                     valid_tweets.append(tweet_data)
+            else:
+                c+=1
+                username = tweet_data['username']
+                print(f'for {username} we have invalid tweets')
+                
+        print(f'total invalid tweets: {c}')
         return valid_tweets
 
 def traverse_folders(path):
@@ -44,7 +51,7 @@ def save_dataset(dataset, output_file, file_format='json'):
 # Main function
 if __name__ == "__main__":
     path = 'data/log/'  # Your path here
-    output_file = 'data/out/filtered_tweets.json'  # Output file name
+    output_file = 'data/out/filtered_tweets_2.json'  # Output file name
     tweets = traverse_folders(path)
     save_dataset(tweets, output_file, file_format='json')
     print('Dataset saved')
