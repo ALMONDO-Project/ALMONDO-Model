@@ -21,13 +21,15 @@ def main():
     usernames = users_data['to_do']
     for username in usernames:
         maxt = compute_max_tweets(BEARER_TOKEN)
-        count = min(2500, maxt)    
+        count = min(2500, maxt)   
+        print('tweets left:', count) 
         try:
             while count > 0:
                 user_data = UserDataDownload(username=username)
                 user_data.set_limits(max_tweets_per_session=count)
                 user_data.download_user_tweets()
                 count = min(2500, compute_max_tweets(BEARER_TOKEN))  
+                print('now tweets left:', count)
         except ValueError as e:
             users_data = users_update(users_data, username, DATA)
             print(e)

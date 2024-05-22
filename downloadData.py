@@ -11,9 +11,6 @@ import glob
 from datetime import datetime
 from utils import *
 
-class TweetAlreadyDumpedException():
-    pass
-
 #class definition
 
 BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
@@ -74,7 +71,7 @@ class UserDataDownload():
             with open(f'{self.userlogpath}/{tweet.id}.json', 'w') as file:
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
         else:
-            raise TweetAlreadyDumpedException
+            raise ValueError('tweet already dumped')
         
     def set_limits(self, max_tweets_per_session, max_tweets_per_call=100, max_num_calls=None):
         self.max_tweets_per_session = max_tweets_per_session
@@ -159,13 +156,15 @@ class UserDataDownload():
     
     def get_tweets(self, page):
         if len(page.data) > 0:
-            for tweet in page.data: 
+            print('getting page tweets')
+            for tweet in tqdm.tqdm(page.data): 
                 tweet_data = {tweet.data['id']: tweet.data}
                 self.dump_tweets(tweet, tweet_data) 
         else:
             raise ValueError("No more tweets to download")
     
     def configureSession(self):
+        print('configuring session')
         self.set_client()
         self.set_user_data()
         self.make_dirs()
@@ -178,6 +177,7 @@ class UserDataDownload():
             oldest_id = page.meta['oldest_id']
             with open(f'{self.userlogpath}/page_meta_{newest_id}_{oldest_id}.json', 'w') as file:
                 json.dump(page.meta, file)
+                print('page data saved in json')
             try:
                 page.meta['next_token']
             except KeyError:
@@ -188,7 +188,9 @@ class UserDataDownload():
         
     def download_user_tweets(self):
         paginator = self.configureSession()
-        for page in paginator:
+        print(paginator)
+        print('downloading user tweets')
+        for page in tqdm.tqdm(paginator):
             self.save_page(page)
             self.get_tweets(page)    
             time.sleep(2 * 60)
