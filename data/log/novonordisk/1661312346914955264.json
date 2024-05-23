@@ -1,0 +1,38 @@
+{
+    "1661312346914955264": {
+        "author_id": "194037150",
+        "created_at": "2023-05-24T10:05:03.000Z",
+        "edit_history_tweet_ids": [
+            "1661312346914955264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5954,
+                    "start": 7,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "PRESS"
+                }
+            ]
+        },
+        "id": "1661312346914955264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6132,
+            "like_count": 31,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "#PRESS Novo Nordisk and Life Edit Therapeutics establish multi-target collaboration to discover and develop gene editing therapies for rare and cardiometabolic diseases"
+    }
+}

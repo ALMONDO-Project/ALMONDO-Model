@@ -1,0 +1,106 @@
+{
+    "1464185408678293509": {
+        "attachments": {
+            "media_keys": [
+                "3_1464185163827580931",
+                "3_1464185226117230596",
+                "3_1464185245251604484",
+                "3_1464185272405532672"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-11-26T10:52:59.000Z",
+        "edit_history_tweet_ids": [
+            "1464185408678293509"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "ElectricCity2021",
+                    "probability": 0.775,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Europe",
+                    "probability": 0.965,
+                    "start": 165,
+                    "type": "Place"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4707,
+                    "start": 225,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 0,
+                    "tag": "ElectricCity2021"
+                },
+                {
+                    "end": 231,
+                    "start": 224,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/0v3pg5d",
+                    "end": 269,
+                    "expanded_url": "https://fcld.ly/0v3pg5d",
+                    "start": 246,
+                    "url": "https://t.co/sSiXD2sjom"
+                },
+                {
+                    "display_url": "pic.twitter.com/N7TtOUZ17A",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Vestas/status/1464185408678293509/photo/1",
+                    "media_key": "3_1464185163827580931",
+                    "start": 270,
+                    "url": "https://t.co/N7TtOUZ17A"
+                },
+                {
+                    "display_url": "pic.twitter.com/N7TtOUZ17A",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Vestas/status/1464185408678293509/photo/1",
+                    "media_key": "3_1464185226117230596",
+                    "start": 270,
+                    "url": "https://t.co/N7TtOUZ17A"
+                },
+                {
+                    "display_url": "pic.twitter.com/N7TtOUZ17A",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Vestas/status/1464185408678293509/photo/1",
+                    "media_key": "3_1464185245251604484",
+                    "start": 270,
+                    "url": "https://t.co/N7TtOUZ17A"
+                },
+                {
+                    "display_url": "pic.twitter.com/N7TtOUZ17A",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Vestas/status/1464185408678293509/photo/1",
+                    "media_key": "3_1464185272405532672",
+                    "start": 270,
+                    "url": "https://t.co/N7TtOUZ17A"
+                }
+            ]
+        },
+        "id": "1464185408678293509",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "#ElectricCity2021 has been an incredible opportunity to meet different stakeholders and present some of our best-in-class sustainable energy solutions to accelerate Europe's electrification journey.\nCheck a full overview of #Vestas activities \u27a1\ufe0f https://t.co/sSiXD2sjom https://t.co/N7TtOUZ17A"
+    }
+}

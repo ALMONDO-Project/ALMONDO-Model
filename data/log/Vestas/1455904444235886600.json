@@ -1,0 +1,67 @@
+{
+    "1455904444235886600": {
+        "author_id": "156646851",
+        "created_at": "2021-11-03T14:27:23.000Z",
+        "edit_history_tweet_ids": [
+            "1455904444235886600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5706,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 92,
+                    "start": 85,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "1030038525650132993",
+                    "start": 50,
+                    "username": "SeagreenWind"
+                },
+                {
+                    "end": 157,
+                    "id": "82981866",
+                    "start": 143,
+                    "username": "sserenewables"
+                },
+                {
+                    "end": 176,
+                    "id": "79962986",
+                    "start": 162,
+                    "username": "TotalEnergies"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/sserenewables/\u2026",
+                    "end": 234,
+                    "expanded_url": "https://twitter.com/sserenewables/status/1455854923212591107",
+                    "start": 211,
+                    "url": "https://t.co/zznlzlp0ad"
+                }
+            ]
+        },
+        "id": "1455904444235886600",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Pre-assembly of our V164-10.0 MW turbines for the @SeagreenWind project is underway! #Vestas is committed to delivering the project along with @sserenewables and @TotalEnergies safely and on schedule by 2023 \u2935\ufe0f https://t.co/zznlzlp0ad"
+    }
+}

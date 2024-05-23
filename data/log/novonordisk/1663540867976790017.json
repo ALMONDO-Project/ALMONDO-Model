@@ -1,0 +1,97 @@
+{
+    "1663540867976790017": {
+        "author_id": "194037150",
+        "created_at": "2023-05-30T13:40:24.000Z",
+        "edit_history_tweet_ids": [
+            "1663540867976790017"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Ian",
+                    "probability": 0.6373,
+                    "start": 46,
+                    "type": "Person"
+                },
+                {
+                    "end": 271,
+                    "normalized_text": "Scott",
+                    "probability": 0.5579,
+                    "start": 267,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "345275528",
+                    "start": 0,
+                    "username": "xskinn"
+                },
+                {
+                    "end": 18,
+                    "id": "1378096248486387714",
+                    "start": 8,
+                    "username": "erfbeeass"
+                },
+                {
+                    "end": 34,
+                    "id": "220883243",
+                    "start": 19,
+                    "username": "Mark_Butler_MP"
+                },
+                {
+                    "end": 42,
+                    "id": "254515782",
+                    "start": 35,
+                    "username": "AlboMP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.com.au/contact-us.html",
+                    "end": 236,
+                    "expanded_url": "https://www.novonordisk.com.au/contact-us.html",
+                    "images": [
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1711656525591158784/PCpt8bqk?format=png&name=orig",
+                            "width": 96
+                        },
+                        {
+                            "height": 68,
+                            "url": "https://pbs.twimg.com/news_img/1711656525591158784/PCpt8bqk?format=png&name=150x150",
+                            "width": 68
+                        }
+                    ],
+                    "start": 213,
+                    "status": 200,
+                    "title": "Contact us",
+                    "unwound_url": "https://www.novonordisk.com.au/contact-us.html",
+                    "url": "https://t.co/AZGMXNNk6l"
+                },
+                {
+                    "display_url": "twitter.com/messages/compo\u2026",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "start": 273,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "url": "https://t.co/tGbtaZcGHI"
+                }
+            ]
+        },
+        "id": "1663540867976790017",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 215,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@xskinn @erfbeeass @Mark_Butler_MP @AlboMP Hi Ian,\n\nDue to global privacy and legal regulations, we are not allowed to discuss our products on social media. We recommend that you contact our Australian affiliate:\u00a0https://t.co/AZGMXNNk6l\n\nI hope this helps.\n\nRegards,\nScott\nhttps://t.co/tGbtaZcGHI"
+    }
+}

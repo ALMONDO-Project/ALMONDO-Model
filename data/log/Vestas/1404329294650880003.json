@@ -1,0 +1,45 @@
+{
+    "1404329294650880003": {
+        "author_id": "156646851",
+        "created_at": "2021-06-14T06:46:09.000Z",
+        "edit_history_tweet_ids": [
+            "1404329294650880003"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Agios Georgios",
+                    "probability": 0.4613,
+                    "start": 33,
+                    "type": "Person"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "GlobalWindDay",
+                    "probability": 0.5088,
+                    "start": 136,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 149,
+                    "start": 135,
+                    "tag": "GlobalWindDay"
+                }
+            ]
+        },
+        "id": "1404329294650880003",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\uddec\ud83c\uddf7 With almost 60% of the votes, Agios Georgios wind farm makes it to the grand final!\ud83d\ude4c\n\n\ud83c\udde7\ud83c\uddf7\ud83c\uddee\ud83c\uddf3 Are you ready for the second semifinal?\n\n#GlobalWindDay"
+    }
+}

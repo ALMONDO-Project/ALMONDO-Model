@@ -1,0 +1,51 @@
+{
+    "1716833791854141452": {
+        "author_id": "23045838",
+        "created_at": "2023-10-24T15:07:27.000Z",
+        "edit_history_tweet_ids": [
+            "1716833791854141452"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Limberg III",
+                    "probability": 0.6567,
+                    "start": 56,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 63,
+                    "start": 55,
+                    "tag": "Limberg"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Im VERBUND-Projekt Limberg 3 wird ein zus\u00e4tzliches unterirdisches Pumpspeicherkraftwerk in der Gemeinde Kaprun in Salzburg errichtet.",
+                    "display_url": "to.verbund.com/3LlNC8t",
+                    "end": 145,
+                    "expanded_url": "https://to.verbund.com/3LlNC8t",
+                    "start": 122,
+                    "status": 200,
+                    "title": "Limberg 3",
+                    "unwound_url": "https://www.verbund.com/de-at/ueber-verbund/kraftwerke/unsere-kraftwerke/kaprun-oberstufe-limberg-3",
+                    "url": "https://t.co/TcMoBWqhRK"
+                }
+            ]
+        },
+        "id": "1716833791854141452",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Find out more about how our pumped storage power plant #Limberg III contributes to the success of the energy transition \ud83d\udc49 https://t.co/TcMoBWqhRK"
+    }
+}

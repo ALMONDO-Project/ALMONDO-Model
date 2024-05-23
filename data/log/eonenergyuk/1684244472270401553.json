@@ -1,0 +1,67 @@
+{
+    "1684244472270401553": {
+        "attachments": {
+            "media_keys": [
+                "13_1684242286811525133"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-07-26T16:49:08.000Z",
+        "edit_history_tweet_ids": [
+            "1684244472270401553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Sweden",
+                    "probability": 0.9894,
+                    "start": 41,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Extreme E",
+                    "probability": 0.4575,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 27,
+                    "id": "1161568956680941568",
+                    "start": 13,
+                    "username": "Veloce_Racing"
+                },
+                {
+                    "end": 107,
+                    "id": "257957699",
+                    "start": 93,
+                    "username": "kevinhansen71"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/uy5OwOM0vQ",
+                    "end": 189,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1684244472270401553/video/1",
+                    "media_key": "13_1684242286811525133",
+                    "start": 166,
+                    "url": "https://t.co/uy5OwOM0vQ"
+                }
+            ]
+        },
+        "id": "1684244472270401553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1500,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Our partners @Veloce_Racing travelled to Sweden to visit the home of their Extreme E driver, @kevinhansen71 to find out why he made the switch to electric racing \ud83d\ude97\ud83d\udd0c\u26a1 https://t.co/uy5OwOM0vQ"
+    }
+}

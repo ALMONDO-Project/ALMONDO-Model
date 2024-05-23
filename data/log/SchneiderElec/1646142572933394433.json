@@ -1,0 +1,74 @@
+{
+    "1646142572933394433": {
+        "attachments": {
+            "media_keys": [
+                "13_1646142354582020096"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-12T13:25:47.000Z",
+        "edit_history_tweet_ids": [
+            "1646142572933394433"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "ParisMarathon",
+                    "probability": 0.8789,
+                    "start": 10,
+                    "type": "Place"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "SEGreenRunners",
+                    "probability": 0.4649,
+                    "start": 45,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 23,
+                    "start": 9,
+                    "tag": "ParisMarathon"
+                },
+                {
+                    "end": 59,
+                    "start": 44,
+                    "tag": "SEGreenRunners"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6010Oz8t6",
+                    "end": 184,
+                    "expanded_url": "http://spr.ly/6010Oz8t6",
+                    "start": 161,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/segreenrunners/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9509645069&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/utQwABqvFR"
+                },
+                {
+                    "display_url": "pic.twitter.com/TrojBAhRwg",
+                    "end": 208,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1646142572933394433/video/1",
+                    "media_key": "13_1646142354582020096",
+                    "start": 185,
+                    "url": "https://t.co/TrojBAhRwg"
+                }
+            ]
+        },
+        "id": "1646142572933394433",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1439,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "The 2023 #ParisMarathon is history. But the #SEGreenRunners community continues to inspire as we accelerate the race toward a more sustainable future. Join now! https://t.co/utQwABqvFR https://t.co/TrojBAhRwg"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1643551599535562754": {
+        "attachments": {
+            "media_keys": [
+                "13_1643551552609583104"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-05T09:50:11.000Z",
+        "edit_history_tweet_ids": [
+            "1643551599535562754"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 1,
+                    "normalized_text": "AI",
+                    "probability": 0.9372,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "AI",
+                    "probability": 0.6959,
+                    "start": 170,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 156,
+                    "start": 134,
+                    "tag": "DigitalTransformation"
+                },
+                {
+                    "end": 168,
+                    "start": 157,
+                    "tag": "Innovation"
+                },
+                {
+                    "end": 172,
+                    "start": 169,
+                    "tag": "AI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6011O1Sz3",
+                    "end": 133,
+                    "expanded_url": "http://spr.ly/6011O1Sz3",
+                    "start": 110,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/digital-transformation/artificial-intelligence/2023/03/27/unlocking-the-roi-of-ai-strategies-for-successful-ai-implementation/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9383773838&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/2xS11bJU3G"
+                },
+                {
+                    "display_url": "pic.twitter.com/cBdFFzlhXT",
+                    "end": 196,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1643551599535562754/video/1",
+                    "media_key": "13_1643551552609583104",
+                    "start": 173,
+                    "url": "https://t.co/cBdFFzlhXT"
+                }
+            ]
+        },
+        "id": "1643551599535562754",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1603,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "AI can be a great accelerator, but still not deliver value to your business. \n\ud83d\udcd6 Read this blog to avoid that: https://t.co/2xS11bJU3G\n#DigitalTransformation #Innovation #AI https://t.co/cBdFFzlhXT"
+    }
+}

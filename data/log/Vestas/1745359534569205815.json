@@ -1,0 +1,78 @@
+{
+    "1745359534569205815": {
+        "attachments": {
+            "media_keys": [
+                "3_1745359326263328768"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2024-01-11T08:18:34.000Z",
+        "edit_history_tweet_ids": [
+            "1745359534569205815"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "Poland",
+                    "probability": 0.9422,
+                    "start": 60,
+                    "type": "Place"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Szczecin",
+                    "probability": 0.9027,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "Poland",
+                    "probability": 0.9619,
+                    "start": 123,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 21,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This link will take you to a page that\u2019s not on LinkedIn",
+                    "display_url": "lnkd.in/dbqeGRdJ",
+                    "end": 240,
+                    "expanded_url": "https://lnkd.in/dbqeGRdJ",
+                    "start": 217,
+                    "status": 200,
+                    "title": "LinkedIn",
+                    "unwound_url": "https://lnkd.in/dbqeGRdJ",
+                    "url": "https://t.co/A8PrK8bzoM"
+                },
+                {
+                    "display_url": "pic.twitter.com/5IXRpmZgRV",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/Vestas/status/1745359534569205815/photo/1",
+                    "media_key": "3_1745359326263328768",
+                    "start": 241,
+                    "url": "https://t.co/5IXRpmZgRV"
+                }
+            ]
+        },
+        "id": "1745359534569205815",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 10021,
+            "like_count": 75,
+            "quote_count": 8,
+            "reply_count": 3,
+            "retweet_count": 16
+        },
+        "text": "\ud83c\udf0e / \ud83c\uddf5\ud83c\uddf1: Advancing on #offshorewind with a second factory in Poland.\u00a0 We plan to establish a new blade factory in Szczecin, Poland to produce blades for\u00a0our flagship offshore wind turbine, the V236-15.0 MW.\nRead more: https://t.co/A8PrK8bzoM https://t.co/5IXRpmZgRV"
+    }
+}

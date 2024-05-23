@@ -1,0 +1,88 @@
+{
+    "1443490817549680641": {
+        "attachments": {
+            "media_keys": [
+                "3_1443490815637082112"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-30T08:20:04.000Z",
+        "edit_history_tweet_ids": [
+            "1443490817549680641"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5416,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "Pattern Energy Group",
+                    "probability": 0.5964,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Wind",
+                    "probability": 0.5846,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Alberta",
+                    "probability": 0.8393,
+                    "start": 116,
+                    "type": "Place"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Canada",
+                    "probability": 0.9593,
+                    "start": 125,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/s48ylno",
+                    "end": 254,
+                    "expanded_url": "https://fcld.ly/s48ylno",
+                    "start": 231,
+                    "url": "https://t.co/uJpGe6aGN7"
+                },
+                {
+                    "display_url": "pic.twitter.com/qoym5qMhQ3",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/Vestas/status/1443490817549680641/photo/1",
+                    "media_key": "3_1443490815637082112",
+                    "start": 255,
+                    "url": "https://t.co/qoym5qMhQ3"
+                }
+            ]
+        },
+        "id": "1443490817549680641",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 30,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 10
+        },
+        "text": "#Vestas has received a 151 MW order from Pattern Energy Group LP (Pattern Energy) to power the Lanfine Wind farm in Alberta, Canada \ud83c\udde8\ud83c\udde6. This order consists of 35 V150-4.2 MW turbines, delivered in 4.3 MW operating mode.\nRead more: https://t.co/uJpGe6aGN7 https://t.co/qoym5qMhQ3"
+    }
+}

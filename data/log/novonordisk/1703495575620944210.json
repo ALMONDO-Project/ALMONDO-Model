@@ -1,0 +1,46 @@
+{
+    "1703495575620944210": {
+        "author_id": "194037150",
+        "created_at": "2023-09-17T19:46:09.000Z",
+        "edit_history_tweet_ids": [
+            "1703495575620944210"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Ulku",
+                    "probability": 0.6021,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 286,
+                    "normalized_text": "Scott",
+                    "probability": 0.5041,
+                    "start": 282,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "84143204",
+                    "start": 0,
+                    "username": "UlkuCeylan"
+                }
+            ]
+        },
+        "id": "1703495575620944210",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 74,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@UlkuCeylan Dear Ulku,\u00a0We are sorry to hear that. As your post contains informationconsidered an adverse event, we must report it to the local health authorities. To put you in contact with relevant colleagues, kindly DM your contact number, email address and country of residence. Scott"
+    }
+}

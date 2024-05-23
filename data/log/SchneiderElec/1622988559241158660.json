@@ -1,0 +1,54 @@
+{
+    "1622988559241158660": {
+        "author_id": "393757140",
+        "created_at": "2023-02-07T16:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1622988559241158660"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "ARCForum",
+                    "probability": 0.3856,
+                    "start": 40,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 39,
+                    "tag": "ARCForum"
+                },
+                {
+                    "end": 122,
+                    "start": 100,
+                    "tag": "DigitalTransformation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60153iACS",
+                    "end": 244,
+                    "expanded_url": "http://spr.ly/60153iACS",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-launches-industrial-digital-transformation-consulting-and-deployment-service-63d107d6056166412f0109d4?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=8840933457&utm_campaign=Industry_of_the_Future&country=Global",
+                    "url": "https://t.co/b7zEDkcZqg"
+                }
+            ]
+        },
+        "id": "1622988559241158660",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 919,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "You don't want to miss the 27th Annual #ARCForum! Join us to learn more about our recently launched #DigitalTransformation Consulting and Deployment Services. If you haven't already, view the press release to learn more. https://t.co/b7zEDkcZqg"
+    }
+}

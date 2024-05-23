@@ -1,0 +1,70 @@
+{
+    "1727955496324223165": {
+        "author_id": "194037150",
+        "created_at": "2023-11-24T07:41:08.000Z",
+        "edit_history_tweet_ids": [
+            "1727955496324223165"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 271,
+                    "normalized_text": "Scott",
+                    "probability": 0.5058,
+                    "start": 267,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "735597468",
+                    "start": 0,
+                    "username": "TheAlanBecker"
+                },
+                {
+                    "end": 27,
+                    "id": "110775353",
+                    "start": 15,
+                    "username": "cvspharmacy"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Have a question? Contact us here.",
+                    "display_url": "novonordisk-us.com/contact-us.html",
+                    "end": 256,
+                    "expanded_url": "https://www.novonordisk-us.com/contact-us.html",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1727955540934856704/ByKZjZHs?format=jpg&name=orig",
+                            "width": 1500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1727955540934856704/ByKZjZHs?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 233,
+                    "status": 200,
+                    "title": "Contact Us | Novo Nordisk U.S.",
+                    "unwound_url": "https://www.novonordisk-us.com/contact-us.html",
+                    "url": "https://t.co/sgPKW8Rptz"
+                }
+            ]
+        },
+        "id": "1727955496324223165",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 64,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TheAlanBecker @cvspharmacy Thank you for reaching out to us. Unfortunately, we are unable to provide specific information about product availability directly via social media.\u00a0You can find our local office contact information here: https://t.co/sgPKW8Rptz. Regards, Scott"
+    }
+}

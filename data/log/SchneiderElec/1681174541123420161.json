@@ -1,0 +1,72 @@
+{
+    "1681174541123420161": {
+        "attachments": {
+            "media_keys": [
+                "13_1681174468083736576"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-18T05:30:19.000Z",
+        "edit_history_tweet_ids": [
+            "1681174541123420161"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 149,
+                    "normalized_text": "Peter Weckesser",
+                    "probability": 0.8962,
+                    "start": 135,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 208,
+                    "tag": "DigitalTransformation"
+                },
+                {
+                    "end": 239,
+                    "start": 231,
+                    "tag": "OpenAPI"
+                },
+                {
+                    "end": 251,
+                    "start": 240,
+                    "tag": "Innovation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014P8l7M",
+                    "end": 206,
+                    "expanded_url": "http://spr.ly/6014P8l7M",
+                    "start": 183,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/digital-transformation/2023/06/16/software-defined-technologies-the-next-step-in-digital-transformation/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10524768695&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/Qhh0rFpcFR"
+                },
+                {
+                    "display_url": "pic.twitter.com/yWfUvaHpKT",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1681174541123420161/video/1",
+                    "media_key": "13_1681174468083736576",
+                    "start": 252,
+                    "url": "https://t.co/yWfUvaHpKT"
+                }
+            ]
+        },
+        "id": "1681174541123420161",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1533,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Open APIs enable seamless integration, collaboration, and innovation, unlocking endless possibilities for businesses. Read the blog by Peter Weckesser, our Chief Digital Officer now: https://t.co/Qhh0rFpcFR\n\n#DigitalTransformation #OpenAPI #Innovation https://t.co/yWfUvaHpKT"
+    }
+}

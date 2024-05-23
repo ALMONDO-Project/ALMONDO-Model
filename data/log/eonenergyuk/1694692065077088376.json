@@ -1,0 +1,52 @@
+{
+    "1694692065077088376": {
+        "author_id": "142611379",
+        "created_at": "2023-08-24T12:44:08.000Z",
+        "edit_history_tweet_ids": [
+            "1694692065077088376"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Gill Baker",
+                    "probability": 0.7608,
+                    "start": 71,
+                    "type": "Person"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Smart Field Connections",
+                    "probability": 0.8516,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Kingswinford",
+                    "probability": 0.6381,
+                    "start": 133,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 68,
+                    "start": 52,
+                    "tag": "EnergySolutions"
+                }
+            ]
+        },
+        "id": "1694692065077088376",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1156,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We're upskilling our colleagues in cleaner, greener #EnergySolutions.\n\nGill Baker, Director of Smart Field Connections, explains how Kingswinford training centre will help drive new jobs and green skills around the country."
+    }
+}

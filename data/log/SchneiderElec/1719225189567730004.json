@@ -1,0 +1,76 @@
+{
+    "1719225189567730004": {
+        "attachments": {
+            "media_keys": [
+                "3_1719225185570623489"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-10-31T05:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1719225189567730004"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "AI",
+                    "probability": 0.7293,
+                    "start": 15,
+                    "type": "Organization"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.9325,
+                    "start": 85,
+                    "type": "Person"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "AI",
+                    "probability": 0.4668,
+                    "start": 113,
+                    "type": "Organization"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "GenAI",
+                    "probability": 0.7511,
+                    "start": 188,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6012uYTLC",
+                    "end": 249,
+                    "expanded_url": "http://spr.ly/l/6012uYTLC",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6012uYTLC",
+                    "url": "https://t.co/lBwAYQywEf"
+                },
+                {
+                    "display_url": "pic.twitter.com/dl6Ke6XuJB",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1719225189567730004/photo/1",
+                    "media_key": "3_1719225185570623489",
+                    "start": 250,
+                    "url": "https://t.co/dl6Ke6XuJB"
+                }
+            ]
+        },
+        "id": "1719225189567730004",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1595,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Has Generative AI truly revolutionized our world overnight, or is it a steady climb? Philippe Rambach, our Chief AI Officer, explores how different AI solutions support sustainability and GenAI\u2019s role in that endeavor. (cont) https://t.co/lBwAYQywEf https://t.co/dl6Ke6XuJB"
+    }
+}

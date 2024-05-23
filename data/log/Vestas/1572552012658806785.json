@@ -1,0 +1,88 @@
+{
+    "1572552012658806785": {
+        "attachments": {
+            "media_keys": [
+                "3_1572552010762788867"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-09-21T11:43:11.000Z",
+        "edit_history_tweet_ids": [
+            "1572552012658806785"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5403,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Polimix Energia",
+                    "probability": 0.604,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9726,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Polimix Energia",
+                    "probability": 0.6117,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9755,
+                    "start": 130,
+                    "type": "Place"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4794,
+                    "start": 159,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/wh5p3zo",
+                    "end": 280,
+                    "expanded_url": "https://fcld.ly/wh5p3zo",
+                    "start": 257,
+                    "url": "https://t.co/6LM7zE3yfd"
+                },
+                {
+                    "display_url": "pic.twitter.com/vLIT8Rq8dd",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Vestas/status/1572552012658806785/photo/1",
+                    "media_key": "3_1572552010762788867",
+                    "start": 281,
+                    "url": "https://t.co/vLIT8Rq8dd"
+                }
+            ]
+        },
+        "id": "1572552012658806785",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 38,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Vestas secures 104 MW order with Polimix Energia in Brazil to power the concrete plants of the Polimix Energia group in northeast Brazil. \nThis underlines how Vestas can support energy-intensive industries to accelerate their energy transition.\nLearn more: https://t.co/6LM7zE3yfd https://t.co/vLIT8Rq8dd"
+    }
+}

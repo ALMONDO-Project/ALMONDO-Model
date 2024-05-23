@@ -1,0 +1,114 @@
+{
+    "1697595168365347108": {
+        "attachments": {
+            "media_keys": [
+                "3_1697595163101589504"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-09-01T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1697595168365347108"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 197,
+                    "normalized_text": "Christoph Zipf",
+                    "probability": 0.9239,
+                    "start": 184,
+                    "type": "Person"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "WindEurope",
+                    "probability": 0.6462,
+                    "start": 228,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 308,
+                    "start": 295,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 320,
+                    "start": 309,
+                    "tag": "windenergy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 3,
+                    "id": "18949452",
+                    "start": 0,
+                    "username": "FT"
+                },
+                {
+                    "end": 18,
+                    "id": "374056868",
+                    "start": 4,
+                    "username": "SiemensGamesa"
+                },
+                {
+                    "end": 30,
+                    "id": "39255883",
+                    "start": 19,
+                    "username": "WindEurope"
+                },
+                {
+                    "end": 45,
+                    "id": "316383161",
+                    "start": 31,
+                    "username": "WoodMackenzie"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Race for bigger turbines has prompted experts to urge growth slowdown and greater standardisation",
+                    "display_url": "brnw.ch/21wCbSL",
+                    "end": 293,
+                    "expanded_url": "https://brnw.ch/21wCbSL",
+                    "images": [
+                        {
+                            "height": 394,
+                            "url": "https://pbs.twimg.com/news_img/1758142240361254912/n0iqZdFm?format=jpg&name=orig",
+                            "width": 700
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1758142240361254912/n0iqZdFm?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 270,
+                    "status": 200,
+                    "title": "Wind power industry faces size problem as blades get longer than football pitches",
+                    "unwound_url": "https://www.ft.com/content/565c21bf-25a0-4fc6-9f47-c7483671d43a",
+                    "url": "https://t.co/iN2Ab99Vcx"
+                },
+                {
+                    "display_url": "pic.twitter.com/K3T2Vfe8cW",
+                    "end": 350,
+                    "expanded_url": "https://twitter.com/Vestas/status/1697595168365347108/photo/1",
+                    "media_key": "3_1697595163101589504",
+                    "start": 327,
+                    "url": "https://t.co/K3T2Vfe8cW"
+                }
+            ]
+        },
+        "id": "1697595168365347108",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1300,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@FT @SiemensGamesa @WindEurope @WoodMackenzie \u201cThe acceleration in the cycles for developing new wind turbine models in recent years has not been helpful. It needs to slow down\", said Christoph Zipf, a spokesman for trade group WindEurope. Read more (behind paywall) \u27a1\ufe0f https://t.co/iN2Ab99Vcx \n#offshorewind #windenergy (4/4) https://t.co/K3T2Vfe8cW"
+    }
+}

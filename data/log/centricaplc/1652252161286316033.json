@@ -1,0 +1,96 @@
+{
+    "1652252161286316033": {
+        "attachments": {
+            "media_keys": [
+                "3_1652252157100322819"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-04-29T10:03:07.000Z",
+        "edit_history_tweet_ids": [
+            "1652252161286316033"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "NetZero",
+                    "probability": 0.6135,
+                    "start": 23,
+                    "type": "Organization"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": " #PeakSa",
+                    "probability": 0.8133,
+                    "start": 115,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 22,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 125,
+                    "start": 116,
+                    "tag": "PeakSave"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 100,
+                    "id": "46630225",
+                    "start": 89,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Register for PeakSave to earn credit towards your bill by helping the grid to better balance demand for energy. Find out how to sign up for PeakSave here.",
+                    "display_url": "bit.ly/3NoDosj",
+                    "end": 275,
+                    "expanded_url": "https://bit.ly/3NoDosj",
+                    "images": [
+                        {
+                            "height": 351,
+                            "url": "https://pbs.twimg.com/news_img/1734686408919445504/pGeZ2zHf?format=jpg&name=orig",
+                            "width": 450
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1734686408919445504/pGeZ2zHf?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 252,
+                    "status": 200,
+                    "title": "Sign up for PeakSave - British Gas",
+                    "unwound_url": "https://www.britishgas.co.uk/energy/peak-save/registration.html",
+                    "url": "https://t.co/0cjsBvtyQE"
+                },
+                {
+                    "display_url": "pic.twitter.com/VARyFOx28J",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1652252161286316033/photo/1",
+                    "media_key": "3_1652252157100322819",
+                    "start": 276,
+                    "url": "https://t.co/VARyFOx28J"
+                }
+            ]
+        },
+        "id": "1652252161286316033",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 661,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Learning our way to a #NetZero future\ud83d\udc69\u200d\ud83c\udf93\n\nHaving saved customers \u00a31.8M since its launch, @BritishGas is building on #PeakSave with a new trial to test whether discounted electricity can encourage shifts in energy use from peak times. \n\nRegister here \ud83d\udc49 https://t.co/0cjsBvtyQE https://t.co/VARyFOx28J"
+    }
+}

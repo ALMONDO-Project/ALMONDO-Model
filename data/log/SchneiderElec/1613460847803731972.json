@@ -1,0 +1,74 @@
+{
+    "1613460847803731972": {
+        "attachments": {
+            "media_keys": [
+                "13_1613460779415527425"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-12T09:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1613460847803731972"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "MtCO2",
+                    "probability": 0.6594,
+                    "start": 83,
+                    "type": "Other"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "WEF23",
+                    "probability": 0.7549,
+                    "start": 191,
+                    "type": "Other"
+                },
+                {
+                    "end": 204,
+                    "normalized_text": "Davos",
+                    "probability": 0.8731,
+                    "start": 200,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 196,
+                    "start": 190,
+                    "tag": "WEF23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60193TnIV",
+                    "end": 230,
+                    "expanded_url": "http://spr.ly/60193TnIV",
+                    "start": 207,
+                    "url": "https://t.co/Yl2wU9iaWB"
+                },
+                {
+                    "display_url": "pic.twitter.com/fM6vaQJG8k",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1613460847803731972/video/1",
+                    "media_key": "13_1613460779415527425",
+                    "start": 231,
+                    "url": "https://t.co/fM6vaQJG8k"
+                }
+            ]
+        },
+        "id": "1613460847803731972",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 859,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "By 2030, an ambitious and focused effort could help reduce emissions by around 500 MtCO2/year. It\u2019s possible, and we need to make choices now. Explore this report and more as we cover it at #WEF23 in Davos: https://t.co/Yl2wU9iaWB https://t.co/fM6vaQJG8k"
+    }
+}

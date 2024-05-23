@@ -1,0 +1,89 @@
+{
+    "1663544206374338560": {
+        "author_id": "194037150",
+        "created_at": "2023-05-30T13:53:40.000Z",
+        "edit_history_tweet_ids": [
+            "1663544206374338560"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Christa",
+                    "probability": 0.4529,
+                    "start": 26,
+                    "type": "Person"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "USA",
+                    "probability": 0.9632,
+                    "start": 85,
+                    "type": "Place"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "NovoCare",
+                    "probability": 0.4543,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 259,
+                    "normalized_text": "Scott",
+                    "probability": 0.4836,
+                    "start": 255,
+                    "type": "Person"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4959,
+                    "start": 263,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1630340332297543680",
+                    "start": 0,
+                    "username": "ChristaLawyes"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "At Novo Nordisk, we remain committed to helping patients access and afford their medications. Find savings, coverage, and support for your medications.",
+                    "display_url": "novocare.com",
+                    "end": 159,
+                    "expanded_url": "https://www.novocare.com/",
+                    "start": 136,
+                    "status": 200,
+                    "title": "Cost & Coverage for Novo Nordisk Medicines | NovoCare\u00ae",
+                    "unwound_url": "https://www.novocare.com/",
+                    "url": "https://t.co/K702SShlNs"
+                },
+                {
+                    "display_url": "novocare.com/contact-us.html",
+                    "end": 239,
+                    "expanded_url": "https://www.novocare.com/contact-us.html",
+                    "start": 216,
+                    "status": 200,
+                    "unwound_url": "https://www.novocare.com/contact-us.html",
+                    "url": "https://t.co/jcuP7ae1dm"
+                }
+            ]
+        },
+        "id": "1663544206374338560",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 48,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ChristaLawyes Thank you, Christa.\u00a0\n\nWe have a dedicated patient support site in the USA called NovoCare. The link to the site is here:\u00a0https://t.co/K702SShlNs. For specific contact details, you can go to this link:\u00a0https://t.co/jcuP7ae1dm\n\nAll the best,\nScott / Novo Nordisk"
+    }
+}

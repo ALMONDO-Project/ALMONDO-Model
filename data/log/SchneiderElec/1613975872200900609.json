@@ -1,0 +1,74 @@
+{
+    "1613975872200900609": {
+        "attachments": {
+            "media_keys": [
+                "3_1613975869889839120"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-13T19:06:48.000Z",
+        "edit_history_tweet_ids": [
+            "1613975872200900609"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Africa",
+                    "probability": 0.9586,
+                    "start": 36,
+                    "type": "Place"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Asia",
+                    "probability": 0.9703,
+                    "start": 47,
+                    "type": "Place"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "WEF23",
+                    "probability": 0.5995,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 254,
+                    "start": 248,
+                    "tag": "WEF23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60113Vr9v",
+                    "end": 247,
+                    "expanded_url": "http://spr.ly/60113Vr9v",
+                    "start": 224,
+                    "url": "https://t.co/Z180RHoXoS"
+                },
+                {
+                    "display_url": "pic.twitter.com/Kl6D1Fhd7h",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1613975872200900609/photo/1",
+                    "media_key": "3_1613975869889839120",
+                    "start": 255,
+                    "url": "https://t.co/Kl6D1Fhd7h"
+                }
+            ]
+        },
+        "id": "1613975872200900609",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1176,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "With most urbanization projected in Africa and Asia, this is where to look to see the trends shaping the cities of the future. High-tech, climate-positive infrastructure in smart cities will be key for sustainable outcomes. https://t.co/Z180RHoXoS #WEF23 https://t.co/Kl6D1Fhd7h"
+    }
+}

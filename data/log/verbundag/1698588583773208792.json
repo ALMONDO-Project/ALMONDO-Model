@@ -1,0 +1,53 @@
+{
+    "1698588583773208792": {
+        "author_id": "23045838",
+        "created_at": "2023-09-04T06:47:31.000Z",
+        "edit_history_tweet_ids": [
+            "1698588583773208792"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1656660246994231297",
+                    "start": 0,
+                    "username": "MasculineTorch"
+                },
+                {
+                    "end": 27,
+                    "id": "2180371392",
+                    "start": 16,
+                    "username": "Energielix"
+                },
+                {
+                    "end": 54,
+                    "id": "975628129",
+                    "start": 44,
+                    "username": "OeEnergie"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "oesterreichsenergie.at/stromstatistik\u2026",
+                    "end": 124,
+                    "expanded_url": "https://oesterreichsenergie.at/stromstatistik-1/kraftwerksleistung",
+                    "start": 101,
+                    "status": 200,
+                    "unwound_url": "https://oesterreichsenergie.at/stromstatistik-1/kraftwerksleistung",
+                    "url": "https://t.co/JArJQsMXXz"
+                }
+            ]
+        },
+        "id": "1698588583773208792",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 28,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@masculinetorch @energielix Der Dachverband @oeenergie  hat hier die Informationen zusammengetragen: https://t.co/JArJQsMXXz"
+    }
+}

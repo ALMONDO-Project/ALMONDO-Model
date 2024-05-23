@@ -1,0 +1,60 @@
+{
+    "1468168025018933256": {
+        "attachments": {
+            "media_keys": [
+                "3_1468168022749814786"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-12-07T10:38:29.000Z",
+        "edit_history_tweet_ids": [
+            "1468168025018933256"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4338,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9736,
+                    "start": 46,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/mmfeui6",
+                    "end": 280,
+                    "expanded_url": "https://fcld.ly/mmfeui6",
+                    "start": 257,
+                    "url": "https://t.co/juKGS6W2vS"
+                },
+                {
+                    "display_url": "pic.twitter.com/Kh1W8ZC0rT",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Vestas/status/1468168025018933256/photo/1",
+                    "media_key": "3_1468168022749814786",
+                    "start": 281,
+                    "url": "https://t.co/Kh1W8ZC0rT"
+                }
+            ]
+        },
+        "id": "1468168025018933256",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Vestas has received an order for a project in Brazil that includes supply of 22 V150-4.5 MW turbines and a 15-year AOM 4000 service agreement. \nDeliveries are planned for 2023 and commissioning for 2024. The customer and project are undisclosed. Read more: https://t.co/juKGS6W2vS https://t.co/Kh1W8ZC0rT"
+    }
+}

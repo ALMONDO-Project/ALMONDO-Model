@@ -1,0 +1,89 @@
+{
+    "1509194797248036877": {
+        "attachments": {
+            "media_keys": [
+                "3_1509194795188686855"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-03-30T15:44:13.000Z",
+        "edit_history_tweet_ids": [
+            "1509194797248036877"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9499,
+                    "start": 4,
+                    "type": "Person"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "Shri",
+                    "probability": 0.4669,
+                    "start": 50,
+                    "type": "Person"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4245,
+                    "start": 71,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "India",
+                    "probability": 0.911,
+                    "start": 98,
+                    "type": "Place"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "India",
+                    "probability": 0.8449,
+                    "start": 215,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 77,
+                    "start": 70,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 68,
+                    "id": "18839785",
+                    "start": 55,
+                    "username": "narendramodi"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wRH65zOTEk",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1509194797248036877/photo/1",
+                    "media_key": "3_1509194795188686855",
+                    "start": 280,
+                    "url": "https://t.co/wRH65zOTEk"
+                }
+            ]
+        },
+        "id": "1509194797248036877",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 48,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "CEO Henrik Andersen meets Hon\u2019able Prime Minister Shri @narendramodi. #Vestas is proud to support India\u2019s ambitious climate goals. With the right policy, we can accelerate progress towards these ambitions. We thank India for its support, and look forward to a closer partnership. https://t.co/wRH65zOTEk"
+    }
+}

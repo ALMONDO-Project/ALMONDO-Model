@@ -1,0 +1,115 @@
+{
+    "1550375160364122112": {
+        "attachments": {
+            "media_keys": [
+                "3_1550375134090895360",
+                "3_1550375141410045952",
+                "3_1550375148213178368",
+                "3_1550375156001939458"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-07-22T07:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1550375160364122112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Turtle",
+                    "probability": 0.3486,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5757,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "Michael Richter",
+                    "probability": 0.6338,
+                    "start": 92,
+                    "type": "Person"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Wouter Byl",
+                    "probability": 0.6758,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "UMO Scirocco",
+                    "probability": 0.6253,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "Changfang",
+                    "probability": 0.5413,
+                    "start": 225,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 57,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WtjqGJyaAg",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Vestas/status/1550375160364122112/photo/1",
+                    "media_key": "3_1550375134090895360",
+                    "start": 258,
+                    "url": "https://t.co/WtjqGJyaAg"
+                },
+                {
+                    "display_url": "pic.twitter.com/WtjqGJyaAg",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Vestas/status/1550375160364122112/photo/1",
+                    "media_key": "3_1550375141410045952",
+                    "start": 258,
+                    "url": "https://t.co/WtjqGJyaAg"
+                },
+                {
+                    "display_url": "pic.twitter.com/WtjqGJyaAg",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Vestas/status/1550375160364122112/photo/1",
+                    "media_key": "3_1550375148213178368",
+                    "start": 258,
+                    "url": "https://t.co/WtjqGJyaAg"
+                },
+                {
+                    "display_url": "pic.twitter.com/WtjqGJyaAg",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Vestas/status/1550375160364122112/photo/1",
+                    "media_key": "3_1550375156001939458",
+                    "start": 258,
+                    "url": "https://t.co/WtjqGJyaAg"
+                }
+            ]
+        },
+        "id": "1550375160364122112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 30,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Turtle rescue \ud83d\udc22\ud83d\udedf\nLast week, whilst working offshore, two #Vestas Commissioning Supervisors, Michael Richter and Wouter Byl and the UMO Scirocco vessel crew rescued a couple of turtles that were caught in a fishing net at the Changfang offshore wind project. https://t.co/WtjqGJyaAg"
+    }
+}

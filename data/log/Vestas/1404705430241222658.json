@@ -1,0 +1,81 @@
+{
+    "1404705430241222658": {
+        "attachments": {
+            "media_keys": [
+                "3_1404705224749719556",
+                "3_1404705257578508292"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-15T07:40:47.000Z",
+        "edit_history_tweet_ids": [
+            "1404705430241222658"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Greece",
+                    "probability": 0.943,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "India",
+                    "probability": 0.9288,
+                    "start": 112,
+                    "type": "Place"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "Vestas",
+                    "probability": 0.5482,
+                    "start": 177,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 6,
+                    "tag": "GlobalWindDay"
+                },
+                {
+                    "end": 183,
+                    "start": 176,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/3Apa9f9xbs",
+                    "end": 221,
+                    "expanded_url": "https://twitter.com/Vestas/status/1404705430241222658/photo/1",
+                    "media_key": "3_1404705224749719556",
+                    "start": 198,
+                    "url": "https://t.co/3Apa9f9xbs"
+                },
+                {
+                    "display_url": "pic.twitter.com/3Apa9f9xbs",
+                    "end": 221,
+                    "expanded_url": "https://twitter.com/Vestas/status/1404705430241222658/photo/1",
+                    "media_key": "3_1404705257578508292",
+                    "start": 198,
+                    "url": "https://t.co/3Apa9f9xbs"
+                }
+            ]
+        },
+        "id": "1404705430241222658",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 11
+        },
+        "text": "Happy #GlobalWindDay! \ud83c\udf0d\n\ud83c\udfc6 The final is here! \ud83c\udfc6\nVote now between:\n\u2705Agios Georgios in Greece \ud83c\uddec\ud83c\uddf7\n\u2705Harapanahalli in India \ud83c\uddee\ud83c\uddf3\nto determine which site will be crowned your favourite #Vestas' wind farm\ud83d\uddf3\ufe0f! https://t.co/3Apa9f9xbs"
+    }
+}

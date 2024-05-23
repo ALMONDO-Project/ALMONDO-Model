@@ -1,0 +1,49 @@
+{
+    "1711667891769110767": {
+        "author_id": "393757140",
+        "created_at": "2023-10-10T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1711667891769110767"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Turkey",
+                    "probability": 0.9813,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "GDP",
+                    "probability": 0.5245,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6014uRkui",
+                    "end": 244,
+                    "expanded_url": "http://spr.ly/l/6014uRkui",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6014uRkui",
+                    "url": "https://t.co/BMkDPvc8kU"
+                }
+            ]
+        },
+        "id": "1711667891769110767",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 883,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Turkey's manufacturing sector is on the rise, aiming to boost its share of GDP to 21% by 2023. \n\nA collaborative ecosystem is critical to overcoming business obstacles and driving innovative approaches to react to (cont) https://t.co/BMkDPvc8kU"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1696100358425043077": {
+        "attachments": {
+            "media_keys": [
+                "13_1696100311377584128"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-08-28T10:00:12.000Z",
+        "edit_history_tweet_ids": [
+            "1696100358425043077"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "AI",
+                    "probability": 0.8149,
+                    "start": 9,
+                    "type": "Organization"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9244,
+                    "start": 148,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 142,
+                    "start": 135,
+                    "tag": "career"
+                },
+                {
+                    "end": 221,
+                    "start": 207,
+                    "tag": "SEGreatPeople"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6011PY1lJ",
+                    "end": 206,
+                    "expanded_url": "http://spr.ly/6011PY1lJ",
+                    "start": 183,
+                    "status": 200,
+                    "unwound_url": "https://careers.se.com/global/jobs?keywords=ai%20engineer&sortBy=relevance&page=1&utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=11053156944&utm_campaign=Bold_Idea_-_Employer_Branding&country=Global",
+                    "url": "https://t.co/loMlPkURCa"
+                },
+                {
+                    "display_url": "pic.twitter.com/RKDEU1pRUx",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1696100358425043077/video/1",
+                    "media_key": "13_1696100311377584128",
+                    "start": 222,
+                    "url": "https://t.co/RKDEU1pRUx"
+                }
+            ]
+        },
+        "id": "1696100358425043077",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1840,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Join Our AI Team \ud83d\ude80 Are you passionate about shaping the future of Artificial Intelligence and creating a greener future?\n\nElevate your #career with Schneider Electric. Apply today \u27a1\ufe0f https://t.co/loMlPkURCa #SEGreatPeople https://t.co/RKDEU1pRUx"
+    }
+}

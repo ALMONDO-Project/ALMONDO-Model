@@ -1,0 +1,63 @@
+{
+    "1671976335260917784": {
+        "author_id": "21746077",
+        "created_at": "2023-06-22T20:19:56.000Z",
+        "edit_history_tweet_ids": [
+            "1671976335260917784"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Centrica",
+                    "probability": 0.8599,
+                    "start": 33,
+                    "type": "Place"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Chris O\u2019Shea",
+                    "probability": 0.7456,
+                    "start": 77,
+                    "type": "Person"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5754,
+                    "start": 218,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 225,
+                    "start": 217,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/3j0whnbkTso",
+                    "end": 267,
+                    "expanded_url": "https://youtu.be/3j0whnbkTso",
+                    "start": 244,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=3j0whnbkTso&feature=youtu.be",
+                    "url": "https://t.co/SgLteIHQp3"
+                }
+            ]
+        },
+        "id": "1671976335260917784",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 394,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re going Behind the Scenes at Centrica! \ud83c\udfac \n\nIn the 1st of our new series, Chris O\u2019Shea chats through how we\u2019re powering up the hydrogen revolution - to bolster energy security, create 000's of jobs, and help reach #NetZero.  \n\nWatch below \ud83d\udc47 https://t.co/SgLteIHQp3"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1642074323732004864": {
+        "attachments": {
+            "media_keys": [
+                "3_1642074320108175364"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-01T08:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1642074323732004864"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "ParisMarathon",
+                    "probability": 0.8165,
+                    "start": 52,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 65,
+                    "start": 51,
+                    "tag": "ParisMarathon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019OBZFU",
+                    "end": 92,
+                    "expanded_url": "http://spr.ly/6019OBZFU",
+                    "start": 69,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/marathondeparis.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9290376990&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/gdS702aJAj"
+                },
+                {
+                    "display_url": "pic.twitter.com/aCpjkwBDMS",
+                    "end": 116,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1642074323732004864/photo/1",
+                    "media_key": "3_1642074320108175364",
+                    "start": 93,
+                    "url": "https://t.co/aCpjkwBDMS"
+                }
+            ]
+        },
+        "id": "1642074323732004864",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1857,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Do you feel excitement in the air? Tomorrow is the #ParisMarathon! \ud83d\udc9a https://t.co/gdS702aJAj https://t.co/aCpjkwBDMS"
+    }
+}

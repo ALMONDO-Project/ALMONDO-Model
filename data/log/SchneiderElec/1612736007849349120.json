@@ -1,0 +1,67 @@
+{
+    "1612736007849349120": {
+        "attachments": {
+            "media_keys": [
+                "3_1612736005169094656"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-10T09:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1612736007849349120"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9384,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "WEF23",
+                    "probability": 0.736,
+                    "start": 161,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 160,
+                    "tag": "WEF23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60183rv8i",
+                    "end": 262,
+                    "expanded_url": "http://spr.ly/60183rv8i",
+                    "start": 239,
+                    "url": "https://t.co/2t3zrImU4y"
+                },
+                {
+                    "display_url": "pic.twitter.com/FlrA7XFgXS",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1612736007849349120/photo/1",
+                    "media_key": "3_1612736005169094656",
+                    "start": 263,
+                    "url": "https://t.co/FlrA7XFgXS"
+                }
+            ]
+        },
+        "id": "1612736007849349120",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1887,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "At Schneider Electric, we believe that the root cause of the climate and energy crises is the same: an unsustainable energy model. Explore our conversations at #WEF23 as we discuss what it takes to build a more digital and electric world: https://t.co/2t3zrImU4y https://t.co/FlrA7XFgXS"
+    }
+}

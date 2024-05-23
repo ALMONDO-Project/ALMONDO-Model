@@ -1,0 +1,63 @@
+{
+    "1643543047798398978": {
+        "attachments": {
+            "media_keys": [
+                "3_1643542973773230081"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-04-05T09:16:12.000Z",
+        "edit_history_tweet_ids": [
+            "1643543047798398978"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 147,
+                    "normalized_text": "Redditch",
+                    "probability": 0.6412,
+                    "start": 140,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 72,
+                    "id": "959448294832340992",
+                    "start": 56,
+                    "username": "CentricaSoln_UK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "centrica.com/media-centre/n\u2026",
+                    "end": 237,
+                    "expanded_url": "https://www.centrica.com/media-centre/news/2023/centrica-business-solutions-begins-work-on-20mw-hydrogen-ready-peaker-in-redditch/",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/media-centre/news/2023/centrica-business-solutions-begins-work-on-20mw-hydrogen-ready-peaker-in-redditch/",
+                    "url": "https://t.co/SfbGTBbs6O"
+                },
+                {
+                    "display_url": "pic.twitter.com/xXQzqgsIDk",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1643543047798398978/photo/1",
+                    "media_key": "3_1643542973773230081",
+                    "start": 238,
+                    "url": "https://t.co/xXQzqgsIDk"
+                }
+            ]
+        },
+        "id": "1643543047798398978",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 379,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udce2 We're investing in a futureproofed energy system. \n  \n@CentricaSoln_UK has begun work on a 20MW hydrogen-ready gas-fired peaking plant in Redditch with the capacity to power about 2,000 homes for a day.  \n\nMore \ud83d\udc49https://t.co/SfbGTBbs6O https://t.co/xXQzqgsIDk"
+    }
+}

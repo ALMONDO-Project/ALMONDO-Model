@@ -1,0 +1,62 @@
+{
+    "1749807061628780791": {
+        "author_id": "156646851",
+        "created_at": "2024-01-23T14:51:27.000Z",
+        "edit_history_tweet_ids": [
+            "1749807061628780791"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Turbines of the Year",
+                    "probability": 0.8123,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Onshore Turbines",
+                    "probability": 0.7387,
+                    "start": 242,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 181,
+                    "start": 162,
+                    "tag": "HighCapacityFactor"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 49,
+                    "id": "101766184",
+                    "start": 37,
+                    "username": "windpower_m"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/windpower_m/st\u2026",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/windpower_m/status/1749449927455826137",
+                    "start": 273,
+                    "url": "https://t.co/KZnljS4ipt"
+                }
+            ]
+        },
+        "id": "1749807061628780791",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2578,
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "\ud83c\udfc6 V163-4.5MW\u2122 claims the top spot in @windpower_m\u2019s annual \"Turbines of the Year\" Awards.\n\nThis recognition underscores the commercial significance of our latest #HighCapacityFactor wind turbine which has been awarded Gold in the category of Onshore Turbines up to 5.6 MW. https://t.co/KZnljS4ipt"
+    }
+}

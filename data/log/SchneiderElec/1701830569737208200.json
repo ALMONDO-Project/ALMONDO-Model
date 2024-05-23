@@ -1,0 +1,62 @@
+{
+    "1701830569737208200": {
+        "attachments": {
+            "media_keys": [
+                "3_1701830567862419456"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-13T05:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1701830569737208200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "AI",
+                    "probability": 0.871,
+                    "start": 61,
+                    "type": "Organization"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "Energy Tech",
+                    "probability": 0.532,
+                    "start": 142,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6018PNPsI",
+                    "end": 248,
+                    "expanded_url": "http://spr.ly/l/6018PNPsI",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6018PNPsI",
+                    "url": "https://t.co/1uDRuhZ7fT"
+                },
+                {
+                    "display_url": "pic.twitter.com/Cre1sNZlkb",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1701830569737208200/photo/1",
+                    "media_key": "3_1701830567862419456",
+                    "start": 249,
+                    "url": "https://t.co/Cre1sNZlkb"
+                }
+            ]
+        },
+        "id": "1701830569737208200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1492,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We believe mastering the vast energy data landscape requires AI. Didem Un Ates, VP AI Strategy &amp; Innovation, takes the stage at the WIRED Energy Tech Summit, discussing \"The global energy revolution will be bigger (cont) https://t.co/1uDRuhZ7fT https://t.co/Cre1sNZlkb"
+    }
+}

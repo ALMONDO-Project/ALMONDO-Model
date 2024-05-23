@@ -1,0 +1,53 @@
+{
+    "1682330697879388192": {
+        "author_id": "393757140",
+        "created_at": "2023-07-21T10:04:29.000Z",
+        "edit_history_tweet_ids": [
+            "1682330697879388192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 245,
+                    "normalized_text": "Care",
+                    "probability": 0.3537,
+                    "start": 242,
+                    "type": "Other"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.846,
+                    "start": 256,
+                    "type": "Organization"
+                },
+                {
+                    "end": 279,
+                    "normalized_text": "India",
+                    "probability": 0.7863,
+                    "start": 275,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "567078977",
+                    "start": 0,
+                    "username": "chunnu3303"
+                }
+            ]
+        },
+        "id": "1682330697879388192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 22,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@chunnu3303 Dear Team,\nSorry for the inconvinence caused!\nPlease elaborate the issue. If it's related to product fault, kindly share the model ref along with invoice copy and complete address with contact details for further support\nCustomer Care Centre | Schneider Electric India |"
+    }
+}

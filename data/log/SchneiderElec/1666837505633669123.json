@@ -1,0 +1,53 @@
+{
+    "1666837505633669123": {
+        "attachments": {
+            "media_keys": [
+                "3_1666837501992902657"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-08T16:00:04.000Z",
+        "edit_history_tweet_ids": [
+            "1666837505633669123"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "IEA",
+                    "probability": 0.622,
+                    "start": 26,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 153,
+                    "tag": "EnergyAction"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DV6IuLCVH9",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1666837505633669123/photo/1",
+                    "media_key": "3_1666837501992902657",
+                    "start": 275,
+                    "url": "https://t.co/DV6IuLCVH9"
+                }
+            ]
+        },
+        "id": "1666837505633669123",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1226,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "And that's a wrap for the IEA's 8th Annual Global Conference on Energy Efficiency!  \n\nThank you to our wonderful SE team for driving the conversation on #EnergyAction and identifying solutions to achieve accelerated energy progress and bolster our resilience for the future. https://t.co/DV6IuLCVH9"
+    }
+}

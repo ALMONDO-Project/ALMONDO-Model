@@ -1,0 +1,52 @@
+{
+    "1704572665569141099": {
+        "author_id": "194037150",
+        "created_at": "2023-09-20T19:06:07.000Z",
+        "edit_history_tweet_ids": [
+            "1704572665569141099"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "PRESS",
+                    "probability": 0.4083,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6535,
+                    "start": 7,
+                    "type": "Organization"
+                },
+                {
+                    "end": 29,
+                    "normalized_text": "UNICEF",
+                    "probability": 0.947,
+                    "start": 24,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "PRESS"
+                }
+            ]
+        },
+        "id": "1704572665569141099",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 5365,
+            "like_count": 38,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "#PRESS Novo Nordisk and UNICEF to extend joint initiative to prevent global childhood obesity"
+    }
+}

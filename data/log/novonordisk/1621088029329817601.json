@@ -1,0 +1,38 @@
+{
+    "1621088029329817601": {
+        "author_id": "194037150",
+        "created_at": "2023-02-02T10:07:59.000Z",
+        "edit_history_tweet_ids": [
+            "1621088029329817601"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "AnnualReport",
+                    "probability": 0.5301,
+                    "start": 5,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 4,
+                    "tag": "AnnualReport"
+                }
+            ]
+        },
+        "id": "1621088029329817601",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4612,
+            "like_count": 29,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Our #AnnualReport is out! \nHit play below to learn how we reached almost 40 million people with our life-changing medicines in 2022 and much more! \ud83c\udf0d"
+    }
+}

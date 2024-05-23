@@ -1,0 +1,67 @@
+{
+    "1611014662325248004": {
+        "attachments": {
+            "media_keys": [
+                "3_1611014659557019650"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-05T15:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1611014662325248004"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "mySchneider",
+                    "probability": 0.537,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "OEMs",
+                    "probability": 0.5896,
+                    "start": 48,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 47,
+                    "tag": "OEMs"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6012M7yyK",
+                    "end": 201,
+                    "expanded_url": "http://spr.ly/6012M7yyK",
+                    "start": 178,
+                    "url": "https://t.co/w33IBcrWFn"
+                },
+                {
+                    "display_url": "pic.twitter.com/uwJlIxUg69",
+                    "end": 225,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1611014662325248004/photo/1",
+                    "media_key": "3_1611014659557019650",
+                    "start": 202,
+                    "url": "https://t.co/uwJlIxUg69"
+                }
+            ]
+        },
+        "id": "1611014662325248004",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 841,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Did you know that with the mySchneider portal, #OEMs can get a unified view of their business services, resources, tools, and access expert personalized support? Register today. https://t.co/w33IBcrWFn https://t.co/uwJlIxUg69"
+    }
+}

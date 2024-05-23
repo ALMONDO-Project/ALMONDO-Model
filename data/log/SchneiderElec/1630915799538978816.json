@@ -1,0 +1,76 @@
+{
+    "1630915799538978816": {
+        "attachments": {
+            "media_keys": [
+                "3_1630915797085306885"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-01T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1630915799538978816"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Control Global 2023 Readers'",
+                    "probability": 0.7289,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Awards",
+                    "probability": 0.6376,
+                    "start": 63,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Triconex",
+                    "probability": 0.6792,
+                    "start": 204,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 212,
+                    "start": 203,
+                    "tag": "Triconex"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60113oJDB",
+                    "end": 251,
+                    "expanded_url": "http://spr.ly/60113oJDB",
+                    "start": 228,
+                    "status": 200,
+                    "unwound_url": "https://www.controlglobal.com/home/article/21546009/2023-readers-choice-awards",
+                    "url": "https://t.co/EYtbR8LYAw"
+                },
+                {
+                    "display_url": "pic.twitter.com/SWUQOcPrWN",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1630915799538978816/photo/1",
+                    "media_key": "3_1630915797085306885",
+                    "start": 252,
+                    "url": "https://t.co/SWUQOcPrWN"
+                }
+            ]
+        },
+        "id": "1630915799538978816",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 764,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We've been voted #1 in the Control Global 2023 Readers' Choice Awards in the Safety/Emergency Shutdown category. It's an honor to continue being customers' trusted safety instrumented system. Thank you! #Triconex Read more here https://t.co/EYtbR8LYAw https://t.co/SWUQOcPrWN"
+    }
+}

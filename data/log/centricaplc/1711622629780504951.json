@@ -1,0 +1,89 @@
+{
+    "1711622629780504951": {
+        "attachments": {
+            "media_keys": [
+                "3_1711622626479587328"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-10-10T06:00:10.000Z",
+        "edit_history_tweet_ids": [
+            "1711622629780504951"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Angela Jenkyns",
+                    "probability": 0.7255,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Morley",
+                    "probability": 0.6095,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "Leeds",
+                    "probability": 0.874,
+                    "start": 84,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Peter Iredale",
+                    "probability": 0.6695,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "Centrica",
+                    "probability": 0.4178,
+                    "start": 149,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Elisha Mans",
+                    "probability": 0.7861,
+                    "start": 160,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 121,
+                    "id": "46630225",
+                    "start": 110,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/9IUOQ5iGqy",
+                    "end": 196,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1711622629780504951/photo/1",
+                    "media_key": "3_1711622626479587328",
+                    "start": 173,
+                    "url": "https://t.co/9IUOQ5iGqy"
+                }
+            ]
+        },
+        "id": "1711622629780504951",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 384,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Great to meet MP Angela Jenkyns at the Senior Citizens Information Event in Morley, Leeds. Pictured here with @BritishGas engineer Peter Iredale and Centrica's Elisha Mans. https://t.co/9IUOQ5iGqy"
+    }
+}

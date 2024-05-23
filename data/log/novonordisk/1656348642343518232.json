@@ -1,0 +1,57 @@
+{
+    "1656348642343518232": {
+        "author_id": "194037150",
+        "created_at": "2023-05-10T17:21:04.000Z",
+        "edit_history_tweet_ids": [
+            "1656348642343518232"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Abel",
+                    "probability": 0.71,
+                    "start": 22,
+                    "type": "Person"
+                },
+                {
+                    "end": 266,
+                    "normalized_text": "Scott",
+                    "probability": 0.4543,
+                    "start": 262,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "142660636",
+                    "start": 0,
+                    "username": "AMonjarazAleman"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/messages/compo\u2026",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "start": 268,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=194037150",
+                    "url": "https://t.co/tGbtaZc8Sa"
+                }
+            ]
+        },
+        "id": "1656348642343518232",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 67,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AMonjarazAleman Dear Abel, We are sorry to hear that. As your post contains information that we consider an adverse event, we need to report it internally. I will need your contact details. Kindly DM your contact number, email address and country of residence. Scott\nhttps://t.co/tGbtaZc8Sa"
+    }
+}

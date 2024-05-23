@@ -1,0 +1,75 @@
+{
+    "1440096118994579457": {
+        "attachments": {
+            "media_keys": [
+                "13_1440095965378191360"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-20T23:30:45.000Z",
+        "edit_history_tweet_ids": [
+            "1440096118994579457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7129,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Port Augusta Renewable Energy Park",
+                    "probability": 0.5488,
+                    "start": 80,
+                    "type": "Place"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Australia",
+                    "probability": 0.9802,
+                    "start": 118,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 79,
+                    "id": "1376687333232189441",
+                    "start": 65,
+                    "username": "IberdrolaAust"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/xZMtGgXsfh",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Vestas/status/1440096118994579457/video/1",
+                    "media_key": "13_1440095965378191360",
+                    "start": 274,
+                    "url": "https://t.co/xZMtGgXsfh"
+                }
+            ]
+        },
+        "id": "1440096118994579457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 43,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "#Vestas and its subcontractors have installed the final blade at @IberdrolaAust Port Augusta Renewable Energy Park in Australia. \nFeaturing 50 V150-4.2 MW wind turbines, the project is set to be one of the country\u2019s largest wind-solar and will power 180,000 homes a year.\ud83d\udca1\ud83c\udfe1 https://t.co/xZMtGgXsfh"
+    }
+}

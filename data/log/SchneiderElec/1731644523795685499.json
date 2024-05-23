@@ -1,0 +1,81 @@
+{
+    "1731644523795685499": {
+        "attachments": {
+            "media_keys": [
+                "3_1731644521526525952"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-12-04T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1731644523795685499"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "Takeda",
+                    "probability": 0.4773,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.479,
+                    "start": 160,
+                    "type": "Other"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "AVEVA",
+                    "probability": 0.5612,
+                    "start": 194,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 171,
+                    "start": 159,
+                    "tag": "EcoStruxure"
+                },
+                {
+                    "end": 199,
+                    "start": 193,
+                    "tag": "AVEVA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6017RGSL3",
+                    "end": 243,
+                    "expanded_url": "http://spr.ly/l/6017RGSL3",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6017RGSL3",
+                    "url": "https://t.co/AOSQgSW8cW"
+                },
+                {
+                    "display_url": "pic.twitter.com/7BZ0nX35he",
+                    "end": 267,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1731644523795685499/photo/1",
+                    "media_key": "3_1731644521526525952",
+                    "start": 244,
+                    "url": "https://t.co/7BZ0nX35he"
+                }
+            ]
+        },
+        "id": "1731644523795685499",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1019,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Generating more energy than you use is the holy grail for operational sustainability. So how does Takeda do it? \n\nThe global pharmaceutical company integrated #EcoStruxure solutions, including #AVEVA software, at (cont) https://t.co/AOSQgSW8cW https://t.co/7BZ0nX35he"
+    }
+}

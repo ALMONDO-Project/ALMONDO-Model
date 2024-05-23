@@ -1,0 +1,38 @@
+{
+    "1679448456316715008": {
+        "author_id": "21746077",
+        "created_at": "2023-07-13T11:11:29.000Z",
+        "edit_history_tweet_ids": [
+            "1679448456316715008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Community Net Zero Fund",
+                    "probability": 0.4715,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "rugby",
+                    "probability": 0.5248,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1679448456316715008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 227,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "A \u00a32m Club &amp; Community Net Zero Fund will provide rugby clubs access to an expert retrofit plan which will set out the measures they can take to reduce their carbon footprint."
+    }
+}

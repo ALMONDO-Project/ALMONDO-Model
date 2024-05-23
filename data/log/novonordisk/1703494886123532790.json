@@ -1,0 +1,71 @@
+{
+    "1703494886123532790": {
+        "author_id": "194037150",
+        "created_at": "2023-09-17T19:43:24.000Z",
+        "edit_history_tweet_ids": [
+            "1703494886123532790"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Muhammad",
+                    "probability": 0.8552,
+                    "start": 22,
+                    "type": "Person"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Scott\nNovo Nordisk",
+                    "probability": 0.8438,
+                    "start": 256,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1428778041795301376",
+                    "start": 0,
+                    "username": "Muhamma17372830"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Build a life-changing career in a global business environment. Novo Nordisk offers a broad range of job opportunities across borders and job functions.",
+                    "display_url": "novonordisk.com/careers/find-a\u2026",
+                    "end": 222,
+                    "expanded_url": "https://www.novonordisk.com/careers/find-a-job.html",
+                    "images": [
+                        {
+                            "height": 800,
+                            "url": "https://pbs.twimg.com/news_img/1763284973300453376/RAaVLZ3U?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1763284973300453376/RAaVLZ3U?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 199,
+                    "status": 200,
+                    "title": "Find a job",
+                    "unwound_url": "https://www.novonordisk.com/careers/find-a-job.html",
+                    "url": "https://t.co/mORB9B9o0M"
+                }
+            ]
+        },
+        "id": "1703494886123532790",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 57,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Muhamma17372830 Dear Muhammad,\u00a0\n\nThanks for your interest.\u00a0I recommend that you check out our career page to see if there are any relevant jobs for you. You can find all our current positions here:\u00a0https://t.co/mORB9B9o0M\n\nWishing you the best of luck! \ud83c\udf40\nScott\nNovo Nordisk"
+    }
+}

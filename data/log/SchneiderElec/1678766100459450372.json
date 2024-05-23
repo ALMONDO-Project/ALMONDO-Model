@@ -1,0 +1,69 @@
+{
+    "1678766100459450372": {
+        "attachments": {
+            "media_keys": [
+                "3_1678766093241057285"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-11T14:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1678766100459450372"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.599,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "0",
+                    "probability": 0.5054,
+                    "start": 104,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 69,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6007OxNS1",
+                    "end": 270,
+                    "expanded_url": "http://spr.ly/6007OxNS1",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/product-range/23643079-ecostruxure-automation-expert/#overview",
+                    "url": "https://t.co/hYbChKyRyR"
+                },
+                {
+                    "display_url": "pic.twitter.com/AtoDNGaxIi",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1678766100459450372/photo/1",
+                    "media_key": "3_1678766093241057285",
+                    "start": 271,
+                    "url": "https://t.co/AtoDNGaxIi"
+                }
+            ]
+        },
+        "id": "1678766100459450372",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1284,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Tackle the dynamic requirements of the logistics market with the new #EcoStruxure Automation Expert V23.0. Access application libraries with ready-to-use logic and supervision templates that help eliminate low-value tasks. Find more benefits here https://t.co/hYbChKyRyR https://t.co/AtoDNGaxIi"
+    }
+}

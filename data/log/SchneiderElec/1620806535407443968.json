@@ -1,0 +1,73 @@
+{
+    "1620806535407443968": {
+        "attachments": {
+            "media_keys": [
+                "3_1620806532106534914"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-01T15:29:25.000Z",
+        "edit_history_tweet_ids": [
+            "1620806535407443968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 175,
+                    "normalized_text": "BloombergGEI",
+                    "probability": 0.6322,
+                    "start": 164,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 176,
+                    "start": 163,
+                    "tag": "BloombergGEI"
+                },
+                {
+                    "end": 191,
+                    "start": 177,
+                    "tag": "SEGreatPeople"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 50,
+                    "id": "104237736",
+                    "start": 40,
+                    "username": "Bloomberg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019356gd",
+                    "end": 160,
+                    "expanded_url": "http://spr.ly/6019356gd",
+                    "start": 137,
+                    "url": "https://t.co/vX0TRCfiDd"
+                },
+                {
+                    "display_url": "pic.twitter.com/Zo1qf7paUr",
+                    "end": 215,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1620806535407443968/photo/1",
+                    "media_key": "3_1620806532106534914",
+                    "start": 192,
+                    "url": "https://t.co/Zo1qf7paUr"
+                }
+            ]
+        },
+        "id": "1620806535407443968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 863,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We are proud to be included in the 2023 @Bloomberg Gender-Equality Index for the sixth year in a row! Learn more about the award here \u27a1\ufe0f https://t.co/vX0TRCfiDd \n\n#BloombergGEI #SEGreatPeople https://t.co/Zo1qf7paUr"
+    }
+}

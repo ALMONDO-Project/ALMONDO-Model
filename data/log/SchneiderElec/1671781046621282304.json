@@ -1,0 +1,50 @@
+{
+    "1671781046621282304": {
+        "author_id": "393757140",
+        "created_at": "2023-06-22T07:23:56.000Z",
+        "edit_history_tweet_ids": [
+            "1671781046621282304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Ram",
+                    "probability": 0.7436,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "269693705",
+                    "start": 0,
+                    "username": "RAMVINOD786"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015O7vfl",
+                    "end": 153,
+                    "expanded_url": "http://spr.ly/6015O7vfl",
+                    "start": 130,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/support/country-selector/contact-us.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10435615008&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/ltI4dTPrqO"
+                }
+            ]
+        },
+        "id": "1671781046621282304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 21,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@RAMVINOD786 Hello Ram,\nApologies for the inconvenience caused. Please reach out to a customer care member in your location here: https://t.co/ltI4dTPrqO \nOur customer care team will surely provide assistance."
+    }
+}

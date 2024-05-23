@@ -1,0 +1,77 @@
+{
+    "1707770582857617818": {
+        "author_id": "156646851",
+        "created_at": "2023-09-29T14:53:30.000Z",
+        "edit_history_tweet_ids": [
+            "1707770582857617818"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9474,
+                    "start": 105,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 64,
+                    "id": "84679163",
+                    "start": 60,
+                    "username": "IEA"
+                },
+                {
+                    "end": 205,
+                    "id": "23951122",
+                    "start": 193,
+                    "username": "KadriSimson"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Ramping up wind power is a prerequisite for better energy security and deliver on our common climate targets. At Vestas, we strive to deliver on the promise of\u2026",
+                    "display_url": "linkedin.com/posts/henrik-a\u2026",
+                    "end": 230,
+                    "expanded_url": "https://www.linkedin.com/posts/henrik-andersen-_windenergy-energytransition-renewableenergy-activity-7113513124892225536-fIK-?utm_source=share&utm_medium=member_desktop",
+                    "images": [
+                        {
+                            "height": 600,
+                            "url": "https://pbs.twimg.com/news_img/1707770587802710016/37ghHW0p?format=jpg&name=orig",
+                            "width": 800
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1707770587802710016/37ghHW0p?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 207,
+                    "status": 200,
+                    "title": "Henrik Andersen on LinkedIn: #windenergy #energytransition #renewableenergy",
+                    "unwound_url": "https://www.linkedin.com/posts/henrik-andersen-_windenergy-energytransition-renewableenergy-activity-7113513124892225536-fIK-?utm_source=share&utm_medium=member_desktop",
+                    "url": "https://t.co/Fdmb7hh8hh"
+                },
+                {
+                    "display_url": "x.com/KadriSimson/st\u2026",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/KadriSimson/status/1707759847544865081",
+                    "start": 231,
+                    "url": "https://t.co/aBhJsLU3C1"
+                }
+            ]
+        },
+        "id": "1707770582857617818",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3000,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "It was an honour to share our policy recommendations at the @IEA's High Level Conference today. Our CEO, Henrik Andersen remarks on the event here, with special thanks to the organisers and to @KadriSimson: https://t.co/Fdmb7hh8hh https://t.co/aBhJsLU3C1"
+    }
+}

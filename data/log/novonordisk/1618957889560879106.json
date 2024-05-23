@@ -1,0 +1,52 @@
+{
+    "1618957889560879106": {
+        "author_id": "194037150",
+        "created_at": "2023-01-27T13:03:34.000Z",
+        "edit_history_tweet_ids": [
+            "1618957889560879106"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Gianna",
+                    "probability": 0.5402,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "Novo Nordisk Social",
+                    "probability": 0.6161,
+                    "start": 143,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "843106812438204416",
+                    "start": 0,
+                    "username": "pinkapothecary"
+                },
+                {
+                    "end": 30,
+                    "id": "485990358",
+                    "start": 16,
+                    "username": "novonordiskus"
+                }
+            ]
+        },
+        "id": "1618957889560879106",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 70,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@pinkapothecary @novonordiskus Hi Gianna, thank you for sharing this information with us. We will make sure to pass this along to our teams. - Novo Nordisk Social Media"
+    }
+}

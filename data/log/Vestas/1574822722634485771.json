@@ -1,0 +1,122 @@
+{
+    "1574822722634485771": {
+        "attachments": {
+            "media_keys": [
+                "3_1574822687804899330",
+                "3_1574822695094702082",
+                "3_1574822705274261512",
+                "3_1574822717160816640"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-09-27T18:06:10.000Z",
+        "edit_history_tweet_ids": [
+            "1574822722634485771"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6793,
+                    "start": 24,
+                    "type": "Place"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9327,
+                    "start": 47,
+                    "type": "Person"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "Nils de Baar",
+                    "probability": 0.6028,
+                    "start": 67,
+                    "type": "Person"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Ministry for Economic Affairs",
+                    "probability": 0.5391,
+                    "start": 160,
+                    "type": "Organization"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "Germany",
+                    "probability": 0.9235,
+                    "start": 221,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 23,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 22,
+                    "id": "978610362290450432",
+                    "start": 9,
+                    "username": "WindEnergyHH"
+                },
+                {
+                    "end": 120,
+                    "id": "61729247",
+                    "start": 109,
+                    "username": "StefWenzel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/g24qvA6qrm",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Vestas/status/1574822722634485771/photo/1",
+                    "media_key": "3_1574822687804899330",
+                    "start": 274,
+                    "url": "https://t.co/g24qvA6qrm"
+                },
+                {
+                    "display_url": "pic.twitter.com/g24qvA6qrm",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Vestas/status/1574822722634485771/photo/1",
+                    "media_key": "3_1574822695094702082",
+                    "start": 274,
+                    "url": "https://t.co/g24qvA6qrm"
+                },
+                {
+                    "display_url": "pic.twitter.com/g24qvA6qrm",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Vestas/status/1574822722634485771/photo/1",
+                    "media_key": "3_1574822705274261512",
+                    "start": 274,
+                    "url": "https://t.co/g24qvA6qrm"
+                },
+                {
+                    "display_url": "pic.twitter.com/g24qvA6qrm",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Vestas/status/1574822722634485771/photo/1",
+                    "media_key": "3_1574822717160816640",
+                    "start": 274,
+                    "url": "https://t.co/g24qvA6qrm"
+                }
+            ]
+        },
+        "id": "1574822722634485771",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Day 1 at @WindEnergyHH\n#Vestas, represented by Henrik Andersen and Nils de Baar, had the pleasure to welcome @StefWenzel, German State Secretary at the Federal Ministry for Economic Affairs and Climate Action, to discuss Germany\u2019s opportunities with a strong wind industry. https://t.co/g24qvA6qrm"
+    }
+}

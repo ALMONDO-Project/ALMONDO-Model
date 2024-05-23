@@ -1,0 +1,88 @@
+{
+    "1729047469613297954": {
+        "attachments": {
+            "media_keys": [
+                "3_1729047455222648832",
+                "3_1729047463430914048"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-11-27T08:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1729047469613297954"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Welsh Government",
+                    "probability": 0.3886,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Paul Gwilym",
+                    "probability": 0.646,
+                    "start": 207,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 237,
+                    "start": 220,
+                    "tag": "CommunityProject"
+                },
+                {
+                    "end": 242,
+                    "start": 238,
+                    "tag": "EfT"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 32,
+                    "id": "211864158",
+                    "start": 17,
+                    "username": "vaughangething"
+                },
+                {
+                    "end": 138,
+                    "id": "804619024156000258",
+                    "start": 122,
+                    "username": "boomerangcardif"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/oVFhBHtqUL",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1729047469613297954/photo/1",
+                    "media_key": "3_1729047455222648832",
+                    "start": 243,
+                    "url": "https://t.co/oVFhBHtqUL"
+                },
+                {
+                    "display_url": "pic.twitter.com/oVFhBHtqUL",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1729047469613297954/photo/1",
+                    "media_key": "3_1729047463430914048",
+                    "start": 243,
+                    "url": "https://t.co/oVFhBHtqUL"
+                }
+            ]
+        },
+        "id": "1729047469613297954",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 399,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Great to welcome @vaughangething, MS and Welsh Government Economy Minister, to visit the Energy for Tomorrow grant funded @boomerangcardif project in his welsh constituency, alongside the charity's founder, Paul Gwilym. #CommunityProject #EfT https://t.co/oVFhBHtqUL"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1636658076907454464": {
+        "attachments": {
+            "media_keys": [
+                "3_1636658043852144640"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-03-17T09:17:47.000Z",
+        "edit_history_tweet_ids": [
+            "1636658076907454464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Lappfj\u00e4rd",
+                    "probability": 0.6299,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "Kristinestad",
+                    "probability": 0.7684,
+                    "start": 144,
+                    "type": "Place"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6838,
+                    "start": 218,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/BBGVMkCdcP",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/Vestas/status/1636658076907454464/photo/1",
+                    "media_key": "3_1636658043852144640",
+                    "start": 255,
+                    "url": "https://t.co/BBGVMkCdcP"
+                }
+            ]
+        },
+        "id": "1636658076907454464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2183,
+            "like_count": 18,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "After the successful and timely completion of the Lappfj\u00e4rd wind farm with 31 EnVentus turbines in 2022, we are grateful to the municipality of Kristinestad for the fast permitting of further eight wind turbines which Vestas will install already in 2023. https://t.co/BBGVMkCdcP"
+    }
+}

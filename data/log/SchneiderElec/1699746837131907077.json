@@ -1,0 +1,63 @@
+{
+    "1699746837131907077": {
+        "author_id": "393757140",
+        "created_at": "2023-09-07T11:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1699746837131907077"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "AI",
+                    "probability": 0.8885,
+                    "start": 63,
+                    "type": "Organization"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.9543,
+                    "start": 155,
+                    "type": "Person"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "AI",
+                    "probability": 0.503,
+                    "start": 183,
+                    "type": "Organization"
+                },
+                {
+                    "end": 209,
+                    "normalized_text": "HBR",
+                    "probability": 0.4175,
+                    "start": 207,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6015PIesl",
+                    "end": 250,
+                    "expanded_url": "http://spr.ly/l/6015PIesl",
+                    "start": 227,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6015PIesl",
+                    "url": "https://t.co/vPiXFmUr3i"
+                }
+            ]
+        },
+        "id": "1699746837131907077",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 970,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 1
+        },
+        "text": "\"The new nature of competition is really not about technology; AI technology moves too fast for that. It's about the value you deliver to customers\", said Philippe Rambach, our Chief AI Officer, in a recent HBR article. (cont) https://t.co/vPiXFmUr3i"
+    }
+}

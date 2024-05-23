@@ -1,0 +1,90 @@
+{
+    "1686776729543593984": {
+        "attachments": {
+            "media_keys": [
+                "3_1686754233540816897"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-08-02T16:31:25.000Z",
+        "edit_history_tweet_ids": [
+            "1686776729543593984"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Notts Pride",
+                    "probability": 0.8198,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Tim Larcher",
+                    "probability": 0.9297,
+                    "start": 46,
+                    "type": "Person"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "LGBT+",
+                    "probability": 0.3947,
+                    "start": 87,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 248,
+                    "tag": "DiversityandInclusion"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 133,
+                    "id": "20507237",
+                    "start": 123,
+                    "username": "nottslive"
+                },
+                {
+                    "end": 151,
+                    "id": "25382767",
+                    "start": 140,
+                    "username": "NottsPride"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/475zJXX",
+                    "end": 246,
+                    "expanded_url": "https://bit.ly/475zJXX",
+                    "start": 223,
+                    "status": 200,
+                    "unwound_url": "https://www.nottinghampost.com/whats-on/nottinghamshire-pride-2023-timings-march-8631242",
+                    "url": "https://t.co/AprrcsLtOz"
+                },
+                {
+                    "display_url": "pic.twitter.com/DnEyEJHocN",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1686776729543593984/photo/1",
+                    "media_key": "3_1686754233540816897",
+                    "start": 271,
+                    "url": "https://t.co/DnEyEJHocN"
+                }
+            ]
+        },
+        "id": "1686776729543593984",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1274,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Lovely to be at Notts Pride at the weekend!\ud83d\udc4b\n\nTim Larcher, one of the co-chairs of our LGBT+ and Friends Network, spoke to @nottslive about @NottsPride getting \u2018better and better every year\u2019 \ud83c\udff3\ufe0f\u200d\ud83c\udf08\n\nRead the full piece here: https://t.co/AprrcsLtOz\n\n#DiversityandInclusion https://t.co/DnEyEJHocN"
+    }
+}

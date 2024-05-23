@@ -1,0 +1,74 @@
+{
+    "1404330743732609027": {
+        "attachments": {
+            "media_keys": [
+                "3_1404330635314012160",
+                "3_1404330369105661959"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-14T06:51:55.000Z",
+        "edit_history_tweet_ids": [
+            "1404330743732609027"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4287,
+                    "start": 37,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "Bento do",
+                    "probability": 0.5136,
+                    "start": 176,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 43,
+                    "start": 36,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 72,
+                    "start": 58,
+                    "tag": "GlobalWindDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hwWvtdOXwh",
+                    "end": 241,
+                    "expanded_url": "https://twitter.com/Vestas/status/1404330743732609027/photo/1",
+                    "media_key": "3_1404330635314012160",
+                    "start": 218,
+                    "url": "https://t.co/hwWvtdOXwh"
+                },
+                {
+                    "display_url": "pic.twitter.com/hwWvtdOXwh",
+                    "end": 241,
+                    "expanded_url": "https://twitter.com/Vestas/status/1404330743732609027/photo/1",
+                    "media_key": "3_1404330369105661959",
+                    "start": 218,
+                    "url": "https://t.co/hwWvtdOXwh"
+                }
+            ]
+        },
+        "id": "1404330743732609027",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "\ud83c\udfc6 The search to find your favourite #Vestas wind farm for #GlobalWindDay is almost over! \nPick the second site that will make it to the grand final! \n\ud83d\uddf3\ufe0f Vote now between:\n\u2705S\u00e3o Bento do Norte in \ud83c\udde7\ud83c\uddf7\n\u2705Harapanahalli in \ud83c\uddee\ud83c\uddf3 https://t.co/hwWvtdOXwh"
+    }
+}

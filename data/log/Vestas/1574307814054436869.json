@@ -1,0 +1,77 @@
+{
+    "1574307814054436869": {
+        "author_id": "156646851",
+        "created_at": "2022-09-26T08:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1574307814054436869"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6393,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Lensahner Berg",
+                    "probability": 0.7062,
+                    "start": 58,
+                    "type": "Place"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Gaarz",
+                    "probability": 0.5743,
+                    "start": 73,
+                    "type": "Place"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Schleswig-Holstein",
+                    "probability": 0.8904,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "Germany",
+                    "probability": 0.8062,
+                    "start": 112,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fal.cn/3sc2a",
+                    "end": 272,
+                    "expanded_url": "https://fal.cn/3sc2a",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2022/vestas-secures-order-for-66-mw-repowering-project-in-ge-c3636379",
+                    "url": "https://t.co/bD350fYjmp"
+                }
+            ]
+        },
+        "id": "1574307814054436869",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 24,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "#Vestas secures 66 MW order for repowering project in the Lensahner Berg/Gaarz wind farm in Schleswig-Holstein, Germany. The project includes 11 V162-6.2 MW turbines in 6.0 MW operating mode with 119m towers to maximise annual energy production. \u2935\ufe0f\nhttps://t.co/bD350fYjmp"
+    }
+}

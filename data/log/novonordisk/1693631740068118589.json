@@ -1,0 +1,39 @@
+{
+    "1693631740068118589": {
+        "author_id": "194037150",
+        "created_at": "2023-08-21T14:30:47.000Z",
+        "edit_history_tweet_ids": [
+            "1693631740068118589"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Kristine",
+                    "probability": 0.5417,
+                    "start": 13,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "14125938",
+                    "start": 0,
+                    "username": "schachin"
+                }
+            ]
+        },
+        "id": "1693631740068118589",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 46,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@schachin Hi Kristine, we apologize for any delay and disruption to you or your loved one\u2019s care. If you require an emergency medicine supply our customer care team would like to help. Can you please give them a call at 1-800-727-6500 to discuss?"
+    }
+}

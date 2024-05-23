@@ -1,0 +1,56 @@
+{
+    "1636420588842434574": {
+        "author_id": "156646851",
+        "created_at": "2023-03-16T17:34:06.000Z",
+        "edit_history_tweet_ids": [
+            "1636420588842434574"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.656,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "EU",
+                    "probability": 0.9571,
+                    "start": 42,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 251,
+                    "start": 240,
+                    "tag": "windenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "eur01.safelinks.protection.outlook.com/?url=https%3A%\u2026",
+                    "end": 276,
+                    "expanded_url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwindeurope.org%2Fnewsroom%2Fpress-releases%2Feu-green-industry-plan-falls-short-for-now%2F&data=05%7C01%7Corruo%40vestas.com%7Cb17302bcdf11473caca808db2643e9b0%7Cc07019407b3f4116a59f159078bc3c63%7C0%7C0%7C638145845349610295%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jygzcBhwZY%2B8hG3JQeKuSMphFAqFmp1TaEXYRfuJi%2F8%3D&reserved=0",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://windeurope.org/newsroom/press-releases/eu-green-industry-plan-falls-short-for-now/",
+                    "url": "https://t.co/LafBIrhVC9"
+                }
+            ]
+        },
+        "id": "1636420588842434574",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1957,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "Vestas welcomes today\u2019s proposal from the EU, but factories without a market are not sustainable. To sustain \ud83c\uddea\ud83c\uddfa competitiveness, we urge policy makers to ensure a functioning market that stimulates demand - this means faster permitting for #windenergy.\nhttps://t.co/LafBIrhVC9"
+    }
+}

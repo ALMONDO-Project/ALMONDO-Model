@@ -1,0 +1,118 @@
+{
+    "1456189471746142208": {
+        "attachments": {
+            "media_keys": [
+                "3_1456189469070172165"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-11-04T09:19:59.000Z",
+        "edit_history_tweet_ids": [
+            "1456189471746142208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3922,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 52,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9409,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Ocean Initiative",
+                    "probability": 0.6099,
+                    "start": 111,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "The Ocean as a Clean Energy Solution",
+                    "probability": 0.7854,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "COP26",
+                    "probability": 0.8911,
+                    "start": 173,
+                    "type": "Other"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Glasgow",
+                    "probability": 0.9832,
+                    "start": 182,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 25,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 178,
+                    "start": 172,
+                    "tag": "COP26"
+                },
+                {
+                    "end": 271,
+                    "start": 258,
+                    "tag": "WindAreYouIn"
+                },
+                {
+                    "end": 283,
+                    "start": 272,
+                    "tag": "ScaleUpNow"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 90,
+                    "id": "2787688669",
+                    "start": 75,
+                    "username": "GWECGlobalWind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/skscryx",
+                    "end": 257,
+                    "expanded_url": "https://fcld.ly/skscryx",
+                    "start": 234,
+                    "url": "https://t.co/mAMHHnVXGZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/FxejxX4MB1",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/Vestas/status/1456189471746142208/photo/1",
+                    "media_key": "3_1456189469070172165",
+                    "start": 284,
+                    "url": "https://t.co/FxejxX4MB1"
+                }
+            ]
+        },
+        "id": "1456189471746142208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Tomorrow (5th November), #Vestas CEO, Henrik Andersen, will be speaking at @GWECGlobalWind and the Because The Ocean Initiative's \"The Ocean as a Clean Energy Solution\" at #COP26 in Glasgow.\n\ud83d\udc49 Register now &amp; watch the event live: https://t.co/mAMHHnVXGZ\n#WindAreYouIn #ScaleUpNow https://t.co/FxejxX4MB1"
+    }
+}

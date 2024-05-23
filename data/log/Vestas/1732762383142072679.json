@@ -1,0 +1,83 @@
+{
+    "1732762383142072679": {
+        "author_id": "156646851",
+        "created_at": "2023-12-07T14:01:59.000Z",
+        "edit_history_tweet_ids": [
+            "1732762383142072679"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 162,
+                    "normalized_text": "COP28",
+                    "probability": 0.7765,
+                    "start": 158,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 95,
+                    "tag": "3xRenewables"
+                },
+                {
+                    "end": 163,
+                    "start": 157,
+                    "tag": "COP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 93,
+                    "id": "1663861773722689538",
+                    "start": 78,
+                    "username": "GRA_Renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Tripling renewable energy capacity is critical to keep 1.5\u00b0C within reach. Global Renewables Alliance's\u00a0#3xRenewables\u00a0pledge has been signed by over 120\u2026",
+                    "display_url": "linkedin.com/feed/update/ur\u2026",
+                    "end": 259,
+                    "expanded_url": "https://www.linkedin.com/feed/update/urn:li:activity:7138527347254730753",
+                    "images": [
+                        {
+                            "height": 800,
+                            "url": "https://pbs.twimg.com/news_img/1732762386845569024/SZQGL5tW?format=jpg&name=orig",
+                            "width": 800
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1732762386845569024/SZQGL5tW?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 236,
+                    "status": 200,
+                    "title": "Vestas on LinkedIn: #3xrenewables #cop28",
+                    "unwound_url": "https://www.linkedin.com/feed/update/urn:li:activity:7138527347254730753",
+                    "url": "https://t.co/kKnizSddFL"
+                },
+                {
+                    "display_url": "x.com/GRA_Renewables\u2026",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/GRA_Renewables/status/1732018087061234172",
+                    "start": 260,
+                    "url": "https://t.co/g9h6GTdpZ3"
+                }
+            ]
+        },
+        "id": "1732762383142072679",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2234,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udf0e: Tripling renewable energy capacity is critical to keep 1.5\u00b0C within reach. @GRA_Renewables'\u00a0#3xRenewables\u00a0pledge has been signed by over 120 countries at #COP28, marking an important milestone towards this. We now look forward to... https://t.co/kKnizSddFL https://t.co/g9h6GTdpZ3"
+    }
+}

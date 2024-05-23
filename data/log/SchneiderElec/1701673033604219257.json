@@ -1,0 +1,83 @@
+{
+    "1701673033604219257": {
+        "attachments": {
+            "media_keys": [
+                "3_1701673031356108801"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-12T19:04:01.000Z",
+        "edit_history_tweet_ids": [
+            "1701673033604219257"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "technology",
+                    "probability": 0.587,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "RE+",
+                    "probability": 0.5955,
+                    "start": 138,
+                    "type": "Other"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.7338,
+                    "start": 180,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "Microgrid Flex",
+                    "probability": 0.8815,
+                    "start": 192,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 59,
+                    "start": 49,
+                    "tag": "prosumers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6019P2CnF",
+                    "end": 240,
+                    "expanded_url": "http://spr.ly/l/6019P2CnF",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6019P2CnF",
+                    "url": "https://t.co/Unb539UOcx"
+                },
+                {
+                    "display_url": "pic.twitter.com/gdQf9i9tpT",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1701673033604219257/photo/1",
+                    "media_key": "3_1701673031356108801",
+                    "start": 241,
+                    "url": "https://t.co/gdQf9i9tpT"
+                }
+            ]
+        },
+        "id": "1701673033604219257",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 897,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Accelerating microgrid technology enables energy #prosumers, which is key to resilience, decarbonization, and optimizing energy costs. At RE+, we are announcing our industry-first EcoStruxure Microgrid Flex, a (cont) https://t.co/Unb539UOcx https://t.co/gdQf9i9tpT"
+    }
+}

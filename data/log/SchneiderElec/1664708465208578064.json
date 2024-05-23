@@ -1,0 +1,88 @@
+{
+    "1664708465208578064": {
+        "attachments": {
+            "media_keys": [
+                "3_1664708462406782989"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-02T19:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1664708465208578064"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "ACMA",
+                    "probability": 0.4632,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Coesia",
+                    "probability": 0.502,
+                    "start": 107,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 260,
+                    "start": 238,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 275,
+                    "start": 261,
+                    "tag": "MakeItForLife"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The digital twin and robotic solutions in EcoStruxure Machine help ACMA build more flexible, modular, and compact automatic packaging machines \u2013 faster.",
+                    "display_url": "spr.ly/6008OoeDy",
+                    "end": 237,
+                    "expanded_url": "http://spr.ly/6008OoeDy",
+                    "images": [
+                        {
+                            "height": 628,
+                            "url": "https://pbs.twimg.com/news_img/1721359530531942400/O_KXObbX?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1721359530531942400/O_KXObbX?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 214,
+                    "status": 200,
+                    "title": "ACMA Customer Success Story",
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/life-is-on/case-study/acma.jsp",
+                    "url": "https://t.co/iinew0FJqv"
+                },
+                {
+                    "display_url": "pic.twitter.com/5Kxtde3lc7",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1664708465208578064/photo/1",
+                    "media_key": "3_1664708462406782989",
+                    "start": 276,
+                    "url": "https://t.co/5Kxtde3lc7"
+                }
+            ]
+        },
+        "id": "1664708465208578064",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1564,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Chocolates come in all shapes and sizes, so flexibility is key for wrapping and packaging. See how ACMA, a Coesia company, uses digital twin and industrial robotic solutions in its automatic wrapping machines here https://t.co/iinew0FJqv #IndustriesOfTheFuture #MakeItForLife https://t.co/5Kxtde3lc7"
+    }
+}

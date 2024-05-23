@@ -1,0 +1,79 @@
+{
+    "1458451476330733574": {
+        "attachments": {
+            "media_keys": [
+                "3_1458451474015526915"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-11-10T15:08:23.000Z",
+        "edit_history_tweet_ids": [
+            "1458451476330733574"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "COP26",
+                    "probability": 0.9367,
+                    "start": 10,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 9,
+                    "tag": "COP26"
+                },
+                {
+                    "end": 147,
+                    "start": 127,
+                    "tag": "ScienceBasedTargets"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 32,
+                    "id": "2765959278",
+                    "start": 17,
+                    "username": "sciencetargets"
+                },
+                {
+                    "end": 206,
+                    "id": "156646851",
+                    "start": 199,
+                    "username": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/k0sx9mi",
+                    "end": 277,
+                    "expanded_url": "https://fcld.ly/k0sx9mi",
+                    "start": 254,
+                    "url": "https://t.co/BUPkp1dR1n"
+                },
+                {
+                    "display_url": "pic.twitter.com/A1di10wME3",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Vestas/status/1458451476330733574/photo/1",
+                    "media_key": "3_1458451474015526915",
+                    "start": 278,
+                    "url": "https://t.co/A1di10wME3"
+                }
+            ]
+        },
+        "id": "1458451476330733574",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Today at #COP26, @ScienceTargets launches a report celebrating climate action. We are proud that we committed to set ambitious #ScienceBasedTargets across key sustainability areas with the launch of @Vestas\u2019 Sustainability strategy. Read the report here:https://t.co/BUPkp1dR1n https://t.co/A1di10wME3"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1485930532588466180": {
+        "attachments": {
+            "media_keys": [
+                "3_1485930527559495682"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-01-25T11:00:20.000Z",
+        "edit_history_tweet_ids": [
+            "1485930532588466180"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.837,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Colombia",
+                    "probability": 0.9861,
+                    "start": 65,
+                    "type": "Place"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "La Guajira",
+                    "probability": 0.5099,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "Colombia",
+                    "probability": 0.9828,
+                    "start": 228,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/NH3YZykLii",
+                    "end": 277,
+                    "expanded_url": "https://twitter.com/Vestas/status/1485930532588466180/photo/1",
+                    "media_key": "3_1485930527559495682",
+                    "start": 254,
+                    "url": "https://t.co/NH3YZykLii"
+                }
+            ]
+        },
+        "id": "1485930532588466180",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 58,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 10
+        },
+        "text": "#Vestas is proud to be powering the first wind energy project in Colombia for 17 years. \n \nLa Guajira I is made up of 20 MW of V100-2.0 MW\u00ae wind turbines, and will be the first wind farm to supply renewable power directly in to Colombia\u2019s national grid. https://t.co/NH3YZykLii"
+    }
+}

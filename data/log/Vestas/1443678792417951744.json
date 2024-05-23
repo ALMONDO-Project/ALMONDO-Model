@@ -1,0 +1,68 @@
+{
+    "1443678792417951744": {
+        "author_id": "156646851",
+        "created_at": "2021-09-30T20:47:01.000Z",
+        "edit_history_tweet_ids": [
+            "1443678792417951744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6377,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "Casa dos Ventos",
+                    "probability": 0.4687,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Rio Grande do Norte",
+                    "probability": 0.9383,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9468,
+                    "start": 97,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/debdx3m",
+                    "end": 280,
+                    "expanded_url": "https://fcld.ly/debdx3m",
+                    "start": 257,
+                    "url": "https://t.co/IJZoKMCbS8"
+                }
+            ]
+        },
+        "id": "1443678792417951744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 35,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "#Vestas has signed a 189 MW agreement with Casa dos Ventos for a project in Rio Grande do Norte, Brazil \ud83c\udde7\ud83c\uddf7 which includes 42 V150-4.2 MW turbines delivered in 4.5 MW Power Optimised Mode.\nToday\u2019s orders take our accumulated intake for 2021 beyond 10 GW.\n\u27a1\ufe0f https://t.co/IJZoKMCbS8"
+    }
+}

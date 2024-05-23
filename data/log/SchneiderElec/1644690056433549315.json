@@ -1,0 +1,83 @@
+{
+    "1644690056433549315": {
+        "attachments": {
+            "media_keys": [
+                "3_1644690053967355906"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-08T13:14:00.000Z",
+        "edit_history_tweet_ids": [
+            "1644690056433549315"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Elijah",
+                    "probability": 0.6346,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.7577,
+                    "start": 63,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 267,
+                    "start": 258,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Schneider Electric Services offer exciting career opportunities to improve your skills and make a positive impact on the planet! \u25baConsider a career with Schn...",
+                    "display_url": "spr.ly/6017OH2eh",
+                    "end": 257,
+                    "expanded_url": "http://spr.ly/6017OH2eh",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1760653872584892416/DNMbWSUr?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1760653872584892416/DNMbWSUr?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 234,
+                    "status": 200,
+                    "title": "Looking to Improve Your Skills and Make a Positive Impact on the Planet? | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=iFRKbx5XGQg",
+                    "url": "https://t.co/lOTm2gmmnP"
+                },
+                {
+                    "display_url": "pic.twitter.com/EFjxVy6mDK",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1644690056433549315/photo/1",
+                    "media_key": "3_1644690053967355906",
+                    "start": 268,
+                    "url": "https://t.co/EFjxVy6mDK"
+                }
+            ]
+        },
+        "id": "1644690056433549315",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1621,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Watch Elijah's journey as a Field Services Representative with Schneider Electric, helping customers maintain efficient operations and advance decarbonization goals. See how you too can have an exciting career and make a real impact: https://t.co/lOTm2gmmnP\n#LifeIsOn https://t.co/EFjxVy6mDK"
+    }
+}

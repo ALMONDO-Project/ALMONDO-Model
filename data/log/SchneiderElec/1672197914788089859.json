@@ -1,0 +1,81 @@
+{
+    "1672197914788089859": {
+        "attachments": {
+            "media_keys": [
+                "13_1672197817710911488"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-23T11:00:25.000Z",
+        "edit_history_tweet_ids": [
+            "1672197914788089859"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "Edwin Ojeda",
+                    "probability": 0.6408,
+                    "start": 116,
+                    "type": "Person"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Crescent Electric",
+                    "probability": 0.5177,
+                    "start": 131,
+                    "type": "Organization"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "USA",
+                    "probability": 0.9488,
+                    "start": 156,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "Alliance"
+                },
+                {
+                    "end": 248,
+                    "start": 226,
+                    "tag": "IndustriesOfTheFuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6009OiidW",
+                    "end": 224,
+                    "expanded_url": "http://spr.ly/6009OiidW",
+                    "start": 201,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=83eAnhjxNwc",
+                    "url": "https://t.co/jyVAHNNhR1"
+                },
+                {
+                    "display_url": "pic.twitter.com/8GxlD4Ya29",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1672197914788089859/video/1",
+                    "media_key": "13_1672197817710911488",
+                    "start": 249,
+                    "url": "https://t.co/8GxlD4Ya29"
+                }
+            ]
+        },
+        "id": "1672197914788089859",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1390,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "The #Alliance Partner Program means engaging in a partnership that can educate, challenge, and disrupt the market.\n\nEdwin Ojeda of Crescent Electric in the USA, an Alliance Distributor, explains here: https://t.co/jyVAHNNhR1\n\n#IndustriesOfTheFuture https://t.co/8GxlD4Ya29"
+    }
+}

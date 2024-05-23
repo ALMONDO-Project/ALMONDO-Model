@@ -1,0 +1,87 @@
+{
+    "1712200027517407259": {
+        "attachments": {
+            "media_keys": [
+                "3_1712200025114087424"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-10-11T20:14:32.000Z",
+        "edit_history_tweet_ids": [
+            "1712200027517407259"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Shadow Chancellor",
+                    "probability": 0.5165,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "HydrogenEconomy",
+                    "probability": 0.6364,
+                    "start": 225,
+                    "type": "Other"
+                },
+                {
+                    "end": 249,
+                    "normalized_text": "UK",
+                    "probability": 0.9745,
+                    "start": 248,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 224,
+                    "tag": "HydrogenEconomy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 57,
+                    "id": "34374472",
+                    "start": 42,
+                    "username": "RachelReevesMP"
+                },
+                {
+                    "end": 95,
+                    "id": "14291684",
+                    "start": 86,
+                    "username": "UKLabour"
+                },
+                {
+                    "end": 178,
+                    "id": "1611278244988260353",
+                    "start": 163,
+                    "username": "nationalgas_uk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/rkz0N3OlQr",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1712200027517407259/photo/1",
+                    "media_key": "3_1712200025114087424",
+                    "start": 252,
+                    "url": "https://t.co/rkz0N3OlQr"
+                }
+            ]
+        },
+        "id": "1712200027517407259",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 498,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "It was great to welcome Shadow Chancellor @RachelReevesMP to the hydrogen zone at the @UKLabour conference. \n\nWe demonstrated a model, created in conjunction with @nationalgas_uk of a hydrogen backbone that would unlock the #HydrogenEconomy in the UK. https://t.co/rkz0N3OlQr"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1680169322218496000": {
+        "author_id": "194037150",
+        "created_at": "2023-07-15T10:55:57.000Z",
+        "edit_history_tweet_ids": [
+            "1680169322218496000"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 220,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5778,
+                    "start": 209,
+                    "type": "Organization"
+                },
+                {
+                    "end": 268,
+                    "normalized_text": "Scott",
+                    "probability": 0.5153,
+                    "start": 264,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1600150545339408384",
+                    "start": 0,
+                    "username": "chin_borah"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.co.in/contact-us.html",
+                    "end": 253,
+                    "expanded_url": "https://www.novonordisk.co.in/contact-us.html",
+                    "start": 230,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.co.in/contact-us.html",
+                    "url": "https://t.co/WlFxMJzsWM"
+                }
+            ]
+        },
+        "id": "1680169322218496000",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 162,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@chin_borah Thank you for reaching out. Due to regulatory constraints, we are unable to provide specific information about our products directly via social media. However, I suggest that you contact our local Novo Nordisk office:\u00a0https://t.co/WlFxMJzsWM. Regards, Scott"
+    }
+}

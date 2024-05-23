@@ -1,0 +1,76 @@
+{
+    "1703721688376963264": {
+        "author_id": "194037150",
+        "created_at": "2023-09-18T10:44:38.000Z",
+        "edit_history_tweet_ids": [
+            "1703721688376963264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 108,
+                    "normalized_text": "India",
+                    "probability": 0.9358,
+                    "start": 104,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "Benedikte",
+                    "probability": 0.5498,
+                    "start": 167,
+                    "type": "Other"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5268,
+                    "start": 178,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "55456256",
+                    "start": 0,
+                    "username": "baawara"
+                },
+                {
+                    "end": 17,
+                    "id": "760386710584700929",
+                    "start": 9,
+                    "username": "tata1mg"
+                },
+                {
+                    "end": 32,
+                    "id": "1191587765453910016",
+                    "start": 18,
+                    "username": "NovoNordiskIN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.co.in/contact-us.html",
+                    "end": 153,
+                    "expanded_url": "https://www.novonordisk.co.in/contact-us.html",
+                    "start": 130,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.co.in/contact-us.html",
+                    "url": "https://t.co/WlFxMJzsWM"
+                }
+            ]
+        },
+        "id": "1703721688376963264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 59,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@baawara @tata1mg @NovoNordiskIN Hi\n\nSorry to hear about your issue. Please contact our local office in India; they can help you:\u00a0https://t.co/WlFxMJzsWM\nKind regards\nBenedikte, Novo Nordisk"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1638541096274755585": {
+        "author_id": "393757140",
+        "created_at": "2023-03-22T14:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1638541096274755585"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.886,
+                    "start": 10,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/600930rvW",
+                    "end": 245,
+                    "expanded_url": "http://spr.ly/600930rvW",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/data-centers-of-the-future/",
+                    "url": "https://t.co/0GEMOefhhj"
+                }
+            ]
+        },
+        "id": "1638541096274755585",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 595,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Learn how Schneider Electric supports the ever-changing, ever-growing data center market to leverage the power of connected infrastructure for more sustainable, efficient, adaptive, and resilient data centers. Click here: https://t.co/0GEMOefhhj"
+    }
+}

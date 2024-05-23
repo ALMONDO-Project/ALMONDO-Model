@@ -1,0 +1,60 @@
+{
+    "1702220005830475985": {
+        "author_id": "194037150",
+        "created_at": "2023-09-14T07:17:29.000Z",
+        "edit_history_tweet_ids": [
+            "1702220005830475985"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 154,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.6164,
+                    "start": 143,
+                    "type": "Organization"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Malaysia",
+                    "probability": 0.9552,
+                    "start": 166,
+                    "type": "Place"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "Asif",
+                    "probability": 0.4365,
+                    "start": 271,
+                    "type": "Organization"
+                },
+                {
+                    "end": 288,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5912,
+                    "start": 277,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1402180993",
+                    "start": 0,
+                    "username": "oldwoodtonew"
+                }
+            ]
+        },
+        "id": "1702220005830475985",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 58,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@oldwoodtonew Hi, I am sorry to hear that you are not able to access the medicine you need for your son. I suggest you reach out to your local Novo Nordisk office in Malaysia. Here are the contact details: +60 3 2265 7300, customerservicemy@novonordisk.com\nAll the best,\nAsif, Novo Nordisk"
+    }
+}

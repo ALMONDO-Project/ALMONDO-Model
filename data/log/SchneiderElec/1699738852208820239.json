@@ -1,0 +1,46 @@
+{
+    "1699738852208820239": {
+        "author_id": "393757140",
+        "created_at": "2023-09-07T10:58:16.000Z",
+        "edit_history_tweet_ids": [
+            "1699738852208820239"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Mohit",
+                    "probability": 0.5045,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "EA",
+                    "probability": 0.5421,
+                    "start": 106,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1295106227920187392",
+                    "start": 0,
+                    "username": "mohitchaw1a"
+                }
+            ]
+        },
+        "id": "1699738852208820239",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@mohitchaw1a Hello Mohit,\nApologies for the inconvenience caused. We have forwarded your query to our LnT EA team. Please be assured that our team is investigating this and will reach out to you as soon as possible."
+    }
+}

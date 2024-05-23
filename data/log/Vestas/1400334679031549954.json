@@ -1,0 +1,74 @@
+{
+    "1400334679031549954": {
+        "attachments": {
+            "media_keys": [
+                "3_1400334676917723140"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-03T06:12:59.000Z",
+        "edit_history_tweet_ids": [
+            "1400334679031549954"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6747,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 43,
+                    "normalized_text": "CS Wind",
+                    "probability": 0.6855,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Colorado",
+                    "probability": 0.8904,
+                    "start": 100,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/8e0vtbp",
+                    "end": 278,
+                    "expanded_url": "https://fcld.ly/8e0vtbp",
+                    "start": 255,
+                    "url": "https://t.co/wd0pmA7uix"
+                },
+                {
+                    "display_url": "pic.twitter.com/2XdoZlHgzY",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Vestas/status/1400334679031549954/photo/1",
+                    "media_key": "3_1400334676917723140",
+                    "start": 279,
+                    "url": "https://t.co/2XdoZlHgzY"
+                }
+            ]
+        },
+        "id": "1400334679031549954",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "#Vestas has signed an agreement with CS Wind to acquire our tower manufacturing facility in Pueblo, Colorado. The factory will now be run by a company specialised in tower manufacturing, enabling increased volume as well as sustained local job creation \u27a1 https://t.co/wd0pmA7uix https://t.co/2XdoZlHgzY"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "1701683029524038042": {
+        "author_id": "393757140",
+        "created_at": "2023-09-12T19:43:44.000Z",
+        "edit_history_tweet_ids": [
+            "1701683029524038042"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "Schneider Home",
+                    "probability": 0.7917,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "CES",
+                    "probability": 0.3979,
+                    "start": 105,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Schneider Home",
+                    "probability": 0.7851,
+                    "start": 131,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "RE+",
+                    "probability": 0.5022,
+                    "start": 149,
+                    "type": "Other"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Las Vegas",
+                    "probability": 0.9669,
+                    "start": 156,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "Replus23",
+                    "probability": 0.6279,
+                    "start": 168,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 176,
+                    "start": 167,
+                    "tag": "Replus23"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6011PN6nf",
+                    "end": 200,
+                    "expanded_url": "http://spr.ly/6011PN6nf",
+                    "start": 177,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=YQCXgmRTFlA",
+                    "url": "https://t.co/9RdPjpAVxB"
+                }
+            ]
+        },
+        "id": "1701683029524038042",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1284,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We unveiled a first-of-its-kind, integrated home energy management system that we call Schneider Home at CES in January. Check out Schneider Home at RE+ in Las Vegas. #Replus23 https://t.co/9RdPjpAVxB"
+    }
+}

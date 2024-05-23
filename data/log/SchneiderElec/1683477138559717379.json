@@ -1,0 +1,69 @@
+{
+    "1683477138559717379": {
+        "attachments": {
+            "media_keys": [
+                "3_1683477135481085956"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-24T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1683477138559717379"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "mySchneider",
+                    "probability": 0.6626,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 134,
+                    "normalized_text": "mySchneider",
+                    "probability": 0.4598,
+                    "start": 124,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 16,
+                    "start": 4,
+                    "tag": "mySchneider"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6017PRasL",
+                    "end": 160,
+                    "expanded_url": "http://spr.ly/6017PRasL",
+                    "start": 137,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/partners/contractors?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10771307036&utm_campaign=Contractors&country=Global",
+                    "url": "https://t.co/BdkT6tqQKR"
+                },
+                {
+                    "display_url": "pic.twitter.com/OavGgJVFjX",
+                    "end": 184,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1683477138559717379/photo/1",
+                    "media_key": "3_1683477135481085956",
+                    "start": 161,
+                    "url": "https://t.co/OavGgJVFjX"
+                }
+            ]
+        },
+        "id": "1683477138559717379",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1560,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "The #mySchneider Contractor program offers you the tools you need to build and deliver state of the art solutions. Discover mySchneider. https://t.co/BdkT6tqQKR https://t.co/OavGgJVFjX"
+    }
+}

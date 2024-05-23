@@ -1,0 +1,82 @@
+{
+    "1476877437229219856": {
+        "author_id": "156646851",
+        "created_at": "2021-12-31T11:26:34.000Z",
+        "edit_history_tweet_ids": [
+            "1476877437229219856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7724,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Cear\u00e1",
+                    "probability": 0.9722,
+                    "start": 103,
+                    "type": "Place"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9809,
+                    "start": 111,
+                    "type": "Place"
+                },
+                {
+                    "end": 146,
+                    "normalized_text": "Vestas",
+                    "probability": 0.7803,
+                    "start": 141,
+                    "type": "Place"
+                },
+                {
+                    "end": 204,
+                    "normalized_text": "Brazil",
+                    "probability": 0.9542,
+                    "start": 199,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 117,
+                    "start": 110,
+                    "tag": "Brazil"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "vestas.com/en/media/compa\u2026",
+                    "end": 265,
+                    "expanded_url": "https://www.vestas.com/en/media/company-news/2021/vestas-secures-a-113-mw-order-with-2w-energia-and-surpa-c3480212",
+                    "start": 242,
+                    "status": 200,
+                    "unwound_url": "https://www.vestas.com/en/media/company-news/2021/vestas-secures-a-113-mw-order-with-2w-energia-and-surpa-c3480212",
+                    "url": "https://t.co/MZC65fJVGd"
+                }
+            ]
+        },
+        "id": "1476877437229219856",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "#Vestas has signed an agreement with @2wEnergia for the 113 MW Kairos project, located in the state of Cear\u00e1, #Brazil \ud83c\udde7\ud83c\uddf7. With this project, Vestas surpasses the milestone of 6 GW of order intake in Brazil for the V150-4.2 MW wind turbine. \u2935\nhttps://t.co/MZC65fJVGd"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1677287280778813440": {
+        "author_id": "393757140",
+        "created_at": "2023-07-07T12:03:44.000Z",
+        "edit_history_tweet_ids": [
+            "1677287280778813440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "UN",
+                    "probability": 0.6336,
+                    "start": 18,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 141,
+                    "id": "29998941",
+                    "start": 125,
+                    "username": "economistimpact"
+                },
+                {
+                    "end": 168,
+                    "id": "878696122344198144",
+                    "start": 153,
+                    "username": "Gwenaelle_huet"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/economistimpac\u2026",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/economistimpact/status/1671858099890651137",
+                    "start": 219,
+                    "url": "https://t.co/3m4WXCkC8K"
+                }
+            ]
+        },
+        "id": "1677287280778813440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1809,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Time to reach the UN\u2019s Sustainable Development Goals is running out. Learn how companies can step up their efforts from this @economistimpact panel with @Gwenaelle_huet, our Chief Strategy &amp; Sustainability Officer. https://t.co/3m4WXCkC8K"
+    }
+}

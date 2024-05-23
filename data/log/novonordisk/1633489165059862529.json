@@ -1,0 +1,52 @@
+{
+    "1633489165059862529": {
+        "author_id": "194037150",
+        "created_at": "2023-03-08T15:25:40.000Z",
+        "edit_history_tweet_ids": [
+            "1633489165059862529"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "PBS",
+                    "probability": 0.9156,
+                    "start": 98,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Australia",
+                    "probability": 0.9908,
+                    "start": 105,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "755881303",
+                    "start": 0,
+                    "username": "KellieShaw5"
+                },
+                {
+                    "end": 28,
+                    "id": "220883243",
+                    "start": 13,
+                    "username": "Mark_Butler_MP"
+                }
+            ]
+        },
+        "id": "1633489165059862529",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 31,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@KellieShaw5 @Mark_Butler_MP We have made the difficult decision to remove some insulins from the PBS in Australia as we were unable to agree on the price with the Government. Other alternatives are available. Please make an appointment with your doctor to discuss treatment. Sorry about the inconvenience."
+    }
+}

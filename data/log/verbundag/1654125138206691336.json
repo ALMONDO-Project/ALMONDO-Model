@@ -1,0 +1,116 @@
+{
+    "1654125138206691336": {
+        "author_id": "23045838",
+        "created_at": "2023-05-04T14:05:39.000Z",
+        "edit_history_tweet_ids": [
+            "1654125138206691336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "European Hydropower Alliance",
+                    "probability": 0.7136,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Hydro4EU",
+                    "probability": 0.6272,
+                    "start": 262,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 261,
+                    "tag": "Hydro4EU"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 81,
+                    "id": "268267143",
+                    "start": 69,
+                    "username": "EDFofficiel"
+                },
+                {
+                    "end": 92,
+                    "id": "364784007",
+                    "start": 82,
+                    "username": "EnelGroup"
+                },
+                {
+                    "end": 103,
+                    "id": "281475728",
+                    "start": 93,
+                    "username": "iberdrola"
+                },
+                {
+                    "end": 120,
+                    "id": "958386587175407616",
+                    "start": 104,
+                    "username": "innovationatEDP"
+                },
+                {
+                    "end": 131,
+                    "id": "19509064",
+                    "start": 121,
+                    "username": "Statkraft"
+                },
+                {
+                    "end": 146,
+                    "id": "2890547529",
+                    "start": 132,
+                    "username": "VattenfallBXL"
+                },
+                {
+                    "end": 154,
+                    "id": "404127128",
+                    "start": 147,
+                    "username": "Fortum"
+                },
+                {
+                    "end": 169,
+                    "id": "3224469100",
+                    "start": 155,
+                    "username": "uniper_energy"
+                },
+                {
+                    "end": 179,
+                    "id": "1048185376819568641",
+                    "start": 170,
+                    "username": "ENGIE_EU"
+                },
+                {
+                    "end": 194,
+                    "id": "23045838",
+                    "start": 184,
+                    "username": "verbundag"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/KadriSimson/st\u2026",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/KadriSimson/status/1654071807765274624",
+                    "start": 271,
+                    "url": "https://t.co/SCHWq4oF7Z"
+                }
+            ]
+        },
+        "id": "1654125138206691336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 514,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83d\udce2\ud83d\udd14 Today marks the launch of the   European Hydropower Alliance with @EDFofficiel @EnelGroup @iberdrola @innovationatEDP @Statkraft @VattenfallBXL @Fortum @uniper_energy @ENGIE_EU and @verbundag representing a total installed hydropower capacity of &gt;110 GW.\n#Hydro4EU https://t.co/SCHWq4oF7Z"
+    }
+}

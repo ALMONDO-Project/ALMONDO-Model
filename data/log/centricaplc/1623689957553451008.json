@@ -1,0 +1,87 @@
+{
+    "1623689957553451008": {
+        "attachments": {
+            "media_keys": [
+                "3_1623685733067137030"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-02-09T14:27:07.000Z",
+        "edit_history_tweet_ids": [
+            "1623689957553451008"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 190,
+                    "normalized_text": "Konttisuo",
+                    "probability": 0.505,
+                    "start": 182,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Finland",
+                    "probability": 0.9759,
+                    "start": 205,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 47,
+                    "tag": "renewable"
+                },
+                {
+                    "end": 90,
+                    "start": 82,
+                    "tag": "netzero"
+                },
+                {
+                    "end": 109,
+                    "start": 102,
+                    "tag": "energy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 159,
+                    "id": "2579203802",
+                    "start": 148,
+                    "username": "downingllp"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ufLk4B",
+                    "end": 264,
+                    "expanded_url": "https://bit.ly/3ufLk4B",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/sustainability/our-role-in-net-zero/",
+                    "url": "https://t.co/3X70tHBduF"
+                },
+                {
+                    "display_url": "pic.twitter.com/PlJta4NohQ",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1623689957553451008/photo/1",
+                    "media_key": "3_1623685733067137030",
+                    "start": 265,
+                    "url": "https://t.co/PlJta4NohQ"
+                }
+            ]
+        },
+        "id": "1623689957553451008",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 559,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "Long-term energy security depends on access to #renewable energy\u26a1\ufe0f\n\nTo help reach #netzero and ensure #energy security, we signed an agreement with @downingllp for the output of the Konttisuo wind farm in Finland \ud83c\uddeb\ud83c\uddee\n\nRead more about it here\u2192https://t.co/3X70tHBduF https://t.co/PlJta4NohQ"
+    }
+}

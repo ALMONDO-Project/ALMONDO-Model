@@ -1,0 +1,45 @@
+{
+    "1684534590344404992": {
+        "author_id": "23045838",
+        "created_at": "2023-07-27T12:01:58.000Z",
+        "edit_history_tweet_ids": [
+            "1684534590344404992"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "4068175605",
+                    "start": 0,
+                    "username": "a_j_tra"
+                },
+                {
+                    "end": 20,
+                    "id": "362848999",
+                    "start": 9,
+                    "username": "passchraml"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/verbundag/stat\u2026",
+                    "end": 44,
+                    "expanded_url": "https://twitter.com/verbundag/status/1684460675043581955?s=20",
+                    "start": 21,
+                    "url": "https://t.co/L04qzbUkgC"
+                }
+            ]
+        },
+        "id": "1684534590344404992",
+        "lang": "qme",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 478,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "@a_j_tra @passchraml https://t.co/L04qzbUkgC"
+    }
+}

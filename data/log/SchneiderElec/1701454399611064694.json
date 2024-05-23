@@ -1,0 +1,62 @@
+{
+    "1701454399611064694": {
+        "attachments": {
+            "media_keys": [
+                "13_1701454349853925376"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-12T04:35:15.000Z",
+        "edit_history_tweet_ids": [
+            "1701454399611064694"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "World Green Building",
+                    "probability": 0.835,
+                    "start": 23,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 83,
+                    "start": 64,
+                    "tag": "BuildTheTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6009PIeoT",
+                    "end": 174,
+                    "expanded_url": "http://spr.ly/6009PIeoT",
+                    "start": 151,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/work/campaign/buildings-of-the-future/",
+                    "url": "https://t.co/6PTJenDOR2"
+                },
+                {
+                    "display_url": "pic.twitter.com/jiIhZtIzUd",
+                    "end": 198,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1701454399611064694/video/1",
+                    "media_key": "13_1701454349853925376",
+                    "start": 175,
+                    "url": "https://t.co/jiIhZtIzUd"
+                }
+            ]
+        },
+        "id": "1701454399611064694",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1156,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Join us in celebrating World Green Building Week 2023 and let's #BuildTheTransition together towards net-zero Buildings of the Future. \n\nSee how here: https://t.co/6PTJenDOR2 https://t.co/jiIhZtIzUd"
+    }
+}

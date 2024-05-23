@@ -1,0 +1,53 @@
+{
+    "1702050722227880331": {
+        "attachments": {
+            "media_keys": [
+                "3_1702050717534412800"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-09-13T20:04:49.000Z",
+        "edit_history_tweet_ids": [
+            "1702050722227880331"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "WindPowerPackage",
+                    "probability": 0.7555,
+                    "start": 64,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 80,
+                    "start": 63,
+                    "tag": "WindPowerPackage"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WMn7IUT8hv",
+                    "end": 141,
+                    "expanded_url": "https://twitter.com/Vestas/status/1702050722227880331/photo/1",
+                    "media_key": "3_1702050717534412800",
+                    "start": 118,
+                    "url": "https://t.co/WMn7IUT8hv"
+                }
+            ]
+        },
+        "id": "1702050722227880331",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1385,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "(2/3) With faster permitting and enhanced auction systems, the #WindPowerPackage is a positive move for the industry. https://t.co/WMn7IUT8hv"
+    }
+}

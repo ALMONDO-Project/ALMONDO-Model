@@ -1,0 +1,83 @@
+{
+    "1642492831859200000": {
+        "attachments": {
+            "media_keys": [
+                "3_1642492828143034371"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-02T11:43:01.000Z",
+        "edit_history_tweet_ids": [
+            "1642492831859200000"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "Switchgear",
+                    "probability": 0.4184,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "MCSet",
+                    "probability": 0.9029,
+                    "start": 103,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 146,
+                    "start": 137,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "MCSet Active is our natively connected MV Switchgear for Primary Air-Insulated power distribution applications. \u25baWatch more MV Switchgear videos: https://www...",
+                    "display_url": "spr.ly/6016ODqE8",
+                    "end": 134,
+                    "expanded_url": "http://spr.ly/6016ODqE8",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1743611982907834368/U_08XZC7?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1743611982907834368/U_08XZC7?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 111,
+                    "status": 200,
+                    "title": "MCSet Active Explained in 60 Seconds | Schneider Electric",
+                    "unwound_url": "https://www.youtube.com/watch?v=Cv6X2_0zX68",
+                    "url": "https://t.co/n0xbBkyKGn"
+                },
+                {
+                    "display_url": "pic.twitter.com/vLhzQDhPCC",
+                    "end": 170,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1642492831859200000/photo/1",
+                    "media_key": "3_1642492828143034371",
+                    "start": 147,
+                    "url": "https://t.co/vLhzQDhPCC"
+                }
+            ]
+        },
+        "id": "1642492831859200000",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2258,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Watch quick introduction to how Active connectivity is implemented in an existing MV Switchgear called MCSet - https://t.co/n0xbBkyKGn \n\n#LifeIsOn https://t.co/vLhzQDhPCC"
+    }
+}

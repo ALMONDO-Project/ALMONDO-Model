@@ -1,0 +1,53 @@
+{
+    "1654335043483869185": {
+        "author_id": "194037150",
+        "created_at": "2023-05-05T03:59:45.000Z",
+        "edit_history_tweet_ids": [
+            "1654335043483869185"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Rishabh",
+                    "probability": 0.8183,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "Asif",
+                    "probability": 0.3916,
+                    "start": 198,
+                    "type": "Person"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.3891,
+                    "start": 204,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "903154973168377856",
+                    "start": 0,
+                    "username": "Rishabh0284"
+                }
+            ]
+        },
+        "id": "1654335043483869185",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 58,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Rishabh0284 Dear Rishabh, I sincerely apologize for the issues that you are experiencing. I have forwarded your concern to the relevant colleagues. They will get back to you shortly.\nKind regards,\nAsif, Novo Nordisk"
+    }
+}

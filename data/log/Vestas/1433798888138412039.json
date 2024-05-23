@@ -1,0 +1,45 @@
+{
+    "1433798888138412039": {
+        "author_id": "156646851",
+        "created_at": "2021-09-03T14:27:48.000Z",
+        "edit_history_tweet_ids": [
+            "1433798888138412039"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "Covento",
+                    "probability": 0.6627,
+                    "start": 97,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "393757140",
+                    "start": 14,
+                    "username": "SchneiderElec"
+                },
+                {
+                    "end": 93,
+                    "id": "393757140",
+                    "start": 79,
+                    "username": "SchneiderElec"
+                }
+            ]
+        },
+        "id": "1433798888138412039",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@philippehk01 @SchneiderElec Thanks @philippehk01! We are delighted to welcome @SchneiderElec to Covento.\nWe look forward to maintaining and strengthening the collaboration for the benefit of the wind and renewable energy industry."
+    }
+}

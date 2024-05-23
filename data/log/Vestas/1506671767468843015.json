@@ -1,0 +1,45 @@
+{
+    "1506671767468843015": {
+        "author_id": "156646851",
+        "created_at": "2022-03-23T16:38:36.000Z",
+        "edit_history_tweet_ids": [
+            "1506671767468843015"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "925202766259253248",
+                    "start": 0,
+                    "username": "MartyMcSupaflay"
+                },
+                {
+                    "end": 30,
+                    "id": "22271644",
+                    "start": 17,
+                    "username": "USCleanPower"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "twitter.com/Vestas/status/\u2026",
+                    "end": 100,
+                    "expanded_url": "https://twitter.com/Vestas/status/1499068413888585737",
+                    "start": 77,
+                    "url": "https://t.co/KTzc3nyyDx"
+                }
+            ]
+        },
+        "id": "1506671767468843015",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@MartyMcSupaflay @USCleanPower You can find information on this matter here: https://t.co/KTzc3nyyDx"
+    }
+}

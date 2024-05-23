@@ -1,0 +1,88 @@
+{
+    "1683960347521175552": {
+        "attachments": {
+            "media_keys": [
+                "3_1683960343549050881"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-07-25T22:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1683960347521175552"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 171,
+                    "normalized_text": "Weld",
+                    "probability": 0.4661,
+                    "start": 168,
+                    "type": "Organization"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Australia",
+                    "probability": 0.395,
+                    "start": 173,
+                    "type": "Place"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "National Manufacturing Summit",
+                    "probability": 0.7006,
+                    "start": 185,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "Parliament House",
+                    "probability": 0.5167,
+                    "start": 218,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "Canberra",
+                    "probability": 0.8952,
+                    "start": 238,
+                    "type": "Place"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "Australia",
+                    "probability": 0.9712,
+                    "start": 248,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 128,
+                    "start": 111,
+                    "tag": "energytransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/kRkP5ALngg",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Vestas/status/1683960347521175552/photo/1",
+                    "media_key": "3_1683960343549050881",
+                    "start": 266,
+                    "url": "https://t.co/kRkP5ALngg"
+                }
+            ]
+        },
+        "id": "1683960347521175552",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1884,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83c\udde6\ud83c\uddfa: Our global network of suppliers and partners play a valuable role in our ambition to drive the sustainable #energytransition. That\u2019s why we look forward to joining Weld Australia\u2019s National Manufacturing Summit at Parliament House in Canberra, Australia.  (1/2) https://t.co/kRkP5ALngg"
+    }
+}

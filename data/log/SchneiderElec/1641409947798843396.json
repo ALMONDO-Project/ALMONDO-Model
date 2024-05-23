@@ -1,0 +1,83 @@
+{
+    "1641409947798843396": {
+        "attachments": {
+            "media_keys": [
+                "3_1641409942841073665"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-30T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1641409947798843396"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "EVlink Home Smart",
+                    "probability": 0.7897,
+                    "start": 85,
+                    "type": "Other"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Wiser",
+                    "probability": 0.6291,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "ParisMarathon Expo",
+                    "probability": 0.5631,
+                    "start": 146,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Paris Marathon",
+                    "probability": 0.8927,
+                    "start": 226,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 145,
+                    "tag": "ParisMarathon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018O8yIw",
+                    "end": 270,
+                    "expanded_url": "http://spr.ly/6018O8yIw",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/marathondeparis.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9300919788&utm_campaign=Sustainability&country=Global",
+                    "url": "https://t.co/J1aCecLrd3"
+                },
+                {
+                    "display_url": "pic.twitter.com/6bvCxfMqoj",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1641409947798843396/photo/1",
+                    "media_key": "3_1641409942841073665",
+                    "start": 271,
+                    "url": "https://t.co/6bvCxfMqoj"
+                }
+            ]
+        },
+        "id": "1641409947798843396",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2524,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Looking for a more efficient EV charging solution? Save time, energy, and money with EVlink Home Smart, connected to Wiser app. \nVisit us at the #ParisMarathon Expo from March 30 to April 1 to catch a demo.\n \nLearn more about Paris Marathon here:\nhttps://t.co/J1aCecLrd3 https://t.co/6bvCxfMqoj"
+    }
+}

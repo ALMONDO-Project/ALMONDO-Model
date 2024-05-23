@@ -1,0 +1,103 @@
+{
+    "1564598890778746880": {
+        "attachments": {
+            "media_keys": [
+                "3_1564598879932354562",
+                "3_1564598884038582272",
+                "3_1564598888002093056"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-08-30T13:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1564598890778746880"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 142,
+                    "normalized_text": "Aarhus",
+                    "probability": 0.7101,
+                    "start": 137,
+                    "type": "Place"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "Vestas",
+                    "probability": 0.3967,
+                    "start": 149,
+                    "type": "Place"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "M\u00e6rsk",
+                    "probability": 0.4889,
+                    "start": 189,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 143,
+                    "start": 136,
+                    "tag": "Aarhus"
+                },
+                {
+                    "end": 155,
+                    "start": 148,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 214,
+                    "start": 204,
+                    "tag": "diversity"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 104,
+                    "id": "380801406",
+                    "start": 97,
+                    "username": "Maersk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7fSWsqzjrb",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Vestas/status/1564598890778746880/photo/1",
+                    "media_key": "3_1564598879932354562",
+                    "start": 281,
+                    "url": "https://t.co/7fSWsqzjrb"
+                },
+                {
+                    "display_url": "pic.twitter.com/7fSWsqzjrb",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Vestas/status/1564598890778746880/photo/1",
+                    "media_key": "3_1564598884038582272",
+                    "start": 281,
+                    "url": "https://t.co/7fSWsqzjrb"
+                },
+                {
+                    "display_url": "pic.twitter.com/7fSWsqzjrb",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Vestas/status/1564598890778746880/photo/1",
+                    "media_key": "3_1564598888002093056",
+                    "start": 281,
+                    "url": "https://t.co/7fSWsqzjrb"
+                }
+            ]
+        },
+        "id": "1564598890778746880",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 22,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "\u201cTo be great, be whole. Don\u2019t exaggerate or leave out any part of you,\" wrote a colleague in the @Maersk Rainbow container at our HQ in #Aarhus \ud83c\udde9\ud83c\uddf0. #Vestas is taking our collaboration with M\u00e6rsk\u2019s global #diversity campaign as an opportunity to learn directly from our colleagues. https://t.co/7fSWsqzjrb"
+    }
+}

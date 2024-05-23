@@ -1,0 +1,53 @@
+{
+    "1635894214457188352": {
+        "author_id": "194037150",
+        "created_at": "2023-03-15T06:42:28.000Z",
+        "edit_history_tweet_ids": [
+            "1635894214457188352"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Mary",
+                    "probability": 0.6334,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 279,
+                    "normalized_text": "Asif",
+                    "probability": 0.2859,
+                    "start": 276,
+                    "type": "Other"
+                },
+                {
+                    "end": 293,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.34,
+                    "start": 282,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1419362814171439105",
+                    "start": 0,
+                    "username": "Marynegrita3"
+                }
+            ]
+        },
+        "id": "1635894214457188352",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 52,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Marynegrita3 Hi Mary, we are sorry to hear that. As your post contains information that we consider an adverse event, we are required to report it internally. Kindly DM your contact details and country of residence so I can put you in contact with relevant colleagues.\nBest, Asif, Novo Nordisk"
+    }
+}

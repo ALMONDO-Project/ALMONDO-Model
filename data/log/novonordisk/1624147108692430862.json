@@ -1,0 +1,56 @@
+{
+    "1624147108692430862": {
+        "author_id": "194037150",
+        "created_at": "2023-02-10T20:43:40.000Z",
+        "edit_history_tweet_ids": [
+            "1624147108692430862"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 142,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.4539,
+                    "start": 131,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1354088614003666949",
+                    "start": 0,
+                    "username": "hippiecita"
+                },
+                {
+                    "end": 24,
+                    "id": "1233418190828527617",
+                    "start": 12,
+                    "username": "1907medya__"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.com.tr",
+                    "end": 98,
+                    "expanded_url": "https://www.novonordisk.com.tr/",
+                    "start": 75,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.com.tr/",
+                    "url": "https://t.co/fUyDak3Uw6"
+                }
+            ]
+        },
+        "id": "1624147108692430862",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 58,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@hippiecita @1907medya__ You can find the latest updated information here:\nhttps://t.co/fUyDak3Uw6\n\nTake care and all the best\nBo, Novo Nordisk"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1726835419055022365": {
+        "attachments": {
+            "media_keys": [
+                "13_1726835344983707648"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-21T05:30:21.000Z",
+        "edit_history_tweet_ids": [
+            "1726835419055022365"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.9547,
+                    "start": 65,
+                    "type": "Person"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "AI",
+                    "probability": 0.4486,
+                    "start": 93,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6019uNQkV",
+                    "end": 245,
+                    "expanded_url": "http://spr.ly/l/6019uNQkV",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6019uNQkV",
+                    "url": "https://t.co/ra8ymQdWnp"
+                },
+                {
+                    "display_url": "pic.twitter.com/zo6rAwnBR7",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1726835419055022365/video/1",
+                    "media_key": "13_1726835344983707648",
+                    "start": 246,
+                    "url": "https://t.co/zo6rAwnBR7"
+                }
+            ]
+        },
+        "id": "1726835419055022365",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1061,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Is deep learning a technology able to reshape energy management? Philippe Rambach, our Chief AI Officer, shares how our experts innovate to minimize emissions and optimize energy consumption from a building's early (cont) https://t.co/ra8ymQdWnp https://t.co/zo6rAwnBR7"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1542150627698114561": {
+        "attachments": {
+            "media_keys": [
+                "3_1542150624967540739"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-06-29T14:18:56.000Z",
+        "edit_history_tweet_ids": [
+            "1542150627698114561"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4949,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Finland",
+                    "probability": 0.9524,
+                    "start": 83,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "1189451842578726912",
+                    "start": 44,
+                    "username": "ilmatarenergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/7juhe4o",
+                    "end": 277,
+                    "expanded_url": "https://fcld.ly/7juhe4o",
+                    "start": 254,
+                    "url": "https://t.co/Edw4FzuY7H"
+                },
+                {
+                    "display_url": "pic.twitter.com/RGuK3ybnzT",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Vestas/status/1542150627698114561/photo/1",
+                    "media_key": "3_1542150624967540739",
+                    "start": 278,
+                    "url": "https://t.co/RGuK3ybnzT"
+                }
+            ]
+        },
+        "id": "1542150627698114561",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 28,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Vestas has received a new 135 MW order from @ilmatarenergy Oy for four projects in Finland.\ud83c\uddeb\ud83c\uddee\nThe order includes the supply, installation, and commissioning of V162-6.2 MW and V150-4.2 MW wind turbines, delivered in various operating modes. \nLearn more: https://t.co/Edw4FzuY7H https://t.co/RGuK3ybnzT"
+    }
+}

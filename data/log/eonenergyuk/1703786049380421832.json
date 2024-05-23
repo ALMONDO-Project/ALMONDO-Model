@@ -1,0 +1,77 @@
+{
+    "1703786049380421832": {
+        "author_id": "142611379",
+        "created_at": "2023-09-18T15:00:23.000Z",
+        "edit_history_tweet_ids": [
+            "1703786049380421832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Sheffield",
+                    "probability": 0.8091,
+                    "start": 35,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "Yorkshire",
+                    "probability": 0.9371,
+                    "start": 93,
+                    "type": "Place"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "E.ON",
+                    "probability": 0.5061,
+                    "start": 104,
+                    "type": "Place"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "UK",
+                    "probability": 0.9422,
+                    "start": 160,
+                    "type": "Place"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Blackburn Meadows",
+                    "probability": 0.7924,
+                    "start": 230,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 147,
+                    "tag": "decarbonise"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3sVuzhw",
+                    "end": 277,
+                    "expanded_url": "https://bit.ly/3sVuzhw",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.eonenergy.com/newsroom.html",
+                    "url": "https://t.co/lOrditzZV6"
+                }
+            ]
+        },
+        "id": "1703786049380421832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1070,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re exploring how to decarbonise Sheffield\u2019s steel industry.\n\nWorking with partners across Yorkshire, E.ON is exploring how green hydrogen could #decarbonise UK energy-intensive industries.\n\nRead about our work with hydrogen at Blackburn Meadows here: https://t.co/lOrditzZV6"
+    }
+}

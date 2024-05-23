@@ -1,0 +1,67 @@
+{
+    "1610289888728940544": {
+        "attachments": {
+            "media_keys": [
+                "3_1610289886099111936"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-01-03T15:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1610289888728940544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "ARC Advisory Group",
+                    "probability": 0.538,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.4776,
+                    "start": 65,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 76,
+                    "start": 64,
+                    "tag": "EcoStruxure"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60163JGrG",
+                    "end": 195,
+                    "expanded_url": "http://spr.ly/60163JGrG",
+                    "start": 172,
+                    "url": "https://t.co/4NX5qOtYPl"
+                },
+                {
+                    "display_url": "pic.twitter.com/jVMOLHdDj4",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1610289888728940544/photo/1",
+                    "media_key": "3_1610289886099111936",
+                    "start": 196,
+                    "url": "https://t.co/jVMOLHdDj4"
+                }
+            ]
+        },
+        "id": "1610289888728940544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1257,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "In this podcast episode, we discuss with ARC Advisory Group how #EcoStruxure Power and Process and other value chain optimization technologies are impacting organizations. https://t.co/4NX5qOtYPl https://t.co/jVMOLHdDj4"
+    }
+}

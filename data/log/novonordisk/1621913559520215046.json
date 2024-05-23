@@ -1,0 +1,71 @@
+{
+    "1621913559520215046": {
+        "author_id": "194037150",
+        "created_at": "2023-02-04T16:48:20.000Z",
+        "edit_history_tweet_ids": [
+            "1621913559520215046"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "Mexico",
+                    "probability": 0.5538,
+                    "start": 114,
+                    "type": "Place"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Scott",
+                    "probability": 0.4539,
+                    "start": 198,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "906152778124361728",
+                    "start": 0,
+                    "username": "Osiris33161952"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Novo Nordisk M\u00e9xico S.A. de C.V. informa al p\u00fablico en general que no realiza venta directa de medicamentos a trav\u00e9s de su p\u00e1gina de internet corporativa. Los \u00fanicos canales de venta son a trav\u00e9s de las cadenas de farmacias abiertas al p\u00fablico, legalmente autorizadas. Se hace el llamado a la poblaci\u00f3n para adquirir sus medicamentos en estos sitios y evitar portales de internet que no correspondan a estas cadenas de farmacias.",
+                    "display_url": "novonordisk.com.mx/contact-us.html",
+                    "end": 182,
+                    "expanded_url": "https://www.novonordisk.com.mx/contact-us.html",
+                    "images": [
+                        {
+                            "height": 2242,
+                            "url": "https://pbs.twimg.com/news_img/1713515715670458368/LLV4rjkF?format=jpg&name=orig",
+                            "width": 3992
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1713515715670458368/LLV4rjkF?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 159,
+                    "status": 200,
+                    "title": "Cont\u00e1ctenos",
+                    "unwound_url": "https://www.novonordisk.com.mx/contact-us.html",
+                    "url": "https://t.co/a1IpJpP9Ov"
+                }
+            ]
+        },
+        "id": "1621913559520215046",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 22,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Osiris33161952 Hi. We have expereinced a fraudulat website selling our prodcuts. Please contact my colleagues in Mexico: +55 5002 6686 or through our website https://t.co/a1IpJpP9Ov. All the best, Scott"
+    }
+}

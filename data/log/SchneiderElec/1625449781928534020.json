@@ -1,0 +1,67 @@
+{
+    "1625449781928534020": {
+        "attachments": {
+            "media_keys": [
+                "3_1625449777641955330"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-02-14T11:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1625449781928534020"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "ParisMarathon",
+                    "probability": 0.689,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Valentine\u2019s Day",
+                    "probability": 0.696,
+                    "start": 232,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 0,
+                    "tag": "ParisMarathon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60113m0wJ",
+                    "end": 274,
+                    "expanded_url": "http://spr.ly/60113m0wJ",
+                    "start": 251,
+                    "url": "https://t.co/d6k9TeYPb6"
+                },
+                {
+                    "display_url": "pic.twitter.com/2Ff9qBk3TN",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1625449781928534020/photo/1",
+                    "media_key": "3_1625449777641955330",
+                    "start": 275,
+                    "url": "https://t.co/2Ff9qBk3TN"
+                }
+            ]
+        },
+        "id": "1625449781928534020",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 838,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "#ParisMarathon is fast approaching! Running can be much more than a workout. It's a way to connect with the world around you, yourself, and your partner. So get your hearts beating in the same rhythm and celebrate togetherness this Valentine\u2019s Day \ud83d\udc97\ud83d\udc96 https://t.co/d6k9TeYPb6 https://t.co/2Ff9qBk3TN"
+    }
+}

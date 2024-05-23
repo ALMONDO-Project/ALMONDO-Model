@@ -1,0 +1,57 @@
+{
+    "1670459547142479872": {
+        "author_id": "194037150",
+        "created_at": "2023-06-18T15:52:46.000Z",
+        "edit_history_tweet_ids": [
+            "1670459547142479872"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Paul",
+                    "probability": 0.6861,
+                    "start": 43,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1523139410",
+                    "start": 0,
+                    "username": "t1dleader"
+                },
+                {
+                    "end": 17,
+                    "id": "35165295",
+                    "start": 11,
+                    "username": "ukgov"
+                },
+                {
+                    "end": 29,
+                    "id": "16864209",
+                    "start": 18,
+                    "username": "DiabetesUK"
+                },
+                {
+                    "end": 37,
+                    "id": "35846368",
+                    "start": 30,
+                    "username": "sanofi"
+                }
+            ]
+        },
+        "id": "1670459547142479872",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 143,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@t1dleader @ukgov @DiabetesUK @sanofi Dear Paul\nEven though we have anticipated increased demand &amp; are also supplying more medicine than ever, the demand has been much higher than expected. This, combined with a need for time to build additional capacity in our production, has led to our current supply constraints."
+    }
+}

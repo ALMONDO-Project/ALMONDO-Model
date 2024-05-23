@@ -1,0 +1,62 @@
+{
+    "1715330528671355122": {
+        "attachments": {
+            "media_keys": [
+                "3_1715330526125367296"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-10-20T11:34:01.000Z",
+        "edit_history_tweet_ids": [
+            "1715330528671355122"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 122,
+                    "normalized_text": "MT",
+                    "probability": 0.4727,
+                    "start": 121,
+                    "type": "Other"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "IEC",
+                    "probability": 0.3794,
+                    "start": 158,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6017uwaWF",
+                    "end": 243,
+                    "expanded_url": "http://spr.ly/l/6017uwaWF",
+                    "start": 220,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6017uwaWF",
+                    "url": "https://t.co/GGLfPsF6yL"
+                },
+                {
+                    "display_url": "pic.twitter.com/44lDO3Xw4i",
+                    "end": 267,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1715330528671355122/photo/1",
+                    "media_key": "3_1715330526125367296",
+                    "start": 244,
+                    "url": "https://t.co/44lDO3Xw4i"
+                }
+            ]
+        },
+        "id": "1715330528671355122",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1075,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Want to stay ahead in Medium Voltage specifications? Our latest Technical Guide has all the knowledge you need to design MT installations based on the latest IEC standards. Download our Technical Guide to explore (cont) https://t.co/GGLfPsF6yL https://t.co/44lDO3Xw4i"
+    }
+}

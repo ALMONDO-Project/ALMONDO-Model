@@ -1,0 +1,39 @@
+{
+    "1711728817251766420": {
+        "author_id": "21746077",
+        "created_at": "2023-10-10T13:02:07.000Z",
+        "edit_history_tweet_ids": [
+            "1711728817251766420"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "Tel Aviv",
+                    "probability": 0.9306,
+                    "start": 37,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 82,
+                    "id": "959448294832340992",
+                    "start": 66,
+                    "username": "CentricaSoln_UK"
+                }
+            ]
+        },
+        "id": "1711728817251766420",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 529,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Our love and support goes out to our Tel Aviv based colleagues at @CentricaSoln_UK, and their families affected by events over the last few days.\n\nPlease know that our thoughts are with you and all those innocently impacted by these devastating events."
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1667088257954242560": {
+        "attachments": {
+            "media_keys": [
+                "3_1667087874838102017"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-06-09T08:36:28.000Z",
+        "edit_history_tweet_ids": [
+            "1667088257954242560"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Codford Solar Farm",
+                    "probability": 0.5319,
+                    "start": 55,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 23,
+                    "id": "436576452",
+                    "start": 11,
+                    "username": "CSkidmoreUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wc1Vq6sZ1U",
+                    "end": 202,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1667088257954242560/photo/1",
+                    "media_key": "3_1667087874838102017",
+                    "start": 179,
+                    "url": "https://t.co/wc1Vq6sZ1U"
+                }
+            ]
+        },
+        "id": "1667088257954242560",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1804,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Shine On\ud83c\udf1e\n\n@CSkidmoreUK was on hand to officially open Codford Solar Farm \u2013 the first owned and operated asset under our plans to build out a portfolio of flexible energy assets. https://t.co/wc1Vq6sZ1U"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "1667041338712289280": {
+        "attachments": {
+            "media_keys": [
+                "3_1667041335159734273"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-09T05:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1667041338712289280"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Juergen Weichenberger",
+                    "probability": 0.9079,
+                    "start": 35,
+                    "type": "Person"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Value",
+                    "probability": 0.5292,
+                    "start": 68,
+                    "type": "Other"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "Germany",
+                    "probability": 0.9506,
+                    "start": 224,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014OIe3s",
+                    "end": 282,
+                    "expanded_url": "http://spr.ly/6014OIe3s",
+                    "start": 259,
+                    "status": 200,
+                    "unwound_url": "https://key-notion.com/operational-excellence-process-transformation-summit-hamburg/",
+                    "url": "https://t.co/qqmso5zXzP"
+                },
+                {
+                    "display_url": "pic.twitter.com/h34vpzhybn",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1667041338712289280/photo/1",
+                    "media_key": "3_1667041335159734273",
+                    "start": 283,
+                    "url": "https://t.co/h34vpzhybn"
+                }
+            ]
+        },
+        "id": "1667041338712289280",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1973,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Don't miss the opportunity to hear Juergen Weichenberger, VP AI New Value Stream present his insights on digital transformation for operational excellence at the Operational Excellence &amp; Process Transformation summit in Germany on June 15. Register here: https://t.co/qqmso5zXzP https://t.co/h34vpzhybn"
+    }
+}

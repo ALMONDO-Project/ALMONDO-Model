@@ -1,0 +1,75 @@
+{
+    "1659542100671602691": {
+        "attachments": {
+            "media_keys": [
+                "3_1659541945218211840"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-05-19T12:50:44.000Z",
+        "edit_history_tweet_ids": [
+            "1659542100671602691"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Fayre",
+                    "probability": 0.5256,
+                    "start": 75,
+                    "type": "Other"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Mike Freer",
+                    "probability": 0.5938,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "Golders Green Synagogue",
+                    "probability": 0.81,
+                    "start": 136,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 214,
+                    "start": 207,
+                    "tag": "energy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 128,
+                    "id": "89248364",
+                    "start": 113,
+                    "username": "Finchleytories"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Yai4oGyka7",
+                    "end": 276,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1659542100671602691/photo/1",
+                    "media_key": "3_1659541945218211840",
+                    "start": 253,
+                    "url": "https://t.co/Yai4oGyka7"
+                }
+            ]
+        },
+        "id": "1659542100671602691",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 503,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We were delighted to take part in today's Over 55's Advice and Information Fayre organised by Mike Freer MP, and @Finchleytories at the Golders Green Synagogue to raise awareness and talk about the help and #energy support available to local residents. https://t.co/Yai4oGyka7"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "1407997638230908930": {
+        "attachments": {
+            "media_keys": [
+                "13_1407997485914759170"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-24T09:42:50.000Z",
+        "edit_history_tweet_ids": [
+            "1407997638230908930"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "Kincardine",
+                    "probability": 0.5368,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "Grupo Cobra",
+                    "probability": 0.7713,
+                    "start": 210,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 238,
+                    "id": "206430534",
+                    "start": 223,
+                    "username": "principlepower"
+                },
+                {
+                    "end": 257,
+                    "id": "297271237",
+                    "start": 241,
+                    "username": "NavantiaOficial"
+                },
+                {
+                    "end": 277,
+                    "id": "150237194",
+                    "start": 262,
+                    "username": "beleefboskalis"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/xF7PzNixjF",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Vestas/status/1407997638230908930/video/1",
+                    "media_key": "13_1407997485914759170",
+                    "start": 278,
+                    "url": "https://t.co/xF7PzNixjF"
+                }
+            ]
+        },
+        "id": "1407997638230908930",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 47,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "We are currently installing our turbines at the world\u2019s largest floating project, the Kincardine offshore wind farm.\nEach floating platform weighs 3,000 tonnes \u2013 the same as 500 elephants! \ud83d\udc18\n\nSpecial thanks to Grupo Cobra, @principlepower ,\n@NavantiaOficial and @beleefboskalis https://t.co/xF7PzNixjF"
+    }
+}

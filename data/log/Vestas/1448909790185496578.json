@@ -1,0 +1,79 @@
+{
+    "1448909790185496578": {
+        "attachments": {
+            "media_keys": [
+                "3_1448909786477744130"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-10-15T07:13:08.000Z",
+        "edit_history_tweet_ids": [
+            "1448909790185496578"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.4403,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "\u00d8sterild National",
+                    "probability": 0.5592,
+                    "start": 64,
+                    "type": "Other"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9724,
+                    "start": 98,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 105,
+                    "start": 97,
+                    "tag": "Denmark"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/wwz60ii",
+                    "end": 282,
+                    "expanded_url": "https://fcld.ly/wwz60ii",
+                    "start": 259,
+                    "url": "https://t.co/dyA1Vacgv3"
+                },
+                {
+                    "display_url": "pic.twitter.com/pq3MoBaXzq",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/Vestas/status/1448909790185496578/photo/1",
+                    "media_key": "3_1448909786477744130",
+                    "start": 283,
+                    "url": "https://t.co/pq3MoBaXzq"
+                }
+            ]
+        },
+        "id": "1448909790185496578",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 8,
+            "impression_count": 0,
+            "like_count": 433,
+            "quote_count": 40,
+            "reply_count": 16,
+            "retweet_count": 85
+        },
+        "text": "#Vestas will install the V236-15.0 MW offshore prototype at the \u00d8sterild National test centre in #Denmark. Stretching 280m into the air with an output of 80 GWh/year, the prototype will be the tallest &amp; most powerful turbine in the world once installed \u27a1 https://t.co/dyA1Vacgv3 https://t.co/pq3MoBaXzq"
+    }
+}

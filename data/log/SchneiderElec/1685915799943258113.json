@@ -1,0 +1,81 @@
+{
+    "1685915799943258113": {
+        "attachments": {
+            "media_keys": [
+                "13_1685915701771378688"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-07-31T07:30:24.000Z",
+        "edit_history_tweet_ids": [
+            "1685915799943258113"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "AI",
+                    "probability": 0.8936,
+                    "start": 16,
+                    "type": "Organization"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "AI",
+                    "probability": 0.6761,
+                    "start": 91,
+                    "type": "Organization"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "Philippe Rambach",
+                    "probability": 0.904,
+                    "start": 195,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 264,
+                    "start": 241,
+                    "tag": "artificialintelligence"
+                },
+                {
+                    "end": 279,
+                    "start": 265,
+                    "tag": "responsibleAI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015PXWVD",
+                    "end": 240,
+                    "expanded_url": "http://spr.ly/6015PXWVD",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "https://blog.se.com/digital-transformation/artificial-intelligence/2023/05/28/nobody-should-blindly-trust-ai-heres-what-we-can-do-instead/?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=10866154890&utm_campaign=EcoStruxure_-_Innovation_at_Every_Level&country=Global",
+                    "url": "https://t.co/KUXW6HTbY3"
+                },
+                {
+                    "display_url": "pic.twitter.com/IkBi0lHxBL",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1685915799943258113/video/1",
+                    "media_key": "13_1685915701771378688",
+                    "start": 280,
+                    "url": "https://t.co/IkBi0lHxBL"
+                }
+            ]
+        },
+        "id": "1685915799943258113",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2082,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "Would you trust AI to control the energy usage in your factory? Make sure you use reliable AI solutions that are designed and controlled by domain experts. Read the blog by our Chief AI Officer, Philippe Rambach now: https://t.co/KUXW6HTbY3\n#artificialintelligence #responsibleAI https://t.co/IkBi0lHxBL"
+    }
+}

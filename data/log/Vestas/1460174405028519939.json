@@ -1,0 +1,137 @@
+{
+    "1460174405028519939": {
+        "attachments": {
+            "media_keys": [
+                "3_1460174402113445896"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-11-15T09:14:41.000Z",
+        "edit_history_tweet_ids": [
+            "1460174405028519939"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Saint-Malo",
+                    "probability": 0.9434,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "FOWT2021",
+                    "probability": 0.7063,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Charles Dugu\u00e9",
+                    "probability": 0.5869,
+                    "start": 125,
+                    "type": "Person"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Benoit Gilbert",
+                    "probability": 0.7936,
+                    "start": 140,
+                    "type": "Person"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Pablo Necochea",
+                    "probability": 0.7408,
+                    "start": 156,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Nadia Loumani",
+                    "probability": 0.6759,
+                    "start": 175,
+                    "type": "Other"
+                },
+                {
+                    "end": 207,
+                    "normalized_text": "GBI",
+                    "probability": 0.5564,
+                    "start": 205,
+                    "type": "Organization"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "EFGL",
+                    "probability": 0.4165,
+                    "start": 218,
+                    "type": "Organization"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "Windfloat",
+                    "probability": 0.3955,
+                    "start": 224,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 64,
+                    "tag": "FOWT2021"
+                },
+                {
+                    "end": 208,
+                    "start": 204,
+                    "tag": "GBI"
+                },
+                {
+                    "end": 216,
+                    "start": 209,
+                    "tag": "EOLMED"
+                },
+                {
+                    "end": 222,
+                    "start": 217,
+                    "tag": "EFGL"
+                },
+                {
+                    "end": 233,
+                    "start": 223,
+                    "tag": "Windfloat"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 40,
+                    "id": "156646851",
+                    "start": 33,
+                    "username": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/KjWLCDAzLG",
+                    "end": 257,
+                    "expanded_url": "https://twitter.com/Vestas/status/1460174405028519939/photo/1",
+                    "media_key": "3_1460174402113445896",
+                    "start": 234,
+                    "url": "https://t.co/KjWLCDAzLG"
+                }
+            ]
+        },
+        "id": "1460174405028519939",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "From 16th to 18th November, meet @Vestas team in Saint-Malo, at #FOWT2021, the world's largest Floating Offshore Event.\nMeet Charles Dugu\u00e9, Benoit Gilbert, Pablo Necochea and Nadia Loumani at our stand. \n#GBI #EOLMED #EFGL #Windfloat https://t.co/KjWLCDAzLG"
+    }
+}

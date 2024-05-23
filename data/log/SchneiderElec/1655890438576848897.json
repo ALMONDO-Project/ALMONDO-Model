@@ -1,0 +1,69 @@
+{
+    "1655890438576848897": {
+        "attachments": {
+            "media_keys": [
+                "13_1655890364065087491"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-05-09T11:00:20.000Z",
+        "edit_history_tweet_ids": [
+            "1655890438576848897"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "AI",
+                    "probability": 0.7991,
+                    "start": 84,
+                    "type": "Organization"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "EcoStruxure",
+                    "probability": 0.5466,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 191,
+                    "start": 177,
+                    "tag": "MakeItForLife"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6013OVRDR",
+                    "end": 176,
+                    "expanded_url": "http://spr.ly/6013OVRDR",
+                    "start": 153,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Tilsb3_61XQ",
+                    "url": "https://t.co/S7q2VQJE5O"
+                },
+                {
+                    "display_url": "pic.twitter.com/LJIjcgnZF5",
+                    "end": 215,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1655890438576848897/video/1",
+                    "media_key": "13_1655890364065087491",
+                    "start": 192,
+                    "url": "https://t.co/LJIjcgnZF5"
+                }
+            ]
+        },
+        "id": "1655890438576848897",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1645,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Why limit yourself to closed systems when you can integrate predictive maintenance, AI, and more with EcoStruxure Automation Expert? Watch to learn more https://t.co/S7q2VQJE5O #MakeItForLife https://t.co/LJIjcgnZF5"
+    }
+}

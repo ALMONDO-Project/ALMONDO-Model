@@ -1,0 +1,107 @@
+{
+    "1538886268666499074": {
+        "attachments": {
+            "media_keys": [
+                "3_1538886249339097089",
+                "3_1538886256410644480",
+                "3_1538886263960485888"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-06-20T14:07:32.000Z",
+        "edit_history_tweet_ids": [
+            "1538886268666499074"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Danish Royal Trade",
+                    "probability": 0.5279,
+                    "start": 39,
+                    "type": "Organization"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.5808,
+                    "start": 71,
+                    "type": "Place"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6785,
+                    "start": 154,
+                    "type": "Place"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.7348,
+                    "start": 252,
+                    "type": "Place"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "Europe",
+                    "probability": 0.965,
+                    "start": 272,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 160,
+                    "start": 153,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "156646851",
+                    "start": 7,
+                    "username": "Vestas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/UOoX7gL4WC",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1538886268666499074/photo/1",
+                    "media_key": "3_1538886249339097089",
+                    "start": 280,
+                    "url": "https://t.co/UOoX7gL4WC"
+                },
+                {
+                    "display_url": "pic.twitter.com/UOoX7gL4WC",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1538886268666499074/photo/1",
+                    "media_key": "3_1538886256410644480",
+                    "start": 280,
+                    "url": "https://t.co/UOoX7gL4WC"
+                },
+                {
+                    "display_url": "pic.twitter.com/UOoX7gL4WC",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Vestas/status/1538886268666499074/photo/1",
+                    "media_key": "3_1538886263960485888",
+                    "start": 280,
+                    "url": "https://t.co/UOoX7gL4WC"
+                }
+            ]
+        },
+        "id": "1538886268666499074",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Today, @Vestas is participating in the Danish Royal Trade visit to The Netherlands. There is great potential in the Dutch energy transition for wind and #Vestas is ready to take a leading role in ensuring a more secure and green energy system, for The Netherlands and for Europe. https://t.co/UOoX7gL4WC"
+    }
+}

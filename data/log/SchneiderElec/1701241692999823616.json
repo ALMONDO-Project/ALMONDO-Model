@@ -1,0 +1,62 @@
+{
+    "1701241692999823616": {
+        "attachments": {
+            "media_keys": [
+                "3_1701241688478420992"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-09-11T14:30:01.000Z",
+        "edit_history_tweet_ids": [
+            "1701241692999823616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 165,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.8123,
+                    "start": 148,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 42,
+                    "start": 17,
+                    "tag": "SustainabilityLiveLondon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6017PFx9z",
+                    "end": 238,
+                    "expanded_url": "http://spr.ly/l/6017PFx9z",
+                    "start": 215,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6017PFx9z",
+                    "url": "https://t.co/NYN6FTIUeO"
+                },
+                {
+                    "display_url": "pic.twitter.com/Q1pyDnjmk5",
+                    "end": 262,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1701241692999823616/photo/1",
+                    "media_key": "3_1701241688478420992",
+                    "start": 239,
+                    "url": "https://t.co/Q1pyDnjmk5"
+                }
+            ]
+        },
+        "id": "1701241692999823616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1061,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "That's a wrap on #SustainabilityLiveLondon. Thank you to everyone who came to support the event (or joined remotely from around the world), and our Schneider Electric team for leading the conversation around (cont) https://t.co/NYN6FTIUeO https://t.co/Q1pyDnjmk5"
+    }
+}

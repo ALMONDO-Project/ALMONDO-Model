@@ -1,0 +1,46 @@
+{
+    "1727981318120583320": {
+        "author_id": "194037150",
+        "created_at": "2023-11-24T09:23:45.000Z",
+        "edit_history_tweet_ids": [
+            "1727981318120583320"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Apis",
+                    "probability": 0.6617,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Scott",
+                    "probability": 0.7388,
+                    "start": 189,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1586742230865379328",
+                    "start": 0,
+                    "username": "nonaugenocide"
+                }
+            ]
+        },
+        "id": "1727981318120583320",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 54,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@nonaugenocide Hi. The Apis bull has been our logo since 1925. The choice of the logo follows a European chemist tradition of identifying pharmacies through an animal symbol.\u00a0All the best, Scott"
+    }
+}

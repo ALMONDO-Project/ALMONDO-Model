@@ -1,0 +1,38 @@
+{
+    "1716833785998897277": {
+        "author_id": "23045838",
+        "created_at": "2023-10-24T15:07:26.000Z",
+        "edit_history_tweet_ids": [
+            "1716833785998897277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 238,
+                    "normalized_text": "EU",
+                    "probability": 0.9445,
+                    "start": 237,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 58,
+                    "start": 47,
+                    "tag": "hydropower"
+                }
+            ]
+        },
+        "id": "1716833785998897277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 42,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udd37 Due to its flexibility and storage capacity, #hydropower can balance the fluctuations of volatile renewables like wind and solar. It is therefore essential for efficient energy management in the future and contributes to achieving the EU's decarbonization goals."
+    }
+}

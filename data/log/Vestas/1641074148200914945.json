@@ -1,0 +1,68 @@
+{
+    "1641074148200914945": {
+        "author_id": "156646851",
+        "created_at": "2023-03-29T13:45:41.000Z",
+        "edit_history_tweet_ids": [
+            "1641074148200914945"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 198,
+                    "normalized_text": "Central Europe",
+                    "probability": 0.6593,
+                    "start": 185,
+                    "type": "Place"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "David Rooney",
+                    "probability": 0.9402,
+                    "start": 201,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 123,
+                    "start": 110,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 268,
+                    "start": 250,
+                    "tag": "energysecurityday"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renewableuk.com/news/636003/Re\u2026",
+                    "end": 248,
+                    "expanded_url": "https://www.renewableuk.com/news/636003/RenewableUK-urges-PM-to-take-bold-action-to-boost-green-economic-growth-on-Energy-Security-Day-.htm",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "https://www.renewableuk.com/news/636003/RenewableUK-urges-PM-to-take-bold-action-to-boost-green-economic-growth-on-Energy-Security-Day-.htm",
+                    "url": "https://t.co/3sEdvrnlYQ"
+                },
+                {
+                    "display_url": "x.com/RenewableUK/st\u2026",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/RenewableUK/status/1641033476085350404",
+                    "start": 269,
+                    "url": "https://t.co/7iLnPeFl1W"
+                }
+            ]
+        },
+        "id": "1641074148200914945",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2686,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "\ud83c\uddec\ud83c\udde7\u2019s green economic growth could be at peril if we don\u2019t see decisive action from policy makers to strengthen #offshorewind, among other solutions.\n\nRead our SVP, Offshore, North &amp; Central Europe, David Rooney\u2019s take \u2b07\ufe0f \nhttps://t.co/3sEdvrnlYQ\n\n#energysecurityday https://t.co/7iLnPeFl1W"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "1642783998735785984": {
+        "attachments": {
+            "media_keys": [
+                "3_1642783996554665987"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-04-03T07:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1642783998735785984"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 159,
+                    "normalized_text": "HM23",
+                    "probability": 0.5616,
+                    "start": 156,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 154,
+                    "start": 132,
+                    "tag": "IndustriesOfTheFuture"
+                },
+                {
+                    "end": 160,
+                    "start": 155,
+                    "tag": "HM23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "23083866",
+                    "start": 31,
+                    "username": "hannover_messe"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60193fPuF",
+                    "end": 131,
+                    "expanded_url": "http://spr.ly/60193fPuF",
+                    "start": 108,
+                    "status": 200,
+                    "unwound_url": "https://www.se.com/ww/en/about-us/events/hannover-messe.jsp?utm_source=TWITTER&utm_medium=organic_social&utm_term=SchneiderElec&utm_content=9184401094&utm_campaign=Industry_of_the_Future&country=Global",
+                    "url": "https://t.co/ARmmu6Mu3r"
+                },
+                {
+                    "display_url": "pic.twitter.com/9ypiTwzSfh",
+                    "end": 184,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1642783998735785984/photo/1",
+                    "media_key": "3_1642783996554665987",
+                    "start": 161,
+                    "url": "https://t.co/9ypiTwzSfh"
+                }
+            ]
+        },
+        "id": "1642783998735785984",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3672,
+            "like_count": 11,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "We're just two weeks away from @hannover_messe! Have you secured your free pass yet? If not, register here: https://t.co/ARmmu6Mu3r #IndustriesOfTheFuture #HM23 https://t.co/9ypiTwzSfh"
+    }
+}

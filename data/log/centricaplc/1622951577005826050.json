@@ -1,0 +1,70 @@
+{
+    "1622951577005826050": {
+        "attachments": {
+            "media_keys": [
+                "16_1622951574531104768"
+            ]
+        },
+        "author_id": "21746077",
+        "created_at": "2023-02-07T13:33:03.000Z",
+        "edit_history_tweet_ids": [
+            "1622951577005826050"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "UK",
+                    "probability": 0.9042,
+                    "start": 14,
+                    "type": "Place"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "UK",
+                    "probability": 0.9714,
+                    "start": 181,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 120,
+                    "id": "46630225",
+                    "start": 109,
+                    "username": "BritishGas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ufLk4B",
+                    "end": 275,
+                    "expanded_url": "https://bit.ly/3ufLk4B",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.centrica.com/sustainability/our-role-in-net-zero/",
+                    "url": "https://t.co/3X70tHBduF"
+                },
+                {
+                    "display_url": "pic.twitter.com/PmTDTcyvGF",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/centricaplc/status/1622951577005826050/photo/1",
+                    "media_key": "16_1622951574531104768",
+                    "start": 276,
+                    "url": "https://t.co/PmTDTcyvGF"
+                }
+            ]
+        },
+        "id": "1622951577005826050",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 498,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Around 20% of UK carbon emissions come from homes.\n\nWe need to change that. \n\nTogether with @StModwen\u00a0Homes, @BritishGas is working to deliver the first carbon-neutral homes in the UK, designed to produce more energy than they consume.\n\nRead more here\u2192https://t.co/3X70tHBduF https://t.co/PmTDTcyvGF"
+    }
+}

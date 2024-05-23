@@ -1,0 +1,70 @@
+{
+    "1426174563717722115": {
+        "author_id": "156646851",
+        "created_at": "2021-08-13T13:31:27.000Z",
+        "edit_history_tweet_ids": [
+            "1426174563717722115"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 98,
+                    "normalized_text": "Henrik Andersen",
+                    "probability": 0.9503,
+                    "start": 84,
+                    "type": "Person"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Vestas Group",
+                    "probability": 0.4132,
+                    "start": 102,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 101,
+                    "tag": "Vestas"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 147,
+                    "id": "20402945",
+                    "start": 142,
+                    "username": "CNBC"
+                },
+                {
+                    "end": 214,
+                    "id": "192942213",
+                    "start": 206,
+                    "username": "IPCC_CH"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/6cpe5rh",
+                    "end": 240,
+                    "expanded_url": "https://fcld.ly/6cpe5rh",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "https://www.cnbc.com/video/2021/08/11/lets-now-start-doing-what-we-are-talking-about-on-climate-change-vestas-ceo.html",
+                    "url": "https://t.co/PQONBqPkF8"
+                }
+            ]
+        },
+        "id": "1426174563717722115",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "\u201cWe are part of the solution in addressing the challenges of the climate\u201d. Watch as Henrik Andersen, #Vestas Group President and CEO chats to @CNBC about the need to act on the latest climate data from the @IPCC_CH \u27a1 https://t.co/PQONBqPkF8"
+    }
+}

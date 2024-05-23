@@ -1,0 +1,67 @@
+{
+    "1670815003295862786": {
+        "author_id": "393757140",
+        "created_at": "2023-06-19T15:25:13.000Z",
+        "edit_history_tweet_ids": [
+            "1670815003295862786"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Sajid",
+                    "probability": 0.4668,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Abhijit Sarkar",
+                    "probability": 0.9154,
+                    "start": 198,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "Care Centre",
+                    "probability": 0.4802,
+                    "start": 223,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.7692,
+                    "start": 237,
+                    "type": "Organization"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "India",
+                    "probability": 0.8034,
+                    "start": 256,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1374246811",
+                    "start": 0,
+                    "username": "SajidSayyad3"
+                }
+            ]
+        },
+        "id": "1670815003295862786",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 28,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SajidSayyad3 Dear Sajid,\nSorry for the inconvinence caused !\nCould you please share complete address and contact number in order to forward the same to our sales team for further support.\nRegards,\nAbhijit Sarkar \nCustomer Care Centre | Schneider Electric India |"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1671970939100078082": {
+        "attachments": {
+            "media_keys": [
+                "3_1671970540687335437"
+            ]
+        },
+        "author_id": "142611379",
+        "created_at": "2023-06-22T19:58:30.000Z",
+        "edit_history_tweet_ids": [
+            "1671970939100078082"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "E.ON",
+                    "probability": 0.4434,
+                    "start": 20,
+                    "type": "Organization"
+                },
+                {
+                    "end": 196,
+                    "normalized_text": "Madagascar",
+                    "probability": 0.9266,
+                    "start": 187,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 271,
+                    "start": 248,
+                    "tag": "WorldRainforestDay2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 38,
+                    "id": "1370049071164092417",
+                    "start": 27,
+                    "username": "treeklyapp"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/fMomHniIz1",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/eonenergyuk/status/1671970939100078082/photo/1",
+                    "media_key": "3_1671970540687335437",
+                    "start": 272,
+                    "url": "https://t.co/fMomHniIz1"
+                }
+            ]
+        },
+        "id": "1671970939100078082",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1407,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Over the last year, E.ON's @treeklyapp community has stepped up to track steps and plant trees as a reward. \ud83d\udc63=\ud83c\udf31\n\nTogether, we have walked over 672 million steps, planting 43,747 trees in Madagascar. Small steps really do make a huge difference! \ud83d\udc4f\n\n#WorldRainforestDay2023 https://t.co/fMomHniIz1"
+    }
+}

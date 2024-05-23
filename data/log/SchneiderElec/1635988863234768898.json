@@ -1,0 +1,93 @@
+{
+    "1635988863234768898": {
+        "attachments": {
+            "media_keys": [
+                "3_1635988859698683906"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-03-15T12:58:34.000Z",
+        "edit_history_tweet_ids": [
+            "1635988863234768898"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "NetZero",
+                    "probability": 0.6324,
+                    "start": 44,
+                    "type": "Organization"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Reuters",
+                    "probability": 0.8645,
+                    "start": 88,
+                    "type": "Organization"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "Hydrogen",
+                    "probability": 0.5555,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Amsterdam",
+                    "probability": 0.9826,
+                    "start": 136,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 51,
+                    "start": 43,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 95,
+                    "start": 87,
+                    "tag": "Reuters"
+                },
+                {
+                    "end": 156,
+                    "start": 147,
+                    "tag": "LifeIsOn"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/601634VjC",
+                    "end": 193,
+                    "expanded_url": "http://spr.ly/601634VjC",
+                    "start": 170,
+                    "status": 200,
+                    "unwound_url": "https://events.reutersevents.com/renewable-energy/hydrogen-europe?gclid=EAIaIQobChMIypGOjc7d_QIVFPuyCh1leAm9EAAYAiAAEgLO5fD_BwE",
+                    "url": "https://t.co/pfKUbpKAeb"
+                },
+                {
+                    "display_url": "pic.twitter.com/6D0Ix0nNDu",
+                    "end": 217,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1635988863234768898/photo/1",
+                    "media_key": "3_1635988859698683906",
+                    "start": 194,
+                    "url": "https://t.co/6D0Ix0nNDu"
+                }
+            ]
+        },
+        "id": "1635988863234768898",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 898,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Hydrogen is accelerating the transition to #NetZero across every industry \u2014 join us at #Reuters Events: Hydrogen 2023 on March 28-29 in Amsterdam. #LifeIsOn\n\nLearn more: https://t.co/pfKUbpKAeb https://t.co/6D0Ix0nNDu"
+    }
+}

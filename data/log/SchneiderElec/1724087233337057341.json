@@ -1,0 +1,69 @@
+{
+    "1724087233337057341": {
+        "attachments": {
+            "media_keys": [
+                "3_1724087227125309440"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-11-13T15:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1724087233337057341"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "UN Global Compact",
+                    "probability": 0.6137,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "1",
+                    "probability": 0.5093,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Schneider Electric",
+                    "probability": 0.9417,
+                    "start": 142,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/l/6014uacZE",
+                    "end": 242,
+                    "expanded_url": "http://spr.ly/l/6014uacZE",
+                    "start": 219,
+                    "status": 200,
+                    "unwound_url": "http://spr.ly/l/6014uacZE",
+                    "url": "https://t.co/gEERj1pVCX"
+                },
+                {
+                    "display_url": "pic.twitter.com/zrnZqbESkE",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1724087233337057341/photo/1",
+                    "media_key": "3_1724087227125309440",
+                    "start": 243,
+                    "url": "https://t.co/zrnZqbESkE"
+                }
+            ]
+        },
+        "id": "1724087233337057341",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1317,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "According to UN Global Compact, Scope 3 emissions account for 70% of total emissions and are 11 times larger than Scope 1 for most companies.\nSchneider Electric offers digital solutions like resource advisor for (cont) https://t.co/gEERj1pVCX https://t.co/zrnZqbESkE"
+    }
+}

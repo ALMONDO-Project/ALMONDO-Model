@@ -1,0 +1,39 @@
+{
+    "1661246015213543424": {
+        "author_id": "393757140",
+        "created_at": "2023-05-24T05:41:29.000Z",
+        "edit_history_tweet_ids": [
+            "1661246015213543424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Sandeep",
+                    "probability": 0.6271,
+                    "start": 22,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1195417502701912065",
+                    "start": 0,
+                    "username": "sandeep_petkar"
+                }
+            ]
+        },
+        "id": "1661246015213543424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 25,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sandeep_petkar Hello Sandeep, Please let us know how we can assist you."
+    }
+}

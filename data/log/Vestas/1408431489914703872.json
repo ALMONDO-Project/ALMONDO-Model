@@ -1,0 +1,77 @@
+{
+    "1408431489914703872": {
+        "attachments": {
+            "media_keys": [
+                "3_1408431487955968011"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-06-25T14:26:49.000Z",
+        "edit_history_tweet_ids": [
+            "1408431489914703872"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.431,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "USA",
+                    "probability": 0.9856,
+                    "start": 82,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 33,
+                    "start": 22,
+                    "tag": "multibrand"
+                },
+                {
+                    "end": 185,
+                    "start": 172,
+                    "tag": "windturbines"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/6bgxjy6",
+                    "end": 270,
+                    "expanded_url": "https://fcld.ly/6bgxjy6",
+                    "start": 247,
+                    "url": "https://t.co/kBNK62EcQL"
+                },
+                {
+                    "display_url": "pic.twitter.com/I6NE4CA75H",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Vestas/status/1408431489914703872/photo/1",
+                    "media_key": "3_1408431487955968011",
+                    "start": 271,
+                    "url": "https://t.co/I6NE4CA75H"
+                }
+            ]
+        },
+        "id": "1408431489914703872",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "#Vestas showcases its #multibrand repowering capabilities with a new order in the USA. The 31 MW order will repower an undisclosed wind project and consists of V110-2.2 MW #windturbines which will replace the site\u2019s current technology.\nRead more: https://t.co/kBNK62EcQL https://t.co/I6NE4CA75H"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "1573659519783247872": {
+        "author_id": "156646851",
+        "created_at": "2022-09-24T13:04:01.000Z",
+        "edit_history_tweet_ids": [
+            "1573659519783247872"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "onshorewind",
+                    "probability": 0.3999,
+                    "start": 37,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 36,
+                    "tag": "onshorewind"
+                },
+                {
+                    "end": 118,
+                    "start": 103,
+                    "tag": "EnergySecurity"
+                },
+                {
+                    "end": 130,
+                    "start": 119,
+                    "tag": "GrowthPlan"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 34,
+                    "id": "17481977",
+                    "start": 28,
+                    "username": "GOVUK"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/RenewableUK/st\u2026",
+                    "end": 154,
+                    "expanded_url": "https://twitter.com/RenewableUK/status/1573288032681295873",
+                    "start": 131,
+                    "url": "https://t.co/hiHlMylyMM"
+                }
+            ]
+        },
+        "id": "1573659519783247872",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Important announcement from @GOVUK, #onshorewind can lower electricity bills and be deployed at speed. #EnergySecurity #GrowthPlan https://t.co/hiHlMylyMM"
+    }
+}

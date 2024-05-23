@@ -1,0 +1,77 @@
+{
+    "1702050572738720056": {
+        "attachments": {
+            "media_keys": [
+                "3_1702050567156064256"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2023-09-13T20:04:13.000Z",
+        "edit_history_tweet_ids": [
+            "1702050572738720056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "SOTEU",
+                    "probability": 0.6914,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 13,
+                    "tag": "SOTEU"
+                },
+                {
+                    "end": 105,
+                    "start": 92,
+                    "tag": "windindustry"
+                },
+                {
+                    "end": 130,
+                    "start": 113,
+                    "tag": "energytransition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "1146329871418843136",
+                    "start": 31,
+                    "username": "vonderleyen"
+                },
+                {
+                    "end": 70,
+                    "id": "157981564",
+                    "start": 56,
+                    "username": "EU_Commission"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/8hVl2Ypb6H",
+                    "end": 161,
+                    "expanded_url": "https://twitter.com/Vestas/status/1702050572738720056/photo/1",
+                    "media_key": "3_1702050567156064256",
+                    "start": 138,
+                    "url": "https://t.co/8hVl2Ypb6H"
+                }
+            ]
+        },
+        "id": "1702050572738720056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2834,
+            "like_count": 25,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddea\ud83c\uddfa / Today's #SOTEU address by @vonderleyen reveals the @EU_Commission\u2019s recognition of the #windindustry in the #energytransition.\n(1/3) https://t.co/8hVl2Ypb6H"
+    }
+}

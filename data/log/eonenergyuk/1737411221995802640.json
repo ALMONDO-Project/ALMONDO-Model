@@ -1,0 +1,83 @@
+{
+    "1737411221995802640": {
+        "author_id": "142611379",
+        "created_at": "2023-12-20T09:54:49.000Z",
+        "edit_history_tweet_ids": [
+            "1737411221995802640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "GreenJobs",
+                    "probability": 0.3485,
+                    "start": 95,
+                    "type": "Other"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "GreenSkills",
+                    "probability": 0.5215,
+                    "start": 111,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 94,
+                    "tag": "GreenJobs"
+                },
+                {
+                    "end": 122,
+                    "start": 110,
+                    "tag": "GreenSkills"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "18213541",
+                    "start": 30,
+                    "username": "hrmagazine"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "With world leaders having come together to discuss a greener future at COP28, it\u2019s a timely reminder for us to confront a difficult truth: ambitious net zero goals can only be met if people have the right skills to make this a reality.\u00a0\u00a0",
+                    "display_url": "hrmagazine.co.uk/content/commen\u2026",
+                    "end": 260,
+                    "expanded_url": "https://www.hrmagazine.co.uk/content/comment/breaking-the-green-ceiling-hr-leaders-role-in-closing-the-green-skills-gap",
+                    "images": [
+                        {
+                            "height": 3456,
+                            "url": "https://pbs.twimg.com/news_img/1749009000815898624/yqTxnxuh?format=jpg&name=orig",
+                            "width": 5184
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1749009000815898624/yqTxnxuh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 237,
+                    "status": 200,
+                    "title": "HR Magazine - Breaking the green ceiling: HR leaders\u2019 role in closing the green skills gap",
+                    "unwound_url": "https://www.hrmagazine.co.uk/content/comment/breaking-the-green-ceiling-hr-leaders-role-in-closing-the-green-skills-gap",
+                    "url": "https://t.co/IF1EZ6IPvw"
+                }
+            ]
+        },
+        "id": "1737411221995802640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 736,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re proud to be featured by @HRMagazine as an example of an employer helping people to gain #GreenJobs. The #GreenSkills gap needs closing, and employers need to do their part. We offer learning and hiring opps at every career stage.\n\nhttps://t.co/IF1EZ6IPvw"
+    }
+}

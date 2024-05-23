@@ -1,0 +1,92 @@
+{
+    "1623576734099738625": {
+        "author_id": "194037150",
+        "created_at": "2023-02-09T06:57:12.000Z",
+        "edit_history_tweet_ids": [
+            "1623576734099738625"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Ece",
+                    "probability": 0.5579,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Turkey",
+                    "probability": 0.9585,
+                    "start": 102,
+                    "type": "Place"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "Syria",
+                    "probability": 0.9819,
+                    "start": 115,
+                    "type": "Place"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "EarthquakeRelief",
+                    "probability": 0.553,
+                    "start": 225,
+                    "type": "Other"
+                },
+                {
+                    "end": 259,
+                    "normalized_text": "Asif",
+                    "probability": 0.6953,
+                    "start": 256,
+                    "type": "Place"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.487,
+                    "start": 262,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 241,
+                    "start": 224,
+                    "tag": "EarthquakeRelief"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "261614714",
+                    "start": 0,
+                    "username": "Ece_Ers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "novonordisk.com/news-and-media\u2026",
+                    "end": 223,
+                    "expanded_url": "https://www.novonordisk.com/news-and-media/latest-news.html",
+                    "start": 200,
+                    "status": 200,
+                    "unwound_url": "https://www.novonordisk.com/news-and-media/latest-news.html",
+                    "url": "https://t.co/YHoqferEZh"
+                }
+            ]
+        },
+        "id": "1623576734099738625",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 139,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@Ece_Ers Dear Ece, we are doing our utmost to safeguard the supply of our life-saving products across Turkey &amp; Syria in the aftermath of the devastating earthquakes. Please see our response here: https://t.co/YHoqferEZh\n#EarthquakeRelief\nKind regards,\nAsif, Novo Nordisk"
+    }
+}

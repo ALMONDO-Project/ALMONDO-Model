@@ -1,0 +1,87 @@
+{
+    "1528994808961896448": {
+        "attachments": {
+            "media_keys": [
+                "3_1528994806323716098"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2022-05-24T07:02:24.000Z",
+        "edit_history_tweet_ids": [
+            "1528994808961896448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6599,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "WEF22",
+                    "probability": 0.4943,
+                    "start": 271,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 38,
+                    "start": 18,
+                    "tag": "FirstMoverCoalition"
+                },
+                {
+                    "end": 167,
+                    "start": 149,
+                    "tag": "sustainableenergy"
+                },
+                {
+                    "end": 237,
+                    "start": 224,
+                    "tag": "windturbines"
+                },
+                {
+                    "end": 276,
+                    "start": 270,
+                    "tag": "WEF22"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/3vk0jzs",
+                    "end": 269,
+                    "expanded_url": "https://fcld.ly/3vk0jzs",
+                    "start": 246,
+                    "url": "https://t.co/QcNjWGrfc1"
+                },
+                {
+                    "display_url": "pic.twitter.com/JLKcYvXXqR",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Vestas/status/1528994808961896448/photo/1",
+                    "media_key": "3_1528994806323716098",
+                    "start": 277,
+                    "url": "https://t.co/JLKcYvXXqR"
+                }
+            ]
+        },
+        "id": "1528994808961896448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 57,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "#Vestas joins the #FirstMoverCoalition for Steel. As we prepare for this massive scale-up of renewable energy, we are working tirelessly to ensure a #sustainableenergy transition, including for the materials we use to build #windturbines. More \u27a1 https://t.co/QcNjWGrfc1\n#WEF22 https://t.co/JLKcYvXXqR"
+    }
+}

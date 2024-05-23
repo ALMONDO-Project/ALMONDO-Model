@@ -1,0 +1,69 @@
+{
+    "1666815982541864967": {
+        "attachments": {
+            "media_keys": [
+                "3_1666815977634529283"
+            ]
+        },
+        "author_id": "393757140",
+        "created_at": "2023-06-08T14:34:32.000Z",
+        "edit_history_tweet_ids": [
+            "1666815982541864967"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "Peter Herweck",
+                    "probability": 0.8632,
+                    "start": 74,
+                    "type": "Person"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Zero",
+                    "probability": 0.5933,
+                    "start": 163,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "IEA",
+                    "probability": 0.7898,
+                    "start": 178,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6016OIwDq",
+                    "end": 271,
+                    "expanded_url": "http://spr.ly/6016OIwDq",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=nhu6dPLQZ70&feature=youtu.be",
+                    "url": "https://t.co/pN3lGLyOOA"
+                },
+                {
+                    "display_url": "pic.twitter.com/7xXY3dtvz0",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/SchneiderElec/status/1666815982541864967/photo/1",
+                    "media_key": "3_1666815977634529283",
+                    "start": 272,
+                    "url": "https://t.co/7xXY3dtvz0"
+                }
+            ]
+        },
+        "id": "1666815982541864967",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1038,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "\"We don\u2019t need to go into the future, the technology exists today\" -- CEO Peter Herweck speaks at the \"Sustainability and Energy: The Essential Partnership to Net Zero\" panel at IEA's 8th Annual Global Conference at Energy Efficiency.  Watch here: https://t.co/pN3lGLyOOA https://t.co/7xXY3dtvz0"
+    }
+}

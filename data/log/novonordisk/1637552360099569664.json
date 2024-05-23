@@ -1,0 +1,39 @@
+{
+    "1637552360099569664": {
+        "author_id": "194037150",
+        "created_at": "2023-03-19T20:31:21.000Z",
+        "edit_history_tweet_ids": [
+            "1637552360099569664"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 110,
+                    "normalized_text": "Novo Nordisk",
+                    "probability": 0.5044,
+                    "start": 99,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1367346582",
+                    "start": 0,
+                    "username": "eshitasolanki"
+                }
+            ]
+        },
+        "id": "1637552360099569664",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 39,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@eshitasolanki Thanks a lot for the feedback. I will forward it to my colleagues.\nAll the best\nBo, Novo Nordisk"
+    }
+}

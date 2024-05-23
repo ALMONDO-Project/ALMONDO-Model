@@ -1,0 +1,93 @@
+{
+    "1437318169203519488": {
+        "attachments": {
+            "media_keys": [
+                "3_1437318167328665612"
+            ]
+        },
+        "author_id": "156646851",
+        "created_at": "2021-09-13T07:32:10.000Z",
+        "edit_history_tweet_ids": [
+            "1437318169203519488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Vestas",
+                    "probability": 0.6536,
+                    "start": 1,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Chuangwei 2",
+                    "probability": 0.8933,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Leadway 2",
+                    "probability": 0.8102,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Hsinyuan",
+                    "probability": 0.7452,
+                    "start": 100,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Taiwan",
+                    "probability": 0.9688,
+                    "start": 132,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 7,
+                    "start": 0,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 138,
+                    "start": 131,
+                    "tag": "Taiwan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/k84uo0w",
+                    "end": 199,
+                    "expanded_url": "https://fcld.ly/k84uo0w",
+                    "start": 176,
+                    "url": "https://t.co/9lyQ06U0x2"
+                },
+                {
+                    "display_url": "pic.twitter.com/dmt88vIqcu",
+                    "end": 223,
+                    "expanded_url": "https://twitter.com/Vestas/status/1437318169203519488/photo/1",
+                    "media_key": "3_1437318167328665612",
+                    "start": 200,
+                    "url": "https://t.co/dmt88vIqcu"
+                }
+            ]
+        },
+        "id": "1437318169203519488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 28,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "#Vestas has extended its partnership with wpd with a 50 MW order for the Chuangwei 2, Leadway 2 and Hsinyuan wind farms, featuring #Taiwan\u2019s largest onshore rotors. Read more: https://t.co/9lyQ06U0x2 https://t.co/dmt88vIqcu"
+    }
+}

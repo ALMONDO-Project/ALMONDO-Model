@@ -1,0 +1,77 @@
+{
+    "1510964260611973123": {
+        "author_id": "156646851",
+        "created_at": "2022-04-04T12:55:26.000Z",
+        "edit_history_tweet_ids": [
+            "1510964260611973123"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Vestas",
+                    "probability": 0.8476,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "GWR22",
+                    "probability": 0.5785,
+                    "start": 256,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 10,
+                    "start": 3,
+                    "tag": "Vestas"
+                },
+                {
+                    "end": 104,
+                    "start": 91,
+                    "tag": "windindustry"
+                },
+                {
+                    "end": 226,
+                    "start": 215,
+                    "tag": "windenergy"
+                },
+                {
+                    "end": 261,
+                    "start": 255,
+                    "tag": "GWR22"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 252,
+                    "id": "2787688669",
+                    "start": 237,
+                    "username": "GWECGlobalWind"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fcld.ly/m8taaur",
+                    "end": 287,
+                    "expanded_url": "https://fcld.ly/m8taaur",
+                    "start": 264,
+                    "url": "https://t.co/rLWxF7nfWC"
+                }
+            ]
+        },
+        "id": "1510964260611973123",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "At #Vestas, we\u2019re paving the way for a more scalable, financially viable &amp; sustainable #windindustry to tackle global emissions &amp; quadruple installations by 2030.\nDiscover how to prepare for the next era of #windenergy growth in @GWECGlobalWind's #GWR22 \u2935\nhttps://t.co/rLWxF7nfWC"
+    }
+}
