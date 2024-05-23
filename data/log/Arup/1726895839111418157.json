@@ -1,0 +1,89 @@
+{
+    "1726895839111418157": {
+        "attachments": {
+            "media_keys": [
+                "13_1726895733003952128"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-11-21T09:30:26.000Z",
+        "edit_history_tweet_ids": [
+            "1726895839111418157"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Simon Eastmond",
+                    "probability": 0.9023,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Signalling Lead",
+                    "probability": 0.7014,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "Simon",
+                    "probability": 0.58,
+                    "start": 186,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 79,
+                    "tag": "digital"
+                },
+                {
+                    "end": 130,
+                    "start": 125,
+                    "tag": "rail"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 224,
+                    "id": "29169093",
+                    "start": 209,
+                    "username": "railwaygazette"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/47xgPbQ",
+                    "end": 265,
+                    "expanded_url": "https://bit.ly/47xgPbQ",
+                    "start": 242,
+                    "status": 200,
+                    "unwound_url": "https://www.railwaygazette.com/in-depth/signalling-visualising-designs-at-an-earlier-stage/65237.article?utm_medium=social&utm_source=twitter&utm_campaign=signalling_tool__211123&utm_content=",
+                    "url": "https://t.co/3QWgiFgpcv"
+                },
+                {
+                    "display_url": "pic.twitter.com/4FGyzOczn7",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1726895839111418157/video/1",
+                    "media_key": "13_1726895733003952128",
+                    "start": 266,
+                    "url": "https://t.co/4FGyzOczn7"
+                }
+            ]
+        },
+        "id": "1726895839111418157",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2749,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Simon Eastmond, our Digital Signalling Lead, has written an article on our new #digital tool which brings greater clarity to #rail signalling design earlier in the process. You can find Simon\u2019s article in the @railwaygazette. Read more here: https://t.co/3QWgiFgpcv https://t.co/4FGyzOczn7"
+    }
+}

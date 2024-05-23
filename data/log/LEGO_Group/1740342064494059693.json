@@ -1,0 +1,70 @@
+{
+    "1740342064494059693": {
+        "attachments": {
+            "media_keys": [
+                "7_1740342040490127360"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-28T12:00:56.000Z",
+        "edit_history_tweet_ids": [
+            "1740342064494059693"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 180,
+                    "normalized_text": "LEGO",
+                    "probability": 0.3398,
+                    "start": 177,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.6075,
+                    "start": 196,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 181,
+                    "start": 176,
+                    "tag": "LEGO"
+                },
+                {
+                    "end": 194,
+                    "start": 182,
+                    "tag": "BuildToGive"
+                },
+                {
+                    "end": 212,
+                    "start": 195,
+                    "tag": "SuperpowerOfPlay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TPlos2jSqQ",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1740342064494059693/video/1",
+                    "media_key": "7_1740342040490127360",
+                    "start": 213,
+                    "url": "https://t.co/TPlos2jSqQ"
+                }
+            ]
+        },
+        "id": "1740342064494059693",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 12,
+            "impression_count": 99177,
+            "like_count": 565,
+            "quote_count": 7,
+            "reply_count": 18,
+            "retweet_count": 99
+        },
+        "text": "We asked you to help us bring joy to children in need of play this holiday season, and you came through wholeheartedly\u2764\ufe0f \nSo many hearts built, so much joy shared! THANK YOU.\n\n#LEGO #BuildToGive #SuperpowerOfPlay https://t.co/TPlos2jSqQ"
+    }
+}

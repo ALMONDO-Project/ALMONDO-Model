@@ -1,0 +1,57 @@
+{
+    "1682617843064483842": {
+        "author_id": "819791",
+        "created_at": "2023-07-22T05:05:29.000Z",
+        "edit_history_tweet_ids": [
+            "1682617843064483842"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Tushar",
+                    "probability": 0.6106,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Philips",
+                    "probability": 0.8074,
+                    "start": 202,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "261298288",
+                    "start": 0,
+                    "username": "aryatushar10"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 273,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1682617843064483842",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 14,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@aryatushar10 Hello Tushar. Thank you for reaching out to us. We're sorry to hear about your experience with our customer support. Could you please elaborate a bit on the issue you are facing with your Philips product via private message? We'd like to see how we can help. https://t.co/7VMKPAMQbA"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1740094696288870783": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T19:37:59.000Z",
+        "edit_history_tweet_ids": [
+            "1740094696288870783"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.7413,
+                    "start": 35,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 47,
+                    "start": 34,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1924388940",
+                    "start": 0,
+                    "username": "pumadale"
+                }
+            ]
+        },
+        "id": "1740094696288870783",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1588,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@pumadale Now that's some serious #LEGOBuildDay action! \u2728"
+    }
+}

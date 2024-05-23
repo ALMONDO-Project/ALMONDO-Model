@@ -1,0 +1,39 @@
+{
+    "1740336045705621845": {
+        "author_id": "295325513",
+        "created_at": "2023-12-28T11:37:01.000Z",
+        "edit_history_tweet_ids": [
+            "1740336045705621845"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Gogh",
+                    "probability": 0.6441,
+                    "start": 28,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "217825757",
+                    "start": 0,
+                    "username": "minehead_rebel"
+                }
+            ]
+        },
+        "id": "1740336045705621845",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1401,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@minehead_rebel Not long to Gogh! \ud83c\udfa8\ud83d\udd8c\ufe0f"
+    }
+}

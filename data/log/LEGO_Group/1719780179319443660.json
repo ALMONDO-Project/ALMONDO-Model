@@ -1,0 +1,39 @@
+{
+    "1719780179319443660": {
+        "author_id": "295325513",
+        "created_at": "2023-11-01T18:15:21.000Z",
+        "edit_history_tweet_ids": [
+            "1719780179319443660"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Piece finder",
+                    "probability": 0.7712,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "338567553",
+                    "start": 0,
+                    "username": "GeordieButcher"
+                }
+            ]
+        },
+        "id": "1719780179319443660",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 256,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@GeordieButcher Piece finder is a very important role! \ud83d\udd0e\ud83d\ude01"
+    }
+}

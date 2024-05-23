@@ -1,0 +1,64 @@
+{
+    "1690230157498306561": {
+        "author_id": "819791",
+        "created_at": "2023-08-12T05:14:07.000Z",
+        "edit_history_tweet_ids": [
+            "1690230157498306561"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Ayush",
+                    "probability": 0.505,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Philips Trimmer",
+                    "probability": 0.7535,
+                    "start": 116,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "Trimmer",
+                    "probability": 0.6862,
+                    "start": 197,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1679118167166320641",
+                    "start": 0,
+                    "username": "Ayushyadav63231"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 279,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1690230157498306561",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Ayushyadav63231 Hi Ayush, thanks for getting in touch with us. We are sorry to hear about your experience with the Philips Trimmer. Please tell us bit more about the issue you are facing with the Trimmer via direct message so that we can assist you. Hope to hear from you soon. https://t.co/7VMKPAMQbA"
+    }
+}

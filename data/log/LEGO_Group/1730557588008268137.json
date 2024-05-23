@@ -1,0 +1,39 @@
+{
+    "1730557588008268137": {
+        "author_id": "295325513",
+        "created_at": "2023-12-01T12:00:55.000Z",
+        "edit_history_tweet_ids": [
+            "1730557588008268137"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Henry",
+                    "probability": 0.751,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "19617564",
+                    "start": 0,
+                    "username": "friday_sam"
+                }
+            ]
+        },
+        "id": "1730557588008268137",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3174,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@friday_sam Oh wow Henry! Look at all these amazing details. A true master creation! \ud83d\udc9b\u2764\ufe0f\ud83d\udc9a"
+    }
+}

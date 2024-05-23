@@ -1,0 +1,53 @@
+{
+    "1639116583984574465": {
+        "attachments": {
+            "media_keys": [
+                "3_1639116581438365698"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-24T04:07:01.000Z",
+        "edit_history_tweet_ids": [
+            "1639116583984574465"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "Data Builder",
+                    "probability": 0.7036,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60123CMKu",
+                    "end": 200,
+                    "expanded_url": "https://sap.to/60123CMKu",
+                    "start": 177,
+                    "url": "https://t.co/64hd6iufY4"
+                },
+                {
+                    "display_url": "pic.twitter.com/vgnsamxJnz",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/SAP/status/1639116583984574465/photo/1",
+                    "media_key": "3_1639116581438365698",
+                    "start": 201,
+                    "url": "https://t.co/vgnsamxJnz"
+                }
+            ]
+        },
+        "id": "1639116583984574465",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5933,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 9
+        },
+        "text": "Familiarize yourself with how to:\n\n\ud83d\udd27 Create a new calculated column in the Data Builder\n\u270d\ud83c\udffd Write formulas for a new calculated column\n\ud83d\udd22 Preview a newly added calculated column\n\nhttps://t.co/64hd6iufY4 https://t.co/vgnsamxJnz"
+    }
+}

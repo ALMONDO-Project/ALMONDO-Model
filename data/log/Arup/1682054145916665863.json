@@ -1,0 +1,75 @@
+{
+    "1682054145916665863": {
+        "attachments": {
+            "media_keys": [
+                "13_1682054039356207104"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-07-20T15:45:34.000Z",
+        "edit_history_tweet_ids": [
+            "1682054145916665863"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 250,
+                    "normalized_text": "Peru",
+                    "probability": 0.9689,
+                    "start": 247,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 41,
+                    "id": "31435503",
+                    "start": 31,
+                    "username": "MaceGroup"
+                },
+                {
+                    "end": 56,
+                    "id": "22604541",
+                    "start": 43,
+                    "username": "GleedsGlobal"
+                },
+                {
+                    "end": 74,
+                    "id": "877215173664178177",
+                    "start": 61,
+                    "username": "AutoridadRCC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3rDjVeN",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/3rDjVeN",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=nphxfsx37AQ&feature=youtu.be",
+                    "url": "https://t.co/u0YVhvfyEs"
+                },
+                {
+                    "display_url": "pic.twitter.com/lP6raYjAas",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1682054145916665863/video/1",
+                    "media_key": "13_1682054039356207104",
+                    "start": 277,
+                    "url": "https://t.co/lP6raYjAas"
+                }
+            ]
+        },
+        "id": "1682054145916665863",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2927,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Watch how our partnership with @macegroup, @GleedsGlobal and @AutoridadRCC is helping use digital tools such as Building Information Modelling (BIM) to create a generation of safe and sustainable health facilities, schools and flood prevention in Peru: https://t.co/u0YVhvfyEs https://t.co/lP6raYjAas"
+    }
+}

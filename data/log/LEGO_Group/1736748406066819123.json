@@ -1,0 +1,54 @@
+{
+    "1736748406066819123": {
+        "attachments": {
+            "media_keys": [
+                "7_1736748372604715104"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-18T14:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1736748406066819123"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Llamas",
+                    "probability": 0.5577,
+                    "start": 35,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 34,
+                    "id": "1726973522721828864",
+                    "start": 21,
+                    "username": "LEGOFortnite"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/RVSsSxMHLO",
+                    "end": 66,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1736748406066819123/video/1",
+                    "media_key": "7_1736748372604715104",
+                    "start": 43,
+                    "url": "https://t.co/RVSsSxMHLO"
+                }
+            ]
+        },
+        "id": "1736748406066819123",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 113,
+            "impression_count": 149547,
+            "like_count": 3005,
+            "quote_count": 15,
+            "reply_count": 42,
+            "retweet_count": 351
+        },
+        "text": "Behind the Scenes of @LEGOFortnite Llamas. https://t.co/RVSsSxMHLO"
+    }
+}

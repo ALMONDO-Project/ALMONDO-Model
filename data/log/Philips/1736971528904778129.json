@@ -1,0 +1,39 @@
+{
+    "1736971528904778129": {
+        "author_id": "819791",
+        "created_at": "2023-12-19T04:47:38.000Z",
+        "edit_history_tweet_ids": [
+            "1736971528904778129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Ankit",
+                    "probability": 0.5013,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "81109540",
+                    "start": 0,
+                    "username": "_a_n_k_i_t"
+                }
+            ]
+        },
+        "id": "1736971528904778129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@_a_n_k_i_t Hi Ankit, As per the service team updates the case is pending for a spare part and the team will replace it by 23rd to 24th Dec on priority."
+    }
+}

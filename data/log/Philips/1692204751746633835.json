@@ -1,0 +1,76 @@
+{
+    "1692204751746633835": {
+        "attachments": {
+            "media_keys": [
+                "13_1692204650198368256"
+            ]
+        },
+        "author_id": "819791",
+        "created_at": "2023-08-17T16:00:27.000Z",
+        "edit_history_tweet_ids": [
+            "1692204751746633835"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Philips",
+                    "probability": 0.6137,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "WorldHumanitarianDay",
+                    "probability": 0.4989,
+                    "start": 169,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 189,
+                    "start": 168,
+                    "tag": "WorldHumanitarianDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 23,
+                    "id": "2397901034",
+                    "start": 12,
+                    "username": "PhilipsFDN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "to.philips/6012PcJou",
+                    "end": 167,
+                    "expanded_url": "http://to.philips/6012PcJou",
+                    "start": 144,
+                    "unwound_url": "https://www.philips.com/c-dam/philips-foundation/Files/annualreports/Philips_Foundation_Annual_Report_2022.pdf?_ga=2.45023655.2082755735.1690367262-194235172.1616575326&origin=13_global_en_global+social+ccoe_tw___hum+organic_11001312697_&spid=11001312697&utm_source=tw&utm_medium=organic_social&utm_content=11001312697&utm_campaign=global+social+ccoe",
+                    "url": "https://t.co/MMWX31B6z4"
+                },
+                {
+                    "display_url": "pic.twitter.com/ylVbMOg4q8",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/Philips/status/1692204751746633835/video/1",
+                    "media_key": "13_1692204650198368256",
+                    "start": 190,
+                    "url": "https://t.co/ylVbMOg4q8"
+                }
+            ]
+        },
+        "id": "1692204751746633835",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1605,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 0
+        },
+        "text": "Philips and @PhilipsFDN have teamed up with partners around the globe to fight inequality and respond to humanitarian crises. Read our stories: https://t.co/MMWX31B6z4\n#WorldHumanitarianDay https://t.co/ylVbMOg4q8"
+    }
+}

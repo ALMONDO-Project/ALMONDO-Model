@@ -1,0 +1,39 @@
+{
+    "1625923930929111040": {
+        "author_id": "517741511",
+        "created_at": "2023-02-15T18:24:07.000Z",
+        "edit_history_tweet_ids": [
+            "1625923930929111040"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 170,
+                    "normalized_text": "StephB",
+                    "probability": 0.6953,
+                    "start": 165,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1164298050833211392",
+                    "start": 0,
+                    "username": "GlobalClarity1"
+                }
+            ]
+        },
+        "id": "1625923930929111040",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 34,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@GlobalClarity1 I'm glad that this is being looked into. If you do need any further help, please just send over your details in a DM and I will do my best to help. ^StephB"
+    }
+}

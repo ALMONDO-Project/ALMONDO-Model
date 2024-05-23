@@ -1,0 +1,39 @@
+{
+    "1675354542660091905": {
+        "author_id": "819791",
+        "created_at": "2023-07-02T04:03:44.000Z",
+        "edit_history_tweet_ids": [
+            "1675354542660091905"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Nitin",
+                    "probability": 0.4967,
+                    "start": 15,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "286190647",
+                    "start": 0,
+                    "username": "agrawaln10"
+                }
+            ]
+        },
+        "id": "1675354542660091905",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 26,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "@agrawaln10 Hi Nitin, The refund amount will be credited today onwards so kindly wait for the same."
+    }
+}

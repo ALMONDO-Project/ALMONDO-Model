@@ -1,0 +1,46 @@
+{
+    "1684912659114708992": {
+        "author_id": "819791",
+        "created_at": "2023-07-28T13:04:16.000Z",
+        "edit_history_tweet_ids": [
+            "1684912659114708992"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Danny",
+                    "probability": 0.7244,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Nikos",
+                    "probability": 0.7503,
+                    "start": 141,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "748668851659866112",
+                    "start": 0,
+                    "username": "Dyounger_"
+                }
+            ]
+        },
+        "id": "1684912659114708992",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Dyounger_ Hello Danny, good day. Thank you for reaching out to us.\nPlease, send us a private message, so we can assist you further on this.\nNikos"
+    }
+}

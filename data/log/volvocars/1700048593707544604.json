@@ -1,0 +1,39 @@
+{
+    "1700048593707544604": {
+        "author_id": "342772500",
+        "created_at": "2023-09-08T07:29:04.000Z",
+        "edit_history_tweet_ids": [
+            "1700048593707544604"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 124,
+                    "normalized_text": "Anthony",
+                    "probability": 0.4893,
+                    "start": 118,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "120542969",
+                    "start": 0,
+                    "username": "ErkeGroup"
+                }
+            ]
+        },
+        "id": "1700048593707544604",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 31,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ErkeGroup Hello there, we are sorry to hear this. Please get in touch by sending us a direct message. All the best - Anthony"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1671435377167532033": {
+        "attachments": {
+            "media_keys": [
+                "13_1671435291725377536"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-06-21T08:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1671435377167532033"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "Digital Horizons",
+                    "probability": 0.9605,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 175,
+                    "start": 167,
+                    "tag": "digital"
+                },
+                {
+                    "end": 185,
+                    "start": 180,
+                    "tag": "data"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/42OfV8a",
+                    "end": 268,
+                    "expanded_url": "https://bit.ly/42OfV8a",
+                    "start": 245,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/playlist?list=PLCWGoFmkxMjrHyntWNS950Ho6ev80OLvK",
+                    "url": "https://t.co/6xCNNp69Zr"
+                },
+                {
+                    "display_url": "pic.twitter.com/JDj1FGfV9C",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1671435377167532033/video/1",
+                    "media_key": "13_1671435291725377536",
+                    "start": 269,
+                    "url": "https://t.co/JDj1FGfV9C"
+                }
+            ]
+        },
+        "id": "1671435377167532033",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2345,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Digital tools have become integral to our project delivery. In March, we hosted Digital Horizons, a global series of events, showcasing the extensive reach and impact #digital and #data tools are having on our projects. Rewatch the series here: https://t.co/6xCNNp69Zr https://t.co/JDj1FGfV9C"
+    }
+}

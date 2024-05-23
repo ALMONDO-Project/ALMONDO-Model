@@ -1,0 +1,64 @@
+{
+    "1650919737415671808": {
+        "author_id": "109224937",
+        "created_at": "2023-04-25T17:48:32.000Z",
+        "edit_history_tweet_ids": [
+            "1650919737415671808"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Pammy",
+                    "probability": 0.5266,
+                    "start": 16,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "221314757",
+                    "start": 0,
+                    "username": "Pammy_Bitch"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Get in touch with Unilever, find specialist teams and office locations around the world",
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 115,
+                    "expanded_url": "https://bit.ly/2o5hP73",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 92,
+                    "status": 200,
+                    "title": "Contact | Unilever",
+                    "unwound_url": "https://www.unilever.com/contact/?fbclid=IwAR3erUhj7gm7UtRyhGeo7TCmnksiGlql3piSucwsramD7dDxlv52uTb56f8",
+                    "url": "https://t.co/S1C65M0hOe"
+                }
+            ]
+        },
+        "id": "1650919737415671808",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 58,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Pammy_Bitch Hi Pammy, thank you for reaching out to us. Please contact our care line here, https://t.co/S1C65M0hOe, and our team will be happy to assist you with your inquiry. Thank you."
+    }
+}

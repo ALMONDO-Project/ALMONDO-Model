@@ -1,0 +1,59 @@
+{
+    "1712437064183001549": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T11:56:26.000Z",
+        "edit_history_tweet_ids": [
+            "1712437064183001549"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Formula One",
+                    "probability": 0.8188,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 106,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8918,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 107,
+                    "start": 90,
+                    "tag": "SuperpowerOfPlay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "2905429774",
+                    "start": 0,
+                    "username": "hihubble"
+                },
+                {
+                    "end": 19,
+                    "id": "2905429774",
+                    "start": 10,
+                    "username": "hihubble"
+                }
+            ]
+        },
+        "id": "1712437064183001549",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 225,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@hihubble @hihubble Can you build your dream Formula One car with only orange bricks? \ud83c\udfce\ufe0f\ud83e\udde1 #SuperpowerOfPlay"
+    }
+}

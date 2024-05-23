@@ -1,0 +1,46 @@
+{
+    "1658296985504423937": {
+        "author_id": "76117579",
+        "created_at": "2023-05-16T02:23:05.000Z",
+        "edit_history_tweet_ids": [
+            "1658296985504423937"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Gregor",
+                    "probability": 0.6423,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "SAP",
+                    "probability": 0.7169,
+                    "start": 173,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1009241",
+                    "start": 0,
+                    "username": "wolf_gregor"
+                }
+            ]
+        },
+        "id": "1658296985504423937",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 393,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@wolf_gregor Hi Gregor - User feedback about our names and terms is helpful. If you\u2019d like to share additional comments, please send to our team at naming@sap.com - Debbie, SAP"
+    }
+}

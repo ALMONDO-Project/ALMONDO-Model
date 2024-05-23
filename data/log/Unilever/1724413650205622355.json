@@ -1,0 +1,57 @@
+{
+    "1724413650205622355": {
+        "author_id": "109224937",
+        "created_at": "2023-11-14T13:07:06.000Z",
+        "edit_history_tweet_ids": [
+            "1724413650205622355"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "TikTok",
+                    "probability": 0.9874,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "CleanTok",
+                    "probability": 0.9594,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "Dirty Deeds: A Kitchen Crime",
+                    "probability": 0.9215,
+                    "start": 200,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 102,
+                    "start": 93,
+                    "tag": "CleanTok"
+                },
+                {
+                    "end": 252,
+                    "start": 235,
+                    "tag": "UnileverInsights"
+                }
+            ]
+        },
+        "id": "1724413650205622355",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 4418,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 8,
+            "retweet_count": 6
+        },
+        "text": "We\u2019ve created TikTok\u2019s first-ever soap opera to engage the huge and fast-growing audience on #CleanTok \u2013 the platform\u2019s most popular community with almost 100 billion views. \n\nCheck out the story of \u2018Dirty Deeds: A Kitchen Crime\u2019 \u2b07\ufe0f \n\n#UnileverInsights"
+    }
+}

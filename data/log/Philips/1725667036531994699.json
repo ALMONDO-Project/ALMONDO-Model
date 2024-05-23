@@ -1,0 +1,56 @@
+{
+    "1725667036531994699": {
+        "author_id": "819791",
+        "created_at": "2023-11-18T00:07:37.000Z",
+        "edit_history_tweet_ids": [
+            "1725667036531994699"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 106,
+                    "normalized_text": "Loja",
+                    "probability": 0.4964,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Philips",
+                    "probability": 0.3814,
+                    "start": 108,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1321170045607751681",
+                    "start": 0,
+                    "username": "bluezinn_"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "to.philips/6012uF1RA",
+                    "end": 213,
+                    "expanded_url": "http://to.philips/6012uF1RA",
+                    "start": 190,
+                    "unwound_url": "https://infracommercebr.my.salesforce-sites.com/FormularioSalesforce/?id=3XCBVnTDccSozQbBws8YdZJuRKNKWCKXvFKwpYHExLF4reFOH12HC4eF7x0D2GVC",
+                    "url": "https://t.co/YLRZLDGugq"
+                }
+            ]
+        },
+        "id": "1725667036531994699",
+        "lang": "pt",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@bluezinn_ poder\u00e1 tirar todas as suas d\u00favidas e entender o que aconteceu conversando com nosso time na Loja Philips pelo n\u00famero: (11) 3474-8022, ou se preferir enviando um e-mail pelo link: https://t.co/YLRZLDGugq"
+    }
+}

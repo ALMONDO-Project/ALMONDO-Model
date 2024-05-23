@@ -1,0 +1,39 @@
+{
+    "1666417799483252736": {
+        "author_id": "517741511",
+        "created_at": "2023-06-07T12:12:18.000Z",
+        "edit_history_tweet_ids": [
+            "1666417799483252736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Sal",
+                    "probability": 0.526,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1479431458376847366",
+                    "start": 0,
+                    "username": "Sally97521224"
+                }
+            ]
+        },
+        "id": "1666417799483252736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 55,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Sally97521224 Hi Sal,\nWe\u2019ve teamed up with Money Expert to start door to door sales of our broadband packages. The Money Expert sales team knock at a door and promote BT products and services. They will then arrange for a member of the BT sales team to call back."
+    }
+}

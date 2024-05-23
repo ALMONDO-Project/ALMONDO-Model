@@ -1,0 +1,39 @@
+{
+    "1712418987462512960": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:44:36.000Z",
+        "edit_history_tweet_ids": [
+            "1712418987462512960"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Play",
+                    "probability": 0.5089,
+                    "start": 31,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "2465053094",
+                    "start": 0,
+                    "username": "ridemyparkinson"
+                }
+            ]
+        },
+        "id": "1712418987462512960",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 825,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ridemyparkinson On this World Play Day, your mission is to build a mountain bike out of LEGO bricks. \ud83d\udeb2"
+    }
+}

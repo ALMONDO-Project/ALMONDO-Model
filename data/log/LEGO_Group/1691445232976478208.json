@@ -1,0 +1,39 @@
+{
+    "1691445232976478208": {
+        "author_id": "295325513",
+        "created_at": "2023-08-15T13:42:23.000Z",
+        "edit_history_tweet_ids": [
+            "1691445232976478208"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "insect",
+                    "probability": 0.5331,
+                    "start": 12,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "67694050",
+                    "start": 0,
+                    "username": "Quemini"
+                }
+            ]
+        },
+        "id": "1691445232976478208",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 93,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Quemini No insect repellent for this set! \ud83d\ude01"
+    }
+}

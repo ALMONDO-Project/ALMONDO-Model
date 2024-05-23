@@ -1,0 +1,63 @@
+{
+    "1666431569307860992": {
+        "attachments": {
+            "media_keys": [
+                "3_1666431566673838084"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-06-07T13:07:01.000Z",
+        "edit_history_tweet_ids": [
+            "1666431569307860992"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "ERP",
+                    "probability": 0.6644,
+                    "start": 13,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 165,
+                    "id": "194686967",
+                    "start": 153,
+                    "username": "SAPCloudERP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6011Ot5NF",
+                    "end": 151,
+                    "expanded_url": "https://sap.to/6011Ot5NF",
+                    "start": 128,
+                    "status": 200,
+                    "unwound_url": "https://open.sap.com/courses/signavio1?source=social-Global-TWITTER-TrainingEnablement-CloudERP-openSAP-spr-10201404621-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10201404621",
+                    "url": "https://t.co/rWtWX6ReRZ"
+                },
+                {
+                    "display_url": "pic.twitter.com/TmU3ynMfmx",
+                    "end": 189,
+                    "expanded_url": "https://twitter.com/SAP/status/1666431569307860992/photo/1",
+                    "media_key": "3_1666431566673838084",
+                    "start": 166,
+                    "url": "https://t.co/TmU3ynMfmx"
+                }
+            ]
+        },
+        "id": "1666431569307860992",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 6678,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 16
+        },
+        "text": "Transforming ERP systems and processes can be a challenge for companies of any size.\n\nOur new course will help you get started: https://t.co/rWtWX6ReRZ\n\n@SAPCloudERP https://t.co/TmU3ynMfmx"
+    }
+}

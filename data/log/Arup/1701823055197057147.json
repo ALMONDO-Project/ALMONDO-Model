@@ -1,0 +1,75 @@
+{
+    "1701823055197057147": {
+        "attachments": {
+            "media_keys": [
+                "3_1701823034351370240"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-09-13T05:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1701823055197057147"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Momentus",
+                    "probability": 0.422,
+                    "start": 44,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 70,
+                    "start": 64,
+                    "tag": "event"
+                },
+                {
+                    "end": 171,
+                    "start": 163,
+                    "tag": "climate"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 39,
+                    "id": "90300296",
+                    "start": 25,
+                    "username": "SydOperaHouse"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3PAzIUZ",
+                    "end": 249,
+                    "expanded_url": "https://bit.ly/3PAzIUZ",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/news-and-events/momentus?utm_medium=social&utm_source=twitter&utm_campaign=momentus_invite_130923&utm_content=australasia",
+                    "url": "https://t.co/wYN3PXWAZp"
+                },
+                {
+                    "display_url": "pic.twitter.com/x8Y0s5UVio",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/Arup/status/1701823055197057147/photo/1",
+                    "media_key": "3_1701823034351370240",
+                    "start": 250,
+                    "url": "https://t.co/x8Y0s5UVio"
+                }
+            ]
+        },
+        "id": "1701823055197057147",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3557,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Join us virtually at the @SydOperaHouse for Momentus \u2013 a global #event bringing together great minds and bold ideas to explore how together, we can address global #climate challenges. Register for this free online event here: https://t.co/wYN3PXWAZp https://t.co/x8Y0s5UVio"
+    }
+}

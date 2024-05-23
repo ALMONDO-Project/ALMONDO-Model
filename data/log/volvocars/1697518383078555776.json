@@ -1,0 +1,39 @@
+{
+    "1697518383078555776": {
+        "author_id": "342772500",
+        "created_at": "2023-09-01T07:54:55.000Z",
+        "edit_history_tweet_ids": [
+            "1697518383078555776"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 92,
+                    "normalized_text": "Irene",
+                    "probability": 0.5899,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1308291840999911424",
+                    "start": 0,
+                    "username": "LucifersGedanke"
+                }
+            ]
+        },
+        "id": "1697518383078555776",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 48,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@LucifersGedanke We are sorry to hear this, please send us a DM with more information. -Irene"
+    }
+}

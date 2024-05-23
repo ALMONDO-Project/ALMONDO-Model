@@ -1,0 +1,66 @@
+{
+    "1739746162804998288": {
+        "author_id": "295325513",
+        "created_at": "2023-12-26T20:33:02.000Z",
+        "edit_history_tweet_ids": [
+            "1739746162804998288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.6637,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "LEGO City Police",
+                    "probability": 0.6199,
+                    "start": 71,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 35,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1036245820134371329",
+                    "start": 0,
+                    "username": "Jubble5"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 191,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 168,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1739746162804998288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 298,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Jubble5 Now that's what we call a #LEGOBuildDay challenge! We're told LEGO City Police are already on the scene, but if not, we're always here to help get you sorted: https://t.co/tPB6D5ogpj."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1664593697692958720": {
+        "author_id": "517741511",
+        "created_at": "2023-06-02T11:23:58.000Z",
+        "edit_history_tweet_ids": [
+            "1664593697692958720"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Jimmy",
+                    "probability": 0.6173,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "BT Business",
+                    "probability": 0.6177,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1039443161066729472",
+                    "start": 0,
+                    "username": "JimmyStocks2"
+                },
+                {
+                    "end": 86,
+                    "id": "20009086",
+                    "start": 71,
+                    "username": "btbusinesscare"
+                }
+            ]
+        },
+        "id": "1664593697692958720",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 57,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@JimmyStocks2 Hi Jimmy,\nCan I check if this in relation to BT Business @btbusinesscare account or a residential BT account?"
+    }
+}

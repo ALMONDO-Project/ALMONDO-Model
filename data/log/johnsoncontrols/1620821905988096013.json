@@ -1,0 +1,67 @@
+{
+    "1620821905988096013": {
+        "attachments": {
+            "media_keys": [
+                "3_1620821901592465423"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-02-01T16:30:30.000Z",
+        "edit_history_tweet_ids": [
+            "1620821905988096013"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "AHRexpo",
+                    "probability": 0.8272,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Controls Booth",
+                    "probability": 0.6981,
+                    "start": 134,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 48,
+                    "start": 40,
+                    "tag": "AHRexpo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3wgkuKn",
+                    "end": 271,
+                    "expanded_url": "https://on.jci.com/3wgkuKn",
+                    "start": 248,
+                    "url": "https://t.co/3QVxvKTRy3"
+                },
+                {
+                    "display_url": "pic.twitter.com/JU3MvX49Ue",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1620821905988096013/photo/1",
+                    "media_key": "3_1620821901592465423",
+                    "start": 272,
+                    "url": "https://t.co/JU3MvX49Ue"
+                }
+            ]
+        },
+        "id": "1620821905988096013",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 612,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "There\u2019s still time! If you\u2019re attending #AHRexpo, we encourage you to book an appointment in advance at our Building Automation &amp; Controls Booth (C5442) where our experts can show you how to reduce costs, minimize risk and maximize efficiency: https://t.co/3QVxvKTRy3 https://t.co/JU3MvX49Ue"
+    }
+}

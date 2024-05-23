@@ -1,0 +1,72 @@
+{
+    "1714227266291409338": {
+        "author_id": "517741511",
+        "created_at": "2023-10-17T10:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1714227266291409338"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Voice Roadshow",
+                    "probability": 0.5272,
+                    "start": 12,
+                    "type": "Other"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "Liverpool",
+                    "probability": 0.8495,
+                    "start": 41,
+                    "type": "Place"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Liverpool Quaker",
+                    "probability": 0.7694,
+                    "start": 155,
+                    "type": "Other"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "DigitalSwitchover",
+                    "probability": 0.5722,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 228,
+                    "start": 210,
+                    "tag": "DigitalSwitchover"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Find out more about Digital Voice in one of our events. We'll have a team on hand who can tell you what Digital Voice is, why the change is necessary, and what it means for you.",
+                    "display_url": "BT.com/broadband/digi\u2026",
+                    "end": 252,
+                    "expanded_url": "http://www.BT.com/broadband/digital-voice/events",
+                    "start": 229,
+                    "status": 200,
+                    "title": "Digital Voice Events | Digital Home Phone | BT",
+                    "unwound_url": "https://www.bt.com/broadband/digital-voice/events",
+                    "url": "https://t.co/qpuvUe1zZf"
+                }
+            ]
+        },
+        "id": "1714227266291409338",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1006,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Our Digital Voice Roadshow has landed in Liverpool!\n\nIf you're in the area and want to know more about our new home phone service, Digital Voice, swing by Liverpool Quaker Meeting House and chat with our team. #DigitalSwitchover https://t.co/qpuvUe1zZf"
+    }
+}

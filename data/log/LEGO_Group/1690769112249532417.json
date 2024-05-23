@@ -1,0 +1,39 @@
+{
+    "1690769112249532417": {
+        "author_id": "295325513",
+        "created_at": "2023-08-13T16:55:43.000Z",
+        "edit_history_tweet_ids": [
+            "1690769112249532417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "orca",
+                    "probability": 0.5003,
+                    "start": 22,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "116287989",
+                    "start": 0,
+                    "username": "SvenHilbrants"
+                }
+            ]
+        },
+        "id": "1690769112249532417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 937,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 0
+        },
+        "text": "@SvenHilbrants You've orca-strated this very whale!  \ud83d\ude01\ud83d\ude0d"
+    }
+}

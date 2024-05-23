@@ -1,0 +1,53 @@
+{
+    "1640698169108430848": {
+        "attachments": {
+            "media_keys": [
+                "3_1640698165899689985"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-28T12:51:40.000Z",
+        "edit_history_tweet_ids": [
+            "1640698169108430848"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 125,
+                    "normalized_text": "SAP Build Apps",
+                    "probability": 0.5595,
+                    "start": 112,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017O8G4U",
+                    "end": 179,
+                    "expanded_url": "https://sap.to/6017O8G4U",
+                    "start": 156,
+                    "url": "https://t.co/Dqib6jpKjK"
+                },
+                {
+                    "display_url": "pic.twitter.com/RxnQknbl6s",
+                    "end": 203,
+                    "expanded_url": "https://twitter.com/SAP/status/1640698169108430848/photo/1",
+                    "media_key": "3_1640698165899689985",
+                    "start": 180,
+                    "url": "https://t.co/RxnQknbl6s"
+                }
+            ]
+        },
+        "id": "1640698169108430848",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 7261,
+            "like_count": 29,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 15
+        },
+        "text": "Developers \u2013 get started on your mission. \ud83d\ude80 \n\nIn less than 60 minutes, learn how to create an application using SAP Build Apps with our developer tutorial. https://t.co/Dqib6jpKjK https://t.co/RxnQknbl6s"
+    }
+}

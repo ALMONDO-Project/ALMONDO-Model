@@ -1,0 +1,50 @@
+{
+    "1635724437713571842": {
+        "author_id": "76117579",
+        "created_at": "2023-03-14T19:27:50.000Z",
+        "edit_history_tweet_ids": [
+            "1635724437713571842"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 200,
+                    "id": "100292002",
+                    "start": 187,
+                    "username": "SAPCommunity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60193N4aL",
+                    "end": 113,
+                    "expanded_url": "https://sap.to/60193N4aL",
+                    "start": 90,
+                    "status": 200,
+                    "unwound_url": "https://learning.sap.com/learning-journeys?source=social-Global-TWITTER-AudienceEngagement-spr-9166286623-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=9166286623",
+                    "url": "https://t.co/ETplaxnHdH"
+                },
+                {
+                    "display_url": "sap.to/60103N4a0",
+                    "end": 159,
+                    "expanded_url": "https://sap.to/60103N4a0",
+                    "start": 136,
+                    "status": 200,
+                    "unwound_url": "https://open.sap.com/courses?source=social-Global-TWITTER-AudienceEngagement-spr-9166286623-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=9166286623",
+                    "url": "https://t.co/0Dw8YFRkAz"
+                }
+            ]
+        },
+        "id": "1635724437713571842",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 27,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@aach_me Hello! We do offer free training to build skills, such as our learning journeys: https://t.co/ETplaxnHdH and @openSAP courses: https://t.co/0Dw8YFRkAz. Another great resource is @SAPCommunity, where you can connect with experts and learn about best practices."
+    }
+}

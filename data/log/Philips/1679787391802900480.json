@@ -1,0 +1,50 @@
+{
+    "1679787391802900480": {
+        "author_id": "819791",
+        "created_at": "2023-07-14T09:38:17.000Z",
+        "edit_history_tweet_ids": [
+            "1679787391802900480"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Vinod",
+                    "probability": 0.5606,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "142572502",
+                    "start": 0,
+                    "username": "go4vinu"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 282,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1679787391802900480",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 16,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@go4vinu Hello Vinod. Thank you for reaching out to us. We would love to support you in figuring out which product you have. Please share the model number of the device, which you should be able to find on the bottom or back of the device, via private message so we can assist you. https://t.co/7VMKPAMQbA"
+    }
+}

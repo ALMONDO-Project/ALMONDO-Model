@@ -1,0 +1,67 @@
+{
+    "1630955123458424832": {
+        "attachments": {
+            "media_keys": [
+                "13_1630955044840304641"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-01T15:36:17.000Z",
+        "edit_history_tweet_ids": [
+            "1630955123458424832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.6929,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Orlando",
+                    "probability": 0.9372,
+                    "start": 64,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 60,
+                    "start": 48,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60103a36w",
+                    "end": 142,
+                    "expanded_url": "https://sap.to/60103a36w",
+                    "start": 119,
+                    "url": "https://t.co/ngT5kLiaGY"
+                },
+                {
+                    "display_url": "pic.twitter.com/Xe0S15Lnsh",
+                    "end": 166,
+                    "expanded_url": "https://twitter.com/SAP/status/1630955123458424832/video/1",
+                    "media_key": "13_1630955044840304641",
+                    "start": 143,
+                    "url": "https://t.co/Xe0S15Lnsh"
+                }
+            ]
+        },
+        "id": "1630955123458424832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4891,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "Choose the experience that is right for you.\ud83d\udc4f \n\n#SAPSapphire in Orlando and Virtual event registration are both live!\n\nhttps://t.co/ngT5kLiaGY https://t.co/Xe0S15Lnsh"
+    }
+}

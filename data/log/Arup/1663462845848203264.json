@@ -1,0 +1,100 @@
+{
+    "1663462845848203264": {
+        "attachments": {
+            "media_keys": [
+                "13_1663462760510902272"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-05-30T08:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1663462845848203264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Washington DC",
+                    "probability": 0.6,
+                    "start": 8,
+                    "type": "Place"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "MassTimber",
+                    "probability": 0.5228,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "TimberBuildings",
+                    "probability": 0.4189,
+                    "start": 239,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 80,
+                    "tag": "MassTimber"
+                },
+                {
+                    "end": 154,
+                    "start": 142,
+                    "tag": "sustainable"
+                },
+                {
+                    "end": 254,
+                    "start": 238,
+                    "tag": "TimberBuildings"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 223,
+                    "id": "2494803391",
+                    "start": 211,
+                    "username": "ColumbiaCXP"
+                },
+                {
+                    "end": 235,
+                    "id": "281070519",
+                    "start": 224,
+                    "username": "HickokCole"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3OBsyjn",
+                    "end": 209,
+                    "expanded_url": "https://bit.ly/3OBsyjn",
+                    "start": 186,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/publications/the-arup-journal/section/the-arup-journal-2022-issue-2?utm_medium=social&utm_source=twitter&utm_campaign=arup_journal_-_80m_-_post_1_260523&utm_content=global",
+                    "url": "https://t.co/VXPWmWlTm2"
+                },
+                {
+                    "display_url": "pic.twitter.com/6CkqfdN04J",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/Arup/status/1663462845848203264/video/1",
+                    "media_key": "13_1663462760510902272",
+                    "start": 255,
+                    "url": "https://t.co/6CkqfdN04J"
+                }
+            ]
+        },
+        "id": "1663462845848203264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3187,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "80 M is Washington DC\u2019s first commercial office space to incorporate a vertical #MassTimber extension. Discover how this innovative, safe and #sustainable solution was implemented here: https://t.co/VXPWmWlTm2\n\n@ColumbiaCXP @HickokCole \n\n#TimberBuildings https://t.co/6CkqfdN04J"
+    }
+}

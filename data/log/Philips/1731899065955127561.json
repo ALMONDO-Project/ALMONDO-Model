@@ -1,0 +1,39 @@
+{
+    "1731899065955127561": {
+        "author_id": "819791",
+        "created_at": "2023-12-05T04:51:29.000Z",
+        "edit_history_tweet_ids": [
+            "1731899065955127561"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Nikhil",
+                    "probability": 0.5477,
+                    "start": 15,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1722167676527886336",
+                    "start": 0,
+                    "username": "Niksklk001"
+                }
+            ]
+        },
+        "id": "1731899065955127561",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Niksklk001 Hi Nikhil, We have shared the details with the team and get back to you shortly with an update."
+    }
+}

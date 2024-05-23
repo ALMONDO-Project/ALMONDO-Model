@@ -1,0 +1,46 @@
+{
+    "1712468321604702353": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T14:00:38.000Z",
+        "edit_history_tweet_ids": [
+            "1712468321604702353"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "NinjagoDragonsRising",
+                    "probability": 0.9639,
+                    "start": 43,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 63,
+                    "start": 42,
+                    "tag": "NinjagoDragonsRising"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "242356838",
+                    "start": 0,
+                    "username": "Mega__Toby"
+                }
+            ]
+        },
+        "id": "1712468321604702353",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1051,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Mega__Toby Build a dragon while watching #NinjagoDragonsRising Part 2 \ud83d\udc09"
+    }
+}

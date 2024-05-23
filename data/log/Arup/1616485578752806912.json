@@ -1,0 +1,71 @@
+{
+    "1616485578752806912": {
+        "author_id": "67339136",
+        "created_at": "2023-01-20T17:19:29.000Z",
+        "edit_history_tweet_ids": [
+            "1616485578752806912"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "World Economic Forum",
+                    "probability": 0.7235,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Davos",
+                    "probability": 0.8903,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Alan Belfield",
+                    "probability": 0.9321,
+                    "start": 131,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 271,
+                    "start": 265,
+                    "tag": "wef23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 159,
+                    "id": "5120691",
+                    "start": 155,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3QRu6EZ",
+                    "end": 263,
+                    "expanded_url": "https://bit.ly/3QRu6EZ",
+                    "start": 240,
+                    "status": 200,
+                    "unwound_url": "https://www.weforum.org/agenda/2023/01/why-hunting-down-the-carbon-in-buildings-is-crucial-to-fighting-climate-change/",
+                    "url": "https://t.co/KQwVtSAgpR"
+                }
+            ]
+        },
+        "id": "1616485578752806912",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1563,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "An important message at the World Economic Forum in Davos this week was the need to solve our biggest problems together. Our chair Alan Belfield wrote for @wef on the urgent need for more shared data to scale net zero buildings. Read here: https://t.co/KQwVtSAgpR\n\n#wef23"
+    }
+}

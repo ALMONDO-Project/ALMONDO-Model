@@ -1,0 +1,39 @@
+{
+    "1717448859427721668": {
+        "author_id": "295325513",
+        "created_at": "2023-10-26T07:51:31.000Z",
+        "edit_history_tweet_ids": [
+            "1717448859427721668"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "VPN",
+                    "probability": 0.4009,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "59078029",
+                    "start": 0,
+                    "username": "JhadurMic"
+                }
+            ]
+        },
+        "id": "1717448859427721668",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 57,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JhadurMic That does not sound right, but we are here to help. Make sure you're not using a VPN or ad blocker. If this does not work for you send us a DM, and we will take a closer look for you."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1734224854293876950": {
+        "author_id": "295325513",
+        "created_at": "2023-12-11T14:53:20.000Z",
+        "edit_history_tweet_ids": [
+            "1734224854293876950"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "First Order",
+                    "probability": 0.651,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1350146086321737728",
+                    "start": 0,
+                    "username": "JackTekz"
+                }
+            ]
+        },
+        "id": "1734224854293876950",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7221,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JackTekz An awesome build that's sure to leave those First Order pilots quaking in their boots! \ud83e\udd29"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1731314245571170728": {
+        "author_id": "295325513",
+        "created_at": "2023-12-03T14:07:37.000Z",
+        "edit_history_tweet_ids": [
+            "1731314245571170728"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "George",
+                    "probability": 0.6545,
+                    "start": 41,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "163569364",
+                    "start": 0,
+                    "username": "AliHulby"
+                }
+            ]
+        },
+        "id": "1731314245571170728",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4867,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AliHulby Such a lovely heart! Thank you George! \u2764\ufe0f"
+    }
+}

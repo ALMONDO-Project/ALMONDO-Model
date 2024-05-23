@@ -1,0 +1,74 @@
+{
+    "1622989002679746563": {
+        "attachments": {
+            "media_keys": [
+                "3_1622988886937899010"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-07T16:01:46.000Z",
+        "edit_history_tweet_ids": [
+            "1622989002679746563"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "Turkey",
+                    "probability": 0.9524,
+                    "start": 58,
+                    "type": "Place"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Syria",
+                    "probability": 0.9847,
+                    "start": 69,
+                    "type": "Place"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "UK",
+                    "probability": 0.9707,
+                    "start": 179,
+                    "type": "Place"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "Turkey",
+                    "probability": 0.9593,
+                    "start": 185,
+                    "type": "Place"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "Syria",
+                    "probability": 0.9826,
+                    "start": 196,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/JJ1ruQynVV",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1622989002679746563/photo/1",
+                    "media_key": "3_1622988886937899010",
+                    "start": 281,
+                    "url": "https://t.co/JJ1ruQynVV"
+                }
+            ]
+        },
+        "id": "1622989002679746563",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4808,
+            "like_count": 24,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 12
+        },
+        "text": "Our brands have made mobile calls, texts and data used in Turkey and Syria free-of-charge for our customers between 6 Feb and 10 Feb (inclusive)\n\nThey\u2019ve also made calls from the UK to Turkey and Syria free, so you can check on your loved ones without incurring additional charges https://t.co/JJ1ruQynVV"
+    }
+}

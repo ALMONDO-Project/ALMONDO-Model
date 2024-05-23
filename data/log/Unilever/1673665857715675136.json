@@ -1,0 +1,71 @@
+{
+    "1673665857715675136": {
+        "author_id": "109224937",
+        "created_at": "2023-06-27T12:13:30.000Z",
+        "edit_history_tweet_ids": [
+            "1673665857715675136"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "CannesLions70",
+                    "probability": 0.9088,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "CannesLions2023",
+                    "probability": 0.8863,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Unilever",
+                    "probability": 0.7575,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 58,
+                    "start": 44,
+                    "tag": "CannesLions70"
+                },
+                {
+                    "end": 75,
+                    "start": 59,
+                    "tag": "CannesLions2023"
+                },
+                {
+                    "end": 85,
+                    "start": 76,
+                    "tag": "Unilever"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ConnyBraams/st\u2026",
+                    "end": 109,
+                    "expanded_url": "https://twitter.com/ConnyBraams/status/1673571865955295233",
+                    "start": 86,
+                    "url": "https://t.co/jSp8nUB9wY"
+                }
+            ]
+        },
+        "id": "1673665857715675136",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9010,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 71,
+            "retweet_count": 0
+        },
+        "text": "Now that\u2019s what we call a roaring success!\n\n#CannesLions70 #CannesLions2023 #Unilever https://t.co/jSp8nUB9wY"
+    }
+}

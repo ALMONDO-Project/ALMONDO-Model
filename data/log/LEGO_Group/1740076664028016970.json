@@ -1,0 +1,46 @@
+{
+    "1740076664028016970": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T18:26:20.000Z",
+        "edit_history_tweet_ids": [
+            "1740076664028016970"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.8116,
+                    "start": 69,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 68,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "280831905",
+                    "start": 0,
+                    "username": "danharriscan"
+                }
+            ]
+        },
+        "id": "1740076664028016970",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 373,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@danharriscan Almost ready to roll out! That's a great way to spend #LEGOBuildDay together!"
+    }
+}

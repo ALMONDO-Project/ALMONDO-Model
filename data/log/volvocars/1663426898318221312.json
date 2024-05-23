@@ -1,0 +1,50 @@
+{
+    "1663426898318221312": {
+        "author_id": "342772500",
+        "created_at": "2023-05-30T06:07:32.000Z",
+        "edit_history_tweet_ids": [
+            "1663426898318221312"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "Irene",
+                    "probability": 0.6103,
+                    "start": 84,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "979762384591118343",
+                    "start": 0,
+                    "username": "ger_cosgrove"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/42fVCzU",
+                    "end": 114,
+                    "expanded_url": "https://bit.ly/42fVCzU",
+                    "start": 91,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/bpHIe3DVMN"
+                }
+            ]
+        },
+        "id": "1663426898318221312",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 120,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ger_cosgrove We're sorry to hear this, please send us a DM with more information. -Irene\n https://t.co/bpHIe3DVMN"
+    }
+}

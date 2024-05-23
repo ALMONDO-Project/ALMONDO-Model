@@ -1,0 +1,60 @@
+{
+    "1630515695879430144": {
+        "attachments": {
+            "media_keys": [
+                "7_1630509417559994368"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-28T10:30:10.000Z",
+        "edit_history_tweet_ids": [
+            "1630515695879430144"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "Scotland",
+                    "probability": 0.905,
+                    "start": 7,
+                    "type": "Organization"
+                },
+                {
+                    "end": 24,
+                    "normalized_text": "BT Group",
+                    "probability": 0.8459,
+                    "start": 17,
+                    "type": "Organization"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Scotland",
+                    "probability": 0.8725,
+                    "start": 72,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/h8fhtFLqX8",
+                    "end": 149,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1630515695879430144/video/1",
+                    "media_key": "7_1630509417559994368",
+                    "start": 126,
+                    "url": "https://t.co/h8fhtFLqX8"
+                }
+            ]
+        },
+        "id": "1630515695879430144",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1326,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 4
+        },
+        "text": "Across Scotland, BT Group provided a boost of \u00a31.45bn to the economy of Scotland and supported a total of nearly 15,000 jobs. https://t.co/h8fhtFLqX8"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "1622898084412813313": {
+        "attachments": {
+            "media_keys": [
+                "3_1622898000539312137",
+                "3_1622898021477261312",
+                "3_1622898042457231360",
+                "3_1622898063428788226"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-07T10:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1622898084412813313"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "NASA",
+                    "probability": 0.9798,
+                    "start": 34,
+                    "type": "Organization"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Jim Wetherbee",
+                    "probability": 0.9239,
+                    "start": 50,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 274,
+                    "start": 264,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/3cZo6AVPu0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1622898084412813313/photo/1",
+                    "media_key": "3_1622898000539312137",
+                    "start": 275,
+                    "url": "https://t.co/3cZo6AVPu0"
+                },
+                {
+                    "display_url": "pic.twitter.com/3cZo6AVPu0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1622898084412813313/photo/1",
+                    "media_key": "3_1622898021477261312",
+                    "start": 275,
+                    "url": "https://t.co/3cZo6AVPu0"
+                },
+                {
+                    "display_url": "pic.twitter.com/3cZo6AVPu0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1622898084412813313/photo/1",
+                    "media_key": "3_1622898042457231360",
+                    "start": 275,
+                    "url": "https://t.co/3cZo6AVPu0"
+                },
+                {
+                    "display_url": "pic.twitter.com/3cZo6AVPu0",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1622898084412813313/photo/1",
+                    "media_key": "3_1622898063428788226",
+                    "start": 275,
+                    "url": "https://t.co/3cZo6AVPu0"
+                }
+            ]
+        },
+        "id": "1622898084412813313",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4046,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "We were joined recently by former NASA astronaut, Jim Wetherbee, who shared his extraordinary experience working with hazards in high-risk environments. We believe it\u2019s crucial to learn from experts in other industries to shape a safer, more sustainable future. \n\n#WeAreArup https://t.co/3cZo6AVPu0"
+    }
+}

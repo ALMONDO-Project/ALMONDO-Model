@@ -1,0 +1,97 @@
+{
+    "1640466941067272193": {
+        "attachments": {
+            "media_keys": [
+                "13_1640466728462303232"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-27T21:32:51.000Z",
+        "edit_history_tweet_ids": [
+            "1640466941067272193"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Ovingham Level Crossing Removal Project",
+                    "probability": 0.6777,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "SouthAustralian",
+                    "probability": 0.4039,
+                    "start": 110,
+                    "type": "Other"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "PTPAlliance",
+                    "probability": 0.3945,
+                    "start": 260,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 4,
+                    "tag": "Ovingham"
+                },
+                {
+                    "end": 68,
+                    "start": 58,
+                    "tag": "transport"
+                },
+                {
+                    "end": 125,
+                    "start": 109,
+                    "tag": "SouthAustralian"
+                },
+                {
+                    "end": 271,
+                    "start": 259,
+                    "tag": "PTPAlliance"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 257,
+                    "id": "341811217",
+                    "start": 249,
+                    "username": "DFIT_SA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3z7B8gC",
+                    "end": 247,
+                    "expanded_url": "https://bit.ly/3z7B8gC",
+                    "start": 224,
+                    "url": "https://t.co/HUMTi3FUtS"
+                },
+                {
+                    "display_url": "pic.twitter.com/y9TtGkNjEO",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Arup/status/1640466941067272193/video/1",
+                    "media_key": "13_1640466728462303232",
+                    "start": 272,
+                    "url": "https://t.co/y9TtGkNjEO"
+                }
+            ]
+        },
+        "id": "1640466941067272193",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2579,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "The #Ovingham Level Crossing Removal Project has improved #transport efficiency, safety and mobility for the #SouthAustralian community. Open public space embedded with Indigenous stories are highlights of the urban design: https://t.co/HUMTi3FUtS  @DFIT_SA  #PTPAlliance https://t.co/y9TtGkNjEO"
+    }
+}

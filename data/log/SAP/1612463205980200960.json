@@ -1,0 +1,60 @@
+{
+    "1612463205980200960": {
+        "attachments": {
+            "media_keys": [
+                "3_1612463203547549699"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-01-09T14:56:01.000Z",
+        "edit_history_tweet_ids": [
+            "1612463205980200960"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Germany",
+                    "probability": 0.9811,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "LkSG",
+                    "probability": 0.4098,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60163rSjQ",
+                    "end": 165,
+                    "expanded_url": "https://sap.to/60163rSjQ",
+                    "start": 142,
+                    "url": "https://t.co/rTQIVOW6hp"
+                },
+                {
+                    "display_url": "pic.twitter.com/5SYGzqDXFq",
+                    "end": 189,
+                    "expanded_url": "https://twitter.com/SAP/status/1612463205980200960/photo/1",
+                    "media_key": "3_1612463203547549699",
+                    "start": 166,
+                    "url": "https://t.co/5SYGzqDXFq"
+                }
+            ]
+        },
+        "id": "1612463205980200960",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4944,
+            "like_count": 13,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Germany\u2019s supply chain due diligence act (LkSG) requires companies to report human rights and environmental impacts. \n\nWhat you need to know: https://t.co/rTQIVOW6hp https://t.co/5SYGzqDXFq"
+    }
+}

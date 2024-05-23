@@ -1,0 +1,39 @@
+{
+    "1701953624576843888": {
+        "author_id": "819791",
+        "created_at": "2023-09-13T13:38:59.000Z",
+        "edit_history_tweet_ids": [
+            "1701953624576843888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "Philips Groomer",
+                    "probability": 0.7917,
+                    "start": 57,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1604744149680345090",
+                    "start": 0,
+                    "username": "all_is_well1899"
+                }
+            ]
+        },
+        "id": "1701953624576843888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 16,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@all_is_well1899 It is possible that the battery of your Philips Groomer has run out. We advise you to fully charge your groomer and then try turning it on again.\nNote: Charging and running time can vary based on the model of your groomer. Please check your user manual for more information."
+    }
+}

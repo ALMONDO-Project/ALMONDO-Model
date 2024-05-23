@@ -1,0 +1,53 @@
+{
+    "1683771571633274880": {
+        "attachments": {
+            "media_keys": [
+                "3_1683769652881547270"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-07-25T09:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1683771571633274880"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "TwitterX",
+                    "probability": 0.9767,
+                    "start": 22,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 21,
+                    "tag": "TwitterX"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/bvK3HPqKWe",
+                    "end": 54,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1683771571633274880/photo/1",
+                    "media_key": "3_1683769652881547270",
+                    "start": 31,
+                    "url": "https://t.co/bvK3HPqKWe"
+                }
+            ]
+        },
+        "id": "1683771571633274880",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3200,
+            "like_count": 36,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 7
+        },
+        "text": "We still love birds. #TwitterX https://t.co/bvK3HPqKWe"
+    }
+}

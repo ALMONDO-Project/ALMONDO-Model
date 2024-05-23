@@ -1,0 +1,81 @@
+{
+    "1725529515621798097": {
+        "attachments": {
+            "media_keys": [
+                "7_1725529446818455552"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-11-17T15:01:09.000Z",
+        "edit_history_tweet_ids": [
+            "1725529515621798097"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "TRANSATLANTIC SNOW",
+                    "probability": 0.6428,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "London",
+                    "probability": 0.9641,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "New York",
+                    "probability": 0.9892,
+                    "start": 100,
+                    "type": "Place"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "London",
+                    "probability": 0.4892,
+                    "start": 131,
+                    "type": "Place"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Leicester Square Store",
+                    "probability": 0.7303,
+                    "start": 138,
+                    "type": "Place"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "New York Store",
+                    "probability": 0.8257,
+                    "start": 181,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/nSsoupKCfZ",
+                    "end": 263,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1725529515621798097/video/1",
+                    "media_key": "7_1725529446818455552",
+                    "start": 240,
+                    "url": "https://t.co/nSsoupKCfZ"
+                }
+            ]
+        },
+        "id": "1725529515621798097",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 10,
+            "impression_count": 98154,
+            "like_count": 432,
+            "quote_count": 0,
+            "reply_count": 13,
+            "retweet_count": 54
+        },
+        "text": "This holiday season, we have launched the World\u2019s first TRANSATLANTIC SNOW THROW between London and New York.\n\nTaking place at our London Leicester Square Store and our 5th Avenue, New York Store - Let\u2019s see how both cities are getting on! https://t.co/nSsoupKCfZ"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "1658470841317994498": {
+        "attachments": {
+            "media_keys": [
+                "13_1658470790004879361"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-16T13:53:56.000Z",
+        "edit_history_tweet_ids": [
+            "1658470841317994498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "SAP Business Network",
+                    "probability": 0.5133,
+                    "start": 46,
+                    "type": "Organization"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.6002,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 228,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6012O9MEm",
+                    "end": 226,
+                    "expanded_url": "https://sap.to/6012O9MEm",
+                    "start": 203,
+                    "status": 200,
+                    "unwound_url": "https://www.sap.com/products/business-network/industries.html?source=social-Global-TWITTER-MarketingCampaign-Industry-Industry_Solutions-SAPPHIRENOW-spr-10003171079-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=10003171079",
+                    "url": "https://t.co/wPBuXK5T1D"
+                },
+                {
+                    "display_url": "pic.twitter.com/zaHHVtLMig",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/SAP/status/1658470841317994498/video/1",
+                    "media_key": "13_1658470790004879361",
+                    "start": 241,
+                    "url": "https://t.co/zaHHVtLMig"
+                }
+            ]
+        },
+        "id": "1658470841317994498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 15775,
+            "like_count": 38,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 23
+        },
+        "text": "Networked supply chains \ud83e\udd1d Industry expertise\n\nSAP Business Network for Industry helps companies create resilient, transparent, and sustainable supply chains to support the unique needs of your industry. https://t.co/wPBuXK5T1D\n\n#SAPSapphire https://t.co/zaHHVtLMig"
+    }
+}

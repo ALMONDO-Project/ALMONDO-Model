@@ -1,0 +1,39 @@
+{
+    "1731539977060671781": {
+        "author_id": "819791",
+        "created_at": "2023-12-04T05:04:35.000Z",
+        "edit_history_tweet_ids": [
+            "1731539977060671781"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Bikash",
+                    "probability": 0.8315,
+                    "start": 11,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "748915176389259264",
+                    "start": 0,
+                    "username": "bk9590"
+                }
+            ]
+        },
+        "id": "1731539977060671781",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@bk9590 Hi Bikash, Thanks for giving us your valuable time over the call. We will check with the service team and get back to you shortly with an update."
+    }
+}

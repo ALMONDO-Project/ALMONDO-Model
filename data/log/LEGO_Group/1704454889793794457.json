@@ -1,0 +1,46 @@
+{
+    "1704454889793794457": {
+        "author_id": "295325513",
+        "created_at": "2023-09-20T11:18:07.000Z",
+        "edit_history_tweet_ids": [
+            "1704454889793794457"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Eternal",
+                    "probability": 0.8353,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 24,
+                    "normalized_text": "LEGO",
+                    "probability": 0.4435,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1001437861",
+                    "start": 0,
+                    "username": "JaNorono"
+                }
+            ]
+        },
+        "id": "1704454889793794457",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 964,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@JaNorono Eternal as LEGO bricks! \ud83e\uddf1\ud83d\ude01"
+    }
+}

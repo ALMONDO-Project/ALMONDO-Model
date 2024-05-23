@@ -1,0 +1,63 @@
+{
+    "1713932913102704640": {
+        "author_id": "517741511",
+        "created_at": "2023-10-16T15:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1713932913102704640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Digital Voice",
+                    "probability": 0.6801,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "Digital Voice",
+                    "probability": 0.5767,
+                    "start": 119,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Digital Voice is BT\u2019s new home phone service, powered by your broadband connection.For most customers, the switch to Digital Voice will be as simple as conne...",
+                    "display_url": "youtube.com/watch?v=Q7YmHG\u2026",
+                    "end": 267,
+                    "expanded_url": "https://www.youtube.com/watch?v=Q7YmHG7cEno",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1790332488495005696/rfgy0BRT?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1790332488495005696/rfgy0BRT?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 244,
+                    "status": 200,
+                    "title": "Introduction to Digital Voice",
+                    "unwound_url": "https://www.youtube.com/watch?v=Q7YmHG7cEno",
+                    "url": "https://t.co/RAUxprzdAh"
+                }
+            ]
+        },
+        "id": "1713932913102704640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1748,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 2
+        },
+        "text": "Digital Voice is our new home phone service, delivered over a broadband connection.\n\nFor most customers, the switch to Digital Voice will be as simple as connecting your home phone handset to a router rather than the phone socket on the wall.\n\nhttps://t.co/RAUxprzdAh"
+    }
+}

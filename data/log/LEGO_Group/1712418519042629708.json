@@ -1,0 +1,46 @@
+{
+    "1712418519042629708": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:42:44.000Z",
+        "edit_history_tweet_ids": [
+            "1712418519042629708"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 117,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8407,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 118,
+                    "start": 101,
+                    "tag": "SuperpowerOfPlay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1211601765612711937",
+                    "start": 0,
+                    "username": "christinegenti6"
+                }
+            ]
+        },
+        "id": "1712418519042629708",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 534,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@christinegenti6 Ready to play? Your play mission is to build a baseball bat using only 10 bricks. \u26be #SuperpowerOfPlay"
+    }
+}

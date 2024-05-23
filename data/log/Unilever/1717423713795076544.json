@@ -1,0 +1,107 @@
+{
+    "1717423713795076544": {
+        "attachments": {
+            "media_keys": [
+                "3_1717423019700764672"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-10-26T06:11:36.000Z",
+        "edit_history_tweet_ids": [
+            "1717423713795076544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 213,
+                    "normalized_text": "ULVR",
+                    "probability": 0.4378,
+                    "start": 210,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "UNA",
+                    "probability": 0.5847,
+                    "start": 216,
+                    "type": "Organization"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "UL",
+                    "probability": 0.3612,
+                    "start": 221,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 214,
+                    "start": 209,
+                    "tag": "ULVR"
+                },
+                {
+                    "end": 219,
+                    "start": 215,
+                    "tag": "UNA"
+                },
+                {
+                    "end": 223,
+                    "start": 220,
+                    "tag": "UL"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 208,
+                    "start": 192,
+                    "tag": "UnileverResults"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Unilever releases its financial information on a quarterly basis. Find out about our most recent results here.",
+                    "display_url": "unilever.com/investors/resu\u2026",
+                    "end": 190,
+                    "expanded_url": "https://www.unilever.com/investors/results-presentations/latest-results/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Market_CommsCorporateAffairs_Q3Results2023_2023&utm_content=static_SM2",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1756449405257875456/5pFjEQBE?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1756449405257875456/5pFjEQBE?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 167,
+                    "status": 200,
+                    "title": "Latest results | Unilever",
+                    "unwound_url": "https://www.unilever.com/investors/results-presentations/latest-results/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Market_CommsCorporateAffairs_Q3Results2023_2023&utm_content=static_SM2",
+                    "url": "https://t.co/sISNeCytnM"
+                },
+                {
+                    "display_url": "pic.twitter.com/7vuUblPN9t",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Unilever/status/1717423713795076544/photo/1",
+                    "media_key": "3_1717423019700764672",
+                    "start": 224,
+                    "url": "https://t.co/7vuUblPN9t"
+                }
+            ]
+        },
+        "id": "1717423713795076544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3877,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 12,
+            "retweet_count": 3
+        },
+        "text": "Our results for the third quarter of 2023 \u2013 announced earlier today \u2013 show solid performance with underlying sales growth of 5.2%.\n\nYou can delve into the detail here https://t.co/sISNeCytnM\n\n#UnileverResults $ULVR $UNA $UL https://t.co/7vuUblPN9t"
+    }
+}

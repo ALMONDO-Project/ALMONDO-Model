@@ -1,0 +1,39 @@
+{
+    "1737380605686403548": {
+        "author_id": "819791",
+        "created_at": "2023-12-20T07:53:10.000Z",
+        "edit_history_tweet_ids": [
+            "1737380605686403548"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Stuart",
+                    "probability": 0.7187,
+                    "start": 42,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1245708844979884035",
+                    "start": 0,
+                    "username": "StuartA90225904"
+                }
+            ]
+        },
+        "id": "1737380605686403548",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@StuartA90225904 Thanks for your patience Stuart! We've replied to your message. :)"
+    }
+}

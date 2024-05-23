@@ -1,0 +1,121 @@
+{
+    "1633830199908515843": {
+        "attachments": {
+            "media_keys": [
+                "3_1633830094602117124",
+                "3_1633830115850477573",
+                "3_1633830157755744264",
+                "3_1633830178752466953"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-09T14:00:49.000Z",
+        "edit_history_tweet_ids": [
+            "1633830199908515843"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Cyabami",
+                    "probability": 0.615,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Rwanda",
+                    "probability": 0.9585,
+                    "start": 105,
+                    "type": "Place"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "B2P",
+                    "probability": 0.4845,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "IWD2023",
+                    "probability": 0.5419,
+                    "start": 272,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 111,
+                    "start": 104,
+                    "tag": "Rwanda"
+                },
+                {
+                    "end": 279,
+                    "start": 271,
+                    "tag": "IWD2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 25,
+                    "id": "25883343",
+                    "start": 21,
+                    "username": "B2P"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3KXavlU",
+                    "end": 269,
+                    "expanded_url": "https://bit.ly/3KXavlU",
+                    "start": 246,
+                    "url": "https://t.co/VXmcIpRf11"
+                },
+                {
+                    "display_url": "pic.twitter.com/FLFAOppLcU",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1633830199908515843/photo/1",
+                    "media_key": "3_1633830094602117124",
+                    "start": 280,
+                    "url": "https://t.co/FLFAOppLcU"
+                },
+                {
+                    "display_url": "pic.twitter.com/FLFAOppLcU",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1633830199908515843/photo/1",
+                    "media_key": "3_1633830115850477573",
+                    "start": 280,
+                    "url": "https://t.co/FLFAOppLcU"
+                },
+                {
+                    "display_url": "pic.twitter.com/FLFAOppLcU",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1633830199908515843/photo/1",
+                    "media_key": "3_1633830157755744264",
+                    "start": 280,
+                    "url": "https://t.co/FLFAOppLcU"
+                },
+                {
+                    "display_url": "pic.twitter.com/FLFAOppLcU",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1633830199908515843/photo/1",
+                    "media_key": "3_1633830178752466953",
+                    "start": 280,
+                    "url": "https://t.co/FLFAOppLcU"
+                }
+            ]
+        },
+        "id": "1633830199908515843",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2536,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Our partnership with @B2P saw a team of women engineers help build the Cyabami suspended trailbridge in #Rwanda. B2P used our digital visualisation tool, helping people from a non-technical background to visualise bridge construction. Read more: https://t.co/VXmcIpRf11\n\n#IWD2023 https://t.co/FLFAOppLcU"
+    }
+}

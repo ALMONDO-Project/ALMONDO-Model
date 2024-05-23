@@ -1,0 +1,46 @@
+{
+    "1724303748069982275": {
+        "author_id": "819791",
+        "created_at": "2023-11-14T05:50:24.000Z",
+        "edit_history_tweet_ids": [
+            "1724303748069982275"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Vikram",
+                    "probability": 0.5687,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "Philips",
+                    "probability": 0.8013,
+                    "start": 86,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "370702916",
+                    "start": 0,
+                    "username": "VikramSavitri"
+                }
+            ]
+        },
+        "id": "1724303748069982275",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@VikramSavitri Hi Vikram, We are sorry to hear that you are facing an issue with your Philips product, and we sincerely apologise for the inconvenience it may have caused you. However, please share your contact information via private message, so we can assist you further regarding this."
+    }
+}

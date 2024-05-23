@@ -1,0 +1,67 @@
+{
+    "1620044344135671810": {
+        "attachments": {
+            "media_keys": [
+                "13_1620044216507195394"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-30T13:00:45.000Z",
+        "edit_history_tweet_ids": [
+            "1620044344135671810"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Gabrielle McGill",
+                    "probability": 0.8442,
+                    "start": 5,
+                    "type": "Person"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Australasia",
+                    "probability": 0.6249,
+                    "start": 110,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 207,
+                    "start": 197,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kFXstP",
+                    "end": 196,
+                    "expanded_url": "https://bit.ly/3kFXstP",
+                    "start": 173,
+                    "url": "https://t.co/Z20MnCgCiq"
+                },
+                {
+                    "display_url": "pic.twitter.com/3peUGUCeha",
+                    "end": 231,
+                    "expanded_url": "https://twitter.com/Arup/status/1620044344135671810/video/1",
+                    "media_key": "13_1620044216507195394",
+                    "start": 208,
+                    "url": "https://t.co/3peUGUCeha"
+                }
+            ]
+        },
+        "id": "1620044344135671810",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1746,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Meet Gabrielle McGill, an industrial chemist leading our Resilience, Impact and Social Equity Team Leader for Australasia. Find out how she is making her mark on the world: https://t.co/Z20MnCgCiq #WeAreArup https://t.co/3peUGUCeha"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "1665643438040047623": {
+        "attachments": {
+            "media_keys": [
+                "13_1665643372806021120"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-06-05T08:55:16.000Z",
+        "edit_history_tweet_ids": [
+            "1665643438040047623"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "BuiltEnvironment",
+                    "probability": 0.6472,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7549,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "WorldEnvironmentDay",
+                    "probability": 0.6097,
+                    "start": 82,
+                    "type": "Other"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "CicularEconomy",
+                    "probability": 0.7044,
+                    "start": 155,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 4,
+                    "tag": "BuiltEnvironment"
+                },
+                {
+                    "end": 74,
+                    "start": 60,
+                    "tag": "ClimateChange"
+                },
+                {
+                    "end": 101,
+                    "start": 81,
+                    "tag": "WorldEnvironmentDay"
+                },
+                {
+                    "end": 169,
+                    "start": 154,
+                    "tag": "CicularEconomy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 133,
+                    "id": "189134186",
+                    "start": 117,
+                    "username": "circulareconomy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3qva9ul",
+                    "end": 270,
+                    "expanded_url": "https://bit.ly/3qva9ul",
+                    "start": 247,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=rWFkLa-QI0s",
+                    "url": "https://t.co/HmwnHXZF6h"
+                },
+                {
+                    "display_url": "pic.twitter.com/KKk3wdfxaW",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Arup/status/1665643438040047623/video/1",
+                    "media_key": "13_1665643372806021120",
+                    "start": 271,
+                    "url": "https://t.co/KKk3wdfxaW"
+                }
+            ]
+        },
+        "id": "1665643438040047623",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6034,
+            "like_count": 20,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 11
+        },
+        "text": "The #BuiltEnvironment is one of the largest contributors to #ClimateChange. This #WorldEnvironmentDay, together with @circulareconomy, we examine how the #CicularEconomy can help the built environment reduce its impacts on our planet. Learn more: https://t.co/HmwnHXZF6h https://t.co/KKk3wdfxaW"
+    }
+}

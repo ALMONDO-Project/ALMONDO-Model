@@ -1,0 +1,39 @@
+{
+    "1731644871872504176": {
+        "author_id": "819791",
+        "created_at": "2023-12-04T12:01:24.000Z",
+        "edit_history_tweet_ids": [
+            "1731644871872504176"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Komal",
+                    "probability": 0.6151,
+                    "start": 50,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "793074453060153349",
+                    "start": 0,
+                    "username": "Kasak0107"
+                }
+            ]
+        },
+        "id": "1731644871872504176",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 16,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@Kasak0107 Thank you for sharing details with us, Komal. Please allow us some time to look into this. We will get back to you with an update soon."
+    }
+}

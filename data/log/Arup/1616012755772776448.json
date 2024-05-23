@@ -1,0 +1,89 @@
+{
+    "1616012755772776448": {
+        "attachments": {
+            "media_keys": [
+                "13_1616012628115050497"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-19T10:00:39.000Z",
+        "edit_history_tweet_ids": [
+            "1616012755772776448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Kym Burgemeister",
+                    "probability": 0.5664,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "ArupFellow",
+                    "probability": 0.6323,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "SoundLab",
+                    "probability": 0.8911,
+                    "start": 89,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 56,
+                    "start": 45,
+                    "tag": "ArupFellow"
+                },
+                {
+                    "end": 212,
+                    "start": 202,
+                    "tag": "acoustics"
+                },
+                {
+                    "end": 266,
+                    "start": 256,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 279,
+                    "start": 267,
+                    "tag": "Engineering"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kmarB1",
+                    "end": 254,
+                    "expanded_url": "https://bit.ly/3kmarB1",
+                    "start": 231,
+                    "url": "https://t.co/o3m2kxoq0q"
+                },
+                {
+                    "display_url": "pic.twitter.com/QQccGhO333",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1616012755772776448/video/1",
+                    "media_key": "13_1616012628115050497",
+                    "start": 280,
+                    "url": "https://t.co/QQccGhO333"
+                }
+            ]
+        },
+        "id": "1616012755772776448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1319,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Meet Kym Burgemeister, Acoustic Engineer and #ArupFellow. Discover his pioneering use of SoundLab in infrastructure projects, his work with wind turbines and his development of proprietary software for #acoustics calculation here: https://t.co/o3m2kxoq0q\n\n#WeAreArup #Engineering https://t.co/QQccGhO333"
+    }
+}

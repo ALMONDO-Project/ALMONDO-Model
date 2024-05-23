@@ -1,0 +1,77 @@
+{
+    "1681650600725950467": {
+        "attachments": {
+            "media_keys": [
+                "3_1681650597643055104"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-07-19T13:02:01.000Z",
+        "edit_history_tweet_ids": [
+            "1681650600725950467"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "SAP",
+                    "probability": 0.9037,
+                    "start": 11,
+                    "type": "Organization"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "SAPPartnerLive",
+                    "probability": 0.4666,
+                    "start": 144,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 158,
+                    "start": 143,
+                    "tag": "SAPPartnerLive"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 202,
+                    "id": "110470032",
+                    "start": 187,
+                    "username": "SAPPartnerEdge"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6012PRE2q",
+                    "end": 185,
+                    "expanded_url": "https://sap.to/6012PRE2q",
+                    "start": 162,
+                    "status": 200,
+                    "unwound_url": "https://webinars.sap.com/sappartnerlive/en/home?source=social-Global-TWITTER-TrainingEnablement-SAPPartners-No_Solution_Area-SAPPartnerSummit-PartnerEnablement_-spr-10758156245-ST2%3A_Ecosystem-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10758156245",
+                    "url": "https://t.co/giFxFestbh"
+                },
+                {
+                    "display_url": "pic.twitter.com/738geNAsAm",
+                    "end": 226,
+                    "expanded_url": "https://twitter.com/SAP/status/1681650600725950467/photo/1",
+                    "media_key": "3_1681650597643055104",
+                    "start": 203,
+                    "url": "https://t.co/738geNAsAm"
+                }
+            ]
+        },
+        "id": "1681650600725950467",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4581,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Are you an SAP Partner?\n\nLearn how to maximize value for your customers to grow business and revenue. Join our experts for the next episode of #SAPPartnerLive \u27a1\ufe0f https://t.co/giFxFestbh\n\n@SAPPartnerEdge https://t.co/738geNAsAm"
+    }
+}

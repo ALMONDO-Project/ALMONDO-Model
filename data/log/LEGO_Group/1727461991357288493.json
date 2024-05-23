@@ -1,0 +1,67 @@
+{
+    "1727461991357288493": {
+        "author_id": "295325513",
+        "created_at": "2023-11-22T23:00:08.000Z",
+        "edit_history_tweet_ids": [
+            "1727461991357288493"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Colombia",
+                    "probability": 0.9821,
+                    "start": 5,
+                    "type": "Place"
+                },
+                {
+                    "end": 19,
+                    "normalized_text": "NYC",
+                    "probability": 0.9768,
+                    "start": 17,
+                    "type": "Place"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "MacysParade",
+                    "probability": 0.5114,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "LEGO Brick Changer",
+                    "probability": 0.6828,
+                    "start": 159,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 88,
+                    "start": 76,
+                    "tag": "MacysParade"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 55,
+                    "id": "910215518505889792",
+                    "start": 39,
+                    "username": "ManuelTurizoMTZ"
+                }
+            ]
+        },
+        "id": "1727461991357288493",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 120402,
+            "like_count": 265,
+            "quote_count": 1,
+            "reply_count": 10,
+            "retweet_count": 35
+        },
+        "text": "From Colombia to NYC, the one and only @ManuelTurizoMTZ will be this year's #MacysParade performer. \ud83c\udfa4\ud83c\udfb6\ud83d\udc4f We're excited to have un man como t\u00fa performing on the LEGO Brick Changer float! \ud83d\udc9b\ud83d\udc99\u2764\ufe0f"
+    }
+}

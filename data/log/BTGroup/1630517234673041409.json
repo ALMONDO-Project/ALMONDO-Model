@@ -1,0 +1,53 @@
+{
+    "1630517234673041409": {
+        "attachments": {
+            "media_keys": [
+                "7_1630510513795760129"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-28T10:36:16.000Z",
+        "edit_history_tweet_ids": [
+            "1630517234673041409"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "West Midlands",
+                    "probability": 0.9201,
+                    "start": 11,
+                    "type": "Place"
+                },
+                {
+                    "end": 33,
+                    "normalized_text": "BT Group",
+                    "probability": 0.5971,
+                    "start": 26,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/LgkINl4EYk",
+                    "end": 139,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1630517234673041409/video/1",
+                    "media_key": "7_1630510513795760129",
+                    "start": 116,
+                    "url": "https://t.co/LgkINl4EYk"
+                }
+            ]
+        },
+        "id": "1630517234673041409",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 591,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Across the West Midlands, BT Group provided a boost of \u00a31.95bn to the economy and supported a total of 23,200 jobs. https://t.co/LgkINl4EYk"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1707848000519721248": {
+        "attachments": {
+            "media_keys": [
+                "7_1707847977446887426"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-29T20:01:08.000Z",
+        "edit_history_tweet_ids": [
+            "1707848000519721248"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "4",
+                    "probability": 0.5526,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "LEGO Masters",
+                    "probability": 0.9472,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "LEGOMastersFOX",
+                    "probability": 0.8435,
+                    "start": 94,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 93,
+                    "tag": "LEGOMastersFOX"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/8iNSHKJwzr",
+                    "end": 132,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1707848000519721248/video/1",
+                    "media_key": "7_1707847977446887426",
+                    "start": 109,
+                    "url": "https://t.co/8iNSHKJwzr"
+                }
+            ]
+        },
+        "id": "1707848000519721248",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 5,
+            "impression_count": 116400,
+            "like_count": 265,
+            "quote_count": 1,
+            "reply_count": 14,
+            "retweet_count": 30
+        },
+        "text": "If you still haven\u2019t watched the Season 4 premiere of LEGO Masters, we're gonna need you to:\n#LEGOMastersFOX https://t.co/8iNSHKJwzr"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "1736672861899653187": {
+        "author_id": "295325513",
+        "created_at": "2023-12-18T09:00:50.000Z",
+        "edit_history_tweet_ids": [
+            "1736672861899653187"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "LEGO bricks",
+                    "probability": 0.4576,
+                    "start": 49,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1736672861899653187",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 29,
+            "impression_count": 301416,
+            "like_count": 1634,
+            "quote_count": 49,
+            "reply_count": 464,
+            "retweet_count": 59
+        },
+        "text": "Tell us about your favorite thing you built from LEGO bricks this year!"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1712036160212533397": {
+        "author_id": "819791",
+        "created_at": "2023-10-11T09:23:23.000Z",
+        "edit_history_tweet_ids": [
+            "1712036160212533397"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Nick",
+                    "probability": 0.5594,
+                    "start": 26,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "122036525",
+                    "start": 0,
+                    "username": "snickpan"
+                }
+            ]
+        },
+        "id": "1712036160212533397",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@snickpan (1/2) Hi again, Nick. We'd like to continue this conversation via DM for privacy reasons, so can you please send us a message sharing a picture of the proof of purchase if you have this? Regarding the product sticker, this should be on the inside of the service door. Thanks again"
+    }
+}

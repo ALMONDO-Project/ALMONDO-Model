@@ -1,0 +1,52 @@
+{
+    "1707024725472407885": {
+        "author_id": "295325513",
+        "created_at": "2023-09-27T13:29:44.000Z",
+        "edit_history_tweet_ids": [
+            "1707024725472407885"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 209,
+                    "normalized_text": "LEGO",
+                    "probability": 0.5524,
+                    "start": 206,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "231545905",
+                    "start": 0,
+                    "username": "Newbattleatwar"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Explore the world of LEGO\u00ae through games, videos, products and more! Shop awesome LEGO\u00ae building toys and brick sets and find the perfect gift for your kid",
+                    "display_url": "LEGO.build/Shop-TW",
+                    "end": 250,
+                    "expanded_url": "http://LEGO.build/Shop-TW",
+                    "start": 227,
+                    "status": 200,
+                    "title": "Home | Official LEGO\u00ae Shop US",
+                    "unwound_url": "https://www.lego.com/en-us?cmp=OBS-MYUKIYCHZH",
+                    "url": "https://t.co/sXRkYxeZ5c"
+                }
+            ]
+        },
+        "id": "1707024725472407885",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 240,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@Newbattleatwar This isn\u2019t our website. Thanks for letting us know, and we\u2019ll pass this on to the right team for review! We know it can be hard to spot a fake website, but you can always trust our official LEGO Shop website at https://t.co/sXRkYxeZ5c. \ud83d\ude42"
+    }
+}

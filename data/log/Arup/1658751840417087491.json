@@ -1,0 +1,63 @@
+{
+    "1658751840417087491": {
+        "attachments": {
+            "media_keys": [
+                "13_1658751723664449539"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-05-17T08:30:31.000Z",
+        "edit_history_tweet_ids": [
+            "1658751840417087491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "East Africa",
+                    "probability": 0.9532,
+                    "start": 22,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 193,
+                    "id": "25883343",
+                    "start": 189,
+                    "username": "B2P"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/42DuFaE",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/42DuFaE",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/our-firm/annual-report-2022/bridge-visualisation-tool?utm_medium=social&utm_source=twitter&utm_campaign=bridge_visualisation-_annual_report_-_post_3_170523&utm_content=global",
+                    "url": "https://t.co/4ZWwAhu83n"
+                },
+                {
+                    "display_url": "pic.twitter.com/nPQ6jgvsTR",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1658751840417087491/video/1",
+                    "media_key": "13_1658751723664449539",
+                    "start": 277,
+                    "url": "https://t.co/nPQ6jgvsTR"
+                }
+            ]
+        },
+        "id": "1658751840417087491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2632,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Millions of people in East Africa risk their lives crossing swollen rivers for access to vital services and job opportunities. We are proud through our Bridge Visualisation Tool to support @b2p in their mission to connect these communities. Learn more: https://t.co/4ZWwAhu83n https://t.co/nPQ6jgvsTR"
+    }
+}

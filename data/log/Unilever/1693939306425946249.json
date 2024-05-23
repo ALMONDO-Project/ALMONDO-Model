@@ -1,0 +1,52 @@
+{
+    "1693939306425946249": {
+        "author_id": "109224937",
+        "created_at": "2023-08-22T10:52:57.000Z",
+        "edit_history_tweet_ids": [
+            "1693939306425946249"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "ClimateWeekNYC",
+                    "probability": 0.4678,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 75,
+                    "start": 58,
+                    "tag": "UnileverInsights"
+                },
+                {
+                    "end": 106,
+                    "start": 91,
+                    "tag": "ClimateWeekNYC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ClimateGroup/s\u2026",
+                    "end": 130,
+                    "expanded_url": "https://twitter.com/ClimateGroup/status/1693533397857993215",
+                    "start": 107,
+                    "url": "https://t.co/bFCjXYcqvM"
+                }
+            ]
+        },
+        "id": "1693939306425946249",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6449,
+            "like_count": 14,
+            "quote_count": 2,
+            "reply_count": 56,
+            "retweet_count": 2
+        },
+        "text": "Looking forward to taking part in discussions and sharing #UnileverInsights at this year's #ClimateWeekNYC https://t.co/bFCjXYcqvM"
+    }
+}

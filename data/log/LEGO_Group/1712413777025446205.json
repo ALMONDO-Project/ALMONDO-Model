@@ -1,0 +1,46 @@
+{
+    "1712413777025446205": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:23:54.000Z",
+        "edit_history_tweet_ids": [
+            "1712413777025446205"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 118,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.6987,
+                    "start": 107,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 106,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "411504740",
+                    "start": 0,
+                    "username": "AlexDanton24"
+                }
+            ]
+        },
+        "id": "1712413777025446205",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 344,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AlexDanton24 Your play mission, if you dare to accept it: build a carpenter table using only 2X2 bricks. #WorldPlayDay"
+    }
+}

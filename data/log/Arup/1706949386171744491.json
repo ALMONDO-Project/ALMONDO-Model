@@ -1,0 +1,103 @@
+{
+    "1706949386171744491": {
+        "attachments": {
+            "media_keys": [
+                "3_1706949302239494144",
+                "3_1706949323215216640",
+                "3_1706949344203538432",
+                "3_1706949365175095297"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-09-27T08:30:21.000Z",
+        "edit_history_tweet_ids": [
+            "1706949386171744491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 1,
+                    "normalized_text": "M+",
+                    "probability": 0.4971,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "Hong Kong",
+                    "probability": 0.9684,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "West Kowloon Cultural District",
+                    "probability": 0.535,
+                    "start": 42,
+                    "type": "Place"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Asia",
+                    "probability": 0.6381,
+                    "start": 87,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3RAQVit",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/3RAQVit",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/projects/m-plus-museum?utm_medium=social&utm_source=twitter&utm_campaign=mplus_270923&utm_content=east_asia",
+                    "url": "https://t.co/6a6k2Fqdh3"
+                },
+                {
+                    "display_url": "pic.twitter.com/97PVPwhacP",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1706949386171744491/photo/1",
+                    "media_key": "3_1706949302239494144",
+                    "start": 277,
+                    "url": "https://t.co/97PVPwhacP"
+                },
+                {
+                    "display_url": "pic.twitter.com/97PVPwhacP",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1706949386171744491/photo/1",
+                    "media_key": "3_1706949323215216640",
+                    "start": 277,
+                    "url": "https://t.co/97PVPwhacP"
+                },
+                {
+                    "display_url": "pic.twitter.com/97PVPwhacP",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1706949386171744491/photo/1",
+                    "media_key": "3_1706949344203538432",
+                    "start": 277,
+                    "url": "https://t.co/97PVPwhacP"
+                },
+                {
+                    "display_url": "pic.twitter.com/97PVPwhacP",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1706949386171744491/photo/1",
+                    "media_key": "3_1706949365175095297",
+                    "start": 277,
+                    "url": "https://t.co/97PVPwhacP"
+                }
+            ]
+        },
+        "id": "1706949386171744491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1618,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "M+ is the flagship project of Hong Kong\u2019s West Kowloon Cultural District and stands as Asia\u2019s first global museum of contemporary visual culture. Its simple, inverted T-shape design is accented with a fa\u00e7ade made up of 140,000 ceramic tiles. Read more: https://t.co/6a6k2Fqdh3 https://t.co/97PVPwhacP"
+    }
+}

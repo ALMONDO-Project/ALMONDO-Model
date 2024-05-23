@@ -1,0 +1,50 @@
+{
+    "1667177949513019393": {
+        "attachments": {
+            "poll_ids": [
+                "1667177949080985609"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-06-09T14:32:52.000Z",
+        "edit_history_tweet_ids": [
+            "1667177949513019393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 110,
+                    "normalized_text": "LGBTQ+",
+                    "probability": 0.8392,
+                    "start": 105,
+                    "type": "Place"
+                },
+                {
+                    "end": 155,
+                    "normalized_text": "PrideMonth",
+                    "probability": 0.7094,
+                    "start": 146,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 156,
+                    "start": 145,
+                    "tag": "PrideMonth"
+                }
+            ]
+        },
+        "id": "1667177949513019393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6288,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 7
+        },
+        "text": "Being an ally starts with listening and learning. \ud83e\udd1d\n\nWhat step will you take to be a better ally to your LGBTQ+ colleagues, friends, and family? #PrideMonth"
+    }
+}

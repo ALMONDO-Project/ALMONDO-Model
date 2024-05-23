@@ -1,0 +1,93 @@
+{
+    "1717866626836562158": {
+        "attachments": {
+            "media_keys": [
+                "13_1717865293102399488"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-10-27T11:31:34.000Z",
+        "edit_history_tweet_ids": [
+            "1717866626836562158"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 192,
+                    "normalized_text": "ULVR",
+                    "probability": 0.4161,
+                    "start": 189,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "UNA",
+                    "probability": 0.5643,
+                    "start": 195,
+                    "type": "Organization"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "UL",
+                    "probability": 0.3862,
+                    "start": 200,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 193,
+                    "start": 188,
+                    "tag": "ULVR"
+                },
+                {
+                    "end": 198,
+                    "start": 194,
+                    "tag": "UNA"
+                },
+                {
+                    "end": 202,
+                    "start": 199,
+                    "tag": "UL"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 187,
+                    "start": 171,
+                    "tag": "UnileverResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/investors/resu\u2026",
+                    "end": 168,
+                    "expanded_url": "https://www.unilever.com/investors/results-presentations/overview-q3-2023/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Market_CommsCorporateAffairs_Q3Results2023_2023&utm_content=video_SM2_90s_2",
+                    "start": 145,
+                    "status": 200,
+                    "unwound_url": "https://www.unilever.com/investors/results-presentations/overview-q3-2023/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Market_CommsCorporateAffairs_Q3Results2023_2023&utm_content=video_SM2_90s_2",
+                    "url": "https://t.co/lhbTmNNGik"
+                },
+                {
+                    "display_url": "pic.twitter.com/h8JjPq7MnQ",
+                    "end": 226,
+                    "expanded_url": "https://twitter.com/Unilever/status/1717866626836562158/video/1",
+                    "media_key": "13_1717865293102399488",
+                    "start": 203,
+                    "url": "https://t.co/h8JjPq7MnQ"
+                }
+            ]
+        },
+        "id": "1717866626836562158",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6940,
+            "like_count": 28,
+            "quote_count": 2,
+            "reply_count": 84,
+            "retweet_count": 3
+        },
+        "text": "We set out an action plan to address the gap between our past performance and potential, delivering improved value creation.\n\nFind out more here https://t.co/lhbTmNNGik \n\n#UnileverResults $ULVR $UNA $UL https://t.co/h8JjPq7MnQ"
+    }
+}

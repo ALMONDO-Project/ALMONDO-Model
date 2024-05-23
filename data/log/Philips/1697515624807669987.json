@@ -1,0 +1,50 @@
+{
+    "1697515624807669987": {
+        "author_id": "819791",
+        "created_at": "2023-09-01T07:43:57.000Z",
+        "edit_history_tweet_ids": [
+            "1697515624807669987"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Ed",
+                    "probability": 0.5336,
+                    "start": 14,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "718962511",
+                    "start": 0,
+                    "username": "EdRomain1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "to.philips/6014PQzNM",
+                    "end": 133,
+                    "expanded_url": "http://to.philips/6014PQzNM",
+                    "start": 110,
+                    "status": 200,
+                    "unwound_url": "https://www.usa.philips.com/c-m-so/monitors?origin=___tw____11221445223_&spid=11221445223&utm_source=tw&utm_medium=organic_social&utm_content=11221445223#our_favorites",
+                    "url": "https://t.co/Q64I4lJoWQ"
+                }
+            ]
+        },
+        "id": "1697515624807669987",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@EdRomain1 Hi Ed, thank you for your quick response. We would like to inform you that you can visit this link:https://t.co/Q64I4lJoWQ which can help you to select the right monitor."
+    }
+}

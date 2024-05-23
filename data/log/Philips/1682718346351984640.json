@@ -1,0 +1,71 @@
+{
+    "1682718346351984640": {
+        "author_id": "819791",
+        "created_at": "2023-07-22T11:44:51.000Z",
+        "edit_history_tweet_ids": [
+            "1682718346351984640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "David",
+                    "probability": 0.6561,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Facebook",
+                    "probability": 0.9571,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "Instagram",
+                    "probability": 0.9541,
+                    "start": 176,
+                    "type": "Other"
+                },
+                {
+                    "end": 194,
+                    "normalized_text": "Twitter",
+                    "probability": 0.9638,
+                    "start": 188,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "483339054",
+                    "start": 0,
+                    "username": "dlfraile"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 275,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1682718346351984640",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 16,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@dlfraile \u00a1Hola David! Gracias por su inter\u00e9s en nuestros productos. Para recibir m\u00e1s informaci\u00f3n, por favor no dude en contactar con nosotros por mensaje privado en Facebook, Instagram o Twitter. Si lo desea, tambi\u00e9n nos puede contactar por nuestra p\u00e1gina web oficial. \n1/2 https://t.co/7VMKPAMQbA"
+    }
+}

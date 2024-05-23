@@ -1,0 +1,58 @@
+{
+    "1712484193056223599": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T15:03:42.000Z",
+        "edit_history_tweet_ids": [
+            "1712484193056223599"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 111,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.9143,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7508,
+                    "start": 114,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 112,
+                    "start": 95,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 126,
+                    "start": 113,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "147416666",
+                    "start": 0,
+                    "username": "AnthonyIorlano"
+                }
+            ]
+        },
+        "id": "1712484193056223599",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 339,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AnthonyIorlano Try to write out the lyrics word for word correctly to your favourite song! \ud83c\udfb5\ud83d\udd8a\ufe0f#SuperpowerOfPlay #WorldPlayDay"
+    }
+}

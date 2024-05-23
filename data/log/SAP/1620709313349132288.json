@@ -1,0 +1,53 @@
+{
+    "1620709313349132288": {
+        "attachments": {
+            "media_keys": [
+                "13_1620709289097666560"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-02-01T09:03:06.000Z",
+        "edit_history_tweet_ids": [
+            "1620709313349132288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "SAP",
+                    "probability": 0.8554,
+                    "start": 39,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60133elMS",
+                    "end": 132,
+                    "expanded_url": "https://sap.to/60133elMS",
+                    "start": 109,
+                    "url": "https://t.co/TjaMnAdsfO"
+                },
+                {
+                    "display_url": "pic.twitter.com/Izjr0AhVcA",
+                    "end": 156,
+                    "expanded_url": "https://twitter.com/SAP/status/1620709313349132288/video/1",
+                    "media_key": "13_1620709289097666560",
+                    "start": 133,
+                    "url": "https://t.co/Izjr0AhVcA"
+                }
+            ]
+        },
+        "id": "1620709313349132288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 5572,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 11
+        },
+        "text": "Build new skills. \nGain expertise with SAP technologies. \nAll for free. \n\nWhat do you want to learn today? \ud83d\udc49 https://t.co/TjaMnAdsfO https://t.co/Izjr0AhVcA"
+    }
+}

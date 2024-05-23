@@ -1,0 +1,46 @@
+{
+    "1711599319072022861": {
+        "author_id": "819791",
+        "created_at": "2023-10-10T04:27:32.000Z",
+        "edit_history_tweet_ids": [
+            "1711599319072022861"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Tim",
+                    "probability": 0.6401,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "Philips TV Consumer Care",
+                    "probability": 0.4395,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "284449371",
+                    "start": 0,
+                    "username": "kieran_timhill"
+                }
+            ]
+        },
+        "id": "1711599319072022861",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 16,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@kieran_timhill Dear Tim\n\nThank you for your message.\nTo proceed with your case, we would like to collect your TV data. \nDo you agree to switch to a private conversation?\n\nBest regards, \nPhilips TV Consumer Care"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "1626582750861099015": {
+        "attachments": {
+            "media_keys": [
+                "3_1626582748533227520"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-02-17T14:02:02.000Z",
+        "edit_history_tweet_ids": [
+            "1626582750861099015"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "CO2",
+                    "probability": 0.7173,
+                    "start": 37,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 150,
+                    "id": "76613488",
+                    "start": 138,
+                    "username": "tech_record"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3Wg2prd",
+                    "end": 282,
+                    "expanded_url": "https://on.jci.com/3Wg2prd",
+                    "start": 259,
+                    "url": "https://t.co/Ac4sAl2dfy"
+                },
+                {
+                    "display_url": "pic.twitter.com/sjcPLRHQHS",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1626582750861099015/photo/1",
+                    "media_key": "3_1626582748533227520",
+                    "start": 283,
+                    "url": "https://t.co/sjcPLRHQHS"
+                }
+            ]
+        },
+        "id": "1626582750861099015",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 739,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Buildings account for ~40% of global CO2 emissions. Offering up technologies to decarbonize them is key to decarbonizing our planet. This @tech_record feature discusses how digitalization is critical to transforming buildings &amp; making net-zero a reality: https://t.co/Ac4sAl2dfy https://t.co/sjcPLRHQHS"
+    }
+}

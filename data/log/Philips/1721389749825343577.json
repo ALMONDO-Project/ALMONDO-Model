@@ -1,0 +1,39 @@
+{
+    "1721389749825343577": {
+        "author_id": "819791",
+        "created_at": "2023-11-06T04:51:12.000Z",
+        "edit_history_tweet_ids": [
+            "1721389749825343577"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Deepak",
+                    "probability": 0.6959,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "67270261",
+                    "start": 0,
+                    "username": "fin_consultant"
+                }
+            ]
+        },
+        "id": "1721389749825343577",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 22,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@fin_consultant Hi Deepak, We really apologize for the inconvenience caused to you. As you want the filters for your air purifier. We would like to inform you that you can contact with the nearest service center for the filters, or we request you to please wait until the stock comes back."
+    }
+}

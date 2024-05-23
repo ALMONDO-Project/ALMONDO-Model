@@ -1,0 +1,39 @@
+{
+    "1721473586332864565": {
+        "author_id": "819791",
+        "created_at": "2023-11-06T10:24:21.000Z",
+        "edit_history_tweet_ids": [
+            "1721473586332864565"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Gokhan",
+                    "probability": 0.4448,
+                    "start": 17,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "16476064",
+                    "start": 0,
+                    "username": "gokhanseckin"
+                }
+            ]
+        },
+        "id": "1721473586332864565",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 18,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@gokhanseckin Hi Gokhan, we are verry sorry to hear that the quick rinse function doesn't seem to be working on your coffee machine. That definitely shouldn't be the case, so we can understand your frustration. Please send us a private message so that we can help you further. Best regards \ud83d\ude0a"
+    }
+}

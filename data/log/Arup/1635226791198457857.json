@@ -1,0 +1,60 @@
+{
+    "1635226791198457857": {
+        "attachments": {
+            "media_keys": [
+                "13_1635226705274052610"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-13T10:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1635226791198457857"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "London",
+                    "probability": 0.9927,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "London",
+                    "probability": 0.988,
+                    "start": 85,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ZXbpCY",
+                    "end": 277,
+                    "expanded_url": "https://bit.ly/3ZXbpCY",
+                    "start": 254,
+                    "url": "https://t.co/C6gff0eJwv"
+                },
+                {
+                    "display_url": "pic.twitter.com/mHbduU1fn0",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Arup/status/1635226791198457857/video/1",
+                    "media_key": "13_1635226705274052610",
+                    "start": 278,
+                    "url": "https://t.co/mHbduU1fn0"
+                }
+            ]
+        },
+        "id": "1635226791198457857",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2081,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "London paved the way for congestion pricing across cities 20 years ago. So, what did London learn? We explore this in our latest perspective and offer ten recommendations for cities considering road pricing as part of their future strategies. Read more: https://t.co/C6gff0eJwv https://t.co/mHbduU1fn0"
+    }
+}

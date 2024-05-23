@@ -1,0 +1,47 @@
+{
+    "1732418311042855237": {
+        "author_id": "295325513",
+        "created_at": "2023-12-06T15:14:46.000Z",
+        "edit_history_tweet_ids": [
+            "1732418311042855237"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "LEGOFortnite",
+                    "probability": 0.865,
+                    "start": 25,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 24,
+                    "tag": "LEGOFortnite"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/LEGOFortnite/s\u2026",
+                    "end": 61,
+                    "expanded_url": "https://twitter.com/LEGOFortnite/status/1732415651191611539",
+                    "start": 38,
+                    "url": "https://t.co/zoz9n0enur"
+                }
+            ]
+        },
+        "id": "1732418311042855237",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 87,
+            "impression_count": 401641,
+            "like_count": 5335,
+            "quote_count": 22,
+            "reply_count": 115,
+            "retweet_count": 388
+        },
+        "text": "We are counting hours \ud83e\udd29 #LEGOFortnite https://t.co/zoz9n0enur"
+    }
+}

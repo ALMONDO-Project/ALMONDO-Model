@@ -1,0 +1,39 @@
+{
+    "1688915216556523520": {
+        "author_id": "295325513",
+        "created_at": "2023-08-08T14:09:00.000Z",
+        "edit_history_tweet_ids": [
+            "1688915216556523520"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "LEGO",
+                    "probability": 0.3969,
+                    "start": 34,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1535695832456077323",
+                    "start": 0,
+                    "username": "CryptoHawkeye1"
+                }
+            ]
+        },
+        "id": "1688915216556523520",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 17391,
+            "like_count": 117,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 3
+        },
+        "text": "@CryptoHawkeye1 Builders, this is LEGO speaking. Standby for all the details. \ud83e\uddd1\u200d\u2708\ufe0f"
+    }
+}

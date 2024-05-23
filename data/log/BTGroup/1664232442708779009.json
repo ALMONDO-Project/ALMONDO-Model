@@ -1,0 +1,60 @@
+{
+    "1664232442708779009": {
+        "attachments": {
+            "media_keys": [
+                "13_1664232378066169858"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-06-01T11:28:28.000Z",
+        "edit_history_tweet_ids": [
+            "1664232442708779009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "BT Tower",
+                    "probability": 0.5048,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Pride",
+                    "probability": 0.6333,
+                    "start": 64,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 63,
+                    "tag": "Pride"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/CsuAtP9Y1J",
+                    "end": 194,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1664232442708779009/video/1",
+                    "media_key": "13_1664232378066169858",
+                    "start": 171,
+                    "url": "https://t.co/CsuAtP9Y1J"
+                }
+            ]
+        },
+        "id": "1664232442708779009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2529,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "\ud83c\udf08Today, we're lighting up the BT Tower to show our support for #Pride!\n\nKeep an eye on our channels as we'll be sharing more stories from our colleagues across the group. https://t.co/CsuAtP9Y1J"
+    }
+}

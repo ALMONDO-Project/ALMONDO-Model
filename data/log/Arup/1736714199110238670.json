@@ -1,0 +1,98 @@
+{
+    "1736714199110238670": {
+        "attachments": {
+            "media_keys": [
+                "3_1736714178151227392"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-12-18T11:45:06.000Z",
+        "edit_history_tweet_ids": [
+            "1736714199110238670"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Singapore",
+                    "probability": 0.9807,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "Tony Chan",
+                    "probability": 0.9513,
+                    "start": 65,
+                    "type": "Person"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "South East Asia",
+                    "probability": 0.839,
+                    "start": 99,
+                    "type": "Place"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "Urban Heat Snapshot",
+                    "probability": 0.673,
+                    "start": 156,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 141,
+                    "id": "38400130",
+                    "start": 125,
+                    "username": "ChannelNewsAsia"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A new study is shedding light on urban heat in Singapore. The study maps heat spots in the city centre, with temperatures reaching up to six degrees higher t...",
+                    "display_url": "youtube.com/watch?v=hGuejo\u2026",
+                    "end": 279,
+                    "expanded_url": "https://www.youtube.com/watch?v=hGuejoChlkI",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1735333368965791744/leKutNi8?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1735333368965791744/leKutNi8?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 256,
+                    "status": 200,
+                    "title": "Tony Chan on urban heat study in Singapore",
+                    "unwound_url": "https://www.youtube.com/watch?v=hGuejoChlkI",
+                    "url": "https://t.co/yYY3kmW5Ow"
+                },
+                {
+                    "display_url": "pic.twitter.com/UKyuHW7PU3",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1736714199110238670/photo/1",
+                    "media_key": "3_1736714178151227392",
+                    "start": 280,
+                    "url": "https://t.co/UKyuHW7PU3"
+                }
+            ]
+        },
+        "id": "1736714199110238670",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1750,
+            "like_count": 7,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Singapore is heating up twice as fast as the rest of the planet. Tony Chan, our Planning Leader in South East Asia, spoke to @ChannelNewsAsia about how our Urban Heat Snapshot shows the built environment can add 6\u00b0C to the temperatures people experience.\n\nhttps://t.co/yYY3kmW5Ow https://t.co/UKyuHW7PU3"
+    }
+}

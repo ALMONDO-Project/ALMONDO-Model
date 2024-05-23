@@ -1,0 +1,39 @@
+{
+    "1704133322505392392": {
+        "author_id": "819791",
+        "created_at": "2023-09-19T14:00:20.000Z",
+        "edit_history_tweet_ids": [
+            "1704133322505392392"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Greg",
+                    "probability": 0.6914,
+                    "start": 37,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "49433955",
+                    "start": 0,
+                    "username": "GMax24G"
+                }
+            ]
+        },
+        "id": "1704133322505392392",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@GMax24G Thank you for your response Greg! With further research we have located your information and see that at the time you spoke with our support team and did not have your device with you at the time to be assisted. We will send you an email with further information. Thank you!"
+    }
+}

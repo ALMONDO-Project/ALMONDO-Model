@@ -1,0 +1,56 @@
+{
+    "1685505179670503424": {
+        "author_id": "819791",
+        "created_at": "2023-07-30T04:18:44.000Z",
+        "edit_history_tweet_ids": [
+            "1685505179670503424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Vipul",
+                    "probability": 0.6598,
+                    "start": 24,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "99928441",
+                    "start": 0,
+                    "username": "vipulgpk"
+                },
+                {
+                    "end": 19,
+                    "id": "99928441",
+                    "start": 10,
+                    "username": "vipulgpk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "to.philips/6012PnqYY",
+                    "end": 101,
+                    "expanded_url": "http://to.philips/6012PnqYY",
+                    "start": 78,
+                    "status": 200,
+                    "unwound_url": "https://www.philips.co.in/myphilips/register-your-product?origin=___tw____10854192342_&spid=10854192342&utm_source=tw&utm_medium=organic_social&utm_content=10854192342",
+                    "url": "https://t.co/jV6YH1MHLy"
+                }
+            ]
+        },
+        "id": "1685505179670503424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@vipulgpk @vipulgpk Hey Vipul,\nYou can use this page to register your product https://t.co/jV6YH1MHLy. Please let us know if you face any troubles doing that."
+    }
+}

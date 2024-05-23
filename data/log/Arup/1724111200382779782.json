@@ -1,0 +1,58 @@
+{
+    "1724111200382779782": {
+        "attachments": {
+            "media_keys": [
+                "3_1724111185929236480"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-11-13T17:05:17.000Z",
+        "edit_history_tweet_ids": [
+            "1724111200382779782"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Diwali",
+                    "probability": 0.6604,
+                    "start": 57,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 74,
+                    "start": 67,
+                    "tag": "Diwali"
+                },
+                {
+                    "end": 85,
+                    "start": 75,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ynz1c0Y2Rs",
+                    "end": 109,
+                    "expanded_url": "https://twitter.com/Arup/status/1724111200382779782/photo/1",
+                    "media_key": "3_1724111185929236480",
+                    "start": 86,
+                    "url": "https://t.co/ynz1c0Y2Rs"
+                }
+            ]
+        },
+        "id": "1724111200382779782",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2478,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We wish everyone around the world a prosperous and happy Diwali! \n\n#Diwali #WeAreArup https://t.co/ynz1c0Y2Rs"
+    }
+}

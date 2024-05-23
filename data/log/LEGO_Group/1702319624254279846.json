@@ -1,0 +1,59 @@
+{
+    "1702319624254279846": {
+        "author_id": "295325513",
+        "created_at": "2023-09-14T13:53:20.000Z",
+        "edit_history_tweet_ids": [
+            "1702319624254279846"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "LEGO",
+                    "probability": 0.6741,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "Super Mario",
+                    "probability": 0.5455,
+                    "start": 28,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1646254449692737538",
+                    "start": 0,
+                    "username": "Bdaniel2914M"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 172,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 149,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5oOeR"
+                }
+            ]
+        },
+        "id": "1702319624254279846",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 196,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Bdaniel2914M Oh, your LEGO Super Mario has entered a testing mode. Turn it off, remove the torso and turn it back on. We're always happy to help at https://t.co/tPB6D5oOeR. \ud83d\ude0a"
+    }
+}

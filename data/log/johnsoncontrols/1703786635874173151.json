@@ -1,0 +1,78 @@
+{
+    "1703786635874173151": {
+        "attachments": {
+            "media_keys": [
+                "3_1703786634053918720",
+                "3_1703786633680572416",
+                "3_1703786633986715648"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-09-18T15:02:43.000Z",
+        "edit_history_tweet_ids": [
+            "1703786635874173151"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "USS Marinette",
+                    "probability": 0.4915,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "Marinette",
+                    "probability": 0.859,
+                    "start": 190,
+                    "type": "Place"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "U.S. Navy",
+                    "probability": 0.6687,
+                    "start": 262,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/iTXig2b9Tk",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1703786635874173151/photo/1",
+                    "media_key": "3_1703786634053918720",
+                    "start": 285,
+                    "url": "https://t.co/iTXig2b9Tk"
+                },
+                {
+                    "display_url": "pic.twitter.com/iTXig2b9Tk",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1703786635874173151/photo/1",
+                    "media_key": "3_1703786633680572416",
+                    "start": 285,
+                    "url": "https://t.co/iTXig2b9Tk"
+                },
+                {
+                    "display_url": "pic.twitter.com/iTXig2b9Tk",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1703786635874173151/photo/1",
+                    "media_key": "3_1703786633986715648",
+                    "start": 285,
+                    "url": "https://t.co/iTXig2b9Tk"
+                }
+            ]
+        },
+        "id": "1703786635874173151",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1084,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Proud to be the lead sponsor of the commissioning of the USS Marinette. We send our best wishes to the brave men &amp; women who will serve on board. We take great pride in our employees in Marinette who have provided lifesaving fire suppression products to the U.S. Navy for decades. https://t.co/iTXig2b9Tk"
+    }
+}

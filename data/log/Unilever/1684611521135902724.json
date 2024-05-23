@@ -1,0 +1,50 @@
+{
+    "1684611521135902724": {
+        "author_id": "109224937",
+        "created_at": "2023-07-27T17:07:39.000Z",
+        "edit_history_tweet_ids": [
+            "1684611521135902724"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "EU",
+                    "probability": 0.9382,
+                    "start": 25,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "EU Commission",
+                    "probability": 0.6124,
+                    "start": 115,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 70,
+                    "start": 45,
+                    "tag": "SaveCrueltyFreeCosmetics"
+                },
+                {
+                    "end": 181,
+                    "start": 160,
+                    "tag": "UseScienceNotAnimals"
+                }
+            ]
+        },
+        "id": "1684611521135902724",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5765,
+            "like_count": 22,
+            "quote_count": 2,
+            "reply_count": 89,
+            "retweet_count": 3
+        },
+        "text": "1.2 million people asked EU policy-makers to #SaveCrueltyFreeCosmetics\u202f\ud83d\udc30 \n\nHere\u2019s what we asked for \u2013 and what the EU Commission has now pledged to deliver\u202f\u27a1 \n\n#UseScienceNotAnimals"
+    }
+}

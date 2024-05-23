@@ -1,0 +1,39 @@
+{
+    "1739901218397282661": {
+        "author_id": "819791",
+        "created_at": "2023-12-27T06:49:10.000Z",
+        "edit_history_tweet_ids": [
+            "1739901218397282661"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Stalin",
+                    "probability": 0.6544,
+                    "start": 15,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "996679863280066560",
+                    "start": 0,
+                    "username": "Stalinborn"
+                }
+            ]
+        },
+        "id": "1739901218397282661",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 37,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Stalinborn Hi Stalin, We have forwarded your details to the service team, and they will contact you shortly and provide you the resolution as soon as possible."
+    }
+}

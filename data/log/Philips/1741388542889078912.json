@@ -1,0 +1,46 @@
+{
+    "1741388542889078912": {
+        "author_id": "819791",
+        "created_at": "2023-12-31T09:19:16.000Z",
+        "edit_history_tweet_ids": [
+            "1741388542889078912"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Sandip",
+                    "probability": 0.5141,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Philips",
+                    "probability": 0.5224,
+                    "start": 240,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1018499628780609536",
+                    "start": 0,
+                    "username": "SandipTrivedi30"
+                }
+            ]
+        },
+        "id": "1741388542889078912",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SandipTrivedi30 Hi Sandip, thank you for keeping in touch. We reviewed the case and discovered that the replacement authorization request has been approved, and you can expect the replacement product to arrive as soon as possible. Thanks, Philips!"
+    }
+}

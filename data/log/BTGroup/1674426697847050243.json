@@ -1,0 +1,57 @@
+{
+    "1674426697847050243": {
+        "author_id": "517741511",
+        "created_at": "2023-06-29T14:36:48.000Z",
+        "edit_history_tweet_ids": [
+            "1674426621351317514",
+            "1674426697847050243"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "BT Group",
+                    "probability": 0.6494,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "UK",
+                    "probability": 0.8803,
+                    "start": 161,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bt.com/about/digital-\u2026",
+                    "end": 255,
+                    "expanded_url": "https://www.bt.com/about/digital-impact-and-sustainability/building-better-digital-lives",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.bt.com/about/digital-impact-and-sustainability/building-better-digital-lives",
+                    "url": "https://t.co/NwSJxYFSEA"
+                },
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/i/web/status/1674426697847050243",
+                    "start": 282,
+                    "url": "https://t.co/94jtLEK012"
+                }
+            ]
+        },
+        "id": "1674426697847050243",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2488,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "At BT Group, we are championing digital inclusion and skill-building! In the past year alone, we've empowered 4.6 million individuals and supported over 465,000 UK businesses and their employees in enhancing their digital prowess.\n\nhttps://t.co/NwSJxYFSEA\n\nThat's a grand total of\u2026 https://t.co/94jtLEK012"
+    }
+}

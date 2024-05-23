@@ -1,0 +1,91 @@
+{
+    "1681944629434888194": {
+        "attachments": {
+            "media_keys": [
+                "13_1681944543028019201"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-07-20T08:30:23.000Z",
+        "edit_history_tweet_ids": [
+            "1681944629434888194"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "Urban95",
+                    "probability": 0.7401,
+                    "start": 129,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "VR",
+                    "probability": 0.4414,
+                    "start": 155,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "UrbanLiving",
+                    "probability": 0.4534,
+                    "start": 265,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 10,
+                    "tag": "technology"
+                },
+                {
+                    "end": 76,
+                    "start": 69,
+                    "tag": "cities"
+                },
+                {
+                    "end": 157,
+                    "start": 154,
+                    "tag": "VR"
+                },
+                {
+                    "end": 276,
+                    "start": 264,
+                    "tag": "UrbanLiving"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3OihU0e",
+                    "end": 262,
+                    "expanded_url": "https://bit.ly/3OihU0e",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/projects/urban95-vr-experience?utm_medium=social&utm_source=twitter&utm_campaign=urban95_vr_experience_200723&utm_content=global",
+                    "url": "https://t.co/AP55Ftp5Ui"
+                },
+                {
+                    "display_url": "pic.twitter.com/K7nmAk75Kz",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1681944629434888194/video/1",
+                    "media_key": "13_1681944543028019201",
+                    "start": 277,
+                    "url": "https://t.co/K7nmAk75Kz"
+                }
+            ]
+        },
+        "id": "1681944629434888194",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 6955,
+            "like_count": 15,
+            "quote_count": 3,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Immersive #technology can help us understand how children experience #cities. Together with the @BvLFoundation, we developed the Urban95 virtual reality (#VR) experience to help decision-makers change our cities for the better. Read more: https://t.co/AP55Ftp5Ui\n\n#UrbanLiving https://t.co/K7nmAk75Kz"
+    }
+}

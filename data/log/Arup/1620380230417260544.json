@@ -1,0 +1,67 @@
+{
+    "1620380230417260544": {
+        "attachments": {
+            "media_keys": [
+                "13_1620380123819134977"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-31T11:15:26.000Z",
+        "edit_history_tweet_ids": [
+            "1620380230417260544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Taipei Performing Arts Centre",
+                    "probability": 0.6674,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "Arup Journal",
+                    "probability": 0.8701,
+                    "start": 208,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 257,
+                    "start": 247,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3jlHXHl",
+                    "end": 245,
+                    "expanded_url": "https://bit.ly/3jlHXHl",
+                    "start": 222,
+                    "url": "https://t.co/jBbuVozjwP"
+                },
+                {
+                    "display_url": "pic.twitter.com/BKKJfGa0SL",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Arup/status/1620380230417260544/video/1",
+                    "media_key": "13_1620380123819134977",
+                    "start": 258,
+                    "url": "https://t.co/BKKJfGa0SL"
+                }
+            ]
+        },
+        "id": "1620380230417260544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1418,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Taipei Performing Arts Centre\u2019s ambitious configuration required ground-breaking design execution to deliver our structural, fire engineering and sustainability services. Read more in the latest issue of the Arup Journal: https://t.co/jBbuVozjwP\n\n#WeAreArup https://t.co/BKKJfGa0SL"
+    }
+}

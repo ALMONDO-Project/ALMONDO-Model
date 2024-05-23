@@ -1,0 +1,104 @@
+{
+    "1689192382900654080": {
+        "attachments": {
+            "media_keys": [
+                "3_1689192298838446080",
+                "3_1689192319839354880",
+                "3_1689192340806619137",
+                "3_1689192361778089985"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-08-09T08:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1689192382900654080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Lou Reed",
+                    "probability": 0.7767,
+                    "start": 5,
+                    "type": "Person"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "Raj Patel",
+                    "probability": 0.8533,
+                    "start": 150,
+                    "type": "Person"
+                },
+                {
+                    "end": 209,
+                    "normalized_text": "Lou Reed",
+                    "probability": 0.8423,
+                    "start": 202,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 272,
+                    "id": "86124877",
+                    "start": 263,
+                    "username": "nypl_lpa"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/444JuTo",
+                    "end": 261,
+                    "expanded_url": "https://bit.ly/444JuTo",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/publications/the-arup-journal/section/the-arup-journal-2023-issue-1?utm_medium=social&utm_source=twitter&utm_campaign=lou_reed_090823&utm_content=global",
+                    "url": "https://t.co/2e7dL3ZpI4"
+                },
+                {
+                    "display_url": "pic.twitter.com/qQim4Yy3fu",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1689192382900654080/photo/1",
+                    "media_key": "3_1689192298838446080",
+                    "start": 273,
+                    "url": "https://t.co/qQim4Yy3fu"
+                },
+                {
+                    "display_url": "pic.twitter.com/qQim4Yy3fu",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1689192382900654080/photo/1",
+                    "media_key": "3_1689192319839354880",
+                    "start": 273,
+                    "url": "https://t.co/qQim4Yy3fu"
+                },
+                {
+                    "display_url": "pic.twitter.com/qQim4Yy3fu",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1689192382900654080/photo/1",
+                    "media_key": "3_1689192340806619137",
+                    "start": 273,
+                    "url": "https://t.co/qQim4Yy3fu"
+                },
+                {
+                    "display_url": "pic.twitter.com/qQim4Yy3fu",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1689192382900654080/photo/1",
+                    "media_key": "3_1689192361778089985",
+                    "start": 273,
+                    "url": "https://t.co/qQim4Yy3fu"
+                }
+            ]
+        },
+        "id": "1689192382900654080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2807,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "\u201cThe Lou Reed Listening Room was designed to put the listener at the heart of the music, to experience the physical sensations of the creation,\u201d says Raj Patel, Arup Fellow and Creative Director of the Lou Reed Listening Room. Read more: https://t.co/2e7dL3ZpI4\n\n@nypl_lpa https://t.co/qQim4Yy3fu"
+    }
+}

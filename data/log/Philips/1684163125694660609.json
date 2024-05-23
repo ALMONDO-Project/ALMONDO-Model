@@ -1,0 +1,46 @@
+{
+    "1684163125694660609": {
+        "author_id": "819791",
+        "created_at": "2023-07-26T11:25:54.000Z",
+        "edit_history_tweet_ids": [
+            "1684163125694660609"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Rosh",
+                    "probability": 0.642,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "philips",
+                    "probability": 0.5864,
+                    "start": 43,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "2565914413",
+                    "start": 0,
+                    "username": "TekiRosh"
+                }
+            ]
+        },
+        "id": "1684163125694660609",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 28,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TekiRosh Hi Rosh, As we informed you that philips doesn't sell the product directly. So you need to contact the point of purchase only regarding the return/replacement."
+    }
+}

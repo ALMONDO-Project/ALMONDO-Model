@@ -1,0 +1,53 @@
+{
+    "1619926383672659968": {
+        "attachments": {
+            "media_keys": [
+                "3_1619926380606640129"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-01-30T05:12:01.000Z",
+        "edit_history_tweet_ids": [
+            "1619926383672659968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "SAP",
+                    "probability": 0.6324,
+                    "start": 59,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60113dVL1",
+                    "end": 143,
+                    "expanded_url": "https://sap.to/60113dVL1",
+                    "start": 120,
+                    "url": "https://t.co/xhtn8gXsPy"
+                },
+                {
+                    "display_url": "pic.twitter.com/ZdNJTB7AAe",
+                    "end": 167,
+                    "expanded_url": "https://twitter.com/SAP/status/1619926383672659968/photo/1",
+                    "media_key": "3_1619926380606640129",
+                    "start": 144,
+                    "url": "https://t.co/ZdNJTB7AAe"
+                }
+            ]
+        },
+        "id": "1619926383672659968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4348,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "Developers \u2013 got 10 minutes? \u23f1\ufe0f \n\nAdd your feedback to the SAP Developer Insights Survey to help us support you better: https://t.co/xhtn8gXsPy https://t.co/ZdNJTB7AAe"
+    }
+}

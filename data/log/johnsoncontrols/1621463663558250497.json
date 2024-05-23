@@ -1,0 +1,79 @@
+{
+    "1621463663558250497": {
+        "attachments": {
+            "media_keys": [
+                "7_1621462363592351744"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-02-03T11:00:37.000Z",
+        "edit_history_tweet_ids": [
+            "1621463663558250497"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "AHR",
+                    "probability": 0.5424,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "AHRexpo",
+                    "probability": 0.7084,
+                    "start": 212,
+                    "type": "Other"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "HVAC",
+                    "probability": 0.4992,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 219,
+                    "start": 211,
+                    "tag": "AHRexpo"
+                },
+                {
+                    "end": 225,
+                    "start": 220,
+                    "tag": "HVAC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3RxgDCv",
+                    "end": 210,
+                    "expanded_url": "https://on.jci.com/3RxgDCv",
+                    "start": 187,
+                    "url": "https://t.co/oJ2w1TBDCc"
+                },
+                {
+                    "display_url": "pic.twitter.com/7VsZoGoRu9",
+                    "end": 249,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1621463663558250497/video/1",
+                    "media_key": "7_1621462363592351744",
+                    "start": 226,
+                    "url": "https://t.co/7VsZoGoRu9"
+                }
+            ]
+        },
+        "id": "1621463663558250497",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 969,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Tomorrow\u2019s competitive advantage, today. If you\u2019re headed to AHR, stop by our booths to learn about our leading portfolio of building products, technologies, software and services. More: https://t.co/oJ2w1TBDCc #AHRexpo #HVAC https://t.co/7VsZoGoRu9"
+    }
+}

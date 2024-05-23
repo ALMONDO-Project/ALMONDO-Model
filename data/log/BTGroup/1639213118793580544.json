@@ -1,0 +1,75 @@
+{
+    "1639213118793580544": {
+        "attachments": {
+            "media_keys": [
+                "13_1639212990502150145"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-03-24T10:30:37.000Z",
+        "edit_history_tweet_ids": [
+            "1639213118793580544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Mohammed",
+                    "probability": 0.6723,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "BT",
+                    "probability": 0.489,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "FastFutures",
+                    "probability": 0.5713,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 279,
+                    "id": "1621979581275160577",
+                    "start": 266,
+                    "username": "fast_futures"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "fastfutures.avadolearning.com",
+                    "end": 264,
+                    "expanded_url": "https://fastfutures.avadolearning.com/",
+                    "start": 241,
+                    "url": "https://t.co/JqmRYazA28"
+                },
+                {
+                    "display_url": "pic.twitter.com/7dv5ucECHW",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1639213118793580544/video/1",
+                    "media_key": "13_1639212990502150145",
+                    "start": 280,
+                    "url": "https://t.co/7dv5ucECHW"
+                }
+            ]
+        },
+        "id": "1639213118793580544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1617,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Mohammed landed his dream job through a mentorship opportunity, part of BT\u2019s FastFutures programme. One year later, he is now training others with the skills he obtained throughout the course.\n\nGain experience and make valuable connections: https://t.co/JqmRYazA28\n\n@fast_futures https://t.co/7dv5ucECHW"
+    }
+}

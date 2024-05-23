@@ -1,0 +1,66 @@
+{
+    "1700449144207204812": {
+        "attachments": {
+            "media_keys": [
+                "7_1700449076167184384"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-09T10:00:43.000Z",
+        "edit_history_tweet_ids": [
+            "1700449144207204812"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "LEGO",
+                    "probability": 0.52,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 25,
+                    "tag": "LEGO"
+                },
+                {
+                    "end": 79,
+                    "start": 63,
+                    "tag": "PlayUnstoppable"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1367124774",
+                    "start": 0,
+                    "username": "Loserfruit"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OxxqVpisIu",
+                    "end": 103,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1700449144207204812/video/1",
+                    "media_key": "7_1700449076167184384",
+                    "start": 80,
+                    "url": "https://t.co/OxxqVpisIu"
+                }
+            ]
+        },
+        "id": "1700449144207204812",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 4763,
+            "like_count": 69,
+            "quote_count": 1,
+            "reply_count": 6,
+            "retweet_count": 6
+        },
+        "text": "@Loserfruit checks out a #LEGO brick house that runs PC games! #PlayUnstoppable https://t.co/OxxqVpisIu"
+    }
+}

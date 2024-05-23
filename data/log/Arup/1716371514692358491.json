@@ -1,0 +1,75 @@
+{
+    "1716371514692358491": {
+        "attachments": {
+            "media_keys": [
+                "13_1716371387449741312"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-10-23T08:30:32.000Z",
+        "edit_history_tweet_ids": [
+            "1716371514692358491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Timothy Dang",
+                    "probability": 0.7571,
+                    "start": 35,
+                    "type": "Person"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Houston",
+                    "probability": 0.8555,
+                    "start": 77,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 5,
+                    "tag": "MechanicalEngineering"
+                },
+                {
+                    "end": 84,
+                    "start": 76,
+                    "tag": "Houston"
+                },
+                {
+                    "end": 230,
+                    "start": 220,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 239,
+                    "start": 231,
+                    "tag": "Careers"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/CoszdE3V6n",
+                    "end": 263,
+                    "expanded_url": "https://twitter.com/Arup/status/1716371514692358491/video/1",
+                    "media_key": "13_1716371387449741312",
+                    "start": 240,
+                    "url": "https://t.co/CoszdE3V6n"
+                }
+            ]
+        },
+        "id": "1716371514692358491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2149,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Join #MechanicalEngineering Intern Timothy Dang on his daily routine at our #Houston office. Our interns are a vital part of our team, and we appreciate all the help they provide in solving problems around the globe.  \n\n#WeAreArup #Careers https://t.co/CoszdE3V6n"
+    }
+}

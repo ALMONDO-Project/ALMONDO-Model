@@ -1,0 +1,80 @@
+{
+    "1625132990161465346": {
+        "attachments": {
+            "media_keys": [
+                "13_1625132938936348673"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-02-13T14:01:13.000Z",
+        "edit_history_tweet_ids": [
+            "1625132990161465346"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 172,
+                    "normalized_text": "SAPUnleash",
+                    "probability": 0.4802,
+                    "start": 163,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 173,
+                    "start": 162,
+                    "tag": "SAPUnleash"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 111,
+                    "id": "2358564123",
+                    "start": 99,
+                    "username": "JuerMueller"
+                },
+                {
+                    "end": 125,
+                    "id": "30170185",
+                    "start": 116,
+                    "username": "julwhite"
+                },
+                {
+                    "end": 181,
+                    "id": "177663215",
+                    "start": 174,
+                    "username": "sapbtp"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60143Y22k",
+                    "end": 160,
+                    "expanded_url": "https://sap.to/60143Y22k",
+                    "start": 137,
+                    "url": "https://t.co/M0UegwtSjo"
+                },
+                {
+                    "display_url": "pic.twitter.com/vsnCShzwYI",
+                    "end": 205,
+                    "expanded_url": "https://twitter.com/SAP/status/1625132990161465346/video/1",
+                    "media_key": "13_1625132938936348673",
+                    "start": 182,
+                    "url": "https://t.co/vsnCShzwYI"
+                }
+            ]
+        },
+        "id": "1625132990161465346",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4953,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Learn how to connect hybrid multi-cloud environments and simplify your data landscape. \n\nHear from @JuerMueller and @julwhite \u2013 March 8: https://t.co/M0UegwtSjo\n\n#SAPUnleash @sapbtp https://t.co/vsnCShzwYI"
+    }
+}

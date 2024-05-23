@@ -1,0 +1,74 @@
+{
+    "1660881747955929088": {
+        "attachments": {
+            "media_keys": [
+                "3_1660881745942654976"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-23T05:34:01.000Z",
+        "edit_history_tweet_ids": [
+            "1660881747955929088"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "AI",
+                    "probability": 0.7812,
+                    "start": 17,
+                    "type": "Organization"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.7207,
+                    "start": 52,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 19,
+                    "start": 16,
+                    "tag": "AI"
+                },
+                {
+                    "end": 63,
+                    "start": 51,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6019OlnaP",
+                    "end": 177,
+                    "expanded_url": "https://sap.to/6019OlnaP",
+                    "start": 154,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/05/sap-sapphire-business-ai/?source=social-Global-TWITTER-MarketingCampaign-AI-AI-SAPPHIRENOW-spr-10083969799-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=10083969799",
+                    "url": "https://t.co/O2UfOmqY8A"
+                },
+                {
+                    "display_url": "pic.twitter.com/MkS8lg1O1p",
+                    "end": 201,
+                    "expanded_url": "https://twitter.com/SAP/status/1660881747955929088/photo/1",
+                    "media_key": "3_1660881745942654976",
+                    "start": 178,
+                    "url": "https://t.co/MkS8lg1O1p"
+                }
+            ]
+        },
+        "id": "1660881747955929088",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6301,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 14
+        },
+        "text": "15 new business #AI capabilities were announced at #SAPSapphire.\n\nLearn how these new capabilities deliver impact for HR, procurement, finance, and more: https://t.co/O2UfOmqY8A https://t.co/MkS8lg1O1p"
+    }
+}

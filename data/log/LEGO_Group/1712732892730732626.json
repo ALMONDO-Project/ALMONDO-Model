@@ -1,0 +1,39 @@
+{
+    "1712732892730732626": {
+        "author_id": "295325513",
+        "created_at": "2023-10-13T07:31:57.000Z",
+        "edit_history_tweet_ids": [
+            "1712732892730732626"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Builder",
+                    "probability": 0.5105,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "877178049594142720",
+                    "start": 0,
+                    "username": "therealjarnold3"
+                }
+            ]
+        },
+        "id": "1712732892730732626",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1132,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@therealjarnold3 Builder assemble!"
+    }
+}

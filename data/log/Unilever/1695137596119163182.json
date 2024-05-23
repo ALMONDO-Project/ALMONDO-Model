@@ -1,0 +1,53 @@
+{
+    "1695137596119163182": {
+        "author_id": "109224937",
+        "created_at": "2023-08-25T18:14:31.000Z",
+        "edit_history_tweet_ids": [
+            "1695137596119163182"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Knorr bouillon",
+                    "probability": 0.5215,
+                    "start": 22,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "UnileverBrands",
+                    "probability": 0.5369,
+                    "start": 174,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 188,
+                    "start": 173,
+                    "tag": "UnileverBrands"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 172,
+                    "id": "335442706",
+                    "start": 166,
+                    "username": "Knorr"
+                }
+            ]
+        },
+        "id": "1695137596119163182",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4895,
+            "like_count": 8,
+            "quote_count": 2,
+            "reply_count": 92,
+            "retweet_count": 2
+        },
+        "text": "Did you know that 600 Knorr bouillon cubes are sold every minute?  \n\nAnd that\u2019s just for starters. \n\nGet a taste of this global brand with the local touch here. \ud83c\udf0e\ud83d\udc99 \n\n@Knorr #UnileverBrands"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1729061183724945677": {
+        "author_id": "342772500",
+        "created_at": "2023-11-27T08:54:45.000Z",
+        "edit_history_tweet_ids": [
+            "1729061183724945677"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Christie",
+                    "probability": 0.496,
+                    "start": 82,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "19259086",
+                    "start": 0,
+                    "username": "alpenwest"
+                }
+            ]
+        },
+        "id": "1729061183724945677",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 36,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@alpenwest We love the heated windscreen feature - saves getting frosty fingers! /Christie"
+    }
+}

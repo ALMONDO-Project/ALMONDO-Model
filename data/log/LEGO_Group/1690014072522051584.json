@@ -1,0 +1,46 @@
+{
+    "1690014072522051584": {
+        "author_id": "295325513",
+        "created_at": "2023-08-11T14:55:28.000Z",
+        "edit_history_tweet_ids": [
+            "1690014072522051584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "LEGOEggman",
+                    "probability": 0.4047,
+                    "start": 12,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 11,
+                    "tag": "LEGOEggman"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1238243245223788551",
+                    "start": 0,
+                    "username": "ZstudiosD"
+                }
+            ]
+        },
+        "id": "1690014072522051584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 169,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ZstudiosD #LEGOEggman 'blue' it this time! \ud83d\udc99\ud83d\ude09"
+    }
+}

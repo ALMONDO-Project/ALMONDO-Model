@@ -1,0 +1,50 @@
+{
+    "1734643287296794849": {
+        "author_id": "819791",
+        "created_at": "2023-12-12T18:36:02.000Z",
+        "edit_history_tweet_ids": [
+            "1734643287296794849"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Tyler",
+                    "probability": 0.6485,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1435244882",
+                    "start": 0,
+                    "username": "Tyler_Boynton16"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 283,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1734643287296794849",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 18,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Tyler_Boynton16 Hi Tyler. Thank you for reaching out to us. We are sorry to hear that the additional blades are not yet delivered. Please send us a private message letting us know where you purchased the product, so we can look into it for you. Looking forward to hearing from you. https://t.co/7VMKPAMQbA"
+    }
+}

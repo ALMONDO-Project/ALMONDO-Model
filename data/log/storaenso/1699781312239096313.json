@@ -1,0 +1,49 @@
+{
+    "1699781312239096313": {
+        "author_id": "69283265",
+        "created_at": "2023-09-07T13:46:59.000Z",
+        "edit_history_tweet_ids": [
+            "1699781312239096313"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Stora Enso",
+                    "probability": 0.4005,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "International Sustainable Forestry Coalition",
+                    "probability": 0.6703,
+                    "start": 36,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "hubs.li/Q021p_6X0",
+                    "end": 166,
+                    "expanded_url": "https://hubs.li/Q021p_6X0",
+                    "start": 143,
+                    "status": 200,
+                    "unwound_url": "https://www.isfc.world/?utm_campaign=Forest%2FSustainability&utm_content=263473190&utm_medium=social&utm_source=twitter&hss_channel=tw-69283265",
+                    "url": "https://t.co/2Z9bqCjjrO"
+                }
+            ]
+        },
+        "id": "1699781312239096313",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 758,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Stora Enso is happy to join the new International Sustainable Forestry Coalition to support dialogue around forestry and renewable materials.\ud83c\udf32\u2728https://t.co/2Z9bqCjjrO"
+    }
+}

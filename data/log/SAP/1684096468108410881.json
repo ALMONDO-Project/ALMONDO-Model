@@ -1,0 +1,69 @@
+{
+    "1684096468108410881": {
+        "attachments": {
+            "media_keys": [
+                "3_1684096466204213252"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-07-26T07:01:01.000Z",
+        "edit_history_tweet_ids": [
+            "1684096468108410881"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "metaverse",
+                    "probability": 0.5657,
+                    "start": 8,
+                    "type": "Other"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "dystopia",
+                    "probability": 0.5295,
+                    "start": 33,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 7,
+                    "tag": "metaverse"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6010PMUDE",
+                    "end": 173,
+                    "expanded_url": "https://sap.to/6010PMUDE",
+                    "start": 150,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/07/metaverse-art-exhibition/?source=social-Global-TWITTER-ThoughtLeadership-SAPStory_Branding-No_Solution_Area-spr-10694268319-ST3%3A_Purpose-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10694268319",
+                    "url": "https://t.co/fS10RvnqJN"
+                },
+                {
+                    "display_url": "pic.twitter.com/ujXeDJIGWe",
+                    "end": 197,
+                    "expanded_url": "https://twitter.com/SAP/status/1684096468108410881/photo/1",
+                    "media_key": "3_1684096466204213252",
+                    "start": 174,
+                    "url": "https://t.co/ujXeDJIGWe"
+                }
+            ]
+        },
+        "id": "1684096468108410881",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5331,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Is the #metaverse a dreamland or dystopia? \ud83d\uddbc\ufe0f \n\nArtists showcased in our latest art exhibition prove that there is no single answer to this question. https://t.co/fS10RvnqJN https://t.co/ujXeDJIGWe"
+    }
+}

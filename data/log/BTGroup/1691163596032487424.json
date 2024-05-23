@@ -1,0 +1,59 @@
+{
+    "1691163596032487424": {
+        "author_id": "517741511",
+        "created_at": "2023-08-14T19:03:16.000Z",
+        "edit_history_tweet_ids": [
+            "1691163596032487424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Sarah",
+                    "probability": 0.661,
+                    "start": 20,
+                    "type": "Person"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "StephK",
+                    "probability": 0.5145,
+                    "start": 179,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1661526497293660161",
+                    "start": 0,
+                    "username": "akinwusi_s43006"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Apply online for Technology, Contact Centre, Sales, Graduate Jobs, Apprentice Programmes and more at BT Group.",
+                    "display_url": "jobs.bt.com",
+                    "end": 110,
+                    "expanded_url": "https://jobs.bt.com/",
+                    "start": 87,
+                    "status": 200,
+                    "title": "BT Group Careers",
+                    "unwound_url": "https://jobs.bt.com/",
+                    "url": "https://t.co/Pmtpyifng9"
+                }
+            ]
+        },
+        "id": "1691163596032487424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 19,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@akinwusi_s43006 Hi Sarah, thanks for getting in touch. Our vacancies are listed here: https://t.co/Pmtpyifng9. There might be a suitable position. Best of luck with your search ^StephK"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1703683407916458045": {
+        "author_id": "819791",
+        "created_at": "2023-09-18T08:12:32.000Z",
+        "edit_history_tweet_ids": [
+            "1703683407916458045"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Ben",
+                    "probability": 0.5005,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "Bartek\nPhilips TV Consumer Care",
+                    "probability": 0.5315,
+                    "start": 182,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "4871418358",
+                    "start": 0,
+                    "username": "benmoss80"
+                }
+            ]
+        },
+        "id": "1703683407916458045",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@benmoss80 Dear Ben\n\nThank you for your message.\nTo proceed with your case, I would like to collect your TV data. \nDo you agree to switch to a private conversation? \n\nBest regards, \nBartek\nPhilips TV Consumer Care"
+    }
+}

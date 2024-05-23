@@ -1,0 +1,58 @@
+{
+    "1712414710824423583": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:27:36.000Z",
+        "edit_history_tweet_ids": [
+            "1712414710824423583"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.8279,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.9053,
+                    "start": 118,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 116,
+                    "start": 103,
+                    "tag": "WorldPlayDay"
+                },
+                {
+                    "end": 134,
+                    "start": 117,
+                    "tag": "SuperpowerOfPlay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "398828854",
+                    "start": 0,
+                    "username": "MountyinaCounty"
+                }
+            ]
+        },
+        "id": "1712414710824423583",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1127,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@MountyinaCounty We would love to see you build us a slice of pizza for your world play day challenge \ud83c\udf55#WorldPlayDay #SuperpowerOfPlay"
+    }
+}

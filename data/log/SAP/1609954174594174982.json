@@ -1,0 +1,53 @@
+{
+    "1609954174594174982": {
+        "attachments": {
+            "media_keys": [
+                "3_1609954170630508548"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-01-02T16:46:01.000Z",
+        "edit_history_tweet_ids": [
+            "1609954174594174982"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "Python",
+                    "probability": 0.9625,
+                    "start": 34,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60153Ka4D",
+                    "end": 140,
+                    "expanded_url": "https://sap.to/60153Ka4D",
+                    "start": 117,
+                    "url": "https://t.co/7pUea1In6E"
+                },
+                {
+                    "display_url": "pic.twitter.com/owHvuEedC8",
+                    "end": 164,
+                    "expanded_url": "https://twitter.com/SAP/status/1609954174594174982/photo/1",
+                    "media_key": "3_1609954170630508548",
+                    "start": 141,
+                    "url": "https://t.co/owHvuEedC8"
+                }
+            ]
+        },
+        "id": "1609954174594174982",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 14835,
+            "like_count": 44,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 11
+        },
+        "text": "Beginners \u2013 Learn to program with Python and get an intro to the fundamentals like variables, data types, and loops. https://t.co/7pUea1In6E https://t.co/owHvuEedC8"
+    }
+}

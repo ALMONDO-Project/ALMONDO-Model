@@ -1,0 +1,39 @@
+{
+    "1700367253730963642": {
+        "author_id": "819791",
+        "created_at": "2023-09-09T04:35:19.000Z",
+        "edit_history_tweet_ids": [
+            "1700367253730963642"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Rupender",
+                    "probability": 0.5416,
+                    "start": 18,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "2317345921",
+                    "start": 0,
+                    "username": "Rupender31258"
+                }
+            ]
+        },
+        "id": "1700367253730963642",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 19,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Rupender31258 Hi Rupender, According to the service team updates your product motor part is pending for replacement and the team will resolve this as soon as possible."
+    }
+}

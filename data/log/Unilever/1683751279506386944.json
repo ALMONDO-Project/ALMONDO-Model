@@ -1,0 +1,93 @@
+{
+    "1683751279506386944": {
+        "attachments": {
+            "media_keys": [
+                "3_1683748550205743105"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-07-25T08:09:22.000Z",
+        "edit_history_tweet_ids": [
+            "1683751279506386944"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 171,
+                    "normalized_text": "ULVR",
+                    "probability": 0.3953,
+                    "start": 168,
+                    "type": "Other"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "UNA",
+                    "probability": 0.5189,
+                    "start": 174,
+                    "type": "Organization"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "UL",
+                    "probability": 0.3115,
+                    "start": 179,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 172,
+                    "start": 167,
+                    "tag": "ULVR"
+                },
+                {
+                    "end": 177,
+                    "start": 173,
+                    "tag": "UNA"
+                },
+                {
+                    "end": 181,
+                    "start": 178,
+                    "tag": "UL"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 150,
+                    "tag": "UnileverResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/news/press-and\u2026",
+                    "end": 148,
+                    "expanded_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/solid-first-half-performance-continued-growth-across-all-business-groups/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_results_Q223&utm_content=static",
+                    "start": 125,
+                    "status": 200,
+                    "unwound_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/solid-first-half-performance-continued-growth-across-all-business-groups/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_results_Q223&utm_content=static",
+                    "url": "https://t.co/cK9zmXLABb"
+                },
+                {
+                    "display_url": "pic.twitter.com/gziCO4gTnb",
+                    "end": 205,
+                    "expanded_url": "https://twitter.com/Unilever/status/1683751279506386944/photo/1",
+                    "media_key": "3_1683748550205743105",
+                    "start": 182,
+                    "url": "https://t.co/gziCO4gTnb"
+                }
+            ]
+        },
+        "id": "1683751279506386944",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7339,
+            "like_count": 7,
+            "quote_count": 2,
+            "reply_count": 48,
+            "retweet_count": 1
+        },
+        "text": "2023 First Half Results\n\nWe delivered double-digit sales growth in Prestige Beauty and Health &amp; Wellbeing.\n\nRead more on https://t.co/cK9zmXLABb\n\n#UnileverResults $ULVR $UNA $UL https://t.co/gziCO4gTnb"
+    }
+}

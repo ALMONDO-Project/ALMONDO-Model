@@ -1,0 +1,39 @@
+{
+    "1740704905470345349": {
+        "author_id": "819791",
+        "created_at": "2023-12-29T12:02:44.000Z",
+        "edit_history_tweet_ids": [
+            "1740704905470345349"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Vinod",
+                    "probability": 0.5404,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1630424806935113728",
+                    "start": 0,
+                    "username": "VinodPi14163563"
+                }
+            ]
+        },
+        "id": "1740704905470345349",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@VinodPi14163563 Hi Vinod, According to the technician a spare part(top housing) is required in the product. The team order the spare part and it will be expected to get in 8 to 9 working days."
+    }
+}

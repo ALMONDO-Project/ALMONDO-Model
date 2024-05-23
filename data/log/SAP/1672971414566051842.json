@@ -1,0 +1,63 @@
+{
+    "1672971414566051842": {
+        "attachments": {
+            "media_keys": [
+                "3_1672971410526937088"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-06-25T14:14:02.000Z",
+        "edit_history_tweet_ids": [
+            "1672971414566051842"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "SAP Business Network",
+                    "probability": 0.5261,
+                    "start": 26,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 205,
+                    "id": "19692276",
+                    "start": 196,
+                    "username": "SAPAriba"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6010OCRM2",
+                    "end": 194,
+                    "expanded_url": "https://sap.to/6010OCRM2",
+                    "start": 171,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/06/sap-business-network-innovations/?source=social-Global-TWITTER-MarketingCampaign-Procurement-Intelligent_Spend_%26_Business_Networks-spr-10443050176-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10443050176",
+                    "url": "https://t.co/m3ogPiYgtw"
+                },
+                {
+                    "display_url": "pic.twitter.com/6Mg0lrlTRp",
+                    "end": 229,
+                    "expanded_url": "https://twitter.com/SAP/status/1672971414566051842/photo/1",
+                    "media_key": "3_1672971410526937088",
+                    "start": 206,
+                    "url": "https://t.co/6Mg0lrlTRp"
+                }
+            ]
+        },
+        "id": "1672971414566051842",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8282,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 11
+        },
+        "text": "Innovations announced for SAP Business Network:\n\n\u2705 Easier integration between buyers and suppliers\n\u2705 Improved tools to help suppliers find new customers\n\nGet the details: https://t.co/m3ogPiYgtw\n\n@SAPAriba https://t.co/6Mg0lrlTRp"
+    }
+}

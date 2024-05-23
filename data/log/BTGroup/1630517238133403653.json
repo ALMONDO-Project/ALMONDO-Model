@@ -1,0 +1,60 @@
+{
+    "1630517238133403653": {
+        "attachments": {
+            "media_keys": [
+                "7_1630510558574247938"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-28T10:36:17.000Z",
+        "edit_history_tweet_ids": [
+            "1630517238133403653"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Yorkshire",
+                    "probability": 0.9043,
+                    "start": 7,
+                    "type": "Place"
+                },
+                {
+                    "end": 30,
+                    "normalized_text": "Humber",
+                    "probability": 0.429,
+                    "start": 25,
+                    "type": "Other"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "BT Group",
+                    "probability": 0.5313,
+                    "start": 33,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/3xyrZqxqyV",
+                    "end": 146,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1630517238133403653/video/1",
+                    "media_key": "7_1630510558574247938",
+                    "start": 123,
+                    "url": "https://t.co/3xyrZqxqyV"
+                }
+            ]
+        },
+        "id": "1630517238133403653",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4194,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Across Yorkshire and the Humber, BT Group provided a boost of \u00a31.19bn to the economy and supported a total of 13,400 jobs. https://t.co/3xyrZqxqyV"
+    }
+}

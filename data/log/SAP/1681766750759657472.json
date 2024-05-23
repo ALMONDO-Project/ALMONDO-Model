@@ -1,0 +1,57 @@
+{
+    "1681766750759657472": {
+        "author_id": "76117579",
+        "created_at": "2023-07-19T20:43:33.000Z",
+        "edit_history_tweet_ids": [
+            "1681766750759657472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Jelena",
+                    "probability": 0.5089,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "SAP",
+                    "probability": 0.58,
+                    "start": 165,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "908762540334878720",
+                    "start": 0,
+                    "username": "JelenaAtLarge"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6010PRa9Q",
+                    "end": 154,
+                    "expanded_url": "https://sap.to/6010PRa9Q",
+                    "start": 131,
+                    "status": 200,
+                    "unwound_url": "https://community.sap.com/t5/beginner-corner-blog-posts/digital-skills-initiative-applicant-guide-for-self-study-candidates/ba-p/273119?campaigncode=CRM-YA23-SMS-1943157&source=social-Global-TWITTER-AudienceEngagement-spr-10772539740-account_name&sprinklrid=10772539740",
+                    "url": "https://t.co/V1goUUymtd"
+                }
+            ]
+        },
+        "id": "1681766750759657472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 247,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JelenaAtLarge Thanks for raising the point, Jelena. Our Learning team provides additional details for participating in this blog: https://t.co/V1goUUymtd - Debbie, SAP"
+    }
+}

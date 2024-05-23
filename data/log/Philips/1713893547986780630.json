@@ -1,0 +1,39 @@
+{
+    "1713893547986780630": {
+        "author_id": "819791",
+        "created_at": "2023-10-16T12:23:59.000Z",
+        "edit_history_tweet_ids": [
+            "1713893547986780630"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 183,
+                    "normalized_text": "Philips",
+                    "probability": 0.615,
+                    "start": 177,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "2281501129",
+                    "start": 0,
+                    "username": "sunildhulljind"
+                }
+            ]
+        },
+        "id": "1713893547986780630",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sunildhulljind We're glad to hear you're satisfied with the replacement. Please don't hesitate to reach out if you need any further assistance. Have a great day ahead.\nThanks, Philips!"
+    }
+}

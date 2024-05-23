@@ -1,0 +1,46 @@
+{
+    "1729058259628098030": {
+        "author_id": "342772500",
+        "created_at": "2023-11-27T08:43:08.000Z",
+        "edit_history_tweet_ids": [
+            "1729058259628098030"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Volvo C40",
+                    "probability": 0.8014,
+                    "start": 94,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Christie",
+                    "probability": 0.7472,
+                    "start": 106,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1239258050696970241",
+                    "start": 0,
+                    "username": "Techmaster1409"
+                }
+            ]
+        },
+        "id": "1729058259628098030",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 53,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Techmaster1409 Thank you for the positive feedback! It is great to hear you are enjoying the Volvo C40! /Christie"
+    }
+}

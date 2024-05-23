@@ -1,0 +1,78 @@
+{
+    "1736748408184918269": {
+        "author_id": "295325513",
+        "created_at": "2023-12-18T14:01:02.000Z",
+        "edit_history_tweet_ids": [
+            "1736748408184918269"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Fortnite",
+                    "probability": 0.8716,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Epic Games",
+                    "probability": 0.5418,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "LEGO",
+                    "probability": 0.494,
+                    "start": 85,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1726973522721828864",
+                    "start": 0,
+                    "username": "LEGOFortnite"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Discover the new survival crafting LEGO\u00ae Fortnite\u00ae game! Watch the trailers, discover the latest news and get ready for a new gaming adventure",
+                    "display_url": "lego.com/explorer-emilie",
+                    "end": 122,
+                    "expanded_url": "https://lego.com/explorer-emilie",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1773519712900534272/mqUv-lth?format=jpg&name=orig",
+                            "width": 1300
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1773519712900534272/mqUv-lth?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 99,
+                    "status": 200,
+                    "title": "LEGO\u00ae Fortnite\u00ae Video Game",
+                    "unwound_url": "https://www.lego.com/en-us/themes/fortnite/about?cmp=explorer-SHOP-emilie#blt427d41baf4a60022",
+                    "url": "https://t.co/THbrrcuQyU"
+                }
+            ]
+        },
+        "id": "1736748408184918269",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 55776,
+            "like_count": 206,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 22
+        },
+        "text": "@LEGOFortnite Unlock a special LEGO Fortnite Style when you link your Epic Games and LEGO accounts https://t.co/THbrrcuQyU"
+    }
+}

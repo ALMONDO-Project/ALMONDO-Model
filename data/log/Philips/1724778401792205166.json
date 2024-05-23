@@ -1,0 +1,46 @@
+{
+    "1724778401792205166": {
+        "author_id": "819791",
+        "created_at": "2023-11-15T13:16:30.000Z",
+        "edit_history_tweet_ids": [
+            "1724778401792205166"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Kabir",
+                    "probability": 0.6003,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Philips Trimmer",
+                    "probability": 0.7707,
+                    "start": 115,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1527697049898336256",
+                    "start": 0,
+                    "username": "kabirtoronto82"
+                }
+            ]
+        },
+        "id": "1724778401792205166",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 14,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@kabirtoronto82 Hi Kabir, thanks for getting in touch with us. We are sorry to hear about your experience with the Philips Trimmer. Please note that your trimmer requires regular cleaning to function properly. Hair or debris can get stuck in the device and affect its performance."
+    }
+}

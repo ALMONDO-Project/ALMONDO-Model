@@ -1,0 +1,53 @@
+{
+    "1708760638833533011": {
+        "author_id": "295325513",
+        "created_at": "2023-10-02T08:27:38.000Z",
+        "edit_history_tweet_ids": [
+            "1708760638833533011"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "LEGO",
+                    "probability": 0.5267,
+                    "start": 17,
+                    "type": "Organization"
+                },
+                {
+                    "end": 79,
+                    "normalized_text": "Leicester Square",
+                    "probability": 0.9843,
+                    "start": 64,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "UK",
+                    "probability": 0.9797,
+                    "start": 82,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "74431425",
+                    "start": 0,
+                    "username": "Claytoncyre"
+                }
+            ]
+        },
+        "id": "1708760638833533011",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 507,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "@Claytoncyre All LEGO stores are awesome! The biggest one is in Leicester Square, UK. That's a lot of steps to see all 1.7 million LEGO bricks. \ud83d\ude0a"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1654227451562663938": {
+        "author_id": "76117579",
+        "created_at": "2023-05-04T20:52:13.000Z",
+        "edit_history_tweet_ids": [
+            "1654227451562663938"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "David",
+                    "probability": 0.848,
+                    "start": 16,
+                    "type": "Person"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "SAP Sapphire",
+                    "probability": 0.483,
+                    "start": 83,
+                    "type": "Organization"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Barcelona",
+                    "probability": 0.6741,
+                    "start": 96,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "137649572",
+                    "start": 0,
+                    "username": "david_ruizb"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6019OZdPd",
+                    "end": 135,
+                    "expanded_url": "https://sap.to/6019OZdPd",
+                    "start": 112,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/events/sapphire/barcelona.html?source=social-Global-TWITTER-AudienceEngagement-SAPPHIRENOW-spr-9835825708-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=9835825708",
+                    "url": "https://t.co/aV1TvFyMEC"
+                }
+            ]
+        },
+        "id": "1654227451562663938",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 63,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@david_ruizb Hi David! \nGreat question, you can find the agenda-at-a-glance on the SAP Sapphire Barcelona page: https://t.co/aV1TvFyMEC"
+    }
+}

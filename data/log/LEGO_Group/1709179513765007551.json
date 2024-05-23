@@ -1,0 +1,57 @@
+{
+    "1709179513765007551": {
+        "author_id": "295325513",
+        "created_at": "2023-10-03T12:12:05.000Z",
+        "edit_history_tweet_ids": [
+            "1709179513765007551"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "The Dark side",
+                    "probability": 0.58,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1440347707332202500",
+                    "start": 0,
+                    "username": "DannyCrypto85"
+                },
+                {
+                    "end": 29,
+                    "id": "1440347707332202500",
+                    "start": 15,
+                    "username": "DannyCrypto85"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "LEGO.build/BricksPieces-TW",
+                    "end": 122,
+                    "expanded_url": "http://LEGO.build/BricksPieces-TW",
+                    "start": 99,
+                    "status": 200,
+                    "title": "Bricks & Pieces - Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service/replacementparts/?cmp=OBS-L2L4QVMW73",
+                    "url": "https://t.co/g7WEc881N8"
+                }
+            ]
+        },
+        "id": "1709179513765007551",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 169,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@DannyCrypto85 @DannyCrypto85 The Dark side is surely at play here. You can request a new piece on https://t.co/g7WEc881N8 to make your build perfect! May the Force be with you. \ud83d\udee0\ufe0f\ud83c\udf0c"
+    }
+}

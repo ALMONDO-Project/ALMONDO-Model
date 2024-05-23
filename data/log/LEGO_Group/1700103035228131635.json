@@ -1,0 +1,55 @@
+{
+    "1700103035228131635": {
+        "attachments": {
+            "media_keys": [
+                "3_1700102894781865984"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-08T11:05:24.000Z",
+        "edit_history_tweet_ids": [
+            "1700103035228131635"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "LEGO Insiders",
+                    "probability": 0.7962,
+                    "start": 28,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "foradults.lego.com/groups?cmp=OBS\u2026",
+                    "end": 88,
+                    "expanded_url": "https://foradults.lego.com/groups?cmp=OBS-10308342",
+                    "start": 65,
+                    "status": 200,
+                    "unwound_url": "https://insiderscommunity.lego.com/groups?cmp=OBS-10308342",
+                    "url": "https://t.co/4SayePebaV"
+                },
+                {
+                    "display_url": "pic.twitter.com/MB08Agyl83",
+                    "end": 112,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1700103035228131635/photo/1",
+                    "media_key": "3_1700102894781865984",
+                    "start": 89,
+                    "url": "https://t.co/MB08Agyl83"
+                }
+            ]
+        },
+        "id": "1700103035228131635",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 39100,
+            "like_count": 95,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 11
+        },
+        "text": "Click with your crew in the LEGO Insiders community. Join today! https://t.co/4SayePebaV https://t.co/MB08Agyl83"
+    }
+}

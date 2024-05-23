@@ -1,0 +1,53 @@
+{
+    "1731041775886688767": {
+        "author_id": "295325513",
+        "created_at": "2023-12-02T20:04:55.000Z",
+        "edit_history_tweet_ids": [
+            "1731041775886688767"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Big Bang",
+                    "probability": 0.9218,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "LEGOFortnite",
+                    "probability": 0.874,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 84,
+                    "start": 71,
+                    "tag": "LEGOFortnite"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1490686284",
+                    "start": 0,
+                    "username": "johnnyutah269"
+                }
+            ]
+        },
+        "id": "1731041775886688767",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 24345,
+            "like_count": 385,
+            "quote_count": 0,
+            "reply_count": 8,
+            "retweet_count": 3
+        },
+        "text": "@johnnyutah269 We blame the Big Bang! Try it again to learn more about #LEGOFortnite."
+    }
+}

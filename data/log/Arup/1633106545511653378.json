@@ -1,0 +1,74 @@
+{
+    "1633106545511653378": {
+        "attachments": {
+            "media_keys": [
+                "13_1633106480135110658"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-07T14:05:16.000Z",
+        "edit_history_tweet_ids": [
+            "1633106545511653378"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "IWD",
+                    "probability": 0.6876,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 13,
+                    "tag": "IWD"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 61,
+                    "id": "788388962763177984",
+                    "start": 52,
+                    "username": "gpmayors"
+                },
+                {
+                    "end": 268,
+                    "id": "17137628",
+                    "start": 259,
+                    "username": "UN_Women"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kTe4io",
+                    "end": 257,
+                    "expanded_url": "https://bit.ly/3kTe4io",
+                    "start": 234,
+                    "url": "https://t.co/6Vfjp6emWL"
+                },
+                {
+                    "display_url": "pic.twitter.com/9uAfGg8OuF",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1633106545511653378/video/1",
+                    "media_key": "13_1633106480135110658",
+                    "start": 269,
+                    "url": "https://t.co/9uAfGg8OuF"
+                }
+            ]
+        },
+        "id": "1633106545511653378",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32266,
+            "like_count": 14,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 6
+        },
+        "text": "Join us this #IWD for a roundtable webinar with the @gpmayors to explore how we can design cities that work for women by sharing experiences and solutions that help us prioritise women\u2019s wellbeing, safety and security. Register here: https://t.co/6Vfjp6emWL\n\n@UN_Women https://t.co/9uAfGg8OuF"
+    }
+}

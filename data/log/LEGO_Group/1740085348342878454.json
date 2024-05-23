@@ -1,0 +1,38 @@
+{
+    "1740085348342878454": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T19:00:50.000Z",
+        "edit_history_tweet_ids": [
+            "1740085348342878454"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.7982,
+                    "start": 78,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 77,
+                    "tag": "LEGOBuildDay"
+                }
+            ]
+        },
+        "id": "1740085348342878454",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 27,
+            "impression_count": 193447,
+            "like_count": 723,
+            "quote_count": 9,
+            "reply_count": 324,
+            "retweet_count": 39
+        },
+        "text": "We want to see how your builds are coming along! \ud83d\ude0a Share progress pics using #LEGOBuildDay."
+    }
+}

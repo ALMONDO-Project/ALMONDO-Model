@@ -1,0 +1,46 @@
+{
+    "1730536412166991875": {
+        "author_id": "819791",
+        "created_at": "2023-12-01T10:36:47.000Z",
+        "edit_history_tweet_ids": [
+            "1730536412166991875"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Sanway",
+                    "probability": 0.5554,
+                    "start": 13,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "philips",
+                    "probability": 0.5137,
+                    "start": 45,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "121799391",
+                    "start": 0,
+                    "username": "mrsanway"
+                }
+            ]
+        },
+        "id": "1730536412166991875",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@mrsanway Hi Sanway, As we informed you that philips first priority is to inspect and repair the product. So we can provide you the repair services."
+    }
+}

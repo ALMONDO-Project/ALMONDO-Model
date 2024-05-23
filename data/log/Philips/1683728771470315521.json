@@ -1,0 +1,53 @@
+{
+    "1683728771470315521": {
+        "author_id": "819791",
+        "created_at": "2023-07-25T06:39:55.000Z",
+        "edit_history_tweet_ids": [
+            "1683728771470315521"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Disney+",
+                    "probability": 0.5582,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Disney",
+                    "probability": 0.9492,
+                    "start": 217,
+                    "type": "Organization"
+                },
+                {
+                    "end": 267,
+                    "normalized_text": "Saphi",
+                    "probability": 0.5828,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "19876219",
+                    "start": 0,
+                    "username": "Steffybeth"
+                }
+            ]
+        },
+        "id": "1683728771470315521",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 25,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Steffybeth Responsibility for external applications (and Disney+ is such), their availability on individual platforms and possible problems with their operation lie with their creators.\nAccording to our information, Disney has no plans to release its app on the Saphi platform."
+    }
+}

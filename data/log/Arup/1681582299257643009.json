@@ -1,0 +1,91 @@
+{
+    "1681582299257643009": {
+        "attachments": {
+            "media_keys": [
+                "13_1681582150758309890"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-07-19T08:30:37.000Z",
+        "edit_history_tweet_ids": [
+            "1681582299257643009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "ElizabethLine",
+                    "probability": 0.5149,
+                    "start": 39,
+                    "type": "Person"
+                },
+                {
+                    "end": 177,
+                    "normalized_text": "ArupJournal",
+                    "probability": 0.5216,
+                    "start": 167,
+                    "type": "Other"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "London",
+                    "probability": 0.9897,
+                    "start": 222,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 38,
+                    "tag": "ElizabethLine"
+                },
+                {
+                    "end": 178,
+                    "start": 166,
+                    "tag": "ArupJournal"
+                },
+                {
+                    "end": 220,
+                    "start": 210,
+                    "tag": "Transport"
+                },
+                {
+                    "end": 228,
+                    "start": 221,
+                    "tag": "London"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3pRGDPE",
+                    "end": 208,
+                    "expanded_url": "https://bit.ly/3pRGDPE",
+                    "start": 185,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/publications/the-arup-journal/section/the-arup-journal-2023-issue-1",
+                    "url": "https://t.co/K59tf6BsOg"
+                },
+                {
+                    "display_url": "pic.twitter.com/MSv7n6fkko",
+                    "end": 252,
+                    "expanded_url": "https://twitter.com/Arup/status/1681582299257643009/video/1",
+                    "media_key": "13_1681582150758309890",
+                    "start": 229,
+                    "url": "https://t.co/MSv7n6fkko"
+                }
+            ]
+        },
+        "id": "1681582299257643009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2237,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "Discover our 30 year-journey with the #ElizabethLine. From inception to construction, we\u2019ve been involved every step of the way. Read more in the latest issue of the #ArupJournal here: https://t.co/K59tf6BsOg\n\n#Transport #London https://t.co/MSv7n6fkko"
+    }
+}

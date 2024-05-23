@@ -1,0 +1,39 @@
+{
+    "1682303716177637377": {
+        "author_id": "819791",
+        "created_at": "2023-07-21T08:17:16.000Z",
+        "edit_history_tweet_ids": [
+            "1682303716177637377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 205,
+                    "normalized_text": "Philips Consumer Care",
+                    "probability": 0.5352,
+                    "start": 185,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "2378971423",
+                    "start": 0,
+                    "username": "kanil1803"
+                }
+            ]
+        },
+        "id": "1682303716177637377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@kanil1803 Since we have not received any response from your end. Unfortunately this conversation has been closed. In case you need further assistance, Please feel free to reach out to Philips Consumer Care."
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "1730641158768861432": {
+        "attachments": {
+            "media_keys": [
+                "13_1730638213432127488"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-12-01T17:33:00.000Z",
+        "edit_history_tweet_ids": [
+            "1730641158768861432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 139,
+                    "normalized_text": "COP28",
+                    "probability": 0.9079,
+                    "start": 135,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 140,
+                    "start": 134,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 273,
+                    "start": 259,
+                    "tag": "FossilToClean"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 156,
+                    "id": "2469606308",
+                    "start": 146,
+                    "username": "WMBtweets"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "COP 28: Discover why we\u2019re calling for governments to put energy, nature, farming and chemicals higher on the agenda in the push to combat climate change.",
+                    "display_url": "unilever.com/news/news-sear\u2026",
+                    "end": 256,
+                    "expanded_url": "https://www.unilever.com/news/news-search/2023/our-call-for-climate-action-cop28-agenda/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Sustainability_ClimateComms_COP28_2023&utm_content=static_SM1",
+                    "images": [
+                        {
+                            "height": 630,
+                            "url": "https://pbs.twimg.com/news_img/1737101120496074752/ZIjiLpV9?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1737101120496074752/ZIjiLpV9?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 233,
+                    "status": 200,
+                    "title": "COP28: We\u2019re calling for urgent climate action | Unilever",
+                    "unwound_url": "https://www.unilever.com/news/news-search/2023/our-call-for-climate-action-cop28-agenda/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Sustainability_ClimateComms_COP28_2023&utm_content=static_SM1",
+                    "url": "https://t.co/YXYWXw3Z10"
+                },
+                {
+                    "display_url": "pic.twitter.com/XAaQSz9QMQ",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Unilever/status/1730641158768861432/video/1",
+                    "media_key": "13_1730638213432127488",
+                    "start": 274,
+                    "url": "https://t.co/XAaQSz9QMQ"
+                }
+            ]
+        },
+        "id": "1730641158768861432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2640,
+            "like_count": 75,
+            "quote_count": 3,
+            "reply_count": 8,
+            "retweet_count": 45
+        },
+        "text": "How can businesses help safely limit the global temperature rise to 1.5\u00b0C?  \n\nBy working hand-in-hand with government. Unilever is at #COP28 with @WMBtweets to call for policy changes that will accelerate corporate climate action. \n\nhttps://t.co/YXYWXw3Z10\n\n #FossilToClean https://t.co/XAaQSz9QMQ"
+    }
+}

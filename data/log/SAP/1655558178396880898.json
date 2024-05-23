@@ -1,0 +1,76 @@
+{
+    "1655558178396880898": {
+        "attachments": {
+            "media_keys": [
+                "3_1655558174634541057"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-08T13:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1655558178396880898"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.8282,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 15,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 52,
+                    "id": "828531802184753152",
+                    "start": 40,
+                    "username": "ChrstnKlein"
+                },
+                {
+                    "end": 68,
+                    "id": "30170185",
+                    "start": 59,
+                    "username": "julwhite"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017Obmn5",
+                    "end": 198,
+                    "expanded_url": "https://sap.to/6017Obmn5",
+                    "start": 175,
+                    "status": 200,
+                    "unwound_url": "https://www.sap.com/events/sapphire/orlando.html?source=social-Global-TWITTER-MarketingCampaign-SAPStory_Branding-Events-SAPPHIRENOW-spr-9881166191-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=9881166191#event-overview",
+                    "url": "https://t.co/0bUxL385tW"
+                },
+                {
+                    "display_url": "pic.twitter.com/UGHxkXGwB7",
+                    "end": 222,
+                    "expanded_url": "https://twitter.com/SAP/status/1655558178396880898/photo/1",
+                    "media_key": "3_1655558174634541057",
+                    "start": 199,
+                    "url": "https://t.co/UGHxkXGwB7"
+                }
+            ]
+        },
+        "id": "1655558178396880898",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12309,
+            "like_count": 65,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 28
+        },
+        "text": "Don't miss the #SAPSapphire keynote! \ud83c\udfa4\n\n@ChrstnKlein &amp; @JulWhite will explore how our innovative customers are adopting technologies to future-proof their businesses. \u2728 \n\nhttps://t.co/0bUxL385tW https://t.co/UGHxkXGwB7"
+    }
+}

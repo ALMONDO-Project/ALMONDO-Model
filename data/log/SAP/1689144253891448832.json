@@ -1,0 +1,67 @@
+{
+    "1689144253891448832": {
+        "attachments": {
+            "media_keys": [
+                "3_1689144242717720576"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-08-09T05:19:07.000Z",
+        "edit_history_tweet_ids": [
+            "1689144253891448832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "New Zealand",
+                    "probability": 0.9231,
+                    "start": 92,
+                    "type": "Place"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Rugby",
+                    "probability": 0.5524,
+                    "start": 106,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 20,
+                    "id": "23543947",
+                    "start": 10,
+                    "username": "AllBlacks"
+                },
+                {
+                    "end": 38,
+                    "id": "786303111962824704",
+                    "start": 27,
+                    "username": "BlackFerns"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/NkqkjKDUMg",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/SAP/status/1689144253891448832/photo/1",
+                    "media_key": "3_1689144242717720576",
+                    "start": 220,
+                    "url": "https://t.co/NkqkjKDUMg"
+                }
+            ]
+        },
+        "id": "1689144253891448832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2954,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "The M\u0101ori @AllBlacks &amp; @BlackFerns are historic teams representing the proud culture of New Zealand.\n\nRugby is woven into the fabric of the land. It\u2019s not only the national sport; it\u2019s part of the national identity. https://t.co/NkqkjKDUMg"
+    }
+}

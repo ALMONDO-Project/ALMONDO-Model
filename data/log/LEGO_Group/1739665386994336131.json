@@ -1,0 +1,51 @@
+{
+    "1739665386994336131": {
+        "author_id": "295325513",
+        "created_at": "2023-12-26T15:12:04.000Z",
+        "edit_history_tweet_ids": [
+            "1739665386994336131"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Dobby",
+                    "probability": 0.5934,
+                    "start": 21,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1325356644449054720",
+                    "start": 0,
+                    "username": "MilesCarter2104"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "LEGO.build/BricksPieces-TW",
+                    "end": 81,
+                    "expanded_url": "http://LEGO.build/BricksPieces-TW",
+                    "start": 58,
+                    "status": 200,
+                    "title": "Bricks & Pieces - Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service/replacementparts/?cmp=OBS-L2L4QVMW73",
+                    "url": "https://t.co/g7WEc881N8"
+                }
+            ]
+        },
+        "id": "1739665386994336131",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 94,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@MilesCarter2104 Oh, Dobby! We know just the right spell: https://t.co/g7WEc881N8 which will conjure the part for free! \ud83e\ude84"
+    }
+}

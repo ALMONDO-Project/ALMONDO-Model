@@ -1,0 +1,43 @@
+{
+    "1661365310992072704": {
+        "author_id": "517741511",
+        "created_at": "2023-05-24T13:35:31.000Z",
+        "edit_history_tweet_ids": [
+            "1661365154901114888",
+            "1661365310992072704"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Dundee",
+                    "probability": 0.9812,
+                    "start": 67,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.bt.com/rooftop-milest\u2026",
+                    "end": 142,
+                    "expanded_url": "https://newsroom.bt.com/rooftop-milestone-for-bt-groups-state-of-the-art-new-dundee-home/",
+                    "start": 119,
+                    "status": 200,
+                    "unwound_url": "https://newsroom.bt.com/rooftop-milestone-for-bt-groups-state-of-the-art-new-dundee-home/",
+                    "url": "https://t.co/92qFwBhhaK"
+                }
+            ]
+        },
+        "id": "1661365310992072704",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2934,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Today marked a key milestone in the development of our building in Dundee as construction reached it's highest point!\n\nhttps://t.co/92qFwBhhaK"
+    }
+}

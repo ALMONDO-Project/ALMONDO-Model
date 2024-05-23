@@ -1,0 +1,66 @@
+{
+    "1702610112441876923": {
+        "author_id": "295325513",
+        "created_at": "2023-09-15T09:07:38.000Z",
+        "edit_history_tweet_ids": [
+            "1702610112441876923"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Doc",
+                    "probability": 0.5519,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 33,
+                    "normalized_text": "Marty",
+                    "probability": 0.671,
+                    "start": 29,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "DeLorean",
+                    "probability": 0.4813,
+                    "start": 44,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "512295964",
+                    "start": 0,
+                    "username": "carlyjopater"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 195,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 172,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1702610112441876923",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 103,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@carlyjopater Oh no, Doc and Marty need the DeLorean! Make sure to delete your cookies and cache and try using a different browser. If that doesn't work, give us a call at https://t.co/tPB6D5ogpj, and we can take the order over the phone! \u260e\ufe0f"
+    }
+}

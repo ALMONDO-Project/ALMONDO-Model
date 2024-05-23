@@ -1,0 +1,84 @@
+{
+    "1726546765611192721": {
+        "attachments": {
+            "media_keys": [
+                "3_1726546760720330752"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-11-20T10:23:21.000Z",
+        "edit_history_tweet_ids": [
+            "1726546765611192721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 75,
+                    "normalized_text": "Fossil",
+                    "probability": 0.5218,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 224,
+                    "start": 214,
+                    "tag": "emissions"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 58,
+                    "id": "802150598548353025",
+                    "start": 47,
+                    "username": "ETC_energy"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The ETC outlines the implications for fossil fuel supply and demand pathways, and the role of policies and commitments from oil and gas companies, governments, COP28 and the financial sector in the short-term, and by mid-century.",
+                    "display_url": "energy-transitions.org/publications/f\u2026",
+                    "end": 269,
+                    "expanded_url": "https://www.energy-transitions.org/publications/fossil-fuels-in-transition/",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1754838882300973056/hkbs_wRO?format=png&name=orig",
+                            "width": 1600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1754838882300973056/hkbs_wRO?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 246,
+                    "status": 200,
+                    "title": "Fossil Fuels in Transition: Committing to the phase-down of all fossil fuels",
+                    "unwound_url": "https://www.energy-transitions.org/publications/fossil-fuels-in-transition/",
+                    "url": "https://t.co/qpa7CEbgFs"
+                },
+                {
+                    "display_url": "pic.twitter.com/rqdCDr4OWg",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Arup/status/1726546765611192721/photo/1",
+                    "media_key": "3_1726546760720330752",
+                    "start": 270,
+                    "url": "https://t.co/rqdCDr4OWg"
+                }
+            ]
+        },
+        "id": "1726546765611192721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2427,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We are proud to have contributed to the latest @ETC_energy report on \u2018Fossil Fuels in Transition: Committing to the phase- down of all fossil fuels\u2019 which calls for governments to support policies that will reduce #emissions globally. Read more:\nhttps://t.co/qpa7CEbgFs https://t.co/rqdCDr4OWg"
+    }
+}

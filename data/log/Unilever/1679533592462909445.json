@@ -1,0 +1,90 @@
+{
+    "1679533592462909445": {
+        "author_id": "109224937",
+        "created_at": "2023-07-13T16:49:47.000Z",
+        "edit_history_tweet_ids": [
+            "1679533592462909445"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "Hanneke Faber",
+                    "probability": 0.9292,
+                    "start": 76,
+                    "type": "Person"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Nutrition",
+                    "probability": 0.5346,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "Bloomberg",
+                    "probability": 0.9823,
+                    "start": 136,
+                    "type": "Organization"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "Business Summit",
+                    "probability": 0.521,
+                    "start": 203,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 252,
+                    "start": 235,
+                    "tag": "UnileverInsights"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 161,
+                    "id": "316731185",
+                    "start": 148,
+                    "username": "AggieDeSousa"
+                },
+                {
+                    "end": 190,
+                    "id": "104237736",
+                    "start": 180,
+                    "username": "Bloomberg"
+                },
+                {
+                    "end": 234,
+                    "id": "17231768",
+                    "start": 221,
+                    "username": "BloombergSBS"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bloomberg.com/news/videos/20\u2026",
+                    "end": 277,
+                    "expanded_url": "https://www.bloomberg.com/news/videos/2023-06-28/unilever-s-hanneke-faber-on-the-future-of-food-video",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.bloomberg.com/news/videos/2023-06-28/unilever-s-hanneke-faber-on-the-future-of-food-video",
+                    "url": "https://t.co/yr3SVVS7zN"
+                }
+            ]
+        },
+        "id": "1679533592462909445",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4984,
+            "like_count": 10,
+            "quote_count": 2,
+            "reply_count": 71,
+            "retweet_count": 1
+        },
+        "text": "Should sustainable farming be a priority in a cost-of-living crisis?\n\nWatch Hanneke Faber, President of Unilever Nutrition, speaking to Bloomberg\u2019s @AggieDeSousa about this at the @Bloomberg Sustainable Business Summit.\n\n@BloombergSBS #UnileverInsights\n\nhttps://t.co/yr3SVVS7zN"
+    }
+}

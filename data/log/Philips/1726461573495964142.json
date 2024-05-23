@@ -1,0 +1,46 @@
+{
+    "1726461573495964142": {
+        "author_id": "819791",
+        "created_at": "2023-11-20T04:44:49.000Z",
+        "edit_history_tweet_ids": [
+            "1726461573495964142"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Dharmbir",
+                    "probability": 0.7658,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Philips",
+                    "probability": 0.6089,
+                    "start": 153,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "721655036552560640",
+                    "start": 0,
+                    "username": "DharmbirGurjar"
+                }
+            ]
+        },
+        "id": "1726461573495964142",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 17,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@DharmbirGurjar Hi Dharmbir, thank you for reaching out to us. We are sorry to inform you that we can only provide support for orders placed through the Philips online store. As a result, we ask that you contact the customer service team of the online store where you made your purchase."
+    }
+}

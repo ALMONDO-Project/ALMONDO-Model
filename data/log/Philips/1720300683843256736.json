@@ -1,0 +1,39 @@
+{
+    "1720300683843256736": {
+        "author_id": "819791",
+        "created_at": "2023-11-03T04:43:39.000Z",
+        "edit_history_tweet_ids": [
+            "1720300683843256736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Ajay",
+                    "probability": 0.6373,
+                    "start": 14,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "120452537",
+                    "start": 0,
+                    "username": "ajaysahay"
+                }
+            ]
+        },
+        "id": "1720300683843256736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ajaysahay Hi Ajay, We have informed the same to the service team, the charges would be informed by the service team and team will contact you shortly and provide you the resolution as soon as possible."
+    }
+}

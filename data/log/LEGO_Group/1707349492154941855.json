@@ -1,0 +1,55 @@
+{
+    "1707349492154941855": {
+        "attachments": {
+            "media_keys": [
+                "3_1707349487386017792"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-28T11:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1707349492154941855"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Spotify",
+                    "probability": 0.9525,
+                    "start": 29,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spoti.fi/3RBSInu",
+                    "end": 61,
+                    "expanded_url": "https://spoti.fi/3RBSInu",
+                    "start": 38,
+                    "status": 200,
+                    "unwound_url": "https://open.spotify.com/album/1uiNtW6yOWGhwCZu63PCcy?si=-yEMXJnDQcC5gCBvFLSq6w&sf181295033=1",
+                    "url": "https://t.co/doXR7y9IgC"
+                },
+                {
+                    "display_url": "pic.twitter.com/Ndtz60lWpk",
+                    "end": 233,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1707349492154941855/photo/1",
+                    "media_key": "3_1707349487386017792",
+                    "start": 210,
+                    "url": "https://t.co/Ndtz60lWpk"
+                }
+            ]
+        },
+        "id": "1707349492154941855",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 36,
+            "impression_count": 84948,
+            "like_count": 435,
+            "quote_count": 3,
+            "reply_count": 13,
+            "retweet_count": 63
+        },
+        "text": "Stream the full album now on Spotify! https://t.co/doXR7y9IgC \ud83d\udcbf Brand new music drop: LEGO Rhythm &amp; Bricks, chillout tunes rebuilt to help you find your flow. Put it on, relax, and build something awesome. https://t.co/Ndtz60lWpk"
+    }
+}

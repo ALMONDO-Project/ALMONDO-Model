@@ -1,0 +1,58 @@
+{
+    "1712417763161997504": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:39:44.000Z",
+        "edit_history_tweet_ids": [
+            "1712417763161997504"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.8253,
+                    "start": 72,
+                    "type": "Other"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.9155,
+                    "start": 86,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 84,
+                    "start": 71,
+                    "tag": "WorldPlayDay"
+                },
+                {
+                    "end": 102,
+                    "start": 85,
+                    "tag": "SuperpowerOfPlay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "947791896",
+                    "start": 0,
+                    "username": "eatchillis"
+                }
+            ]
+        },
+        "id": "1712417763161997504",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1143,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@eatchillis Our challenge to you is to have the best birthday ever \ud83c\udf89\ud83e\udd73\ud83c\udf82 #WorldPlayDay #SuperpowerOfPlay"
+    }
+}

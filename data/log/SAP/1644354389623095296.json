@@ -1,0 +1,75 @@
+{
+    "1644354389623095296": {
+        "attachments": {
+            "media_keys": [
+                "13_1644354272052621317"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-04-07T15:00:11.000Z",
+        "edit_history_tweet_ids": [
+            "1644354389623095296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.5959,
+                    "start": 44,
+                    "type": "Other"
+                },
+                {
+                    "end": 165,
+                    "normalized_text": "Orlando",
+                    "probability": 0.6361,
+                    "start": 159,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 43,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1533403063",
+                    "start": 1,
+                    "username": "ScottROfficial"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6013OyZB3",
+                    "end": 221,
+                    "expanded_url": "https://sap.to/6013OyZB3",
+                    "start": 198,
+                    "url": "https://t.co/OIXe5peCV5"
+                },
+                {
+                    "display_url": "pic.twitter.com/TUj6NnOQl2",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/SAP/status/1644354389623095296/video/1",
+                    "media_key": "13_1644354272052621317",
+                    "start": 222,
+                    "url": "https://t.co/TUj6NnOQl2"
+                }
+            ]
+        },
+        "id": "1644354389623095296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8525,
+            "like_count": 29,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 17
+        },
+        "text": ".@ScottROfficial shares what awaits you at #SAPSapphire!\n\nInspirational keynotes, expert insights, networking opportunities &amp; much more.\n\nJoin us in sunny Orlando \ud83c\udf34 or virtually this May 16-17: https://t.co/OIXe5peCV5 https://t.co/TUj6NnOQl2"
+    }
+}

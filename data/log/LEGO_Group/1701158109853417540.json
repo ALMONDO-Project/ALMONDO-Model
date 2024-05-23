@@ -1,0 +1,39 @@
+{
+    "1701158109853417540": {
+        "author_id": "295325513",
+        "created_at": "2023-09-11T08:57:54.000Z",
+        "edit_history_tweet_ids": [
+            "1701158109853417540"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Jason",
+                    "probability": 0.6485,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "3429922996",
+                    "start": 0,
+                    "username": "Jasoncoombes69"
+                }
+            ]
+        },
+        "id": "1701158109853417540",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 44,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Jasoncoombes69 Hi Jason, sometimes the validation will fail because it's something we have to manually take a look at. Please send us a DM and also add the video of the part that's stuck, and we'll take care of that! \ud83d\udcac\ud83d\ude42"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "1658434681488941056": {
+        "attachments": {
+            "media_keys": [
+                "3_1658434679165386752",
+                "3_1658434679052066819"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-05-16T11:30:14.000Z",
+        "edit_history_tweet_ids": [
+            "1658434681488941056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 167,
+                    "normalized_text": "Johnson Controls",
+                    "probability": 0.38,
+                    "start": 152,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "Cork",
+                    "probability": 0.7105,
+                    "start": 175,
+                    "type": "Place"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9493,
+                    "start": 181,
+                    "type": "Place"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Ivana",
+                    "probability": 0.5867,
+                    "start": 235,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 278,
+                    "start": 253,
+                    "tag": "BuildingTomorrowTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/qhIpfuwPsc",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1658434681488941056/photo/1",
+                    "media_key": "3_1658434679165386752",
+                    "start": 279,
+                    "url": "https://t.co/qhIpfuwPsc"
+                },
+                {
+                    "display_url": "pic.twitter.com/qhIpfuwPsc",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1658434681488941056/photo/1",
+                    "media_key": "3_1658434679052066819",
+                    "start": 279,
+                    "url": "https://t.co/qhIpfuwPsc"
+                }
+            ]
+        },
+        "id": "1658434681488941056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 781,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "From the state-of-the-art smart building &amp; amazing team members to the sense that you\u2019re making a difference, there\u2019s much to love about working at Johnson Controls HQ in Cork, Ireland. But don\u2019t take our word for it; look at what Ivana had to say. #BuildingTomorrowTogether https://t.co/qhIpfuwPsc"
+    }
+}

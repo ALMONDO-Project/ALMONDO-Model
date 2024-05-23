@@ -1,0 +1,96 @@
+{
+    "1641802681411854336": {
+        "attachments": {
+            "media_keys": [
+                "3_1641802618467917824",
+                "3_1641802639456313345",
+                "3_1641802660431921153"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-31T14:00:37.000Z",
+        "edit_history_tweet_ids": [
+            "1641802681411854336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "UK",
+                    "probability": 0.91,
+                    "start": 28,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 44,
+                    "start": 37,
+                    "tag": "timber"
+                },
+                {
+                    "end": 210,
+                    "start": 196,
+                    "tag": "TheatreDesign"
+                },
+                {
+                    "end": 226,
+                    "start": 211,
+                    "tag": "ArtsAndCulture"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1503709218062450691",
+                    "start": 1,
+                    "username": "ShakespeareNP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ZrVnAH",
+                    "end": 194,
+                    "expanded_url": "https://bit.ly/3ZrVnAH",
+                    "start": 171,
+                    "url": "https://t.co/SHbrHYFE0w"
+                },
+                {
+                    "display_url": "pic.twitter.com/hgTvgmz4D7",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/Arup/status/1641802681411854336/photo/1",
+                    "media_key": "3_1641802618467917824",
+                    "start": 227,
+                    "url": "https://t.co/hgTvgmz4D7"
+                },
+                {
+                    "display_url": "pic.twitter.com/hgTvgmz4D7",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/Arup/status/1641802681411854336/photo/1",
+                    "media_key": "3_1641802639456313345",
+                    "start": 227,
+                    "url": "https://t.co/hgTvgmz4D7"
+                },
+                {
+                    "display_url": "pic.twitter.com/hgTvgmz4D7",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/Arup/status/1641802681411854336/photo/1",
+                    "media_key": "3_1641802660431921153",
+                    "start": 227,
+                    "url": "https://t.co/hgTvgmz4D7"
+                }
+            ]
+        },
+        "id": "1641802681411854336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8389,
+            "like_count": 24,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": ".@ShakespeareNP in Prescot, UK, is a #timber replica of a Shakespearean-era playhouse, based on surviving plans of one of the earliest known indoor playhouses. Read more: https://t.co/SHbrHYFE0w\n\n#TheatreDesign #ArtsAndCulture https://t.co/hgTvgmz4D7"
+    }
+}

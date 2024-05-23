@@ -1,0 +1,39 @@
+{
+    "1735528128213041478": {
+        "author_id": "819791",
+        "created_at": "2023-12-15T05:12:04.000Z",
+        "edit_history_tweet_ids": [
+            "1735528128213041478"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Asif",
+                    "probability": 0.5655,
+                    "start": 13,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "2934438055",
+                    "start": 0,
+                    "username": "Asif999y"
+                }
+            ]
+        },
+        "id": "1735528128213041478",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Asif999y Hi Asif, We are waiting for your valuable response."
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1636336673607778304": {
+        "attachments": {
+            "media_keys": [
+                "7_1636335378788409346"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-03-16T12:00:39.000Z",
+        "edit_history_tweet_ids": [
+            "1636336673607778304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 138,
+                    "normalized_text": "White Collar Factory",
+                    "probability": 0.8379,
+                    "start": 119,
+                    "type": "Other"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "Award",
+                    "probability": 0.5903,
+                    "start": 243,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 80,
+                    "id": "412360963",
+                    "start": 66,
+                    "username": "derwentlondon"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3YUOmrA",
+                    "end": 273,
+                    "expanded_url": "https://on.jci.com/3YUOmrA",
+                    "start": 250,
+                    "url": "https://t.co/rFywyH4nFf"
+                },
+                {
+                    "display_url": "pic.twitter.com/zm2QkZF6Lw",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1636336673607778304/video/1",
+                    "media_key": "7_1636335378788409346",
+                    "start": 274,
+                    "url": "https://t.co/zm2QkZF6Lw"
+                }
+            ]
+        },
+        "id": "1636336673607778304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 767,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "New technologies can help businesses meet their net zero targets. @derwentlondon uses our digital solutions to run its White Collar Factory building more efficiently. We\u2019re recognizing their visionary approach with our Blueprint of the Future Award: https://t.co/rFywyH4nFf https://t.co/zm2QkZF6Lw"
+    }
+}

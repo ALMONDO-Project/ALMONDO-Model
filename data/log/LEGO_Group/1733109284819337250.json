@@ -1,0 +1,89 @@
+{
+    "1733109284819337250": {
+        "attachments": {
+            "media_keys": [
+                "7_1733109255748628480"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-08T13:00:27.000Z",
+        "edit_history_tweet_ids": [
+            "1733109284819337250"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Supply Llamas",
+                    "probability": 0.4914,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Sydney",
+                    "probability": 0.9779,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "London",
+                    "probability": 0.9633,
+                    "start": 73,
+                    "type": "Place"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "New York",
+                    "probability": 0.9824,
+                    "start": 81,
+                    "type": "Place"
+                },
+                {
+                    "end": 97,
+                    "normalized_text": "Tokyo",
+                    "probability": 0.9807,
+                    "start": 93,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Llama",
+                    "probability": 0.5173,
+                    "start": 118,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "1726973522721828864",
+                    "start": 6,
+                    "username": "LEGOFortnite"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/y1Qzuu379g",
+                    "end": 229,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1733109284819337250/video/1",
+                    "media_key": "7_1733109255748628480",
+                    "start": 206,
+                    "url": "https://t.co/y1Qzuu379g"
+                }
+            ]
+        },
+        "id": "1733109284819337250",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 240,
+            "impression_count": 518185,
+            "like_count": 7957,
+            "quote_count": 70,
+            "reply_count": 146,
+            "retweet_count": 901
+        },
+        "text": "Giant @LEGOFortnite Supply Llamas are popping up globally from Sydney to London, New York to Tokyo! This 12-feet tall Llama is made with 234,623 LEGO bricks, weighs 1019kg and took over 850 hours to build! https://t.co/y1Qzuu379g"
+    }
+}

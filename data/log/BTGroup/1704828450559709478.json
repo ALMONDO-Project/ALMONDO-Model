@@ -1,0 +1,88 @@
+{
+    "1704828450559709478": {
+        "attachments": {
+            "media_keys": [
+                "7_1704828297517916160"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-09-21T12:02:31.000Z",
+        "edit_history_tweet_ids": [
+            "1704828450559709478"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "BTea Room",
+                    "probability": 0.707,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "Birmingham",
+                    "probability": 0.973,
+                    "start": 46,
+                    "type": "Place"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "BTea",
+                    "probability": 0.5771,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Birmingham",
+                    "probability": 0.9728,
+                    "start": 190,
+                    "type": "Place"
+                },
+                {
+                    "end": 261,
+                    "normalized_text": "The Urban Caf\u00e9",
+                    "probability": 0.5394,
+                    "start": 248,
+                    "type": "Other"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "Church Street",
+                    "probability": 0.3996,
+                    "start": 266,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/i/web/status/1704828450559709478",
+                    "start": 282,
+                    "url": "https://t.co/nOPyCjIxe8"
+                },
+                {
+                    "display_url": "pic.twitter.com/7AcO67SqJ0",
+                    "end": 329,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1704828450559709478/video/1",
+                    "media_key": "7_1704828297517916160",
+                    "start": 306,
+                    "url": "https://t.co/7AcO67SqJ0"
+                }
+            ]
+        },
+        "id": "1704828450559709478",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2113,
+            "like_count": 10,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "Our first BTea Room is happening next week in Birmingham!\n\nOpen to anyone over the age of 65, the BTea Rooms are here to help support over 65s on their digital skills journey.\n\nIf you\u2019re in Birmingham next week or know someone who is, pop along to The Urban Caf\u00e9 on Church Street,\u2026 https://t.co/nOPyCjIxe8 https://t.co/7AcO67SqJ0"
+    }
+}

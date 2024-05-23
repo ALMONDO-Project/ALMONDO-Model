@@ -1,0 +1,65 @@
+{
+    "1664334150331932683": {
+        "attachments": {
+            "media_keys": [
+                "13_1664334101946482690"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-06-01T18:12:37.000Z",
+        "edit_history_tweet_ids": [
+            "1664334150331932683"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 104,
+                    "normalized_text": "LGBTQIA+",
+                    "probability": 0.7489,
+                    "start": 97,
+                    "type": "Place"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "ur #PrideA",
+                    "probability": 0.5697,
+                    "start": 188,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 18,
+                    "start": 7,
+                    "tag": "PrideMonth"
+                },
+                {
+                    "end": 202,
+                    "start": 191,
+                    "tag": "PrideAtSAP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ebjAAfXffV",
+                    "end": 234,
+                    "expanded_url": "https://twitter.com/SAP/status/1664334150331932683/video/1",
+                    "media_key": "13_1664334101946482690",
+                    "start": 211,
+                    "url": "https://t.co/ebjAAfXffV"
+                }
+            ]
+        },
+        "id": "1664334150331932683",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10096,
+            "like_count": 42,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 18
+        },
+        "text": "During #PrideMonth, we're showing our commitment to championing equality and standing up for the LGBTQIA+ community year-round. \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\n\nToday, we're looking back at some milestones of our #PrideAtSAP team. \ud83d\ude4c https://t.co/ebjAAfXffV"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1700361202654642498": {
+        "author_id": "819791",
+        "created_at": "2023-09-09T04:11:16.000Z",
+        "edit_history_tweet_ids": [
+            "1700361202654642498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Rupender",
+                    "probability": 0.6603,
+                    "start": 18,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "2317345921",
+                    "start": 0,
+                    "username": "Rupender31258"
+                }
+            ]
+        },
+        "id": "1700361202654642498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Rupender31258 Hi Rupender, We will check the same with the service team and let you know."
+    }
+}

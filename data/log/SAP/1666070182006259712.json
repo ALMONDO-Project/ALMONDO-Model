@@ -1,0 +1,75 @@
+{
+    "1666070182006259712": {
+        "attachments": {
+            "media_keys": [
+                "3_1666070178990260225"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-06-06T13:11:00.000Z",
+        "edit_history_tweet_ids": [
+            "1666070182006259712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 243,
+                    "normalized_text": "SAPSustainability",
+                    "probability": 0.7294,
+                    "start": 227,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 103,
+                    "start": 88,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 244,
+                    "start": 226,
+                    "tag": "SAPSustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 29,
+                    "id": "2670321",
+                    "start": 25,
+                    "username": "IDC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6011OaFeh",
+                    "end": 224,
+                    "expanded_url": "https://sap.to/6011OaFeh",
+                    "start": 201,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/06/sap-rated-top-three-idc-sustainability-index/?source=social-Global-TWITTER-MarketingCampaign-Sustainability-Cross_Solution_Area-spr-10255003542-ST3%3A_Purpose-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10255003542",
+                    "url": "https://t.co/X3V9PvlIQm"
+                },
+                {
+                    "display_url": "pic.twitter.com/VbS9HcDnOe",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/SAP/status/1666070182006259712/photo/1",
+                    "media_key": "3_1666070178990260225",
+                    "start": 245,
+                    "url": "https://t.co/VbS9HcDnOe"
+                }
+            ]
+        },
+        "id": "1666070182006259712",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8983,
+            "like_count": 26,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 18
+        },
+        "text": "We\u2019ve been recognized by @IDC as one of the top 3 software companies according to their #sustainability frameworks. \ud83c\udf31\n\nSee how we\u2019re committed to embedding sustainability at the core of our solutions: https://t.co/X3V9PvlIQm\n\n#SAPSustainability https://t.co/VbS9HcDnOe"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1688816501560602624": {
+        "author_id": "517741511",
+        "created_at": "2023-08-08T07:36:45.000Z",
+        "edit_history_tweet_ids": [
+            "1688816501560602624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Sally",
+                    "probability": 0.6054,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "Tasha",
+                    "probability": 0.792,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "BT_UK",
+                    "probability": 0.4372,
+                    "start": 212,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1561332966",
+                    "start": 0,
+                    "username": "ProfSallyBrown"
+                }
+            ]
+        },
+        "id": "1688816501560602624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 46,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ProfSallyBrown Hi Sally, I'm not a bot, my name is Tasha and I'm definitely a real person. As we have a business page we can't DM you first. If you'd like us to look into this for you then please pop us a DM to BT_UK page. We'd love to try and sort things for you"
+    }
+}

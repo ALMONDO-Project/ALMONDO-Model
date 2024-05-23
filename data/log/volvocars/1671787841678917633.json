@@ -1,0 +1,39 @@
+{
+    "1671787841678917633": {
+        "author_id": "342772500",
+        "created_at": "2023-06-22T07:50:56.000Z",
+        "edit_history_tweet_ids": [
+            "1671787841678917633"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 112,
+                    "normalized_text": "Anthony",
+                    "probability": 0.4941,
+                    "start": 106,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "311373362",
+                    "start": 0,
+                    "username": "sachi101886"
+                }
+            ]
+        },
+        "id": "1671787841678917633",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 85,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sachi101886 Hi there, please send us a direct message should you need further assistance. All the best - Anthony"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1696501618135433430": {
+        "attachments": {
+            "media_keys": [
+                "3_1696501589446471680"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-08-29T12:34:39.000Z",
+        "edit_history_tweet_ids": [
+            "1696501618135433430"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 212,
+                    "normalized_text": "Lucy Baker",
+                    "probability": 0.8145,
+                    "start": 203,
+                    "type": "Person"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "MBE",
+                    "probability": 0.4519,
+                    "start": 214,
+                    "type": "Other"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "BT Consumer",
+                    "probability": 0.4394,
+                    "start": 219,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/i/web/status/1696501618135433430",
+                    "start": 282,
+                    "url": "https://t.co/09Y6ttvpNV"
+                },
+                {
+                    "display_url": "pic.twitter.com/zAHUadWJAS",
+                    "end": 329,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1696501618135433430/photo/1",
+                    "media_key": "3_1696501589446471680",
+                    "start": 306,
+                    "url": "https://t.co/zAHUadWJAS"
+                }
+            ]
+        },
+        "id": "1696501618135433430",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2333,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 7,
+            "retweet_count": 6
+        },
+        "text": "As part of the industry wide switch from analogue to digital landlines, we\u2019re contacting customers about our new home phone service, Digital Voice on a region by region basis.\n\nRead the latest blog from Lucy Baker MBE, BT Consumer\u2019s All-IP Director to hear more about the progress\u2026 https://t.co/09Y6ttvpNV https://t.co/zAHUadWJAS"
+    }
+}

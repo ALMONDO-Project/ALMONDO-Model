@@ -1,0 +1,39 @@
+{
+    "1729359833411846300": {
+        "author_id": "819791",
+        "created_at": "2023-11-28T04:41:28.000Z",
+        "edit_history_tweet_ids": [
+            "1729359833411846300"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Shrutee",
+                    "probability": 0.543,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1729032720435576832",
+                    "start": 0,
+                    "username": "ShruteeDash"
+                }
+            ]
+        },
+        "id": "1729359833411846300",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ShruteeDash Hi Shrutee, We are waiting for your valuable response."
+    }
+}

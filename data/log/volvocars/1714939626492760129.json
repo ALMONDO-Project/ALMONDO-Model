@@ -1,0 +1,39 @@
+{
+    "1714939626492760129": {
+        "author_id": "342772500",
+        "created_at": "2023-10-19T09:40:43.000Z",
+        "edit_history_tweet_ids": [
+            "1714939626492760129"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 116,
+                    "normalized_text": "Jade",
+                    "probability": 0.8882,
+                    "start": 113,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "1084145714",
+                    "start": 0,
+                    "username": "drfk66"
+                }
+            ]
+        },
+        "id": "1714939626492760129",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 55,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@drfk66 Hi there, we are sorry to hear this. Please send us a direct message if you require further assistance. /Jade"
+    }
+}

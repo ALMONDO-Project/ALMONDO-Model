@@ -1,0 +1,94 @@
+{
+    "1686408303365038080": {
+        "author_id": "109224937",
+        "created_at": "2023-08-01T16:07:26.000Z",
+        "edit_history_tweet_ids": [
+            "1686408303365038080"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "CleanTok",
+                    "probability": 0.9484,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "TikTok",
+                    "probability": 0.9861,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "TikTok",
+                    "probability": 0.9867,
+                    "start": 128,
+                    "type": "Other"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "Cleanipedia",
+                    "probability": 0.6137,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 18,
+                    "tag": "CleanTok"
+                },
+                {
+                    "end": 265,
+                    "start": 252,
+                    "tag": "UnileverNews"
+                },
+                {
+                    "end": 275,
+                    "start": 266,
+                    "tag": "Unilever"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Unilever and TikTok announce a global #CleanTok partnership which aims to tap into the huge and fast-growing audience of people who are captivated by cleaning.",
+                    "display_url": "unilever.com/news/news-sear\u2026",
+                    "end": 249,
+                    "expanded_url": "https://www.unilever.com/news/news-search/2023/cleantok-is-making-cleaning-fun-and-were-seizing-the-opportunity/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_HC23",
+                    "images": [
+                        {
+                            "height": 630,
+                            "url": "https://pbs.twimg.com/news_img/1729180797071183872/7xOfS9NP?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1729180797071183872/7xOfS9NP?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 226,
+                    "status": 200,
+                    "title": "Unilever and TikTok announce a global #CleanTok partnership | Unilever",
+                    "unwound_url": "https://www.unilever.com/news/news-search/2023/cleantok-is-making-cleaning-fun-and-were-seizing-the-opportunity/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_HC23",
+                    "url": "https://t.co/tISWXK5hjt"
+                }
+            ]
+        },
+        "id": "1686408303365038080",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8729,
+            "like_count": 10,
+            "quote_count": 2,
+            "reply_count": 191,
+            "retweet_count": 2
+        },
+        "text": "People are loving #CleanTok, so we\u2019re partnering with TikTok to tap into this huge audience. \n\nWith over 79 billion views, it\u2019s TikTok\u2019s largest community. \n\nExclusively sponsored by our Cleanipedia website. \n\nRead more \u2b07\ufe0f \n\n https://t.co/tISWXK5hjt \n\n#UnileverNews #Unilever"
+    }
+}

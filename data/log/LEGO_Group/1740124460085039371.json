@@ -1,0 +1,46 @@
+{
+    "1740124460085039371": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T21:36:15.000Z",
+        "edit_history_tweet_ids": [
+            "1740124460085039371"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.6504,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 20,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "271619769",
+                    "start": 0,
+                    "username": "cameronkieffer"
+                }
+            ]
+        },
+        "id": "1740124460085039371",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 728,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@cameronkieffer The #LEGOBuildDay train isn't moving too fast to stop for passengers. Welcome aboard! \ud83d\ude82"
+    }
+}

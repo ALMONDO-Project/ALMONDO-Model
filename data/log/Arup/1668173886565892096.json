@@ -1,0 +1,100 @@
+{
+    "1668173886565892096": {
+        "attachments": {
+            "media_keys": [
+                "3_1668173802474291201",
+                "3_1668173823445807104",
+                "3_1668173844429828096",
+                "3_1668173865455955968"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-06-12T08:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1668173886565892096"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "HongKong",
+                    "probability": 0.9635,
+                    "start": 73,
+                    "type": "Place"
+                },
+                {
+                    "end": 209,
+                    "normalized_text": "PARK",
+                    "probability": 0.4082,
+                    "start": 206,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 72,
+                    "tag": "HongKong"
+                },
+                {
+                    "end": 235,
+                    "start": 228,
+                    "tag": "energy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3qGUV5y",
+                    "end": 265,
+                    "expanded_url": "https://bit.ly/3qGUV5y",
+                    "start": 242,
+                    "unwound_url": "https://www.arup.com/projects/t-park?utm_medium=social&utm_source=twitter&utm_campaign=t-park_120623&utm_content=global",
+                    "url": "https://t.co/vBhPi0GOcU"
+                },
+                {
+                    "display_url": "pic.twitter.com/LogPN5D45j",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1668173886565892096/photo/1",
+                    "media_key": "3_1668173802474291201",
+                    "start": 266,
+                    "url": "https://t.co/LogPN5D45j"
+                },
+                {
+                    "display_url": "pic.twitter.com/LogPN5D45j",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1668173886565892096/photo/1",
+                    "media_key": "3_1668173823445807104",
+                    "start": 266,
+                    "url": "https://t.co/LogPN5D45j"
+                },
+                {
+                    "display_url": "pic.twitter.com/LogPN5D45j",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1668173886565892096/photo/1",
+                    "media_key": "3_1668173844429828096",
+                    "start": 266,
+                    "url": "https://t.co/LogPN5D45j"
+                },
+                {
+                    "display_url": "pic.twitter.com/LogPN5D45j",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1668173886565892096/photo/1",
+                    "media_key": "3_1668173865455955968",
+                    "start": 266,
+                    "url": "https://t.co/LogPN5D45j"
+                }
+            ]
+        },
+        "id": "1668173886565892096",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3588,
+            "like_count": 13,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Can a sludge treatment facility be eco-friendly? T\u00b7PARK, located in the #HongKong countryside is not just a sludge treatment facility \u2013 it\u2019s also a power station and a spa resort. Discover more about how T\u00b7PARK turns waste into #energy here: https://t.co/vBhPi0GOcU https://t.co/LogPN5D45j"
+    }
+}

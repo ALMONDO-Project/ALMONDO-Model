@@ -1,0 +1,60 @@
+{
+    "1733078770154610917": {
+        "attachments": {
+            "media_keys": [
+                "3_1733078642622619648"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-12-08T10:59:12.000Z",
+        "edit_history_tweet_ids": [
+            "1733078770154610917"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 230,
+                    "normalized_text": "TXO",
+                    "probability": 0.4727,
+                    "start": 228,
+                    "type": "Organization"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "Operation",
+                    "probability": 0.5813,
+                    "start": 270,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/i/web/status/1733078770154610917",
+                    "start": 281,
+                    "url": "https://t.co/gKxm4CU3TT"
+                },
+                {
+                    "display_url": "pic.twitter.com/e47C98s0KW",
+                    "end": 328,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1733078770154610917/photo/1",
+                    "media_key": "3_1733078642622619648",
+                    "start": 305,
+                    "url": "https://t.co/e47C98s0KW"
+                }
+            ]
+        },
+        "id": "1733078770154610917",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 652,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We're on a journey to become a circular business by 2030, and a circular tech ecosystem by end of March 2040. We\u2019ll do this by embedding circularity across our products, networks, and operations \u267b\ufe0f \n\nWatch our recent video with TXO which outlines the Exchange Clearance Operation\u2026 https://t.co/gKxm4CU3TT https://t.co/e47C98s0KW"
+    }
+}

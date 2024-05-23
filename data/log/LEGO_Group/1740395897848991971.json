@@ -1,0 +1,39 @@
+{
+    "1740395897848991971": {
+        "author_id": "295325513",
+        "created_at": "2023-12-28T15:34:51.000Z",
+        "edit_history_tweet_ids": [
+            "1740395897848991971"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Santa",
+                    "probability": 0.5747,
+                    "start": 17,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "19576364",
+                    "start": 0,
+                    "username": "SteveReedOnline"
+                }
+            ]
+        },
+        "id": "1740395897848991971",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 130,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SteveReedOnline Santa's happy - job is done, now it's time to have some fun! \ud83c\udfc1"
+    }
+}

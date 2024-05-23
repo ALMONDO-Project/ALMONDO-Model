@@ -1,0 +1,39 @@
+{
+    "1734219004154204431": {
+        "author_id": "819791",
+        "created_at": "2023-12-11T14:30:05.000Z",
+        "edit_history_tweet_ids": [
+            "1734219004154204431"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Erika",
+                    "probability": 0.7078,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "340578987",
+                    "start": 0,
+                    "username": "ntrglcticwalrus"
+                }
+            ]
+        },
+        "id": "1734219004154204431",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ntrglcticwalrus Hi Erika, we are sorry for the delay on our response. We have escalated this case to our teams who will reach out to you as soon as possible to assist you further. Please, let us know if you have any further questions."
+    }
+}

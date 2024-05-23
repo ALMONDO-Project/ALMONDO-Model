@@ -1,0 +1,46 @@
+{
+    "1714210172741050828": {
+        "author_id": "819791",
+        "created_at": "2023-10-17T09:22:08.000Z",
+        "edit_history_tweet_ids": [
+            "1714210172741050828"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Jasmin",
+                    "probability": 0.6793,
+                    "start": 65,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Philips",
+                    "probability": 0.5898,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1713839780398776320",
+                    "start": 0,
+                    "username": "JasminOza83307"
+                }
+            ]
+        },
+        "id": "1714210172741050828",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 12,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JasminOza83307 Thank you for sharing the details from our call, Jasmin. We request that you send your personal information via private message. Thanks, Philips!!"
+    }
+}

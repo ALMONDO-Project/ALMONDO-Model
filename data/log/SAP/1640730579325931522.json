@@ -1,0 +1,75 @@
+{
+    "1640730579325931522": {
+        "attachments": {
+            "media_keys": [
+                "13_1640730467082153986"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-28T15:00:28.000Z",
+        "edit_history_tweet_ids": [
+            "1640730579325931522"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 96,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.7109,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Serena",
+                    "probability": 0.625,
+                    "start": 152,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 97,
+                    "start": 85,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 42,
+                    "id": "26589987",
+                    "start": 27,
+                    "username": "serenawilliams"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6014O8zFk",
+                    "end": 272,
+                    "expanded_url": "https://sap.to/6014O8zFk",
+                    "start": 249,
+                    "url": "https://t.co/TdG79VS0S6"
+                },
+                {
+                    "display_url": "pic.twitter.com/SrqdN2LBf2",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/SAP/status/1640730579325931522/video/1",
+                    "media_key": "13_1640730467082153986",
+                    "start": 273,
+                    "url": "https://t.co/SrqdN2LBf2"
+                }
+            ]
+        },
+        "id": "1640730579325931522",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 20721,
+            "like_count": 80,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 33
+        },
+        "text": "We're thrilled to announce @serenawilliams will join us as the celebrity speaker for #SAPSapphire! \n\nWith remarkable achievements on and off the court, Serena will share her powerful voice for diversity and entrepreneurship on the keynote stage. \ud83c\udfbe\n\nhttps://t.co/TdG79VS0S6 https://t.co/SrqdN2LBf2"
+    }
+}

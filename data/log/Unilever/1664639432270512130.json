@@ -1,0 +1,64 @@
+{
+    "1664639432270512130": {
+        "author_id": "109224937",
+        "created_at": "2023-06-02T14:25:42.000Z",
+        "edit_history_tweet_ids": [
+            "1664639432270512130"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 166,
+                    "normalized_text": "Dana Cadden",
+                    "probability": 0.9039,
+                    "start": 156,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 280,
+                    "start": 263,
+                    "tag": "Act2Unstereotype"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 187,
+                    "id": "16468227",
+                    "start": 175,
+                    "username": "Campaignmag"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/news/news-sear\u2026",
+                    "end": 261,
+                    "expanded_url": "https://www.unilever.com/news/news-search/2023/driving-equity-in-advertising-production-industry-for-persons-with-disabilities/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_AlwaysOn",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.unilever.com/news/news-search/2023/driving-equity-in-advertising-production-industry-for-persons-with-disabilities/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_AlwaysOn",
+                    "url": "https://t.co/WZ2Ql2Msqd"
+                },
+                {
+                    "display_url": "x.com/Campaignmag/st\u2026",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Campaignmag/status/1663943171775053825",
+                    "start": 281,
+                    "url": "https://t.co/PLQdtjJ9h1"
+                }
+            ]
+        },
+        "id": "1664639432270512130",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3845,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "\u201cWith a mindset shift, belief in talent and true collaboration with people from the disabled community, the future of advertising production is inclusive,\u201d Dana Cadden, tells @CampaignMag.\n\nDiscover our Inclusive Production Toolkit here: https://t.co/WZ2Ql2Msqd\n\n#Act2Unstereotype https://t.co/PLQdtjJ9h1"
+    }
+}

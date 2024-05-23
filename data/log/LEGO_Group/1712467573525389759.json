@@ -1,0 +1,58 @@
+{
+    "1712467573525389759": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T13:57:40.000Z",
+        "edit_history_tweet_ids": [
+            "1712467573525389759"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.868,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7459,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 86,
+                    "start": 69,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 100,
+                    "start": 87,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "20468871",
+                    "start": 0,
+                    "username": "jacobtech"
+                }
+            ]
+        },
+        "id": "1712467573525389759",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 464,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@jacobtech Build your favorite animal, using only green LEGO bricks! #SuperpowerOfPlay #WorldPlayDay"
+    }
+}

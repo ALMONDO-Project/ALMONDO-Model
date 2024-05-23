@@ -1,0 +1,39 @@
+{
+    "1711708310884249722": {
+        "author_id": "295325513",
+        "created_at": "2023-10-10T11:40:37.000Z",
+        "edit_history_tweet_ids": [
+            "1711708310884249722"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Accio",
+                    "probability": 0.5884,
+                    "start": 38,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "779696884206170113",
+                    "start": 0,
+                    "username": "lyckligfroken"
+                }
+            ]
+        },
+        "id": "1711708310884249722",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 197,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@lyckligfroken It sounds like we need Accio spell! Send us a DM and our experts will investigate this for you. \ud83d\udcf1"
+    }
+}

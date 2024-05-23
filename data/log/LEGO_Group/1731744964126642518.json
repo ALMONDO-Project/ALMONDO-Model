@@ -1,0 +1,45 @@
+{
+    "1731744964126642518": {
+        "author_id": "295325513",
+        "created_at": "2023-12-04T18:39:08.000Z",
+        "edit_history_tweet_ids": [
+            "1731744964126642518"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Battle Bus",
+                    "probability": 0.8654,
+                    "start": 46,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "925523995134439424",
+                    "start": 0,
+                    "username": "LpLeaksNews"
+                },
+                {
+                    "end": 26,
+                    "id": "1726973522721828864",
+                    "start": 13,
+                    "username": "LEGOFortnite"
+                }
+            ]
+        },
+        "id": "1731744964126642518",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 15599,
+            "like_count": 71,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "@LpLeaksNews @LEGOFortnite You can hop on the Battle Bus December 7th! Don't forget to thank the bus driver. \ud83d\udc99"
+    }
+}

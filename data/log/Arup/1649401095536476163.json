@@ -1,0 +1,55 @@
+{
+    "1649401095536476163": {
+        "author_id": "67339136",
+        "created_at": "2023-04-21T13:14:00.000Z",
+        "edit_history_tweet_ids": [
+            "1649401095536476163"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 190,
+                    "normalized_text": "Sara Candiracci",
+                    "probability": 0.8493,
+                    "start": 176,
+                    "type": "Person"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Europe",
+                    "probability": 0.8348,
+                    "start": 197,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 257,
+                    "id": "1536727461836296192",
+                    "start": 241,
+                    "username": "proximityofcare"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/FastCompany/st\u2026",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/FastCompany/status/1648984041679470592",
+                    "start": 273,
+                    "url": "https://t.co/fKC89TqOSg"
+                }
+            ]
+        },
+        "id": "1649401095536476163",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3855,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Have you ever wondered how a three-year-old experiences a city? \u201cBasically you see cars and traffic, noise and pollution everywhere as a child from that perspective,\u201d says Dr. Sara Candiracci, our Europe Leader for Social Value and Equity.\n\n@proximityofcare @BvLFoundation https://t.co/fKC89TqOSg"
+    }
+}

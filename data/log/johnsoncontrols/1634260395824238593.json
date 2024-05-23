@@ -1,0 +1,115 @@
+{
+    "1634260395824238593": {
+        "attachments": {
+            "media_keys": [
+                "3_1634260390371573760",
+                "3_1634260390925180951",
+                "3_1634260391868899350",
+                "3_1634260390665236481"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-03-10T18:30:16.000Z",
+        "edit_history_tweet_ids": [
+            "1634260395824238593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "OpenBlue World Tour",
+                    "probability": 0.7689,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Cork",
+                    "probability": 0.9019,
+                    "start": 48,
+                    "type": "Place"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "IE",
+                    "probability": 0.5001,
+                    "start": 54,
+                    "type": "Place"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "CTO",
+                    "probability": 0.3731,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "OpenBlue",
+                    "probability": 0.496,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 181,
+                    "start": 172,
+                    "tag": "OpenBlue"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/421vFFz",
+                    "end": 278,
+                    "expanded_url": "https://on.jci.com/421vFFz",
+                    "start": 255,
+                    "url": "https://t.co/OBR6mRoIGp"
+                },
+                {
+                    "display_url": "pic.twitter.com/DMZTayJqzP",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1634260395824238593/photo/1",
+                    "media_key": "3_1634260390371573760",
+                    "start": 279,
+                    "url": "https://t.co/DMZTayJqzP"
+                },
+                {
+                    "display_url": "pic.twitter.com/DMZTayJqzP",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1634260395824238593/photo/1",
+                    "media_key": "3_1634260390925180951",
+                    "start": 279,
+                    "url": "https://t.co/DMZTayJqzP"
+                },
+                {
+                    "display_url": "pic.twitter.com/DMZTayJqzP",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1634260395824238593/photo/1",
+                    "media_key": "3_1634260391868899350",
+                    "start": 279,
+                    "url": "https://t.co/DMZTayJqzP"
+                },
+                {
+                    "display_url": "pic.twitter.com/DMZTayJqzP",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1634260395824238593/photo/1",
+                    "media_key": "3_1634260390665236481",
+                    "start": 279,
+                    "url": "https://t.co/DMZTayJqzP"
+                }
+            ]
+        },
+        "id": "1634260395824238593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 795,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Our OpenBlue World Tour kicked off at our HQ in Cork, IE. Our CTO headlined the live event with special internal guests who brought our tech to life through stories of how #OpenBlue delivers on our promise of helping customers reach sustainability goals. https://t.co/OBR6mRoIGp https://t.co/DMZTayJqzP"
+    }
+}

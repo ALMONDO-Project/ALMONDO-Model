@@ -1,0 +1,62 @@
+{
+    "1693624129734217895": {
+        "attachments": {
+            "media_keys": [
+                "3_1693624127830085633"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-08-21T14:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1693624129734217895"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "LEGO",
+                    "probability": 0.5024,
+                    "start": 126,
+                    "type": "Organization"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "LEGO",
+                    "probability": 0.7021,
+                    "start": 151,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lego.build/join-lego-insi\u2026",
+                    "end": 195,
+                    "expanded_url": "https://lego.build/join-lego-insiders",
+                    "start": 172,
+                    "status": 200,
+                    "unwound_url": "https://www.lego.com/en-us/insiders?cmp=OBS-25335245",
+                    "url": "https://t.co/JCzN1WbrAg"
+                },
+                {
+                    "display_url": "pic.twitter.com/l32ln43kyz",
+                    "end": 219,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1693624129734217895/photo/1",
+                    "media_key": "3_1693624127830085633",
+                    "start": 196,
+                    "url": "https://t.co/l32ln43kyz"
+                }
+            ]
+        },
+        "id": "1693624129734217895",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 37,
+            "impression_count": 125094,
+            "like_count": 633,
+            "quote_count": 7,
+            "reply_count": 56,
+            "retweet_count": 63
+        },
+        "text": "\ud83c\udf1f Our new membership program is open! \ud83c\udf1f\nAre you ready to unlock epic rewards, exclusive goodies and connect with the ultimate LEGO fan community? Join LEGO Insiders today! https://t.co/JCzN1WbrAg https://t.co/l32ln43kyz"
+    }
+}

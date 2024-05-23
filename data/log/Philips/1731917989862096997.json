@@ -1,0 +1,46 @@
+{
+    "1731917989862096997": {
+        "author_id": "819791",
+        "created_at": "2023-12-05T06:06:40.000Z",
+        "edit_history_tweet_ids": [
+            "1731917989862096997"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Emily",
+                    "probability": 0.5827,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "US",
+                    "probability": 0.8936,
+                    "start": 97,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "4881776374",
+                    "start": 0,
+                    "username": "emilysincoming"
+                }
+            ]
+        },
+        "id": "1731917989862096997",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 95,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@emilysincoming Hi Emily\n\nThank you for your message.\nIn this case, we advise you to contact our US technical team. \nOur technical support experts can help you by calling us at 833-978-3323\nMonday - Friday: 10:00 AM - 9:00 PM EST\nSaturday: 10:00 AM - 9:00 PM EST\nClosed on Sundays"
+    }
+}

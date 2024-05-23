@@ -1,0 +1,58 @@
+{
+    "1712482317938397454": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T14:56:15.000Z",
+        "edit_history_tweet_ids": [
+            "1712482317938397454"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.9307,
+                    "start": 71,
+                    "type": "Other"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7971,
+                    "start": 89,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 87,
+                    "start": 70,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 101,
+                    "start": 88,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "891795477963972610",
+                    "start": 0,
+                    "username": "aeoseven"
+                }
+            ]
+        },
+        "id": "1712482317938397454",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 294,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@aeoseven Write a short story on why you love dogs and guinea pigs! \ud83d\udc36\ud83d\udc39#SuperpowerOfPlay #WorldPlayDay"
+    }
+}

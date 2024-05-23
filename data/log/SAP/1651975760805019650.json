@@ -1,0 +1,64 @@
+{
+    "1651975760805019650": {
+        "author_id": "76117579",
+        "created_at": "2023-04-28T15:44:48.000Z",
+        "edit_history_tweet_ids": [
+            "1651975760805019650"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "SAP",
+                    "probability": 0.8241,
+                    "start": 99,
+                    "type": "Organization"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "SAP",
+                    "probability": 0.8784,
+                    "start": 204,
+                    "type": "Organization"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "SAP",
+                    "probability": 0.8006,
+                    "start": 272,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "797839667743887360",
+                    "start": 0,
+                    "username": "RVkumarpradeep"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6018OVktI",
+                    "end": 261,
+                    "expanded_url": "https://sap.to/6018OVktI",
+                    "start": 238,
+                    "status": 403,
+                    "unwound_url": "https://support.sap.com/en/my-support.html?anchorId=transition&source=social-Global-TWITTER-AudienceEngagement-spr-9750824013-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=9750824013",
+                    "url": "https://t.co/6P3v2iFwOS"
+                }
+            ]
+        },
+        "id": "1651975760805019650",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 48,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@RVkumarpradeep We\u2019d like to learn more about your experience. You can use the feedback channel in SAP for Me \u2013 use the slider on the right-hand side of your dashboard. We offer additional resources with SAP for Me at our support portal: https://t.co/6P3v2iFwOS - Debbie, SAP"
+    }
+}

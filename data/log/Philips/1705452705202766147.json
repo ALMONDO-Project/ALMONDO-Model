@@ -1,0 +1,39 @@
+{
+    "1705452705202766147": {
+        "author_id": "819791",
+        "created_at": "2023-09-23T05:23:05.000Z",
+        "edit_history_tweet_ids": [
+            "1705452705202766147"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Vishnu",
+                    "probability": 0.6161,
+                    "start": 18,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "300756978",
+                    "start": 0,
+                    "username": "vishnuponnath"
+                }
+            ]
+        },
+        "id": "1705452705202766147",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@vishnuponnath Hi Vishnu, According to the service team updates the part (main PCB) needs to be changed, and it will be received within 1 week. The team will resolved the issue on priority."
+    }
+}

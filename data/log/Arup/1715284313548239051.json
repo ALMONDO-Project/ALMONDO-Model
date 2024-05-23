@@ -1,0 +1,82 @@
+{
+    "1715284313548239051": {
+        "attachments": {
+            "media_keys": [
+                "13_1715284228202475521"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-10-20T08:30:23.000Z",
+        "edit_history_tweet_ids": [
+            "1715284313548239051"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "Chintan Raveshia",
+                    "probability": 0.5477,
+                    "start": 37,
+                    "type": "Person"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Southeast Asia",
+                    "probability": 0.8122,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 243,
+                    "start": 233,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 265,
+                    "start": 244,
+                    "tag": "WorldArchitectureDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 35,
+                    "id": "914711705803825152",
+                    "start": 23,
+                    "username": "ecosystm360"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/46CuwWN",
+                    "end": 231,
+                    "expanded_url": "https://bit.ly/46CuwWN",
+                    "start": 208,
+                    "status": 200,
+                    "unwound_url": "https://blog.ecosystm.io/ecosystmtv/creating-sustainable-built-environment-chintan-raveshia-arup-part1/",
+                    "url": "https://t.co/2fJWHtLcFy"
+                },
+                {
+                    "display_url": "pic.twitter.com/KuKkJVNN6f",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1715284313548239051/video/1",
+                    "media_key": "13_1715284228202475521",
+                    "start": 266,
+                    "url": "https://t.co/KuKkJVNN6f"
+                }
+            ]
+        },
+        "id": "1715284313548239051",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 1814,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "In a recent episode of @ecosystm360, Chintan Raveshia, our Cities Business Leader for Southeast Asia, explored the integration of climate adaptation strategies in urban planning. Watch the full episode here: https://t.co/2fJWHtLcFy\n\n#WeAreArup #WorldArchitectureDay https://t.co/KuKkJVNN6f"
+    }
+}

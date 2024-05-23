@@ -1,0 +1,53 @@
+{
+    "1692427141038694855": {
+        "author_id": "819791",
+        "created_at": "2023-08-18T06:44:08.000Z",
+        "edit_history_tweet_ids": [
+            "1692427141038694855"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "US",
+                    "probability": 0.8714,
+                    "start": 53,
+                    "type": "Place"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "Philips TV",
+                    "probability": 0.5145,
+                    "start": 206,
+                    "type": "Organization"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "Care",
+                    "probability": 0.3406,
+                    "start": 226,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "230246024",
+                    "start": 0,
+                    "username": "lalbrtoc"
+                }
+            ]
+        },
+        "id": "1692427141038694855",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 44,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@lalbrtoc In this case, we advise you to contact our US technical team. \nOur technical support experts can help you by calling us at 1-866-309-5962 *\nMonday - Friday: 10:00 AM - 7:00 PM EST\n\nBest regards, \nPhilips TV Consumer Care"
+    }
+}

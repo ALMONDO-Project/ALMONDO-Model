@@ -1,0 +1,50 @@
+{
+    "1727732274697851235": {
+        "author_id": "342772500",
+        "created_at": "2023-11-23T16:54:08.000Z",
+        "edit_history_tweet_ids": [
+            "1727732274697851235"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 111,
+                    "normalized_text": "Anthony",
+                    "probability": 0.5925,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1121375084",
+                    "start": 0,
+                    "username": "ilkeruslu_"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 136,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "start": 113,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/CBGifTDzla"
+                }
+            ]
+        },
+        "id": "1727732274697851235",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 54,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ilkeruslu_ Hello there, we are sorry to hear this, please send us a direct message for further support /Anthony https://t.co/CBGifTDzla"
+    }
+}

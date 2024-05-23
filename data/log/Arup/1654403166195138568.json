@@ -1,0 +1,74 @@
+{
+    "1654403166195138568": {
+        "attachments": {
+            "media_keys": [
+                "13_1654403059928186880"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-05-05T08:30:26.000Z",
+        "edit_history_tweet_ids": [
+            "1654403166195138568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Copenhagen",
+                    "probability": 0.9543,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "Kevin Frederik",
+                    "probability": 0.9598,
+                    "start": 95,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 60,
+                    "tag": "Copenhagen"
+                },
+                {
+                    "end": 270,
+                    "start": 260,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3VvhbuP",
+                    "end": 257,
+                    "expanded_url": "https://bit.ly/3VvhbuP",
+                    "start": 234,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=ETZjRZkbclU",
+                    "url": "https://t.co/JWbVd0jlvn"
+                },
+                {
+                    "display_url": "pic.twitter.com/JpHiMuEYEv",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Arup/status/1654403166195138568/video/1",
+                    "media_key": "13_1654403059928186880",
+                    "start": 271,
+                    "url": "https://t.co/JpHiMuEYEv"
+                }
+            ]
+        },
+        "id": "1654403166195138568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1896,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "What does a day in the life of a structural engineer in our #Copenhagen office look like? Join Kevin Frederik as he walks us through his day to explore our culture and how our people benefit from our international mobility programme: https://t.co/JWbVd0jlvn\n \n#WeAreArup https://t.co/JpHiMuEYEv"
+    }
+}

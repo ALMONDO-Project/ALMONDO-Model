@@ -1,0 +1,52 @@
+{
+    "1737068507718627466": {
+        "author_id": "295325513",
+        "created_at": "2023-12-19T11:13:00.000Z",
+        "edit_history_tweet_ids": [
+            "1737068507718627466"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Okoye",
+                    "probability": 0.6329,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "278039296",
+                    "start": 0,
+                    "username": "pal_fg"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 149,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 126,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1737068507718627466",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 227,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@pal_fg Hi there, Okoye minifigure isn't included on day 14, it's on day 13. If you think you're missing parts, contact us at https://t.co/tPB6D5ogpj and one of our experts will be able to help you out."
+    }
+}

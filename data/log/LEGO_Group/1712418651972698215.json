@@ -1,0 +1,58 @@
+{
+    "1712418651972698215": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:43:16.000Z",
+        "edit_history_tweet_ids": [
+            "1712418651972698215"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 168,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.9031,
+                    "start": 153,
+                    "type": "Other"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7113,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 169,
+                    "start": 152,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 183,
+                    "start": 170,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1130458934",
+                    "start": 0,
+                    "username": "kirsten_fernand"
+                }
+            ]
+        },
+        "id": "1712418651972698215",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1856,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "@kirsten_fernand A special mission for a special boy! Go outside, pick a flower that reminds of your amazing mom and give it to her with a big smile. \ud83c\udf3c #SuperpowerOfPlay #WorldPlayDay"
+    }
+}

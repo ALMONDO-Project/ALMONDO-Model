@@ -1,0 +1,46 @@
+{
+    "1718885657869971743": {
+        "author_id": "819791",
+        "created_at": "2023-10-30T07:00:50.000Z",
+        "edit_history_tweet_ids": [
+            "1718885657869971743"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Salil",
+                    "probability": 0.4067,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "india",
+                    "probability": 0.9367,
+                    "start": 197,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1717906286942261248",
+                    "start": 0,
+                    "username": "salilgupta32"
+                }
+            ]
+        },
+        "id": "1718885657869971743",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 22,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@salilgupta32 Hi Salil, As we informed you that the concerned is working on your case and kindly contact the concerned department for further assistance.\n\nEmail I'd:- philipshomeliving.shopsupport.india@versuni.com"
+    }
+}

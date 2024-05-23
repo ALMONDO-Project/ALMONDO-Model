@@ -1,0 +1,58 @@
+{
+    "1712412837031596379": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:20:10.000Z",
+        "edit_history_tweet_ids": [
+            "1712412837031596379"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 111,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8708,
+                    "start": 96,
+                    "type": "Other"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7909,
+                    "start": 114,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 112,
+                    "start": 95,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 126,
+                    "start": 113,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "824820671679168512",
+                    "start": 0,
+                    "username": "me_llamo_Karli"
+                }
+            ]
+        },
+        "id": "1712412837031596379",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 464,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@me_llamo_Karli Your play mission is to build something which reflects your feelings today! \u26a1\u2728 #SuperpowerOfPlay #WorldPlayDay"
+    }
+}

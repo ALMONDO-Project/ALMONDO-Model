@@ -1,0 +1,58 @@
+{
+    "1712424599898533957": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T11:06:54.000Z",
+        "edit_history_tweet_ids": [
+            "1712424599898533957"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8789,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7505,
+                    "start": 122,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 120,
+                    "start": 103,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 134,
+                    "start": 121,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1677728965090328576",
+                    "start": 0,
+                    "username": "whamlovr"
+                }
+            ]
+        },
+        "id": "1712424599898533957",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1917,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@whamlovr Your special play mission is to build a vinyl record of your favorite singer or music band. \ud83c\udfb5#SuperpowerOfPlay #WorldPlayDay"
+    }
+}

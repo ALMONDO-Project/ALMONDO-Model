@@ -1,0 +1,39 @@
+{
+    "1721537796865667260": {
+        "author_id": "295325513",
+        "created_at": "2023-11-06T14:39:30.000Z",
+        "edit_history_tweet_ids": [
+            "1721537796865667260"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Ta",
+                    "probability": 0.6653,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "251382568",
+                    "start": 0,
+                    "username": "chesswoodseats"
+                }
+            ]
+        },
+        "id": "1721537796865667260",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 296,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@chesswoodseats Ta-dah! What a great heart \ud83d\udc9b\ud83d\udc9c"
+    }
+}

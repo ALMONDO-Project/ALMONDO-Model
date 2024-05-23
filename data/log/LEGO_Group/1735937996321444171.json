@@ -1,0 +1,39 @@
+{
+    "1735937996321444171": {
+        "author_id": "295325513",
+        "created_at": "2023-12-16T08:20:45.000Z",
+        "edit_history_tweet_ids": [
+            "1735937996321444171"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "otters",
+                    "probability": 0.4767,
+                    "start": 31,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1659951010012360705",
+                    "start": 0,
+                    "username": "Ffffff272034520"
+                }
+            ]
+        },
+        "id": "1735937996321444171",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 784,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@Ffffff272034520 Would you say otters have the high ground?"
+    }
+}

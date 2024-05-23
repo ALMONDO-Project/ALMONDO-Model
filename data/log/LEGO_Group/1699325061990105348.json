@@ -1,0 +1,51 @@
+{
+    "1699325061990105348": {
+        "author_id": "295325513",
+        "created_at": "2023-09-06T07:34:01.000Z",
+        "edit_history_tweet_ids": [
+            "1699325061990105348"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Bricks",
+                    "probability": 0.6491,
+                    "start": 46,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "376486154",
+                    "start": 0,
+                    "username": "Maweesa1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "LEGO.build/BricksPieces-TW",
+                    "end": 90,
+                    "expanded_url": "http://LEGO.build/BricksPieces-TW",
+                    "start": 67,
+                    "status": 200,
+                    "title": "Bricks & Pieces - Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service/replacementparts/?cmp=OBS-L2L4QVMW73",
+                    "url": "https://t.co/g7WEc881N8"
+                }
+            ]
+        },
+        "id": "1699325061990105348",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 102,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Maweesa1 We can't have a masterpiece missing Bricks. Head over to https://t.co/g7WEc881N8 to request your free replacement parts, let's get this brushstroke of bricks back to its glory."
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1727602731035045986": {
+        "author_id": "342772500",
+        "created_at": "2023-11-23T08:19:23.000Z",
+        "edit_history_tweet_ids": [
+            "1727602731035045986"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Carla",
+                    "probability": 0.5474,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 141,
+                    "normalized_text": "Irene",
+                    "probability": 0.7012,
+                    "start": 137,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "15041185",
+                    "start": 0,
+                    "username": "cmisscarla"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 135,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "start": 112,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/CBGifTDzla"
+                }
+            ]
+        },
+        "id": "1727602731035045986",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 51,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@cmisscarla We're sorry to hear this, Carla. Please send us a direct message if you require further assistance. https://t.co/CBGifTDzla /Irene"
+    }
+}

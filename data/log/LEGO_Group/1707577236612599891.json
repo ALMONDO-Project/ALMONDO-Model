@@ -1,0 +1,60 @@
+{
+    "1707577236612599891": {
+        "attachments": {
+            "media_keys": [
+                "3_1707577234079322112"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-29T02:05:13.000Z",
+        "edit_history_tweet_ids": [
+            "1707577236612599891"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "LEGO",
+                    "probability": 0.4606,
+                    "start": 32,
+                    "type": "Other"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "LEGOMastersFOX",
+                    "probability": 0.6867,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 116,
+                    "start": 101,
+                    "tag": "LEGOMastersFOX"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/hxz2CX4GXS",
+                    "end": 140,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1707577236612599891/photo/1",
+                    "media_key": "3_1707577234079322112",
+                    "start": 117,
+                    "url": "https://t.co/hxz2CX4GXS"
+                }
+            ]
+        },
+        "id": "1707577236612599891",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 12,
+            "impression_count": 82905,
+            "like_count": 683,
+            "quote_count": 1,
+            "reply_count": 19,
+            "retweet_count": 86
+        },
+        "text": "Check out the first ever wooden LEGO products from the 1930s! How many vehicles can you spot? \ud83d\udea2\ud83d\ude82\ud83d\ude8d\u2708\ufe0f\ud83d\ude97 #LEGOMastersFOX https://t.co/hxz2CX4GXS"
+    }
+}

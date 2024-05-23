@@ -1,0 +1,105 @@
+{
+    "1615016194637012996": {
+        "attachments": {
+            "media_keys": [
+                "3_1615016110704713733",
+                "3_1615016131734945794",
+                "3_1615016152689741827",
+                "3_1615016173665505280"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-16T16:00:41.000Z",
+        "edit_history_tweet_ids": [
+            "1615016194637012996"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Glasgow",
+                    "probability": 0.976,
+                    "start": 18,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 249,
+                    "start": 233,
+                    "tag": "CircularEconomy"
+                },
+                {
+                    "end": 265,
+                    "start": 250,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 272,
+                    "start": 266,
+                    "tag": "Reuse"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 43,
+                    "id": "3068001267",
+                    "start": 28,
+                    "username": "burrellcollect"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3iuWzUx",
+                    "end": 231,
+                    "expanded_url": "https://bit.ly/3iuWzUx",
+                    "start": 208,
+                    "url": "https://t.co/vhd89JkZKv"
+                },
+                {
+                    "display_url": "pic.twitter.com/0hROiReQLW",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1615016194637012996/photo/1",
+                    "media_key": "3_1615016110704713733",
+                    "start": 273,
+                    "url": "https://t.co/0hROiReQLW"
+                },
+                {
+                    "display_url": "pic.twitter.com/0hROiReQLW",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1615016194637012996/photo/1",
+                    "media_key": "3_1615016131734945794",
+                    "start": 273,
+                    "url": "https://t.co/0hROiReQLW"
+                },
+                {
+                    "display_url": "pic.twitter.com/0hROiReQLW",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1615016194637012996/photo/1",
+                    "media_key": "3_1615016152689741827",
+                    "start": 273,
+                    "url": "https://t.co/0hROiReQLW"
+                },
+                {
+                    "display_url": "pic.twitter.com/0hROiReQLW",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1615016194637012996/photo/1",
+                    "media_key": "3_1615016173665505280",
+                    "start": 273,
+                    "url": "https://t.co/0hROiReQLW"
+                }
+            ]
+        },
+        "id": "1615016194637012996",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2709,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "When refurbishing Glasgow\u2019s @burrellcollect, our fabric-first approach centred on reusing the original glass from the museum\u2019s fa\u00e7ade. Discover how we were able to recover 100 tonnes of usable material here: https://t.co/vhd89JkZKv\n\n#CircularEconomy #Sustainability #Reuse https://t.co/0hROiReQLW"
+    }
+}

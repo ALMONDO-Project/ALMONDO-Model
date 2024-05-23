@@ -1,0 +1,70 @@
+{
+    "1684843749262741504": {
+        "attachments": {
+            "media_keys": [
+                "13_1684843642811297792"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-07-28T08:30:27.000Z",
+        "edit_history_tweet_ids": [
+            "1684843749262741504"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Ishan Abeysekera",
+                    "probability": 0.8445,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "New York",
+                    "probability": 0.9882,
+                    "start": 95,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 144,
+                    "start": 137,
+                    "tag": "design"
+                },
+                {
+                    "end": 169,
+                    "start": 152,
+                    "tag": "BuiltEnvironment"
+                },
+                {
+                    "end": 272,
+                    "start": 262,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/lFjOchysQx",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1684843749262741504/video/1",
+                    "media_key": "13_1684843642811297792",
+                    "start": 273,
+                    "url": "https://t.co/lFjOchysQx"
+                }
+            ]
+        },
+        "id": "1684843749262741504",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1975,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Ishan Abeysekera, Senior Engineer for our Specialist Technology, Analysis and Research Team in New York shared a few tips for error-free #design in the #BuiltEnvironment. He recommends starting structure analysis as you would any problem \u2013 keeping it simple.  \n\n#WeAreArup https://t.co/lFjOchysQx"
+    }
+}

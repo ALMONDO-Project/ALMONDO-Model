@@ -1,0 +1,65 @@
+{
+    "1703718874611429732": {
+        "attachments": {
+            "media_keys": [
+                "7_1703718851358199808"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-18T10:33:27.000Z",
+        "edit_history_tweet_ids": [
+            "1703718874611429732"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8829,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "LEGO",
+                    "probability": 0.641,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 73,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 96,
+                    "start": 91,
+                    "tag": "LEGO"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/B8trb4HPvh",
+                    "end": 120,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1703718874611429732/video/1",
+                    "media_key": "7_1703718851358199808",
+                    "start": 97,
+                    "url": "https://t.co/B8trb4HPvh"
+                }
+            ]
+        },
+        "id": "1703718874611429732",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 9,
+            "impression_count": 148955,
+            "like_count": 504,
+            "quote_count": 9,
+            "reply_count": 38,
+            "retweet_count": 47
+        },
+        "text": "On 22 September the most powerful superpower of all will be revealed \u26a1\ufe0f\n\n#SuperpowerOfPlay #LEGO https://t.co/B8trb4HPvh"
+    }
+}

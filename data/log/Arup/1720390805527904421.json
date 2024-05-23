@@ -1,0 +1,100 @@
+{
+    "1720390805527904421": {
+        "attachments": {
+            "media_keys": [
+                "7_1720390735076225024"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-11-03T10:41:46.000Z",
+        "edit_history_tweet_ids": [
+            "1720390805527904421"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "AI",
+                    "probability": 0.8736,
+                    "start": 36,
+                    "type": "Organization"
+                },
+                {
+                    "end": 61,
+                    "normalized_text": "AI Safety Summit",
+                    "probability": 0.7208,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Will Cavendish",
+                    "probability": 0.5946,
+                    "start": 109,
+                    "type": "Person"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "AI",
+                    "probability": 0.7315,
+                    "start": 184,
+                    "type": "Organization"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "ClimateChange",
+                    "probability": 0.7442,
+                    "start": 199,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 186,
+                    "start": 183,
+                    "tag": "AI"
+                },
+                {
+                    "end": 212,
+                    "start": 198,
+                    "tag": "ClimateChange"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 144,
+                    "id": "1436437369729732611",
+                    "start": 133,
+                    "username": "CFraserBBC"
+                },
+                {
+                    "end": 157,
+                    "id": "742143",
+                    "start": 148,
+                    "username": "BBCWorld"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/1ICtQE89qM",
+                    "end": 265,
+                    "expanded_url": "https://twitter.com/Arup/status/1720390805527904421/video/1",
+                    "media_key": "7_1720390735076225024",
+                    "start": 242,
+                    "url": "https://t.co/1ICtQE89qM"
+                }
+            ]
+        },
+        "id": "1720390805527904421",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2702,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "After concerns about the dangers of AI at the AI Safety Summit this week, our Global Digital Services Leader Will Cavendish spoke to @CFraserBBC on @BBCWorld about the positives. How #AI can tackle #ClimateChange and the biodiversity crisis. https://t.co/1ICtQE89qM"
+    }
+}

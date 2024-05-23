@@ -1,0 +1,45 @@
+{
+    "1659249992954150913": {
+        "author_id": "109224937",
+        "created_at": "2023-05-18T17:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1659249992954150913"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Dove",
+                    "probability": 0.5155,
+                    "start": 47,
+                    "type": "Other"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "SheaMoisture",
+                    "probability": 0.6288,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Dermalogica",
+                    "probability": 0.6858,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1659249992954150913",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2112,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 3
+        },
+        "text": "Impact and training programmes from our brands Dove, SheaMoisture and Dermalogica are working to equip the women leaders of tomorrow with the confidence and skills that promote equity and cultivate change."
+    }
+}

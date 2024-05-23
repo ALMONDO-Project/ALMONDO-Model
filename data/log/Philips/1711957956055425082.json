@@ -1,0 +1,39 @@
+{
+    "1711957956055425082": {
+        "author_id": "819791",
+        "created_at": "2023-10-11T04:12:38.000Z",
+        "edit_history_tweet_ids": [
+            "1711957956055425082"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 217,
+                    "normalized_text": "Philips TV Consumer Care",
+                    "probability": 0.5016,
+                    "start": 194,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1483907006868172802",
+                    "start": 0,
+                    "username": "OutlandAgency"
+                }
+            ]
+        },
+        "id": "1711957956055425082",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@OutlandAgency Hi\n\nThank you for your message.\nWe are sorry to hear that you had a bad experience with our TV. \nWe appreciate your feedback. This helps us to improve our products.\n\nBest regards\nPhilips TV Consumer Care"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1691003741388804097": {
+        "author_id": "342772500",
+        "created_at": "2023-08-14T08:28:03.000Z",
+        "edit_history_tweet_ids": [
+            "1691003741388804097"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "Volvo S80",
+                    "probability": 0.7491,
+                    "start": 78,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Volvo",
+                    "probability": 0.6982,
+                    "start": 141,
+                    "type": "Organization"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Christie",
+                    "probability": 0.5498,
+                    "start": 178,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1689564392797372416",
+                    "start": 0,
+                    "username": "alpnefisease"
+                }
+            ]
+        },
+        "id": "1691003741388804097",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 269,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@alpnefisease We are sorry to hear that you are experiencing issues with your Volvo S80! We would recommend getting in touch with your local Volvo retailer for further support - Christie"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1684424453525045248": {
+        "author_id": "819791",
+        "created_at": "2023-07-27T04:44:19.000Z",
+        "edit_history_tweet_ids": [
+            "1684424453525045248"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Mamuni",
+                    "probability": 0.5059,
+                    "start": 16,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1296098635357106176",
+                    "start": 0,
+                    "username": "MamuniDas15"
+                }
+            ]
+        },
+        "id": "1684424453525045248",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 18,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@MamuniDas15 Hi Mamuni. Thank you for bringing this to our attention. We have already received multiple notifications of this scam, and are working internally with our security group on getting this sorted."
+    }
+}

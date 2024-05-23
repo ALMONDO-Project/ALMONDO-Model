@@ -1,0 +1,39 @@
+{
+    "1740336716701929601": {
+        "author_id": "295325513",
+        "created_at": "2023-12-28T11:39:41.000Z",
+        "edit_history_tweet_ids": [
+            "1740336716701929601"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Chewie",
+                    "probability": 0.4652,
+                    "start": 27,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "402020552",
+                    "start": 0,
+                    "username": "captainboing41"
+                }
+            ]
+        },
+        "id": "1740336716701929601",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1377,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@captainboing41 Watch out! Chewie is about to step in! \ud83e\udd2d"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1669754020439764993": {
+        "author_id": "109224937",
+        "created_at": "2023-06-16T17:09:15.000Z",
+        "edit_history_tweet_ids": [
+            "1669754020439764993"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Hindustan Unilever",
+                    "probability": 0.5106,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "India",
+                    "probability": 0.957,
+                    "start": 98,
+                    "type": "Place"
+                },
+                {
+                    "end": 197,
+                    "normalized_text": "for Sustainability Leadership",
+                    "probability": 0.5229,
+                    "start": 169,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 131,
+                    "id": "1703704490",
+                    "start": 122,
+                    "username": "HUL_News"
+                },
+                {
+                    "end": 222,
+                    "id": "375474419",
+                    "start": 210,
+                    "username": "ficci_india"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/HUL_News/statu\u2026",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/HUL_News/status/1668932905844998146",
+                    "start": 224,
+                    "url": "https://t.co/CcSoBO6NS3"
+                }
+            ]
+        },
+        "id": "1669754020439764993",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3249,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 8,
+            "retweet_count": 2
+        },
+        "text": "Hindustan Unilever is forging powerful partnerships to accelerate the journey towards net zero in India.\n\nThe latest sees @HUL_News become founding member of the Centre for Sustainability Leadership, set up by @ficci_india. https://t.co/CcSoBO6NS3"
+    }
+}

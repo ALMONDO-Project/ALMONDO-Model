@@ -1,0 +1,46 @@
+{
+    "1740098267206074783": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T19:52:11.000Z",
+        "edit_history_tweet_ids": [
+            "1740098267206074783"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.82,
+                    "start": 94,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 106,
+                    "start": 93,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1195808327302823937",
+                    "start": 0,
+                    "username": "Danny32139759"
+                }
+            ]
+        },
+        "id": "1740098267206074783",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1429,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Danny32139759 Building awesome sets and amazing memories. Great way to double-up the fun on #LEGOBuildDay!"
+    }
+}

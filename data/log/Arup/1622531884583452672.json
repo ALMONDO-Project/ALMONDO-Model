@@ -1,0 +1,101 @@
+{
+    "1622531884583452672": {
+        "attachments": {
+            "media_keys": [
+                "3_1622531800743428096",
+                "3_1622531821568229376",
+                "3_1622531842636234753",
+                "3_1622531863607758849"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-06T09:45:21.000Z",
+        "edit_history_tweet_ids": [
+            "1622531884583452672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Bunkyo",
+                    "probability": 0.8977,
+                    "start": 11,
+                    "type": "Place"
+                },
+                {
+                    "end": 23,
+                    "normalized_text": "Tokyo",
+                    "probability": 0.8976,
+                    "start": 19,
+                    "type": "Place"
+                },
+                {
+                    "end": 54,
+                    "normalized_text": "Mori Ogai Memorial Museum",
+                    "probability": 0.9175,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Mori Ogai",
+                    "probability": 0.6569,
+                    "start": 76,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3DF0zJn",
+                    "end": 256,
+                    "expanded_url": "https://bit.ly/3DF0zJn",
+                    "start": 233,
+                    "url": "https://t.co/ZfQaZmvPFo"
+                },
+                {
+                    "display_url": "pic.twitter.com/20cOVYlzzB",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Arup/status/1622531884583452672/photo/1",
+                    "media_key": "3_1622531800743428096",
+                    "start": 257,
+                    "url": "https://t.co/20cOVYlzzB"
+                },
+                {
+                    "display_url": "pic.twitter.com/20cOVYlzzB",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Arup/status/1622531884583452672/photo/1",
+                    "media_key": "3_1622531821568229376",
+                    "start": 257,
+                    "url": "https://t.co/20cOVYlzzB"
+                },
+                {
+                    "display_url": "pic.twitter.com/20cOVYlzzB",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Arup/status/1622531884583452672/photo/1",
+                    "media_key": "3_1622531842636234753",
+                    "start": 257,
+                    "url": "https://t.co/20cOVYlzzB"
+                },
+                {
+                    "display_url": "pic.twitter.com/20cOVYlzzB",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Arup/status/1622531884583452672/photo/1",
+                    "media_key": "3_1622531863607758849",
+                    "start": 257,
+                    "url": "https://t.co/20cOVYlzzB"
+                }
+            ]
+        },
+        "id": "1622531884583452672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2976,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Located in Bunkyo, Tokyo, the Mori Ogai Memorial Museum was built to honour Mori Ogai, an army surgeon, translator, novelist and poet born 150 years before. Discover how we balanced visitor experience with efficient operations here: https://t.co/ZfQaZmvPFo https://t.co/20cOVYlzzB"
+    }
+}

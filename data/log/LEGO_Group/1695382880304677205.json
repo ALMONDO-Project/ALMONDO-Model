@@ -1,0 +1,46 @@
+{
+    "1695382880304677205": {
+        "author_id": "295325513",
+        "created_at": "2023-08-26T10:29:12.000Z",
+        "edit_history_tweet_ids": [
+            "1695382880304677205"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "LEGO Insiders",
+                    "probability": 0.7142,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 131,
+                    "normalized_text": "LEGO",
+                    "probability": 0.6632,
+                    "start": 128,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "185185419",
+                    "start": 0,
+                    "username": "AngelJ5"
+                }
+            ]
+        },
+        "id": "1695382880304677205",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 125,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@AngelJ5 Welcome to LEGO Insiders! \ud83d\udc95 Your points will be added as soon as the set leaves our warehouse. Keep an eye out on your LEGO Insiders page! \ud83d\udc40"
+    }
+}

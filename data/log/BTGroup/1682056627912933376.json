@@ -1,0 +1,46 @@
+{
+    "1682056627912933376": {
+        "author_id": "517741511",
+        "created_at": "2023-07-20T15:55:25.000Z",
+        "edit_history_tweet_ids": [
+            "1682056627912933376"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Sarah",
+                    "probability": 0.6316,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "StephK",
+                    "probability": 0.7135,
+                    "start": 207,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "712330422395543552",
+                    "start": 0,
+                    "username": "WestminsterWAG"
+                }
+            ]
+        },
+        "id": "1682056627912933376",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 36,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@WestminsterWAG Hi Sarah, that's lovely to hear. I'm sorry your connection still isn't fixed. It sounds like you're in good hands, but if you ever need us to take a closer look at this please DM us anytime ^StephK"
+    }
+}

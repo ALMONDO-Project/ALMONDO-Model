@@ -1,0 +1,93 @@
+{
+    "1717820962123456621": {
+        "attachments": {
+            "media_keys": [
+                "3_1717820941118353408"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-10-27T08:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1717820962123456621"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "Scope 1",
+                    "probability": 0.675,
+                    "start": 31,
+                    "type": "Other"
+                },
+                {
+                    "end": 49,
+                    "normalized_text": "3",
+                    "probability": 0.5347,
+                    "start": 49,
+                    "type": "Other"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "GreenhouseGas",
+                    "probability": 0.6374,
+                    "start": 91,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5257,
+                    "start": 181,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 90,
+                    "tag": "GreenhouseGas"
+                },
+                {
+                    "end": 188,
+                    "start": 180,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 258,
+                    "start": 243,
+                    "tag": "Sustainability"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/473hnGe",
+                    "end": 241,
+                    "expanded_url": "https://bit.ly/473hnGe",
+                    "start": 218,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/what-are-scope-1-scope-2-and-scope-3-emissions?utm_medium=social&utm_source=linkedin&utm_campaign=scope_emissions_post_1_(cop_post)_271023&utm_content=global",
+                    "url": "https://t.co/1SrhhSVYWh"
+                },
+                {
+                    "display_url": "pic.twitter.com/moDUn8n0c2",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Arup/status/1717820962123456621/photo/1",
+                    "media_key": "3_1717820941118353408",
+                    "start": 259,
+                    "url": "https://t.co/moDUn8n0c2"
+                }
+            ]
+        },
+        "id": "1717820962123456621",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2248,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "What is the difference between Scope 1 and Scope 3 emissions? Understanding how different #GreenhouseGas emissions are classified is essential for organisations that want to reach #NetZero targets. Discover more here: https://t.co/1SrhhSVYWh\n\n#Sustainability https://t.co/moDUn8n0c2"
+    }
+}

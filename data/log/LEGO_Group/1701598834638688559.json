@@ -1,0 +1,39 @@
+{
+    "1701598834638688559": {
+        "author_id": "295325513",
+        "created_at": "2023-09-12T14:09:11.000Z",
+        "edit_history_tweet_ids": [
+            "1701598834638688559"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Jedi",
+                    "probability": 0.7514,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "462757670",
+                    "start": 0,
+                    "username": "KryystOphyyr"
+                }
+            ]
+        },
+        "id": "1701598834638688559",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 253,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@KryystOphyyr Protecting your keys like a Jedi would protect their lightsaber. \ud83d\udd11"
+    }
+}

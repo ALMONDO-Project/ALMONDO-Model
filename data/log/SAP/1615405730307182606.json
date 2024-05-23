@@ -1,0 +1,57 @@
+{
+    "1615405730307182606": {
+        "author_id": "76117579",
+        "created_at": "2023-01-17T17:48:33.000Z",
+        "edit_history_tweet_ids": [
+            "1615405730307182606"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "SAP",
+                    "probability": 0.9364,
+                    "start": 60,
+                    "type": "Organization"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "SAP",
+                    "probability": 0.6759,
+                    "start": 135,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "97856444",
+                    "start": 0,
+                    "username": "sagarca1987"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60173XHAL",
+                    "end": 117,
+                    "expanded_url": "https://sap.to/60173XHAL",
+                    "start": 94,
+                    "status": 403,
+                    "unwound_url": "http://www.sap.com/about/careers.html?source=social-Global-TWITTER-AudienceEngagement-spr-8661894345-account_name&campaigncode=CRM-YA19-SSO-BRSOCPT&sprinklrid=8661894345",
+                    "url": "https://t.co/cgQghxYOri"
+                }
+            ]
+        },
+        "id": "1615405730307182606",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 30,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sagarca1987 Thanks for the question. For available jobs at SAP, visit our online job center: https://t.co/cgQghxYOri. Best of luck! - SAP Social Media"
+    }
+}

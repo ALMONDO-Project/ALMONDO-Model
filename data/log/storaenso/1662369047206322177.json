@@ -1,0 +1,62 @@
+{
+    "1662369047206322177": {
+        "attachments": {
+            "media_keys": [
+                "3_1662369045608267778"
+            ]
+        },
+        "author_id": "69283265",
+        "created_at": "2023-05-27T08:04:00.000Z",
+        "edit_history_tweet_ids": [
+            "1662369047206322177"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Stora Enso",
+                    "probability": 0.5105,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Finland",
+                    "probability": 0.9719,
+                    "start": 70,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "hubs.li/Q01RjsY90",
+                    "end": 231,
+                    "expanded_url": "https://hubs.li/Q01RjsY90",
+                    "start": 208,
+                    "status": 200,
+                    "unwound_url": "https://www.storaenso.com/en/newsroom/news/2023/5/stora-enso-pilots-a-biodiversity-premium-for-forest-owners-in-finland?utm_campaign=Group%2FBiodiversity&utm_content=250095717&utm_medium=social&utm_source=twitter&hss_channel=tw-69283265",
+                    "url": "https://t.co/acfghaqKzv"
+                },
+                {
+                    "display_url": "pic.twitter.com/3S0maqb7Zh",
+                    "end": 255,
+                    "expanded_url": "https://twitter.com/storaenso/status/1662369047206322177/photo/1",
+                    "media_key": "3_1662369045608267778",
+                    "start": 232,
+                    "url": "https://t.co/3S0maqb7Zh"
+                }
+            ]
+        },
+        "id": "1662369047206322177",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2176,
+            "like_count": 9,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Stora Enso pilots a biodiversity premium for private forest owners in Finland. In the service, forest owners are paid a biodiversity premium for actions that help to enhance forest biodiversity.\ud83c\udf33\ud83d\udc49 Read more: https://t.co/acfghaqKzv https://t.co/3S0maqb7Zh"
+    }
+}

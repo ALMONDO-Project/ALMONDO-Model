@@ -1,0 +1,77 @@
+{
+    "1701280304378298656": {
+        "author_id": "109224937",
+        "created_at": "2023-09-11T17:03:27.000Z",
+        "edit_history_tweet_ids": [
+            "1701280304378298656"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "Knorr",
+                    "probability": 0.3444,
+                    "start": 32,
+                    "type": "Organization"
+                },
+                {
+                    "end": 39,
+                    "normalized_text": "US",
+                    "probability": 0.6977,
+                    "start": 38,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "456649572",
+                    "start": 0,
+                    "username": "nghnakin"
+                },
+                {
+                    "end": 179,
+                    "id": "166986748",
+                    "start": 166,
+                    "username": "knorrturkiye"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Unilever T\u00fcrkiye ile ileti\u015fime ge\u00e7in",
+                    "display_url": "unilever.com.tr/contact/",
+                    "end": 149,
+                    "expanded_url": "https://www.unilever.com.tr/contact/",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1785017849804738560/_ZVRQNYi?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1785017849804738560/_ZVRQNYi?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 126,
+                    "status": 200,
+                    "title": "Bize Ula\u015f\u0131n | Unilever",
+                    "unwound_url": "https://www.unilever.com.tr/contact/",
+                    "url": "https://t.co/XuHYW6926H"
+                }
+            ]
+        },
+        "id": "1701280304378298656",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 123,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@nghnakin Hi there! This is the Knorr US account. We're sorry we can't help you further on this, however we suggest you visit https://t.co/XuHYW6926H or reach out to @knorrturkiye to find a representative in your area. We hope this helps!"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "1612743583295045632": {
+        "attachments": {
+            "media_keys": [
+                "3_1612743562319331329"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-10T09:30:08.000Z",
+        "edit_history_tweet_ids": [
+            "1612743583295045632"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "GreenEconomy",
+                    "probability": 0.6019,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Global Green Economy Report",
+                    "probability": 0.752,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 12,
+                    "tag": "GreenEconomy"
+                },
+                {
+                    "end": 252,
+                    "start": 242,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 267,
+                    "start": 253,
+                    "tag": "ClimateAction"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 111,
+                    "id": "174586205",
+                    "start": 95,
+                    "username": "OxfordEconomics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Izs5el",
+                    "end": 240,
+                    "expanded_url": "https://bit.ly/3Izs5el",
+                    "start": 217,
+                    "url": "https://t.co/7dDHJgkUFS"
+                },
+                {
+                    "display_url": "pic.twitter.com/HS9NaHfnwt",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Arup/status/1612743583295045632/photo/1",
+                    "media_key": "3_1612743562319331329",
+                    "start": 268,
+                    "url": "https://t.co/HS9NaHfnwt"
+                }
+            ]
+        },
+        "id": "1612743583295045632",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2113,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "What is the #GreenEconomy? How can it create prosperity, jobs and inclusiveness? Together with @OxfordEconomics, our new Global Green Economy Report explores these questions and presents opportunities. Download here: https://t.co/7dDHJgkUFS\n\n#WeAreArup #ClimateAction https://t.co/HS9NaHfnwt"
+    }
+}

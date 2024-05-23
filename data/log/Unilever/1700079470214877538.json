@@ -1,0 +1,53 @@
+{
+    "1700079470214877538": {
+        "author_id": "109224937",
+        "created_at": "2023-09-08T09:31:46.000Z",
+        "edit_history_tweet_ids": [
+            "1700079470214877538"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Europe",
+                    "probability": 0.9596,
+                    "start": 57,
+                    "type": "Place"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "The D\u00fczg\u00fcn Group",
+                    "probability": 0.5807,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 249,
+                    "start": 230,
+                    "tag": "UnileverInnovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 87,
+                    "id": "204736152",
+                    "start": 75,
+                    "username": "Vegebutcher"
+                }
+            ]
+        },
+        "id": "1700079470214877538",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4505,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 56,
+            "retweet_count": 3
+        },
+        "text": "Plant-based doners are coming to more kebab shops across Europe, thanks to @Vegebutcher and The D\u00fczg\u00fcn Group.  \n\nThe tasty plant-based \u2018meat\u2019 skewer cooks just like its meaty counterpart and is halal-certified and lactose-free. \n\n#UnileverInnovation"
+    }
+}

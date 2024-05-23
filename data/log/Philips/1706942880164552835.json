@@ -1,0 +1,39 @@
+{
+    "1706942880164552835": {
+        "author_id": "819791",
+        "created_at": "2023-09-27T08:04:30.000Z",
+        "edit_history_tweet_ids": [
+            "1706942880164552835"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Prince",
+                    "probability": 0.4563,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1395449226969063425",
+                    "start": 0,
+                    "username": "LOVA_MrCOOL"
+                }
+            ]
+        },
+        "id": "1706942880164552835",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@LOVA_MrCOOL Hi Prince, The service technician will visit today and the service team will provide you the resolution as soon as possible."
+    }
+}

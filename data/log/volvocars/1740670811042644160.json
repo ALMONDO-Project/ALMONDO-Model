@@ -1,0 +1,46 @@
+{
+    "1740670811042644160": {
+        "author_id": "342772500",
+        "created_at": "2023-12-29T09:47:16.000Z",
+        "edit_history_tweet_ids": [
+            "1740670811042644160"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "Volvo",
+                    "probability": 0.7321,
+                    "start": 86,
+                    "type": "Organization"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Anthony",
+                    "probability": 0.6783,
+                    "start": 117,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1635324580960116738",
+                    "start": 0,
+                    "username": "ubathabisile"
+                }
+            ]
+        },
+        "id": "1740670811042644160",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 73,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ubathabisile Hello there, we would recommend that you get in touch with your nearest Volvo approved service centre /Anthony"
+    }
+}

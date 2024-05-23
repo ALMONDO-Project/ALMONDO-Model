@@ -1,0 +1,52 @@
+{
+    "1739564719394955478": {
+        "author_id": "295325513",
+        "created_at": "2023-12-26T08:32:03.000Z",
+        "edit_history_tweet_ids": [
+            "1739564719394955478"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 192,
+                    "normalized_text": "Tinkerbell",
+                    "probability": 0.5457,
+                    "start": 183,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "264045981",
+                    "start": 0,
+                    "username": "juliairzyk"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 104,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 81,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1739564719394955478",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 112,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@juliairzyk We're sorry to hear you had trouble with your builds. Please contact https://t.co/tPB6D5ogpj to organize your replacement parts and an extra sprinkle of pixie dust to get Tinkerbell back in the air. \u2728"
+    }
+}

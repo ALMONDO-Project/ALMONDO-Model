@@ -1,0 +1,93 @@
+{
+    "1631220681269563392": {
+        "attachments": {
+            "media_keys": [
+                "7_1631219549453336576"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-03-02T09:11:31.000Z",
+        "edit_history_tweet_ids": [
+            "1631220681269563392"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Belfast",
+                    "probability": 0.975,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Northern Ireland",
+                    "probability": 0.905,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Riverside Tower",
+                    "probability": 0.9362,
+                    "start": 103,
+                    "type": "Place"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Belfast",
+                    "probability": 0.9929,
+                    "start": 156,
+                    "type": "Place"
+                },
+                {
+                    "end": 179,
+                    "normalized_text": "NorthernIreland",
+                    "probability": 0.8283,
+                    "start": 165,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 163,
+                    "start": 155,
+                    "tag": "Belfast"
+                },
+                {
+                    "end": 180,
+                    "start": 164,
+                    "tag": "NorthernIreland"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.bt.com/bt-group-compl\u2026",
+                    "end": 153,
+                    "expanded_url": "https://newsroom.bt.com/bt-group-completes-multi-million-pound-revamp-of-belfast-hq/",
+                    "start": 130,
+                    "url": "https://t.co/8EdwEAbh5h"
+                },
+                {
+                    "display_url": "pic.twitter.com/1L74Kdn3tO",
+                    "end": 204,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1631220681269563392/video/1",
+                    "media_key": "7_1631219549453336576",
+                    "start": 181,
+                    "url": "https://t.co/1L74Kdn3tO"
+                }
+            ]
+        },
+        "id": "1631220681269563392",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7092,
+            "like_count": 30,
+            "quote_count": 2,
+            "reply_count": 6,
+            "retweet_count": 7
+        },
+        "text": "Today, we have reaffirmed our commitment to Belfast and Northern Ireland, as we officially reopen it's Riverside Tower building!\n\nhttps://t.co/8EdwEAbh5h\n\n#Belfast #NorthernIreland https://t.co/1L74Kdn3tO"
+    }
+}

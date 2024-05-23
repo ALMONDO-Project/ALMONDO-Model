@@ -1,0 +1,53 @@
+{
+    "1737748123684905358": {
+        "author_id": "342772500",
+        "created_at": "2023-12-21T08:13:33.000Z",
+        "edit_history_tweet_ids": [
+            "1737748123684905358"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Volvo Car",
+                    "probability": 0.5375,
+                    "start": 42,
+                    "type": "Organization"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "Canada",
+                    "probability": 0.6034,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Anthony",
+                    "probability": 0.5865,
+                    "start": 120,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "480684181",
+                    "start": 0,
+                    "username": "BupeRose"
+                }
+            ]
+        },
+        "id": "1737748123684905358",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 67,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@BupeRose Hello there, we have asked that Volvo Car Canada contact you. They will be in touch as soon as they are able /Anthony"
+    }
+}

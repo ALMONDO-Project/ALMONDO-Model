@@ -1,0 +1,88 @@
+{
+    "1635589102274748421": {
+        "author_id": "517741511",
+        "created_at": "2023-03-14T10:30:04.000Z",
+        "edit_history_tweet_ids": [
+            "1635589102274748421"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Neurodiversity",
+                    "probability": 0.6215,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Neurodiversity",
+                    "probability": 0.5967,
+                    "start": 111,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 170,
+                    "tag": "NeurodiversityCelebrationWeek"
+                },
+                {
+                    "end": 223,
+                    "start": 201,
+                    "tag": "DiversityandInclusion"
+                },
+                {
+                    "end": 234,
+                    "start": 224,
+                    "tag": "Inclusion"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 248,
+                    "id": "1422158971750735872",
+                    "start": 235,
+                    "username": "NDinBusiness"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Ultimately, NiB's goal is to improve the working lives of neurodivergent people, helping to unlock the unique and innovative contribution they can bring to",
+                    "display_url": "neurodiversityinbusiness.org",
+                    "end": 169,
+                    "expanded_url": "https://neurodiversityinbusiness.org/",
+                    "images": [
+                        {
+                            "height": 1001,
+                            "url": "https://pbs.twimg.com/news_img/1781795443451510784/wKfu7PLt?format=png&name=orig",
+                            "width": 1780
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1781795443451510784/wKfu7PLt?format=png&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 146,
+                    "status": 200,
+                    "title": "Home - Neurodiversity in Business",
+                    "unwound_url": "https://neurodiversityinbusiness.org/",
+                    "url": "https://t.co/WNCQdGChc1"
+                }
+            ]
+        },
+        "id": "1635589102274748421",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1060,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "To celebrate Neurodiversity celebration week, we are excited to announce that we are now a corporate member of Neurodiversity in Business (NIB).\n\nhttps://t.co/WNCQdGChc1\n#NeurodiversityCelebrationWeek #DiversityandInclusion #Inclusion\n@NDinBusiness"
+    }
+}

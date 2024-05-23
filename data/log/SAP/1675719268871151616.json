@@ -1,0 +1,70 @@
+{
+    "1675719268871151616": {
+        "attachments": {
+            "media_keys": [
+                "3_1675719266388123649"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-07-03T04:13:01.000Z",
+        "edit_history_tweet_ids": [
+            "1675719268871151616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "B2B",
+                    "probability": 0.5358,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Asia-Pacific region",
+                    "probability": 0.8362,
+                    "start": 97,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "551373363",
+                    "start": 14,
+                    "username": "Visa"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6012PDWwo",
+                    "end": 178,
+                    "expanded_url": "https://sap.to/6012PDWwo",
+                    "start": 155,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/06/sap-and-visa-digitalize-b2b-payments-apac-enterprises/?source=social-Global-TWITTER-MarketingCampaign-CustomerStorytelling-Business_Technology_Platform-Business_Technology_Platform_Umbrella-spr-10558765050-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10558765050",
+                    "url": "https://t.co/Adb8CdnZpY"
+                },
+                {
+                    "display_url": "pic.twitter.com/xlZLg7Wbgr",
+                    "end": 202,
+                    "expanded_url": "https://twitter.com/SAP/status/1675719268871151616/photo/1",
+                    "media_key": "3_1675719266388123649",
+                    "start": 179,
+                    "url": "https://t.co/xlZLg7Wbgr"
+                }
+            ]
+        },
+        "id": "1675719268871151616",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9537,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 17
+        },
+        "text": "Together with @Visa, we're simplifying B2B payments for businesses of all sizes, starting in the Asia-Pacific region.\n\nLearn more about our collaboration: https://t.co/Adb8CdnZpY https://t.co/xlZLg7Wbgr"
+    }
+}

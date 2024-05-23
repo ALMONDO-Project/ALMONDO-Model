@@ -1,0 +1,60 @@
+{
+    "1687100138467250178": {
+        "author_id": "76117579",
+        "created_at": "2023-08-03T13:56:32.000Z",
+        "edit_history_tweet_ids": [
+            "1687100138467250178"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Marc",
+                    "probability": 0.5176,
+                    "start": 12,
+                    "type": "Person"
+                },
+                {
+                    "end": 25,
+                    "normalized_text": "Nigel",
+                    "probability": 0.6019,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Debbie",
+                    "probability": 0.4223,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "SAP",
+                    "probability": 0.7089,
+                    "start": 174,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "203405596",
+                    "start": 0,
+                    "username": "marcfbe"
+                }
+            ]
+        },
+        "id": "1687100138467250178",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 39,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@marcfbe Hi Marc and Nigel: We're listening and appreciate the constructive feedback shared in this exchange. I've passed it along to our team that handles naming. - Debbie, SAP"
+    }
+}

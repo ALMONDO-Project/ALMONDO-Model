@@ -1,0 +1,76 @@
+{
+    "1661226772090716167": {
+        "attachments": {
+            "media_keys": [
+                "3_1661226769398087685"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-24T04:25:01.000Z",
+        "edit_history_tweet_ids": [
+            "1661226772090716167"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "HTML",
+                    "probability": 0.893,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 60,
+                    "normalized_text": "CSS",
+                    "probability": 0.8405,
+                    "start": 58,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "JavaScript",
+                    "probability": 0.9502,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "SAP Fiori",
+                    "probability": 0.4824,
+                    "start": 103,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6013OmVoh",
+                    "end": 189,
+                    "expanded_url": "https://sap.to/6013OmVoh",
+                    "start": 166,
+                    "status": 200,
+                    "unwound_url": "https://learning.sap.com/learning-journey/getting-started-with-ux?source=social-Global-TWITTER-TrainingEnablement-UX_Design-Fiori-spr-10095096312-ST2%3A_Ecosystem-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10095096312",
+                    "url": "https://t.co/y6HRRGMoYi"
+                },
+                {
+                    "display_url": "pic.twitter.com/GlxgqNLQ37",
+                    "end": 213,
+                    "expanded_url": "https://twitter.com/SAP/status/1661226772090716167/photo/1",
+                    "media_key": "3_1661226769398087685",
+                    "start": 190,
+                    "url": "https://t.co/GlxgqNLQ37"
+                }
+            ]
+        },
+        "id": "1661226772090716167",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 6,
+            "impression_count": 8836,
+            "like_count": 35,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 12
+        },
+        "text": "Develop skills to build simple user interfaces with HTML, CSS, and JavaScript. Learn the principles of SAP Fiori design.\n\nGet started with our free learning journey: https://t.co/y6HRRGMoYi https://t.co/GlxgqNLQ37"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "1610923057626988546": {
+        "author_id": "76117579",
+        "created_at": "2023-01-05T08:56:01.000Z",
+        "edit_history_tweet_ids": [
+            "1610923057626988546"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "SAP",
+                    "probability": 0.8941,
+                    "start": 44,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1610923057626988546",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 22194,
+            "like_count": 111,
+            "quote_count": 3,
+            "reply_count": 2,
+            "retweet_count": 11
+        },
+        "text": "New year, new email sign-off. \n\nBye bestie,\nSAP"
+    }
+}

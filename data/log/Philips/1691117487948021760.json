@@ -1,0 +1,74 @@
+{
+    "1691117487948021760": {
+        "attachments": {
+            "media_keys": [
+                "3_1691117485683052544"
+            ]
+        },
+        "author_id": "819791",
+        "created_at": "2023-08-14T16:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1691117487948021760"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "AI",
+                    "probability": 0.8035,
+                    "start": 20,
+                    "type": "Organization"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "Alan Pitt",
+                    "probability": 0.8875,
+                    "start": 177,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 225,
+                    "start": 214,
+                    "tag": "Healthcare"
+                },
+                {
+                    "end": 248,
+                    "start": 226,
+                    "tag": "DigitalTransformation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "to.philips/6013PidVX",
+                    "end": 211,
+                    "expanded_url": "http://to.philips/6013PidVX",
+                    "start": 188,
+                    "status": 200,
+                    "unwound_url": "https://www.philips.com/a-w/about/news/archive/features/2023/20230801-the-hospital-of-the-future-emerging-trends-and-technologies-q-and-a-with-dr-alan-pitt.html?origin=13_global_en_global+social+ccoe_tw___hum+organic_10991947744_&spid=10991947744&utm_source=tw&utm_medium=organic_social&utm_content=10991947744&utm_campaign=global+social+ccoe",
+                    "url": "https://t.co/eSKzDRLRGS"
+                },
+                {
+                    "display_url": "pic.twitter.com/aoljePxTOo",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/Philips/status/1691117487948021760/photo/1",
+                    "media_key": "3_1691117485683052544",
+                    "start": 249,
+                    "url": "https://t.co/aoljePxTOo"
+                }
+            ]
+        },
+        "id": "1691117487948021760",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1497,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "How will generative AI and other emerging technologies shape the future of hospital care?  \n\nFind out more in this Q&amp;A with neuroradiologist and healthcare entrepreneur Dr. Alan Pitt: https://t.co/eSKzDRLRGS\n \n#Healthcare #DigitalTransformation https://t.co/aoljePxTOo"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "1650881301669376001": {
+        "attachments": {
+            "media_keys": [
+                "13_1650881131976224769"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-04-25T15:15:48.000Z",
+        "edit_history_tweet_ids": [
+            "1650881301669376001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Luton DART",
+                    "probability": 0.5268,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "UK",
+                    "probability": 0.9724,
+                    "start": 157,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 90,
+                    "id": "124219169",
+                    "start": 74,
+                    "username": "LDNLutonAirport"
+                },
+                {
+                    "end": 257,
+                    "id": "930447153532727296",
+                    "start": 245,
+                    "username": "LutonRising"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Arup has played a key role working alongside Luton Rising on Luton DART, assembling a large team of architects, engineers, and specialists to help meet the client\u2019s aspiration for a world class airport experience. Learn more.",
+                    "display_url": "bit.ly/41BbRIB",
+                    "end": 243,
+                    "expanded_url": "https://bit.ly/41BbRIB",
+                    "images": [
+                        {
+                            "height": 1125,
+                            "url": "https://pbs.twimg.com/news_img/1750091141796474880/xUc8UfMk?format=jpg&name=orig",
+                            "width": 2000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1750091141796474880/xUc8UfMk?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 220,
+                    "status": 200,
+                    "title": "Luton DART",
+                    "unwound_url": "https://www.arup.com/projects/dart-london-luton-airport?utm_medium=social&utm_source=twitter&utm_campaign=luton_dart_250423&utm_content=ukimea",
+                    "url": "https://t.co/ONMk3DfLx5"
+                },
+                {
+                    "display_url": "pic.twitter.com/cW2QAyRG0J",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/Arup/status/1650881301669376001/video/1",
+                    "media_key": "13_1650881131976224769",
+                    "start": 258,
+                    "url": "https://t.co/cW2QAyRG0J"
+                }
+            ]
+        },
+        "id": "1650881301669376001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2362,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The Luton DART provides travellers with a speedier and greener journey to @LDNLutonAirport. One major challenge was tunnelling under the live taxiway of the UK\u2019s fifth-busiest airport. Explore how we made this possible: https://t.co/ONMk3DfLx5\n\n@LutonRising https://t.co/cW2QAyRG0J"
+    }
+}

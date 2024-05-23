@@ -1,0 +1,92 @@
+{
+    "1692521810833658277": {
+        "attachments": {
+            "media_keys": [
+                "3_1692521789853753344"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-08-18T13:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1692521810833658277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Mark Fletcher",
+                    "probability": 0.8507,
+                    "start": 3,
+                    "type": "Person"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "WorldWaterWeek",
+                    "probability": 0.7303,
+                    "start": 110,
+                    "type": "Other"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Stockholm",
+                    "probability": 0.9717,
+                    "start": 154,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 124,
+                    "start": 109,
+                    "tag": "WorldWaterWeek"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 256,
+                    "id": "1381949996606558208",
+                    "start": 247,
+                    "username": "siwi_www"
+                },
+                {
+                    "end": 268,
+                    "id": "2989365366",
+                    "start": 257,
+                    "username": "WaterAidBD"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "null",
+                    "display_url": "bit.ly/3yVTWgV",
+                    "end": 245,
+                    "expanded_url": "https://bit.ly/3yVTWgV",
+                    "start": 222,
+                    "status": 200,
+                    "title": "Tickets & Registration",
+                    "unwound_url": "https://www.worldwaterweek.org/tickets",
+                    "url": "https://t.co/yzZRBIJSud"
+                },
+                {
+                    "display_url": "pic.twitter.com/gZMMCr5BNG",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1692521810833658277/photo/1",
+                    "media_key": "3_1692521789853753344",
+                    "start": 269,
+                    "url": "https://t.co/gZMMCr5BNG"
+                }
+            ]
+        },
+        "id": "1692521810833658277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1668,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Dr Mark Fletcher, our Global Water Leader, will join one of the panel discussions at the Opening Ceremony of #WorldWaterWeek, held on Monday 21 August in Stockholm. Register to attend, either in-person or for free online: https://t.co/yzZRBIJSud\n\n@siwi_www @wateraidbd https://t.co/gZMMCr5BNG"
+    }
+}

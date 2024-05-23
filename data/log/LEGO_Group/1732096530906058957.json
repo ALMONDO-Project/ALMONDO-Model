@@ -1,0 +1,45 @@
+{
+    "1732096530906058957": {
+        "author_id": "295325513",
+        "created_at": "2023-12-05T17:56:08.000Z",
+        "edit_history_tweet_ids": [
+            "1732096530906058957"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "LEGO Minifigures",
+                    "probability": 0.5931,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "WOTY23",
+                    "probability": 0.7647,
+                    "start": 52,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 58,
+                    "start": 51,
+                    "tag": "WOTY23"
+                }
+            ]
+        },
+        "id": "1732096530906058957",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 922,
+            "impression_count": 1673640,
+            "like_count": 14089,
+            "quote_count": 935,
+            "reply_count": 732,
+            "retweet_count": 1125
+        },
+        "text": "Rating LEGO Minifigures on how much rizz they have #WOTY23"
+    }
+}

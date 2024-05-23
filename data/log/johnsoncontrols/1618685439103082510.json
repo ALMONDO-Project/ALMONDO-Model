@@ -1,0 +1,60 @@
+{
+    "1618685439103082510": {
+        "attachments": {
+            "media_keys": [
+                "3_1618685434476765196"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-26T19:00:57.000Z",
+        "edit_history_tweet_ids": [
+            "1618685439103082510"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "DOE",
+                    "probability": 0.6088,
+                    "start": 4,
+                    "type": "Organization"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "America\u2019s Schools",
+                    "probability": 0.559,
+                    "start": 16,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3W5qrVo",
+                    "end": 279,
+                    "expanded_url": "https://on.jci.com/3W5qrVo",
+                    "start": 256,
+                    "url": "https://t.co/0ntidJV7Cb"
+                },
+                {
+                    "display_url": "pic.twitter.com/jQe9HchAlx",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1618685439103082510/photo/1",
+                    "media_key": "3_1618685434476765196",
+                    "start": 280,
+                    "url": "https://t.co/jQe9HchAlx"
+                }
+            ]
+        },
+        "id": "1618685439103082510",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 527,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The DOE\u2019s Renew America\u2019s Schools grant is allowing K-12 schools to make strides on their sustainability goals with funding for energy improvements. Learn more about qualifications and how to apply for funding before the January 26 concept paper deadline: https://t.co/0ntidJV7Cb https://t.co/jQe9HchAlx"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "1665999587377573888": {
+        "attachments": {
+            "media_keys": [
+                "13_1665999491248410624"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-06-06T08:30:29.000Z",
+        "edit_history_tweet_ids": [
+            "1665999587377573888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "CircularEconomy",
+                    "probability": 0.6653,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 19,
+                    "tag": "CircularEconomy"
+                },
+                {
+                    "end": 131,
+                    "start": 119,
+                    "tag": "environment"
+                },
+                {
+                    "end": 252,
+                    "start": 235,
+                    "tag": "BuiltEnvironment"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 208,
+                    "id": "874209095380815872",
+                    "start": 193,
+                    "username": "CicularEconomy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3qva9ul",
+                    "end": 233,
+                    "expanded_url": "https://bit.ly/3qva9ul",
+                    "start": 210,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=rWFkLa-QI0s",
+                    "url": "https://t.co/HmwnHXZF6h"
+                },
+                {
+                    "display_url": "pic.twitter.com/NsKjO1VGJ6",
+                    "end": 276,
+                    "expanded_url": "https://twitter.com/Arup/status/1665999587377573888/video/1",
+                    "media_key": "13_1665999491248410624",
+                    "start": 253,
+                    "url": "https://t.co/NsKjO1VGJ6"
+                }
+            ]
+        },
+        "id": "1665999587377573888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2160,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "There are four key #CircularEconomy principles that can help dramatically reduce the built environment\u2019s impact on the #environment. Discover what they are in our latest collaboration with the @ciculareconomy: https://t.co/HmwnHXZF6h\n\n#BuiltEnvironment https://t.co/NsKjO1VGJ6"
+    }
+}

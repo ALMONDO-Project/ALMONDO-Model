@@ -1,0 +1,39 @@
+{
+    "1697470782648070182": {
+        "author_id": "819791",
+        "created_at": "2023-09-01T04:45:46.000Z",
+        "edit_history_tweet_ids": [
+            "1697470782648070182"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "subramaniam",
+                    "probability": 0.5574,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "3315852919",
+                    "start": 0,
+                    "username": "pvsbom"
+                }
+            ]
+        },
+        "id": "1697470782648070182",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@pvsbom Hi p.v.subramaniam, Kindly confirm whether the issue was resolved or not."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1696063335064604768": {
+        "author_id": "295325513",
+        "created_at": "2023-08-28T07:33:05.000Z",
+        "edit_history_tweet_ids": [
+            "1696063335064604768"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "M",
+                    "probability": 0.7284,
+                    "start": 25,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1530761390612484096",
+                    "start": 0,
+                    "username": "ryanpomins"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "LEGO.build/AstonMartinDB5\u2026",
+                    "end": 93,
+                    "expanded_url": "http://LEGO.build/AstonMartinDB5-TW",
+                    "start": 70,
+                    "status": 200,
+                    "unwound_url": "https://www.lego.com/en-us/product/007-aston-martin-db5-76911?cmp=OBS-C88QY3XZ83",
+                    "url": "https://t.co/QcrlD30E6Z"
+                }
+            ]
+        },
+        "id": "1696063335064604768",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 60,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ryanpomins We talked to M, and your wish is granted! Check this out: https://t.co/QcrlD30E6Z. \ud83c\udfce\ufe0f"
+    }
+}

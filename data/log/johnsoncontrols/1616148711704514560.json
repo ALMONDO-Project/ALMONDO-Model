@@ -1,0 +1,74 @@
+{
+    "1616148711704514560": {
+        "attachments": {
+            "media_keys": [
+                "3_1616148709649022990"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-19T19:00:54.000Z",
+        "edit_history_tweet_ids": [
+            "1616148711704514560"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "Metasys",
+                    "probability": 0.6161,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "Environment",
+                    "probability": 0.5421,
+                    "start": 130,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "AHRexpo",
+                    "probability": 0.7523,
+                    "start": 220,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 227,
+                    "start": 219,
+                    "tag": "AHRexpo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3QMi13Z",
+                    "end": 278,
+                    "expanded_url": "https://on.jci.com/3QMi13Z",
+                    "start": 255,
+                    "url": "https://t.co/I87oQa2nWG"
+                },
+                {
+                    "display_url": "pic.twitter.com/D0DnwS85Io",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1616148711704514560/photo/1",
+                    "media_key": "3_1616148709649022990",
+                    "start": 279,
+                    "url": "https://t.co/D0DnwS85Io"
+                }
+            ]
+        },
+        "id": "1616148711704514560",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 624,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "A door opens in your hospital lab. How quickly can your BAS respond to the disturbance in room pressure? The new Metasys Critical Environment Controller responds in milliseconds. Get a preview now, then check it out at #AHRexpo, Feb. 6-8, in booth C5442: https://t.co/I87oQa2nWG https://t.co/D0DnwS85Io"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "1617454686197383169": {
+        "attachments": {
+            "media_keys": [
+                "3_1617454601925427205",
+                "3_1617454622959976448",
+                "3_1617454643931381763",
+                "3_1617454665028837379"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-23T09:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1617454686197383169"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Taipei Performing Arts Centre",
+                    "probability": 0.6905,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "Arup Journal",
+                    "probability": 0.7964,
+                    "start": 216,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 265,
+                    "start": 255,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 274,
+                    "start": 266,
+                    "tag": "Digital"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3HfEOAX",
+                    "end": 253,
+                    "expanded_url": "https://bit.ly/3HfEOAX",
+                    "start": 230,
+                    "url": "https://t.co/dJX3aUPjtN"
+                },
+                {
+                    "display_url": "pic.twitter.com/rkDU0IQkMJ",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1617454686197383169/photo/1",
+                    "media_key": "3_1617454601925427205",
+                    "start": 275,
+                    "url": "https://t.co/rkDU0IQkMJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/rkDU0IQkMJ",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1617454686197383169/photo/1",
+                    "media_key": "3_1617454622959976448",
+                    "start": 275,
+                    "url": "https://t.co/rkDU0IQkMJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/rkDU0IQkMJ",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1617454686197383169/photo/1",
+                    "media_key": "3_1617454643931381763",
+                    "start": 275,
+                    "url": "https://t.co/rkDU0IQkMJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/rkDU0IQkMJ",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1617454686197383169/photo/1",
+                    "media_key": "3_1617454665028837379",
+                    "start": 275,
+                    "url": "https://t.co/rkDU0IQkMJ"
+                }
+            ]
+        },
+        "id": "1617454686197383169",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2868,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "The innovatively designed Taipei Performing Arts Centre's unique configuration was inspired by a traditional Chinese wood block puzzle. Discover more about this versatile performance space in the latest issue of the Arup Journal: https://t.co/dJX3aUPjtN\n\n#WeAreArup #Digital https://t.co/rkDU0IQkMJ"
+    }
+}

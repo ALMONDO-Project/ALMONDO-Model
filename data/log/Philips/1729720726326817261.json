@@ -1,0 +1,51 @@
+{
+    "1729720726326817261": {
+        "author_id": "819791",
+        "created_at": "2023-11-29T04:35:32.000Z",
+        "edit_history_tweet_ids": [
+            "1729720726326817261"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "Sunish",
+                    "probability": 0.7372,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1231490837093195778",
+                    "start": 0,
+                    "username": "SP14283950"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "to.philips/6019RBst9",
+                    "end": 249,
+                    "expanded_url": "http://to.philips/6019RBst9",
+                    "start": 226,
+                    "status": 200,
+                    "title": "Delhivery Tracking",
+                    "unwound_url": "https://www.delhivery.com/track/package/13332110123281",
+                    "url": "https://t.co/Wzn7i76xAs"
+                }
+            ]
+        },
+        "id": "1729720726326817261",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@SP14283950 Hi Sunish, As per the update the order is in transit, and you may track the order through the mentioned link. Also, please confirm whether you received the refund amount for previous order or not.\n\nTracking link:- https://t.co/Wzn7i76xAs"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "1620346680699666432": {
+        "attachments": {
+            "media_keys": [
+                "13_1620346649460588544"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-01-31T09:02:07.000Z",
+        "edit_history_tweet_ids": [
+            "1620346680699666432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 170,
+                    "normalized_text": "SAP S/",
+                    "probability": 0.4968,
+                    "start": 165,
+                    "type": "Other"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "4HANA Cloud",
+                    "probability": 0.4722,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 131,
+                    "id": "244208860",
+                    "start": 121,
+                    "username": "BeSchulze"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60193df8l",
+                    "end": 223,
+                    "expanded_url": "https://sap.to/60193df8l",
+                    "start": 200,
+                    "url": "https://t.co/1GwN1qo0QO"
+                },
+                {
+                    "display_url": "pic.twitter.com/Q61T3JXDJW",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/SAP/status/1620346680699666432/video/1",
+                    "media_key": "13_1620346649460588544",
+                    "start": 224,
+                    "url": "https://t.co/Q61T3JXDJW"
+                }
+            ]
+        },
+        "id": "1620346680699666432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3733,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "New capabilities to improve productivity. \n\nEasier ways to collaborate across teams. \n\nLearn about the new features from @BeSchulze offered in the latest release of SAP S/4HANA Cloud, public edition: https://t.co/1GwN1qo0QO https://t.co/Q61T3JXDJW"
+    }
+}

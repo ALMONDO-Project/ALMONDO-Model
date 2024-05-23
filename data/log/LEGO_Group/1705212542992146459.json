@@ -1,0 +1,39 @@
+{
+    "1705212542992146459": {
+        "author_id": "295325513",
+        "created_at": "2023-09-22T13:28:46.000Z",
+        "edit_history_tweet_ids": [
+            "1705212542992146459"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "feline",
+                    "probability": 0.4877,
+                    "start": 52,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1520168763810889728",
+                    "start": 0,
+                    "username": "CarenHarkins1"
+                }
+            ]
+        },
+        "id": "1705212542992146459",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 782,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "@CarenHarkins1 The superpower of play will have you feline good!\u26a1\ud83d\ude3b"
+    }
+}

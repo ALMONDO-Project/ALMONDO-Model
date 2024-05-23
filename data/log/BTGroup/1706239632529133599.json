@@ -1,0 +1,70 @@
+{
+    "1706239632529133599": {
+        "author_id": "517741511",
+        "created_at": "2023-09-25T09:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1706239632529133599"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "BTea Rooms",
+                    "probability": 0.6426,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "BTea",
+                    "probability": 0.5562,
+                    "start": 168,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Birmingham",
+                    "probability": 0.9059,
+                    "start": 193,
+                    "type": "Place"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Glasgow",
+                    "probability": 0.9743,
+                    "start": 205,
+                    "type": "Place"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "Bournemouth",
+                    "probability": 0.9499,
+                    "start": 217,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bt.com/btearooms",
+                    "end": 272,
+                    "expanded_url": "http://bt.com/btearooms",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.bt.com/about/digital-impact-and-sustainability/building-better-digital-lives/the-btea-rooms",
+                    "url": "https://t.co/qLBmKYkH7R"
+                }
+            ]
+        },
+        "id": "1706239632529133599",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2024,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 6,
+            "retweet_count": 2
+        },
+        "text": "The BTea Rooms are here to boost your digital skills over a cuppa. With tea and cake on us, join an upcoming session for over 65s. \n\nThrough September and October, the BTea Rooms are coming to Birmingham, Glasgow and Bournemouth. \n\nSign up today \ud83d\udd3d  https://t.co/qLBmKYkH7R"
+    }
+}

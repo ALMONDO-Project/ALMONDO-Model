@@ -1,0 +1,39 @@
+{
+    "1704140406626140319": {
+        "author_id": "819791",
+        "created_at": "2023-09-19T14:28:28.000Z",
+        "edit_history_tweet_ids": [
+            "1704140406626140319"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Diana",
+                    "probability": 0.6387,
+                    "start": 18,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1014517771676405760",
+                    "start": 0,
+                    "username": "dianamarietoo"
+                }
+            ]
+        },
+        "id": "1704140406626140319",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@dianamarietoo Hi Diana, we are sorry that you feel this way. Could you please elaborate on the issue you are experiencing? Please feel free to send us a private message, and we will do our best to help you further. Hope to speak to you soon."
+    }
+}

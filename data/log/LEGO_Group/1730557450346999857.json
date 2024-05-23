@@ -1,0 +1,76 @@
+{
+    "1730557450346999857": {
+        "attachments": {
+            "media_keys": [
+                "7_1730557422836518912"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-01T12:00:23.000Z",
+        "edit_history_tweet_ids": [
+            "1730557450346999857"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "LEGO Icons",
+                    "probability": 0.3544,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "Natural History Museum",
+                    "probability": 0.5879,
+                    "start": 91,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Enjoy a creative building project with the LEGO\u00ae Icons Natural History Museum set for adults \u2013 a great gift idea for fans of history and science",
+                    "display_url": "lego.build/Museum",
+                    "end": 155,
+                    "expanded_url": "https://lego.build/Museum",
+                    "images": [
+                        {
+                            "height": 893,
+                            "url": "https://pbs.twimg.com/news_img/1730557473491230720/8Bkdi7Ld?format=jpg&name=orig",
+                            "width": 1500
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1730557473491230720/8Bkdi7Ld?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 132,
+                    "status": 200,
+                    "title": "Natural History Museum 10326 | LEGO\u00ae Icons | Buy online at the Official LEGO\u00ae Shop US",
+                    "unwound_url": "https://www.lego.com/en-us/product/natural-history-museum-10326?cmp=OBS-META-GL-LRExclusiveProductLaunch-10326-reveal",
+                    "url": "https://t.co/sAaCRfnmzM"
+                },
+                {
+                    "display_url": "pic.twitter.com/ajbA7xaIgt",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1730557450346999857/video/1",
+                    "media_key": "7_1730557422836518912",
+                    "start": 156,
+                    "url": "https://t.co/ajbA7xaIgt"
+                }
+            ]
+        },
+        "id": "1730557450346999857",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 39,
+            "impression_count": 171199,
+            "like_count": 1175,
+            "quote_count": 23,
+            "reply_count": 29,
+            "retweet_count": 132
+        },
+        "text": "A 4,014-piece of history. Curate an experience like no other, with the wondrous LEGO Icons Natural History Museum. \nBook your trip: https://t.co/sAaCRfnmzM https://t.co/ajbA7xaIgt"
+    }
+}

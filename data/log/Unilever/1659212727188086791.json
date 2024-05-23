@@ -1,0 +1,45 @@
+{
+    "1659212727188086791": {
+        "author_id": "109224937",
+        "created_at": "2023-05-18T15:01:55.000Z",
+        "edit_history_tweet_ids": [
+            "1659212727188086791"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Indonesia",
+                    "probability": 0.9832,
+                    "start": 3,
+                    "type": "Place"
+                },
+                {
+                    "end": 102,
+                    "normalized_text": "Lifebuoy",
+                    "probability": 0.5577,
+                    "start": 95,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 237,
+                    "start": 222,
+                    "tag": "OurCleanFuture"
+                }
+            ]
+        },
+        "id": "1659212727188086791",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2006,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 6
+        },
+        "text": "In Indonesia, value-conscious consumers want trusted cleaning products at affordable prices. \n\nLifebuoy is delivering both with its first-ever dishwash liquid. \n\nRead why this is such an important launch for the brand.  \n\n#OurCleanFuture"
+    }
+}

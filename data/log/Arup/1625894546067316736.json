@@ -1,0 +1,74 @@
+{
+    "1625894546067316736": {
+        "author_id": "67339136",
+        "created_at": "2023-02-15T16:27:22.000Z",
+        "edit_history_tweet_ids": [
+            "1625894546067316736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "Nigel Tonks",
+                    "probability": 0.7463,
+                    "start": 39,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 212,
+                    "start": 202,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 228,
+                    "start": 213,
+                    "tag": "Sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 127,
+                    "id": "339567848",
+                    "start": 111,
+                    "username": "Clean_Energy_SC"
+                },
+                {
+                    "end": 146,
+                    "id": "727836873201229824",
+                    "start": 132,
+                    "username": "OpenExpEnergy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3RYjLYp",
+                    "end": 200,
+                    "expanded_url": "https://bit.ly/3RYjLYp",
+                    "start": 177,
+                    "unwound_url": "https://bit.ly/3RYjLYp",
+                    "url": "https://t.co/Zk2ikWj1Yi"
+                },
+                {
+                    "display_url": "x.com/Clean_Energy_S\u2026",
+                    "end": 252,
+                    "expanded_url": "https://twitter.com/Clean_Energy_SC/status/1625208902794022923",
+                    "start": 229,
+                    "url": "https://t.co/9iztw0mhhs"
+                }
+            ]
+        },
+        "id": "1625894546067316736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2728,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Join our Sustainable Development Lead, Nigel Tonks, for a webinar on climate mitigation and findings hosted by @Clean_Energy_SC and @OpenExpEnergy this Thursday. Register here: https://t.co/Zk2ikWj1Yi\n\n#WeAreArup #Sustainability https://t.co/9iztw0mhhs"
+    }
+}

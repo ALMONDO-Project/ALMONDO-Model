@@ -1,0 +1,67 @@
+{
+    "1731346820331127011": {
+        "author_id": "295325513",
+        "created_at": "2023-12-03T16:17:03.000Z",
+        "edit_history_tweet_ids": [
+            "1731346820331127011"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "LEGO",
+                    "probability": 0.7995,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 25,
+                    "normalized_text": "Fortnite",
+                    "probability": 0.907,
+                    "start": 18,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "E10",
+                    "probability": 0.4831,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "ESRB",
+                    "probability": 0.7277,
+                    "start": 48,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "Fortnite",
+                    "probability": 0.9768,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "113520883",
+                    "start": 0,
+                    "username": "MintSparkle"
+                }
+            ]
+        },
+        "id": "1731346820331127011",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7496,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@MintSparkle LEGO Fortnite is rated E10+ by the ESRB, and will launch inside Fortnite. Don't worry, more info is coming on December 7! \ud83d\ude0a"
+    }
+}

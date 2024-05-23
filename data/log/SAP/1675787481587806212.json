@@ -1,0 +1,50 @@
+{
+    "1675787481587806212": {
+        "author_id": "76117579",
+        "created_at": "2023-07-03T08:44:04.000Z",
+        "edit_history_tweet_ids": [
+            "1675787481587806212"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "SAP",
+                    "probability": 0.7721,
+                    "start": 41,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "858166693683580929",
+                    "start": 0,
+                    "username": "sumitsumit698"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6018P1UJY",
+                    "end": 104,
+                    "expanded_url": "https://sap.to/6018P1UJY",
+                    "start": 81,
+                    "status": 403,
+                    "unwound_url": "https://partneredge.sap.com/content/partnerfinder/search.html?source=social-Global-TWITTER-AudienceEngagement-TSEeng-spr-10593647664-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10593647664#/",
+                    "url": "https://t.co/rDlZvuXvZz"
+                }
+            ]
+        },
+        "id": "1675787481587806212",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sumitsumit698 Thanks for your question. SAP Partner Finder is a great resource: https://t.co/rDlZvuXvZz. Use the filters by the partner type, specific location needed, solutions supported and industry to find the right partner who can help with your implementation needs."
+    }
+}

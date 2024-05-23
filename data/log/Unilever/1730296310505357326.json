@@ -1,0 +1,82 @@
+{
+    "1730296310505357326": {
+        "author_id": "109224937",
+        "created_at": "2023-11-30T18:42:42.000Z",
+        "edit_history_tweet_ids": [
+            "1730296310505357326"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "COP28",
+                    "probability": 0.96,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Dubai",
+                    "probability": 0.9954,
+                    "start": 28,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 3,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 157,
+                    "start": 140,
+                    "tag": "UnileverInsights"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "COP 28: Discover why we\u2019re calling for governments to put energy, nature, farming and chemicals higher on the agenda in the push to combat climate change.",
+                    "display_url": "unilever.com/news/news-sear\u2026",
+                    "end": 138,
+                    "expanded_url": "https://www.unilever.com/news/news-search/2023/our-call-for-climate-action-cop28-agenda/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Sustainability_ClimateComms_COP28_2023&utm_content=static_SM1",
+                    "images": [
+                        {
+                            "height": 630,
+                            "url": "https://pbs.twimg.com/news_img/1737101120496074752/ZIjiLpV9?format=jpg&name=orig",
+                            "width": 1200
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1737101120496074752/ZIjiLpV9?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 115,
+                    "status": 200,
+                    "title": "COP28: We\u2019re calling for urgent climate action | Unilever",
+                    "unwound_url": "https://www.unilever.com/news/news-search/2023/our-call-for-climate-action-cop28-agenda/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Sustainability_ClimateComms_COP28_2023&utm_content=static_SM1",
+                    "url": "https://t.co/YXYWXw3Z10"
+                },
+                {
+                    "display_url": "x.com/Unilever/statu\u2026",
+                    "end": 181,
+                    "expanded_url": "https://twitter.com/Unilever/status/1724087664389812436",
+                    "start": 158,
+                    "url": "https://t.co/JCgTkhTeEZ"
+                }
+            ]
+        },
+        "id": "1730296310505357326",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6516,
+            "like_count": 66,
+            "quote_count": 3,
+            "reply_count": 12,
+            "retweet_count": 28
+        },
+        "text": "As #COP28 begins, we are in Dubai calling on governments to urgently accelerate climate action. \n\nRead more here: \nhttps://t.co/YXYWXw3Z10\n\n#UnileverInsights https://t.co/JCgTkhTeEZ"
+    }
+}

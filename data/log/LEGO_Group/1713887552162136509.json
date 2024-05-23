@@ -1,0 +1,58 @@
+{
+    "1713887552162136509": {
+        "attachments": {
+            "media_keys": [
+                "3_1713887549783965696"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-10-16T12:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1713887552162136509"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "TheOffice",
+                    "probability": 0.7637,
+                    "start": 41,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 29,
+                    "tag": "BossesDay"
+                },
+                {
+                    "end": 50,
+                    "start": 40,
+                    "tag": "TheOffice"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FvaEZx9mZg",
+                    "end": 74,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1713887552162136509/photo/1",
+                    "media_key": "3_1713887549783965696",
+                    "start": 51,
+                    "url": "https://t.co/FvaEZx9mZg"
+                }
+            ]
+        },
+        "id": "1713887552162136509",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 36,
+            "impression_count": 215984,
+            "like_count": 2994,
+            "quote_count": 26,
+            "reply_count": 51,
+            "retweet_count": 253
+        },
+        "text": "Today is all about this guy. #BossesDay #TheOffice https://t.co/FvaEZx9mZg"
+    }
+}

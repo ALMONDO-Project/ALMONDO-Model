@@ -1,0 +1,39 @@
+{
+    "1738431641842803051": {
+        "author_id": "819791",
+        "created_at": "2023-12-23T05:29:36.000Z",
+        "edit_history_tweet_ids": [
+            "1738431641842803051"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Mohan",
+                    "probability": 0.486,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "363144432",
+                    "start": 0,
+                    "username": "VivekGmail"
+                }
+            ]
+        },
+        "id": "1738431641842803051",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@VivekGmail Hi Dr. Mohan, As per the service team updates a spare part(Lamp) is defective and need to be replaced in the product. The team has received the required part, and it will be replaced by today."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1702708663780004051": {
+        "author_id": "819791",
+        "created_at": "2023-09-15T15:39:14.000Z",
+        "edit_history_tweet_ids": [
+            "1702708663780004051"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Allan",
+                    "probability": 0.7566,
+                    "start": 17,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "113467971",
+                    "start": 0,
+                    "username": "AllanJohnMacedo"
+                }
+            ]
+        },
+        "id": "1702708663780004051",
+        "lang": "pt",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@AllanJohnMacedo Allan, qual o modelo do seu produto e o que aconteceu?"
+    }
+}

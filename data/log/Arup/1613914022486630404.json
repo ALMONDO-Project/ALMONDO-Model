@@ -1,0 +1,99 @@
+{
+    "1613914022486630404": {
+        "attachments": {
+            "media_keys": [
+                "13_1613913905293627394"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-13T15:01:02.000Z",
+        "edit_history_tweet_ids": [
+            "1613914022486630404"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "Milan",
+                    "probability": 0.6358,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "UrbanRegeneration",
+                    "probability": 0.4581,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Milan",
+                    "probability": 0.585,
+                    "start": 66,
+                    "type": "Organization"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "NetZero",
+                    "probability": 0.5363,
+                    "start": 130,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 19,
+                    "tag": "UrbanRegeneration"
+                },
+                {
+                    "end": 137,
+                    "start": 129,
+                    "tag": "NetZero"
+                },
+                {
+                    "end": 269,
+                    "start": 254,
+                    "tag": "Sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 200,
+                    "id": "617682795",
+                    "start": 190,
+                    "username": "Lendlease"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3itxjh6",
+                    "end": 252,
+                    "expanded_url": "https://bit.ly/3itxjh6",
+                    "start": 229,
+                    "url": "https://t.co/jUr1QIEPt1"
+                },
+                {
+                    "display_url": "pic.twitter.com/IaxhlNbIUw",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/Arup/status/1613914022486630404/video/1",
+                    "media_key": "13_1613913905293627394",
+                    "start": 270,
+                    "url": "https://t.co/IaxhlNbIUw"
+                }
+            ]
+        },
+        "id": "1613914022486630404",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2001,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Milan\u2019s MIND is an #UrbanRegeneration project that will transform Milan\u2019s former international exhibition site into a mixed-use, #NetZero innovation district.\u202fLearn more about our work with @lendlease on this innovative project:\u202fhttps://t.co/jUr1QIEPt1\n\n#Sustainability https://t.co/IaxhlNbIUw"
+    }
+}

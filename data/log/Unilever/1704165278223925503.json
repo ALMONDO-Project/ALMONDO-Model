@@ -1,0 +1,51 @@
+{
+    "1704165278223925503": {
+        "author_id": "109224937",
+        "created_at": "2023-09-19T16:07:18.000Z",
+        "edit_history_tweet_ids": [
+            "1704165278223925503"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 198,
+                    "normalized_text": "Unilever",
+                    "probability": 0.4694,
+                    "start": 191,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 235,
+                    "start": 220,
+                    "tag": "ClimateWeekNYC"
+                },
+                {
+                    "end": 256,
+                    "start": 239,
+                    "tag": "UnileverInsights"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 170,
+                    "id": "82345106",
+                    "start": 155,
+                    "username": "TheSmithSchool"
+                }
+            ]
+        },
+        "id": "1704165278223925503",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3551,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 15,
+            "retweet_count": 4
+        },
+        "text": "A new report identifying the policy interventions needed to address the carbon emissions of everyday cleaning, laundry and home care products \u2013 written by @TheSmithSchool in partnership with Unilever \u2013 launches today at #ClimateWeekNYC. \n\n#UnileverInsights"
+    }
+}

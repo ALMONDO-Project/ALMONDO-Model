@@ -1,0 +1,43 @@
+{
+    "1739983181858869344": {
+        "attachments": {
+            "poll_ids": [
+                "1739983181476966400"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-27T12:14:52.000Z",
+        "edit_history_tweet_ids": [
+            "1739983181858869344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.8237,
+                    "start": 11,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 23,
+                    "start": 10,
+                    "tag": "LEGOBuildDay"
+                }
+            ]
+        },
+        "id": "1739983181858869344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 86497,
+            "like_count": 194,
+            "quote_count": 6,
+            "reply_count": 8,
+            "retweet_count": 11
+        },
+        "text": "Today was #LEGOBuildDay?"
+    }
+}

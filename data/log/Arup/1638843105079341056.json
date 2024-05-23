@@ -1,0 +1,67 @@
+{
+    "1638843105079341056": {
+        "attachments": {
+            "media_keys": [
+                "13_1638843061537996800"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-23T10:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1638843105079341056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "MTR",
+                    "probability": 0.5047,
+                    "start": 32,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Hong Kong",
+                    "probability": 0.9884,
+                    "start": 82,
+                    "type": "Place"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "MTR",
+                    "probability": 0.4809,
+                    "start": 227,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3lGKBbE",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3lGKBbE",
+                    "start": 256,
+                    "url": "https://t.co/OJsgK6gjjp"
+                },
+                {
+                    "display_url": "pic.twitter.com/g4X803Cno6",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1638843105079341056/video/1",
+                    "media_key": "13_1638843061537996800",
+                    "start": 280,
+                    "url": "https://t.co/g4X803Cno6"
+                }
+            ]
+        },
+        "id": "1638843105079341056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2010,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "As a public transport operator, MTR serves almost four million commuters daily in Hong Kong and is a major operator of sustainable rail transport services around the world \u2013 making the decarbonisation strategy we developed for MTR a global one. Read more: https://t.co/OJsgK6gjjp https://t.co/g4X803Cno6"
+    }
+}

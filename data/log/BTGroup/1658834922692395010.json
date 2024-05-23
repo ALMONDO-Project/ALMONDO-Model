@@ -1,0 +1,46 @@
+{
+    "1658834922692395010": {
+        "attachments": {
+            "media_keys": [
+                "3_1658834901397807105"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-05-17T14:00:39.000Z",
+        "edit_history_tweet_ids": [
+            "1658834922692395010"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 92,
+                    "normalized_text": "BT Group",
+                    "probability": 0.7636,
+                    "start": 85,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/lT920ufrIR",
+                    "end": 161,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1658834922692395010/photo/1",
+                    "media_key": "3_1658834901397807105",
+                    "start": 138,
+                    "url": "https://t.co/lT920ufrIR"
+                }
+            ]
+        },
+        "id": "1658834922692395010",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1247,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Join us tomorrow morning for our full year financial results, providing an update on BT Group\u2019s performance over the past financial year. https://t.co/lT920ufrIR"
+    }
+}

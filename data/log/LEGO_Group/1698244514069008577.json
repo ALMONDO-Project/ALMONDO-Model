@@ -1,0 +1,79 @@
+{
+    "1698244514069008577": {
+        "attachments": {
+            "media_keys": [
+                "7_1698244490421477376"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-03T08:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1698244514069008577"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "LEGO Life Magazine",
+                    "probability": 0.7838,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "LEGO",
+                    "probability": 0.3693,
+                    "start": 202,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 206,
+                    "start": 201,
+                    "tag": "LEGO"
+                },
+                {
+                    "end": 212,
+                    "start": 207,
+                    "tag": "Calm"
+                },
+                {
+                    "end": 217,
+                    "start": 213,
+                    "tag": "Zen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lego.com/magazine?cmp=O\u2026",
+                    "end": 174,
+                    "expanded_url": "https://lego.com/magazine?cmp=OBS-TW-GL-DCE-LLMagTwitter",
+                    "start": 151,
+                    "status": 200,
+                    "unwound_url": "https://www.lego.com/en-us/life/magazine?cmp=OBS-TW-GL-DCE-LLMagTwitter",
+                    "url": "https://t.co/VgEywAd9qd"
+                },
+                {
+                    "display_url": "pic.twitter.com/Dq4GhrX7Oj",
+                    "end": 241,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1698244514069008577/video/1",
+                    "media_key": "7_1698244490421477376",
+                    "start": 218,
+                    "url": "https://t.co/Dq4GhrX7Oj"
+                }
+            ]
+        },
+        "id": "1698244514069008577",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 9,
+            "impression_count": 105042,
+            "like_count": 297,
+            "quote_count": 1,
+            "reply_count": 8,
+            "retweet_count": 33
+        },
+        "text": "Free LEGO Life Magazine for them, free time for you! Sign up by September 4th to receive your family\u2019s copy \u2013 full of activities, games and puzzles! \ud83d\ude0c\nhttps://t.co/VgEywAd9qd \n\nSelected markets only.\n\n#LEGO #Calm #Zen https://t.co/Dq4GhrX7Oj"
+    }
+}

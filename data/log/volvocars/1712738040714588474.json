@@ -1,0 +1,39 @@
+{
+    "1712738040714588474": {
+        "author_id": "342772500",
+        "created_at": "2023-10-13T07:52:24.000Z",
+        "edit_history_tweet_ids": [
+            "1712738040714588474"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "Jade",
+                    "probability": 0.9154,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "44247905",
+                    "start": 0,
+                    "username": "ElmarNY"
+                }
+            ]
+        },
+        "id": "1712738040714588474",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 141,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ElmarNY Hi there, we are sorry to hear this. Please can you send us a direct message? /Jade"
+    }
+}

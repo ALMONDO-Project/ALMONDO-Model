@@ -1,0 +1,83 @@
+{
+    "1697528586553405777": {
+        "attachments": {
+            "media_keys": [
+                "13_1697528470543192064"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-09-01T08:35:28.000Z",
+        "edit_history_tweet_ids": [
+            "1697528586553405777"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "Neil Harwood",
+                    "probability": 0.9715,
+                    "start": 94,
+                    "type": "Person"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "UrbanHeat",
+                    "probability": 0.639,
+                    "start": 224,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 233,
+                    "start": 223,
+                    "tag": "UrbanHeat"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Our cities are getting hotter. Using a unique digital solution - UHeat - we have developed the Urban Heat Snapshot, are report revealing how the urban heat island effect is pushing up the heat of our cities.",
+                    "display_url": "bit.ly/3YUSv0t",
+                    "end": 272,
+                    "expanded_url": "https://bit.ly/3YUSv0t",
+                    "images": [
+                        {
+                            "height": 1125,
+                            "url": "https://pbs.twimg.com/news_img/1774989783393026049/TYdV_dWL?format=jpg&name=orig",
+                            "width": 2000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1774989783393026049/TYdV_dWL?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 249,
+                    "status": 200,
+                    "title": "Urban Heat Snapshot - Arup",
+                    "unwound_url": "https://www.arup.com/perspectives/publications/research/section/urban-heat-snapshot?utm_medium=social&utm_source=twitter&utm_campaign=pre_urban_heat_-_neil_harwood_010923&utm_content=global",
+                    "url": "https://t.co/o9DTXSv7MW"
+                },
+                {
+                    "display_url": "pic.twitter.com/Q9wNh01oTk",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1697528586553405777/video/1",
+                    "media_key": "13_1697528470543192064",
+                    "start": 273,
+                    "url": "https://t.co/Q9wNh01oTk"
+                }
+            ]
+        },
+        "id": "1697528586553405777",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2069,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 7
+        },
+        "text": "How can we make our cities less stressful for nature? Our Biodiversity and Nature Specialist, Neil Harwood, says that the key lies in choosing diverse ecosystems over traditional lollipop trees and mown lawns. Download our #UrbanHeat Snapshot here: https://t.co/o9DTXSv7MW https://t.co/Q9wNh01oTk"
+    }
+}

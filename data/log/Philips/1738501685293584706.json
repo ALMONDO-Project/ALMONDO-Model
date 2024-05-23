@@ -1,0 +1,39 @@
+{
+    "1738501685293584706": {
+        "author_id": "819791",
+        "created_at": "2023-12-23T10:07:56.000Z",
+        "edit_history_tweet_ids": [
+            "1738501685293584706"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Mohan",
+                    "probability": 0.4326,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "363144432",
+                    "start": 0,
+                    "username": "VivekGmail"
+                }
+            ]
+        },
+        "id": "1738501685293584706",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@VivekGmail Hi Dr. Mohan, The service team replaced the part(Lamp) but the issue was not resolved, so the team will replace the display PCB and main board, and it will be replaced by 27th Dec."
+    }
+}

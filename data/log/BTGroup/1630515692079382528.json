@@ -1,0 +1,82 @@
+{
+    "1630515692079382528": {
+        "attachments": {
+            "media_keys": [
+                "7_1630509329202790405"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-28T10:30:09.000Z",
+        "edit_history_tweet_ids": [
+            "1630515692079382528"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "BT Group",
+                    "probability": 0.8379,
+                    "start": 18,
+                    "type": "Organization"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "UK",
+                    "probability": 0.8757,
+                    "start": 52,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "BT Group",
+                    "probability": 0.5573,
+                    "start": 176,
+                    "type": "Organization"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "UK",
+                    "probability": 0.9687,
+                    "start": 230,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 151,
+                    "id": "137757414",
+                    "start": 139,
+                    "username": "HATCHglobal"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.bt.com/bt-group-adds-\u2026",
+                    "end": 279,
+                    "expanded_url": "https://newsroom.bt.com/bt-group-adds-24-billion-to-wider-uk-economy/",
+                    "start": 256,
+                    "url": "https://t.co/IIN9nwhoBF"
+                },
+                {
+                    "display_url": "pic.twitter.com/G2KZtMCCtu",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1630515692079382528/video/1",
+                    "media_key": "7_1630509329202790405",
+                    "start": 280,
+                    "url": "https://t.co/G2KZtMCCtu"
+                }
+            ]
+        },
+        "id": "1630515692079382528",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2157,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 6
+        },
+        "text": "The activities of BT Group added \u00a324bn to the wider UK economy last year and supported nearly 300,000 jobs, according to a new report from @HATCHglobal.\n\nThe report highlights BT Group\u2019s presence in every nation and region in the UK.\nRead the full report: https://t.co/IIN9nwhoBF https://t.co/G2KZtMCCtu"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1687221072423202816": {
+        "author_id": "819791",
+        "created_at": "2023-08-03T21:57:05.000Z",
+        "edit_history_tweet_ids": [
+            "1687221072423202816"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Nick",
+                    "probability": 0.5742,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "Facebook",
+                    "probability": 0.9347,
+                    "start": 141,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Twitter",
+                    "probability": 0.9546,
+                    "start": 153,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "373912768",
+                    "start": 0,
+                    "username": "cheees3"
+                }
+            ]
+        },
+        "id": "1687221072423202816",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@cheees3 Hi there, Nick. We'd like to know if you still need assistance. Please leave us a private message with your country of residence on Facebook or Twitter. Talk to you soon. \ud83c\udf38"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "1740462846633230767": {
+        "author_id": "295325513",
+        "created_at": "2023-12-28T20:00:53.000Z",
+        "edit_history_tweet_ids": [
+            "1740462846633230767"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "counter",
+                    "probability": 0.4467,
+                    "start": 8,
+                    "type": "Other"
+                }
+            ]
+        },
+        "id": "1740462846633230767",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 86087,
+            "like_count": 310,
+            "quote_count": 1,
+            "reply_count": 11,
+            "retweet_count": 8
+        },
+        "text": "Kitchen counter"
+    }
+}

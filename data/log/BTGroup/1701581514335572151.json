@@ -1,0 +1,106 @@
+{
+    "1701581514335572151": {
+        "attachments": {
+            "media_keys": [
+                "3_1701579179291029504",
+                "3_1701579604723425280",
+                "3_1701579179953635328"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-09-12T13:00:21.000Z",
+        "edit_history_tweet_ids": [
+            "1701581395691212992",
+            "1701581514335572151"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Morocco",
+                    "probability": 0.9641,
+                    "start": 58,
+                    "type": "Place"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "UK",
+                    "probability": 0.9514,
+                    "start": 235,
+                    "type": "Place"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "Morocco",
+                    "probability": 0.9607,
+                    "start": 241,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 80,
+                    "id": "118750085",
+                    "start": 74,
+                    "username": "bt_uk"
+                },
+                {
+                    "end": 85,
+                    "id": "7117212",
+                    "start": 82,
+                    "username": "EE"
+                },
+                {
+                    "end": 98,
+                    "id": "861189925",
+                    "start": 90,
+                    "username": "Plusnet"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/i/web/status/1701581514335572151",
+                    "start": 277,
+                    "url": "https://t.co/aGn8S0isUj"
+                },
+                {
+                    "display_url": "pic.twitter.com/BaWsXdsm3b",
+                    "end": 324,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1701581514335572151/photo/1",
+                    "media_key": "3_1701579179291029504",
+                    "start": 301,
+                    "url": "https://t.co/BaWsXdsm3b"
+                },
+                {
+                    "display_url": "pic.twitter.com/BaWsXdsm3b",
+                    "end": 324,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1701581514335572151/photo/1",
+                    "media_key": "3_1701579604723425280",
+                    "start": 301,
+                    "url": "https://t.co/BaWsXdsm3b"
+                },
+                {
+                    "display_url": "pic.twitter.com/BaWsXdsm3b",
+                    "end": 324,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1701581514335572151/photo/1",
+                    "media_key": "3_1701579179953635328",
+                    "start": 301,
+                    "url": "https://t.co/BaWsXdsm3b"
+                }
+            ]
+        },
+        "id": "1701581514335572151",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1018,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "We\u2019re crediting back mobile calls, texts and data used in Morocco for all @bt_uk, @EE and @Plusnet customers between 6pm BST 8 September and 6pm BST 12 September.\n\nWe\u2019re also crediting back both mobile and landline calls made from the UK to Morocco in the same period.\n\nWe\u2019re\u2026 https://t.co/aGn8S0isUj https://t.co/BaWsXdsm3b"
+    }
+}

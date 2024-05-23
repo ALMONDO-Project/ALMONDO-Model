@@ -1,0 +1,53 @@
+{
+    "1612091276870000647": {
+        "attachments": {
+            "media_keys": [
+                "16_1612091252064899072"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-01-08T14:18:06.000Z",
+        "edit_history_tweet_ids": [
+            "1612091276870000647"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "SAP",
+                    "probability": 0.9288,
+                    "start": 124,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60153RgKS",
+                    "end": 203,
+                    "expanded_url": "https://sap.to/60153RgKS",
+                    "start": 180,
+                    "url": "https://t.co/zV3QsLpKaS"
+                },
+                {
+                    "display_url": "pic.twitter.com/j54A4Xougo",
+                    "end": 227,
+                    "expanded_url": "https://twitter.com/SAP/status/1612091276870000647/photo/1",
+                    "media_key": "16_1612091252064899072",
+                    "start": 204,
+                    "url": "https://t.co/j54A4Xougo"
+                }
+            ]
+        },
+        "id": "1612091276870000647",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9298,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 18
+        },
+        "text": "While disruption and uncertainty may be in the forecast for 2023, these challenges can create opportunities for business. \n\nSAP leaders share their predictions for the year ahead. https://t.co/zV3QsLpKaS https://t.co/j54A4Xougo"
+    }
+}

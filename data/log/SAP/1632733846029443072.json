@@ -1,0 +1,46 @@
+{
+    "1632733846029443072": {
+        "attachments": {
+            "media_keys": [
+                "13_1632733774378139649"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-06T13:24:18.000Z",
+        "edit_history_tweet_ids": [
+            "1632733846029443072"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "SAP",
+                    "probability": 0.9072,
+                    "start": 43,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TFOhywgGS5",
+                    "end": 100,
+                    "expanded_url": "https://twitter.com/SAP/status/1632733846029443072/video/1",
+                    "media_key": "13_1632733774378139649",
+                    "start": 77,
+                    "url": "https://t.co/TFOhywgGS5"
+                }
+            ]
+        },
+        "id": "1632733846029443072",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 6,
+            "impression_count": 21715,
+            "like_count": 77,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 28
+        },
+        "text": "Want to know, but afraid to ask?\n\n\"What is SAP?\"\n\nDon't worry. We got you. \ud83e\udd1d https://t.co/TFOhywgGS5"
+    }
+}

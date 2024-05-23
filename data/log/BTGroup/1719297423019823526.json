@@ -1,0 +1,47 @@
+{
+    "1719297423019823526": {
+        "author_id": "517741511",
+        "created_at": "2023-10-31T10:17:03.000Z",
+        "edit_history_tweet_ids": [
+            "1719297423019823526"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Greater London",
+                    "probability": 0.9321,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "Greater London",
+                    "probability": 0.8359,
+                    "start": 197,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/i/web/status/1719297423019823526",
+                    "start": 280,
+                    "url": "https://t.co/IqQYoNyF4X"
+                }
+            ]
+        },
+        "id": "1719297423019823526",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1263,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Our new home phone service, Digital Voice, is coming to Greater London as part of the next step in our regional rollout.\n\nIf you are interested in learning more about Digital Voice and live in the Greater London area, have a read of our latest press release showing you when and\u2026 https://t.co/IqQYoNyF4X"
+    }
+}

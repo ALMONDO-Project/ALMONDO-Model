@@ -1,0 +1,76 @@
+{
+    "1646498475859689473": {
+        "attachments": {
+            "media_keys": [
+                "3_1646498472692969474"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-04-13T13:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1646498475859689473"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "Universal Studios",
+                    "probability": 0.5718,
+                    "start": 99,
+                    "type": "Place"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Florida",
+                    "probability": 0.9612,
+                    "start": 117,
+                    "type": "Place"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.4239,
+                    "start": 181,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 192,
+                    "start": 180,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6016OzpJ4",
+                    "end": 237,
+                    "expanded_url": "https://sap.to/6016OzpJ4",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.sap.com/events/sapphire/orlando.html?source=social-Global-TWITTER-MarketingCampaign-SAPStory_Branding-Events-SAPPHIRENOW-spr-9519215861-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=9519215861#event-overview",
+                    "url": "https://t.co/7dOe8ZZ4De"
+                },
+                {
+                    "display_url": "pic.twitter.com/HJrkQYe3Ic",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/SAP/status/1646498475859689473/photo/1",
+                    "media_key": "3_1646498472692969474",
+                    "start": 238,
+                    "url": "https://t.co/HJrkQYe3Ic"
+                }
+            ]
+        },
+        "id": "1646498475859689473",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 8703,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 13
+        },
+        "text": "You work hard \u2014 and you deserve to play hard. \nWe\u2019re thrilled to announce our Celebration Night at Universal Studios Florida! \ud83c\udf20\n\nFood + rides + music: What better way to close out #SAPSapphire than with friends? \n\nhttps://t.co/7dOe8ZZ4De https://t.co/HJrkQYe3Ic"
+    }
+}

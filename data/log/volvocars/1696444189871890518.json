@@ -1,0 +1,39 @@
+{
+    "1696444189871890518": {
+        "author_id": "342772500",
+        "created_at": "2023-08-29T08:46:27.000Z",
+        "edit_history_tweet_ids": [
+            "1696444189871890518"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 83,
+                    "normalized_text": "Irene",
+                    "probability": 0.5794,
+                    "start": 79,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "33842085",
+                    "start": 0,
+                    "username": "keivanl"
+                }
+            ]
+        },
+        "id": "1696444189871890518",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 82,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@keivanl We're sorry to hear this, please send us a DM with more information. -Irene"
+    }
+}

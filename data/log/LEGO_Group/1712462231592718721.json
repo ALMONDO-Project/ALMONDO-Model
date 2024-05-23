@@ -1,0 +1,58 @@
+{
+    "1712462231592718721": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T13:36:26.000Z",
+        "edit_history_tweet_ids": [
+            "1712462231592718721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8594,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7824,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 86,
+                    "start": 69,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 100,
+                    "start": 87,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1423025995125338112",
+                    "start": 0,
+                    "username": "Aplex_001"
+                }
+            ]
+        },
+        "id": "1712462231592718721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 219,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Aplex_001 Go outside and exclaim your love for nature and trees! \ud83c\udf32\u2764\ufe0f#SuperpowerOfPlay #WorldPlayDay"
+    }
+}

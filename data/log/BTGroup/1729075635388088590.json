@@ -1,0 +1,39 @@
+{
+    "1729075635388088590": {
+        "author_id": "517741511",
+        "created_at": "2023-11-27T09:52:10.000Z",
+        "edit_history_tweet_ids": [
+            "1729075635388088590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "David",
+                    "probability": 0.5152,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "3226086627",
+                    "start": 0,
+                    "username": "GuylArnel"
+                }
+            ]
+        },
+        "id": "1729075635388088590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@GuylArnel Hi Guy, my name is David and I will be your guide today. If you cancel your service you can continue to use the service during the 30 day cancelation period. If your service has stopped immediately give my colleagues a call on 0800 783 1401 and they will look into this for you."
+    }
+}

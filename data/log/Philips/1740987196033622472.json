@@ -1,0 +1,39 @@
+{
+    "1740987196033622472": {
+        "author_id": "819791",
+        "created_at": "2023-12-30T06:44:28.000Z",
+        "edit_history_tweet_ids": [
+            "1740987196033622472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Abhinav",
+                    "probability": 0.9109,
+                    "start": 12,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "153502932",
+                    "start": 0,
+                    "username": "jnabhee"
+                }
+            ]
+        },
+        "id": "1740987196033622472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 18,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@jnabhee Hi Abhinav, We really apologize for the delay. The spare part is in transit, and it will be received on 4th Jan."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1709113390898045277": {
+        "author_id": "819791",
+        "created_at": "2023-10-03T07:49:20.000Z",
+        "edit_history_tweet_ids": [
+            "1709113390898045277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Vishnu",
+                    "probability": 0.6417,
+                    "start": 18,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "300756978",
+                    "start": 0,
+                    "username": "vishnuponnath"
+                }
+            ]
+        },
+        "id": "1709113390898045277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@vishnuponnath Hi Vishnu, We really apologize for the inconvenience. The customer care team is facing some technical issue at that time because of that the call was not connected."
+    }
+}

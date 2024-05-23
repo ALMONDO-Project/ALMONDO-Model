@@ -1,0 +1,53 @@
+{
+    "1676951921708654594": {
+        "author_id": "517741511",
+        "created_at": "2023-07-06T13:51:09.000Z",
+        "edit_history_tweet_ids": [
+            "1676951921708654594"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Paul",
+                    "probability": 0.5021,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Twitter",
+                    "probability": 0.8147,
+                    "start": 109,
+                    "type": "Other"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "StephK",
+                    "probability": 0.5555,
+                    "start": 273,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "573051619",
+                    "start": 0,
+                    "username": "PaulHowarthUK"
+                }
+            ]
+        },
+        "id": "1676951921708654594",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 31,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@PaulHowarthUK Hi Paul \ud83d\udc4b Oh dear, they need some TLC. The payphone team will be able to help. They're not on Twitter but you can get them on 0800 661610 (Mon-Fri 8.30am to 5pm) or customer.serv.payphones@bt.com. If you have any BT account questions, DM me anytime. Thanks ^StephK"
+    }
+}

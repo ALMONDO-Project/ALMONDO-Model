@@ -1,0 +1,53 @@
+{
+    "1654727726178205699": {
+        "attachments": {
+            "media_keys": [
+                "3_1654727705051398148"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-05-06T06:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1654727726178205699"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "King Charles III",
+                    "probability": 0.8537,
+                    "start": 79,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 63,
+                    "start": 52,
+                    "tag": "Coronation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/su3dDgNwlh",
+                    "end": 120,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1654727726178205699/photo/1",
+                    "media_key": "3_1654727705051398148",
+                    "start": 97,
+                    "url": "https://t.co/su3dDgNwlh"
+                }
+            ]
+        },
+        "id": "1654727726178205699",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1311,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Today, we\u2019re joining the country in celebrating the #Coronation of His Majesty King Charles III. https://t.co/su3dDgNwlh"
+    }
+}

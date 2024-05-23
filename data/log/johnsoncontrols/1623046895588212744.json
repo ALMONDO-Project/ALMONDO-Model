@@ -1,0 +1,55 @@
+{
+    "1623046895588212744": {
+        "author_id": "1280469980",
+        "created_at": "2023-02-07T19:51:49.000Z",
+        "edit_history_tweet_ids": [
+            "1623046895588212744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "Johnson",
+                    "probability": 0.5668,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "47099739",
+                    "start": 0,
+                    "username": "Nicola1967"
+                },
+                {
+                    "end": 16,
+                    "id": "266094415",
+                    "start": 12,
+                    "username": "BTP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "johnsoncontrolsintegrityhelpline.com",
+                    "end": 263,
+                    "expanded_url": "http://www.johnsoncontrolsintegrityhelpline.com/",
+                    "start": 240,
+                    "unwound_url": "https://app.convercent.com/en-us/LandingPage/d93160b3-ef07-e711-8111-000d3ab2feeb",
+                    "url": "https://t.co/ZHSj6XXuuH"
+                }
+            ]
+        },
+        "id": "1623046895588212744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 31,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Nicola1967 @BTP Hello, \n\nThank you for bringing this to our attention. Johnson Controls takes all ethics concerns and inquiries very seriously. Please help us by submitting a confidential report with our Ethics &amp; Compliance team here: https://t.co/ZHSj6XXuuH"
+    }
+}

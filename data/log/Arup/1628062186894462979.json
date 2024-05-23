@@ -1,0 +1,67 @@
+{
+    "1628062186894462979": {
+        "attachments": {
+            "media_keys": [
+                "13_1628062111753555975"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-21T16:00:47.000Z",
+        "edit_history_tweet_ids": [
+            "1628062186894462979"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 192,
+                    "normalized_text": "Chapel of Sound",
+                    "probability": 0.6903,
+                    "start": 178,
+                    "type": "Place"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "Arup Journal",
+                    "probability": 0.7694,
+                    "start": 212,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 261,
+                    "start": 251,
+                    "tag": "WeAreArup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3kn09AJ",
+                    "end": 249,
+                    "expanded_url": "https://bit.ly/3kn09AJ",
+                    "start": 226,
+                    "url": "https://t.co/C6zjZjnTqn"
+                },
+                {
+                    "display_url": "pic.twitter.com/UWbJSxa7iC",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/Arup/status/1628062186894462979/video/1",
+                    "media_key": "13_1628062111753555975",
+                    "start": 262,
+                    "url": "https://t.co/UWbJSxa7iC"
+                }
+            ]
+        },
+        "id": "1628062186894462979",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1733,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "By collaborating on a shared digital platform, our team, OPEN Architecture and the theatre consultants were able to make incremental revisions to the shared digital model of the Chapel of Sound. Read more in the Arup Journal: https://t.co/C6zjZjnTqn\n\n#WeAreArup https://t.co/UWbJSxa7iC"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1678678401077354498": {
+        "author_id": "819791",
+        "created_at": "2023-07-11T08:11:33.000Z",
+        "edit_history_tweet_ids": [
+            "1678678401077354498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Gurpreet",
+                    "probability": 0.5636,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1655857636615520256",
+                    "start": 0,
+                    "username": "Gurpret_Sandhu6"
+                }
+            ]
+        },
+        "id": "1678678401077354498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 18,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Gurpret_Sandhu6 Hi Gurpreet, We are waiting for your valuable response."
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "1733122325233431038": {
+        "author_id": "67339136",
+        "created_at": "2023-12-08T13:52:16.000Z",
+        "edit_history_tweet_ids": [
+            "1733122325233431038"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 133,
+                    "normalized_text": "NetZeroCarbon",
+                    "probability": 0.5055,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 109,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 134,
+                    "start": 120,
+                    "tag": "NetZeroCarbon"
+                },
+                {
+                    "end": 151,
+                    "start": 135,
+                    "tag": "Decarbonisation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 6,
+                    "id": "317139568",
+                    "start": 0,
+                    "username": "wbcsd"
+                },
+                {
+                    "end": 83,
+                    "id": "1102626794686033920",
+                    "start": 68,
+                    "username": "Join_GlobalABC"
+                },
+                {
+                    "end": 93,
+                    "id": "147129584",
+                    "start": 84,
+                    "username": "WorldGBC"
+                },
+                {
+                    "end": 107,
+                    "id": "1375452127246626818",
+                    "start": 94,
+                    "username": "hlcchampions"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This report, co-authored by the World Business Council for Sustainable Development (WBCSD) and Arup, demonstrates the absence of clear direction needed to drive the necessary change in behaviours, from CEOs to Facilities Managers to individual occupants, for progressing towards net zero. Learn more.",
+                    "display_url": "bit.ly/41c5Imu",
+                    "end": 66,
+                    "expanded_url": "https://bit.ly/41c5Imu",
+                    "start": 43,
+                    "status": 200,
+                    "title": "Net-zero operational carbon buildings: state of the art",
+                    "unwound_url": "https://www.arup.com/perspectives/publications/research/section/net-zero-operational-buildings-state-of-the-art?utm_medium=social&utm_source=twitter&utm_campaign=_081223&utm_content=",
+                    "url": "https://t.co/fDzoUVZKNv"
+                }
+            ]
+        },
+        "id": "1733122325233431038",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 770,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@wbcsd Click here to read the full report: https://t.co/fDzoUVZKNv\n\n@join_GlobalABC @worldGBC @hlcchampions\n\n#WeAreArup #NetZeroCarbon #Decarbonisation"
+    }
+}

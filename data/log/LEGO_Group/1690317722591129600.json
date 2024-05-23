@@ -1,0 +1,39 @@
+{
+    "1690317722591129600": {
+        "author_id": "295325513",
+        "created_at": "2023-08-12T11:02:04.000Z",
+        "edit_history_tweet_ids": [
+            "1690317722591129600"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Empire",
+                    "probability": 0.2998,
+                    "start": 13,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "304395593",
+                    "start": 0,
+                    "username": "pilko71"
+                }
+            ]
+        },
+        "id": "1690317722591129600",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 146,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@pilko71 The Empire's fleet grows with every build! \ud83e\udd29"
+    }
+}

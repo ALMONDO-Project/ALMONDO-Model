@@ -1,0 +1,68 @@
+{
+    "1613654205931167779": {
+        "attachments": {
+            "media_keys": [
+                "3_1613654204287000582"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-12T21:48:37.000Z",
+        "edit_history_tweet_ids": [
+            "1613654205931167779"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "IoT",
+                    "probability": 0.7905,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "IoT Enterprise",
+                    "probability": 0.5562,
+                    "start": 165,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 228,
+                    "id": "780835601327099904",
+                    "start": 212,
+                    "username": "IoTBreakthrough"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3ZAQCWO",
+                    "end": 259,
+                    "expanded_url": "https://on.jci.com/3ZAQCWO",
+                    "start": 236,
+                    "url": "https://t.co/gq6JU65Fk2"
+                },
+                {
+                    "display_url": "pic.twitter.com/QBsHJaQp9K",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1613654205931167779/photo/1",
+                    "media_key": "3_1613654204287000582",
+                    "start": 260,
+                    "url": "https://t.co/QBsHJaQp9K"
+                }
+            ]
+        },
+        "id": "1613654205931167779",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 774,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "IoT is integral to the digital transformation taking place across consumer, business, and industry sectors. Proud to help lead the way &amp; to be recognized as the IoT Enterprise Software Company of the Year by @IoTBreakthrough. More: https://t.co/gq6JU65Fk2 https://t.co/QBsHJaQp9K"
+    }
+}

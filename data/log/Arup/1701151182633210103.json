@@ -1,0 +1,101 @@
+{
+    "1701151182633210103": {
+        "attachments": {
+            "media_keys": [
+                "3_1701151098537447424",
+                "3_1701151119508959233",
+                "3_1701151140509880320",
+                "3_1701151161485586432"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-09-11T08:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1701151182633210103"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Hong Kong",
+                    "probability": 0.9926,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 24,
+                    "normalized_text": "PalaceMuseum",
+                    "probability": 0.6859,
+                    "start": 13,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 25,
+                    "start": 12,
+                    "tag": "PalaceMuseum"
+                },
+                {
+                    "end": 278,
+                    "start": 265,
+                    "tag": "Architecture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/44HRUAr",
+                    "end": 263,
+                    "expanded_url": "https://bit.ly/44HRUAr",
+                    "start": 240,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/projects/hong-kong-palace-museum?utm_medium=social&utm_source=twitter&utm_campaign=palace_museum_110923&utm_content=east_asia",
+                    "url": "https://t.co/sRwwlE44PC"
+                },
+                {
+                    "display_url": "pic.twitter.com/jVVn89KDCs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Arup/status/1701151182633210103/photo/1",
+                    "media_key": "3_1701151098537447424",
+                    "start": 279,
+                    "url": "https://t.co/jVVn89KDCs"
+                },
+                {
+                    "display_url": "pic.twitter.com/jVVn89KDCs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Arup/status/1701151182633210103/photo/1",
+                    "media_key": "3_1701151119508959233",
+                    "start": 279,
+                    "url": "https://t.co/jVVn89KDCs"
+                },
+                {
+                    "display_url": "pic.twitter.com/jVVn89KDCs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Arup/status/1701151182633210103/photo/1",
+                    "media_key": "3_1701151140509880320",
+                    "start": 279,
+                    "url": "https://t.co/jVVn89KDCs"
+                },
+                {
+                    "display_url": "pic.twitter.com/jVVn89KDCs",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Arup/status/1701151182633210103/photo/1",
+                    "media_key": "3_1701151161485586432",
+                    "start": 279,
+                    "url": "https://t.co/jVVn89KDCs"
+                }
+            ]
+        },
+        "id": "1701151182633210103",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2446,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Hong Kong\u2019s #PalaceMuseum is home to an array of priceless artefacts and national treasures, which is why our building services engineers prioritised precise environmental control to preserve the artworks for years to come. Read more here: https://t.co/sRwwlE44PC\n\n#Architecture https://t.co/jVVn89KDCs"
+    }
+}

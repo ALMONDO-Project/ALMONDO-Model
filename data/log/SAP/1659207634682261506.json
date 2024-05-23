@@ -1,0 +1,53 @@
+{
+    "1659207634682261506": {
+        "author_id": "76117579",
+        "created_at": "2023-05-18T14:41:41.000Z",
+        "edit_history_tweet_ids": [
+            "1659207634682261506"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 229,
+                    "normalized_text": "Barcelona",
+                    "probability": 0.8974,
+                    "start": 221,
+                    "type": "Place"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Debbie",
+                    "probability": 0.3084,
+                    "start": 234,
+                    "type": "Other"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "SAP",
+                    "probability": 0.8578,
+                    "start": 242,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "224765197",
+                    "start": 0,
+                    "username": "holgermu"
+                }
+            ]
+        },
+        "id": "1659207634682261506",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 453,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@holgermu Thanks for your patience. Our solutions will be able to calculate carbon footprint based on data provided by the hyper-scaler and connected apps. Our leadership team looks forward to talking with you further in Barcelona. - Debbie, SAP"
+    }
+}

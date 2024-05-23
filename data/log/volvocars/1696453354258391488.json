@@ -1,0 +1,39 @@
+{
+    "1696453354258391488": {
+        "author_id": "342772500",
+        "created_at": "2023-08-29T09:22:52.000Z",
+        "edit_history_tweet_ids": [
+            "1696453354258391488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 97,
+                    "normalized_text": "Anthony",
+                    "probability": 0.5078,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "45146663",
+                    "start": 0,
+                    "username": "justinconverse"
+                }
+            ]
+        },
+        "id": "1696453354258391488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 95,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@justinconverse Hello there, please send us a direct message if you need further support - Anthony"
+    }
+}

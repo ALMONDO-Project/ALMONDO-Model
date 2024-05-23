@@ -1,0 +1,57 @@
+{
+    "1659196197574434818": {
+        "author_id": "76117579",
+        "created_at": "2023-05-18T13:56:14.000Z",
+        "edit_history_tweet_ids": [
+            "1659196197574434818"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Robert",
+                    "probability": 0.7314,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "SAP",
+                    "probability": 0.5486,
+                    "start": 273,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "20818362",
+                    "start": 0,
+                    "username": "robertcjackson"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017OimcJ",
+                    "end": 262,
+                    "expanded_url": "https://sap.to/6017OimcJ",
+                    "start": 239,
+                    "status": 200,
+                    "unwound_url": "https://jobs.sap.com/?source=social-Global-TWITTER-AudienceEngagement-spr-10033576595-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10033576595",
+                    "url": "https://t.co/obZpnrFnuS"
+                }
+            ]
+        },
+        "id": "1659196197574434818",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 29,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@robertcjackson Hi Robert - Due to the volume of applications we receive, we reserve feedback for candidates who have interviewed with us. We encourage you to keep applying to jobs that fit your interests and skills on our Careers site at https://t.co/obZpnrFnuS - Debbie, SAP"
+    }
+}

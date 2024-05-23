@@ -1,0 +1,58 @@
+{
+    "1712447142139187248": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T12:36:29.000Z",
+        "edit_history_tweet_ids": [
+            "1712447142139187248"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8188,
+                    "start": 70,
+                    "type": "Other"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7239,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 86,
+                    "start": 69,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 100,
+                    "start": 87,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "2286107588",
+                    "start": 0,
+                    "username": "5p0rtp74y4"
+                }
+            ]
+        },
+        "id": "1712447142139187248",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 235,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@5p0rtp74y4 Create a science related build using only blue bricks! \ud83d\udd2c\ud83d\udc99#SuperpowerOfPlay #WorldPlayDay"
+    }
+}

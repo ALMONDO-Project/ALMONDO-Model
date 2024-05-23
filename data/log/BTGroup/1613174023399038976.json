@@ -1,0 +1,54 @@
+{
+    "1613174023399038976": {
+        "author_id": "517741511",
+        "created_at": "2023-01-11T14:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1613174023399038976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "netzero",
+                    "probability": 0.5352,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 87,
+                    "tag": "netzero"
+                },
+                {
+                    "end": 128,
+                    "start": 121,
+                    "tag": "scope3"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.bt.com/bt-sparks-ener\u2026",
+                    "end": 170,
+                    "expanded_url": "https://newsroom.bt.com/bt-sparks-energy-and-carbon-savings-for-multinational-customers/",
+                    "start": 147,
+                    "status": 200,
+                    "unwound_url": "https://newsroom.bt.com/bt-sparks-energy-and-carbon-savings-for-multinational-customers/",
+                    "url": "https://t.co/BEwfPuCBvq"
+                }
+            ]
+        },
+        "id": "1613174023399038976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 962,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "We've announced new digital tools to help our multinational customers accelerate their #netzero goals by measuring their #scope3 ICT emissions! \ud83c\udf0d\n\nhttps://t.co/BEwfPuCBvq"
+    }
+}

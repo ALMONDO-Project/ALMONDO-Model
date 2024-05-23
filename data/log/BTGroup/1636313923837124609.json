@@ -1,0 +1,67 @@
+{
+    "1636313923837124609": {
+        "attachments": {
+            "media_keys": [
+                "13_1636313880094801924"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-03-16T10:30:15.000Z",
+        "edit_history_tweet_ids": [
+            "1636313923837124609"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "5G",
+                    "probability": 0.3844,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 52,
+                    "normalized_text": "UK",
+                    "probability": 0.9743,
+                    "start": 51,
+                    "type": "Place"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "WiFi",
+                    "probability": 0.506,
+                    "start": 230,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.bt.com/ee-announces-5\u2026",
+                    "end": 277,
+                    "expanded_url": "https://newsroom.bt.com/ee-announces-5g-expansion-as-part-of-fresh-drive-to-improve-rural-connectivity/",
+                    "start": 254,
+                    "url": "https://t.co/7NxUV7IBgg"
+                },
+                {
+                    "display_url": "pic.twitter.com/rXC70SaKtX",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1636313923837124609/video/1",
+                    "media_key": "13_1636313880094801924",
+                    "start": 278,
+                    "url": "https://t.co/rXC70SaKtX"
+                }
+            ]
+        },
+        "id": "1636313923837124609",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1290,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "We are expanding our 5G network to over 500 of the UK's popular rural tourist destinations and towns.\n\nTrials of new technologies to improve mobile connectivity are underway, including a 4G low earth orbit satellite, biofuels and WiFi coverage boosts.\n \nhttps://t.co/7NxUV7IBgg https://t.co/rXC70SaKtX"
+    }
+}

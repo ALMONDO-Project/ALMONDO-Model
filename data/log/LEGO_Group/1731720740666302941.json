@@ -1,0 +1,77 @@
+{
+    "1731720740666302941": {
+        "author_id": "295325513",
+        "created_at": "2023-12-04T17:02:53.000Z",
+        "edit_history_tweet_ids": [
+            "1731720740666302941"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "LEGOFortnite",
+                    "probability": 0.8749,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Fortnite",
+                    "probability": 0.9648,
+                    "start": 78,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 51,
+                    "tag": "LEGOFortnite"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Discover the new survival crafting LEGO\u00ae Fortnite\u00ae game! Watch the trailers, discover the latest news and get ready for a new gaming adventure",
+                    "display_url": "lego.com/fortnite?cmp=O\u2026",
+                    "end": 140,
+                    "expanded_url": "https://lego.com/fortnite?cmp=OBS-20620636",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1731046511985799168/gzEEZQ1Q?format=jpg&name=orig",
+                            "width": 1300
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1731046511985799168/gzEEZQ1Q?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 117,
+                    "status": 200,
+                    "title": "LEGO\u00ae Fortnite\u00ae Video Game",
+                    "unwound_url": "https://www.lego.com/en-us/themes/fortnite/about?cmp=OBS-20620636",
+                    "url": "https://t.co/hpbGoNQXF7"
+                },
+                {
+                    "display_url": "x.com/LEGOFortnite/s\u2026",
+                    "end": 164,
+                    "expanded_url": "https://twitter.com/LEGOFortnite/status/1731689965250068646",
+                    "start": 141,
+                    "url": "https://t.co/00CJLW243P"
+                }
+            ]
+        },
+        "id": "1731720740666302941",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 136,
+            "impression_count": 738693,
+            "like_count": 9191,
+            "quote_count": 29,
+            "reply_count": 157,
+            "retweet_count": 531
+        },
+        "text": "Yup, it\u2019s happening.\n\nBuild, thrive and survive in #LEGOFortnite\n\nArriving in Fortnite on December 7\n\nFind out more: https://t.co/hpbGoNQXF7 https://t.co/00CJLW243P"
+    }
+}

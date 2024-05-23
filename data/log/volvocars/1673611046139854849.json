@@ -1,0 +1,46 @@
+{
+    "1673611046139854849": {
+        "author_id": "342772500",
+        "created_at": "2023-06-27T08:35:42.000Z",
+        "edit_history_tweet_ids": [
+            "1673611046139854849"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Steve",
+                    "probability": 0.6617,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Jade",
+                    "probability": 0.8319,
+                    "start": 140,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "21438702",
+                    "start": 0,
+                    "username": "blandsteve"
+                }
+            ]
+        },
+        "id": "1673611046139854849",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 218,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@blandsteve Hi there Steve. We are sorry to hear this. Please let us know if you need any further support by sending us a direct message. - Jade."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1675758848659922946": {
+        "author_id": "819791",
+        "created_at": "2023-07-03T06:50:18.000Z",
+        "edit_history_tweet_ids": [
+            "1675758848659922946"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "LCD Televisions",
+                    "probability": 0.583,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 191,
+                    "normalized_text": "Philips TV Consumer Care",
+                    "probability": 0.4559,
+                    "start": 168,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "449498548",
+                    "start": 0,
+                    "username": "LenKutsznov"
+                }
+            ]
+        },
+        "id": "1675758848659922946",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@LenKutsznov Excluding Major Holidays\n*LCD Televisions, 2008 and newer\nFor Televisions purchased before 2008, please use our online chat for assistance\n\nBest regards, \nPhilips TV Consumer Care"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1722213362371907587": {
+        "author_id": "342772500",
+        "created_at": "2023-11-08T11:23:57.000Z",
+        "edit_history_tweet_ids": [
+            "1722213362371907587"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "Millie",
+                    "probability": 0.7546,
+                    "start": 114,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "21774635",
+                    "start": 0,
+                    "username": "bar10dr"
+                }
+            ]
+        },
+        "id": "1722213362371907587",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 44,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@bar10dr We are sorry to hear this. Please contact developer.portal@volvocars.com for support with your account. /Millie"
+    }
+}

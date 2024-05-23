@@ -1,0 +1,50 @@
+{
+    "1711672204318986268": {
+        "author_id": "819791",
+        "created_at": "2023-10-10T09:17:09.000Z",
+        "edit_history_tweet_ids": [
+            "1711672204318986268"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Sandip",
+                    "probability": 0.5132,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "445883988",
+                    "start": 0,
+                    "username": "krsandips"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 208,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 185,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1711672204318986268",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@krsandips Hello Sandip. Thank you for reaching out to us. We're sorry to hear about your experience. Could you please specify the product you need assistance with via private message? https://t.co/7VMKPAMQbA"
+    }
+}

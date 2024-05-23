@@ -1,0 +1,60 @@
+{
+    "1630515700157538304": {
+        "attachments": {
+            "media_keys": [
+                "7_1630509495116783616"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-28T10:30:11.000Z",
+        "edit_history_tweet_ids": [
+            "1630515700157538304"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Wales",
+                    "probability": 0.7902,
+                    "start": 7,
+                    "type": "Place"
+                },
+                {
+                    "end": 21,
+                    "normalized_text": "BT Group",
+                    "probability": 0.7353,
+                    "start": 14,
+                    "type": "Organization"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Wales",
+                    "probability": 0.9663,
+                    "start": 67,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/a8ML3fzxbr",
+                    "end": 133,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1630515700157538304/video/1",
+                    "media_key": "7_1630509495116783616",
+                    "start": 110,
+                    "url": "https://t.co/a8ML3fzxbr"
+                }
+            ]
+        },
+        "id": "1630515700157538304",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1388,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Across Wales, BT Group provided a boost of \u00a3740m to the economy of Wales and supported a total of 8,490 jobs. https://t.co/a8ML3fzxbr"
+    }
+}

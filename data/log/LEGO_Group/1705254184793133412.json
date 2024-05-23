@@ -1,0 +1,39 @@
+{
+    "1705254184793133412": {
+        "author_id": "295325513",
+        "created_at": "2023-09-22T16:14:14.000Z",
+        "edit_history_tweet_ids": [
+            "1705254184793133412"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "LEGO",
+                    "probability": 0.4051,
+                    "start": 48,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "231839896",
+                    "start": 0,
+                    "username": "2MattRandall"
+                }
+            ]
+        },
+        "id": "1705254184793133412",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 315,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@2MattRandall It's just moved to tears by these LEGO roses.\ud83c\udf39"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1706248500793532525": {
+        "author_id": "295325513",
+        "created_at": "2023-09-25T10:05:17.000Z",
+        "edit_history_tweet_ids": [
+            "1706248500793532525"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "apple",
+                    "probability": 0.6415,
+                    "start": 31,
+                    "type": "Product"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1645048487686569990",
+                    "start": 0,
+                    "username": "poppedup_"
+                }
+            ]
+        },
+        "id": "1706248500793532525",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 148,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@poppedup_ Keep an eye on your apple, there maybe something in the core! \ud83d\udc40\ud83c\udf4e"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1707405591587455235": {
+        "author_id": "295325513",
+        "created_at": "2023-09-28T14:43:09.000Z",
+        "edit_history_tweet_ids": [
+            "1707405591587455235"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "Brick Lane",
+                    "probability": 0.8241,
+                    "start": 27,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1400102756380254214",
+                    "start": 0,
+                    "username": "ApeSolpunk"
+                }
+            ]
+        },
+        "id": "1707405591587455235",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 137,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ApeSolpunk Do you stop at Brick Lane on the way? \ud83d\ude8c\ud83e\uddf1"
+    }
+}

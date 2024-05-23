@@ -1,0 +1,128 @@
+{
+    "1717431697782833654": {
+        "attachments": {
+            "media_keys": [
+                "3_1717430945744109568"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-10-26T06:43:19.000Z",
+        "edit_history_tweet_ids": [
+            "1717431697782833654"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Euro",
+                    "probability": 0.5335,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Dove",
+                    "probability": 0.4096,
+                    "start": 100,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Hellmann",
+                    "probability": 0.3498,
+                    "start": 106,
+                    "type": "Person"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Rexona",
+                    "probability": 0.2697,
+                    "start": 118,
+                    "type": "Other"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Sunsilk",
+                    "probability": 0.5422,
+                    "start": 129,
+                    "type": "Organization"
+                },
+                {
+                    "end": 200,
+                    "normalized_text": "ULVR",
+                    "probability": 0.4488,
+                    "start": 197,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "UNA",
+                    "probability": 0.4413,
+                    "start": 203,
+                    "type": "Organization"
+                },
+                {
+                    "end": 209,
+                    "normalized_text": "UL",
+                    "probability": 0.3775,
+                    "start": 208,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 201,
+                    "start": 196,
+                    "tag": "ULVR"
+                },
+                {
+                    "end": 206,
+                    "start": 202,
+                    "tag": "UNA"
+                },
+                {
+                    "end": 210,
+                    "start": 207,
+                    "tag": "UL"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 195,
+                    "start": 179,
+                    "tag": "UnileverResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/news/press-and\u2026",
+                    "end": 177,
+                    "expanded_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/solid-q3-results-and-action-plan-to-drive-growth-and-unlock-potential/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Market_CommsCorporateAffairs_Q3Results2023_2023&utm_content=static_SM2_2",
+                    "start": 154,
+                    "status": 200,
+                    "unwound_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/solid-q3-results-and-action-plan-to-drive-growth-and-unlock-potential/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Market_CommsCorporateAffairs_Q3Results2023_2023&utm_content=static_SM2_2",
+                    "url": "https://t.co/x5u592t2es"
+                },
+                {
+                    "display_url": "pic.twitter.com/EjTWavMvTn",
+                    "end": 234,
+                    "expanded_url": "https://twitter.com/Unilever/status/1717431697782833654/photo/1",
+                    "media_key": "3_1717430945744109568",
+                    "start": 211,
+                    "url": "https://t.co/EjTWavMvTn"
+                }
+            ]
+        },
+        "id": "1717431697782833654",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4207,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 12,
+            "retweet_count": 1
+        },
+        "text": "Our billion+ Euro brands delivered underlying sales growth of 7.2%, led by strong performances from Dove, Hellmann\u2019s, Rexona and Sunsilk.\n\nRead more here https://t.co/x5u592t2es\n\n#UnileverResults $ULVR $UNA $UL https://t.co/EjTWavMvTn"
+    }
+}

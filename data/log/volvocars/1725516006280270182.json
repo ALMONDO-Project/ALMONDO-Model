@@ -1,0 +1,39 @@
+{
+    "1725516006280270182": {
+        "author_id": "342772500",
+        "created_at": "2023-11-17T14:07:29.000Z",
+        "edit_history_tweet_ids": [
+            "1725516006280270182"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 273,
+                    "normalized_text": "Anthony",
+                    "probability": 0.622,
+                    "start": 267,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "16893303",
+                    "start": 0,
+                    "username": "MeshForce"
+                }
+            ]
+        },
+        "id": "1725516006280270182",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 58,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@MeshForce Hi there, Cross Traffic Alert with autobrake supports the driver only when reversing with limited view. The system can detect vehicles crossing behind and if needed, the autobrake can be applied. \nDriver remains responsible for safe driving at all times. /Anthony"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1729709544480051214": {
+        "author_id": "819791",
+        "created_at": "2023-11-29T03:51:06.000Z",
+        "edit_history_tweet_ids": [
+            "1729709544480051214"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Aj",
+                    "probability": 0.6467,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "139667508",
+                    "start": 0,
+                    "username": "JhinganJJ"
+                }
+            ]
+        },
+        "id": "1729709544480051214",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JhinganJJ Hi Aj, We will check the same with the service team and let you know."
+    }
+}

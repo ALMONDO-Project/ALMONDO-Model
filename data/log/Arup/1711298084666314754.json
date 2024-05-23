@@ -1,0 +1,79 @@
+{
+    "1711298084666314754": {
+        "attachments": {
+            "media_keys": [
+                "13_1711297957088169984"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-10-09T08:30:32.000Z",
+        "edit_history_tweet_ids": [
+            "1711298084666314754"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Clem Hussey",
+                    "probability": 0.5871,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Milan",
+                    "probability": 0.8778,
+                    "start": 65,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 70,
+                    "start": 64,
+                    "tag": "Milan"
+                },
+                {
+                    "end": 200,
+                    "start": 190,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 223,
+                    "start": 201,
+                    "tag": "InternationalMobility"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Q5sFUD",
+                    "end": 187,
+                    "expanded_url": "https://bit.ly/3Q5sFUD",
+                    "start": 164,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=tIf_bS0Scjg",
+                    "url": "https://t.co/002gizlZBC"
+                },
+                {
+                    "display_url": "pic.twitter.com/vyyFscM9wa",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Arup/status/1711298084666314754/video/1",
+                    "media_key": "13_1711297957088169984",
+                    "start": 224,
+                    "url": "https://t.co/vyyFscM9wa"
+                }
+            ]
+        },
+        "id": "1711298084666314754",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2065,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Join Clem Hussey, HR leader, as he takes us through this day in #Milan filled with new experiences and virtual collaborations across borders. Watch the full video: https://t.co/002gizlZBC\n \n#WeAreArup #InternationalMobility https://t.co/vyyFscM9wa"
+    }
+}

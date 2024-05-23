@@ -1,0 +1,82 @@
+{
+    "1694605465139708316": {
+        "attachments": {
+            "media_keys": [
+                "3_1694309987730751488"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-08-24T07:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1694605465139708316"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 96,
+                    "normalized_text": "Gamescom",
+                    "probability": 0.535,
+                    "start": 89,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Gamescom2023",
+                    "probability": 0.6806,
+                    "start": 99,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 97,
+                    "start": 88,
+                    "tag": "Gamescom"
+                },
+                {
+                    "end": 111,
+                    "start": 98,
+                    "tag": "Gamescom2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 49,
+                    "id": "16905329",
+                    "start": 45,
+                    "username": "ESL"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "inmotion.dhl/en/esports",
+                    "end": 87,
+                    "expanded_url": "https://inmotion.dhl/en/esports",
+                    "start": 64,
+                    "status": 200,
+                    "unwound_url": "https://inmotion.dhl/en/esports",
+                    "url": "https://t.co/xKYfei3VSX"
+                },
+                {
+                    "display_url": "pic.twitter.com/UzGvrkrtC9",
+                    "end": 135,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1694605465139708316/photo/1",
+                    "media_key": "3_1694309987730751488",
+                    "start": 112,
+                    "url": "https://t.co/UzGvrkrtC9"
+                }
+            ]
+        },
+        "id": "1694605465139708316",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1556,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Let the games begin \ud83d\udd79\ufe0f. Warum wir gaming mit @ESL lieben. More: https://t.co/xKYfei3VSX #Gamescom #Gamescom2023 https://t.co/UzGvrkrtC9"
+    }
+}

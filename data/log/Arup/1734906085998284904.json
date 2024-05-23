@@ -1,0 +1,83 @@
+{
+    "1734906085998284904": {
+        "attachments": {
+            "media_keys": [
+                "13_1734906042608164864"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-12-13T12:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1734906085998284904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "ArupJournal",
+                    "probability": 0.6024,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "Adelaide",
+                    "probability": 0.9668,
+                    "start": 138,
+                    "type": "Place"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Wales",
+                    "probability": 0.9662,
+                    "start": 235,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 47,
+                    "start": 35,
+                    "tag": "ArupJournal"
+                },
+                {
+                    "end": 85,
+                    "start": 75,
+                    "tag": "transport"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The Arup Journal celebrates a curated selection of our projects, demonstrating where we have used imagination, technology and rigour to shape a better world.",
+                    "display_url": "bit.ly/3REHSN6",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3REHSN6",
+                    "start": 256,
+                    "status": 200,
+                    "title": "Icons/Social/More",
+                    "unwound_url": "https://www.arup.com/perspectives/publications/the-arup-journal/section/the-arup-journal-2023-issue-2?utm_medium=social&utm_source=twitter&utm_campaign=arup_journal_launch_post_131223&utm_content=global",
+                    "url": "https://t.co/wkmotmfZJD"
+                },
+                {
+                    "display_url": "pic.twitter.com/wPVhEWrL3A",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Arup/status/1734906085998284904/video/1",
+                    "media_key": "13_1734906042608164864",
+                    "start": 280,
+                    "url": "https://t.co/wPVhEWrL3A"
+                }
+            ]
+        },
+        "id": "1734906085998284904",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3351,
+            "like_count": 6,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Welcome to the latest issue of the #ArupJournal, exploring everything from #transport innovations that improve safety and connectivity in Adelaide to how wastewater-based epidemiology is helping to monitor and improve public health in Wales. Read it here: https://t.co/wkmotmfZJD https://t.co/wPVhEWrL3A"
+    }
+}

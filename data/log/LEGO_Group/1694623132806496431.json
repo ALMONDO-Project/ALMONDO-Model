@@ -1,0 +1,52 @@
+{
+    "1694623132806496431": {
+        "author_id": "295325513",
+        "created_at": "2023-08-24T08:10:14.000Z",
+        "edit_history_tweet_ids": [
+            "1694623132806496431"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "LEGO Insiders",
+                    "probability": 0.755,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "872845555482992642",
+                    "start": 0,
+                    "username": "JustDenzX"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Previous A gift for LEGO\u00ae Insiders with purchases of $200 or more* Learn",
+                    "display_url": "LEGO.build/INSIDERSReward\u2026",
+                    "end": 73,
+                    "expanded_url": "http://LEGO.build/INSIDERSRewards-TW",
+                    "start": 50,
+                    "status": 200,
+                    "title": "Footer contains country selector, about us, support, attractions and more from us",
+                    "unwound_url": "https://www.lego.com/en-us/insiders/rewards?cmp=OBS-YIPO9IZR6D",
+                    "url": "https://t.co/xOyYZBlEM9"
+                }
+            ]
+        },
+        "id": "1694623132806496431",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 88,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@JustDenzX Check the LEGO Insiders Reward page at https://t.co/xOyYZBlEM9 to see if your reward code is there."
+    }
+}

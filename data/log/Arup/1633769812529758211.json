@@ -1,0 +1,91 @@
+{
+    "1633769812529758211": {
+        "attachments": {
+            "media_keys": [
+                "13_1633769642563870721"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-09T10:00:51.000Z",
+        "edit_history_tweet_ids": [
+            "1633769812529758211"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "Serryn Eagleson",
+                    "probability": 0.5797,
+                    "start": 71,
+                    "type": "Person"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "Melbourne",
+                    "probability": 0.9221,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "IWD",
+                    "probability": 0.6958,
+                    "start": 221,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "IWD2023",
+                    "probability": 0.5406,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 224,
+                    "start": 220,
+                    "tag": "IWD"
+                },
+                {
+                    "end": 264,
+                    "start": 256,
+                    "tag": "IWD2023"
+                },
+                {
+                    "end": 274,
+                    "start": 265,
+                    "tag": "DigitALL"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/41BWEqV",
+                    "end": 254,
+                    "expanded_url": "https://bit.ly/41BWEqV",
+                    "start": 231,
+                    "url": "https://t.co/p96iq3goBh"
+                },
+                {
+                    "display_url": "pic.twitter.com/ObmRJQEdDH",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/Arup/status/1633769812529758211/video/1",
+                    "media_key": "13_1633769642563870721",
+                    "start": 275,
+                    "url": "https://t.co/ObmRJQEdDH"
+                }
+            ]
+        },
+        "id": "1633769812529758211",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 17512,
+            "like_count": 9,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "How can we support gender equity through innovation and technology? Dr Serryn Eagleson, a Digital Advisor in our Melbourne office, shares how we\u2019re using technology to help inform urban planning solutions. Learn more on #IWD here: https://t.co/p96iq3goBh\n\n#IWD2023 #DigitALL https://t.co/ObmRJQEdDH"
+    }
+}

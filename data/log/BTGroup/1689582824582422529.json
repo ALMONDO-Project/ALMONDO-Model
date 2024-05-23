@@ -1,0 +1,53 @@
+{
+    "1689582824582422529": {
+        "author_id": "517741511",
+        "created_at": "2023-08-10T10:21:50.000Z",
+        "edit_history_tweet_ids": [
+            "1689582824582422529"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Emma",
+                    "probability": 0.7292,
+                    "start": 15,
+                    "type": "Person"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "BT_UK",
+                    "probability": 0.5276,
+                    "start": 121,
+                    "type": "Other"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Olivia",
+                    "probability": 0.7086,
+                    "start": 176,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "241018884",
+                    "start": 0,
+                    "username": "EmmEDavies"
+                }
+            ]
+        },
+        "id": "1689582824582422529",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 35,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@EmmEDavies Hi Emma. Really sorry to see this. If you'd like us to look into this for you then please pop us a DM to our BT_UK page. We'd love to try and sort things for you. ^Olivia"
+    }
+}

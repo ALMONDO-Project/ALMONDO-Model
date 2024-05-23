@@ -1,0 +1,53 @@
+{
+    "1657470964320313344": {
+        "author_id": "76117579",
+        "created_at": "2023-05-13T19:40:46.000Z",
+        "edit_history_tweet_ids": [
+            "1657470964320313344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Gabriel",
+                    "probability": 0.7183,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 57,
+                    "normalized_text": "NBA",
+                    "probability": 0.5792,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "NBA",
+                    "probability": 0.9387,
+                    "start": 108,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "29328259",
+                    "start": 0,
+                    "username": "nerdatcooltble"
+                }
+            ]
+        },
+        "id": "1657470964320313344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 149,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@nerdatcooltble Hi Gabriel - While our tech powers the NBA Stats site, the data itself is maintained by the NBA. For questions regarding game stats, please contact nbastats@nba.com"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1734136208744214847": {
+        "author_id": "819791",
+        "created_at": "2023-12-11T09:01:05.000Z",
+        "edit_history_tweet_ids": [
+            "1734136208744214847"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Ashish",
+                    "probability": 0.6213,
+                    "start": 25,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "162295401",
+                    "start": 0,
+                    "username": "jain_ashu2000"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 264,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 241,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1734136208744214847",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@jain_ashu2000 Hi again, Ashish. Just a reminder that we're happy to look into this for you. Please feel free to DM us sharing your country of residence and a screenshot of the offer, so we can assist you further. Hope to speak to you soon! https://t.co/7VMKPAMQbA"
+    }
+}

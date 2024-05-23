@@ -1,0 +1,61 @@
+{
+    "1637880439732838410": {
+        "attachments": {
+            "media_keys": [
+                "3_1637880436939431953"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-20T18:15:01.000Z",
+        "edit_history_tweet_ids": [
+            "1637880439732838410"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "HoagClassic",
+                    "probability": 0.6623,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 69,
+                    "tag": "HoagClassic"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "463016850",
+                    "start": 34,
+                    "username": "TheBig_Easy"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ZooEf8EjOA",
+                    "end": 113,
+                    "expanded_url": "https://twitter.com/SAP/status/1637880439732838410/photo/1",
+                    "media_key": "3_1637880436939431953",
+                    "start": 90,
+                    "url": "https://t.co/ZooEf8EjOA"
+                }
+            ]
+        },
+        "id": "1637880439732838410",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6136,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 9
+        },
+        "text": "Congratulations to our ambassador @TheBig_Easy on another win at the #HoagClassic! \ud83c\udfc6\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f https://t.co/ZooEf8EjOA"
+    }
+}

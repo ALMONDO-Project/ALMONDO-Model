@@ -1,0 +1,38 @@
+{
+    "1652236287712133125": {
+        "author_id": "109224937",
+        "created_at": "2023-04-29T09:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1652236287712133125"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "UN",
+                    "probability": 0.8298,
+                    "start": 17,
+                    "type": "Place"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Iowa",
+                    "probability": 0.9596,
+                    "start": 66,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1652236287712133125",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2831,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 5
+        },
+        "text": "According to the UN, a third of the world\u2019s soil is degraded. Our Iowa cover crop programme is one step towards turning that around."
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1618411981723123712": {
+        "author_id": "76117579",
+        "created_at": "2023-01-26T00:54:19.000Z",
+        "edit_history_tweet_ids": [
+            "1618411981723123712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "James",
+                    "probability": 0.6447,
+                    "start": 14,
+                    "type": "Person"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "Debbie",
+                    "probability": 0.5405,
+                    "start": 252,
+                    "type": "Other"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "SAP",
+                    "probability": 0.7107,
+                    "start": 260,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "183950893",
+                    "start": 0,
+                    "username": "wjafarrow"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60153b9SF",
+                    "end": 249,
+                    "expanded_url": "https://sap.to/60153b9SF",
+                    "start": 226,
+                    "status": 403,
+                    "unwound_url": "https://support.sap.com/en/contact-us.html?source=social-Global-TWITTER-AudienceEngagement-spr-8738713041-account_name&campaigncode=CRM-YA22-BSC-1440506&sprinklrid=8738713041",
+                    "url": "https://t.co/wHHAqbKF31"
+                }
+            ]
+        },
+        "id": "1618411981723123712",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 69,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@wjafarrow Hi James - We're here to help. For technical support and incidents, the Expert Chat option offers immediate assistance. Or, you can schedule time to speak with a support engineer with the Schedule an Expert option: https://t.co/wHHAqbKF31 - Debbie, SAP"
+    }
+}

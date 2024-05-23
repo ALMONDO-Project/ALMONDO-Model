@@ -1,0 +1,53 @@
+{
+    "1725191402433204357": {
+        "author_id": "109224937",
+        "created_at": "2023-11-16T16:37:37.000Z",
+        "edit_history_tweet_ids": [
+            "1725191402433204357"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "Dove",
+                    "probability": 0.5375,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "UnileverBrands",
+                    "probability": 0.5392,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 225,
+                    "start": 210,
+                    "tag": "UnileverBrands"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 203,
+                    "id": "92294003",
+                    "start": 198,
+                    "username": "Dove"
+                }
+            ]
+        },
+        "id": "1725191402433204357",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4613,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 14,
+            "retweet_count": 6
+        },
+        "text": "Dove is one of our biggest brands, with turnover in excess of \u20ac5 billion a year \u2013 and its purpose-led campaigns aim to boost self-esteem for young people all over the world. \n\nDiscover the story of @Dove \u2b07\ufe0f  \n\n#UnileverBrands"
+    }
+}

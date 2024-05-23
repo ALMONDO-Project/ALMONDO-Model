@@ -1,0 +1,39 @@
+{
+    "1706877430357475472": {
+        "author_id": "819791",
+        "created_at": "2023-09-27T03:44:26.000Z",
+        "edit_history_tweet_ids": [
+            "1706877430357475472"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Arun",
+                    "probability": 0.5627,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1664677448418738176",
+                    "start": 0,
+                    "username": "ARUNMEHRA739665"
+                }
+            ]
+        },
+        "id": "1706877430357475472",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ARUNMEHRA739665 Hi Arun, We would like to inform you that last time the product was repaired under warranty, but if the product was found in similar condition as last time, so it will be repaired on a chargeable basis. Further the service team will provide you the resolution as soon as possible."
+    }
+}

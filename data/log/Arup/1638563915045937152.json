@@ -1,0 +1,89 @@
+{
+    "1638563915045937152": {
+        "attachments": {
+            "media_keys": [
+                "13_1638563807755730944"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-22T15:30:55.000Z",
+        "edit_history_tweet_ids": [
+            "1638563915045937152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "Sandy",
+                    "probability": 0.2996,
+                    "start": 36,
+                    "type": "Place"
+                },
+                {
+                    "end": 55,
+                    "normalized_text": "New York City",
+                    "probability": 0.9769,
+                    "start": 43,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "Conference",
+                    "probability": 0.6066,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "WorldWaterDay",
+                    "probability": 0.668,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 118,
+                    "start": 104,
+                    "tag": "WorldWaterDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 75,
+                    "id": "14159148",
+                    "start": 72,
+                    "username": "UN"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Z7x0YD",
+                    "end": 267,
+                    "expanded_url": "https://bit.ly/3Z7x0YD",
+                    "start": 244,
+                    "url": "https://t.co/Ablodlnonz"
+                },
+                {
+                    "display_url": "pic.twitter.com/O4KgwFJbV5",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Arup/status/1638563915045937152/video/1",
+                    "media_key": "13_1638563807755730944",
+                    "start": 268,
+                    "url": "https://t.co/O4KgwFJbV5"
+                }
+            ]
+        },
+        "id": "1638563915045937152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 1644,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Just over 10 years since Superstorm Sandy, New York City is hosting the @UN 2023 Water Conference. This #WorldWaterDay, discover the many, changing definitions of water resilience and how they can be achieved in our latest Perspective article: https://t.co/Ablodlnonz https://t.co/O4KgwFJbV5"
+    }
+}

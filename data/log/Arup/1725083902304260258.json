@@ -1,0 +1,63 @@
+{
+    "1725083902304260258": {
+        "attachments": {
+            "media_keys": [
+                "13_1725083795789930496"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-11-16T09:30:27.000Z",
+        "edit_history_tweet_ids": [
+            "1725083902304260258"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Northern Foyer",
+                    "probability": 0.5216,
+                    "start": 64,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 63,
+                    "id": "90300296",
+                    "start": 49,
+                    "username": "SydOperaHouse"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3SzgtNE",
+                    "end": 275,
+                    "expanded_url": "https://bit.ly/3SzgtNE",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/projects/sydney-opera-house-decade-of-renewal-accessibility-and-safety?utm_medium=social&utm_source=twitter&utm_campaign=sydney_opera_house_accessibility_161123&utm_content=australasia",
+                    "url": "https://t.co/rIxLXeEX94"
+                },
+                {
+                    "display_url": "pic.twitter.com/93w3H78hiD",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/Arup/status/1725083902304260258/video/1",
+                    "media_key": "13_1725083795789930496",
+                    "start": 276,
+                    "url": "https://t.co/93w3H78hiD"
+                }
+            ]
+        },
+        "id": "1725083902304260258",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2611,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "For most of its life, the only way to access the @SydOperaHouse Northern Foyer was via a series of steps, limiting access and seating for people with limited mobility. Learn how we designed a tunnel and lift shafts that blend with the heritage design: https://t.co/rIxLXeEX94 https://t.co/93w3H78hiD"
+    }
+}

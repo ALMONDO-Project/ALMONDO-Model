@@ -1,0 +1,99 @@
+{
+    "1615465335188070404": {
+        "attachments": {
+            "media_keys": [
+                "3_1615465251482345473",
+                "3_1615465272239919104",
+                "3_1615465293266001936",
+                "3_1615465314220646400"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-17T21:45:24.000Z",
+        "edit_history_tweet_ids": [
+            "1615465335188070404"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Sydney",
+                    "probability": 0.8644,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Quay Quarter Tower",
+                    "probability": 0.6582,
+                    "start": 25,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 13,
+                    "tag": "skyscraper"
+                },
+                {
+                    "end": 86,
+                    "start": 68,
+                    "tag": "SustainableDesign"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3INYXjQ",
+                    "end": 223,
+                    "expanded_url": "https://bit.ly/3INYXjQ",
+                    "start": 200,
+                    "url": "https://t.co/osNilCRP3T"
+                },
+                {
+                    "display_url": "pic.twitter.com/MztjoSUTO8",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Arup/status/1615465335188070404/photo/1",
+                    "media_key": "3_1615465251482345473",
+                    "start": 224,
+                    "url": "https://t.co/MztjoSUTO8"
+                },
+                {
+                    "display_url": "pic.twitter.com/MztjoSUTO8",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Arup/status/1615465335188070404/photo/1",
+                    "media_key": "3_1615465272239919104",
+                    "start": 224,
+                    "url": "https://t.co/MztjoSUTO8"
+                },
+                {
+                    "display_url": "pic.twitter.com/MztjoSUTO8",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Arup/status/1615465335188070404/photo/1",
+                    "media_key": "3_1615465293266001936",
+                    "start": 224,
+                    "url": "https://t.co/MztjoSUTO8"
+                },
+                {
+                    "display_url": "pic.twitter.com/MztjoSUTO8",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/Arup/status/1615465335188070404/photo/1",
+                    "media_key": "3_1615465314220646400",
+                    "start": 224,
+                    "url": "https://t.co/MztjoSUTO8"
+                }
+            ]
+        },
+        "id": "1615465335188070404",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2912,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Sydney\u2019s new #skyscraper Quay Quarter Tower ticks all the boxes for #SustainableDesign, adaptive reuse, and smart building technology. Find out the engineering solutions we delivered for @AMPCapital: https://t.co/osNilCRP3T https://t.co/MztjoSUTO8"
+    }
+}

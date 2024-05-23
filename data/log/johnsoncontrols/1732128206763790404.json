@@ -1,0 +1,61 @@
+{
+    "1732128206763790404": {
+        "attachments": {
+            "media_keys": [
+                "3_1732128204704337920"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-12-05T20:02:00.000Z",
+        "edit_history_tweet_ids": [
+            "1732128206763790404"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "RTU",
+                    "probability": 0.7875,
+                    "start": 99,
+                    "type": "Organization"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Verasys",
+                    "probability": 0.8021,
+                    "start": 130,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/sO8450Q8nAZ",
+                    "end": 276,
+                    "expanded_url": "https://ow.ly/sO8450Q8nAZ",
+                    "start": 253,
+                    "unwound_url": "https://www.verasyscontrols.com/?utm_source=twitter&utm_medium=organic-social&utm_term=verasys5-announcement-2&utm_content=71c94499-ed25-49d7-8e76-32fc9cc86980&utm_campaign=FY23-CTRLS-NA-Indirect-Verasys-L2",
+                    "url": "https://t.co/sy8obnMEUS"
+                },
+                {
+                    "display_url": "pic.twitter.com/p1EFL13SRB",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1732128206763790404/photo/1",
+                    "media_key": "3_1732128204704337920",
+                    "start": 277,
+                    "url": "https://t.co/p1EFL13SRB"
+                }
+            ]
+        },
+        "id": "1732128206763790404",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 599,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "If you have a rooftop unit, you want to maximize your investment. And you can when you bundle your RTU with our latest release of Verasys, which provides centralized building control, remote access and monitoring, and extended capabilities. Learn more: https://t.co/sy8obnMEUS https://t.co/p1EFL13SRB"
+    }
+}

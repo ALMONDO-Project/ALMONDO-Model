@@ -1,0 +1,39 @@
+{
+    "1725883718533775448": {
+        "author_id": "295325513",
+        "created_at": "2023-11-18T14:28:38.000Z",
+        "edit_history_tweet_ids": [
+            "1725883718533775448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 142,
+                    "normalized_text": "LEGO",
+                    "probability": 0.4762,
+                    "start": 139,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "240536701",
+                    "start": 0,
+                    "username": "TimThe3nchant3r"
+                }
+            ]
+        },
+        "id": "1725883718533775448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1160,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TimThe3nchant3r We can help! \ud83d\ude0a Just enter the promo code you received when redeeming that reward the next time you make a purchase on the LEGO site, and it'll be automatically added to your cart. \ud83d\udcfc"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1732745919030759656": {
+        "author_id": "819791",
+        "created_at": "2023-12-07T12:56:34.000Z",
+        "edit_history_tweet_ids": [
+            "1732745919030759656"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Komal",
+                    "probability": 0.6299,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "Philips",
+                    "probability": 0.6948,
+                    "start": 205,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "793074453060153349",
+                    "start": 0,
+                    "username": "Kasak0107"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 237,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "start": 214,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=819791",
+                    "url": "https://t.co/7VMKPAMQbA"
+                }
+            ]
+        },
+        "id": "1732745919030759656",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@Kasak0107 Hi Komal, we apologise for the delay caused. Let us get this checked. Please allow us some time to look into this for you and get this addressed accordingly. We seek your patience here. Thanks, Philips! https://t.co/7VMKPAMQbA"
+    }
+}

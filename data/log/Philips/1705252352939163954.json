@@ -1,0 +1,39 @@
+{
+    "1705252352939163954": {
+        "author_id": "819791",
+        "created_at": "2023-09-22T16:06:57.000Z",
+        "edit_history_tweet_ids": [
+            "1705252352939163954"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Lex",
+                    "probability": 0.5567,
+                    "start": 45,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "81759323",
+                    "start": 0,
+                    "username": "lexoit"
+                }
+            ]
+        },
+        "id": "1705252352939163954",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@lexoit Thank you for your valuable feedback Lex!\ud83d\ude0a"
+    }
+}

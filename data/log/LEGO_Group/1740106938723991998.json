@@ -1,0 +1,46 @@
+{
+    "1740106938723991998": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T20:26:38.000Z",
+        "edit_history_tweet_ids": [
+            "1740106938723991998"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 92,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.7697,
+                    "start": 81,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 93,
+                    "start": 80,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "809633180",
+                    "start": 0,
+                    "username": "MitaMancini"
+                }
+            ]
+        },
+        "id": "1740106938723991998",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1244,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@MitaMancini We're gonna need a bigger Executor! Thanks for building with us on #LEGOBuildDay!"
+    }
+}

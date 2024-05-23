@@ -1,0 +1,68 @@
+{
+    "1641365652408508419": {
+        "attachments": {
+            "media_keys": [
+                "3_1641365648885293056"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-30T09:04:01.000Z",
+        "edit_history_tweet_ids": [
+            "1641365652408508419"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 125,
+                    "normalized_text": "SAP Business Network",
+                    "probability": 0.5929,
+                    "start": 106,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 70,
+                    "tag": "sustainable"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 171,
+                    "id": "19692276",
+                    "start": 162,
+                    "username": "SAPAriba"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6016O8ZTA",
+                    "end": 160,
+                    "expanded_url": "https://sap.to/6016O8ZTA",
+                    "start": 137,
+                    "url": "https://t.co/oY55AT7JGq"
+                },
+                {
+                    "display_url": "pic.twitter.com/ndqgrWrTB5",
+                    "end": 195,
+                    "expanded_url": "https://twitter.com/SAP/status/1641365652408508419/photo/1",
+                    "media_key": "3_1641365648885293056",
+                    "start": 172,
+                    "url": "https://t.co/ndqgrWrTB5"
+                }
+            ]
+        },
+        "id": "1641365652408508419",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5533,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 13
+        },
+        "text": "Building a sustainable supply chain depends on finding suppliers with #sustainable practices. \n\nLearn how SAP Business Network can help. https://t.co/oY55AT7JGq\n\n@SAPAriba https://t.co/ndqgrWrTB5"
+    }
+}

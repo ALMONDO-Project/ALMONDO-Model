@@ -1,0 +1,87 @@
+{
+    "1642893567830945797": {
+        "attachments": {
+            "media_keys": [
+                "13_1642893515397947395"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-04-03T14:15:24.000Z",
+        "edit_history_tweet_ids": [
+            "1642893567830945797"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "autism",
+                    "probability": 0.6642,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "AutismAcceptanceMonth",
+                    "probability": 0.5316,
+                    "start": 76,
+                    "type": "Other"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "Sascha Dietsch",
+                    "probability": 0.9465,
+                    "start": 138,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 97,
+                    "start": 75,
+                    "tag": "AutismAcceptanceMonth"
+                },
+                {
+                    "end": 241,
+                    "start": 231,
+                    "tag": "LifeAtSAP"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 112,
+                    "id": "4787287817",
+                    "start": 99,
+                    "username": "SupriyaJha16"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6016O1SGA",
+                    "end": 229,
+                    "expanded_url": "https://sap.to/6016O1SGA",
+                    "start": 206,
+                    "url": "https://t.co/muxlehpMrO"
+                },
+                {
+                    "display_url": "pic.twitter.com/l0k1nn95c5",
+                    "end": 265,
+                    "expanded_url": "https://twitter.com/SAP/status/1642893567830945797/video/1",
+                    "media_key": "13_1642893515397947395",
+                    "start": 242,
+                    "url": "https://t.co/l0k1nn95c5"
+                }
+            ]
+        },
+        "id": "1642893567830945797",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7560,
+            "like_count": 23,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 11
+        },
+        "text": "An estimated 1% of the world\u2019s population is on the autism spectrum. \n\nFor #AutismAcceptanceMonth, @SupriyaJha16 talked to inclusion hero Sascha Dietsch about his personal journey and hopes for the future: https://t.co/muxlehpMrO\n\n#LifeAtSAP https://t.co/l0k1nn95c5"
+    }
+}

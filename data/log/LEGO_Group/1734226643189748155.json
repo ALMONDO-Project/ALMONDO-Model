@@ -1,0 +1,53 @@
+{
+    "1734226643189748155": {
+        "attachments": {
+            "media_keys": [
+                "7_1734226620330725376"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-11T15:00:26.000Z",
+        "edit_history_tweet_ids": [
+            "1734226643189748155"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.6949,
+                    "start": 1,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 0,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/yK07EkEd8G",
+                    "end": 118,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1734226643189748155/video/1",
+                    "media_key": "7_1734226620330725376",
+                    "start": 95,
+                    "url": "https://t.co/yK07EkEd8G"
+                }
+            ]
+        },
+        "id": "1734226643189748155",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 21,
+            "impression_count": 85546,
+            "like_count": 696,
+            "quote_count": 12,
+            "reply_count": 50,
+            "retweet_count": 118
+        },
+        "text": "#LEGOBuildDay is coming up on the 27th! Get ready by getting your bricks and friends together. https://t.co/yK07EkEd8G"
+    }
+}

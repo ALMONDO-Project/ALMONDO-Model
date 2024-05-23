@@ -1,0 +1,125 @@
+{
+    "1655490309566918656": {
+        "attachments": {
+            "media_keys": [
+                "3_1655490225483706368",
+                "3_1655490246442725376",
+                "3_1655490267426766848",
+                "3_1655490288398348289"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-05-08T08:30:21.000Z",
+        "edit_history_tweet_ids": [
+            "1655490309566918656"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Tokyo",
+                    "probability": 0.9616,
+                    "start": 25,
+                    "type": "Place"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "Heatherwick Studio: Building Soulfulness",
+                    "probability": 0.798,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "Little Island",
+                    "probability": 0.6868,
+                    "start": 180,
+                    "type": "Other"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "Tian An 1000 Trees",
+                    "probability": 0.8242,
+                    "start": 195,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Bombay Sapphire Distillery",
+                    "probability": 0.82,
+                    "start": 218,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 24,
+                    "tag": "Tokyo"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 20,
+                    "id": "83088776",
+                    "start": 4,
+                    "username": "mori_art_museum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3nvuwXr",
+                    "end": 280,
+                    "expanded_url": "https://bit.ly/3nvuwXr",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://www.mori.art.museum/en/exhibitions/heatherwick/",
+                    "url": "https://t.co/uCRj0iC4gn"
+                },
+                {
+                    "display_url": "pic.twitter.com/SQNk79Lq9c",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1655490309566918656/photo/1",
+                    "media_key": "3_1655490225483706368",
+                    "start": 281,
+                    "url": "https://t.co/SQNk79Lq9c"
+                },
+                {
+                    "display_url": "pic.twitter.com/SQNk79Lq9c",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1655490309566918656/photo/1",
+                    "media_key": "3_1655490246442725376",
+                    "start": 281,
+                    "url": "https://t.co/SQNk79Lq9c"
+                },
+                {
+                    "display_url": "pic.twitter.com/SQNk79Lq9c",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1655490309566918656/photo/1",
+                    "media_key": "3_1655490267426766848",
+                    "start": 281,
+                    "url": "https://t.co/SQNk79Lq9c"
+                },
+                {
+                    "display_url": "pic.twitter.com/SQNk79Lq9c",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1655490309566918656/photo/1",
+                    "media_key": "3_1655490288398348289",
+                    "start": 281,
+                    "url": "https://t.co/SQNk79Lq9c"
+                }
+            ]
+        },
+        "id": "1655490309566918656",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3995,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "The @mori_art_museum in #Tokyo is showing \u2018Heatherwick Studio: Building Soulfulness\u2019 until 4 June 2023. The exhibition showcases some of our most exciting past projects, including Little Island, Tian An 1000 Trees and Bombay Sapphire Distillery. Read more: https://t.co/uCRj0iC4gn https://t.co/SQNk79Lq9c"
+    }
+}

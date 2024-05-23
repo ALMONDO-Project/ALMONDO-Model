@@ -1,0 +1,48 @@
+{
+    "1611021261756399617": {
+        "author_id": "67339136",
+        "created_at": "2023-01-05T15:26:14.000Z",
+        "edit_history_tweet_ids": [
+            "1611021261756399617"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 125,
+                    "normalized_text": "Advisory Board",
+                    "probability": 0.6166,
+                    "start": 112,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 99,
+                    "id": "147129584",
+                    "start": 90,
+                    "username": "WorldGBC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/WorldGBC/statu\u2026",
+                    "end": 281,
+                    "expanded_url": "https://twitter.com/WorldGBC/status/1610954964716642305",
+                    "start": 258,
+                    "url": "https://t.co/Rs5UqIPxH7"
+                }
+            ]
+        },
+        "id": "1611021261756399617",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2608,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Collaboration is crucial to decarbonising the built environment, so we\u2019re excited to join @WorldGBC\u2019s Corporate Advisory Board. We look forward to sharing our expertise and working with others to achieve significant emissions reductions across the industry. https://t.co/Rs5UqIPxH7"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1707309828740194741": {
+        "author_id": "517741511",
+        "created_at": "2023-09-28T08:22:38.000Z",
+        "edit_history_tweet_ids": [
+            "1707309828740194741"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 153,
+                    "normalized_text": "DCMS",
+                    "probability": 0.4493,
+                    "start": 150,
+                    "type": "Organization"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "Ofcom",
+                    "probability": 0.4972,
+                    "start": 156,
+                    "type": "Organization"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "StephK",
+                    "probability": 0.7134,
+                    "start": 243,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "211563503",
+                    "start": 0,
+                    "username": "FoodfanStockpt"
+                }
+            ]
+        },
+        "id": "1707309828740194741",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 29,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@FoodfanStockpt 2/2 We\u2019re also working with power networks to help improve network resilience in the event of a power outage. We regularly speak with DCMS, Ofcom and other Government Departments and we have robust contingency plans in place. ^StephK"
+    }
+}

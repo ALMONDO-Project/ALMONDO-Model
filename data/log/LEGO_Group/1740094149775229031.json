@@ -1,0 +1,53 @@
+{
+    "1740094149775229031": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T19:35:49.000Z",
+        "edit_history_tweet_ids": [
+            "1740094149775229031"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Tony",
+                    "probability": 0.7822,
+                    "start": 43,
+                    "type": "Person"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.7015,
+                    "start": 88,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 100,
+                    "start": 87,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1611232310",
+                    "start": 0,
+                    "username": "DextersDesciple"
+                }
+            ]
+        },
+        "id": "1740094149775229031",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1460,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@DextersDesciple In the final stretch now, Tony would be proud! Enjoy the rest of your #LEGOBuildDay!"
+    }
+}

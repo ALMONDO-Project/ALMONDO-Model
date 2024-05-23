@@ -1,0 +1,52 @@
+{
+    "1725594117021810867": {
+        "author_id": "109224937",
+        "created_at": "2023-11-17T19:17:52.000Z",
+        "edit_history_tweet_ids": [
+            "1725594117021810867"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "POND\u2019s Skin Institute",
+                    "probability": 0.4411,
+                    "start": 21,
+                    "type": "Organization"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "Niasorcinol\u2122",
+                    "probability": 0.7895,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "UnileverScience",
+                    "probability": 0.4367,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 202,
+                    "start": 186,
+                    "tag": "UnileverScience"
+                }
+            ]
+        },
+        "id": "1725594117021810867",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3776,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 10,
+            "retweet_count": 4
+        },
+        "text": "A scientist from the POND\u2019s Skin Institute explains how Niasorcinol\u2122 \u2013 a new discovery from the brand\u2019s in-house experts \u2013 is clinically proven to help boost skin\u2019s clarity and glow.  \n\n#UnileverScience"
+    }
+}

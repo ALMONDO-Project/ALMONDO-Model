@@ -1,0 +1,102 @@
+{
+    "1630598887126847488": {
+        "attachments": {
+            "media_keys": [
+                "3_1630598803198816256",
+                "3_1630598824170250246",
+                "3_1630598845137670152",
+                "3_1630598866125897737"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-28T16:00:44.000Z",
+        "edit_history_tweet_ids": [
+            "1630598887126847488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "Arts",
+                    "probability": 0.5124,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 76,
+                    "normalized_text": "Kansas City",
+                    "probability": 0.9718,
+                    "start": 66,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 165,
+                    "start": 158,
+                    "tag": "design"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "40891749",
+                    "start": 4,
+                    "username": "kauffmancenter"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Z58sjO",
+                    "end": 268,
+                    "expanded_url": "https://bit.ly/3Z58sjO",
+                    "start": 245,
+                    "url": "https://t.co/tQsOR6teoR"
+                },
+                {
+                    "display_url": "pic.twitter.com/la1gb0luYD",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1630598887126847488/photo/1",
+                    "media_key": "3_1630598803198816256",
+                    "start": 269,
+                    "url": "https://t.co/la1gb0luYD"
+                },
+                {
+                    "display_url": "pic.twitter.com/la1gb0luYD",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1630598887126847488/photo/1",
+                    "media_key": "3_1630598824170250246",
+                    "start": 269,
+                    "url": "https://t.co/la1gb0luYD"
+                },
+                {
+                    "display_url": "pic.twitter.com/la1gb0luYD",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1630598887126847488/photo/1",
+                    "media_key": "3_1630598845137670152",
+                    "start": 269,
+                    "url": "https://t.co/la1gb0luYD"
+                },
+                {
+                    "display_url": "pic.twitter.com/la1gb0luYD",
+                    "end": 292,
+                    "expanded_url": "https://twitter.com/Arup/status/1630598887126847488/photo/1",
+                    "media_key": "3_1630598866125897737",
+                    "start": 269,
+                    "url": "https://t.co/la1gb0luYD"
+                }
+            ]
+        },
+        "id": "1630598887126847488",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2130,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "The @kauffmancenter for the Performing Arts is the focal point of Kansas City\u2019s burgeoning arts district. Find out how we were able to realise this ambitious #design while preventing vibration and noise from leaking into the performance spaces: https://t.co/tQsOR6teoR https://t.co/la1gb0luYD"
+    }
+}

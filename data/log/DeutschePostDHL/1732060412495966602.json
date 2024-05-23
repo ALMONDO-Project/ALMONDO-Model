@@ -1,0 +1,43 @@
+{
+    "1732060412495966602": {
+        "author_id": "197352549",
+        "created_at": "2023-12-05T15:32:37.000Z",
+        "edit_history_tweet_ids": [
+            "1732060412495966602"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "114388979",
+                    "start": 0,
+                    "username": "foediausg"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Finden Sie Ihren Ansprechpartner bei DHL \u2013 unser Customer Service ist bei allen Fragen gerne f\u00fcr Sie da!",
+                    "display_url": "dhl.com/de-de/home/cus\u2026",
+                    "end": 144,
+                    "expanded_url": "https://www.dhl.com/de-de/home/customer-service.html",
+                    "start": 121,
+                    "status": 200,
+                    "title": "Kundenservice - DHL -",
+                    "unwound_url": "https://www.dhl.com/de-de/home/customer-service.html",
+                    "url": "https://t.co/6UaiGKGuNt"
+                }
+            ]
+        },
+        "id": "1732060412495966602",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 46,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@foediausg Wenn es ein Problem mit deiner Sendung gibt, kannst du dich am besten direkt an unseren Kundenservice wenden: https://t.co/6UaiGKGuNt"
+    }
+}

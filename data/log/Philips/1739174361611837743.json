@@ -1,0 +1,39 @@
+{
+    "1739174361611837743": {
+        "author_id": "819791",
+        "created_at": "2023-12-25T06:40:54.000Z",
+        "edit_history_tweet_ids": [
+            "1739174361611837743"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Mohan",
+                    "probability": 0.5622,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "363144432",
+                    "start": 0,
+                    "username": "VivekGmail"
+                }
+            ]
+        },
+        "id": "1739174361611837743",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@VivekGmail Hi Dr. Mohan, Thanks for giving us the confirmation over the call. As of now we are closing your case on social media. Please feel free to contact on our Toll-Free number: 1800-572-1800 for future reference."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1634922467796963330": {
+        "attachments": {
+            "media_keys": [
+                "16_1634922444111724545"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-12T14:21:06.000Z",
+        "edit_history_tweet_ids": [
+            "1634922467796963330"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "SAP Datasphere",
+                    "probability": 0.5534,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "SAPDatasphere",
+                    "probability": 0.4726,
+                    "start": 174,
+                    "type": "Organization"
+                },
+                {
+                    "end": 198,
+                    "normalized_text": "SAPUnleash",
+                    "probability": 0.5547,
+                    "start": 189,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 187,
+                    "start": 173,
+                    "tag": "SAPDatasphere"
+                },
+                {
+                    "end": 199,
+                    "start": 188,
+                    "tag": "SAPUnleash"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60133Fsfz",
+                    "end": 171,
+                    "expanded_url": "https://sap.to/60133Fsfz",
+                    "start": 148,
+                    "url": "https://t.co/cDNPcAryec"
+                },
+                {
+                    "display_url": "pic.twitter.com/y8dgEnEqQh",
+                    "end": 223,
+                    "expanded_url": "https://twitter.com/SAP/status/1634922467796963330/photo/1",
+                    "media_key": "16_1634922444111724545",
+                    "start": 200,
+                    "url": "https://t.co/y8dgEnEqQh"
+                }
+            ]
+        },
+        "id": "1634922467796963330",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 7185,
+            "like_count": 23,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 15
+        },
+        "text": "Ready to try SAP Datasphere? \n\n\u2705 Free 90-day trial\n\u2705 Free access to 30+ additional services \n\u2705 Pay only for what you use beyond the free limits\n\n\u27a1\ufe0f https://t.co/cDNPcAryec\n\n#SAPDatasphere #SAPUnleash https://t.co/y8dgEnEqQh"
+    }
+}

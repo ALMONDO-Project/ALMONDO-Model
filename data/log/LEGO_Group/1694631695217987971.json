@@ -1,0 +1,59 @@
+{
+    "1694631695217987971": {
+        "author_id": "295325513",
+        "created_at": "2023-08-24T08:44:15.000Z",
+        "edit_history_tweet_ids": [
+            "1694631695217987971"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "LEGO",
+                    "probability": 0.7459,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "LEGO Builder",
+                    "probability": 0.6985,
+                    "start": 94,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "33708669",
+                    "start": 0,
+                    "username": "AM3009"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 225,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 202,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1694631695217987971",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 74,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@AM3009 In your LEGO Insiders account on the website, you will see your order history. In the LEGO Builder app, you will see all sets, you've registered. We're always happy to explain in more detail at https://t.co/tPB6D5ogpj. \ud83d\ude42"
+    }
+}

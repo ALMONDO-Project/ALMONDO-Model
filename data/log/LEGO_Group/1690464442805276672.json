@@ -1,0 +1,62 @@
+{
+    "1690464442805276672": {
+        "author_id": "295325513",
+        "created_at": "2023-08-12T20:45:05.000Z",
+        "edit_history_tweet_ids": [
+            "1690464442805276672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 208,
+                    "normalized_text": "LEGO\u00ae",
+                    "probability": 0.6952,
+                    "start": 204,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1191032684174356480",
+                    "start": 0,
+                    "username": "Izzy_1719"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 57,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 34,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                },
+                {
+                    "display_url": "LEGO.build/BI-TW",
+                    "end": 187,
+                    "expanded_url": "http://LEGO.build/BI-TW",
+                    "start": 164,
+                    "status": 200,
+                    "title": "Building Instructions - Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service/buildinginstructions?cmp=OBS-15Q38MJDPH",
+                    "url": "https://t.co/0snDbLYoKA"
+                }
+            ]
+        },
+        "id": "1690464442805276672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 139,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Izzy_1719 Oh no! Get in touch at https://t.co/tPB6D5ogpj and we'll help you find your way to new building instructions! \ud83d\ude0a Meanwhile, you can download them here \u27a1\ufe0f https://t.co/0snDbLYoKA or use our free LEGO\u00ae Builder app to continue building! \ud83d\udcf1"
+    }
+}

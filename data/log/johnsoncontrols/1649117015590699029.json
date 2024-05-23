@@ -1,0 +1,55 @@
+{
+    "1649117015590699029": {
+        "attachments": {
+            "media_keys": [
+                "3_1649117012856012801"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-04-20T18:25:10.000Z",
+        "edit_history_tweet_ids": [
+            "1649117015590699029"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 188,
+                    "normalized_text": "Fortune",
+                    "probability": 0.4394,
+                    "start": 182,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3mKACTt",
+                    "end": 284,
+                    "expanded_url": "https://on.jci.com/3mKACTt",
+                    "start": 261,
+                    "status": 200,
+                    "unwound_url": "https://fortune.com/2023/04/19/johnson-controls-ceo-humanity-7-years-cut-global-emissions-half-decarbonize-buildings-ahead-schedule-environment-climate-change-energy-george-oliver/",
+                    "url": "https://t.co/cvlJ0FFn97"
+                },
+                {
+                    "display_url": "pic.twitter.com/DXtz5vh7Zn",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1649117015590699029/photo/1",
+                    "media_key": "3_1649117012856012801",
+                    "start": 285,
+                    "url": "https://t.co/DXtz5vh7Zn"
+                }
+            ]
+        },
+        "id": "1649117015590699029",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 713,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Closing the gap on emissions - of which ~40% come from buildings \u2013 will tip the scales on climate action &amp; help the world achieve net zero targets. Read our CEO\u2019s perspective in Fortune on two net-zero game changers: smart buildings and net-zero financing: https://t.co/cvlJ0FFn97 https://t.co/DXtz5vh7Zn"
+    }
+}

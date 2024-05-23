@@ -1,0 +1,39 @@
+{
+    "1726990613755670844": {
+        "author_id": "295325513",
+        "created_at": "2023-11-21T15:47:02.000Z",
+        "edit_history_tweet_ids": [
+            "1726990613755670844"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Griffin",
+                    "probability": 0.5192,
+                    "start": 11,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "745361347",
+                    "start": 0,
+                    "username": "JWolfhope"
+                }
+            ]
+        },
+        "id": "1726990613755670844",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1519,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@JWolfhope Griffin, your smile means so much to us. \ud83d\udc9d"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "1636661245141999617": {
+        "attachments": {
+            "media_keys": [
+                "3_1636661161037897728",
+                "3_1636661182021992448",
+                "3_1636661202989244416",
+                "3_1636661223973322759"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-17T09:30:23.000Z",
+        "edit_history_tweet_ids": [
+            "1636661245141999617"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Yorkshire",
+                    "probability": 0.5592,
+                    "start": 39,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "UK",
+                    "probability": 0.8949,
+                    "start": 50,
+                    "type": "Place"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "David Chipperfield",
+                    "probability": 0.67,
+                    "start": 66,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 166,
+                    "start": 151,
+                    "tag": "LightingDesign"
+                },
+                {
+                    "end": 280,
+                    "start": 267,
+                    "tag": "MuseumDesign"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "124204576",
+                    "start": 1,
+                    "username": "HepworthGallery"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ZQKB7Z",
+                    "end": 265,
+                    "expanded_url": "https://bit.ly/3ZQKB7Z",
+                    "start": 242,
+                    "url": "https://t.co/ghG6IoPJ1F"
+                },
+                {
+                    "display_url": "pic.twitter.com/ICLh7NsxMW",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1636661245141999617/photo/1",
+                    "media_key": "3_1636661161037897728",
+                    "start": 281,
+                    "url": "https://t.co/ICLh7NsxMW"
+                },
+                {
+                    "display_url": "pic.twitter.com/ICLh7NsxMW",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1636661245141999617/photo/1",
+                    "media_key": "3_1636661182021992448",
+                    "start": 281,
+                    "url": "https://t.co/ICLh7NsxMW"
+                },
+                {
+                    "display_url": "pic.twitter.com/ICLh7NsxMW",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1636661245141999617/photo/1",
+                    "media_key": "3_1636661202989244416",
+                    "start": 281,
+                    "url": "https://t.co/ICLh7NsxMW"
+                },
+                {
+                    "display_url": "pic.twitter.com/ICLh7NsxMW",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1636661245141999617/photo/1",
+                    "media_key": "3_1636661223973322759",
+                    "start": 281,
+                    "url": "https://t.co/ICLh7NsxMW"
+                }
+            ]
+        },
+        "id": "1636661245141999617",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3905,
+            "like_count": 21,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": ".@HepworthGallery is an art gallery in Yorkshire, UK, designed by David Chipperfield Architects. We were instrumental in the natural and architectural #LightingDesign of the gallery, developing a tool specifically for the project. Read more: https://t.co/ghG6IoPJ1F\n\n#MuseumDesign https://t.co/ICLh7NsxMW"
+    }
+}

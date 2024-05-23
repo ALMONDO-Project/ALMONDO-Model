@@ -1,0 +1,39 @@
+{
+    "1724005104179622247": {
+        "author_id": "342772500",
+        "created_at": "2023-11-13T10:03:41.000Z",
+        "edit_history_tweet_ids": [
+            "1724005104179622247"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 108,
+                    "normalized_text": "Irene",
+                    "probability": 0.7277,
+                    "start": 104,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1264238794397691904",
+                    "start": 0,
+                    "username": "St_Pfaff"
+                }
+            ]
+        },
+        "id": "1724005104179622247",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 96,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@St_Pfaff We're sorry to hear this, please send us a direct message if you require further assistance. /Irene"
+    }
+}

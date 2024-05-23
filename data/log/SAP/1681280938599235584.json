@@ -1,0 +1,90 @@
+{
+    "1681280938599235584": {
+        "attachments": {
+            "media_keys": [
+                "16_1681280911982116868"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-07-18T12:33:07.000Z",
+        "edit_history_tweet_ids": [
+            "1681280938599235584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 39,
+                    "normalized_text": "WNBAALLSTAR",
+                    "probability": 0.4729,
+                    "start": 29,
+                    "type": "Organization"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "The League",
+                    "probability": 0.5334,
+                    "start": 50,
+                    "type": "Organization"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "League Pass",
+                    "probability": 0.6073,
+                    "start": 90,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 40,
+                    "start": 28,
+                    "tag": "WNBAALLSTAR"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 27,
+                    "id": "14620190",
+                    "start": 23,
+                    "username": "ATT"
+                },
+                {
+                    "end": 89,
+                    "id": "17159397",
+                    "start": 84,
+                    "username": "WNBA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6014Pu3SA",
+                    "end": 190,
+                    "expanded_url": "https://sap.to/6014Pu3SA",
+                    "start": 167,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/about/customer-stories/nba.html?source=social-Global-TWITTER-Sponsorships-Sponsorship-Business_Technology_Platform_Umbrella-spr-10744896974-ST3%3A_Purpose-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10744896974",
+                    "url": "https://t.co/3t8dyDemiu"
+                },
+                {
+                    "display_url": "pic.twitter.com/7nwGcOzC1f",
+                    "end": 214,
+                    "expanded_url": "https://twitter.com/SAP/status/1681280938599235584/photo/1",
+                    "media_key": "16_1681280911982116868",
+                    "start": 191,
+                    "url": "https://t.co/7nwGcOzC1f"
+                }
+            ]
+        },
+        "id": "1681280938599235584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4542,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Did you tune in to the @ATT #WNBAALLSTAR game? \ud83c\udfc0\n\nThe League\u2019s unique viewership on @WNBA League Pass is up 232% year over year! We power insights like this and more. https://t.co/3t8dyDemiu https://t.co/7nwGcOzC1f"
+    }
+}

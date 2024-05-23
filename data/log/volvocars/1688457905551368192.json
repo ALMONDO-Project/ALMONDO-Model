@@ -1,0 +1,59 @@
+{
+    "1688457905551368192": {
+        "author_id": "342772500",
+        "created_at": "2023-08-07T07:51:49.000Z",
+        "edit_history_tweet_ids": [
+            "1688457905551368192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 88,
+                    "normalized_text": "Millie",
+                    "probability": 0.6691,
+                    "start": 83,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "928997394167025664",
+                    "start": 0,
+                    "username": "nils_kal"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/45mfQdv",
+                    "end": 113,
+                    "expanded_url": "https://bit.ly/45mfQdv",
+                    "start": 90,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/03Tk6pO77W"
+                },
+                {
+                    "display_url": "bit.ly/45g3kfj",
+                    "end": 137,
+                    "expanded_url": "https://bit.ly/45g3kfj",
+                    "start": 114,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/LVa8zRBd3j"
+                }
+            ]
+        },
+        "id": "1688457905551368192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 82,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@nils_kal Sorry to hear this. Please send us a DM if you need further assistance. -Millie\nhttps://t.co/03Tk6pO77W\u00a0https://t.co/LVa8zRBd3j"
+    }
+}

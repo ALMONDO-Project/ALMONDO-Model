@@ -1,0 +1,78 @@
+{
+    "1616103302176858118": {
+        "attachments": {
+            "media_keys": [
+                "3_1616103281167683584"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-19T16:00:27.000Z",
+        "edit_history_tweet_ids": [
+            "1616103302176858118"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 141,
+                    "normalized_text": "UK",
+                    "probability": 0.9848,
+                    "start": 140,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 234,
+                    "start": 224,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 261,
+                    "start": 235,
+                    "tag": "InternationalMentoringDay"
+                },
+                {
+                    "end": 278,
+                    "start": 262,
+                    "tag": "RefugeesWelcome"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 46,
+                    "id": "64671346",
+                    "start": 38,
+                    "username": "Renaisi"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3CZazMZ",
+                    "end": 222,
+                    "expanded_url": "https://bit.ly/3CZazMZ",
+                    "start": 199,
+                    "url": "https://t.co/5i5LtPjiLI"
+                },
+                {
+                    "display_url": "pic.twitter.com/8lmJewEZlA",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Arup/status/1616103302176858118/photo/1",
+                    "media_key": "3_1616103281167683584",
+                    "start": 279,
+                    "url": "https://t.co/8lmJewEZlA"
+                }
+            ]
+        },
+        "id": "1616103302176858118",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1505,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Since 2021, we have been working with @Renaisi to provide mentoring services to refugees with professional experience who are living in the UK. Read more about the experience of being a mentor here: https://t.co/5i5LtPjiLI\n\n#WeAreArup #InternationalMentoringDay #RefugeesWelcome https://t.co/8lmJewEZlA"
+    }
+}

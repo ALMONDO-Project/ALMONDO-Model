@@ -1,0 +1,87 @@
+{
+    "1736930890876379435": {
+        "attachments": {
+            "media_keys": [
+                "3_1736930846743945216",
+                "3_1736930846085382144",
+                "3_1736930846081167360",
+                "3_1736930846085414912"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-19T02:06:09.000Z",
+        "edit_history_tweet_ids": [
+            "1736930890876379435"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "North Pole",
+                    "probability": 0.6626,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 88,
+                    "normalized_text": "LEGOMastersFOX",
+                    "probability": 0.6198,
+                    "start": 75,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 89,
+                    "start": 74,
+                    "tag": "LEGOMastersFOX"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/dF7jqRT3qP",
+                    "end": 113,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1736930890876379435/photo/1",
+                    "media_key": "3_1736930846743945216",
+                    "start": 90,
+                    "url": "https://t.co/dF7jqRT3qP"
+                },
+                {
+                    "display_url": "pic.twitter.com/dF7jqRT3qP",
+                    "end": 113,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1736930890876379435/photo/1",
+                    "media_key": "3_1736930846085382144",
+                    "start": 90,
+                    "url": "https://t.co/dF7jqRT3qP"
+                },
+                {
+                    "display_url": "pic.twitter.com/dF7jqRT3qP",
+                    "end": 113,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1736930890876379435/photo/1",
+                    "media_key": "3_1736930846081167360",
+                    "start": 90,
+                    "url": "https://t.co/dF7jqRT3qP"
+                },
+                {
+                    "display_url": "pic.twitter.com/dF7jqRT3qP",
+                    "end": 113,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1736930890876379435/photo/1",
+                    "media_key": "3_1736930846085414912",
+                    "start": 90,
+                    "url": "https://t.co/dF7jqRT3qP"
+                }
+            ]
+        },
+        "id": "1736930890876379435",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 26,
+            "impression_count": 138399,
+            "like_count": 1092,
+            "quote_count": 12,
+            "reply_count": 107,
+            "retweet_count": 83
+        },
+        "text": "Which of these vintage LEGO trains would make it to the North Pole first? #LEGOMastersFOX https://t.co/dF7jqRT3qP"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1661650901801508866": {
+        "attachments": {
+            "media_keys": [
+                "13_1661650827059032065"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-05-25T08:30:21.000Z",
+        "edit_history_tweet_ids": [
+            "1661650901801508866"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 87,
+                    "normalized_text": "Boston",
+                    "probability": 0.6787,
+                    "start": 82,
+                    "type": "Place"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "Green Line Extension",
+                    "probability": 0.6404,
+                    "start": 91,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 271,
+                    "id": "23595586",
+                    "start": 263,
+                    "username": "MassDOT"
+                },
+                {
+                    "end": 277,
+                    "id": "150334831",
+                    "start": 272,
+                    "username": "MBTA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ossQhU",
+                    "end": 261,
+                    "expanded_url": "https://bit.ly/3ossQhU",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/our-firm/annual-report-2022/boston-glx?utm_medium=social&utm_source=twitter&utm_campaign=green_line_extension_-_annual_report_-_post_2_250523&utm_content=global",
+                    "url": "https://t.co/hLRjWse9av"
+                },
+                {
+                    "display_url": "pic.twitter.com/L0Z02Slkn8",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Arup/status/1661650901801508866/video/1",
+                    "media_key": "13_1661650827059032065",
+                    "start": 278,
+                    "url": "https://t.co/L0Z02Slkn8"
+                }
+            ]
+        },
+        "id": "1661650901801508866",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2508,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "As part of a multidisciplinary Interim Project Management Team brought in to keep Boston\u2019s Green Line Extension project on track, we created a set of recommendations, finding $700m worth of savings and reducing the schedule by 19 months: https://t.co/hLRjWse9av\n\n@massdot @MBTA https://t.co/L0Z02Slkn8"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "1685893440876191747": {
+        "author_id": "517741511",
+        "created_at": "2023-07-31T06:01:33.000Z",
+        "edit_history_tweet_ids": [
+            "1685893440876191747"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "BT Group",
+                    "probability": 0.5883,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Allison Kirkby",
+                    "probability": 0.6144,
+                    "start": 34,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "newsroom.bt.com/bt-group-annou\u2026",
+                    "end": 134,
+                    "expanded_url": "https://newsroom.bt.com/bt-group-announces-the-appointment-of-allison-kirkby-as-chief-executive/",
+                    "start": 111,
+                    "status": 200,
+                    "unwound_url": "https://newsroom.bt.com/bt-group-announces-the-appointment-of-allison-kirkby-as-chief-executive/",
+                    "url": "https://t.co/anwFVaubZB"
+                }
+            ]
+        },
+        "id": "1685893440876191747",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15042,
+            "like_count": 40,
+            "quote_count": 6,
+            "reply_count": 6,
+            "retweet_count": 12
+        },
+        "text": "BT Group is delighted to announce Allison Kirkby as our new Chief Executive \u2013 see the full announcement here:\n\nhttps://t.co/anwFVaubZB"
+    }
+}

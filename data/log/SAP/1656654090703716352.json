@@ -1,0 +1,63 @@
+{
+    "1656654090703716352": {
+        "attachments": {
+            "media_keys": [
+                "16_1656654065311395843"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-11T13:34:49.000Z",
+        "edit_history_tweet_ids": [
+            "1656654090703716352"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "AI",
+                    "probability": 0.879,
+                    "start": 72,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 26,
+                    "id": "19367815",
+                    "start": 14,
+                    "username": "googlecloud"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6014OdANw",
+                    "end": 131,
+                    "expanded_url": "https://sap.to/6014OdANw",
+                    "start": 108,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/05/sap-google-cloud-expanded-partnership-open-data-ai-enterprises/?source=social-Global-TWITTER-MarketingCampaign-StrategicPartnerships-Business_Technology_Platform_Umbrella-spr-9925401443-ST2%3A_Ecosystem-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=9925401443",
+                    "url": "https://t.co/6aRl2bGrav"
+                },
+                {
+                    "display_url": "pic.twitter.com/mC7ZtUcnuE",
+                    "end": 155,
+                    "expanded_url": "https://twitter.com/SAP/status/1656654090703716352/photo/1",
+                    "media_key": "16_1656654065311395843",
+                    "start": 132,
+                    "url": "https://t.co/mC7ZtUcnuE"
+                }
+            ]
+        },
+        "id": "1656654090703716352",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 13018,
+            "like_count": 39,
+            "quote_count": 2,
+            "reply_count": 2,
+            "retweet_count": 12
+        },
+        "text": "Together with @googlecloud, we are building the future of open data and AI for your business. \n\nLearn more: https://t.co/6aRl2bGrav https://t.co/mC7ZtUcnuE"
+    }
+}

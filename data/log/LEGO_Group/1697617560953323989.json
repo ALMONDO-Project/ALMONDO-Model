@@ -1,0 +1,39 @@
+{
+    "1697617560953323989": {
+        "author_id": "295325513",
+        "created_at": "2023-09-01T14:29:01.000Z",
+        "edit_history_tweet_ids": [
+            "1697617560953323989"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "Europe",
+                    "probability": 0.9816,
+                    "start": 76,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "46496161",
+                    "start": 0,
+                    "username": "AnitaRezz"
+                }
+            ]
+        },
+        "id": "1697617560953323989",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 332,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AnitaRezz This make and take event is available only in selected stores in Europe. Keep an eye on our website for future magical events! \u2728\ud83d\udd2e"
+    }
+}

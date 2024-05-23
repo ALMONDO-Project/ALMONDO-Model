@@ -1,0 +1,43 @@
+{
+    "1682360741427290112": {
+        "author_id": "109224937",
+        "created_at": "2023-07-21T12:03:52.000Z",
+        "edit_history_tweet_ids": [
+            "1682360741427290112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "C\u00f4te d\u2019Ivoire",
+                    "probability": 0.9699,
+                    "start": 34,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 185,
+                    "tag": "Unilever"
+                },
+                {
+                    "end": 212,
+                    "start": 195,
+                    "tag": "UnileverInsights"
+                }
+            ]
+        },
+        "id": "1682360741427290112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 15953,
+            "like_count": 10,
+            "quote_count": 5,
+            "reply_count": 300,
+            "retweet_count": 3
+        },
+        "text": "We\u2019re supporting cocoa farmers in C\u00f4te d\u2019Ivoire, empowering them to protect and regenerate farms and forests. Learn more about our work to create a deforestation-free supply chain. \u2b07\ufe0f\n\n#Unilever #UnileverInsights"
+    }
+}

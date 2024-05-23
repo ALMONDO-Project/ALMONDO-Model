@@ -1,0 +1,101 @@
+{
+    "1623985306050392066": {
+        "attachments": {
+            "media_keys": [
+                "13_1623985188949598208"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-10T10:00:43.000Z",
+        "edit_history_tweet_ids": [
+            "1623985306050392066"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Jane Constance",
+                    "probability": 0.8358,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "Jane",
+                    "probability": 0.5506,
+                    "start": 84,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 256,
+                    "start": 246,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 268,
+                    "start": 257,
+                    "tag": "Internship"
+                },
+                {
+                    "end": 277,
+                    "start": 269,
+                    "tag": "Careers"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 70,
+                    "id": "15559763",
+                    "start": 64,
+                    "username": "UCLan"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Meet Jane Constance. Jane is currently working with recently worked with us as a Project Coordinator Intern in our London Liverpool office. But her journey h...",
+                    "display_url": "bit.ly/3EPaU4Y",
+                    "end": 244,
+                    "expanded_url": "https://bit.ly/3EPaU4Y",
+                    "images": [
+                        {
+                            "height": 720,
+                            "url": "https://pbs.twimg.com/news_img/1730576345095086080/1rPhwdXh?format=jpg&name=orig",
+                            "width": 1280
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1730576345095086080/1rPhwdXh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 221,
+                    "status": 200,
+                    "title": "Jane Constance - My Journey #IDPD",
+                    "unwound_url": "https://www.youtube.com/watch?v=FlxgqGhqeMg",
+                    "url": "https://t.co/YyYaebkng8"
+                },
+                {
+                    "display_url": "pic.twitter.com/rBgde8cNyR",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Arup/status/1623985306050392066/video/1",
+                    "media_key": "13_1623985188949598208",
+                    "start": 278,
+                    "url": "https://t.co/rBgde8cNyR"
+                }
+            ]
+        },
+        "id": "1623985306050392066",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2602,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Jane Constance is one of our interns, currently studying law at @UCLan. Born blind, Jane is keen to promote our inclusive workplace and encourage more people living with blindness to apply for internships. Find out more: https://t.co/YyYaebkng8\n\n#WeAreArup #Internship #Careers https://t.co/rBgde8cNyR"
+    }
+}

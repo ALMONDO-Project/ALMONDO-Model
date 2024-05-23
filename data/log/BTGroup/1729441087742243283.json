@@ -1,0 +1,80 @@
+{
+    "1729441087742243283": {
+        "attachments": {
+            "media_keys": [
+                "3_1729439170349658112"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-11-28T10:04:21.000Z",
+        "edit_history_tweet_ids": [
+            "1729441087742243283"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 185,
+                    "normalized_text": "India",
+                    "probability": 0.9879,
+                    "start": 181,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 35,
+                    "tag": "milestone"
+                },
+                {
+                    "end": 83,
+                    "start": 71,
+                    "tag": "sustainable"
+                },
+                {
+                    "end": 131,
+                    "start": 122,
+                    "tag": "electric"
+                },
+                {
+                    "end": 141,
+                    "start": 132,
+                    "tag": "vehicles"
+                },
+                {
+                    "end": 186,
+                    "start": 180,
+                    "tag": "India"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/i/web/status/1729441087742243283",
+                    "start": 279,
+                    "url": "https://t.co/aww6WCLDsD"
+                },
+                {
+                    "display_url": "pic.twitter.com/Q8iitRbJPm",
+                    "end": 326,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1729441087742243283/photo/1",
+                    "media_key": "3_1729439170349658112",
+                    "start": 303,
+                    "url": "https://t.co/Q8iitRbJPm"
+                }
+            ]
+        },
+        "id": "1729441087742243283",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 802,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Last week, we marked a significant #milestone in our journey towards a #sustainable future \u2013 the transition to a fleet of #electric #vehicles for our colleague shuttle services in #India. \n\nThis service provides transfers for those working shifts corresponding to the different\u2026 https://t.co/aww6WCLDsD https://t.co/Q8iitRbJPm"
+    }
+}

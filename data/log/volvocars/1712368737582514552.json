@@ -1,0 +1,42 @@
+{
+    "1712368737582514552": {
+        "author_id": "342772500",
+        "created_at": "2023-10-12T07:24:55.000Z",
+        "edit_history_tweet_ids": [
+            "1712368737582514552"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 175,
+                    "normalized_text": "Irene",
+                    "probability": 0.7471,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/messages/compo\u2026",
+                    "end": 169,
+                    "expanded_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "start": 146,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/CBGifTDzla"
+                }
+            ]
+        },
+        "id": "1712368737582514552",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 85,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@putumadisha We are sorry to hear about your experience. Please send us a direct message with more information if you require further assistance. https://t.co/CBGifTDzla /Irene"
+    }
+}

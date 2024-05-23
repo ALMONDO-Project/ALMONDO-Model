@@ -1,0 +1,55 @@
+{
+    "1627588684508721158": {
+        "author_id": "342772500",
+        "created_at": "2023-02-20T08:39:16.000Z",
+        "edit_history_tweet_ids": [
+            "1627588684508721158"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Adam",
+                    "probability": 0.5963,
+                    "start": 38,
+                    "type": "Person"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Irene",
+                    "probability": 0.5958,
+                    "start": 67,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "64488539",
+                    "start": 0,
+                    "username": "adamteglas"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3Sk1Tre",
+                    "end": 98,
+                    "expanded_url": "https://bit.ly/3Sk1Tre",
+                    "start": 75,
+                    "url": "https://t.co/11LRFWNwiz"
+                }
+            ]
+        },
+        "id": "1627588684508721158",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 108,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@adamteglas We're sorry to hear this, Adam, can you please DM us? -Irene\n\n https://t.co/11LRFWNwiz"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1731747743289266584": {
+        "author_id": "517741511",
+        "created_at": "2023-12-04T18:50:10.000Z",
+        "edit_history_tweet_ids": [
+            "1731747743289266584"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Justin",
+                    "probability": 0.6074,
+                    "start": 18,
+                    "type": "Person"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "Stephanie",
+                    "probability": 0.5438,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "BT Cloud",
+                    "probability": 0.7185,
+                    "start": 71,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1209904734",
+                    "start": 0,
+                    "username": "JustinLeeming"
+                }
+            ]
+        },
+        "id": "1731747743289266584",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 41,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@JustinLeeming Hi Justin. I'm Stephanie, I'll be your guide. I'm sorry BT Cloud isn't working. What's the specific problem you're having, do you get an error message when you try to log in or what's happening? ^StephK"
+    }
+}

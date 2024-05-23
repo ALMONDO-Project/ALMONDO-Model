@@ -1,0 +1,58 @@
+{
+    "1712449934278922700": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T12:47:34.000Z",
+        "edit_history_tweet_ids": [
+            "1712449934278922700"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 119,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8678,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.8278,
+                    "start": 122,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 120,
+                    "start": 103,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 134,
+                    "start": 121,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "43073284",
+                    "start": 0,
+                    "username": "TooMuchDew"
+                }
+            ]
+        },
+        "id": "1712449934278922700",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 297,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TooMuchDew The next time somebody asks you a question, reply through the power of expressive dance! \ud83e\udea9\u26a1#SuperpowerOfPlay #WorldPlayDay"
+    }
+}

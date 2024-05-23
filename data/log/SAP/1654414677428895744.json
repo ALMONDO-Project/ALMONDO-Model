@@ -1,0 +1,82 @@
+{
+    "1654414677428895744": {
+        "attachments": {
+            "media_keys": [
+                "3_1654414639512313856",
+                "3_1654414651013181441",
+                "3_1654414660337037313",
+                "3_1654414670298578945"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-05T09:16:11.000Z",
+        "edit_history_tweet_ids": [
+            "1654414677428895744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "San Francisco",
+                    "probability": 0.9795,
+                    "start": 77,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6011OXIWc",
+                    "end": 115,
+                    "expanded_url": "https://sap.to/6011OXIWc",
+                    "start": 92,
+                    "status": 200,
+                    "unwound_url": "https://news.sap.com/2023/04/sap-opens-new-office-in-heart-of-san-francisco/?source=social-Global-TWITTER-MarketingCampaign-SAPStory_Branding-Life_at_SAP-LifeatSAP-spr-9805758566-ST4%3A_Culture-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=9805758566",
+                    "url": "https://t.co/97mcJn9LPO"
+                },
+                {
+                    "display_url": "pic.twitter.com/1QV2OGVL6v",
+                    "end": 139,
+                    "expanded_url": "https://twitter.com/SAP/status/1654414677428895744/photo/1",
+                    "media_key": "3_1654414639512313856",
+                    "start": 116,
+                    "url": "https://t.co/1QV2OGVL6v"
+                },
+                {
+                    "display_url": "pic.twitter.com/1QV2OGVL6v",
+                    "end": 139,
+                    "expanded_url": "https://twitter.com/SAP/status/1654414677428895744/photo/1",
+                    "media_key": "3_1654414651013181441",
+                    "start": 116,
+                    "url": "https://t.co/1QV2OGVL6v"
+                },
+                {
+                    "display_url": "pic.twitter.com/1QV2OGVL6v",
+                    "end": 139,
+                    "expanded_url": "https://twitter.com/SAP/status/1654414677428895744/photo/1",
+                    "media_key": "3_1654414660337037313",
+                    "start": 116,
+                    "url": "https://t.co/1QV2OGVL6v"
+                },
+                {
+                    "display_url": "pic.twitter.com/1QV2OGVL6v",
+                    "end": 139,
+                    "expanded_url": "https://twitter.com/SAP/status/1654414677428895744/photo/1",
+                    "media_key": "3_1654414670298578945",
+                    "start": 116,
+                    "url": "https://t.co/1QV2OGVL6v"
+                }
+            ]
+        },
+        "id": "1654414677428895744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 9530,
+            "like_count": 35,
+            "quote_count": 3,
+            "reply_count": 3,
+            "retweet_count": 8
+        },
+        "text": "Our vision for flexible, hybrid work includes this beautiful, new office!\n\n\ud83d\udccd San Francisco: https://t.co/97mcJn9LPO https://t.co/1QV2OGVL6v"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1686549906243153920": {
+        "attachments": {
+            "media_keys": [
+                "3_1686549885233905665"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-08-02T01:30:06.000Z",
+        "edit_history_tweet_ids": [
+            "1686549906243153920"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "NetZero",
+                    "probability": 0.617,
+                    "start": 128,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 135,
+                    "start": 127,
+                    "tag": "NetZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3rQZevX",
+                    "end": 198,
+                    "expanded_url": "https://bit.ly/3rQZevX",
+                    "start": 175,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/can-retailers-curb-ecommerces-carbon-footprint?utm_medium=social&utm_source=twitter&utm_campaign=can_retailers_curb_e-commerce%E2%80%99s_carbon_footprint_010823&utm_content=australasia",
+                    "url": "https://t.co/zJFvdoygJa"
+                },
+                {
+                    "display_url": "pic.twitter.com/pgCWz880py",
+                    "end": 222,
+                    "expanded_url": "https://twitter.com/Arup/status/1686549906243153920/photo/1",
+                    "media_key": "3_1686549885233905665",
+                    "start": 199,
+                    "url": "https://t.co/pgCWz880py"
+                }
+            ]
+        },
+        "id": "1686549906243153920",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2148,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "The rise in online shopping has huge impacts for the environment. Read this perspective on what retailers can do to meet their #NetZero goals and decarbonise urban logistics: https://t.co/zJFvdoygJa https://t.co/pgCWz880py"
+    }
+}

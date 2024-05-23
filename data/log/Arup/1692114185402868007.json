@@ -1,0 +1,83 @@
+{
+    "1692114185402868007": {
+        "attachments": {
+            "media_keys": [
+                "13_1692114068486631426"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-08-17T10:00:34.000Z",
+        "edit_history_tweet_ids": [
+            "1692114185402868007"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 140,
+                    "normalized_text": "UHeat",
+                    "probability": 0.7276,
+                    "start": 136,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "UrbanHeat",
+                    "probability": 0.7278,
+                    "start": 237,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 246,
+                    "start": 236,
+                    "tag": "UrbanHeat"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Our cities are getting hotter. Using a unique digital solution - UHeat - we have developed the Urban Heat Snapshot, are report revealing how the urban heat island effect is pushing up the heat of our cities.",
+                    "display_url": "bit.ly/3OW4is2",
+                    "end": 280,
+                    "expanded_url": "https://bit.ly/3OW4is2",
+                    "images": [
+                        {
+                            "height": 1125,
+                            "url": "https://pbs.twimg.com/news_img/1774989783393026049/TYdV_dWL?format=jpg&name=orig",
+                            "width": 2000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1774989783393026049/TYdV_dWL?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 257,
+                    "status": 200,
+                    "title": "Urban Heat Snapshot - Arup",
+                    "unwound_url": "https://www.arup.com/perspectives/publications/research/section/urban-heat-snapshot?utm_medium=social&utm_source=twitter&utm_campaign=Cities_Climate_Digital_UrbanHeatSnapshot_Global_170823",
+                    "url": "https://t.co/1uqDxPlKGA"
+                },
+                {
+                    "display_url": "pic.twitter.com/yk0j46fYvh",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1692114185402868007/video/1",
+                    "media_key": "13_1692114068486631426",
+                    "start": 281,
+                    "url": "https://t.co/yk0j46fYvh"
+                }
+            ]
+        },
+        "id": "1692114185402868007",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 8633,
+            "like_count": 30,
+            "quote_count": 4,
+            "reply_count": 0,
+            "retweet_count": 14
+        },
+        "text": "Millions of people are facing recurrent heatwaves, and the way our cities are designed is only making it worse. Using our digital tool, UHeat, we've analysed six major cities on their hottest days in 2022 \u2013 discover our findings in our #UrbanHeat Snapshot: https://t.co/1uqDxPlKGA https://t.co/yk0j46fYvh"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1622427348833341441": {
+        "author_id": "76117579",
+        "created_at": "2023-02-06T02:49:57.000Z",
+        "edit_history_tweet_ids": [
+            "1622427348833341441"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "888769380577882112",
+                    "start": 0,
+                    "username": "Shakes150e1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/601139fUx",
+                    "end": 92,
+                    "expanded_url": "https://sap.to/601139fUx",
+                    "start": 69,
+                    "status": 200,
+                    "unwound_url": "https://open.sap.com/?source=social-Global-TWITTER-AudienceEngagement-spr-8830382849-account_name&campaigncode=CRM-YA22-BSC-1440506&sprinklrid=8830382849",
+                    "url": "https://t.co/SyMuTQCaw5"
+                },
+                {
+                    "display_url": "sap.to/601339fUL",
+                    "end": 202,
+                    "expanded_url": "https://sap.to/601339fUL",
+                    "start": 179,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/about/company/our-values/csr.html?source=social-Global-TWITTER-AudienceEngagement-spr-8830382849-account_name&campaigncode=CRM-YA22-BSC-1440506&sprinklrid=8830382849#build",
+                    "url": "https://t.co/0a7R6jLTVu"
+                }
+            ]
+        },
+        "id": "1622427348833341441",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 107,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Shakes150e1 We offer free online courses with @openSAP at our site: https://t.co/SyMuTQCaw5 You can learn about additional programs we support to build tech skills at this page: https://t.co/0a7R6jLTVu"
+    }
+}

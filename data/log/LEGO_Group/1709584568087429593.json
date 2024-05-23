@@ -1,0 +1,65 @@
+{
+    "1709584568087429593": {
+        "attachments": {
+            "media_keys": [
+                "7_1709584495714672640"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-10-04T15:01:38.000Z",
+        "edit_history_tweet_ids": [
+            "1709584568087429593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 104,
+                    "normalized_text": "LEGO Technic",
+                    "probability": 0.6324,
+                    "start": 93,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "LEGO",
+                    "probability": 0.3375,
+                    "start": 116,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 120,
+                    "start": 115,
+                    "tag": "LEGO"
+                },
+                {
+                    "end": 133,
+                    "start": 121,
+                    "tag": "LEGOTechnic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Bl7Zw1fY6U",
+                    "end": 157,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1709584568087429593/video/1",
+                    "media_key": "7_1709584495714672640",
+                    "start": 134,
+                    "url": "https://t.co/Bl7Zw1fY6U"
+                }
+            ]
+        },
+        "id": "1709584568087429593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 6,
+            "impression_count": 83547,
+            "like_count": 486,
+            "quote_count": 5,
+            "reply_count": 12,
+            "retweet_count": 52
+        },
+        "text": "From tinkering with bricks to exploring infinite space, kids can reach their next level with LEGO Technic \ud83c\udfc6\u2699\ufe0f\ud83d\ude80 \n  \n#LEGO #LEGOTechnic https://t.co/Bl7Zw1fY6U"
+    }
+}

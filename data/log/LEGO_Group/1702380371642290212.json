@@ -1,0 +1,39 @@
+{
+    "1702380371642290212": {
+        "author_id": "295325513",
+        "created_at": "2023-09-14T17:54:43.000Z",
+        "edit_history_tweet_ids": [
+            "1702380371642290212"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Wi-Fi",
+                    "probability": 0.4797,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 5,
+                    "id": "58561993",
+                    "start": 0,
+                    "username": "Dell"
+                }
+            ]
+        },
+        "id": "1702380371642290212",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 780,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Dell Bricks? Wi-Fi? The two best forms of connection."
+    }
+}

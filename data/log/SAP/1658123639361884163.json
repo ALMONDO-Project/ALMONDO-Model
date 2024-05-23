@@ -1,0 +1,47 @@
+{
+    "1658123639361884163": {
+        "author_id": "76117579",
+        "created_at": "2023-05-15T14:54:16.000Z",
+        "edit_history_tweet_ids": [
+            "1658123639361884163"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 124,
+                    "start": 109,
+                    "tag": "sustainability"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "116627873",
+                    "start": 0,
+                    "username": "flyvenkat"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017OgjFd",
+                    "end": 232,
+                    "expanded_url": "https://sap.to/6017OgjFd",
+                    "start": 209,
+                    "unwound_url": "https://sap.to/6017OgjFd",
+                    "url": "https://t.co/2SJB8q0oBm"
+                }
+            ]
+        },
+        "id": "1658123639361884163",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@flyvenkat Thanks for the feedback. Reducing emissions from our data centers is just one part of our overall #sustainability strategy to achieve carbon neutrality. We offer details at our sustainability page: https://t.co/2SJB8q0oBm"
+    }
+}

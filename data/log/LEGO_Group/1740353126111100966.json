@@ -1,0 +1,39 @@
+{
+    "1740353126111100966": {
+        "author_id": "295325513",
+        "created_at": "2023-12-28T12:44:54.000Z",
+        "edit_history_tweet_ids": [
+            "1740353126111100966"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "LEGO",
+                    "probability": 0.5765,
+                    "start": 26,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "2656556934",
+                    "start": 0,
+                    "username": "MttRbnsn"
+                }
+            ]
+        },
+        "id": "1740353126111100966",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 121,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@MttRbnsn Wow! Could your LEGO collection be any cooler?! \ud83e\udd29\ud83d\udc4f"
+    }
+}

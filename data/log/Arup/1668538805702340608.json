@@ -1,0 +1,69 @@
+{
+    "1668538805702340608": {
+        "attachments": {
+            "media_keys": [
+                "13_1668538699439656960"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-06-13T08:40:25.000Z",
+        "edit_history_tweet_ids": [
+            "1668538805702340608"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Pride Month",
+                    "probability": 0.6968,
+                    "start": 5,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Arup and The University of Westminster have published a new report exploring the relationship between queer communities and public spaces.",
+                    "display_url": "bit.ly/3CpPbQu",
+                    "end": 273,
+                    "expanded_url": "https://bit.ly/3CpPbQu",
+                    "images": [
+                        {
+                            "height": 1131,
+                            "url": "https://pbs.twimg.com/news_img/1778420793439051776/aA_X49SZ?format=jpg&name=orig",
+                            "width": 800
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1778420793439051776/aA_X49SZ?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 250,
+                    "status": 200,
+                    "title": "Icons/Social/More",
+                    "unwound_url": "https://www.arup.com/perspectives/publications/research/section/queering-public-space?utm_medium=social&utm_source=twitter&utm_campaign=pride_post_1_-_queering_cities_130623&utm_content=global",
+                    "url": "https://t.co/1c2M75viDm"
+                },
+                {
+                    "display_url": "pic.twitter.com/oEOSMuJo2w",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/Arup/status/1668538805702340608/video/1",
+                    "media_key": "13_1668538699439656960",
+                    "start": 274,
+                    "url": "https://t.co/oEOSMuJo2w"
+                }
+            ]
+        },
+        "id": "1668538805702340608",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2860,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "It\u2019s Pride Month, a time to celebrate equality but also to challenge any inequality that remains. Part of this is creating cities that are inclusive, welcoming and safe. Discover the key characteristics that contribute to queering public space here: https://t.co/1c2M75viDm https://t.co/oEOSMuJo2w"
+    }
+}

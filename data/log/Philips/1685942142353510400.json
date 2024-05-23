@@ -1,0 +1,39 @@
+{
+    "1685942142353510400": {
+        "author_id": "819791",
+        "created_at": "2023-07-31T09:15:04.000Z",
+        "edit_history_tweet_ids": [
+            "1685942142353510400"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 217,
+                    "normalized_text": "OneBlade",
+                    "probability": 0.8202,
+                    "start": 210,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "825535081",
+                    "start": 0,
+                    "username": "LyricWikiChris"
+                }
+            ]
+        },
+        "id": "1685942142353510400",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 21,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@LyricWikiChris Of course, older stock with plastic packaging might still be available at our retailers, which is why you might still come across some of the older packaging. We are working hard and expect all OneBlade packaging in stores to be plastic-free soon. We hope you understand."
+    }
+}

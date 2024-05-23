@@ -1,0 +1,57 @@
+{
+    "1735342405069545607": {
+        "author_id": "109224937",
+        "created_at": "2023-12-14T16:54:05.000Z",
+        "edit_history_tweet_ids": [
+            "1735342405069545607"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "WEFLighthouse",
+                    "probability": 0.5719,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 89,
+                    "normalized_text": "Sonepat",
+                    "probability": 0.897,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "India",
+                    "probability": 0.9775,
+                    "start": 92,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 13,
+                    "tag": "WEFLighthouse"
+                },
+                {
+                    "end": 255,
+                    "start": 236,
+                    "tag": "FactoryofTheFuture"
+                }
+            ]
+        },
+        "id": "1735342405069545607",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2451,
+            "like_count": 110,
+            "quote_count": 1,
+            "reply_count": 8,
+            "retweet_count": 50
+        },
+        "text": "The Unilever #WEFLighthouse factory network is growing.\u202f \ud83d\udcb9 \n\nOur Nutrition site in Sonepat, India has been recognised as one of the world\u2019s most advanced factories. \n\nFind out how it\u2019s delivering for business, people and the planet.\ud83d\udc99 \n\n#FactoryofTheFuture"
+    }
+}

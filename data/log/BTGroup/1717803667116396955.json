@@ -1,0 +1,45 @@
+{
+    "1717803667116396955": {
+        "author_id": "517741511",
+        "created_at": "2023-10-27T07:21:24.000Z",
+        "edit_history_tweet_ids": [
+            "1717803667116396955"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "James",
+                    "probability": 0.7866,
+                    "start": 13,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "41571847",
+                    "start": 0,
+                    "username": "JamesGoz"
+                },
+                {
+                    "end": 165,
+                    "id": "118750085",
+                    "start": 159,
+                    "username": "bt_uk"
+                }
+            ]
+        },
+        "id": "1717803667116396955",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 48,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@JamesGoz Hi James, I'm really disappointed to see that your service isn't working how we would have liked. If you pop our customer support page a tweet or DM @bt_uk, we'll be able to look into this for you"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1632035614341169152": {
+        "attachments": {
+            "media_keys": [
+                "13_1632035267732176896"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-04T15:09:46.000Z",
+        "edit_history_tweet_ids": [
+            "1632035614341169152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "India",
+                    "probability": 0.9854,
+                    "start": 34,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "India",
+                    "probability": 0.8695,
+                    "start": 133,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "CodeUnnati",
+                    "probability": 0.293,
+                    "start": 166,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 176,
+                    "start": 165,
+                    "tag": "CodeUnnati"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 32,
+                    "id": "450539646",
+                    "start": 22,
+                    "username": "Amul_Coop"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60183Y7Kw",
+                    "end": 163,
+                    "expanded_url": "https://sap.to/60183Y7Kw",
+                    "start": 140,
+                    "url": "https://t.co/28NP611pST"
+                },
+                {
+                    "display_url": "pic.twitter.com/xQ809e0HQq",
+                    "end": 200,
+                    "expanded_url": "https://twitter.com/SAP/status/1632035614341169152/video/1",
+                    "media_key": "13_1632035267732176896",
+                    "start": 177,
+                    "url": "https://t.co/xQ809e0HQq"
+                }
+            ]
+        },
+        "id": "1632035614341169152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6495,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 10
+        },
+        "text": "We joined forces with @Amul_Coop, India's largest provider of dairy products, to provide education for female dairy farmers in rural India. https://t.co/28NP611pST\n\n#CodeUnnati https://t.co/xQ809e0HQq"
+    }
+}

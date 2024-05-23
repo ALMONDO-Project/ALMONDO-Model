@@ -1,0 +1,75 @@
+{
+    "1638177470884241410": {
+        "attachments": {
+            "media_keys": [
+                "13_1638177434733547522"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-21T13:55:19.000Z",
+        "edit_history_tweet_ids": [
+            "1638177470884241410"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "ERP",
+                    "probability": 0.5064,
+                    "start": 15,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "GROWwithSAP",
+                    "probability": 0.603,
+                    "start": 106,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 117,
+                    "start": 105,
+                    "tag": "GROWwithSAP"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 156,
+                    "id": "194686967",
+                    "start": 144,
+                    "username": "SAPCloudERP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6014374As",
+                    "end": 142,
+                    "expanded_url": "https://sap.to/6014374As",
+                    "start": 119,
+                    "url": "https://t.co/M5UvCcIkkB"
+                },
+                {
+                    "display_url": "pic.twitter.com/u7MFr9fIcn",
+                    "end": 180,
+                    "expanded_url": "https://twitter.com/SAP/status/1638177470884241410/video/1",
+                    "media_key": "13_1638177434733547522",
+                    "start": 157,
+                    "url": "https://t.co/u7MFr9fIcn"
+                }
+            ]
+        },
+        "id": "1638177470884241410",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 16352,
+            "like_count": 54,
+            "quote_count": 3,
+            "reply_count": 9,
+            "retweet_count": 20
+        },
+        "text": "Meet the cloud ERP offering that delivers speed, predictability, and continuous innovation.\n\nIntroducing #GROWwithSAP: https://t.co/M5UvCcIkkB\n\n@SAPCloudERP https://t.co/u7MFr9fIcn"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "1613551467658354688": {
+        "attachments": {
+            "media_keys": [
+                "3_1613551465376661506"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-12T15:00:22.000Z",
+        "edit_history_tweet_ids": [
+            "1613551467658354688"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "Microsoft",
+                    "probability": 0.9586,
+                    "start": 107,
+                    "type": "Organization"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "Milwaukee",
+                    "probability": 0.5716,
+                    "start": 158,
+                    "type": "Place"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Fiserv Forum",
+                    "probability": 0.6126,
+                    "start": 170,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 131,
+                    "id": "76613488",
+                    "start": 119,
+                    "username": "tech_record"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3H1GXRS",
+                    "end": 264,
+                    "expanded_url": "https://on.jci.com/3H1GXRS",
+                    "start": 241,
+                    "url": "https://t.co/1IBqTs9TiQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/I6QEeZJbhR",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1613551467658354688/photo/1",
+                    "media_key": "3_1613551465376661506",
+                    "start": 265,
+                    "url": "https://t.co/I6QEeZJbhR"
+                }
+            ]
+        },
+        "id": "1613551467658354688",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 586,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "How do you create a modern sports venue without sacrificing sustainability or operational efficiency? Read Microsoft\u2019s @tech_record to find out how we helped Milwaukee\u2019s Fiserv Forum (and others) develop world-class building infrastructure: https://t.co/1IBqTs9TiQ https://t.co/I6QEeZJbhR"
+    }
+}

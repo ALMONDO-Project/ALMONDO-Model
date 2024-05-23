@@ -1,0 +1,60 @@
+{
+    "1649356080131067906": {
+        "attachments": {
+            "media_keys": [
+                "7_1649354855197077504"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-04-21T10:15:07.000Z",
+        "edit_history_tweet_ids": [
+            "1649356080131067906"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Earth Month",
+                    "probability": 0.6356,
+                    "start": 11,
+                    "type": "Other"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "EarthDay",
+                    "probability": 0.7996,
+                    "start": 262,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 261,
+                    "tag": "EarthDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/B44bTQnVT4",
+                    "end": 308,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1649356080131067906/video/1",
+                    "media_key": "7_1649354855197077504",
+                    "start": 285,
+                    "url": "https://t.co/B44bTQnVT4"
+                }
+            ]
+        },
+        "id": "1649356080131067906",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 917,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Throughout Earth Month, we asked our global team members to share photos of the places they live, work and play to remind us of the importance of protecting the stunning beauty of our planet. Here\u2019s to appreciating &amp; protecting your corner of the world for #EarthDay and every day https://t.co/B44bTQnVT4"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1631219570647154688": {
+        "attachments": {
+            "media_keys": [
+                "16_1631219546550837252"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-03-02T09:07:06.000Z",
+        "edit_history_tweet_ids": [
+            "1631219570647154688"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 164,
+                    "normalized_text": "CSR",
+                    "probability": 0.4959,
+                    "start": 162,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "eBook",
+                    "probability": 0.4359,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 206,
+                    "normalized_text": "SAP4Good",
+                    "probability": 0.6276,
+                    "start": 199,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 207,
+                    "start": 198,
+                    "tag": "SAP4Good"
+                },
+                {
+                    "end": 218,
+                    "start": 208,
+                    "tag": "LifeAtSAP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60123aRYe",
+                    "end": 196,
+                    "expanded_url": "https://sap.to/60123aRYe",
+                    "start": 173,
+                    "url": "https://t.co/GIrweulR9h"
+                },
+                {
+                    "display_url": "pic.twitter.com/jiX4g18fzB",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/SAP/status/1631219570647154688/photo/1",
+                    "media_key": "16_1631219546550837252",
+                    "start": 219,
+                    "url": "https://t.co/jiX4g18fzB"
+                }
+            ]
+        },
+        "id": "1631219570647154688",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5148,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 13
+        },
+        "text": "In 2022, our employees volunteered more than 117,000 hours to support education and economic access for all. \n\nSee all the ways our employees impact lives in our CSR eBook: https://t.co/GIrweulR9h\n\n#SAP4Good #LifeAtSAP https://t.co/jiX4g18fzB"
+    }
+}

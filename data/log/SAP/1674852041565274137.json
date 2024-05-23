@@ -1,0 +1,50 @@
+{
+    "1674852041565274137": {
+        "author_id": "76117579",
+        "created_at": "2023-06-30T18:46:58.000Z",
+        "edit_history_tweet_ids": [
+            "1674852041565274137"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "Kelly",
+                    "probability": 0.7088,
+                    "start": 66,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "240851123",
+                    "start": 0,
+                    "username": "KDHungerford"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6012PEny4",
+                    "end": 181,
+                    "expanded_url": "https://sap.to/6012PEny4",
+                    "start": 158,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/insights/viewpoints/come-together-building-remote-digital-collaboration.html?source=social-Global-TWITTER-AudienceEngagement-spr-10570011847-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10570011847",
+                    "url": "https://t.co/10VzxszL5B"
+                }
+            ]
+        },
+        "id": "1674852041565274137",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 21,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@KDHungerford Thanks for sharing the article with your followers, Kelly \ud83d\ude00 Here's another post you may like about fostering collaboration across remote teams: https://t.co/10VzxszL5B"
+    }
+}

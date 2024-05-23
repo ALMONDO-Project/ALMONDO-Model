@@ -1,0 +1,46 @@
+{
+    "1724306807911301498": {
+        "author_id": "819791",
+        "created_at": "2023-11-14T06:02:33.000Z",
+        "edit_history_tweet_ids": [
+            "1724306807911301498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "Philips OneBlade",
+                    "probability": 0.5147,
+                    "start": 108,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "OneBlade",
+                    "probability": 0.5213,
+                    "start": 160,
+                    "type": "Product"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "2856908899",
+                    "start": 0,
+                    "username": "decent_ladka"
+                }
+            ]
+        },
+        "id": "1724306807911301498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 13,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@decent_ladka You can also try plugging in a different device to make sure the power outlet is working. The Philips OneBlade only works cordless. Check if your OneBlade is plugged into an electric socket. If yes, then try unplugging it and turning it on again. It should work now."
+    }
+}

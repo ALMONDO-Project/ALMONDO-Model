@@ -1,0 +1,46 @@
+{
+    "1739269999343124987": {
+        "attachments": {
+            "media_keys": [
+                "7_1739269976068902912"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-12-25T13:00:56.000Z",
+        "edit_history_tweet_ids": [
+            "1739269999343124987"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Santa",
+                    "probability": 0.7068,
+                    "start": 7,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/bCWVahfrgt",
+                    "end": 71,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1739269999343124987/video/1",
+                    "media_key": "7_1739269976068902912",
+                    "start": 48,
+                    "url": "https://t.co/bCWVahfrgt"
+                }
+            ]
+        },
+        "id": "1739269999343124987",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 38,
+            "impression_count": 155353,
+            "like_count": 2794,
+            "quote_count": 3,
+            "reply_count": 55,
+            "retweet_count": 251
+        },
+        "text": "Secret Santa anyone? \ud83d\udc40 \nHappy Holidays y'all! \ud83c\udf84 https://t.co/bCWVahfrgt"
+    }
+}

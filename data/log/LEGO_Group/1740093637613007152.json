@@ -1,0 +1,46 @@
+{
+    "1740093637613007152": {
+        "author_id": "295325513",
+        "created_at": "2023-12-27T19:33:47.000Z",
+        "edit_history_tweet_ids": [
+            "1740093637613007152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 90,
+                    "normalized_text": "LEGOBuildDay",
+                    "probability": 0.8283,
+                    "start": 79,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 78,
+                    "tag": "LEGOBuildDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "2328235273",
+                    "start": 0,
+                    "username": "KrisVines_"
+                }
+            ]
+        },
+        "id": "1740093637613007152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2185,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@KrisVines_ It's all coming together, and soon it will be out of this galaxy! #LEGOBuildDay"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "1727624363925447062": {
+        "attachments": {
+            "media_keys": [
+                "3_1727624280010104832",
+                "3_1727624300838969344",
+                "3_1727624321831518208",
+                "3_1727624342807146496"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-11-23T09:45:20.000Z",
+        "edit_history_tweet_ids": [
+            "1727624363925447062"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "COP28",
+                    "probability": 0.7567,
+                    "start": 34,
+                    "type": "Other"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "to Transition",
+                    "probability": 0.734,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 64,
+                    "normalized_text": "Asia",
+                    "probability": 0.5605,
+                    "start": 61,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Hong Kong",
+                    "probability": 0.9353,
+                    "start": 105,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 99,
+                    "id": "119316951",
+                    "start": 85,
+                    "username": "CivicExchange"
+                },
+                {
+                    "end": 131,
+                    "id": "1201633579324841985",
+                    "start": 116,
+                    "username": "RCitiesNetwork"
+                },
+                {
+                    "end": 151,
+                    "id": "14559745",
+                    "start": 136,
+                    "username": "WorldResources"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "In the lead-up to COP28, we presented the \u2018Race to Transition\u2019 Asia event series, bringing together thought leaders, policy makers and business leaders from ...",
+                    "display_url": "bit.ly/3Rbtrjj",
+                    "end": 272,
+                    "expanded_url": "https://bit.ly/3Rbtrjj",
+                    "images": [
+                        {
+                            "height": 94,
+                            "url": "https://pbs.twimg.com/news_img/1734490600735711233/j0qnzb4V?format=jpg&name=orig",
+                            "width": 168
+                        },
+                        {
+                            "height": 94,
+                            "url": "https://pbs.twimg.com/news_img/1734490600735711233/j0qnzb4V?format=jpg&name=150x150",
+                            "width": 94
+                        }
+                    ],
+                    "start": 249,
+                    "status": 200,
+                    "title": "Arup Pre-COP28 | Race to Transition Asia event series",
+                    "unwound_url": "https://www.youtube.com/playlist?list=PLCWGoFmkxMjpvvGwO5lOZRSuvrfINTu4p",
+                    "url": "https://t.co/xAg4FLR7PC"
+                },
+                {
+                    "display_url": "pic.twitter.com/Xz7l8Azujw",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1727624363925447062/photo/1",
+                    "media_key": "3_1727624280010104832",
+                    "start": 273,
+                    "url": "https://t.co/Xz7l8Azujw"
+                },
+                {
+                    "display_url": "pic.twitter.com/Xz7l8Azujw",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1727624363925447062/photo/1",
+                    "media_key": "3_1727624300838969344",
+                    "start": 273,
+                    "url": "https://t.co/Xz7l8Azujw"
+                },
+                {
+                    "display_url": "pic.twitter.com/Xz7l8Azujw",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1727624363925447062/photo/1",
+                    "media_key": "3_1727624321831518208",
+                    "start": 273,
+                    "url": "https://t.co/Xz7l8Azujw"
+                },
+                {
+                    "display_url": "pic.twitter.com/Xz7l8Azujw",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1727624363925447062/photo/1",
+                    "media_key": "3_1727624342807146496",
+                    "start": 273,
+                    "url": "https://t.co/Xz7l8Azujw"
+                }
+            ]
+        },
+        "id": "1727624363925447062",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2061,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We successfully concluded our pre-COP28 \u2018Race to Transition\u2019 Asia event series, with @CivicExchange, ICE Hong Kong, @RCitiesNetwork and @WorldResources, which was attended by 1,300+ attendees. Join us towards a greener future. Watch the event here: https://t.co/xAg4FLR7PC https://t.co/Xz7l8Azujw"
+    }
+}

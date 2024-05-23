@@ -1,0 +1,39 @@
+{
+    "1739498624512332086": {
+        "author_id": "819791",
+        "created_at": "2023-12-26T04:09:25.000Z",
+        "edit_history_tweet_ids": [
+            "1739498624512332086"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Gaurav",
+                    "probability": 0.5076,
+                    "start": 20,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "52663086",
+                    "start": 0,
+                    "username": "gauravshirodkar"
+                }
+            ]
+        },
+        "id": "1739498624512332086",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 15,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@gauravshirodkar Hi Gaurav, Kindly confirm whether the issue was resolved or not."
+    }
+}

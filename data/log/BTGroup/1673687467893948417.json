@@ -1,0 +1,47 @@
+{
+    "1673687467893948417": {
+        "author_id": "517741511",
+        "created_at": "2023-06-27T13:39:22.000Z",
+        "edit_history_tweet_ids": [
+            "1673687467893948417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "BT Group",
+                    "probability": 0.4864,
+                    "start": 3,
+                    "type": "Organization"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "UK",
+                    "probability": 0.9779,
+                    "start": 121,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/i/web/status/1673687467893948417",
+                    "start": 278,
+                    "url": "https://t.co/oq43aBlgjE"
+                }
+            ]
+        },
+        "id": "1673687467893948417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4212,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "At BT Group, we pride ourselves on being one of the largest private sector employers of apprentices and graduates in the UK. In the past year alone, we have hired 2,267 apprentices and introduced 221 graduates to our program.\n\nBy recruiting talented individuals and developing\u2026 https://t.co/oq43aBlgjE"
+    }
+}

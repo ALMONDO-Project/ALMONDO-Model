@@ -1,0 +1,53 @@
+{
+    "1642905083540119553": {
+        "attachments": {
+            "media_keys": [
+                "3_1642905079048032256"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-04-03T15:01:10.000Z",
+        "edit_history_tweet_ids": [
+            "1642905083540119553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Explorer",
+                    "probability": 0.5592,
+                    "start": 72,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3Kjs4M3",
+                    "end": 270,
+                    "expanded_url": "https://on.jci.com/3Kjs4M3",
+                    "start": 247,
+                    "url": "https://t.co/T7yP8w75qQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/9T31xdAmlt",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1642905083540119553/photo/1",
+                    "media_key": "3_1642905079048032256",
+                    "start": 271,
+                    "url": "https://t.co/9T31xdAmlt"
+                }
+            ]
+        },
+        "id": "1642905083540119553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 778,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Looking for a better way to solve issues in the field? Our new Facility Explorer controller models and security enhancements allow users to quickly troubleshoot and restore operation, plus maintain the latest IT security and networking standards: https://t.co/T7yP8w75qQ https://t.co/9T31xdAmlt"
+    }
+}

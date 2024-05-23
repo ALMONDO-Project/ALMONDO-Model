@@ -1,0 +1,39 @@
+{
+    "1731179525696864548": {
+        "author_id": "819791",
+        "created_at": "2023-12-03T05:12:17.000Z",
+        "edit_history_tweet_ids": [
+            "1731179525696864548"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 269,
+                    "normalized_text": "Philips",
+                    "probability": 0.5647,
+                    "start": 263,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1297207624732090370",
+                    "start": 0,
+                    "username": "lazywol70243439"
+                }
+            ]
+        },
+        "id": "1731179525696864548",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@lazywol70243439 Hi there, we're sorry to learn about this. Let's take a look. We've arranged a callback for you. Further, to avoid disclosing your personal information on a public forum, we ask that you meet with us via a private message in the interim. Thanks, Philips!"
+    }
+}

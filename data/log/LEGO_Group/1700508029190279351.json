@@ -1,0 +1,51 @@
+{
+    "1700508029190279351": {
+        "author_id": "295325513",
+        "created_at": "2023-09-09T13:54:42.000Z",
+        "edit_history_tweet_ids": [
+            "1700508029190279351"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Tree House",
+                    "probability": 0.5083,
+                    "start": 32,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "440335845",
+                    "start": 0,
+                    "username": "ChristynPienaar"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "LEGO.build/BricksPieces-TW",
+                    "end": 89,
+                    "expanded_url": "http://LEGO.build/BricksPieces-TW",
+                    "start": 66,
+                    "status": 200,
+                    "title": "Bricks & Pieces - Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service/replacementparts/?cmp=OBS-L2L4QVMW73",
+                    "url": "https://t.co/g7WEc881N8"
+                }
+            ]
+        },
+        "id": "1700508029190279351",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 77,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ChristynPienaar Let's get your Tree House complete! Head over to https://t.co/g7WEc881N8, where you can order a replacement! \ud83d\ude42"
+    }
+}

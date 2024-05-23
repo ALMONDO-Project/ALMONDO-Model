@@ -1,0 +1,39 @@
+{
+    "1738526966884520389": {
+        "author_id": "819791",
+        "created_at": "2023-12-23T11:48:23.000Z",
+        "edit_history_tweet_ids": [
+            "1738526966884520389"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 285,
+                    "normalized_text": "Philips",
+                    "probability": 0.5278,
+                    "start": 279,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "736740888",
+                    "start": 0,
+                    "username": "bhavesh94288"
+                }
+            ]
+        },
+        "id": "1738526966884520389",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@bhavesh94288 Just a quick update on your concern, it has been taken care of now. We learned that the product has been successfully replaced, and we believe that the issue stands solved. Please contact us if you have any further questions; we are only a few clicks away. Thanks, Philips!"
+    }
+}

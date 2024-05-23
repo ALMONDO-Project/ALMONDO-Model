@@ -1,0 +1,39 @@
+{
+    "1647908567259705345": {
+        "author_id": "342772500",
+        "created_at": "2023-04-17T10:23:13.000Z",
+        "edit_history_tweet_ids": [
+            "1647908567259705345"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Millie",
+                    "probability": 0.637,
+                    "start": 56,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "55635758",
+                    "start": 0,
+                    "username": "ToneSaboteur"
+                }
+            ]
+        },
+        "id": "1647908567259705345",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 114,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ToneSaboteur Sorry to hear this! Please send us a DM. -Millie"
+    }
+}

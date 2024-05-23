@@ -1,0 +1,46 @@
+{
+    "1734942263862530285": {
+        "author_id": "109224937",
+        "created_at": "2023-12-13T14:24:04.000Z",
+        "edit_history_tweet_ids": [
+            "1734942263862530285"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Unilever",
+                    "probability": 0.4915,
+                    "start": 16,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 228,
+                    "start": 211,
+                    "tag": "UnileverInsights"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 34,
+                    "id": "57056537",
+                    "start": 29,
+                    "username": "ICRW"
+                }
+            ]
+        },
+        "id": "1734942263862530285",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3313,
+            "like_count": 139,
+            "quote_count": 1,
+            "reply_count": 10,
+            "retweet_count": 49
+        },
+        "text": "A new tool from Unilever and @ICRW provides projects across our business with action plans to accelerate gender equity.  \n\nDiscover how we measure progress and develop more opportunities for women and girls.  \n\n#UnileverInsights"
+    }
+}

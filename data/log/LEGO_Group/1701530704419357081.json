@@ -1,0 +1,39 @@
+{
+    "1701530704419357081": {
+        "author_id": "295325513",
+        "created_at": "2023-09-12T09:38:27.000Z",
+        "edit_history_tweet_ids": [
+            "1701530704419357081"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Pippin",
+                    "probability": 0.6173,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1150105182782525440",
+                    "start": 0,
+                    "username": "alitoadventures"
+                }
+            ]
+        },
+        "id": "1701530704419357081",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 498,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@alitoadventures Pippin thought this was the line for second breakfast, so he skipped a spot in the queue! \ud83e\udd54\ud83d\ude0b"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1658485692543164416": {
+        "attachments": {
+            "media_keys": [
+                "13_1658485616072593413"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-16T14:52:56.000Z",
+        "edit_history_tweet_ids": [
+            "1658485692543164416"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 114,
+                    "normalized_text": "ERP",
+                    "probability": 0.4743,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.6625,
+                    "start": 156,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 167,
+                    "start": 155,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 154,
+                    "id": "194686967",
+                    "start": 142,
+                    "username": "SAPCloudERP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6017O9P3X",
+                    "end": 140,
+                    "expanded_url": "https://sap.to/6017O9P3X",
+                    "start": 117,
+                    "status": 200,
+                    "unwound_url": "https://www.sap.com/products/rise/clean-core.html?source=social-Global-TWITTER-MarketingCampaign-CloudERP-S4HANA-SAPPHIRENOW-spr-10003888885-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=10003888885",
+                    "url": "https://t.co/Br7JSs9PSM"
+                },
+                {
+                    "display_url": "pic.twitter.com/xuw6DAHJvS",
+                    "end": 191,
+                    "expanded_url": "https://twitter.com/SAP/status/1658485692543164416/video/1",
+                    "media_key": "13_1658485616072593413",
+                    "start": 168,
+                    "url": "https://t.co/xuw6DAHJvS"
+                }
+            ]
+        },
+        "id": "1658485692543164416",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 11631,
+            "like_count": 50,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 24
+        },
+        "text": "Rapid innovation.\nBetter execution.\nEfficient operations.\n\nDiscover the value of a clean core strategy for your ERP: https://t.co/Br7JSs9PSM\n\n@SAPCloudERP #SAPSapphire https://t.co/xuw6DAHJvS"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "1633135705101574145": {
+        "attachments": {
+            "media_keys": [
+                "13_1633135514416021504"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-07T16:01:08.000Z",
+        "edit_history_tweet_ids": [
+            "1633135705101574145"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "IWD",
+                    "probability": 0.7385,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 31,
+                    "normalized_text": "Mariela Tsopanova",
+                    "probability": 0.6972,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 13,
+                    "start": 9,
+                    "tag": "IWD"
+                },
+                {
+                    "end": 98,
+                    "start": 87,
+                    "tag": "technology"
+                },
+                {
+                    "end": 280,
+                    "start": 271,
+                    "tag": "DigitALL"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 268,
+                    "id": "17137628",
+                    "start": 259,
+                    "username": "UN_Women"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/41BWEqV",
+                    "end": 257,
+                    "expanded_url": "https://bit.ly/41BWEqV",
+                    "start": 234,
+                    "url": "https://t.co/p96iq3goBh"
+                },
+                {
+                    "display_url": "pic.twitter.com/WEbOjmtGO5",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1633135705101574145/video/1",
+                    "media_key": "13_1633135514416021504",
+                    "start": 281,
+                    "url": "https://t.co/WEbOjmtGO5"
+                }
+            ]
+        },
+        "id": "1633135705101574145",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 16269,
+            "like_count": 10,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "Ahead of #IWD, Mariela Tsopanova, Computational Designer, discusses how we can improve #technology to \u201ccreate a more inclusive environment in the future\u201d, as well as prevent unconscious gender bias filtering into our work. Read more: https://t.co/p96iq3goBh\n\n@UN_Women \n\n#DigitALL https://t.co/WEbOjmtGO5"
+    }
+}

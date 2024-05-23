@@ -1,0 +1,67 @@
+{
+    "1636064349906141184": {
+        "attachments": {
+            "media_keys": [
+                "13_1636064221816291329"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-03-15T17:58:32.000Z",
+        "edit_history_tweet_ids": [
+            "1636064349906141184"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "Sponge Cities Snapshot",
+                    "probability": 0.7086,
+                    "start": 57,
+                    "type": "Other"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Toronto",
+                    "probability": 0.9818,
+                    "start": 92,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 99,
+                    "start": 91,
+                    "tag": "Toronto"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3ZNUtz7",
+                    "end": 280,
+                    "expanded_url": "https://bit.ly/3ZNUtz7",
+                    "start": 257,
+                    "url": "https://t.co/jSGjQRs1Wa"
+                },
+                {
+                    "display_url": "pic.twitter.com/fW9PKbIqvQ",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/Arup/status/1636064349906141184/video/1",
+                    "media_key": "13_1636064221816291329",
+                    "start": 281,
+                    "url": "https://t.co/fW9PKbIqvQ"
+                }
+            ]
+        },
+        "id": "1636064349906141184",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1865,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Just released: The latest research as part of our Global Sponge Cities Snapshot shows that #Toronto\u2019s green infrastructure helps position the city to mitigate impacts from more intense rainfall events, ranking third overall in our global survey. Read more: https://t.co/jSGjQRs1Wa https://t.co/fW9PKbIqvQ"
+    }
+}

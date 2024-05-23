@@ -1,0 +1,39 @@
+{
+    "1698635215978066303": {
+        "author_id": "342772500",
+        "created_at": "2023-09-04T09:52:49.000Z",
+        "edit_history_tweet_ids": [
+            "1698635215978066303"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "Irene",
+                    "probability": 0.647,
+                    "start": 70,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "1288481758313418758",
+                    "start": 0,
+                    "username": "otojuk"
+                }
+            ]
+        },
+        "id": "1698635215978066303",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 55,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@otojuk Hi there, can you please send us a DM with more information? -Irene"
+    }
+}

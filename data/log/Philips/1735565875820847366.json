@@ -1,0 +1,46 @@
+{
+    "1735565875820847366": {
+        "author_id": "819791",
+        "created_at": "2023-12-15T07:42:04.000Z",
+        "edit_history_tweet_ids": [
+            "1735565875820847366"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Karthik",
+                    "probability": 0.7092,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Philips Trimmer",
+                    "probability": 0.8406,
+                    "start": 123,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "3280990999",
+                    "start": 0,
+                    "username": "KanagarlaV"
+                }
+            ]
+        },
+        "id": "1735565875820847366",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@KanagarlaV Thank you for getting in touch with us, Karthik. We're sorry to hear that you're experiencing issues with your Philips Trimmer. We recommend you follow the steps in the order listed below to see if the issue is resolved."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "1690000169754910721": {
+        "attachments": {
+            "media_keys": [
+                "3_1690000166495887360"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-08-11T14:00:13.000Z",
+        "edit_history_tweet_ids": [
+            "1690000169754910721"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "Dr. Eggman",
+                    "probability": 0.6641,
+                    "start": 70,
+                    "type": "Person"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "LEGO",
+                    "probability": 0.4863,
+                    "start": 100,
+                    "type": "Other"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Sonic",
+                    "probability": 0.9087,
+                    "start": 112,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 99,
+                    "tag": "LEGO"
+                },
+                {
+                    "end": 117,
+                    "start": 111,
+                    "tag": "Sonic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/udor6dLQ7J",
+                    "end": 147,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1690000169754910721/photo/1",
+                    "media_key": "3_1690000166495887360",
+                    "start": 124,
+                    "url": "https://t.co/udor6dLQ7J"
+                }
+            ]
+        },
+        "id": "1690000169754910721",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 28,
+            "impression_count": 133432,
+            "like_count": 1702,
+            "quote_count": 4,
+            "reply_count": 47,
+            "retweet_count": 222
+        },
+        "text": "That\u2019s more like it! After a *slightly* stressful hostile takeover by Dr. Eggman, it\u2019s good to see #LEGO HQ in #Sonic blue! https://t.co/udor6dLQ7J"
+    }
+}

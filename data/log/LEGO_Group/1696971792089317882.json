@@ -1,0 +1,52 @@
+{
+    "1696971792089317882": {
+        "author_id": "295325513",
+        "created_at": "2023-08-30T19:42:58.000Z",
+        "edit_history_tweet_ids": [
+            "1696971792089317882"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 186,
+                    "normalized_text": "Land Rover",
+                    "probability": 0.9715,
+                    "start": 177,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "202644051",
+                    "start": 0,
+                    "username": "MrDalby"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 123,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 100,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1696971792089317882",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 103,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@MrDalby Your birthday build should be nothing less than a great experience. Please get in touch at https://t.co/tPB6D5ogpj so we can help you put the finishing touches on your Land Rover."
+    }
+}

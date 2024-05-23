@@ -1,0 +1,89 @@
+{
+    "1682303011178045440": {
+        "attachments": {
+            "media_keys": [
+                "7_1682302400940462080"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-07-21T08:14:28.000Z",
+        "edit_history_tweet_ids": [
+            "1682303011178045440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Lundy Island",
+                    "probability": 0.9497,
+                    "start": 58,
+                    "type": "Place"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "North Devon",
+                    "probability": 0.9565,
+                    "start": 72,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Low Earth Orbit",
+                    "probability": 0.5968,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "UK",
+                    "probability": 0.9312,
+                    "start": 175,
+                    "type": "Place"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "Lundy",
+                    "probability": 0.827,
+                    "start": 265,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 166,
+                    "id": "1711885915667202048",
+                    "start": 159,
+                    "username": "oneweb"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/i/web/status/1682303011178045440",
+                    "start": 273,
+                    "url": "https://t.co/rWHB4VG4Lr"
+                },
+                {
+                    "display_url": "pic.twitter.com/tIrCJyapP7",
+                    "end": 320,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1682303011178045440/video/1",
+                    "media_key": "7_1682302400940462080",
+                    "start": 297,
+                    "url": "https://t.co/tIrCJyapP7"
+                }
+            ]
+        },
+        "id": "1682303011178045440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4978,
+            "like_count": 18,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "Exciting news as we deliver fast and reliable internet on Lundy Island, North Devon, for the very first time via Low Earth Orbit satellite in partnership with @OneWeb and the UK government!\ud83c\udf10\n\nCheck out the transformation this milestone is bringing to the island of Lundy!\u2026 https://t.co/rWHB4VG4Lr https://t.co/tIrCJyapP7"
+    }
+}

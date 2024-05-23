@@ -1,0 +1,31 @@
+{
+    "1620810476388077568": {
+        "author_id": "517741511",
+        "created_at": "2023-02-01T15:45:05.000Z",
+        "edit_history_tweet_ids": [
+            "1620810476388077568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "BT Group",
+                    "probability": 0.6648,
+                    "start": 78,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1620810476388077568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5257,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 1
+        },
+        "text": "Tomorrow we\u2019ll be publishing our Q3 financial results, providing an update on BT Group\u2019s performance during the last 3 months of 2022."
+    }
+}

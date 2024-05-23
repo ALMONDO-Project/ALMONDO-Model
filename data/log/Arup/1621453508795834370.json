@@ -1,0 +1,77 @@
+{
+    "1621453508795834370": {
+        "attachments": {
+            "media_keys": [
+                "13_1621453444069429248"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-03T10:20:16.000Z",
+        "edit_history_tweet_ids": [
+            "1621453508795834370"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Christina Dreesen",
+                    "probability": 0.8995,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "Germany",
+                    "probability": 0.9811,
+                    "start": 47,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 255,
+                    "start": 242,
+                    "tag": "FutureOfWork"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 84,
+                    "id": "73134348",
+                    "start": 68,
+                    "username": "worldarchitects"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3DBpf5z",
+                    "end": 240,
+                    "expanded_url": "https://bit.ly/3DBpf5z",
+                    "start": 217,
+                    "status": 200,
+                    "unwound_url": "https://world-architects.com/en/architecture-news/specials/christina-dreesen-the-workplace-is-fundamentally-a-social-experience-as-well-as-an-important-learning-environment-and-a-cultural-sphere-of-life",
+                    "url": "https://t.co/Bmusc3TIIF"
+                },
+                {
+                    "display_url": "pic.twitter.com/p1XVY6Ap9l",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/Arup/status/1621453508795834370/video/1",
+                    "media_key": "13_1621453444069429248",
+                    "start": 256,
+                    "url": "https://t.co/p1XVY6Ap9l"
+                }
+            ]
+        },
+        "id": "1621453508795834370",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1960,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Christina Dreesen, our Change Advisory Lead in Germany, speaks with @worldarchitects on the importance of a holistic take on transforming our workplaces, with digitisation, flexibility and wellbeing at the forefront: https://t.co/Bmusc3TIIF\n\n#FutureOfWork https://t.co/p1XVY6Ap9l"
+    }
+}

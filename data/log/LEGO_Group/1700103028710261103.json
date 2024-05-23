@@ -1,0 +1,46 @@
+{
+    "1700103028710261103": {
+        "attachments": {
+            "media_keys": [
+                "3_1700102620801544192"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-08T11:05:23.000Z",
+        "edit_history_tweet_ids": [
+            "1700103028710261103"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Gearhead",
+                    "probability": 0.7052,
+                    "start": 0,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/TKUGsGokno",
+                    "end": 33,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1700103028710261103/photo/1",
+                    "media_key": "3_1700102620801544192",
+                    "start": 10,
+                    "url": "https://t.co/TKUGsGokno"
+                }
+            ]
+        },
+        "id": "1700103028710261103",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 14,
+            "impression_count": 74073,
+            "like_count": 874,
+            "quote_count": 1,
+            "reply_count": 16,
+            "retweet_count": 73
+        },
+        "text": "Gearhead? https://t.co/TKUGsGokno"
+    }
+}

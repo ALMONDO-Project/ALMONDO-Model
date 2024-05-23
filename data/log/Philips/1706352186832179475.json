@@ -1,0 +1,39 @@
+{
+    "1706352186832179475": {
+        "author_id": "819791",
+        "created_at": "2023-09-25T16:57:18.000Z",
+        "edit_history_tweet_ids": [
+            "1706352186832179475"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Pamita",
+                    "probability": 0.4466,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "14931011",
+                    "start": 0,
+                    "username": "madamepamita"
+                }
+            ]
+        },
+        "id": "1706352186832179475",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@madamepamita Hi there Madame Pamita. We sent you a private message. Talk to you soon."
+    }
+}

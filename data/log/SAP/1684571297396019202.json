@@ -1,0 +1,39 @@
+{
+    "1684571297396019202": {
+        "author_id": "76117579",
+        "created_at": "2023-07-27T14:27:49.000Z",
+        "edit_history_tweet_ids": [
+            "1684571297396019202"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Rafa",
+                    "probability": 0.5839,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1679508889333579776",
+                    "start": 0,
+                    "username": "Can_ned2023"
+                }
+            ]
+        },
+        "id": "1684571297396019202",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 56,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Can_ned2023 Glad to hear it, Rafa, thanks for letting us know!"
+    }
+}

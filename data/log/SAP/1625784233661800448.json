@@ -1,0 +1,60 @@
+{
+    "1625784233661800448": {
+        "attachments": {
+            "media_keys": [
+                "3_1625784230692225024"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-02-15T09:09:01.000Z",
+        "edit_history_tweet_ids": [
+            "1625784233661800448"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Horizon",
+                    "probability": 0.8868,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Horizon",
+                    "probability": 0.8995,
+                    "start": 141,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/60113YNEl",
+                    "end": 186,
+                    "expanded_url": "https://sap.to/60113YNEl",
+                    "start": 163,
+                    "url": "https://t.co/ei7S1GclH9"
+                },
+                {
+                    "display_url": "pic.twitter.com/Q4V7ikFQwb",
+                    "end": 210,
+                    "expanded_url": "https://twitter.com/SAP/status/1625784233661800448/photo/1",
+                    "media_key": "3_1625784230692225024",
+                    "start": 187,
+                    "url": "https://t.co/Q4V7ikFQwb"
+                }
+            ]
+        },
+        "id": "1625784233661800448",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7372,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 10
+        },
+        "text": "Hello Horizon. \ud83d\ude0d\n\nOur design system continues its evolution across our web and mobile entry points, with even more products adopting the new Horizon visual theme. https://t.co/ei7S1GclH9 https://t.co/Q4V7ikFQwb"
+    }
+}

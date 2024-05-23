@@ -1,0 +1,55 @@
+{
+    "1633000827194408961": {
+        "author_id": "342772500",
+        "created_at": "2023-03-07T07:05:11.000Z",
+        "edit_history_tweet_ids": [
+            "1633000827194408961"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Patrick",
+                    "probability": 0.6276,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "Irene",
+                    "probability": 0.6912,
+                    "start": 132,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "1605342266830295040",
+                    "start": 0,
+                    "username": "task4s"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3IUYlr8",
+                    "end": 162,
+                    "expanded_url": "https://bit.ly/3IUYlr8",
+                    "start": 139,
+                    "url": "https://t.co/YOvi6VwKAL"
+                }
+            ]
+        },
+        "id": "1633000827194408961",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 125,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@task4s Hi there Patrick, we are very sorry to hear about the problems you are facing with your XC90. Please can you send us a DM? -Irene\n\nhttps://t.co/YOvi6VwKAL"
+    }
+}

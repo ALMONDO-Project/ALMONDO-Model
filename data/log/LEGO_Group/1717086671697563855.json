@@ -1,0 +1,39 @@
+{
+    "1717086671697563855": {
+        "author_id": "295325513",
+        "created_at": "2023-10-25T07:52:19.000Z",
+        "edit_history_tweet_ids": [
+            "1717086671697563855"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Arrakis",
+                    "probability": 0.8147,
+                    "start": 51,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "801453494280605700",
+                    "start": 0,
+                    "username": "kettyspice"
+                }
+            ]
+        },
+        "id": "1717086671697563855",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 162,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@kettyspice There's no minimum age to visit planet Arrakis! \u2604\ufe0f"
+    }
+}

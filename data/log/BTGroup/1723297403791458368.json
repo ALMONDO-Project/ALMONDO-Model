@@ -1,0 +1,60 @@
+{
+    "1723297403791458368": {
+        "attachments": {
+            "media_keys": [
+                "13_1723295757795520512"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-11-11T11:11:33.000Z",
+        "edit_history_tweet_ids": [
+            "1723295821360242724",
+            "1723297135775383830",
+            "1723297403791458368"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "BT Group",
+                    "probability": 0.5704,
+                    "start": 53,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 34,
+                    "tag": "RemembranceDay"
+                },
+                {
+                    "end": 75,
+                    "start": 62,
+                    "tag": "LestWeForget"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/XWwWZXVMAD",
+                    "end": 99,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1723297403791458368/video/1",
+                    "media_key": "13_1723295757795520512",
+                    "start": 76,
+                    "url": "https://t.co/XWwWZXVMAD"
+                }
+            ]
+        },
+        "id": "1723297403791458368",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1211,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Recognising our Armed Forces this #RemembranceDay at BT Group\n#LestWeForget https://t.co/XWwWZXVMAD"
+    }
+}

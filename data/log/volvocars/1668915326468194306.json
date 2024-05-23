@@ -1,0 +1,46 @@
+{
+    "1668915326468194306": {
+        "author_id": "342772500",
+        "created_at": "2023-06-14T09:36:35.000Z",
+        "edit_history_tweet_ids": [
+            "1668915326468194306"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Zayn",
+                    "probability": 0.5048,
+                    "start": 16,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Jade",
+                    "probability": 0.8884,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1554358912811425793",
+                    "start": 0,
+                    "username": "CZayn192017"
+                }
+            ]
+        },
+        "id": "1668915326468194306",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 57,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@CZayn192017 Hi Zayn, we are sorry to hear this. Please can you send us a DM? - Jade"
+    }
+}

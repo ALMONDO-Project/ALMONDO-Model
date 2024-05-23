@@ -1,0 +1,63 @@
+{
+    "1628771796865392643": {
+        "author_id": "517741511",
+        "created_at": "2023-02-23T15:00:32.000Z",
+        "edit_history_tweet_ids": [
+            "1628771796865392643"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "BT Group",
+                    "probability": 0.4654,
+                    "start": 49,
+                    "type": "Organization"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "As You Sow",
+                    "probability": 0.7093,
+                    "start": 105,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 172,
+                    "id": "72665016",
+                    "start": 163,
+                    "username": "AsYouSow"
+                },
+                {
+                    "end": 190,
+                    "id": "39692025",
+                    "start": 174,
+                    "username": "corporateknight"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "corporateknights.com/rankings/clean\u2026",
+                    "end": 161,
+                    "expanded_url": "https://www.corporateknights.com/rankings/clean-200-rankings/2023-clean-200/these-200-companies-are-leading-the-clean-economy-in-2023/",
+                    "start": 138,
+                    "status": 200,
+                    "unwound_url": "https://www.corporateknights.com/rankings/clean-200-rankings/2023-clean-200/these-200-companies-are-leading-the-clean-economy-in-2023/",
+                    "url": "https://t.co/EaIlGD5vT1"
+                }
+            ]
+        },
+        "id": "1628771796865392643",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1085,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Sustainability continues to be a major pillar at BT Group, and so we are proud to be listed 27th on the \u2018As You Sow 2023 Clean200\u2019 list!\n\nhttps://t.co/EaIlGD5vT1\n\n@AsYouSow \n@CorporateKnight"
+    }
+}

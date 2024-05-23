@@ -1,0 +1,39 @@
+{
+    "1681029354464108544": {
+        "author_id": "76117579",
+        "created_at": "2023-07-17T19:53:24.000Z",
+        "edit_history_tweet_ids": [
+            "1681029354464108544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "ABAP",
+                    "probability": 0.5722,
+                    "start": 25,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "761740224",
+                    "start": 0,
+                    "username": "KingJamesGuard"
+                }
+            ]
+        },
+        "id": "1681029354464108544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 648,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@KingJamesGuard Alright, ABAP. I hope you're hungry!"
+    }
+}

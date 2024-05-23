@@ -1,0 +1,69 @@
+{
+    "1647842397252984832": {
+        "attachments": {
+            "media_keys": [
+                "7_1647841148185001985"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-04-17T06:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1647842397252984832"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 127,
+                    "normalized_text": "Microsoft Beijing West Campus",
+                    "probability": 0.5408,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 174,
+                    "normalized_text": "AI",
+                    "probability": 0.5432,
+                    "start": 173,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 193,
+                    "start": 184,
+                    "tag": "OpenBlue"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3Kzpx0l",
+                    "end": 258,
+                    "expanded_url": "https://on.jci.com/3Kzpx0l",
+                    "start": 235,
+                    "status": 200,
+                    "unwound_url": "https://www.johnsoncontrols.com/openblue/openblue-pioneers/microsoft-beijing?utm_source=twitter&utm_medium=organic-social&utm_term=beijing-west-campus-april-19-2023&utm_content=bdace39a-5f4d-4029-951b-2e003d938da7&utm_campaign=Ent+-+OB+Pioneers",
+                    "url": "https://t.co/C2az19RtnO"
+                },
+                {
+                    "display_url": "pic.twitter.com/8u58D2aLCL",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1647842397252984832/video/1",
+                    "media_key": "7_1647841148185001985",
+                    "start": 259,
+                    "url": "https://t.co/8u58D2aLCL"
+                }
+            ]
+        },
+        "id": "1647842397252984832",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 761,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "How can advanced technologies help us meet our net zero targets? We\u2019ve worked with our partners at Microsoft Beijing West Campus to generate annual energy savings using our AI-enabled #OpenBlue smart building solutions. Find out more: https://t.co/C2az19RtnO https://t.co/8u58D2aLCL"
+    }
+}

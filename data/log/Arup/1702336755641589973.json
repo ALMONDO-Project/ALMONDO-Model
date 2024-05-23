@@ -1,0 +1,82 @@
+{
+    "1702336755641589973": {
+        "attachments": {
+            "media_keys": [
+                "13_1702336679355535360"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-09-14T15:01:25.000Z",
+        "edit_history_tweet_ids": [
+            "1702336755641589973"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Netherlands",
+                    "probability": 0.9891,
+                    "start": 12,
+                    "type": "Place"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "Nederwiek Wind Farm Zone Site",
+                    "probability": 0.7557,
+                    "start": 134,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 222,
+                    "start": 209,
+                    "tag": "OffshoreWind"
+                },
+                {
+                    "end": 230,
+                    "start": 223,
+                    "tag": "Energy"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 92,
+                    "id": "80550673",
+                    "start": 78,
+                    "username": "RVO_Nederland"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/46aL9IH",
+                    "end": 207,
+                    "expanded_url": "https://bit.ly/46aL9IH",
+                    "start": 184,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/news-and-events/arup-to-support-dutch-clean-energy-ambitions-with-integrated-ground-model-for-nederwiek-wind-farm?utm_medium=social&utm_source=twitter&utm_campaign=nederwiek_offshore_wind_farm_140923&utm_content=",
+                    "url": "https://t.co/ShaKUrMuQt"
+                },
+                {
+                    "display_url": "pic.twitter.com/rv1STmPZ1M",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/Arup/status/1702336755641589973/video/1",
+                    "media_key": "13_1702336679355535360",
+                    "start": 231,
+                    "url": "https://t.co/rv1STmPZ1M"
+                }
+            ]
+        },
+        "id": "1702336755641589973",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2411,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Helping the Netherlands reach clean energy ambitions, we\u2019ve been appointed by @RVO_Nederland to assess the opportunities and risks of Nederwiek Wind Farm Zone Site 1. Learn more here:\u202fhttps://t.co/ShaKUrMuQt\n\n#OffshoreWind #Energy https://t.co/rv1STmPZ1M"
+    }
+}

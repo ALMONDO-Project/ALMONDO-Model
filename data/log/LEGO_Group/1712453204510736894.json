@@ -1,0 +1,58 @@
+{
+    "1712453204510736894": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T13:00:34.000Z",
+        "edit_history_tweet_ids": [
+            "1712453204510736894"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 118,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.9291,
+                    "start": 103,
+                    "type": "Other"
+                },
+                {
+                    "end": 132,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.828,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 102,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 133,
+                    "start": 120,
+                    "tag": "WorldPlayDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "240772694",
+                    "start": 0,
+                    "username": "2NerdsOnACouch"
+                }
+            ]
+        },
+        "id": "1712453204510736894",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 202,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@2NerdsOnACouch For the next 30 minutes, talk in the style of your favourite film or TV character! \u26a1\u2728 #SuperpowerOfPlay #WorldPlayDay"
+    }
+}

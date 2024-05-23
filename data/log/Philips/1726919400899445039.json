@@ -1,0 +1,39 @@
+{
+    "1726919400899445039": {
+        "author_id": "819791",
+        "created_at": "2023-11-21T11:04:04.000Z",
+        "edit_history_tweet_ids": [
+            "1726919400899445039"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Manu",
+                    "probability": 0.5263,
+                    "start": 19,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "202282321",
+                    "start": 0,
+                    "username": "naughtynell999"
+                }
+            ]
+        },
+        "id": "1726919400899445039",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@naughtynell999 Hi Manu, As per the service team updates the soleplate of the product is pending for replacement and the team will replace it as soon as possible on priority."
+    }
+}

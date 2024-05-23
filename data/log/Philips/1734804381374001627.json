@@ -1,0 +1,46 @@
+{
+    "1734804381374001627": {
+        "author_id": "819791",
+        "created_at": "2023-12-13T05:16:10.000Z",
+        "edit_history_tweet_ids": [
+            "1734804381374001627"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Vishal",
+                    "probability": 0.6082,
+                    "start": 51,
+                    "type": "Person"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "Philips",
+                    "probability": 0.4441,
+                    "start": 224,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "852751016445345792",
+                    "start": 0,
+                    "username": "ItsVishalPawar"
+                }
+            ]
+        },
+        "id": "1734804381374001627",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 21,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ItsVishalPawar Thank you for sharing the details, Vishal. Based on our discussion, we've taken this up with our team and will get back to you as soon as possible with an update. Your patience is highly appreciated. Thanks, Philips!"
+    }
+}

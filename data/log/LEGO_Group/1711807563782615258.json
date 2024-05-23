@@ -1,0 +1,39 @@
+{
+    "1711807563782615258": {
+        "author_id": "295325513",
+        "created_at": "2023-10-10T18:15:01.000Z",
+        "edit_history_tweet_ids": [
+            "1711807563782615258"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "Zachery",
+                    "probability": 0.4926,
+                    "start": 47,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "1631819130772008961",
+                    "start": 0,
+                    "username": "Hmgambi"
+                }
+            ]
+        },
+        "id": "1711807563782615258",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 491,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Hmgambi We hope building this set has brought Zachery some joy. \u2764\ufe0f"
+    }
+}

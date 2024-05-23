@@ -1,0 +1,46 @@
+{
+    "1719723574401851542": {
+        "attachments": {
+            "media_keys": [
+                "3_1719723553354809344"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-11-01T14:30:25.000Z",
+        "edit_history_tweet_ids": [
+            "1719723574401851542"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "BT Group",
+                    "probability": 0.6302,
+                    "start": 69,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/eZDZNEqNKU",
+                    "end": 146,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1719723574401851542/photo/1",
+                    "media_key": "3_1719723553354809344",
+                    "start": 123,
+                    "url": "https://t.co/eZDZNEqNKU"
+                }
+            ]
+        },
+        "id": "1719723574401851542",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1312,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Tomorrow we publish our H1 financial results, providing an update on BT Group\u2019s performance in the first half of the year. https://t.co/eZDZNEqNKU"
+    }
+}

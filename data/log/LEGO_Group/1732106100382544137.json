@@ -1,0 +1,45 @@
+{
+    "1732106100382544137": {
+        "author_id": "295325513",
+        "created_at": "2023-12-05T18:34:09.000Z",
+        "edit_history_tweet_ids": [
+            "1732106100382544137"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 59,
+                    "normalized_text": "anticipation tower",
+                    "probability": 0.5913,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1116018402030759936",
+                    "start": 0,
+                    "username": "WalmartCAGaming"
+                },
+                {
+                    "end": 30,
+                    "id": "1726973522721828864",
+                    "start": 17,
+                    "username": "LEGOFortnite"
+                }
+            ]
+        },
+        "id": "1732106100382544137",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 21660,
+            "like_count": 135,
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 1
+        },
+        "text": "@WalmartCAGaming @LEGOFortnite We call it anticipation tower and it's getting really tall now."
+    }
+}

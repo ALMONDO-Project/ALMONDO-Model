@@ -1,0 +1,75 @@
+{
+    "1730172499592118631": {
+        "attachments": {
+            "media_keys": [
+                "3_1730172396911362048"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-11-30T10:30:43.000Z",
+        "edit_history_tweet_ids": [
+            "1730172246260355205",
+            "1730172499592118631"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 4,
+                    "normalized_text": "COP28",
+                    "probability": 0.9261,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "Gabrielle Giner",
+                    "probability": 0.641,
+                    "start": 179,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "BT Group",
+                    "probability": 0.4417,
+                    "start": 236,
+                    "type": "Organization"
+                },
+                {
+                    "end": 273,
+                    "normalized_text": "COP28",
+                    "probability": 0.7783,
+                    "start": 269,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/i/web/status/1\u2026",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/i/web/status/1730172499592118631",
+                    "start": 280,
+                    "url": "https://t.co/rJihOJS5Kc"
+                },
+                {
+                    "display_url": "pic.twitter.com/xLWc9HHPyx",
+                    "end": 327,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1730172499592118631/photo/1",
+                    "media_key": "3_1730172396911362048",
+                    "start": 304,
+                    "url": "https://t.co/xLWc9HHPyx"
+                }
+            ]
+        },
+        "id": "1730172499592118631",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1404,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "COP28 has begun, and over the next two weeks, we aim to showcase the great steps we are taking in our journey towards net zero and being a sustainable and responsible business \ud83c\udf0d\n\nGabrielle Giner, Head of Environmental Sustainability at BT Group said: \u201cLooking ahead to COP28, we\u2026 https://t.co/rJihOJS5Kc https://t.co/xLWc9HHPyx"
+    }
+}

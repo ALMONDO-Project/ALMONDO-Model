@@ -1,0 +1,39 @@
+{
+    "1739665728574243007": {
+        "author_id": "295325513",
+        "created_at": "2023-12-26T15:13:25.000Z",
+        "edit_history_tweet_ids": [
+            "1739665728574243007"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 75,
+                    "normalized_text": "Dr. Eggman",
+                    "probability": 0.4616,
+                    "start": 66,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "2332280201",
+                    "start": 0,
+                    "username": "jones1302"
+                }
+            ]
+        },
+        "id": "1739665728574243007",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 112,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@jones1302 Glad you enjoyed the build. We'll pass your regards to Dr. Eggman for his design work! \ud83e\udd16"
+    }
+}

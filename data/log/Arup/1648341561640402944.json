@@ -1,0 +1,55 @@
+{
+    "1648341561640402944": {
+        "attachments": {
+            "media_keys": [
+                "13_1648341367821672450"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-04-18T15:03:47.000Z",
+        "edit_history_tweet_ids": [
+            "1648341561640402944"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "London",
+                    "probability": 0.9506,
+                    "start": 15,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3UKEIHG",
+                    "end": 272,
+                    "expanded_url": "https://bit.ly/3UKEIHG",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/modelling-the-future-how-people-can-drive-better-city-development",
+                    "url": "https://t.co/mG6JffV0f8"
+                },
+                {
+                    "display_url": "pic.twitter.com/Rcfl6WX1QQ",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/Arup/status/1648341561640402944/video/1",
+                    "media_key": "13_1648341367821672450",
+                    "start": 273,
+                    "url": "https://t.co/Rcfl6WX1QQ"
+                }
+            ]
+        },
+        "id": "1648341561640402944",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3027,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "20 years since London's Congestion Charge, we're reflecting on its transformative influence on people\u2019s transportation choices and envisioning the road ahead for transport policy-making. \n\nDiscover our data-driven approach to city development here: https://t.co/mG6JffV0f8 https://t.co/Rcfl6WX1QQ"
+    }
+}

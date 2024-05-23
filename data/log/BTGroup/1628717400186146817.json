@@ -1,0 +1,56 @@
+{
+    "1628717400186146817": {
+        "author_id": "517741511",
+        "created_at": "2023-02-23T11:24:22.000Z",
+        "edit_history_tweet_ids": [
+            "1628717400186146817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Bristol",
+                    "probability": 0.9783,
+                    "start": 60,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "BT Group has opened its new flagship office in Bristol for 2,500 colleagues.The brand new 13-storey waterfront office, close to Bristol Temple Meads station, will become one of the company\u2019s key hubs in the UK and home to specialist and skilled roles from across BT Group, including EE, BT Business and Openreach.BT announced last year that it i...",
+                    "display_url": "newsroom.bt.com/new-bt-group-h\u2026",
+                    "end": 245,
+                    "expanded_url": "https://newsroom.bt.com/new-bt-group-hub-for-2500-people-opens-in-bristol/",
+                    "images": [
+                        {
+                            "height": 1049,
+                            "url": "https://pbs.twimg.com/news_img/1731995775733751808/707QPVF0?format=jpg&name=orig",
+                            "width": 1573
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1731995775733751808/707QPVF0?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 222,
+                    "status": 200,
+                    "title": "New BT Group hub for 2,500 people opens in Bristol",
+                    "unwound_url": "https://newsroom.bt.com/new-bt-group-hub-for-2500-people-opens-in-bristol/",
+                    "url": "https://t.co/Nq4nGF1dwo"
+                }
+            ]
+        },
+        "id": "1628717400186146817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7758,
+            "like_count": 35,
+            "quote_count": 5,
+            "reply_count": 5,
+            "retweet_count": 5
+        },
+        "text": "We are excited to announce the opening of our new office in Bristol!\n\nThis is another step in our Better Workplace programme which aims to bring our people together in brilliant spaces, transforming the way that we work.\n\nhttps://t.co/Nq4nGF1dwo"
+    }
+}

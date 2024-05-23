@@ -1,0 +1,54 @@
+{
+    "1647828740016164866": {
+        "attachments": {
+            "media_keys": [
+                "3_1647828737226833921"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-04-17T05:06:01.000Z",
+        "edit_history_tweet_ids": [
+            "1647828740016164866"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "SAP",
+                    "probability": 0.719,
+                    "start": 69,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 147,
+                    "id": "1396484258",
+                    "start": 135,
+                    "username": "SAPLearning"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/EAutGj8wv9",
+                    "end": 171,
+                    "expanded_url": "https://twitter.com/SAP/status/1647828740016164866/photo/1",
+                    "media_key": "3_1647828737226833921",
+                    "start": 148,
+                    "url": "https://t.co/EAutGj8wv9"
+                }
+            ]
+        },
+        "id": "1647828740016164866",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6251,
+            "like_count": 16,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 12
+        },
+        "text": "How do you like to learn?\n\nWe're offering more options to build your SAP expertise \u2013 try our new live sessions with product experts. \n\n@SAPLearning https://t.co/EAutGj8wv9"
+    }
+}

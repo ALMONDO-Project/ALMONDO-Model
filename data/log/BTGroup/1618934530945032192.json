@@ -1,0 +1,60 @@
+{
+    "1618934530945032192": {
+        "attachments": {
+            "media_keys": [
+                "13_1618934445217648641"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-01-27T11:30:45.000Z",
+        "edit_history_tweet_ids": [
+            "1618934530945032192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "HolocaustMemorialDay",
+                    "probability": 0.9144,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Holocaust",
+                    "probability": 0.8745,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 3,
+                    "tag": "HolocaustMemorialDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/0yvAQrZ4mR",
+                    "end": 169,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1618934530945032192/video/1",
+                    "media_key": "13_1618934445217648641",
+                    "start": 146,
+                    "url": "https://t.co/0yvAQrZ4mR"
+                }
+            ]
+        },
+        "id": "1618934530945032192",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2882,
+            "like_count": 19,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 6
+        },
+        "text": "On #HolocaustMemorialDay, we take time to remember all those affected by the Holocaust and stand against prejudice and hatred in the world\u202ftoday. https://t.co/0yvAQrZ4mR"
+    }
+}

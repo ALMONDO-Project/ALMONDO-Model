@@ -1,0 +1,39 @@
+{
+    "1685941998274871296": {
+        "author_id": "819791",
+        "created_at": "2023-07-31T09:14:30.000Z",
+        "edit_history_tweet_ids": [
+            "1685941998274871296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 224,
+                    "normalized_text": "OneBlade",
+                    "probability": 0.6883,
+                    "start": 217,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "825535081",
+                    "start": 0,
+                    "username": "LyricWikiChris"
+                }
+            ]
+        },
+        "id": "1685941998274871296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 20,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@LyricWikiChris Hello. Thank you for your message. We would like to inform you that the cardboard box initially had a limited launch as a pilot. However, as the pilot was very successful, we are transitioning all our OneBlade packaging to cardboard and are in the middle of this implementation."
+    }
+}

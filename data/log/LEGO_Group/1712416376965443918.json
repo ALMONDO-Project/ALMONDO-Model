@@ -1,0 +1,50 @@
+{
+    "1712416376965443918": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:34:14.000Z",
+        "edit_history_tweet_ids": [
+            "1712416376965443918"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8724,
+                    "start": 90,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "WorldPlayDay",
+                    "probability": 0.7479,
+                    "start": 108,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 106,
+                    "start": 89,
+                    "tag": "SuperpowerOfPlay"
+                },
+                {
+                    "end": 120,
+                    "start": 107,
+                    "tag": "WorldPlayDay"
+                }
+            ]
+        },
+        "id": "1712416376965443918",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 512,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Lots0hugginz Your play mission, should you accept it: build using 4 different colors! \ud83c\udf08 #SuperpowerOfPlay #WorldPlayDay"
+    }
+}

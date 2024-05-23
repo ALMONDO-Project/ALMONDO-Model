@@ -1,0 +1,66 @@
+{
+    "1676146123906351106": {
+        "author_id": "76117579",
+        "created_at": "2023-07-04T08:29:11.000Z",
+        "edit_history_tweet_ids": [
+            "1676146123906351106"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Russell",
+                    "probability": 0.6972,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "SAP Support",
+                    "probability": 0.484,
+                    "start": 114,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "4640754554",
+                    "start": 0,
+                    "username": "kevynrussel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6018PGZNK",
+                    "end": 156,
+                    "expanded_url": "https://sap.to/6018PGZNK",
+                    "start": 133,
+                    "status": 403,
+                    "unwound_url": "https://support.sap.com/en/contact-us.html?source=social-Global-TWITTER-AudienceEngagement-spr-10600317159-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10600317159",
+                    "url": "https://t.co/i7UY0Cs9KI"
+                },
+                {
+                    "display_url": "sap.to/6019PGZNz",
+                    "end": 274,
+                    "expanded_url": "https://sap.to/6019PGZNz",
+                    "start": 251,
+                    "status": 403,
+                    "unwound_url": "https://www.sap.com/about/customer-involvement/influence-adopt.html?source=social-Global-TWITTER-AudienceEngagement-spr-10600317159-account_name&campaigncode=CRM-YA23-SMS-1943157&sprinklrid=10600317159",
+                    "url": "https://t.co/cJrjdqJjES"
+                }
+            ]
+        },
+        "id": "1676146123906351106",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 25,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@kevynrussel Hi, Dr. Russell \u2014 We are here to help. Product experts are available via chat, email or phone at the SAP Support Portal https://t.co/i7UY0Cs9KI. We also offer a variety of options to provide feedback &amp; influence software development: https://t.co/cJrjdqJjES."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1738460019610308952": {
+        "author_id": "819791",
+        "created_at": "2023-12-23T07:22:22.000Z",
+        "edit_history_tweet_ids": [
+            "1738460019610308952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Anupam",
+                    "probability": 0.5798,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Philips",
+                    "probability": 0.5747,
+                    "start": 237,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1297450576641314817",
+                    "start": 0,
+                    "username": "AnupamUpadhyayy"
+                }
+            ]
+        },
+        "id": "1738460019610308952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@AnupamUpadhyayy Hi Anupam, we apologize for the hold up you experienced. That is not who we stand for. Please be advised that we are investigating your case with our team and will contact you as soon as possible with an update. Thanks, Philips!"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "1703408673819595164": {
+        "attachments": {
+            "media_keys": [
+                "3_1703408670929809409"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-09-17T14:00:50.000Z",
+        "edit_history_tweet_ids": [
+            "1703408673819595164"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 44,
+                    "normalized_text": "LEGO",
+                    "probability": 0.3696,
+                    "start": 41,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 40,
+                    "tag": "LEGO"
+                },
+                {
+                    "end": 50,
+                    "start": 46,
+                    "tag": "LFW"
+                },
+                {
+                    "end": 63,
+                    "start": 51,
+                    "tag": "WearableArt"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/YROCuT85Tu",
+                    "end": 87,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1703408673819595164/photo/1",
+                    "media_key": "3_1703408670929809409",
+                    "start": 64,
+                    "url": "https://t.co/YROCuT85Tu"
+                }
+            ]
+        },
+        "id": "1703408673819595164",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 35,
+            "impression_count": 202993,
+            "like_count": 2367,
+            "quote_count": 35,
+            "reply_count": 55,
+            "retweet_count": 235
+        },
+        "text": "LEGO passion... but make it fashion \ud83d\udecd\ufe0f\n\n#LEGO #LFW #WearableArt https://t.co/YROCuT85Tu"
+    }
+}

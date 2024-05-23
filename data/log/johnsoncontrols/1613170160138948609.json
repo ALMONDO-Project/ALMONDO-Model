@@ -1,0 +1,75 @@
+{
+    "1613170160138948609": {
+        "attachments": {
+            "media_keys": [
+                "3_1613170158461243393"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-11T13:45:12.000Z",
+        "edit_history_tweet_ids": [
+            "1613170160138948609"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "George Oliver",
+                    "probability": 0.9359,
+                    "start": 49,
+                    "type": "Person"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "WEF23",
+                    "probability": 0.5552,
+                    "start": 233,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 238,
+                    "start": 232,
+                    "tag": "WEF23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "5120691",
+                    "start": 9,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3IEPQlp",
+                    "end": 275,
+                    "expanded_url": "https://on.jci.com/3IEPQlp",
+                    "start": 252,
+                    "url": "https://t.co/s4yHpFQ17w"
+                },
+                {
+                    "display_url": "pic.twitter.com/wMJG7GcxEk",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1613170160138948609/photo/1",
+                    "media_key": "3_1613170158461243393",
+                    "start": 276,
+                    "url": "https://t.co/wMJG7GcxEk"
+                }
+            ]
+        },
+        "id": "1613170160138948609",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 566,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "With the @wef Annual Meeting starting next week, George Oliver, our CEO, cites case studies from both new and existing construction as examples of how we\u2019re working to create energy-positive buildings around the world in this blog. #WEF23 Take a look: https://t.co/s4yHpFQ17w https://t.co/wMJG7GcxEk"
+    }
+}

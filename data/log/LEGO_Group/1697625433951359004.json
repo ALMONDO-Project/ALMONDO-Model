@@ -1,0 +1,31 @@
+{
+    "1697625433951359004": {
+        "author_id": "295325513",
+        "created_at": "2023-09-01T15:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1697625433951359004"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "PSL",
+                    "probability": 0.7402,
+                    "start": 4,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1697625433951359004",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 83639,
+            "like_count": 434,
+            "quote_count": 2,
+            "reply_count": 21,
+            "retweet_count": 29
+        },
+        "text": "Our PSL stands for Playfully Stacking LEGO bricks."
+    }
+}

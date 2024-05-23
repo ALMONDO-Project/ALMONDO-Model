@@ -1,0 +1,39 @@
+{
+    "1708762088426844424": {
+        "author_id": "295325513",
+        "created_at": "2023-10-02T08:33:23.000Z",
+        "edit_history_tweet_ids": [
+            "1708762088426844424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "LEGO",
+                    "probability": 0.6267,
+                    "start": 20,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "75657573",
+                    "start": 0,
+                    "username": "SJE1981"
+                }
+            ]
+        },
+        "id": "1708762088426844424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 599,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@SJE1981 Around the LEGO store in 80 bricks (and a gift)."
+    }
+}

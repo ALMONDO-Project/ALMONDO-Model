@@ -1,0 +1,103 @@
+{
+    "1734556101691969716": {
+        "attachments": {
+            "media_keys": [
+                "13_1734554125856092161"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-12-12T12:49:35.000Z",
+        "edit_history_tweet_ids": [
+            "1734556101691969716"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "FoodDay",
+                    "probability": 0.5677,
+                    "start": 31,
+                    "type": "Other"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "COP28",
+                    "probability": 0.9529,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Unilever",
+                    "probability": 0.3752,
+                    "start": 174,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 30,
+                    "tag": "FoodDay"
+                },
+                {
+                    "end": 48,
+                    "start": 42,
+                    "tag": "COP28"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "17463923",
+                    "start": 2,
+                    "username": "UNFCCC"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We have bold ambitions to transform our supply chain, including eliminating deforestation by 2023.",
+                    "display_url": "unilever.com/planet-and-soc\u2026",
+                    "end": 247,
+                    "expanded_url": "https://www.unilever.com/planet-and-society/protect-and-regenerate-nature/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Sustainability_ClimateComms_COP28_2023&utm_content=static_SM1",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1734637561098690560/32zbKbvq?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1734637561098690560/32zbKbvq?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 224,
+                    "status": 200,
+                    "title": "Protect & regenerate nature | Planet & Society | Unilever",
+                    "unwound_url": "https://www.unilever.com/planet-and-society/protect-and-regenerate-nature/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_Sustainability_ClimateComms_COP28_2023&utm_content=static_SM1",
+                    "url": "https://t.co/AHzwjetUN9"
+                },
+                {
+                    "display_url": "pic.twitter.com/aKBRIXoPnq",
+                    "end": 271,
+                    "expanded_url": "https://twitter.com/Unilever/status/1734556101691969716/video/1",
+                    "media_key": "13_1734554125856092161",
+                    "start": 248,
+                    "url": "https://t.co/aKBRIXoPnq"
+                }
+            ]
+        },
+        "id": "1734556101691969716",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2056,
+            "like_count": 98,
+            "quote_count": 0,
+            "reply_count": 10,
+            "retweet_count": 54
+        },
+        "text": "A @UNFCCC panel discussion on #FoodDay at #COP28 has underlined the role of business in addressing the twin challenges of climate change and biodiversity loss.  \n\nRead about Unilever\u2019s work to protect and regenerate nature: https://t.co/AHzwjetUN9 https://t.co/aKBRIXoPnq"
+    }
+}

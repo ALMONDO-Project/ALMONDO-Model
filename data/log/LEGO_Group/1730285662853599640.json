@@ -1,0 +1,46 @@
+{
+    "1730285662853599640": {
+        "attachments": {
+            "media_keys": [
+                "3_1730285660836184064"
+            ]
+        },
+        "author_id": "295325513",
+        "created_at": "2023-11-30T18:00:23.000Z",
+        "edit_history_tweet_ids": [
+            "1730285662853599640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Clam Chowder",
+                    "probability": 0.3152,
+                    "start": 0,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/nloaoSbrDb",
+                    "end": 36,
+                    "expanded_url": "https://twitter.com/LEGO_Group/status/1730285662853599640/photo/1",
+                    "media_key": "3_1730285660836184064",
+                    "start": 13,
+                    "url": "https://t.co/nloaoSbrDb"
+                }
+            ]
+        },
+        "id": "1730285662853599640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 33982,
+            "like_count": 375,
+            "quote_count": 3,
+            "reply_count": 8,
+            "retweet_count": 13
+        },
+        "text": "Clam Chowder https://t.co/nloaoSbrDb"
+    }
+}

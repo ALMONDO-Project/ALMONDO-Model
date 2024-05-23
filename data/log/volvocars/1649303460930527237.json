@@ -1,0 +1,50 @@
+{
+    "1649303460930527237": {
+        "author_id": "342772500",
+        "created_at": "2023-04-21T06:46:02.000Z",
+        "edit_history_tweet_ids": [
+            "1649303460930527237"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 81,
+                    "normalized_text": "Irene",
+                    "probability": 0.6003,
+                    "start": 77,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "261332467",
+                    "start": 0,
+                    "username": "jacobus_sacrom"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3oyTOUu",
+                    "end": 106,
+                    "expanded_url": "https://bit.ly/3oyTOUu",
+                    "start": 83,
+                    "status": 404,
+                    "unwound_url": "https://twitter.com/messages/compose?recipient_id=342772500",
+                    "url": "https://t.co/OuvAn4uWDu"
+                }
+            ]
+        },
+        "id": "1649303460930527237",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 116,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@jacobus_sacrom We're sorry to hear about your clutch, please send us a DM. -Irene\nhttps://t.co/OuvAn4uWDu"
+    }
+}

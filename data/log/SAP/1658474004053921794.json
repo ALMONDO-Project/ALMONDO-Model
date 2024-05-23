@@ -1,0 +1,74 @@
+{
+    "1658474004053921794": {
+        "attachments": {
+            "media_keys": [
+                "13_1658473953353166858"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-05-16T14:06:30.000Z",
+        "edit_history_tweet_ids": [
+            "1658474004053921794"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "SAP",
+                    "probability": 0.9604,
+                    "start": 5,
+                    "type": "Organization"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "SAPSapphire",
+                    "probability": 0.5024,
+                    "start": 172,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 119,
+                    "start": 104,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 183,
+                    "start": 171,
+                    "tag": "SAPSapphire"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6011O9MtZ",
+                    "end": 169,
+                    "expanded_url": "https://sap.to/6011O9MtZ",
+                    "start": 146,
+                    "status": 200,
+                    "unwound_url": "https://www.sap.com/sustainability/climate-action.html?source=social-Global-TWITTER-MarketingCampaign-Sustainability-Cross_Solution_Area-SAPPHIRENOW-spr-10003356584-ST1%3A_Intelligent_Enterprise-account_name&campaigncode=CRM-YE23-SNW-1585193&sprinklrid=10003356584",
+                    "url": "https://t.co/bBOSAZncV6"
+                },
+                {
+                    "display_url": "pic.twitter.com/mzI5THEhGs",
+                    "end": 207,
+                    "expanded_url": "https://twitter.com/SAP/status/1658474004053921794/video/1",
+                    "media_key": "13_1658473953353166858",
+                    "start": 184,
+                    "url": "https://t.co/mzI5THEhGs"
+                }
+            ]
+        },
+        "id": "1658474004053921794",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 13921,
+            "like_count": 56,
+            "quote_count": 4,
+            "reply_count": 1,
+            "retweet_count": 26
+        },
+        "text": "Meet SAP's green ledger. \n\nIt's time to manage carbon like cashflow \u2013 and make real progress toward the #sustainability goals driving our future. https://t.co/bBOSAZncV6\n\n#SAPSapphire https://t.co/mzI5THEhGs"
+    }
+}

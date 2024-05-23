@@ -1,0 +1,46 @@
+{
+    "1699329418471047270": {
+        "author_id": "342772500",
+        "created_at": "2023-09-06T07:51:20.000Z",
+        "edit_history_tweet_ids": [
+            "1699329418471047270"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Anne",
+                    "probability": 0.6546,
+                    "start": 25,
+                    "type": "Person"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "Anthony",
+                    "probability": 0.5276,
+                    "start": 146,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1446115536018935823",
+                    "start": 0,
+                    "username": "hop04519037"
+                }
+            ]
+        },
+        "id": "1699329418471047270",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 33,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@hop04519037 Hello there Anne, please send us a direct message and we will escalate this further to your local customer care team. All the best - Anthony"
+    }
+}

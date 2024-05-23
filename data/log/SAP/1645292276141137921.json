@@ -1,0 +1,68 @@
+{
+    "1645292276141137921": {
+        "attachments": {
+            "media_keys": [
+                "3_1645292273930731520"
+            ]
+        },
+        "author_id": "76117579",
+        "created_at": "2023-04-10T05:07:01.000Z",
+        "edit_history_tweet_ids": [
+            "1645292276141137921"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "SAP S/4HANA",
+                    "probability": 0.4339,
+                    "start": 20,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "SAP Build",
+                    "probability": 0.4603,
+                    "start": 104,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 70,
+                    "id": "2603581315",
+                    "start": 57,
+                    "username": "sebschroetel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "sap.to/6014Oy8To",
+                    "end": 138,
+                    "expanded_url": "https://sap.to/6014Oy8To",
+                    "start": 115,
+                    "url": "https://t.co/oWMRiBMCh9"
+                },
+                {
+                    "display_url": "pic.twitter.com/Wi9PDVvCnQ",
+                    "end": 162,
+                    "expanded_url": "https://twitter.com/SAP/status/1645292276141137921/photo/1",
+                    "media_key": "3_1645292273930731520",
+                    "start": 139,
+                    "url": "https://t.co/Wi9PDVvCnQ"
+                }
+            ]
+        },
+        "id": "1645292276141137921",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 8370,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 14
+        },
+        "text": "Get more value from SAP S/4HANA with low-coding tools. \n\n@sebschroetel explains how to get started with SAP Build: https://t.co/oWMRiBMCh9 https://t.co/Wi9PDVvCnQ"
+    }
+}

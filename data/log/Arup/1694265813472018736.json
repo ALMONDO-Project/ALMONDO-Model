@@ -1,0 +1,95 @@
+{
+    "1694265813472018736": {
+        "attachments": {
+            "media_keys": [
+                "13_1694265728352862208"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-08-23T08:30:22.000Z",
+        "edit_history_tweet_ids": [
+            "1694265813472018736"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "UrbanHeat",
+                    "probability": 0.6368,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 144,
+                    "normalized_text": "UHeat",
+                    "probability": 0.5302,
+                    "start": 140,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Urban Heat Snapshot",
+                    "probability": 0.6712,
+                    "start": 169,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 98,
+                    "tag": "UrbanHeat"
+                },
+                {
+                    "end": 128,
+                    "start": 120,
+                    "tag": "digital"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Our cities are getting hotter. Using a unique digital solution - UHeat - we have developed the Urban Heat Snapshot, are report revealing how the urban heat island effect is pushing up the heat of our cities.",
+                    "display_url": "bit.ly/3OW4is2",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/3OW4is2",
+                    "images": [
+                        {
+                            "height": 1125,
+                            "url": "https://pbs.twimg.com/news_img/1774989783393026049/TYdV_dWL?format=jpg&name=orig",
+                            "width": 2000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1774989783393026049/TYdV_dWL?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 253,
+                    "status": 200,
+                    "title": "Urban Heat Snapshot - Arup",
+                    "unwound_url": "https://www.arup.com/perspectives/publications/research/section/urban-heat-snapshot?utm_medium=social&utm_source=twitter&utm_campaign=Cities_Climate_Digital_UrbanHeatSnapshot_Global_170823",
+                    "url": "https://t.co/1uqDxPlKGA"
+                },
+                {
+                    "display_url": "pic.twitter.com/rslBbDdIuH",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Arup/status/1694265813472018736/video/1",
+                    "media_key": "13_1694265728352862208",
+                    "start": 277,
+                    "url": "https://t.co/rslBbDdIuH"
+                }
+            ]
+        },
+        "id": "1694265813472018736",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2611,
+            "like_count": 19,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "As cities become more populated, we must protect residents in the face of climate challenges like #UrbanHeat. Using our #digital solutions, UHeat, we have developed the Urban Heat Snapshot analysing urban heat island in six major cities. Download here: https://t.co/1uqDxPlKGA https://t.co/rslBbDdIuH"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1694698305651884240": {
+        "attachments": {
+            "media_keys": [
+                "3_1694698295098998785"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-08-24T13:08:56.000Z",
+        "edit_history_tweet_ids": [
+            "1694698305651884240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 111,
+                    "normalized_text": "Newsweek",
+                    "probability": 0.7857,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "OpenBlue",
+                    "probability": 0.5557,
+                    "start": 157,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 165,
+                    "start": 156,
+                    "tag": "OpenBlue"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/IvHdWIn5Rz",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1694698305651884240/photo/1",
+                    "media_key": "3_1694698295098998785",
+                    "start": 272,
+                    "url": "https://t.co/IvHdWIn5Rz"
+                }
+            ]
+        },
+        "id": "1694698305651884240",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 915,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "The prevalence of highly sustainable buildings is on the rise thanks to breakthrough technologies. This Newsweek article discusses how innovations like our #OpenBlue suite of solutions help create net-energy positive buildings that generate more energy than they consume. https://t.co/IvHdWIn5Rz"
+    }
+}

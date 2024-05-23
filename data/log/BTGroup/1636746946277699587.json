@@ -1,0 +1,60 @@
+{
+    "1636746946277699587": {
+        "attachments": {
+            "media_keys": [
+                "7_1636746872323801088"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-03-17T15:10:55.000Z",
+        "edit_history_tweet_ids": [
+            "1636746946277699587"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "Scottish Power",
+                    "probability": 0.5187,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Scotland",
+                    "probability": 0.9471,
+                    "start": 73,
+                    "type": "Organization"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "BT",
+                    "probability": 0.3477,
+                    "start": 165,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/DBOQ2JvihD",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1636746946277699587/video/1",
+                    "media_key": "7_1636746872323801088",
+                    "start": 278,
+                    "url": "https://t.co/DBOQ2JvihD"
+                }
+            ]
+        },
+        "id": "1636746946277699587",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1539,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "We have partnered with Scottish Power, to provide network connection for Scotland\u2019s hard to reach green energy sites. \n\nSupporting these sites is important to us at BT, as we continue to work towards accelerating sustainable growth to achieve net zero carbon emissions by 2030. https://t.co/DBOQ2JvihD"
+    }
+}

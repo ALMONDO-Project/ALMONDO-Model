@@ -1,0 +1,95 @@
+{
+    "1623366250196873217": {
+        "attachments": {
+            "media_keys": [
+                "3_1623366166243688449",
+                "3_1623366187223506944",
+                "3_1623366208253792262",
+                "3_1623366229208535075"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-02-08T17:00:49.000Z",
+        "edit_history_tweet_ids": [
+            "1623366250196873217"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "Spring Street",
+                    "probability": 0.7685,
+                    "start": 4,
+                    "type": "Place"
+                },
+                {
+                    "end": 99,
+                    "normalized_text": "Melbourne",
+                    "probability": 0.9758,
+                    "start": 91,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 270,
+                    "id": "143195483",
+                    "start": 255,
+                    "username": "jwa_architects"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3YDHPSB",
+                    "end": 253,
+                    "expanded_url": "https://bit.ly/3YDHPSB",
+                    "start": 230,
+                    "url": "https://t.co/APAe5NlZsK"
+                },
+                {
+                    "display_url": "pic.twitter.com/qnslbBVBAR",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Arup/status/1623366250196873217/photo/1",
+                    "media_key": "3_1623366166243688449",
+                    "start": 271,
+                    "url": "https://t.co/qnslbBVBAR"
+                },
+                {
+                    "display_url": "pic.twitter.com/qnslbBVBAR",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Arup/status/1623366250196873217/photo/1",
+                    "media_key": "3_1623366187223506944",
+                    "start": 271,
+                    "url": "https://t.co/qnslbBVBAR"
+                },
+                {
+                    "display_url": "pic.twitter.com/qnslbBVBAR",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Arup/status/1623366250196873217/photo/1",
+                    "media_key": "3_1623366208253792262",
+                    "start": 271,
+                    "url": "https://t.co/qnslbBVBAR"
+                },
+                {
+                    "display_url": "pic.twitter.com/qnslbBVBAR",
+                    "end": 294,
+                    "expanded_url": "https://twitter.com/Arup/status/1623366250196873217/photo/1",
+                    "media_key": "3_1623366229208535075",
+                    "start": 271,
+                    "url": "https://t.co/qnslbBVBAR"
+                }
+            ]
+        },
+        "id": "1623366250196873217",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1832,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "271 Spring Street is a 15,600m\u00b2, 16-level boutique office building. It\u2019s located in one of Melbourne\u2019s most historic precincts and is a benchmark example of balancing the needs of commercial developers with heritage preservation. https://t.co/APAe5NlZsK\n\n@JWA_Architects https://t.co/qnslbBVBAR"
+    }
+}

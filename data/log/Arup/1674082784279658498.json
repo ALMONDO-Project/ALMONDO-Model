@@ -1,0 +1,100 @@
+{
+    "1674082784279658498": {
+        "attachments": {
+            "media_keys": [
+                "3_1674082763278802950"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-06-28T15:50:13.000Z",
+        "edit_history_tweet_ids": [
+            "1674082784279658498"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 110,
+                    "normalized_text": "Adaptation",
+                    "probability": 0.5113,
+                    "start": 101,
+                    "type": "Other"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "Global",
+                    "probability": 0.517,
+                    "start": 227,
+                    "type": "Other"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "LCW",
+                    "probability": 0.5756,
+                    "start": 275,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 111,
+                    "start": 100,
+                    "tag": "Adaptation"
+                },
+                {
+                    "end": 127,
+                    "start": 116,
+                    "tag": "Resilience"
+                },
+                {
+                    "end": 278,
+                    "start": 274,
+                    "tag": "LCW"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 160,
+                    "id": "1447568694700396545",
+                    "start": 144,
+                    "username": "resilience_rise"
+                },
+                {
+                    "end": 188,
+                    "id": "581885870",
+                    "start": 173,
+                    "username": "SLOCATOfficial"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3JY3RL1",
+                    "end": 272,
+                    "expanded_url": "https://bit.ly/3JY3RL1",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.arup.com/perspectives/how-should-transport-systems-approach-climate-resilience%20?utm_medium=social&utm_source=twitter&utm_campaign=slocat_report_280623&utm_content=global",
+                    "url": "https://t.co/v4TO13UpjL"
+                },
+                {
+                    "display_url": "pic.twitter.com/NjivJ2VnW9",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/Arup/status/1674082784279658498/photo/1",
+                    "media_key": "3_1674082763278802950",
+                    "start": 279,
+                    "url": "https://t.co/NjivJ2VnW9"
+                }
+            ]
+        },
+        "id": "1674082784279658498",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1766,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "How can we protect global transport networks from extreme climate events? Find out in our module on #Adaptation and #Resilience, co-authored by @resilience_rise, as part of @SLoCaTOfficial Transport, Climate and Sustainability Global Status Report: https://t.co/v4TO13UpjL\n\n#LCW https://t.co/NjivJ2VnW9"
+    }
+}

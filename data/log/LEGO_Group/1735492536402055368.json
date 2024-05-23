@@ -1,0 +1,45 @@
+{
+    "1735492536402055368": {
+        "author_id": "295325513",
+        "created_at": "2023-12-15T02:50:39.000Z",
+        "edit_history_tweet_ids": [
+            "1735492536402055368"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Wonderliner",
+                    "probability": 0.4744,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "LEGOMastersFOX",
+                    "probability": 0.7858,
+                    "start": 67,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 81,
+                    "start": 66,
+                    "tag": "LEGOMastersFOX"
+                }
+            ]
+        },
+        "id": "1735492536402055368",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 83637,
+            "like_count": 255,
+            "quote_count": 1,
+            "reply_count": 50,
+            "retweet_count": 39
+        },
+        "text": "If you had a World Wonderliner of your own, where would you go? \u2708\ufe0f#LEGOMastersFOX"
+    }
+}

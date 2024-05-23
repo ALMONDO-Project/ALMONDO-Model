@@ -1,0 +1,39 @@
+{
+    "1661392060698570757": {
+        "author_id": "109224937",
+        "created_at": "2023-05-24T15:21:49.000Z",
+        "edit_history_tweet_ids": [
+            "1661392060698570757"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 17,
+                    "normalized_text": "Leo",
+                    "probability": 0.497,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "995915058906632192",
+                    "start": 0,
+                    "username": "TalbertLeo"
+                }
+            ]
+        },
+        "id": "1661392060698570757",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 60,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@TalbertLeo Hi Leo - we're sad you're not a fan of the fragrance! We'll be happy to share your feedback with our team."
+    }
+}

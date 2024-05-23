@@ -1,0 +1,39 @@
+{
+    "1729031440627556590": {
+        "author_id": "819791",
+        "created_at": "2023-11-27T06:56:33.000Z",
+        "edit_history_tweet_ids": [
+            "1729031440627556590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Bharat",
+                    "probability": 0.7296,
+                    "start": 14,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "121620995",
+                    "start": 0,
+                    "username": "wizbharat"
+                }
+            ]
+        },
+        "id": "1729031440627556590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@wizbharat Hi Bharat, Thanks for reaching out to us. We are glad to assist you. We request you to please share your contact details and the product model number, so that we can look into this for you."
+    }
+}

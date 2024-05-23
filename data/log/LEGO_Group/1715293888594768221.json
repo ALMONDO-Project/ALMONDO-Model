@@ -1,0 +1,39 @@
+{
+    "1715293888594768221": {
+        "author_id": "295325513",
+        "created_at": "2023-10-20T09:08:26.000Z",
+        "edit_history_tweet_ids": [
+            "1715293888594768221"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Kermit",
+                    "probability": 0.564,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "914301800009928704",
+                    "start": 0,
+                    "username": "EvanTurner2020"
+                }
+            ]
+        },
+        "id": "1715293888594768221",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3357,
+            "like_count": 25,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@EvanTurner2020 Your Kermit-ment is on point! \ud83d\udc38"
+    }
+}

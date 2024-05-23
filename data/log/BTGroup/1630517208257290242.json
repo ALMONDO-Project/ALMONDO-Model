@@ -1,0 +1,53 @@
+{
+    "1630517208257290242": {
+        "attachments": {
+            "media_keys": [
+                "7_1630509788168585217"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-02-28T10:36:10.000Z",
+        "edit_history_tweet_ids": [
+            "1630517208257290242"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "England",
+                    "probability": 0.8452,
+                    "start": 19,
+                    "type": "Place"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "BT Group",
+                    "probability": 0.5867,
+                    "start": 28,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/99YKDCdCA0",
+                    "end": 141,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1630517208257290242/video/1",
+                    "media_key": "7_1630509788168585217",
+                    "start": 118,
+                    "url": "https://t.co/99YKDCdCA0"
+                }
+            ]
+        },
+        "id": "1630517208257290242",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 373,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Across the East of England, BT Group provided a boost of \u00a32.89bn to the economy and supported a total of 54,600 jobs. https://t.co/99YKDCdCA0"
+    }
+}

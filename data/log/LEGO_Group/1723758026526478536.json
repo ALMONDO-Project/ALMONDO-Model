@@ -1,0 +1,46 @@
+{
+    "1723758026526478536": {
+        "author_id": "295325513",
+        "created_at": "2023-11-12T17:41:54.000Z",
+        "edit_history_tweet_ids": [
+            "1723758026526478536"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Sue",
+                    "probability": 0.7153,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Amy",
+                    "probability": 0.6951,
+                    "start": 45,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "407029939",
+                    "start": 0,
+                    "username": "sue_perkins"
+                }
+            ]
+        },
+        "id": "1723758026526478536",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1561,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sue_perkins Sue, thanks for letting us know Amy took your son's store visit to a higher level! \ud83e\udd29"
+    }
+}

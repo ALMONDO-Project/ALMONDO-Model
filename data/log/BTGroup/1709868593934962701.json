@@ -1,0 +1,58 @@
+{
+    "1709868593934962701": {
+        "author_id": "517741511",
+        "created_at": "2023-10-05T09:50:15.000Z",
+        "edit_history_tweet_ids": [
+            "1709868593934962701"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 229,
+                    "normalized_text": "DigitalSwitchover",
+                    "probability": 0.6549,
+                    "start": 213,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 212,
+                    "tag": "DigitalSwitchover"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Landlines in the UK are going digital. By 2025, the existing analogue technology (the PSTN - Public Switched Telephone Network) which has supported phone and broadband services for decades will be switched off and replaced with newer digital technology.",
+                    "display_url": "bt.com/about/all-ip",
+                    "end": 210,
+                    "expanded_url": "https://www.bt.com/about/all-ip",
+                    "start": 187,
+                    "status": 200,
+                    "title": "We\u2019re switching from analogue to digital landlines - About BT | BT Plc",
+                    "unwound_url": "https://www.bt.com/about/all-ip",
+                    "url": "https://t.co/LbO4HVWwIh"
+                },
+                {
+                    "display_url": "x.com/Ofcom/status/1\u2026",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/Ofcom/status/1709576650881454322",
+                    "start": 231,
+                    "url": "https://t.co/qTbgnHgnv9"
+                }
+            ]
+        },
+        "id": "1709868593934962701",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1407,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "As part of the industry wide move from analogue to digital landlines, we\u2019re supporting our customers as they switch to our new home phone service, Digital Voice.\n\nTo find out more, visit https://t.co/LbO4HVWwIh\n\n#DigitalSwitchover https://t.co/qTbgnHgnv9"
+    }
+}

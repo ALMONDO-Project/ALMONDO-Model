@@ -1,0 +1,53 @@
+{
+    "1712413060390871354": {
+        "author_id": "295325513",
+        "created_at": "2023-10-12T10:21:03.000Z",
+        "edit_history_tweet_ids": [
+            "1712413060390871354"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "Batmobile",
+                    "probability": 0.9067,
+                    "start": 86,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "SuperpowerOfPlay",
+                    "probability": 0.8255,
+                    "start": 99,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 115,
+                    "start": 98,
+                    "tag": "SuperpowerOfPlay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1442009474277933070",
+                    "start": 0,
+                    "username": "Iamvengeance39"
+                }
+            ]
+        },
+        "id": "1712413060390871354",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 365,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Iamvengeance39 It's time to play! Your challenge is to build your own version of the Batmobile \ud83e\udd87 #SuperpowerOfPlay"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1663502709310337026": {
+        "author_id": "517741511",
+        "created_at": "2023-05-30T11:08:46.000Z",
+        "edit_history_tweet_ids": [
+            "1663502709310337026"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "Europe's Climate Leaders",
+                    "probability": 0.7298,
+                    "start": 29,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 184,
+                    "start": 169,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 193,
+                    "start": 185,
+                    "tag": "Climate"
+                },
+                {
+                    "end": 201,
+                    "start": 194,
+                    "tag": "Leader"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 78,
+                    "id": "4898091",
+                    "start": 63,
+                    "username": "FinancialTimes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ft.com/climate-leader\u2026",
+                    "end": 225,
+                    "expanded_url": "https://www.ft.com/climate-leaders-europe-2023",
+                    "start": 202,
+                    "status": 200,
+                    "unwound_url": "https://www.ft.com/climate-leaders-europe-2023",
+                    "url": "https://t.co/SrkujCcRTT"
+                }
+            ]
+        },
+        "id": "1663502709310337026",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3184,
+            "like_count": 9,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We\u2019ve been listed as one of 'Europe's Climate Leaders 2023' by @FinancialTimes!\ud83c\udf0d\n\nWe're proud to be recognized for our commitment to sustainability and climate action.\n\n#Sustainability #Climate #Leader\nhttps://t.co/SrkujCcRTT"
+    }
+}

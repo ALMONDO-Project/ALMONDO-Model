@@ -1,0 +1,76 @@
+{
+    "1669344309362163716": {
+        "attachments": {
+            "media_keys": [
+                "13_1669344222460395521"
+            ]
+        },
+        "author_id": "517741511",
+        "created_at": "2023-06-15T14:01:12.000Z",
+        "edit_history_tweet_ids": [
+            "1669344309362163716"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "National Blood Week",
+                    "probability": 0.8425,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 123,
+                    "start": 112,
+                    "tag": "GivingType"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Register to be a blood donor, give blood and save lives. Find out more about blood donation.",
+                    "display_url": "blood.co.uk",
+                    "end": 212,
+                    "expanded_url": "https://www.blood.co.uk/",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1790682519513202688/0G-oUenA?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1790682519513202688/0G-oUenA?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 189,
+                    "status": 200,
+                    "title": "Home",
+                    "unwound_url": "https://www.blood.co.uk/",
+                    "url": "https://t.co/tjg2nOL9es"
+                },
+                {
+                    "display_url": "pic.twitter.com/VdgfLcI9K6",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/BTGroup/status/1669344309362163716/video/1",
+                    "media_key": "13_1669344222460395521",
+                    "start": 213,
+                    "url": "https://t.co/VdgfLcI9K6"
+                }
+            ]
+        },
+        "id": "1669344309362163716",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4599,
+            "like_count": 19,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "We are proud to be supporting National Blood Week! \n\nIn 1 hour you could help save up to 3 lives. If you're the #GivingType join the thousands of people giving blood every day. Book now at https://t.co/tjg2nOL9es https://t.co/VdgfLcI9K6"
+    }
+}

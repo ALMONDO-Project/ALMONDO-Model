@@ -1,0 +1,77 @@
+{
+    "1619998995094306818": {
+        "attachments": {
+            "media_keys": [
+                "13_1619998888693227520"
+            ]
+        },
+        "author_id": "67339136",
+        "created_at": "2023-01-30T10:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1619998995094306818"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Taipei Performing Arts Centre",
+                    "probability": 0.5477,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "TPAC",
+                    "probability": 0.2907,
+                    "start": 31,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 230,
+                    "tag": "WeAreArup"
+                },
+                {
+                    "end": 256,
+                    "start": 241,
+                    "tag": "PerformingArts"
+                },
+                {
+                    "end": 265,
+                    "start": 257,
+                    "tag": "Seismic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3jaBmiQ",
+                    "end": 228,
+                    "expanded_url": "https://bit.ly/3jaBmiQ",
+                    "start": 205,
+                    "url": "https://t.co/ZEyiQpJBG1"
+                },
+                {
+                    "display_url": "pic.twitter.com/1KSbpzNWYj",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/Arup/status/1619998995094306818/video/1",
+                    "media_key": "13_1619998888693227520",
+                    "start": 266,
+                    "url": "https://t.co/1KSbpzNWYj"
+                }
+            ]
+        },
+        "id": "1619998995094306818",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 2334,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Taipei Performing Arts Centre (TPAC) not only represents a cultural touchstone for the city, but also a monument to resilience in its role as a public refuge after a severe earthquake. Find out more here: https://t.co/ZEyiQpJBG1\n\n#WeAreArup\u202f#PerformingArts #Seismic https://t.co/1KSbpzNWYj"
+    }
+}

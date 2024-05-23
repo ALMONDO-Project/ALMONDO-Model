@@ -1,0 +1,52 @@
+{
+    "1712175702164853171": {
+        "author_id": "295325513",
+        "created_at": "2023-10-11T18:37:52.000Z",
+        "edit_history_tweet_ids": [
+            "1712175702164853171"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Mystic Witch",
+                    "probability": 0.9631,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1435683520660262916",
+                    "start": 0,
+                    "username": "TManson262"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We' re committed to treating your personal info with care, trust and respect. We' ve created our privacy policy to provide transparency into our practices and policies.",
+                    "display_url": "LEGO.build/Service-TW",
+                    "end": 130,
+                    "expanded_url": "http://LEGO.build/Service-TW",
+                    "start": 107,
+                    "status": 200,
+                    "title": "Customer Service - LEGO.com US",
+                    "unwound_url": "https://www.lego.com/en-us/service?cmp=OBS-OXDWQI71NU",
+                    "url": "https://t.co/tPB6D5ogpj"
+                }
+            ]
+        },
+        "id": "1712175702164853171",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 147,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TManson262 The 'Mystic Witch' set is currently a gift with purchase in select regions. Give us a shout at https://t.co/tPB6D5ogpj, and we'll be happy to check on this for you! \ud83d\udcac\ud83d\udcde"
+    }
+}
