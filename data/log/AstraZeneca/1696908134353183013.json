@@ -1,0 +1,56 @@
+{
+    "1696908134353183013": {
+        "author_id": "62465691",
+        "created_at": "2023-08-30T15:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1696908134353183013"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "HK",
+                    "probability": 0.4056,
+                    "start": 44,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "There is a serious need to improve hyperkalaemia care options for cardiorenal patients. Learn more about how we\u2019re working to improve patient outcomes.",
+                    "display_url": "learn.az/6013Ptymc",
+                    "end": 134,
+                    "expanded_url": "https://learn.az/6013Ptymc",
+                    "images": [
+                        {
+                            "height": 600,
+                            "url": "https://pbs.twimg.com/news_img/1771190116574203904/mAjsyTOp?format=jpg&name=orig",
+                            "width": 900
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1771190116574203904/mAjsyTOp?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 111,
+                    "status": 200,
+                    "title": "The current state of hyperkalaemia in cardiorenal patients",
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2023/current-state-hyperkalaemia.html?utm_source=twitter&utm_medium=2023+hyperkaliemia+evergreen+part+2&utm_term=12055&utm_content=cvrm",
+                    "url": "https://t.co/7et54jdOW5"
+                }
+            ]
+        },
+        "id": "1696908134353183013",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2163,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Learn more about the challenges people with HK face and how broader understanding can help improve management: https://t.co/7et54jdOW5"
+    }
+}

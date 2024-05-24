@@ -1,0 +1,75 @@
+{
+    "1615293731875192833": {
+        "attachments": {
+            "media_keys": [
+                "13_1615293682780864513"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-01-17T10:23:31.000Z",
+        "edit_history_tweet_ids": [
+            "1615293731875192833"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "European Top Employer",
+                    "probability": 0.5955,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 164,
+                    "normalized_text": "Europe",
+                    "probability": 0.9652,
+                    "start": 159,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 229,
+                    "start": 211,
+                    "tag": "PeoplePlanetPaint"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 60,
+                    "id": "138059314",
+                    "start": 48,
+                    "username": "topemployer"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/eu-top-employer",
+                    "end": 210,
+                    "expanded_url": "https://akzo.no/eu-top-employer",
+                    "start": 187,
+                    "url": "https://t.co/zXFBEl7uDu"
+                },
+                {
+                    "display_url": "pic.twitter.com/FlSPW7zzHD",
+                    "end": 253,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1615293731875192833/video/1",
+                    "media_key": "13_1615293682780864513",
+                    "start": 230,
+                    "url": "https://t.co/FlSPW7zzHD"
+                }
+            ]
+        },
+        "id": "1615293731875192833",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1096,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Proud to be rated as a European Top Employer by @topemployer two years in a row. We\u2019ve been certified in eight countries in the latest review, five of them in Europe. Read the full story https://t.co/zXFBEl7uDu #PeoplePlanetPaint https://t.co/FlSPW7zzHD"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "1716394134565523526": {
+        "attachments": {
+            "media_keys": [
+                "3_1716394132116021248"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-10-23T10:00:25.000Z",
+        "edit_history_tweet_ids": [
+            "1716394134565523526"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 136,
+                    "normalized_text": "UnitedStatesGP",
+                    "probability": 0.5326,
+                    "start": 123,
+                    "type": "Organization"
+                },
+                {
+                    "end": 241,
+                    "normalized_text": "Lando",
+                    "probability": 0.5571,
+                    "start": 237,
+                    "type": "Person"
+                },
+                {
+                    "end": 252,
+                    "normalized_text": "F1",
+                    "probability": 0.4902,
+                    "start": 251,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 137,
+                    "start": 122,
+                    "tag": "UnitedStatesGP"
+                },
+                {
+                    "end": 279,
+                    "start": 261,
+                    "tag": "formulaforsuccess"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 31,
+                    "id": "516464106",
+                    "start": 19,
+                    "username": "LandoNorris"
+                },
+                {
+                    "end": 173,
+                    "id": "24871896",
+                    "start": 163,
+                    "username": "McLarenF1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/l9Z1IoFVYB",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1716394134565523526/photo/1",
+                    "media_key": "3_1716394132116021248",
+                    "start": 280,
+                    "url": "https://t.co/l9Z1IoFVYB"
+                }
+            ]
+        },
+        "id": "1716394134565523526",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 531,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Congratulations to @LandoNorris for claiming his fifth P2 of the season \u2013 and his fourth podium in a row \u2013 at yesterday\u2019s #UnitedStatesGP. Well done to the entire @McLarenF1 team. And to make the weekend even more memorable, it was also Lando\u2019s 100th F1 race. \n#formulaforsuccess https://t.co/l9Z1IoFVYB"
+    }
+}

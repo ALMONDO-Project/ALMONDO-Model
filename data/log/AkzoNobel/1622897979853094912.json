@@ -1,0 +1,103 @@
+{
+    "1622897979853094912": {
+        "attachments": {
+            "media_keys": [
+                "3_1622897976086605825"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-02-07T10:00:05.000Z",
+        "edit_history_tweet_ids": [
+            "1622897979853094912"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 206,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.2869,
+                    "start": 198,
+                    "type": "Other"
+                },
+                {
+                    "end": 212,
+                    "normalized_text": "AKZA",
+                    "probability": 0.366,
+                    "start": 209,
+                    "type": "Organization"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "AKZOY",
+                    "probability": 0.4349,
+                    "start": 215,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "AKZOF",
+                    "probability": 0.4234,
+                    "start": 222,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 213,
+                    "start": 208,
+                    "tag": "AKZA"
+                },
+                {
+                    "end": 220,
+                    "start": 214,
+                    "tag": "AKZOY"
+                },
+                {
+                    "end": 227,
+                    "start": 221,
+                    "tag": "AKZOF"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 196,
+                    "start": 179,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 207,
+                    "start": 197,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Q4-2022-webinar",
+                    "end": 176,
+                    "expanded_url": "https://akzo.no/Q4-2022-webinar",
+                    "start": 153,
+                    "url": "https://t.co/OSIYa0fcRW"
+                },
+                {
+                    "display_url": "pic.twitter.com/5AK1zQMUwI",
+                    "end": 251,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1622897979853094912/photo/1",
+                    "media_key": "3_1622897976086605825",
+                    "start": 228,
+                    "url": "https://t.co/5AK1zQMUwI"
+                }
+            ]
+        },
+        "id": "1622897979853094912",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 565,
+            "like_count": 1,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re presenting our Q4 and full-year 2022 results on Wednesday, February 8, at 07.00 CET. Analysts are invited to sign up for our conference call here: https://t.co/OSIYa0fcRW \n\n#FinancialResults #AkzoNobel $AKZA $AKZOY $AKZOF https://t.co/5AK1zQMUwI"
+    }
+}

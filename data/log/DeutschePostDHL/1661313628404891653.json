@@ -1,0 +1,77 @@
+{
+    "1661313628404891653": {
+        "attachments": {
+            "media_keys": [
+                "7_1661303873917661184"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-24T10:10:09.000Z",
+        "edit_history_tweet_ids": [
+            "1661313628404891653"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "DEIB",
+                    "probability": 0.3683,
+                    "start": 11,
+                    "type": "Organization"
+                },
+                {
+                    "end": 21,
+                    "normalized_text": "DHL",
+                    "probability": 0.7674,
+                    "start": 19,
+                    "type": "Organization"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "DEIB",
+                    "probability": 0.244,
+                    "start": 100,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 229,
+                    "start": 216,
+                    "tag": "yellowunited"
+                },
+                {
+                    "end": 238,
+                    "start": 230,
+                    "tag": "iBelong"
+                },
+                {
+                    "end": 244,
+                    "start": 239,
+                    "tag": "DEIB"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/M11iuu7H5n",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1661313628404891653/video/1",
+                    "media_key": "7_1661303873917661184",
+                    "start": 245,
+                    "url": "https://t.co/M11iuu7H5n"
+                }
+            ]
+        },
+        "id": "1661313628404891653",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1984,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 5
+        },
+        "text": "Let's talk DEIB at DHL! As a company powered by people, Diversity, Equity, Inclusion and\nBelonging (DEIB) is at the heart of everything we do. Watch this film to learn what belonging means to some of our colleagues. #yellowunited #iBelong #DEIB https://t.co/M11iuu7H5n"
+    }
+}

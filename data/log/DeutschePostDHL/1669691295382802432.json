@@ -1,0 +1,63 @@
+{
+    "1669691295382802432": {
+        "author_id": "197352549",
+        "created_at": "2023-06-16T13:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1669691295382802432"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Helsinki",
+                    "probability": 0.9384,
+                    "start": 47,
+                    "type": "Place"
+                },
+                {
+                    "end": 109,
+                    "normalized_text": "Finland",
+                    "probability": 0.9544,
+                    "start": 103,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 55,
+                    "start": 46,
+                    "tag": "Helsinki"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "869879920645865472",
+                    "start": 1,
+                    "username": "DHLexpress"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 238,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/dhl-express-build-new-gateway-facility-helsinki.html",
+                    "start": 215,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/dhl-express-build-new-gateway-facility-helsinki.html",
+                    "url": "https://t.co/r02Wyp0gnl"
+                }
+            ]
+        },
+        "id": "1669691295382802432",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1594,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 3
+        },
+        "text": ".@DHLexpress to build new gateway facility in #Helsinki\nAll incoming and outgoing Express shipments in Finland will be handled in the logistics center, which is scheduled to be completed in the second half of 2025. https://t.co/r02Wyp0gnl"
+    }
+}

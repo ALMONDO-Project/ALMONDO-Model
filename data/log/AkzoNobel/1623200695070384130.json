@@ -1,0 +1,110 @@
+{
+    "1623200695070384130": {
+        "attachments": {
+            "media_keys": [
+                "3_1623200691907854336"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-02-08T06:02:57.000Z",
+        "edit_history_tweet_ids": [
+            "1623200695070384130"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.8028,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4685,
+                    "start": 222,
+                    "type": "Other"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "AKZA",
+                    "probability": 0.3935,
+                    "start": 233,
+                    "type": "Organization"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "AKZOY",
+                    "probability": 0.4903,
+                    "start": 239,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "AKZOF",
+                    "probability": 0.4787,
+                    "start": 246,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 237,
+                    "start": 232,
+                    "tag": "AKZA"
+                },
+                {
+                    "end": 244,
+                    "start": 238,
+                    "tag": "AKZOY"
+                },
+                {
+                    "end": 251,
+                    "start": 245,
+                    "tag": "AKZOF"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 220,
+                    "start": 203,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 231,
+                    "start": 221,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Q4-2022-release",
+                    "end": 199,
+                    "expanded_url": "https://akzo.no/Q4-2022-release",
+                    "start": 176,
+                    "url": "https://t.co/nJtWWY7Z23"
+                },
+                {
+                    "display_url": "pic.twitter.com/NCI9UPzqNc",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1623200695070384130/photo/1",
+                    "media_key": "3_1623200691907854336",
+                    "start": 252,
+                    "url": "https://t.co/NCI9UPzqNc"
+                }
+            ]
+        },
+        "id": "1623200695070384130",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 778,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Our Q4 and full-year 2022 results are now available. AkzoNobel grows revenue on increased pricing, despite macro-economic headwinds impacting volumes and results.. Learn more: https://t.co/nJtWWY7Z23  \n\n#FinancialResults #AkzoNobel $AKZA $AKZOY $AKZOF https://t.co/NCI9UPzqNc"
+    }
+}

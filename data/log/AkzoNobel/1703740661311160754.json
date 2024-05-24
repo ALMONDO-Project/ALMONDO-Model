@@ -1,0 +1,132 @@
+{
+    "1703740661311160754": {
+        "attachments": {
+            "media_keys": [
+                "3_1703740657032896512"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-09-18T12:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1703740661311160754"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "SingaporeGP",
+                    "probability": 0.8561,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 163,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.3913,
+                    "start": 155,
+                    "type": "Organization"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "McLaren",
+                    "probability": 0.947,
+                    "start": 166,
+                    "type": "Organization"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "SikkensVR",
+                    "probability": 0.4198,
+                    "start": 187,
+                    "type": "Other"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "FormulaForSuccess",
+                    "probability": 0.4862,
+                    "start": 198,
+                    "type": "Other"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "F1",
+                    "probability": 0.7188,
+                    "start": 217,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 59,
+                    "tag": "SingaporeGP"
+                },
+                {
+                    "end": 164,
+                    "start": 154,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 173,
+                    "start": 165,
+                    "tag": "McLaren"
+                },
+                {
+                    "end": 185,
+                    "start": 174,
+                    "tag": "Automotive"
+                },
+                {
+                    "end": 196,
+                    "start": 186,
+                    "tag": "SikkensVR"
+                },
+                {
+                    "end": 215,
+                    "start": 197,
+                    "tag": "FormulaForSuccess"
+                },
+                {
+                    "end": 219,
+                    "start": 216,
+                    "tag": "F1"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 31,
+                    "id": "516464106",
+                    "start": 19,
+                    "username": "LandoNorris"
+                },
+                {
+                    "end": 146,
+                    "id": "24871896",
+                    "start": 136,
+                    "username": "McLarenF1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Tlkzv1GgjQ",
+                    "end": 243,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1703740661311160754/photo/1",
+                    "media_key": "3_1703740657032896512",
+                    "start": 220,
+                    "url": "https://t.co/Tlkzv1GgjQ"
+                }
+            ]
+        },
+        "id": "1703740661311160754",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 765,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Fantastic drive by @LandoNorris to claim P2 in yesterday\u2019s #SingaporeGP \u2013 his third podium of the season! Congratulations to the entire @McLarenF1 team.\n\n#AkzoNobel #McLaren #Automotive #SikkensVR #FormulaForSuccess #F1 https://t.co/Tlkzv1GgjQ"
+    }
+}

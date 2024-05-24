@@ -1,0 +1,76 @@
+{
+    "1711332451459407950": {
+        "attachments": {
+            "media_keys": [
+                "7_1711332399949238272"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-10-09T10:47:06.000Z",
+        "edit_history_tweet_ids": [
+            "1711332451459407950"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "EU",
+                    "probability": 0.9631,
+                    "start": 59,
+                    "type": "Place"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "EU",
+                    "probability": 0.9185,
+                    "start": 103,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We\u2019re Ayvens, a global leader in sustainable mobility. And in a world that needs more intuitive and more sustainable ways of moving, we\u2019re committed to making life flow better for all our customers, from large corporates to private individuals.",
+                    "display_url": "urlz.fr/nWmm",
+                    "end": 276,
+                    "expanded_url": "https://urlz.fr/nWmm",
+                    "images": [
+                        {
+                            "height": 1260,
+                            "url": "https://pbs.twimg.com/news_img/1747266727438872576/NbPdl836?format=jpg&name=orig",
+                            "width": 2400
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1747266727438872576/NbPdl836?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 253,
+                    "status": 200,
+                    "title": "Ayvens - Better with every move",
+                    "unwound_url": "https://www.ayvens.com/",
+                    "url": "https://t.co/tSyMyWKDgi"
+                },
+                {
+                    "display_url": "pic.twitter.com/kdd2YvCWpD",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1711332451459407950/video/1",
+                    "media_key": "7_1711332399949238272",
+                    "start": 277,
+                    "url": "https://t.co/kdd2YvCWpD"
+                }
+            ]
+        },
+        "id": "1711332451459407950",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 418,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Low Emission Zones have increased by 40% in 2023. By 2025, EU will boast a total of 507 LEZs, with 350 EU cities pledging to become climate-neutral by 2030. What can fleet managers do about it?  Read our blog article to better navigate this landscape \ud83d\udc49 https://t.co/tSyMyWKDgi https://t.co/kdd2YvCWpD"
+    }
+}

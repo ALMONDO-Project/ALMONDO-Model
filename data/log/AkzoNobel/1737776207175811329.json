@@ -1,0 +1,116 @@
+{
+    "1737776207175811329": {
+        "attachments": {
+            "media_keys": [
+                "13_1737776171645886464"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-12-21T10:05:08.000Z",
+        "edit_history_tweet_ids": [
+            "1737776207175811329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "F1",
+                    "probability": 0.8609,
+                    "start": 46,
+                    "type": "Organization"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "McLaren",
+                    "probability": 0.9678,
+                    "start": 177,
+                    "type": "Organization"
+                },
+                {
+                    "end": 269,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4072,
+                    "start": 261,
+                    "type": "Organization"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "McLaren",
+                    "probability": 0.9581,
+                    "start": 272,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 270,
+                    "start": 260,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 279,
+                    "start": 271,
+                    "tag": "McLaren"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 82,
+                    "id": "24871896",
+                    "start": 72,
+                    "username": "McLarenF1"
+                },
+                {
+                    "end": 142,
+                    "id": "516464106",
+                    "start": 130,
+                    "username": "LandoNorris"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "To celebrate 60 years\u2019 of @McLarenRacing we asked @LandoNorris to pick his favourite heritage racing car from the McLaren collection, and then we challenged ...",
+                    "display_url": "youtu.be/iLeH3jE-iSE",
+                    "end": 258,
+                    "expanded_url": "https://youtu.be/iLeH3jE-iSE",
+                    "images": [
+                        {
+                            "height": 360,
+                            "url": "https://pbs.twimg.com/news_img/1764803298001928192/1Tt_1-VO?format=jpg&name=orig",
+                            "width": 480
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1764803298001928192/1Tt_1-VO?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 235,
+                    "status": 200,
+                    "title": "To celebrate 60 years of iconic color with McLaren Racing, can Lando Norris color match Papaya?",
+                    "unwound_url": "https://www.youtube.com/watch?v=iLeH3jE-iSE&feature=youtu.be",
+                    "url": "https://t.co/mkfuXWOnAl"
+                },
+                {
+                    "display_url": "pic.twitter.com/u40UyVYffG",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1737776207175811329/video/1",
+                    "media_key": "13_1737776171645886464",
+                    "start": 280,
+                    "url": "https://t.co/u40UyVYffG"
+                }
+            ]
+        },
+        "id": "1737776207175811329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 4,
+            "impression_count": 1916,
+            "like_count": 32,
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 9
+        },
+        "text": "It's not every day you set a challenge for an F1 driver! As part of the @McLarenF1 team\u2019s 60th anniversary celebrations, we asked @LandoNorris to color match an iconic car from McLaren\u2019s past. Watch the full video to see how he got on https://t.co/mkfuXWOnAl\n\n#AkzoNobel #McLaren https://t.co/u40UyVYffG"
+    }
+}

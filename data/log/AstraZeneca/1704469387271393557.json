@@ -1,0 +1,82 @@
+{
+    "1704469387271393557": {
+        "attachments": {
+            "media_keys": [
+                "13_1704469253171093504"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-09-20T12:15:44.000Z",
+        "edit_history_tweet_ids": [
+            "1704469387271393557"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 138,
+                    "normalized_text": "oligonucleotides",
+                    "probability": 0.5398,
+                    "start": 123,
+                    "type": "Other"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "UK",
+                    "probability": 0.9759,
+                    "start": 172,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 231,
+                    "start": 217,
+                    "tag": "CellTherapies"
+                },
+                {
+                    "end": 249,
+                    "start": 232,
+                    "tag": "Oligonucleotides"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 80,
+                    "id": "57579512",
+                    "start": 72,
+                    "username": "The_MRC"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "learn.az/6013P4ksh",
+                    "end": 215,
+                    "expanded_url": "https://learn.az/6013P4ksh",
+                    "start": 192,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/what-science-can-do/topics/next-generation-therapeutics/MRC-collaboration-cell-oligonucleotide-therapies.html?utm_source=twitter&utm_medium=mrc+post-doc+collaboration&utm_term=11155&utm_content=opportunistic",
+                    "url": "https://t.co/yH4wDz7J4l"
+                },
+                {
+                    "display_url": "pic.twitter.com/aUk2p9mtlJ",
+                    "end": 273,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1704469387271393557/video/1",
+                    "media_key": "13_1704469253171093504",
+                    "start": 250,
+                    "url": "https://t.co/aUk2p9mtlJ"
+                }
+            ]
+        },
+        "id": "1704469387271393557",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6158,
+            "like_count": 13,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Today we revealed the seven recipients of our postdoctoral funding with @the_MRC supporting research on cell therapies and oligonucleotides leading universities across the UK.\n\nFind out more: https://t.co/yH4wDz7J4l \n#CellTherapies #Oligonucleotides https://t.co/aUk2p9mtlJ"
+    }
+}

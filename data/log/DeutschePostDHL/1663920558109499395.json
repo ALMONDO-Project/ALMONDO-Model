@@ -1,0 +1,56 @@
+{
+    "1663920558109499395": {
+        "author_id": "197352549",
+        "created_at": "2023-05-31T14:49:09.000Z",
+        "edit_history_tweet_ids": [
+            "1663920558109499395"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Magic Quadrant\u2122",
+                    "probability": 0.8326,
+                    "start": 53,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "98689409",
+                    "start": 1,
+                    "username": "DHLsupplychain"
+                },
+                {
+                    "end": 51,
+                    "id": "15231287",
+                    "start": 39,
+                    "username": "Gartner_inc"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 130,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/dhl-supply-chain-global-a-leader-in-2023-gartner-magic-quadrant.html",
+                    "start": 107,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/dhl-supply-chain-global-a-leader-in-2023-gartner-magic-quadrant.html",
+                    "url": "https://t.co/i3mclCuApu"
+                }
+            ]
+        },
+        "id": "1663920558109499395",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1099,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": ".@DHLsupplychain  a Leader in the 2023 @Gartner_inc  Magic Quadrant\u2122 for Third-Party Logistics, Worldwide. https://t.co/i3mclCuApu"
+    }
+}

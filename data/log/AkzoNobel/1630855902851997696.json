@@ -1,0 +1,72 @@
+{
+    "1630855902851997696": {
+        "attachments": {
+            "media_keys": [
+                "3_1630855899647451144"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-03-01T09:02:01.000Z",
+        "edit_history_tweet_ids": [
+            "1630855902851997696"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.486,
+                    "start": 121,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 130,
+                    "start": 120,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 144,
+                    "start": 131,
+                    "tag": "AnnualReport"
+                },
+                {
+                    "end": 163,
+                    "start": 145,
+                    "tag": "PeoplePlanetPaint"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Annual-report",
+                    "end": 118,
+                    "expanded_url": "http://akzo.no/Annual-report",
+                    "start": 95,
+                    "status": 200,
+                    "unwound_url": "https://report.akzonobel.com/2022/ar/",
+                    "url": "https://t.co/8vWyvySH5U"
+                },
+                {
+                    "display_url": "pic.twitter.com/R292PdHYzu",
+                    "end": 187,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1630855902851997696/photo/1",
+                    "media_key": "3_1630855899647451144",
+                    "start": 164,
+                    "url": "https://t.co/R292PdHYzu"
+                }
+            ]
+        },
+        "id": "1630855902851997696",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 713,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "All the facts about how we performed in 2022, in one place. Read our new annual report website https://t.co/8vWyvySH5U\n\n#AkzoNobel #AnnualReport #PeoplePlanetPaint https://t.co/R292PdHYzu"
+    }
+}

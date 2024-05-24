@@ -1,0 +1,117 @@
+{
+    "1668279505062854656": {
+        "attachments": {
+            "media_keys": [
+                "7_1668276981891313669"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-06-12T15:30:03.000Z",
+        "edit_history_tweet_ids": [
+            "1668279505062854656"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.7564,
+                    "start": 7,
+                    "type": "Organization"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "ColdplayClues",
+                    "probability": 0.7102,
+                    "start": 75,
+                    "type": "Organization"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "MusicOfTheSpheresWorldTour",
+                    "probability": 0.5485,
+                    "start": 123,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "DHL",
+                    "probability": 0.5799,
+                    "start": 164,
+                    "type": "Organization"
+                },
+                {
+                    "end": 260,
+                    "normalized_text": "DHL",
+                    "probability": 0.3456,
+                    "start": 258,
+                    "type": "Organization"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "DHLxColdplay",
+                    "probability": 0.3662,
+                    "start": 263,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 6,
+                    "tag": "Coldplay"
+                },
+                {
+                    "end": 88,
+                    "start": 74,
+                    "tag": "ColdplayClues"
+                },
+                {
+                    "end": 149,
+                    "start": 122,
+                    "tag": "MusicOfTheSpheresWorldTour"
+                },
+                {
+                    "end": 261,
+                    "start": 257,
+                    "tag": "DHL"
+                },
+                {
+                    "end": 275,
+                    "start": 262,
+                    "tag": "DHLxColdplay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/coldplayclues",
+                    "end": 256,
+                    "expanded_url": "http://dhl.com/coldplayclues",
+                    "start": 233,
+                    "status": 200,
+                    "unwound_url": "https://inmotion.dhl/en/coldplay?open=element_quiz_modal&utm_campaign=DHL-Coldplay&utm_medium=vanity-markets&utm_source=vanity-markets",
+                    "url": "https://t.co/bDXdKVMEIC"
+                },
+                {
+                    "display_url": "pic.twitter.com/KeFZfYgNUI",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1668279505062854656/video/1",
+                    "media_key": "7_1668276981891313669",
+                    "start": 276,
+                    "url": "https://t.co/KeFZfYgNUI"
+                }
+            ]
+        },
+        "id": "1668279505062854656",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 10,
+            "impression_count": 398388,
+            "like_count": 54,
+            "quote_count": 4,
+            "reply_count": 6,
+            "retweet_count": 12
+        },
+        "text": "Final #Coldplay Monday! Find the last hidden lyric reference to crack the #ColdplayClues and you could win tickets to the #MusicOfTheSpheresWorldTour, delivered by DHL.\n\nHint: I want to know\u2026 what kind of blossom that is \ud83c\udf38\n\nEnter at https://t.co/bDXdKVMEIC\n#DHL #DHLxColdplay https://t.co/KeFZfYgNUI"
+    }
+}

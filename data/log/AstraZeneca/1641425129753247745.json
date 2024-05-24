@@ -1,0 +1,60 @@
+{
+    "1641425129753247745": {
+        "attachments": {
+            "media_keys": [
+                "13_1641425052011724804"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-03-30T13:00:21.000Z",
+        "edit_history_tweet_ids": [
+            "1641425129753247745"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Transthyretin amyloidosis",
+                    "probability": 0.8884,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 30,
+                    "normalized_text": "ATTR",
+                    "probability": 0.5068,
+                    "start": 27,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015O86pN",
+                    "end": 256,
+                    "expanded_url": "http://spr.ly/6015O86pN",
+                    "start": 233,
+                    "url": "https://t.co/aJZ0SXeA23"
+                },
+                {
+                    "display_url": "pic.twitter.com/pYwSLmdwYv",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1641425129753247745/video/1",
+                    "media_key": "13_1641425052011724804",
+                    "start": 257,
+                    "url": "https://t.co/pYwSLmdwYv"
+                }
+            ]
+        },
+        "id": "1641425129753247745",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4108,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Transthyretin amyloidosis (ATTR) is a potentially fatal condition. If left untreated, it can lead to issues such as heart failure (HF) and peripheral nerve damage. Learn more about the need for increased awareness of this condition. https://t.co/aJZ0SXeA23 https://t.co/pYwSLmdwYv"
+    }
+}

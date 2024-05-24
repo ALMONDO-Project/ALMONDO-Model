@@ -1,0 +1,69 @@
+{
+    "1674711921960910850": {
+        "attachments": {
+            "media_keys": [
+                "13_1674711876112973826"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-06-30T09:30:11.000Z",
+        "edit_history_tweet_ids": [
+            "1674711921960910850"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "Bronchiectasis",
+                    "probability": 0.7933,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "WorldBronchiectasisDay",
+                    "probability": 0.7093,
+                    "start": 135,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 157,
+                    "start": 134,
+                    "tag": "WorldBronchiectasisDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019PDkmD",
+                    "end": 132,
+                    "expanded_url": "http://spr.ly/6019PDkmD",
+                    "start": 109,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/bronchiectasis-research.html?utm_source=twitter&utm_medium=world+bronchiectasis+day.&utm_term=11828&utm_content=biopharma+r%26d",
+                    "url": "https://t.co/AkuWAsru3i"
+                },
+                {
+                    "display_url": "pic.twitter.com/Q20JrVNIUl",
+                    "end": 181,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1674711921960910850/video/1",
+                    "media_key": "13_1674711876112973826",
+                    "start": 158,
+                    "url": "https://t.co/Q20JrVNIUl"
+                }
+            ]
+        },
+        "id": "1674711921960910850",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 11252,
+            "like_count": 30,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 13
+        },
+        "text": "Bronchiectasis is one of the most common lung diseases worldwide but remains relatively unknown.\nLearn more: https://t.co/AkuWAsru3i \n#WorldBronchiectasisDay https://t.co/Q20JrVNIUl"
+    }
+}

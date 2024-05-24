@@ -1,0 +1,95 @@
+{
+    "1653392658973306880": {
+        "attachments": {
+            "media_keys": [
+                "3_1653392653529100291"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-02T13:35:03.000Z",
+        "edit_history_tweet_ids": [
+            "1653392658973306880"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "cancer",
+                    "probability": 0.7383,
+                    "start": 29,
+                    "type": "Other"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "TCR-T",
+                    "probability": 0.5961,
+                    "start": 182,
+                    "type": "Other"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "CellTherapy",
+                    "probability": 0.7136,
+                    "start": 227,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 35,
+                    "start": 28,
+                    "tag": "cancer"
+                },
+                {
+                    "end": 238,
+                    "start": 226,
+                    "tag": "CellTherapy"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Learn more about the potential of T cell receptor therapies in cancer treatment including the capability to target solid tumours.",
+                    "display_url": "spr.ly/6013OXWcT",
+                    "end": 280,
+                    "expanded_url": "http://spr.ly/6013OXWcT",
+                    "images": [
+                        {
+                            "height": 392,
+                            "url": "https://pbs.twimg.com/news_img/1748312163142287360/HobgPW-y?format=jpg&name=orig",
+                            "width": 707
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1748312163142287360/HobgPW-y?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 257,
+                    "status": 200,
+                    "title": "T cell receptor therapy: A new era for cell therapy in cancer treatment",
+                    "unwound_url": "https://www.astrazeneca.com/what-science-can-do/topics/next-generation-therapeutics/t-cell-receptor-therapies.html?utm_source=twitter&utm_medium=t+cell+receptor+therapies&utm_term=11889&utm_content=onc+r%26d",
+                    "url": "https://t.co/dULf429GOy"
+                },
+                {
+                    "display_url": "pic.twitter.com/k04tfMvNpb",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1653392658973306880/photo/1",
+                    "media_key": "3_1653392653529100291",
+                    "start": 281,
+                    "url": "https://t.co/k04tfMvNpb"
+                }
+            ]
+        },
+        "id": "1653392658973306880",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6314,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "We\u2019re driving innovation in #cancer cell therapy to help achieve our ambition of putting cures within reach for patients. Our expansion into next-generation T-cell receptor therapy (TCR-T) technology explores the potential of #CellTherapy in solid tumours: https://t.co/dULf429GOy https://t.co/k04tfMvNpb"
+    }
+}

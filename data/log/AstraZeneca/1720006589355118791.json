@@ -1,0 +1,74 @@
+{
+    "1720006589355118791": {
+        "attachments": {
+            "media_keys": [
+                "3_1720006585588539392"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-02T09:15:01.000Z",
+        "edit_history_tweet_ids": [
+            "1720006589355118791"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "hyperkalaemia",
+                    "probability": 0.5268,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "HK",
+                    "probability": 0.6924,
+                    "start": 70,
+                    "type": "Place"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "disease",
+                    "probability": 0.5151,
+                    "start": 130,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "HK",
+                    "probability": 0.7278,
+                    "start": 179,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 191,
+                    "start": 183,
+                    "tag": "ASN2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/CIzXKAlhy1",
+                    "end": 215,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1720006589355118791/photo/1",
+                    "media_key": "3_1720006585588539392",
+                    "start": 192,
+                    "url": "https://t.co/CIzXKAlhy1"
+                }
+            ]
+        },
+        "id": "1720006589355118791",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4591,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "New real-world evidence illustrates that patients with hyperkalaemia (HK) experience significantly higher rates of chronic kidney disease progression compared to patients without HK. #ASN2023 https://t.co/CIzXKAlhy1"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1719640427446321663": {
+        "attachments": {
+            "media_keys": [
+                "3_1719640424971636736"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-01T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1719640427446321663"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "LungCancer",
+                    "probability": 0.4373,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 162,
+                    "normalized_text": "LCAM",
+                    "probability": 0.656,
+                    "start": 159,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "LungCancer"
+                },
+                {
+                    "end": 157,
+                    "start": 143,
+                    "tag": "TakethepLUNGe"
+                },
+                {
+                    "end": 163,
+                    "start": 158,
+                    "tag": "LCAM"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "This Lung Cancer Awareness Month, we\u2019re encouraging you to Take the pLUNGe again! Early detection of lung cancer is key to improving patients\u2019 outcomes and survival. i,ii Lung cancer doesn't always present outward signs and symptoms, and early detection is critical to ensuring the best possible outcomes for people who are diagnosed. As such, routine screening is among the most important ways to ensure people with lung cancer get the timeliest possible care, with the greatest possible impact. iii But",
+                    "display_url": "learn.az/6017u9HJV",
+                    "end": 142,
+                    "expanded_url": "https://learn.az/6017u9HJV",
+                    "start": 119,
+                    "status": 200,
+                    "title": "Take-the-pLUNGe",
+                    "unwound_url": "https://www.lungambitionalliance.com/News/Take-the-pLUNGe.html",
+                    "url": "https://t.co/LzdZrodpzR"
+                },
+                {
+                    "display_url": "pic.twitter.com/8Y09oe1SUz",
+                    "end": 187,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1719640427446321663/photo/1",
+                    "media_key": "3_1719640424971636736",
+                    "start": 164,
+                    "url": "https://t.co/8Y09oe1SUz"
+                }
+            ]
+        },
+        "id": "1719640427446321663",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 3356,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "#LungCancer rates are increasing every year. Find out how you or your loved one can take control of their lung health. https://t.co/LzdZrodpzR #TakethepLUNGe #LCAM https://t.co/8Y09oe1SUz"
+    }
+}

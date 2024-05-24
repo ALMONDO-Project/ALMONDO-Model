@@ -1,0 +1,84 @@
+{
+    "1656222631304019968": {
+        "attachments": {
+            "media_keys": [
+                "13_1656222546235211776"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-10T09:00:21.000Z",
+        "edit_history_tweet_ids": [
+            "1656222631304019968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "lupus",
+                    "probability": 0.7328,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "lupus",
+                    "probability": 0.563,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "WorldLupusDay",
+                    "probability": 0.5553,
+                    "start": 219,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 232,
+                    "start": 218,
+                    "tag": "WorldLupusDay"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 248,
+                    "id": "2969760609",
+                    "start": 233,
+                    "username": "POLITICOEurope"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6015OjQ4L",
+                    "end": 272,
+                    "expanded_url": "http://spr.ly/6015OjQ4L",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.politico.eu/sponsored-content/advocates-make-the-case-for-change-in-lupus-care/",
+                    "url": "https://t.co/JN10JqqFem"
+                },
+                {
+                    "display_url": "pic.twitter.com/mk6n4jQHIl",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1656222631304019968/video/1",
+                    "media_key": "13_1656222546235211776",
+                    "start": 273,
+                    "url": "https://t.co/mk6n4jQHIl"
+                }
+            ]
+        },
+        "id": "1656222631304019968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5632,
+            "like_count": 27,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 17
+        },
+        "text": "People living with lupus often face inaccurate diagnosis, debilitating symptoms, and limited care options. We\u2019re working toward a future where all people living with lupus have access to the quality care they deserve. #WorldLupusDay @POLITICOEurope https://t.co/JN10JqqFem https://t.co/mk6n4jQHIl"
+    }
+}

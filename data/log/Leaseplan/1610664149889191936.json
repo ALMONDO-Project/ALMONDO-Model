@@ -1,0 +1,89 @@
+{
+    "1610664149889191936": {
+        "attachments": {
+            "media_keys": [
+                "3_1610664133594152962"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-01-04T15:47:12.000Z",
+        "edit_history_tweet_ids": [
+            "1610664149889191936"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Euro 7",
+                    "probability": 0.7627,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "an #E",
+                    "probability": 0.6946,
+                    "start": 243,
+                    "type": "Other"
+                },
+                {
+                    "end": 251,
+                    "normalized_text": "o7",
+                    "probability": 0.8658,
+                    "start": 250,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 245,
+                    "start": 235,
+                    "tag": "LeasePlan"
+                },
+                {
+                    "end": 252,
+                    "start": 246,
+                    "tag": "Euro7"
+                },
+                {
+                    "end": 256,
+                    "start": 253,
+                    "tag": "EU"
+                },
+                {
+                    "end": 271,
+                    "start": 257,
+                    "tag": "DrivingToZero"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3X1fZyI",
+                    "end": 231,
+                    "expanded_url": "https://bit.ly/3X1fZyI",
+                    "start": 208,
+                    "url": "https://t.co/ljWB1FePSF"
+                },
+                {
+                    "display_url": "pic.twitter.com/CXonPByxs2",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1610664149889191936/photo/1",
+                    "media_key": "3_1610664133594152962",
+                    "start": 272,
+                    "url": "https://t.co/CXonPByxs2"
+                }
+            ]
+        },
+        "id": "1610664149889191936",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 306,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "What does Euro 7 mean for your fleet? \ud83d\ude97 The introduction of the new standard will mandate lower vehicle emissions and improve the durability of battery EVs \u26a1 Discover more about the updated regulation here \ud83d\udc49 https://t.co/ljWB1FePSF\u200b\n\u200b\n#LeasePlan #Euro7 #EU #DrivingToZero https://t.co/CXonPByxs2"
+    }
+}

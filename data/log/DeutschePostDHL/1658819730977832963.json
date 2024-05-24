@@ -1,0 +1,65 @@
+{
+    "1658819730977832963": {
+        "attachments": {
+            "media_keys": [
+                "7_1658805560009973763"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-17T13:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1658819730977832963"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "DHL",
+                    "probability": 0.4794,
+                    "start": 28,
+                    "type": "Organization"
+                },
+                {
+                    "end": 53,
+                    "normalized_text": "IDAHOBIT",
+                    "probability": 0.632,
+                    "start": 46,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 45,
+                    "tag": "IDAHOBIT"
+                },
+                {
+                    "end": 274,
+                    "start": 255,
+                    "tag": "DeliveredWithPride"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/QWse8UxYsS",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1658819730977832963/video/1",
+                    "media_key": "7_1658805560009973763",
+                    "start": 275,
+                    "url": "https://t.co/QWse8UxYsS"
+                }
+            ]
+        },
+        "id": "1658819730977832963",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1539,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "\ud83c\udf0d\u2728 Celebrate Diversity with DHL! Join us for #IDAHOBIT \ud83c\udf08 \n\nOur global team represents different backgrounds, genders, and cultures. Together, we stand against discrimination and support equality every day. Join us in celebrating love and acceptance. \u2764\ufe0f\u2728 \n#DeliveredWithPride https://t.co/QWse8UxYsS"
+    }
+}

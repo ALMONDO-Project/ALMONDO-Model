@@ -1,0 +1,54 @@
+{
+    "1637831582831591570": {
+        "author_id": "62465691",
+        "created_at": "2023-03-20T15:00:53.000Z",
+        "edit_history_tweet_ids": [
+            "1637831582831591570"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 272,
+                    "normalized_text": "NeurodiversityCelebrationWeek",
+                    "probability": 0.569,
+                    "start": 244,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 149,
+                    "tag": "inclusion"
+                },
+                {
+                    "end": 273,
+                    "start": 243,
+                    "tag": "NeurodiversityCelebrationWeek"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "know.az/601137RPD",
+                    "end": 242,
+                    "expanded_url": "http://www.know.az/601137RPD",
+                    "start": 219,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=UV2BeekLy4U&feature=youtu.be",
+                    "url": "https://t.co/dESHjDJY8a"
+                }
+            ]
+        },
+        "id": "1637831582831591570",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4965,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 3
+        },
+        "text": "We are celebrating the value our differences bring to our organisation, ultimately helping us to deliver more for patients. Find out more about what #inclusion means to us from our neurodivergent colleagues and allies. https://t.co/dESHjDJY8a\n#NeurodiversityCelebrationWeek"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "1664607558617690117": {
+        "attachments": {
+            "media_keys": [
+                "7_1664591872705142786"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-06-02T12:19:03.000Z",
+        "edit_history_tweet_ids": [
+            "1664607558617690117"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 180,
+                    "normalized_text": "Orlando",
+                    "probability": 0.949,
+                    "start": 174,
+                    "type": "Place"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "Ohio",
+                    "probability": 0.9895,
+                    "start": 185,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 278,
+                    "start": 262,
+                    "tag": "ExtremeDelivery"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/GQ51DEdpA3",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1664607558617690117/video/1",
+                    "media_key": "7_1664591872705142786",
+                    "start": 279,
+                    "url": "https://t.co/GQ51DEdpA3"
+                }
+            ]
+        },
+        "id": "1664607558617690117",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1370,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\udf0a Join us as we delve into the incredible journey of four fabulous manatees on a journey to recovery. Rescued from danger, we helped move these adorable sea celebrities from Orlando to Ohio.\n\nWishing them a speedy recovery and a return to their natural habitat! #ExtremeDelivery https://t.co/GQ51DEdpA3"
+    }
+}

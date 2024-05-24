@@ -1,0 +1,105 @@
+{
+    "1683431841632509952": {
+        "attachments": {
+            "media_keys": [
+                "3_1683431838017019913"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-07-24T11:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1683431841632509952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 197,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.3156,
+                    "start": 189,
+                    "type": "Place"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "AKZA",
+                    "probability": 0.3745,
+                    "start": 200,
+                    "type": "Organization"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "AKZOY",
+                    "probability": 0.4293,
+                    "start": 206,
+                    "type": "Other"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "AKZOF",
+                    "probability": 0.4164,
+                    "start": 213,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 204,
+                    "start": 199,
+                    "tag": "AKZA"
+                },
+                {
+                    "end": 211,
+                    "start": 205,
+                    "tag": "AKZOY"
+                },
+                {
+                    "end": 218,
+                    "start": 212,
+                    "tag": "AKZOF"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 187,
+                    "start": 170,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 198,
+                    "start": 188,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Q2-2023-webinar",
+                    "end": 167,
+                    "expanded_url": "https://akzo.no/Q2-2023-webinar",
+                    "start": 144,
+                    "status": 200,
+                    "unwound_url": "https://channel.royalcast.com/akzonobelinvestors/#!/akzonobelinvestors/20230725_1",
+                    "url": "https://t.co/qIfUGDlgSk"
+                },
+                {
+                    "display_url": "pic.twitter.com/tJqCXZggrq",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1683431841632509952/photo/1",
+                    "media_key": "3_1683431838017019913",
+                    "start": 219,
+                    "url": "https://t.co/tJqCXZggrq"
+                }
+            ]
+        },
+        "id": "1683431841632509952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 642,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re presenting our Q2 results on Tuesday, July 25, at 07.00 CEST. Analysts are invited to sign up for our conference call at 09.00 CEST here: https://t.co/qIfUGDlgSk \n\n#FinancialResults #AkzoNobel $AKZA $AKZOY $AKZOF https://t.co/tJqCXZggrq"
+    }
+}

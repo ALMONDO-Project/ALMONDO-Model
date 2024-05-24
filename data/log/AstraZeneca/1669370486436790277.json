@@ -1,0 +1,70 @@
+{
+    "1669370486436790277": {
+        "author_id": "62465691",
+        "created_at": "2023-06-15T15:45:14.000Z",
+        "edit_history_tweet_ids": [
+            "1669370486436790277"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "CKD",
+                    "probability": 0.6504,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "CKD",
+                    "probability": 0.6794,
+                    "start": 110,
+                    "type": "Other"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "CKD",
+                    "probability": 0.5248,
+                    "start": 201,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Chronic kidney disease is a growing crisis and requires immediate collaborative action. Learn more about how we\u2019re pushing for sustainable change.",
+                    "display_url": "spr.ly/6016ONkMM",
+                    "end": 237,
+                    "expanded_url": "http://spr.ly/6016ONkMM",
+                    "images": [
+                        {
+                            "height": 500,
+                            "url": "https://pbs.twimg.com/news_img/1768638330084753408/JrXY08_z?format=jpg&name=orig",
+                            "width": 900
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1768638330084753408/JrXY08_z?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 214,
+                    "status": 200,
+                    "title": "Transforming kidney health and the burden of CKD",
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2023/transforming-kidney-health-burden-ckd.html?utm_source=twitter&utm_medium=era+2023&utm_term=11922&utm_content=cvrm",
+                    "url": "https://t.co/x5wbH1clMc"
+                }
+            ]
+        },
+        "id": "1669370486436790277",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3227,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "To do this, we\u2019re raising awareness of CKD and its consequences as well as helping drive earlier detection of CKD at stage 3 while building on the benefit of earlier intervention. Learn more about our CKD efforts: https://t.co/x5wbH1clMc"
+    }
+}

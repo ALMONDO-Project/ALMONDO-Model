@@ -1,0 +1,51 @@
+{
+    "1641855375732244502": {
+        "author_id": "62465691",
+        "created_at": "2023-03-31T17:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1641855375732244502"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "KDIGO CKD",
+                    "probability": 0.542,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "CKD",
+                    "probability": 0.5492,
+                    "start": 158,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "The guideline is intended for healthcare professionals who provide kidney care, for people with suspected or diagnosed CKD and their caregivers, and for policymakers and commissioners of CKD services. The aim is to provide a useful resource that clearly and concisely addresses relevant questions with actionable recommendations to guide clinical practice based on a formal evidence review and consensus-based practice points. A wide range of key topics are addressed, including optimal CKD evaluation and",
+                    "display_url": "spr.ly/6014OD9EQ",
+                    "end": 186,
+                    "expanded_url": "http://spr.ly/6014OD9EQ",
+                    "start": 163,
+                    "status": 200,
+                    "title": "CKD Evaluation and Management \u2013 KDIGO",
+                    "unwound_url": "https://kdigo.org/guidelines/ckd-evaluation-and-management/",
+                    "url": "https://t.co/m8uKb8ssf7"
+                }
+            ]
+        },
+        "id": "1641855375732244502",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5105,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "The KDIGO CKD evaluation and management guidelines are a particularly helpful tool to gain a deeper understanding of early identification and intervention of CKD. https://t.co/m8uKb8ssf7"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "1679838238784012288": {
+        "attachments": {
+            "media_keys": [
+                "13_1679838155229351940"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-07-14T13:00:20.000Z",
+        "edit_history_tweet_ids": [
+            "1679838238784012288"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Tour",
+                    "probability": 0.562,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "France",
+                    "probability": 0.4097,
+                    "start": 53,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Saint-L\u00e9onard-de-Noblat",
+                    "probability": 0.9406,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "France",
+                    "probability": 0.8126,
+                    "start": 130,
+                    "type": "Place"
+                },
+                {
+                    "end": 152,
+                    "normalized_text": "S\u00eama Lao",
+                    "probability": 0.4793,
+                    "start": 145,
+                    "type": "Person"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "Sikkens",
+                    "probability": 0.4145,
+                    "start": 207,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 262,
+                    "start": 254,
+                    "tag": "TDF2023"
+                },
+                {
+                    "end": 274,
+                    "start": 263,
+                    "tag": "LetsColour"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/irPEypYQz9",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1679838238784012288/video/1",
+                    "media_key": "13_1679838155229351940",
+                    "start": 275,
+                    "url": "https://t.co/irPEypYQz9"
+                }
+            ]
+        },
+        "id": "1679838238784012288",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 809,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Check out this amazing mural celebrating the Tour de France. It adorns the tourism building in Saint-L\u00e9onard-de-Noblat in central France. Artist S\u00eama Lao and 16 of our colleagues used more than 40 shades of Sikkens paint to create the dynamic artwork. \n\n#TDF2023 #LetsColour https://t.co/irPEypYQz9"
+    }
+}

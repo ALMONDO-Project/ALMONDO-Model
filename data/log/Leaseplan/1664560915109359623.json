@@ -1,0 +1,87 @@
+{
+    "1664560915109359623": {
+        "attachments": {
+            "media_keys": [
+                "3_1664560911376433153"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-06-02T09:13:42.000Z",
+        "edit_history_tweet_ids": [
+            "1664560915109359623"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Gavin Eagle",
+                    "probability": 0.8065,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "Miami",
+                    "probability": 0.9423,
+                    "start": 40,
+                    "type": "Place"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "GlobalFleetConference",
+                    "probability": 0.5945,
+                    "start": 197,
+                    "type": "Other"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "Gavin",
+                    "probability": 0.4905,
+                    "start": 233,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 138,
+                    "start": 118,
+                    "tag": "SustainableMobility"
+                },
+                {
+                    "end": 218,
+                    "start": 196,
+                    "tag": "GlobalFleetConference"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/43knRyL",
+                    "end": 277,
+                    "expanded_url": "https://bit.ly/43knRyL",
+                    "start": 254,
+                    "unwound_url": "https://www.globalfleetconference.com/SpeakerItem/Index?n2page=33900",
+                    "url": "https://t.co/ItFlocNx3z"
+                },
+                {
+                    "display_url": "pic.twitter.com/gGcfq4botj",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1664560915109359623/photo/1",
+                    "media_key": "3_1664560911376433153",
+                    "start": 278,
+                    "url": "https://t.co/gGcfq4botj"
+                }
+            ]
+        },
+        "id": "1664560915109359623",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 174,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Gavin Eagle is taking his fleet game to Miami! \ud83c\udf34\ud83d\ude97 He'll be sharing his insights on the top trends that will spark the #SustainableMobility market. Stay tuned for our wrap-up blog from this year's #GlobalFleetConference.\nRegister for Gavin's panel here \ud83d\udc49 https://t.co/ItFlocNx3z https://t.co/gGcfq4botj"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "1656986338187419648": {
+        "attachments": {
+            "media_keys": [
+                "3_1656986330989985797"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-12T11:35:02.000Z",
+        "edit_history_tweet_ids": [
+            "1656986338187419648"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "InfectiousDiseases",
+                    "probability": 0.566,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Sanofi",
+                    "probability": 0.5614,
+                    "start": 100,
+                    "type": "Person"
+                },
+                {
+                    "end": 186,
+                    "normalized_text": "ESPID2023",
+                    "probability": 0.6438,
+                    "start": 178,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 72,
+                    "start": 53,
+                    "tag": "InfectiousDiseases"
+                },
+                {
+                    "end": 157,
+                    "start": 149,
+                    "tag": "science"
+                },
+                {
+                    "end": 173,
+                    "start": 162,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 187,
+                    "start": 177,
+                    "tag": "ESPID2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/KXaAWgT4fs",
+                    "end": 212,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1656986338187419648/photo/1",
+                    "media_key": "3_1656986330989985797",
+                    "start": 189,
+                    "url": "https://t.co/KXaAWgT4fs"
+                }
+            ]
+        },
+        "id": "1656986338187419648",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5021,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 8,
+            "retweet_count": 4
+        },
+        "text": "We are focused on protecting those most at risk from #InfectiousDiseases. Together with our partner Sanofi , we reconfirmed our shared commitment to #science and #innovation at #ESPID2023. https://t.co/KXaAWgT4fs"
+    }
+}

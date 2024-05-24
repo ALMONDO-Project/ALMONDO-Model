@@ -1,0 +1,55 @@
+{
+    "1671800305309081601": {
+        "attachments": {
+            "media_keys": [
+                "3_1671800303304208385"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-06-22T08:40:27.000Z",
+        "edit_history_tweet_ids": [
+            "1671800305309081601"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "South Africa",
+                    "probability": 0.9318,
+                    "start": 12,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6013O7Ih1",
+                    "end": 205,
+                    "expanded_url": "http://spr.ly/6013O7Ih1",
+                    "start": 182,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/what-science-can-do/topics/technologies/discover-me-south-africa-enabling-diversity-discovery-science.html?utm_source=twitter&utm_medium=discoverme+south+africa&utm_term=11631&utm_content=biopharma+r%26d",
+                    "url": "https://t.co/jzt4SqxK2k"
+                },
+                {
+                    "display_url": "pic.twitter.com/BOijKGYcpK",
+                    "end": 229,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1671800305309081601/photo/1",
+                    "media_key": "3_1671800303304208385",
+                    "start": 206,
+                    "url": "https://t.co/BOijKGYcpK"
+                }
+            ]
+        },
+        "id": "1671800305309081601",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5031,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "Discover Me South Africa is diversifying our genomic data, and together with health information, aims to better understand disease progression and improve personalised patient care. https://t.co/jzt4SqxK2k https://t.co/BOijKGYcpK"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "1632727757397319680": {
+        "attachments": {
+            "media_keys": [
+                "13_1632727734022545410"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-03-06T13:00:06.000Z",
+        "edit_history_tweet_ids": [
+            "1632727757397319680"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 86,
+                    "normalized_text": "disease",
+                    "probability": 0.5275,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 229,
+                    "normalized_text": "ACC2023",
+                    "probability": 0.6852,
+                    "start": 223,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 230,
+                    "start": 222,
+                    "tag": "ACC2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60113IttS",
+                    "end": 221,
+                    "expanded_url": "http://spr.ly/60113IttS",
+                    "start": 198,
+                    "url": "https://t.co/omvPTZL0qX"
+                },
+                {
+                    "display_url": "pic.twitter.com/73E3tCmf0y",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1632727757397319680/video/1",
+                    "media_key": "13_1632727734022545410",
+                    "start": 231,
+                    "url": "https://t.co/73E3tCmf0y"
+                }
+            ]
+        },
+        "id": "1632727757397319680",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4259,
+            "like_count": 18,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 9
+        },
+        "text": "Shortness of breath, dizziness, and fatigue can be signs of cardiovascular (CV) disease. Knowing the symptoms can help physicians intervene early. Read more about the importance of early detection: https://t.co/omvPTZL0qX #ACC2023 https://t.co/73E3tCmf0y"
+    }
+}

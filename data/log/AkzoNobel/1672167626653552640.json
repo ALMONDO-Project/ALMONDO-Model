@@ -1,0 +1,108 @@
+{
+    "1672167626653552640": {
+        "attachments": {
+            "media_keys": [
+                "3_1672167611369504768",
+                "3_1672167614804549635",
+                "3_1672167619917389825",
+                "3_1672167624233328640"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-06-23T09:00:04.000Z",
+        "edit_history_tweet_ids": [
+            "1672167626653552640"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Pilawa",
+                    "probability": 0.4135,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 24,
+                    "normalized_text": "Poland",
+                    "probability": 0.9705,
+                    "start": 19,
+                    "type": "Place"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "Central",
+                    "probability": 0.5446,
+                    "start": 238,
+                    "type": "Place"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "Eastern Europe",
+                    "probability": 0.5932,
+                    "start": 250,
+                    "type": "Place"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.728,
+                    "start": 268,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 277,
+                    "start": 267,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/wMqjxzFl0V",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1672167626653552640/photo/1",
+                    "media_key": "3_1672167611369504768",
+                    "start": 278,
+                    "url": "https://t.co/wMqjxzFl0V"
+                },
+                {
+                    "display_url": "pic.twitter.com/wMqjxzFl0V",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1672167626653552640/photo/1",
+                    "media_key": "3_1672167614804549635",
+                    "start": 278,
+                    "url": "https://t.co/wMqjxzFl0V"
+                },
+                {
+                    "display_url": "pic.twitter.com/wMqjxzFl0V",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1672167626653552640/photo/1",
+                    "media_key": "3_1672167619917389825",
+                    "start": 278,
+                    "url": "https://t.co/wMqjxzFl0V"
+                },
+                {
+                    "display_url": "pic.twitter.com/wMqjxzFl0V",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1672167626653552640/photo/1",
+                    "media_key": "3_1672167624233328640",
+                    "start": 278,
+                    "url": "https://t.co/wMqjxzFl0V"
+                }
+            ]
+        },
+        "id": "1672167626653552640",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 797,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Our Pilawa site in Poland marked its 60th birthday recently with a family picnic. It was once destined to be a candy factory \u2013 until low water quality made food production impossible. Now, it\u2019s the biggest manufacturing site for paint in Central and Eastern Europe.\n\n#AkzoNobel https://t.co/wMqjxzFl0V"
+    }
+}

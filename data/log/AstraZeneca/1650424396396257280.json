@@ -1,0 +1,76 @@
+{
+    "1650424396396257280": {
+        "attachments": {
+            "media_keys": [
+                "13_1650424345464909826"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-04-24T09:00:14.000Z",
+        "edit_history_tweet_ids": [
+            "1650424396396257280"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 146,
+                    "normalized_text": "SevereAsthma",
+                    "probability": 0.5654,
+                    "start": 135,
+                    "type": "Other"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "OCS",
+                    "probability": 0.5228,
+                    "start": 176,
+                    "type": "Other"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "OCS",
+                    "probability": 0.5268,
+                    "start": 213,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 147,
+                    "start": 134,
+                    "tag": "SevereAsthma"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6014OuBw4",
+                    "end": 272,
+                    "expanded_url": "http://spr.ly/6014OuBw4",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2023/ocs-severe-asthma-care-time-end-reliance.html?utm_source=twitter&utm_medium=world+asthma+day+2023&utm_term=11877&utm_content=r%26i",
+                    "url": "https://t.co/BH83sdZpnQ"
+                },
+                {
+                    "display_url": "pic.twitter.com/qeV5jynV1u",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1650424396396257280/video/1",
+                    "media_key": "13_1650424345464909826",
+                    "start": 273,
+                    "url": "https://t.co/qeV5jynV1u"
+                }
+            ]
+        },
+        "id": "1650424396396257280",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6098,
+            "like_count": 15,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 3
+        },
+        "text": "The increased risk of adverse effects from frequent oral corticosteroid (OCS) use is often underestimated. Our goal is to ensure that #SevereAsthma patients are not reliant on OCS and instead, have more access to OCS-sparing options where possible. https://t.co/BH83sdZpnQ https://t.co/qeV5jynV1u"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "1615740841879805953": {
+        "attachments": {
+            "media_keys": [
+                "3_1615740828336504835",
+                "3_1615740832748896259",
+                "3_1615740837517737984"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-01-18T16:00:10.000Z",
+        "edit_history_tweet_ids": [
+            "1615740841879805953"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "George Hermens",
+                    "probability": 0.6568,
+                    "start": 14,
+                    "type": "Person"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "George",
+                    "probability": 0.491,
+                    "start": 123,
+                    "type": "Person"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "George",
+                    "probability": 0.6431,
+                    "start": 211,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 121,
+                    "id": "726065403642916864",
+                    "start": 113,
+                    "username": "ARCCBBC"
+                },
+                {
+                    "end": 277,
+                    "id": "33535466",
+                    "start": 263,
+                    "username": "univgroningen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/YbMqHLlrym",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1615740841879805953/photo/1",
+                    "media_key": "3_1615740828336504835",
+                    "start": 278,
+                    "url": "https://t.co/YbMqHLlrym"
+                },
+                {
+                    "display_url": "pic.twitter.com/YbMqHLlrym",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1615740841879805953/photo/1",
+                    "media_key": "3_1615740832748896259",
+                    "start": 278,
+                    "url": "https://t.co/YbMqHLlrym"
+                },
+                {
+                    "display_url": "pic.twitter.com/YbMqHLlrym",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1615740841879805953/photo/1",
+                    "media_key": "3_1615740837517737984",
+                    "start": 278,
+                    "url": "https://t.co/YbMqHLlrym"
+                }
+            ]
+        },
+        "id": "1615740841879805953",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2943,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "Our colleague George Hermens has been awarded his PhD diploma. As part of his research and work with our partner @ARCCBBC, George helped us make a biomass breakthrough in creating coatings from nature. Congrats George, we can\u2019t wait to see what the future holds. @univgroningen https://t.co/YbMqHLlrym"
+    }
+}

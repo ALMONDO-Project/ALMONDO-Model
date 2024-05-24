@@ -1,0 +1,82 @@
+{
+    "1722943523421319276": {
+        "attachments": {
+            "media_keys": [
+                "13_1722943437098319872"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-10T11:45:21.000Z",
+        "edit_history_tweet_ids": [
+            "1722943523421319276"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 36,
+                    "normalized_text": "YoungHealthProgramme",
+                    "probability": 0.8471,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 219,
+                    "normalized_text": "OYW23",
+                    "probability": 0.5716,
+                    "start": 215,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 37,
+                    "start": 16,
+                    "tag": "YoungHealthProgramme"
+                },
+                {
+                    "end": 220,
+                    "start": 214,
+                    "tag": "OYW23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 82,
+                    "id": "19087563",
+                    "start": 68,
+                    "username": "OneYoungWorld"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "learn.az/6019uQBsX",
+                    "end": 213,
+                    "expanded_url": "https://learn.az/6019uQBsX",
+                    "start": 190,
+                    "status": 200,
+                    "unwound_url": "https://www.yhp.astrazeneca.com/updates/oyw-post-summit-2023.html?utm_source=twitter&utm_medium=one+young+world+summit+2023&utm_term=12080&utm_content=sustainability",
+                    "url": "https://t.co/BiorwqccXB"
+                },
+                {
+                    "display_url": "pic.twitter.com/9jQ7uOvzVZ",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1722943523421319276/video/1",
+                    "media_key": "13_1722943437098319872",
+                    "start": 221,
+                    "url": "https://t.co/9jQ7uOvzVZ"
+                }
+            ]
+        },
+        "id": "1722943523421319276",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3311,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "Last month, our #YoungHealthProgramme (YHP) Impact Fellows attended @OneYoungWorld, and developed their global network of young leaders dedicated to positive social change. Learn more here: https://t.co/BiorwqccXB\n#OYW23 https://t.co/9jQ7uOvzVZ"
+    }
+}

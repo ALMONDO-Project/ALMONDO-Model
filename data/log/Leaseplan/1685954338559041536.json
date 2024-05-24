@@ -1,0 +1,88 @@
+{
+    "1685954338559041536": {
+        "attachments": {
+            "media_keys": [
+                "7_1685954257575370753"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-07-31T10:03:32.000Z",
+        "edit_history_tweet_ids": [
+            "1685954338559041536"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Albertsen",
+                    "probability": 0.3914,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "ALD Automotive",
+                    "probability": 0.5257,
+                    "start": 57,
+                    "type": "Organization"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "Tim",
+                    "probability": 0.3676,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "\n#ALDLeasePl",
+                    "probability": 0.3557,
+                    "start": 265,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 279,
+                    "start": 266,
+                    "tag": "ALDLeasePlan"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 102,
+                    "id": "531572119",
+                    "start": 89,
+                    "username": "Fleet_Europe"
+                },
+                {
+                    "end": 119,
+                    "id": "1076229522",
+                    "start": 107,
+                    "username": "GlobalFleet"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/joiCHuHvEl",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1685954338559041536/video/1",
+                    "media_key": "7_1685954257575370753",
+                    "start": 280,
+                    "url": "https://t.co/joiCHuHvEl"
+                }
+            ]
+        },
+        "id": "1685954338559041536",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 330,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Watch the exclusive interview\u00a0with\u00a0Tim Albertsen, CEO of ALD Automotive | LeasePlan\u00a0from\u00a0@Fleet_Europe and @GlobalFleet now! Tim discusses the future of the company and\u00a0its\u00a0influence on the industry in\u00a0his\u00a0first on-screen\u00a0appearance\u00a0since closing the acquisition.\u200b\n\n#ALDLeasePlan https://t.co/joiCHuHvEl"
+    }
+}

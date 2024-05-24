@@ -1,0 +1,45 @@
+{
+    "1721112622634791303": {
+        "author_id": "62465691",
+        "created_at": "2023-11-05T10:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1721112622634791303"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 118,
+                    "normalized_text": "CKD",
+                    "probability": 0.4576,
+                    "start": 116,
+                    "type": "Other"
+                },
+                {
+                    "end": 150,
+                    "normalized_text": "RAASi",
+                    "probability": 0.5716,
+                    "start": 146,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "HK",
+                    "probability": 0.4091,
+                    "start": 168,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1721112622634791303",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5136,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 2
+        },
+        "text": "A new dual-country real-world evidence study found that risk of progression to kidney failure is over 70% higher in CKD patients who discontinued RAASi therapy after a HK event compared to patients who remained on this lifesaving therapy."
+    }
+}

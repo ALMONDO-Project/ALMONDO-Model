@@ -1,0 +1,68 @@
+{
+    "1673254781471584257": {
+        "attachments": {
+            "media_keys": [
+                "3_1673254777679953920"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-06-26T09:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1673254781471584257"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "ISTH2023",
+                    "probability": 0.5445,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "haematology",
+                    "probability": 0.4808,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 3,
+                    "tag": "ISTH2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 244,
+                    "id": "20373507",
+                    "start": 239,
+                    "username": "isth"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Iuj34Qqu1c",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1673254781471584257/photo/1",
+                    "media_key": "3_1673254777679953920",
+                    "start": 245,
+                    "url": "https://t.co/Iuj34Qqu1c"
+                }
+            ]
+        },
+        "id": "1673254781471584257",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7938,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 9,
+            "retweet_count": 5
+        },
+        "text": "At #ISTH2023 this week, our team is collaborating with the haematology research and medical communities to help advance vascular care. Through knowledge sharing and collaboration, we can improve the therapies available for these patients. @ISTH https://t.co/Iuj34Qqu1c"
+    }
+}

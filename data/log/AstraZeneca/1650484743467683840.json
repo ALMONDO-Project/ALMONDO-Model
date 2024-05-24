@@ -1,0 +1,83 @@
+{
+    "1650484743467683840": {
+        "attachments": {
+            "media_keys": [
+                "3_1650484739910819840"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-04-24T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1650484743467683840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "transthyretin amyloidosis",
+                    "probability": 0.8074,
+                    "start": 47,
+                    "type": "Other"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "ATTR",
+                    "probability": 0.4373,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "ATTR",
+                    "probability": 0.5943,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 247,
+                    "normalized_text": "AAN2023",
+                    "probability": 0.5859,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 240,
+                    "tag": "AAN2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6011OuBEH",
+                    "end": 272,
+                    "expanded_url": "http://spr.ly/6011OuBEH",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2022/raising-awareness-attr.html?utm_source=twitter&utm_medium=aan+-+american+academy+of+neurology&utm_term=11796&utm_content=cvrm",
+                    "url": "https://t.co/PSuClRk55L"
+                },
+                {
+                    "display_url": "pic.twitter.com/rNUGr7fGst",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1650484743467683840/photo/1",
+                    "media_key": "3_1650484739910819840",
+                    "start": 273,
+                    "url": "https://t.co/rNUGr7fGst"
+                }
+            ]
+        },
+        "id": "1650484743467683840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4811,
+            "like_count": 20,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "Neuropathy and heart failure could be signs of transthyretin amyloidosis (ATTR). ATTR is a systemic disease that can cause several neurologic and cardiac conditions. We're committed to advancing care for these patients to improve outcomes. #AAN2023 https://t.co/PSuClRk55L https://t.co/rNUGr7fGst"
+    }
+}

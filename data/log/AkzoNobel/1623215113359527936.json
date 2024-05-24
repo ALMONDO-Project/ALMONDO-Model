@@ -1,0 +1,110 @@
+{
+    "1623215113359527936": {
+        "attachments": {
+            "media_keys": [
+                "13_1623215054446333952"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-02-08T07:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1623215113359527936"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "Greg Poux-Guillaume",
+                    "probability": 0.6329,
+                    "start": 53,
+                    "type": "Person"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.3449,
+                    "start": 216,
+                    "type": "Other"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "AKZA",
+                    "probability": 0.3518,
+                    "start": 227,
+                    "type": "Other"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "AKZOY",
+                    "probability": 0.5147,
+                    "start": 233,
+                    "type": "Other"
+                },
+                {
+                    "end": 244,
+                    "normalized_text": "AKZOF",
+                    "probability": 0.4817,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 231,
+                    "start": 226,
+                    "tag": "AKZA"
+                },
+                {
+                    "end": 238,
+                    "start": 232,
+                    "tag": "AKZOY"
+                },
+                {
+                    "end": 245,
+                    "start": 239,
+                    "tag": "AKZOF"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 214,
+                    "start": 197,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 225,
+                    "start": 215,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Q4-2022-release",
+                    "end": 194,
+                    "expanded_url": "http://akzo.no/Q4-2022-release",
+                    "start": 171,
+                    "url": "https://t.co/B1xi4yj8Gw"
+                },
+                {
+                    "display_url": "pic.twitter.com/00IEgL518f",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1623215113359527936/video/1",
+                    "media_key": "13_1623215054446333952",
+                    "start": 246,
+                    "url": "https://t.co/00IEgL518f"
+                }
+            ]
+        },
+        "id": "1623215113359527936",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 721,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Following the publication of our latest results, CEO Greg Poux-Guillaume looks ahead to 2023 \u2013 a year of finding the right balance to push the company forward. Learn more https://t.co/B1xi4yj8Gw \n\n#FinancialResults #AkzoNobel $AKZA $AKZOY $AKZOF https://t.co/00IEgL518f"
+    }
+}

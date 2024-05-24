@@ -1,0 +1,90 @@
+{
+    "1635936532795203586": {
+        "attachments": {
+            "media_keys": [
+                "3_1635936420534657024",
+                "3_1635936420526280707"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-03-15T09:30:38.000Z",
+        "edit_history_tweet_ids": [
+            "1635936532795203586"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Volkswagen ID",
+                    "probability": 0.646,
+                    "start": 21,
+                    "type": "Organization"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Konica Minolta",
+                    "probability": 0.5498,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Denmark",
+                    "probability": 0.9399,
+                    "start": 153,
+                    "type": "Place"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "Norway",
+                    "probability": 0.9529,
+                    "start": 162,
+                    "type": "Place"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "Sweden",
+                    "probability": 0.9741,
+                    "start": 170,
+                    "type": "Place"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "Finland",
+                    "probability": 0.9808,
+                    "start": 181,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/nggy3hKizi",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1635936532795203586/photo/1",
+                    "media_key": "3_1635936420534657024",
+                    "start": 245,
+                    "url": "https://t.co/nggy3hKizi"
+                },
+                {
+                    "display_url": "pic.twitter.com/nggy3hKizi",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1635936532795203586/photo/1",
+                    "media_key": "3_1635936420526280707",
+                    "start": 245,
+                    "url": "https://t.co/nggy3hKizi"
+                }
+            ]
+        },
+        "id": "1635936532795203586",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 204,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We just delivered 35 Volkswagen ID.4s to our friends at Konica Minolta, ensuring their top-notch technicians can get the job done with zero emissions in Denmark, Norway, Sweden and Finland. Congrats for taking a step towards a greener future.\ud83c\udf0d\ud83c\udf3f https://t.co/nggy3hKizi"
+    }
+}

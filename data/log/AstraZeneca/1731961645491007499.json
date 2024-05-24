@@ -1,0 +1,83 @@
+{
+    "1731961645491007499": {
+        "attachments": {
+            "media_keys": [
+                "13_1731961615526866944"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-12-05T09:00:09.000Z",
+        "edit_history_tweet_ids": [
+            "1731961645491007499"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Cardiorenal",
+                    "probability": 0.5575,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 38,
+                    "normalized_text": "hyperkalaemia",
+                    "probability": 0.5742,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "hyperkalaemia",
+                    "probability": 0.5182,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Our advanced understanding is helping to slow and prevent progression of renal diseases. Learn more.",
+                    "display_url": "learn.az/6017ut1rP",
+                    "end": 272,
+                    "expanded_url": "https://learn.az/6017ut1rP",
+                    "images": [
+                        {
+                            "height": 500,
+                            "url": "https://pbs.twimg.com/news_img/1737865563693584385/YmiuVV6N?format=jpg&name=orig",
+                            "width": 900
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1737865563693584385/YmiuVV6N?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 249,
+                    "status": 200,
+                    "title": "Renal | AstraZeneca",
+                    "unwound_url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/renal.html?utm_source=twitter&utm_medium=hyperkalemia+evergreen+part+2&utm_term=12055&utm_content=cvrm",
+                    "url": "https://t.co/mS8enG5YLj"
+                },
+                {
+                    "display_url": "pic.twitter.com/o6lp6PyEGY",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1731961645491007499/video/1",
+                    "media_key": "13_1731961615526866944",
+                    "start": 273,
+                    "url": "https://t.co/o6lp6PyEGY"
+                }
+            ]
+        },
+        "id": "1731961645491007499",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3707,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 8
+        },
+        "text": "Cardiorenal patients with hyperkalaemia experience an increased risk of hospitalisations. We aim to help reduce mortality rates and hospitalisations by providing important insights to advance guideline directed hyperkalaemia management. Learn more: https://t.co/mS8enG5YLj https://t.co/o6lp6PyEGY"
+    }
+}

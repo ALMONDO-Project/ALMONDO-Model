@@ -1,0 +1,72 @@
+{
+    "1686740602984017922": {
+        "attachments": {
+            "media_keys": [
+                "3_1686740597833347072"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-08-02T14:07:52.000Z",
+        "edit_history_tweet_ids": [
+            "1686740602984017922"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "EcoVadis",
+                    "probability": 0.6651,
+                    "start": 47,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "Medal",
+                    "probability": 0.5921,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": "WhatScienceCanDo",
+                    "probability": 0.5249,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 18,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 256,
+                    "start": 239,
+                    "tag": "WhatScienceCanDo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jP1lgg1HkG",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1686740602984017922/photo/1",
+                    "media_key": "3_1686740597833347072",
+                    "start": 257,
+                    "url": "https://t.co/jP1lgg1HkG"
+                }
+            ]
+        },
+        "id": "1686740602984017922",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 4121,
+            "like_count": 15,
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "Our commitment to #Sustainability earned us an EcoVadis Gold Medal for 2023. This rating reflects our focus on the environment, human rights and ethics, as well as our efforts to ensure sustainable practices extend across our value chain. #WhatScienceCanDo https://t.co/jP1lgg1HkG"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1712772194843885914": {
+        "attachments": {
+            "media_keys": [
+                "16_1712772163005030400"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-10-13T10:08:07.000Z",
+        "edit_history_tweet_ids": [
+            "1712772194843885914"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 154,
+                    "normalized_text": "IDWeek2023",
+                    "probability": 0.6679,
+                    "start": 145,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 155,
+                    "start": 144,
+                    "tag": "IDWeek2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/aat5iKKbRu",
+                    "end": 179,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1712772194843885914/photo/1",
+                    "media_key": "16_1712772163005030400",
+                    "start": 156,
+                    "url": "https://t.co/aat5iKKbRu"
+                }
+            ]
+        },
+        "id": "1712772194843885914",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 7824,
+            "like_count": 21,
+            "quote_count": 3,
+            "reply_count": 9,
+            "retweet_count": 5
+        },
+        "text": "We\u2019re aiming to lead the science in vaccines and immune therapies, pioneering new ways to protect the most vulnerable from infectious diseases. #IDWeek2023 https://t.co/aat5iKKbRu"
+    }
+}

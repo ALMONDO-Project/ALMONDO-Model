@@ -1,0 +1,53 @@
+{
+    "1660578893487636480": {
+        "attachments": {
+            "media_keys": [
+                "13_1660578754266103809"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-22T09:30:34.000Z",
+        "edit_history_tweet_ids": [
+            "1660578893487636480"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "failure",
+                    "probability": 0.598,
+                    "start": 6,
+                    "type": "Other"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "HF",
+                    "probability": 0.5127,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/YGP209eAqo",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1660578893487636480/video/1",
+                    "media_key": "13_1660578754266103809",
+                    "start": 255,
+                    "url": "https://t.co/YGP209eAqo"
+                }
+            ]
+        },
+        "id": "1660578893487636480",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 20522,
+            "like_count": 20,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Heart failure (HF) is becoming more prevalent worldwide. It\u2019s important to understand the spectrum of HF and how to best care for patients living with chronic HF. One way to improve care is by delivering guideline-directed medical therapy in treating HF. https://t.co/YGP209eAqo"
+    }
+}

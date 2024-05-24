@@ -1,0 +1,90 @@
+{
+    "1658094884970962944": {
+        "attachments": {
+            "media_keys": [
+                "3_1658094882014076928"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-15T13:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1658094884970962944"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 201,
+                    "normalized_text": "YHP",
+                    "probability": 0.4796,
+                    "start": 199,
+                    "type": "Other"
+                },
+                {
+                    "end": 249,
+                    "normalized_text": "UNICEF",
+                    "probability": 0.5013,
+                    "start": 244,
+                    "type": "Organization"
+                },
+                {
+                    "end": 262,
+                    "normalized_text": "South Africa",
+                    "probability": 0.7449,
+                    "start": 251,
+                    "type": "Place"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "Francisco",
+                    "probability": 0.3813,
+                    "start": 269,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 51,
+                    "id": "33933259",
+                    "start": 44,
+                    "username": "UNICEF"
+                },
+                {
+                    "end": 79,
+                    "id": "141109274",
+                    "start": 65,
+                    "username": "bettersociety"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6017OgVGV",
+                    "end": 232,
+                    "expanded_url": "http://spr.ly/6017OgVGV",
+                    "start": 209,
+                    "status": 200,
+                    "unwound_url": "https://www.younghealthprogrammeyhp.com/",
+                    "url": "https://t.co/PsC2qXJwfm"
+                },
+                {
+                    "display_url": "pic.twitter.com/srJ2b3UWys",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1658094884970962944/photo/1",
+                    "media_key": "3_1658094882014076928",
+                    "start": 279,
+                    "url": "https://t.co/srJ2b3UWys"
+                }
+            ]
+        },
+        "id": "1658094884970962944",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5596,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 4
+        },
+        "text": "Our Young Health Programme partnership with @UNICEF, has won the @BetterSociety Award for its impact in creating a healthier, more sustainable future for young people worldwide. Learn more about the YHP here: https://t.co/PsC2qXJwfm \n\nPhoto: \u00a9 UNICEF South Africa/2022/Francisco https://t.co/srJ2b3UWys"
+    }
+}

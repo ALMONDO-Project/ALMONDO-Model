@@ -1,0 +1,112 @@
+{
+    "1663206060755243010": {
+        "attachments": {
+            "media_keys": [
+                "7_1661738234131668993"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-29T15:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1663206060755243010"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.9739,
+                    "start": 19,
+                    "type": "Organization"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "ColdplayClues",
+                    "probability": 0.8689,
+                    "start": 74,
+                    "type": "Organization"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Music Of The Spheres World Tour",
+                    "probability": 0.842,
+                    "start": 113,
+                    "type": "Other"
+                },
+                {
+                    "end": 161,
+                    "normalized_text": "DHL",
+                    "probability": 0.754,
+                    "start": 159,
+                    "type": "Organization"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "DHL",
+                    "probability": 0.4505,
+                    "start": 254,
+                    "type": "Organization"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "DHLxColdplay",
+                    "probability": 0.3617,
+                    "start": 259,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 18,
+                    "tag": "Coldplay"
+                },
+                {
+                    "end": 87,
+                    "start": 73,
+                    "tag": "ColdplayClues"
+                },
+                {
+                    "end": 257,
+                    "start": 253,
+                    "tag": "DHL"
+                },
+                {
+                    "end": 271,
+                    "start": 258,
+                    "tag": "DHLxColdplay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/coldplayclues",
+                    "end": 252,
+                    "expanded_url": "http://dhl.com/coldplayclues",
+                    "start": 229,
+                    "status": 200,
+                    "unwound_url": "https://inmotion.dhl/en/coldplay?open=element_quiz_modal&utm_campaign=DHL-Coldplay&utm_medium=vanity-markets&utm_source=vanity-markets",
+                    "url": "https://t.co/bDXdKVMEIC"
+                },
+                {
+                    "display_url": "pic.twitter.com/YBf63ikdn7",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1663206060755243010/video/1",
+                    "media_key": "7_1661738234131668993",
+                    "start": 272,
+                    "url": "https://t.co/YBf63ikdn7"
+                }
+            ]
+        },
+        "id": "1663206060755243010",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 483370,
+            "like_count": 90,
+            "quote_count": 6,
+            "reply_count": 14,
+            "retweet_count": 7
+        },
+        "text": "Ready for another #Coldplay Monday\ud83c\udfb5? Find the hidden lyrics reference in #ColdplayClues &amp; win tickets to the Music Of The Spheres World Tour, delivered by DHL. \ud83c\udf0d\ud83c\udfab\n\nHint: Juicy watermelon satellite, how lovely... \ud83c\udf49\ud83d\ude09\n\nEnter at https://t.co/bDXdKVMEIC\n#DHL #DHLxColdplay https://t.co/YBf63ikdn7"
+    }
+}

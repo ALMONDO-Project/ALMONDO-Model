@@ -1,0 +1,74 @@
+{
+    "1647525241176858624": {
+        "attachments": {
+            "media_keys": [
+                "3_1647525237498494977"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-04-16T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1647525241176858624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "COVID-19",
+                    "probability": 0.9912,
+                    "start": 30,
+                    "type": "Other"
+                },
+                {
+                    "end": 119,
+                    "normalized_text": "RSV",
+                    "probability": 0.8112,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "influenza",
+                    "probability": 0.8469,
+                    "start": 125,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "ECCMID2023",
+                    "probability": 0.6124,
+                    "start": 211,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 221,
+                    "start": 210,
+                    "tag": "ECCMID2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/WnIlgtjJ2F",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1647525241176858624/photo/1",
+                    "media_key": "3_1647525237498494977",
+                    "start": 222,
+                    "url": "https://t.co/WnIlgtjJ2F"
+                }
+            ]
+        },
+        "id": "1647525241176858624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 11219,
+            "like_count": 18,
+            "quote_count": 2,
+            "reply_count": 21,
+            "retweet_count": 6
+        },
+        "text": "Among the many impacts of the COVID-19 pandemic is an increased focus on protection against infectious diseases like RSV and influenza. We are focused on protecting those most at risk from infectious diseases. #ECCMID2023 https://t.co/WnIlgtjJ2F"
+    }
+}

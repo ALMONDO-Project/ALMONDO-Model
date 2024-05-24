@@ -1,0 +1,77 @@
+{
+    "1687380381018865664": {
+        "attachments": {
+            "media_keys": [
+                "13_1687380354426941440"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-08-04T08:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1687380381018865664"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 3,
+                    "normalized_text": "COPD",
+                    "probability": 0.5431,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 187,
+                    "normalized_text": "COPD",
+                    "probability": 0.4552,
+                    "start": 184,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 241,
+                    "start": 226,
+                    "tag": "SpeakUpforCOPD"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 53,
+                    "id": "3154020707",
+                    "start": 47,
+                    "username": "Ipsos"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "learn.az/6012Pbguw",
+                    "end": 279,
+                    "expanded_url": "https://learn.az/6012Pbguw",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.politico.eu/sponsored-content/making-copd-a-public-health-priority-starts-here-understanding-the-condition/",
+                    "url": "https://t.co/QhgQBCE95k"
+                },
+                {
+                    "display_url": "pic.twitter.com/NH7gFkRNBm",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1687380381018865664/video/1",
+                    "media_key": "13_1687380354426941440",
+                    "start": 280,
+                    "url": "https://t.co/NH7gFkRNBm"
+                }
+            ]
+        },
+        "id": "1687380381018865664",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5313,
+            "like_count": 23,
+            "quote_count": 2,
+            "reply_count": 9,
+            "retweet_count": 2
+        },
+        "text": "COPD is not well known by the public, a recent @Ipsos poll suggests. Misperceptions can exacerbate existing stigma, inhibiting people from seeking timely help for symptoms. Let's make COPD the health priority it should be and #SpeakUpforCOPD.  \nRead more: https://t.co/QhgQBCE95k https://t.co/NH7gFkRNBm"
+    }
+}

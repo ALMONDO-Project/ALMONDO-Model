@@ -1,0 +1,46 @@
+{
+    "1648337863426158593": {
+        "author_id": "13065032",
+        "created_at": "2023-04-18T14:49:05.000Z",
+        "edit_history_tweet_ids": [
+            "1648337863426158593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Yash",
+                    "probability": 0.5765,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "india",
+                    "probability": 0.924,
+                    "start": 163,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1515355559750664192",
+                    "start": 0,
+                    "username": "ybansal2972"
+                }
+            ]
+        },
+        "id": "1648337863426158593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 36,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@ybansal2972 Hello Yash. We deeply regret any inconvenience caused to you. May we request you to share your contact details and experience with us at customercare.india@akzonobel.com or via our helpline 1800-3000-4455. Our team will contact you at the earliest. Kind regards, Social Media Team"
+    }
+}

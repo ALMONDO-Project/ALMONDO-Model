@@ -1,0 +1,99 @@
+{
+    "1668845824258785280": {
+        "attachments": {
+            "media_keys": [
+                "13_1668845725214552064"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-06-14T05:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1668845824258785280"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 131,
+                    "normalized_text": "Netflix",
+                    "probability": 0.9652,
+                    "start": 125,
+                    "type": "Organization"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "Tour",
+                    "probability": 0.6875,
+                    "start": 135,
+                    "type": "Other"
+                },
+                {
+                    "end": 148,
+                    "normalized_text": "France",
+                    "probability": 0.4303,
+                    "start": 143,
+                    "type": "Other"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "TDF2023",
+                    "probability": 0.5848,
+                    "start": 233,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.5628,
+                    "start": 242,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 240,
+                    "start": 232,
+                    "tag": "TDF2023"
+                },
+                {
+                    "end": 251,
+                    "start": 241,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 260,
+                    "start": 252,
+                    "tag": "Cycling"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 102,
+                    "id": "153403071",
+                    "start": 95,
+                    "username": "LeTour"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/pPWZKhjIDe",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1668845824258785280/video/1",
+                    "media_key": "13_1668845725214552064",
+                    "start": 261,
+                    "url": "https://t.co/pPWZKhjIDe"
+                }
+            ]
+        },
+        "id": "1668845824258785280",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 798,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Counting down to the start of the world\u2019s biggest bicycle race. As an Official Supplier to the @LeTour, we can\u2019t wait! Watch Netflix\u2019s Tour de France: Unchained to experience all the drama, color and excitement. Watch the trailer.\n\n#TDF2023 #AkzoNobel #Cycling https://t.co/pPWZKhjIDe"
+    }
+}

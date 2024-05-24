@@ -1,0 +1,46 @@
+{
+    "1694741364280295643": {
+        "attachments": {
+            "media_keys": [
+                "3_1694741356797698048"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-08-24T16:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1694741364280295643"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "diabetes",
+                    "probability": 0.7116,
+                    "start": 119,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/PJsaKQXtE6",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1694741364280295643/photo/1",
+                    "media_key": "3_1694741356797698048",
+                    "start": 261,
+                    "url": "https://t.co/PJsaKQXtE6"
+                }
+            ]
+        },
+        "id": "1694741364280295643",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1998,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Cardiovascular diseases, like heart attacks, heart failure and strokes, often coexist with metabolic disorders such as diabetes and obesity. These conditions share common risk factors and biological pathways, affecting our hearts and metabolism simultaneously. https://t.co/PJsaKQXtE6"
+    }
+}

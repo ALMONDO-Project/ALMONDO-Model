@@ -1,0 +1,83 @@
+{
+    "1695360441952690244": {
+        "attachments": {
+            "media_keys": [
+                "3_1695360439104729089"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-08-26T09:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1695360441952690244"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 157,
+                    "normalized_text": "HF",
+                    "probability": 0.5177,
+                    "start": 156,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "ESCCongress",
+                    "probability": 0.4836,
+                    "start": 225,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 236,
+                    "start": 224,
+                    "tag": "ESCCongress"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "At AstraZeneca, we believe we play a pivotal role in advancing the understanding of heart failure and driving better patient outcomes.",
+                    "display_url": "learn.az/6018PWkIC",
+                    "end": 223,
+                    "expanded_url": "https://learn.az/6018PWkIC",
+                    "images": [
+                        {
+                            "height": 180,
+                            "url": "https://pbs.twimg.com/news_img/1789928606195412992/VMUJn7r1?format=jpg&name=orig",
+                            "width": 320
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1789928606195412992/VMUJn7r1?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 200,
+                    "status": 200,
+                    "title": "Transforming cardiovascular care and the burden of heart failure",
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2023/transforming-cardiovascular-care-burden-heart-failure.html?utm_source=twitter&utm_medium=esc+2023&utm_term=12003&utm_content=cvrm",
+                    "url": "https://t.co/r1fKNFzjCo"
+                },
+                {
+                    "display_url": "pic.twitter.com/lUVV5mGt77",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1695360441952690244/photo/1",
+                    "media_key": "3_1695360439104729089",
+                    "start": 237,
+                    "url": "https://t.co/lUVV5mGt77"
+                }
+            ]
+        },
+        "id": "1695360441952690244",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4941,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Heart failure (HF) affects about 64 million people globally, but there's hope for improved outcomes. We\u2019re advocating for policy reforms and empowering the HF community. Learn more about our efforts: https://t.co/r1fKNFzjCo #ESCCongress https://t.co/lUVV5mGt77"
+    }
+}

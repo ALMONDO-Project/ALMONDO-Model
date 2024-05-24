@@ -1,0 +1,83 @@
+{
+    "1679055502267883520": {
+        "attachments": {
+            "media_keys": [
+                "7_1679055372747776000"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-07-12T09:10:01.000Z",
+        "edit_history_tweet_ids": [
+            "1679055502267883520"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "ICE",
+                    "probability": 0.3312,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 19,
+                    "normalized_text": "LCV",
+                    "probability": 0.3135,
+                    "start": 17,
+                    "type": "Other"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "LCVs",
+                    "probability": 0.3166,
+                    "start": 53,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We\u2019re Ayvens, a global leader in sustainable mobility. And in a world that needs more intuitive and more sustainable ways of moving, we\u2019re committed to making life flow better for all our customers, from large corporates to private individuals.",
+                    "display_url": "bit.ly/3JW4cxz",
+                    "end": 209,
+                    "expanded_url": "https://bit.ly/3JW4cxz",
+                    "images": [
+                        {
+                            "height": 1260,
+                            "url": "https://pbs.twimg.com/news_img/1747266727438872576/NbPdl836?format=jpg&name=orig",
+                            "width": 2400
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1747266727438872576/NbPdl836?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 186,
+                    "status": 200,
+                    "title": "Ayvens - Better with every move",
+                    "unwound_url": "https://www.ayvens.com/?utm_source=linkedin&utm_medium=socialmedia&utm_campaign=mobility_blog&utm_content=e-lcv-post2",
+                    "url": "https://t.co/OzcWOoUrVR"
+                },
+                {
+                    "display_url": "pic.twitter.com/FDZcOsIwPT",
+                    "end": 233,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1679055502267883520/video/1",
+                    "media_key": "7_1679055372747776000",
+                    "start": 210,
+                    "url": "https://t.co/FDZcOsIwPT"
+                }
+            ]
+        },
+        "id": "1679055502267883520",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 218,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "The European ICE LCV market has fallen 21% because e-LCVs are driving the future. \ud83d\ude97\u26a1 Embrace the electrifying revolution and discover how to get started in our latest blog article here \ud83d\udc49https://t.co/OzcWOoUrVR https://t.co/FDZcOsIwPT"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "1658819669262843905": {
+        "author_id": "197352549",
+        "created_at": "2023-05-17T13:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1658819669262843905"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "UAE National Rail Network",
+                    "probability": 0.5588,
+                    "start": 32,
+                    "type": "Organization"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "UAE",
+                    "probability": 0.9738,
+                    "start": 134,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 164,
+                    "start": 152,
+                    "tag": "RailFreight"
+                },
+                {
+                    "end": 186,
+                    "start": 165,
+                    "tag": "SustainableLogistics"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1320478684235632640",
+                    "start": 1,
+                    "username": "dhl_forwarding"
+                },
+                {
+                    "end": 151,
+                    "id": "274926915",
+                    "start": 139,
+                    "username": "Etihad_Rail"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 210,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/dhl-global-forwarding-to-utilize-the-uae-national-rail-network.html",
+                    "start": 187,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/dhl-global-forwarding-to-utilize-the-uae-national-rail-network.html",
+                    "url": "https://t.co/v2eqoKb6DD"
+                }
+            ]
+        },
+        "id": "1658819669262843905",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1256,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": ".@dhl_forwarding to utilize the UAE National Rail Network as one of its primary modes of transportation for its operations within the UAE. @Etihad_Rail #RailFreight #SustainableLogistics\nhttps://t.co/v2eqoKb6DD"
+    }
+}
