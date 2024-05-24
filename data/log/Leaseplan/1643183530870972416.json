@@ -1,0 +1,96 @@
+{
+    "1643183530870972416": {
+        "attachments": {
+            "media_keys": [
+                "7_1643183160044187649"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-04-04T09:27:37.000Z",
+        "edit_history_tweet_ids": [
+            "1643183530870972416"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Alex",
+                    "probability": 0.5895,
+                    "start": 7,
+                    "type": "Other"
+                },
+                {
+                    "end": 21,
+                    "normalized_text": "LeasePlan",
+                    "probability": 0.7775,
+                    "start": 13,
+                    "type": "Other"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "AI",
+                    "probability": 0.7628,
+                    "start": 67,
+                    "type": "Organization"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "Alex",
+                    "probability": 0.6485,
+                    "start": 71,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 50,
+                    "start": 34,
+                    "tag": "machinelearning"
+                },
+                {
+                    "end": 238,
+                    "start": 220,
+                    "tag": "digitalinnovation"
+                },
+                {
+                    "end": 254,
+                    "start": 239,
+                    "tag": "machinlearning"
+                },
+                {
+                    "end": 267,
+                    "start": 256,
+                    "tag": "automation"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3GgjqMd",
+                    "end": 218,
+                    "expanded_url": "http://bit.ly/3GgjqMd",
+                    "start": 195,
+                    "url": "https://t.co/UCC1uZuD3E"
+                },
+                {
+                    "display_url": "pic.twitter.com/eE8VwZ0b5N",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1643183530870972416/video/1",
+                    "media_key": "7_1643183160044187649",
+                    "start": 268,
+                    "url": "https://t.co/eE8VwZ0b5N"
+                }
+            ]
+        },
+        "id": "1643183530870972416",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 199,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "\ud83e\udd16\u00a0Meet Alex, LeasePlan's next-gen #machinelearning robot! \ud83d\ude97\ud83d\udca8 Using AI, Alex automates maintenance approvals, reducing costs &amp; saving time for customers and suppliers. Job Visser explains \ud83c\udfa5 \ud83d\udc49\u200bhttps://t.co/UCC1uZuD3E\n\n#digitalinnovation #machinlearning\u00a0 #automation https://t.co/eE8VwZ0b5N"
+    }
+}

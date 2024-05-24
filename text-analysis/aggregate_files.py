@@ -5,7 +5,7 @@ from datetime import datetime
 
 def process_json_file(file_path, folder_name):
     print(f'processing data for user: {folder_name}')
-    with open(file_path, 'r', encoding='utf-8') as file:
+    with open(file_path, 'r') as file:
         try:
             data = json.load(file)
         except json.decoder.JSONDecodeError:
@@ -23,14 +23,23 @@ def process_json_file(file_path, folder_name):
 
 def traverse_folders(path):
     valid_tweets_list = []
+    errors = []
     c=0
-    for root, _, files in os.walk(path):
+    for folders in os.listdir('../data/log/'):
+        if '.' in folders:
+            continue
+        
         folder_name = os.path.basename(root)
         c+=1
         for file in files:
             if file.endswith('.json') and not file.startswith('page'):
                 file_path = os.path.join(root, file)
-                valid_tweets_list.extend(process_json_file(file_path, folder_name))
+                tweets = process_json_file(file_path, folder_name)
+                if len(tweets) > 0:
+                    valid_tweets_list.extend(tweets)
+                else:
+                    errors.append(file_path)
+    print(errors)    
     print(c)
     return valid_tweets_list
 

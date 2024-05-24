@@ -1,0 +1,88 @@
+{
+    "1735600588698661287": {
+        "attachments": {
+            "media_keys": [
+                "3_1735600586282639360"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-12-15T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1735600588698661287"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Tokyo",
+                    "probability": 0.7974,
+                    "start": 21,
+                    "type": "Place"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Japan",
+                    "probability": 0.9384,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "Akzo",
+                    "probability": 0.4192,
+                    "start": 84,
+                    "type": "Other"
+                },
+                {
+                    "end": 223,
+                    "normalized_text": "Nobel Industries",
+                    "probability": 0.6771,
+                    "start": 208,
+                    "type": "Other"
+                },
+                {
+                    "end": 261,
+                    "normalized_text": "Akzo Nobel",
+                    "probability": 0.8378,
+                    "start": 252,
+                    "type": "Other"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.6101,
+                    "start": 266,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 275,
+                    "start": 265,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/eZyQuqmzIU",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1735600588698661287/photo/1",
+                    "media_key": "3_1735600586282639360",
+                    "start": 276,
+                    "url": "https://t.co/eZyQuqmzIU"
+                }
+            ]
+        },
+        "id": "1735600588698661287",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 837,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Recognize this? It\u2019s Tokyo, Japan, exactly 30 years ago. And that\u2019s the first ever \u201cAkzo\u201d sign to be installed in the city. It can\u2019t have been there long, however. A few months later, the company merged with Nobel Industries and we changed our name to Akzo Nobel.\n\n#AkzoNobel https://t.co/eZyQuqmzIU"
+    }
+}

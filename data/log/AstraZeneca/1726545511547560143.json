@@ -1,0 +1,83 @@
+{
+    "1726545511547560143": {
+        "attachments": {
+            "media_keys": [
+                "13_1726545422531911680"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-20T10:18:22.000Z",
+        "edit_history_tweet_ids": [
+            "1726545511547560143"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "Evinova",
+                    "probability": 0.5279,
+                    "start": 32,
+                    "type": "Other"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "AstraZeneca",
+                    "probability": 0.9249,
+                    "start": 71,
+                    "type": "Organization"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Evinova",
+                    "probability": 0.463,
+                    "start": 151,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 136,
+                    "id": "175404215",
+                    "start": 128,
+                    "username": "Parexel"
+                },
+                {
+                    "end": 149,
+                    "id": "1622944125908664321",
+                    "start": 141,
+                    "username": "Fortrea"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "learn.az/6019u20nT",
+                    "end": 281,
+                    "expanded_url": "https://learn.az/6019u20nT",
+                    "start": 258,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2023/astrazeneca-launches-a-healthtech-business-evinova.html?utm_source=twitter&utm_medium=project+max+-+confidential&utm_term=12118&utm_content=financial#",
+                    "url": "https://t.co/hxw2LitOgj"
+                },
+                {
+                    "display_url": "pic.twitter.com/Kpld9K103y",
+                    "end": 306,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1726545511547560143/video/1",
+                    "media_key": "13_1726545422531911680",
+                    "start": 283,
+                    "url": "https://t.co/Kpld9K103y"
+                }
+            ]
+        },
+        "id": "1726545511547560143",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 7247,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "Today we announce the launch of Evinova, a health-tech business within AstraZeneca. With strategic collaborations in place with @Parexel and @Fortrea, Evinova offers science based, globally scaled digital products &amp; services to the life sciences sector. https://t.co/hxw2LitOgj! https://t.co/Kpld9K103y"
+    }
+}

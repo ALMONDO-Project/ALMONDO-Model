@@ -1,0 +1,91 @@
+{
+    "1672222639455174658": {
+        "attachments": {
+            "media_keys": [
+                "3_1672222359351066624"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-06-23T12:38:40.000Z",
+        "edit_history_tweet_ids": [
+            "1672222639455174658"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 65,
+                    "normalized_text": "SAF",
+                    "probability": 0.3593,
+                    "start": 63,
+                    "type": "Organization"
+                },
+                {
+                    "end": 172,
+                    "normalized_text": "DHLDelivered",
+                    "probability": 0.3892,
+                    "start": 161,
+                    "type": "Organization"
+                },
+                {
+                    "end": 232,
+                    "normalized_text": "DHL",
+                    "probability": 0.5434,
+                    "start": 230,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 173,
+                    "start": 160,
+                    "tag": "DHLDelivered"
+                },
+                {
+                    "end": 223,
+                    "start": 202,
+                    "tag": "SustainableLogistics"
+                },
+                {
+                    "end": 228,
+                    "start": 224,
+                    "tag": "SAF"
+                },
+                {
+                    "end": 233,
+                    "start": 229,
+                    "tag": "DHL"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 198,
+                    "expanded_url": "https://www.dhl.com/global-en/delivered/sustainability/scaling-up-sustainable-aviation-fuel-solutions.html?cid=organic-social_1U1Vin",
+                    "start": 175,
+                    "status": 200,
+                    "unwound_url": "https://www.dhl.com/global-en/delivered/sustainability/scaling-up-sustainable-aviation-fuel-solutions.html?cid=organic-social_1U1Vin",
+                    "url": "https://t.co/a9vWRlf5IN"
+                },
+                {
+                    "display_url": "pic.twitter.com/NvQ6YeR7es",
+                    "end": 257,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1672222639455174658/photo/1",
+                    "media_key": "3_1672222359351066624",
+                    "start": 234,
+                    "url": "https://t.co/NvQ6YeR7es"
+                }
+            ]
+        },
+        "id": "1672222639455174658",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3077,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 6
+        },
+        "text": "Want to create cleaner skies? So do we! With alternatives like SAF, we are well on our way. But there's still a way to go. \n\nDiscover the steps we're taking on #DHLDelivered: https://t.co/a9vWRlf5IN  \n\n#SustainableLogistics #SAF #DHL https://t.co/NvQ6YeR7es"
+    }
+}

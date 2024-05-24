@@ -1,0 +1,67 @@
+{
+    "1726620922428170638": {
+        "attachments": {
+            "media_keys": [
+                "3_1726620919580246016"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-20T15:18:01.000Z",
+        "edit_history_tweet_ids": [
+            "1726620922428170638"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Quell Therapeutics",
+                    "probability": 0.5828,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "Quris Best",
+                    "probability": 0.6654,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "Award",
+                    "probability": 0.5877,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 91,
+                    "normalized_text": "SCRIP 2023",
+                    "probability": 0.6482,
+                    "start": 82,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FyhcHQRpWk",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1726620922428170638/photo/1",
+                    "media_key": "3_1726620919580246016",
+                    "start": 281,
+                    "url": "https://t.co/FyhcHQRpWk"
+                }
+            ]
+        },
+        "id": "1726620922428170638",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3781,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Together with Quell Therapeutics, we have won the Quris Best Partnership Award at SCRIP 2023 for our collaboration to advance T-reg cell therapies, recognising innovative science collaboration towards a shared ambition of cure and remission for chronic immune-mediated conditions. https://t.co/FyhcHQRpWk"
+    }
+}

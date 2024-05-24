@@ -1,0 +1,47 @@
+{
+    "1697626437757378843": {
+        "author_id": "62465691",
+        "created_at": "2023-09-01T15:04:17.000Z",
+        "edit_history_tweet_ids": [
+            "1697626437757378843"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "LungCancer",
+                    "probability": 0.6106,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 31,
+                    "start": 20,
+                    "tag": "LungCancer"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/LungAmbition/s\u2026",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/LungAmbition/status/1693956184917573668",
+                    "start": 261,
+                    "url": "https://t.co/sZVyuKUc9n"
+                }
+            ]
+        },
+        "id": "1697626437757378843",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9613,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Establishing timely #LungCancer patient referrals will form a critical component in improving the quality of care and reducing overall mortality. Learn more about the barriers and recommendations for improving patient referral pathways outlined in this report. https://t.co/sZVyuKUc9n"
+    }
+}

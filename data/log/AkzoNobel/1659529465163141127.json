@@ -1,0 +1,72 @@
+{
+    "1659529465163141127": {
+        "attachments": {
+            "media_keys": [
+                "13_1659529337308061696"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-05-19T12:00:31.000Z",
+        "edit_history_tweet_ids": [
+            "1659529465163141127"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 175,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4836,
+                    "start": 167,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 176,
+                    "start": 166,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 191,
+                    "start": 177,
+                    "tag": "ColourFutures"
+                },
+                {
+                    "end": 218,
+                    "start": 192,
+                    "tag": "MentalHealthAwarenessWeek"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/well-being",
+                    "end": 164,
+                    "expanded_url": "https://akzo.no/well-being",
+                    "start": 141,
+                    "status": 200,
+                    "unwound_url": "https://www.akzonobel.com/en/about-us/stories-/whats-nature-got-to-do-with-our-mental-well-being",
+                    "url": "https://t.co/Hc6mLwo4Ma"
+                },
+                {
+                    "display_url": "pic.twitter.com/fJN1IIOWv0",
+                    "end": 242,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1659529465163141127/video/1",
+                    "media_key": "13_1659529337308061696",
+                    "start": 219,
+                    "url": "https://t.co/fJN1IIOWv0"
+                }
+            ]
+        },
+        "id": "1659529465163141127",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 587,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "During Mental Health Awareness Week, our ColourFutures forecast panelists explain how nature, color and mental well-being affect each other: https://t.co/Hc6mLwo4Ma\n\n#AkzoNobel #ColourFutures #MentalHealthAwarenessWeek https://t.co/fJN1IIOWv0"
+    }
+}

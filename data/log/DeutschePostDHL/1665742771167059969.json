@@ -1,0 +1,124 @@
+{
+    "1665742771167059969": {
+        "attachments": {
+            "media_keys": [
+                "7_1665741326053244931"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-06-05T15:29:59.000Z",
+        "edit_history_tweet_ids": [
+            "1665742771167059969"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 9,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.7849,
+                    "start": 2,
+                    "type": "Organization"
+                },
+                {
+                    "end": 81,
+                    "normalized_text": "ColdplayClues",
+                    "probability": 0.789,
+                    "start": 69,
+                    "type": "Organization"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "MusicOfTheSpheresWorldTour",
+                    "probability": 0.5884,
+                    "start": 117,
+                    "type": "Other"
+                },
+                {
+                    "end": 160,
+                    "normalized_text": "DHL",
+                    "probability": 0.6692,
+                    "start": 158,
+                    "type": "Organization"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "DHL",
+                    "probability": 0.5129,
+                    "start": 237,
+                    "type": "Organization"
+                },
+                {
+                    "end": 253,
+                    "normalized_text": "DHLxColdplay",
+                    "probability": 0.4539,
+                    "start": 242,
+                    "type": "Organization"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.8156,
+                    "start": 256,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 68,
+                    "tag": "ColdplayClues"
+                },
+                {
+                    "end": 143,
+                    "start": 116,
+                    "tag": "MusicOfTheSpheresWorldTour"
+                },
+                {
+                    "end": 240,
+                    "start": 236,
+                    "tag": "DHL"
+                },
+                {
+                    "end": 254,
+                    "start": 241,
+                    "tag": "DHLxColdplay"
+                },
+                {
+                    "end": 264,
+                    "start": 255,
+                    "tag": "Coldplay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/ColdplayClues",
+                    "end": 234,
+                    "expanded_url": "http://dhl.com/ColdplayClues",
+                    "start": 211,
+                    "status": 200,
+                    "unwound_url": "https://inmotion.dhl/en/coldplay?open=element_quiz_modal&utm_campaign=DHL-Coldplay&utm_medium=vanity-markets&utm_source=vanity-markets",
+                    "url": "https://t.co/3QeIfHzSfR"
+                },
+                {
+                    "display_url": "pic.twitter.com/V9HhhQndln",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1665742771167059969/video/1",
+                    "media_key": "7_1665741326053244931",
+                    "start": 265,
+                    "url": "https://t.co/V9HhhQndln"
+                }
+            ]
+        },
+        "id": "1665742771167059969",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 6,
+            "impression_count": 361266,
+            "like_count": 49,
+            "quote_count": 5,
+            "reply_count": 9,
+            "retweet_count": 6
+        },
+        "text": "\ud83c\udf1f Coldplay Monday #4! Find the hidden lyric references to crack the #ColdplayClues and you could win tickets to the #MusicOfTheSpheresWorldTour, delivered by DHL.\n\nHint: Just one left? Poor old puppet\n\nEnter at https://t.co/3QeIfHzSfR\n\n#DHL #DHLxColdplay #Coldplay https://t.co/V9HhhQndln"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "1673705320802033666": {
+        "author_id": "897782982425096192",
+        "created_at": "2023-06-27T14:50:19.000Z",
+        "edit_history_tweet_ids": [
+            "1673705320802033666"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 189,
+                    "normalized_text": "John Saffrett",
+                    "probability": 0.9146,
+                    "start": 177,
+                    "type": "Person"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "LeasePlan",
+                    "probability": 0.7484,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3CR7azm",
+                    "end": 276,
+                    "expanded_url": "https://bit.ly/3CR7azm",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=cKpPYzK4zr8&feature=youtu.be",
+                    "url": "https://t.co/9TOLA3kmNm"
+                }
+            ]
+        },
+        "id": "1673705320802033666",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 205,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\"Becoming a digital leader in the mobility industry means looking at every customer touchpoint. We must\u00a0make the\u00a0experiences simple, easy, and frictionless for the customers\"\u00a0- John Saffrett, Group Deputy CEO\u00a0of\u00a0ALD\u00a0Automotive | LeasePlan\n\nWatch here \u261b https://t.co/9TOLA3kmNm"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1654051997241278465": {
+        "attachments": {
+            "media_keys": [
+                "3_1654051994833678343"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-04T09:15:01.000Z",
+        "edit_history_tweet_ids": [
+            "1654051997241278465"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "influenza",
+                    "probability": 0.8166,
+                    "start": 34,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Vm7eJuZADC",
+                    "end": 235,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1654051997241278465/photo/1",
+                    "media_key": "3_1654051994833678343",
+                    "start": 212,
+                    "url": "https://t.co/Vm7eJuZADC"
+                }
+            ]
+        },
+        "id": "1654051997241278465",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5149,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 3
+        },
+        "text": "The increase in flu activity last influenza season has highlighted the unmet need to vaccinate high-risk groups. \n\nWe continue to push the boundaries of science to help provide better immunity for our community. https://t.co/Vm7eJuZADC"
+    }
+}

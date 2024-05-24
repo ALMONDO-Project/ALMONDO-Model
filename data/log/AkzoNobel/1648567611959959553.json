@@ -1,0 +1,69 @@
+{
+    "1648567611959959553": {
+        "attachments": {
+            "media_keys": [
+                "3_1648567605064597510"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-04-19T06:02:02.000Z",
+        "edit_history_tweet_ids": [
+            "1648567611959959553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "Sherwin-Williams",
+                    "probability": 0.9677,
+                    "start": 32,
+                    "type": "Person"
+                },
+                {
+                    "end": 272,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4399,
+                    "start": 264,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 273,
+                    "start": 263,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Chinese-Decora\u2026",
+                    "end": 261,
+                    "expanded_url": "http://akzo.no/Chinese-Decorative-Paints",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.akzonobel.com/en/media/latest-news---media-releases-/akzonobel-to-acquire-chinese-decorative-paints-business-from-sherwin-williams",
+                    "url": "https://t.co/mTB3DxYbnw"
+                },
+                {
+                    "display_url": "pic.twitter.com/IDuk0oppYH",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1648567611959959553/photo/1",
+                    "media_key": "3_1648567605064597510",
+                    "start": 274,
+                    "url": "https://t.co/IDuk0oppYH"
+                }
+            ]
+        },
+        "id": "1648567611959959553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1206,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "We\u2019ve reached an agreement with Sherwin-Williams to acquire its Chinese Decorative Paints business, further strengthening our position there. Completion, subject to regulatory approvals, is expected in the second half of 2023. Read more: https://t.co/mTB3DxYbnw\n\n#AkzoNobel https://t.co/IDuk0oppYH"
+    }
+}

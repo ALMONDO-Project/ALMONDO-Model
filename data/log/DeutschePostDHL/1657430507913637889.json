@@ -1,0 +1,65 @@
+{
+    "1657430507913637889": {
+        "attachments": {
+            "media_keys": [
+                "3_1656924918196453376"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-13T17:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1657430507913637889"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Eurovision",
+                    "probability": 0.9056,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 48,
+                    "normalized_text": "Eurovision2023",
+                    "probability": 0.9243,
+                    "start": 35,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 22,
+                    "tag": "Eurovision"
+                },
+                {
+                    "end": 49,
+                    "start": 34,
+                    "tag": "Eurovision2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/yn0mL9vE3Y",
+                    "end": 73,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1657430507913637889/photo/1",
+                    "media_key": "3_1656924918196453376",
+                    "start": 50,
+                    "url": "https://t.co/yn0mL9vE3Y"
+                }
+            ]
+        },
+        "id": "1657430507913637889",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2214,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Everything ready? \ud83e\udea9\ud83c\udf2a\ufe0f\ud83d\udc83#Eurovision #Eurovision2023 https://t.co/yn0mL9vE3Y"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1656286471572058114": {
+        "author_id": "197352549",
+        "created_at": "2023-05-10T13:14:01.000Z",
+        "edit_history_tweet_ids": [
+            "1656286471572058114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "myDHLi",
+                    "probability": 0.5495,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 116,
+                    "start": 109,
+                    "tag": "myDHLi"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 90,
+                    "id": "1320478684235632640",
+                    "start": 75,
+                    "username": "dhl_forwarding"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 141,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/dhl-global-forwardings-digital-platform-mydhli.html",
+                    "start": 118,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/dhl-global-forwardings-digital-platform-mydhli.html",
+                    "url": "https://t.co/EZQJbPoK5a"
+                }
+            ]
+        },
+        "id": "1656286471572058114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1213,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Over 16,000 customers enabled to tackle uncertainties in logistics through @dhl_forwarding  digital platform #myDHLi. https://t.co/EZQJbPoK5a"
+    }
+}

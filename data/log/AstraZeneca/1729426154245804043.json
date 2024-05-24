@@ -1,0 +1,83 @@
+{
+    "1729426154245804043": {
+        "author_id": "62465691",
+        "created_at": "2023-11-28T09:05:01.000Z",
+        "edit_history_tweet_ids": [
+            "1729426154245804043"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "CRISPR",
+                    "probability": 0.6501,
+                    "start": 49,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 253,
+                    "start": 234,
+                    "tag": "FunctionalGenomics"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "57579512",
+                    "start": 0,
+                    "username": "The_MRC"
+                },
+                {
+                    "end": 23,
+                    "id": "706838170759991296",
+                    "start": 9,
+                    "username": "TheMilnerInst"
+                },
+                {
+                    "end": 38,
+                    "id": "33474655",
+                    "start": 24,
+                    "username": "Cambridge_Uni"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Genome editing is a key tool in functional genomics, making it possible to delete or change genes in cells to understand their roles in disease. One of the most well-known genome editing tools is CRISPR. Find out about gene editing technology and how CRISPR is adding to our understanding of disease. A number of technologies are avai lable to study functional genomics. But by far the most effective and versatile is the revolutionary gene editing technology CRISPR/Cas9 \u2013 or CRISPR (Clustered Regularly",
+                    "display_url": "learn.az/6012R61nw",
+                    "end": 233,
+                    "expanded_url": "https://learn.az/6012R61nw",
+                    "images": [
+                        {
+                            "height": 177,
+                            "url": "https://pbs.twimg.com/news_img/1729426162932142081/i9HbWfFF?format=jpg&name=orig",
+                            "width": 320
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1729426162932142081/i9HbWfFF?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 210,
+                    "status": 200,
+                    "title": "Functional genomics",
+                    "unwound_url": "https://www.astrazeneca.com/r-d/our-technologies/functional-genomics.html?utm_source=twitter&utm_medium=mrc+biopharma+functional+genomics+lab+announcement&utm_term=12154&utm_content=biopharma+r%26d",
+                    "url": "https://t.co/GLShZpF3jm"
+                }
+            ]
+        },
+        "id": "1729426154245804043",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 2375,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 2
+        },
+        "text": "@The_MRC @TheMilnerInst @Cambridge_Uni Thanks to CRISPR technologies, functional genomics is helping us to understand the underlying biology of diseases and revealing promising new drug targets. Discover more: https://t.co/GLShZpF3jm #FunctionalGenomics"
+    }
+}

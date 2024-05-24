@@ -1,0 +1,86 @@
+{
+    "1674066866417852423": {
+        "attachments": {
+            "media_keys": [
+                "13_1674066792661106691"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-06-28T14:46:58.000Z",
+        "edit_history_tweet_ids": [
+            "1674066866417852423"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "LGBTI+",
+                    "probability": 0.6285,
+                    "start": 77,
+                    "type": "Place"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Vanity",
+                    "probability": 0.2956,
+                    "start": 194,
+                    "type": "Other"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "US",
+                    "probability": 0.9482,
+                    "start": 253,
+                    "type": "Place"
+                },
+                {
+                    "end": 268,
+                    "normalized_text": "PrideMonth",
+                    "probability": 0.5408,
+                    "start": 259,
+                    "type": "Other"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "LGBTI",
+                    "probability": 0.8495,
+                    "start": 271,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 269,
+                    "start": 258,
+                    "tag": "PrideMonth"
+                },
+                {
+                    "end": 276,
+                    "start": 270,
+                    "tag": "LGBTI"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/j44Ql6zoQY",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1674066866417852423/video/1",
+                    "media_key": "13_1674066792661106691",
+                    "start": 277,
+                    "url": "https://t.co/j44Ql6zoQY"
+                }
+            ]
+        },
+        "id": "1674066866417852423",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 703,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Happy Pride Month! Our True Colors network has been helping us celebrate the LGBTI+ community with a series of global and regional events. They\u2019ve included a fabulous online quiz hosted by Miss Vanity Love and an educational \u201cMom, I\u2019m gay\u201d event in the US.\n\n#PrideMonth #LGBTI https://t.co/j44Ql6zoQY"
+    }
+}

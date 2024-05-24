@@ -1,0 +1,74 @@
+{
+    "1664241015660728321": {
+        "attachments": {
+            "media_keys": [
+                "7_1664240878314037249"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-06-01T12:02:32.000Z",
+        "edit_history_tweet_ids": [
+            "1664241015660728321"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "India",
+                    "probability": 0.9554,
+                    "start": 72,
+                    "type": "Place"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "DHLDelivered",
+                    "probability": 0.5334,
+                    "start": 155,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 35,
+                    "tag": "ecommerce"
+                },
+                {
+                    "end": 167,
+                    "start": 154,
+                    "tag": "DHLDelivered"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 192,
+                    "expanded_url": "https://www.dhl.com/global-en/delivered/ecommerce/spotlight-india-shaping-the-future-of-ecommerce-and-logistics.html",
+                    "start": 169,
+                    "status": 200,
+                    "unwound_url": "https://www.dhl.com/global-en/delivered/ecommerce/spotlight-india-shaping-the-future-of-ecommerce-and-logistics.html",
+                    "url": "https://t.co/MVMza67cJA"
+                },
+                {
+                    "display_url": "pic.twitter.com/BmuPIdETtP",
+                    "end": 216,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1664241015660728321/video/1",
+                    "media_key": "7_1664240878314037249",
+                    "start": 193,
+                    "url": "https://t.co/BmuPIdETtP"
+                }
+            ]
+        },
+        "id": "1664241015660728321",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2161,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "With rapid economic growth fueling #ecommerce and logistics markets, \ud83c\uddee\ud83c\uddf3 India is creating amazing opportunities for global businesses. \ud83d\ude80 Discover more on #DHLDelivered: https://t.co/MVMza67cJA https://t.co/BmuPIdETtP"
+    }
+}

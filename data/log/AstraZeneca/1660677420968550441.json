@@ -1,0 +1,40 @@
+{
+    "1660677420968550441": {
+        "author_id": "62465691",
+        "created_at": "2023-05-22T16:02:05.000Z",
+        "edit_history_tweet_ids": [
+            "1660677420968550441"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 226,
+                    "normalized_text": "WWF",
+                    "probability": 0.8673,
+                    "start": 224,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/rylan_dobson/s\u2026",
+                    "end": 254,
+                    "expanded_url": "https://twitter.com/rylan_dobson/status/1658054028507377665",
+                    "start": 231,
+                    "url": "https://t.co/KmN0dfmuoi"
+                }
+            ]
+        },
+        "id": "1660677420968550441",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6198,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "We\u2019re taking steps to understand water-related risks within our supply chain. Check out these key lessons on how to build a deeper awareness of water risks associated with strategic commodities in this joint case study with WWF \u2b07\ufe0f https://t.co/KmN0dfmuoi"
+    }
+}

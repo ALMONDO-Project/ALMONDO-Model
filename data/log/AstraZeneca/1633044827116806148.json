@@ -1,0 +1,74 @@
+{
+    "1633044827116806148": {
+        "attachments": {
+            "media_keys": [
+                "3_1633044824323399682"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-03-07T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1633044827116806148"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Chronic kidney disease",
+                    "probability": 0.8231,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "CKD",
+                    "probability": 0.5508,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 167,
+                    "normalized_text": "CKD",
+                    "probability": 0.6893,
+                    "start": 165,
+                    "type": "Other"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "CKD",
+                    "probability": 0.6203,
+                    "start": 212,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/60193IQGc",
+                    "end": 245,
+                    "expanded_url": "http://spr.ly/60193IQGc",
+                    "start": 222,
+                    "url": "https://t.co/bCKFLhEXZj"
+                },
+                {
+                    "display_url": "pic.twitter.com/5vHORImMBa",
+                    "end": 269,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1633044827116806148/photo/1",
+                    "media_key": "3_1633044824323399682",
+                    "start": 246,
+                    "url": "https://t.co/5vHORImMBa"
+                }
+            ]
+        },
+        "id": "1633044827116806148",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4495,
+            "like_count": 26,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 9
+        },
+        "text": "Chronic kidney disease (CKD) affects up to 850 million people worldwide, but most don\u2019t know they have it. Early detection and treatment is the best defence against CKD progression. Take one minute to check your CKD risk: https://t.co/bCKFLhEXZj https://t.co/5vHORImMBa"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1656579949229113344": {
+        "attachments": {
+            "media_keys": [
+                "13_1656579901577736193"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-05-11T08:40:12.000Z",
+        "edit_history_tweet_ids": [
+            "1656579949229113344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 117,
+                    "normalized_text": "bronchiectasis",
+                    "probability": 0.6231,
+                    "start": 104,
+                    "type": "Other"
+                },
+                {
+                    "end": 230,
+                    "normalized_text": "ATS2023",
+                    "probability": 0.5144,
+                    "start": 224,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Bronchiectasis",
+                    "probability": 0.5597,
+                    "start": 233,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 231,
+                    "start": 223,
+                    "tag": "ATS2023"
+                },
+                {
+                    "end": 247,
+                    "start": 232,
+                    "tag": "Bronchiectasis"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6019Odxjh",
+                    "end": 271,
+                    "expanded_url": "http://spr.ly/6019Odxjh",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/bronchiectasis-research.html?utm_source=twitter&utm_medium=ats+bronchiectasis+promo&utm_term=11927&utm_content=biopharma+r%26d#",
+                    "url": "https://t.co/RISnLCJjvb"
+                },
+                {
+                    "display_url": "pic.twitter.com/leloqysj08",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1656579949229113344/video/1",
+                    "media_key": "13_1656579901577736193",
+                    "start": 272,
+                    "url": "https://t.co/leloqysj08"
+                }
+            ]
+        },
+        "id": "1656579949229113344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 10200,
+            "like_count": 24,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 7
+        },
+        "text": "We\u2019re uniting experts in respiratory diseases and infections to help change the outlook for people with bronchiectasis. We are following the science to target the infections that drive disease exacerbation and progression. #ATS2023 #Bronchiectasis https://t.co/RISnLCJjvb https://t.co/leloqysj08"
+    }
+}

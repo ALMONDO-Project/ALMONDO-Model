@@ -1,0 +1,126 @@
+{
+    "1650727090176643074": {
+        "attachments": {
+            "media_keys": [
+                "3_1650727087139958786"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-04-25T05:03:01.000Z",
+        "edit_history_tweet_ids": [
+            "1650727090176643074"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 47,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4246,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Europe",
+                    "probability": 0.9239,
+                    "start": 112,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "China",
+                    "probability": 0.9655,
+                    "start": 133,
+                    "type": "Place"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.3712,
+                    "start": 207,
+                    "type": "Place"
+                },
+                {
+                    "end": 221,
+                    "normalized_text": "AKZA",
+                    "probability": 0.3903,
+                    "start": 218,
+                    "type": "Organization"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "AKZOY",
+                    "probability": 0.3836,
+                    "start": 224,
+                    "type": "Other"
+                },
+                {
+                    "end": 235,
+                    "normalized_text": "AKZOF",
+                    "probability": 0.3958,
+                    "start": 231,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 222,
+                    "start": 217,
+                    "tag": "AKZA"
+                },
+                {
+                    "end": 229,
+                    "start": 223,
+                    "tag": "AKZOY"
+                },
+                {
+                    "end": 236,
+                    "start": 230,
+                    "tag": "AKZOF"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 205,
+                    "start": 188,
+                    "tag": "FinancialResults"
+                },
+                {
+                    "end": 216,
+                    "start": 206,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Q1-2023-release",
+                    "end": 186,
+                    "expanded_url": "https://akzo.no/Q1-2023-release",
+                    "start": 163,
+                    "status": 200,
+                    "unwound_url": "https://www.akzonobel.com/en/media/latest-news---media-releases-/q1-2023",
+                    "url": "https://t.co/ssF2w4uOAO"
+                },
+                {
+                    "display_url": "pic.twitter.com/13ykTB7brS",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1650727090176643074/photo/1",
+                    "media_key": "3_1650727087139958786",
+                    "start": 237,
+                    "url": "https://t.co/13ykTB7brS"
+                }
+            ]
+        },
+        "id": "1650727090176643074",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 832,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Our Q1 2023 results are now available. AkzoNobel\u2019s first quarter volumes above expectation with robust pricing; Europe resilient and China rebounding. Learn more: https://t.co/ssF2w4uOAO\n\n#FinancialResults #AkzoNobel $AKZA $AKZOY $AKZOF https://t.co/13ykTB7brS"
+    }
+}

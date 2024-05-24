@@ -1,0 +1,71 @@
+{
+    "1704827867379503173": {
+        "attachments": {
+            "media_keys": [
+                "13_1704827820248035330"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-09-21T12:00:12.000Z",
+        "edit_history_tweet_ids": [
+            "1704827867379503173"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 151,
+                    "normalized_text": "eosinophilic",
+                    "probability": 0.6514,
+                    "start": 140,
+                    "type": "Other"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "polyangitis",
+                    "probability": 0.7838,
+                    "start": 173,
+                    "type": "Other"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "EGPA",
+                    "probability": 0.5531,
+                    "start": 186,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Uncovering its impact across many diseases",
+                    "display_url": "learn.az/6014u65HI",
+                    "end": 261,
+                    "expanded_url": "https://learn.az/6014u65HI",
+                    "start": 238,
+                    "status": 200,
+                    "title": "Eosinophilic Inflammation",
+                    "unwound_url": "https://www.eosinophilicinflammation.com/",
+                    "url": "https://t.co/uf3KW0DJve"
+                },
+                {
+                    "display_url": "pic.twitter.com/TAqaG6szwP",
+                    "end": 285,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1704827867379503173/video/1",
+                    "media_key": "13_1704827820248035330",
+                    "start": 262,
+                    "url": "https://t.co/TAqaG6szwP"
+                }
+            ]
+        },
+        "id": "1704827867379503173",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3506,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "New research allows us to advance our understanding of the role eosinophilic inflammation plays in a range of inflammatory diseases such as eosinophilic granulomatosis with polyangitis (EGPA) to improve diagnosis and care. Discover more: https://t.co/uf3KW0DJve https://t.co/TAqaG6szwP"
+    }
+}

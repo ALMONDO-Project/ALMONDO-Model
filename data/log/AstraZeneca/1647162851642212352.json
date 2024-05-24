@@ -1,0 +1,74 @@
+{
+    "1647162851642212352": {
+        "attachments": {
+            "media_keys": [
+                "3_1647162849280634885"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-04-15T09:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1647162851642212352"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "COVID-19",
+                    "probability": 0.9909,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "RSV",
+                    "probability": 0.589,
+                    "start": 93,
+                    "type": "Other"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "influenza",
+                    "probability": 0.773,
+                    "start": 102,
+                    "type": "Other"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "RSV",
+                    "probability": 0.6443,
+                    "start": 225,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "COVID-19",
+                    "probability": 0.985,
+                    "start": 238,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/YUypsdLzpf",
+                    "end": 298,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1647162851642212352/photo/1",
+                    "media_key": "3_1647162849280634885",
+                    "start": 275,
+                    "url": "https://t.co/YUypsdLzpf"
+                }
+            ]
+        },
+        "id": "1647162851642212352",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9020,
+            "like_count": 36,
+            "quote_count": 1,
+            "reply_count": 10,
+            "retweet_count": 6
+        },
+        "text": "The effects of the COVID-19 pandemic resulted in inter-seasonal respiratory syncytial virus (RSV) and influenza, impacting the predictability of seasonality in these viruses. More needs to be done to understand the impact of RSV, flu and COVID-19 co-circulation on patients. https://t.co/YUypsdLzpf"
+    }
+}

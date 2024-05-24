@@ -1,0 +1,67 @@
+{
+    "1669630928312848384": {
+        "attachments": {
+            "media_keys": [
+                "13_1669630900139614213"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-06-16T09:00:08.000Z",
+        "edit_history_tweet_ids": [
+            "1669630928312848384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "RAASi",
+                    "probability": 0.5557,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "kidney disease",
+                    "probability": 0.5923,
+                    "start": 79,
+                    "type": "Other"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "hyperkalaemia",
+                    "probability": 0.604,
+                    "start": 102,
+                    "type": "Other"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "HK",
+                    "probability": 0.7654,
+                    "start": 117,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/HeBUYQ814B",
+                    "end": 193,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1669630928312848384/video/1",
+                    "media_key": "13_1669630900139614213",
+                    "start": 170,
+                    "url": "https://t.co/HeBUYQ814B"
+                }
+            ]
+        },
+        "id": "1669630928312848384",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 3,
+            "impression_count": 4781,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 3
+        },
+        "text": "Guidelines recommend RAASi therapy for patients with heart failure and chronic kidney disease. Often, hyperkalaemia (HK) can act as a barrier to optimising this therapy. https://t.co/HeBUYQ814B"
+    }
+}

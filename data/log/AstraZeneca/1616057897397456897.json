@@ -1,0 +1,91 @@
+{
+    "1616057897397456897": {
+        "attachments": {
+            "media_keys": [
+                "3_1616057895031816193"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-01-19T13:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1616057897397456897"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "WEF23",
+                    "probability": 0.6263,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "Leif Johansson",
+                    "probability": 0.9401,
+                    "start": 21,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 9,
+                    "start": 3,
+                    "tag": "WEF23"
+                },
+                {
+                    "end": 256,
+                    "start": 237,
+                    "tag": "ItStartsWithHealth"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 194,
+                    "id": "192272849",
+                    "start": 182,
+                    "username": "MarkJCarney"
+                },
+                {
+                    "end": 208,
+                    "id": "1005118723651461120",
+                    "start": 195,
+                    "username": "CokeHamilton"
+                },
+                {
+                    "end": 219,
+                    "id": "564502337",
+                    "start": 209,
+                    "username": "aagalloni"
+                },
+                {
+                    "end": 235,
+                    "id": "406869976",
+                    "start": 220,
+                    "username": "PaoloGentiloni"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Fa5ZKR46Uc",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1616057897397456897/photo/1",
+                    "media_key": "3_1616057895031816193",
+                    "start": 257,
+                    "url": "https://t.co/Fa5ZKR46Uc"
+                }
+            ]
+        },
+        "id": "1616057897397456897",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3497,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "At #WEF23, our Chair Leif Johansson spoke on the importance of building sustainable and resilient health systems. \n \nWe must take urgent action to ensure a bright future for all. \n \n@MarkJCarney @CokeHamilton @aagalloni @PaoloGentiloni\n\n#ItStartsWithHealth https://t.co/Fa5ZKR46Uc"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "1646558872470011904": {
+        "attachments": {
+            "media_keys": [
+                "3_1646558868174929932"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-04-13T17:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1646558872470011904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 218,
+                    "normalized_text": "AstraZeneca",
+                    "probability": 0.6049,
+                    "start": 208,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 229,
+                    "start": 221,
+                    "tag": "PostDoc"
+                },
+                {
+                    "end": 247,
+                    "start": 230,
+                    "tag": "WhatScienceCanDo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6012OztKo",
+                    "end": 271,
+                    "expanded_url": "http://spr.ly/6012OztKo",
+                    "start": 248,
+                    "url": "https://t.co/RRhImxhX1V"
+                },
+                {
+                    "display_url": "pic.twitter.com/nHOvwKWClD",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1646558872470011904/photo/1",
+                    "media_key": "3_1646558868174929932",
+                    "start": 272,
+                    "url": "https://t.co/nHOvwKWClD"
+                }
+            ]
+        },
+        "id": "1646558872470011904",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 5831,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 5,
+            "retweet_count": 8
+        },
+        "text": "Pushing the boundaries of science has never been more urgent. Enter the 2023 R&amp;D Postdoctoral Challenge to pitch your innovative ideas with the potential to secure a fully funded postdoctoral position at AstraZeneca. #PostDoc #WhatScienceCanDo https://t.co/RRhImxhX1V https://t.co/nHOvwKWClD"
+    }
+}

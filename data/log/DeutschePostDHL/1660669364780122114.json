@@ -1,0 +1,118 @@
+{
+    "1660669364780122114": {
+        "attachments": {
+            "poll_ids": [
+                "1660669364029276162"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-22T15:30:04.000Z",
+        "edit_history_tweet_ids": [
+            "1660669364780122114"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 13,
+                    "normalized_text": "ColdplayClues",
+                    "probability": 0.917,
+                    "start": 1,
+                    "type": "Organization"
+                },
+                {
+                    "end": 39,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.9688,
+                    "start": 32,
+                    "type": "Organization"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "DHL",
+                    "probability": 0.721,
+                    "start": 60,
+                    "type": "Organization"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.9583,
+                    "start": 68,
+                    "type": "Organization"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "World Tour",
+                    "probability": 0.7005,
+                    "start": 121,
+                    "type": "Other"
+                },
+                {
+                    "end": 236,
+                    "normalized_text": "DHLxColdplay",
+                    "probability": 0.6124,
+                    "start": 225,
+                    "type": "Organization"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "Coldplay",
+                    "probability": 0.9222,
+                    "start": 239,
+                    "type": "Organization"
+                },
+                {
+                    "end": 274,
+                    "normalized_text": "MusicOfTheSpheresWorldTour",
+                    "probability": 0.5614,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 14,
+                    "start": 0,
+                    "tag": "ColdplayClues"
+                },
+                {
+                    "end": 237,
+                    "start": 224,
+                    "tag": "DHLxColdplay"
+                },
+                {
+                    "end": 247,
+                    "start": 238,
+                    "tag": "Coldplay"
+                },
+                {
+                    "end": 275,
+                    "start": 248,
+                    "tag": "MusicOfTheSpheresWorldTour"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/ColdplayClues",
+                    "end": 222,
+                    "expanded_url": "http://dhl.com/ColdplayClues",
+                    "start": 199,
+                    "status": 200,
+                    "unwound_url": "https://inmotion.dhl/en/coldplay?open=element_quiz_modal&utm_campaign=DHL-Coldplay&utm_medium=vanity-markets&utm_source=vanity-markets",
+                    "url": "https://t.co/3QeIfHzSfR"
+                }
+            ]
+        },
+        "id": "1660669364780122114",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4877,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "#ColdplayClues Did you spot the Coldplay song reference? \ud83d\udd0e\n\nDHL and Coldplay are working together for a more sustainable World Tour and now you have the chance to win two tickets by participating at https://t.co/3QeIfHzSfR\n\n#DHLxColdplay #Coldplay #MusicOfTheSpheresWorldTour"
+    }
+}

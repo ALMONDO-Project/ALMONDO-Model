@@ -1,0 +1,69 @@
+{
+    "1681612623169695744": {
+        "attachments": {
+            "media_keys": [
+                "3_1681612604907634688",
+                "3_1681612604911894528"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-07-19T10:31:06.000Z",
+        "edit_history_tweet_ids": [
+            "1681612623169695744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "John Saffrett",
+                    "probability": 0.8113,
+                    "start": 36,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "Michael Alsemgeest",
+                    "probability": 0.8573,
+                    "start": 73,
+                    "type": "Other"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "Amsterdam",
+                    "probability": 0.8184,
+                    "start": 191,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FZ3RrkejSY",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1681612623169695744/photo/1",
+                    "media_key": "3_1681612604907634688",
+                    "start": 257,
+                    "url": "https://t.co/FZ3RrkejSY"
+                },
+                {
+                    "display_url": "pic.twitter.com/FZ3RrkejSY",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1681612623169695744/photo/1",
+                    "media_key": "3_1681612604911894528",
+                    "start": 257,
+                    "url": "https://t.co/FZ3RrkejSY"
+                }
+            ]
+        },
+        "id": "1681612623169695744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 310,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Teamwork makes the dream work! With John Saffrett, Group Deputy CEO, and Michael Alsemgeest, Chief Digital &amp; Information Officer, on our winning team, we joined forces with colleagues in Amsterdam, showcasing football skills and forging stronger bonds! https://t.co/FZ3RrkejSY"
+    }
+}

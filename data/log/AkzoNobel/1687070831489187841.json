@@ -1,0 +1,109 @@
+{
+    "1687070831489187841": {
+        "attachments": {
+            "media_keys": [
+                "3_1687070815517364225",
+                "3_1687070820063989761",
+                "3_1687070824291770368",
+                "3_1687070828016340993"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-08-03T12:00:05.000Z",
+        "edit_history_tweet_ids": [
+            "1687070831489187841"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Mission Masterpiece",
+                    "probability": 0.766,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 124,
+                    "normalized_text": "Amsterdam",
+                    "probability": 0.9671,
+                    "start": 116,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.8561,
+                    "start": 150,
+                    "type": "Other"
+                },
+                {
+                    "end": 278,
+                    "normalized_text": "MissionMasterpiece",
+                    "probability": 0.589,
+                    "start": 261,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 279,
+                    "start": 260,
+                    "tag": "MissionMasterpiece"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 112,
+                    "id": "109515460",
+                    "start": 100,
+                    "username": "rijksmuseum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Qbu65NpQIA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1687070831489187841/photo/1",
+                    "media_key": "3_1687070815517364225",
+                    "start": 280,
+                    "url": "https://t.co/Qbu65NpQIA"
+                },
+                {
+                    "display_url": "pic.twitter.com/Qbu65NpQIA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1687070831489187841/photo/1",
+                    "media_key": "3_1687070820063989761",
+                    "start": 280,
+                    "url": "https://t.co/Qbu65NpQIA"
+                },
+                {
+                    "display_url": "pic.twitter.com/Qbu65NpQIA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1687070831489187841/photo/1",
+                    "media_key": "3_1687070824291770368",
+                    "start": 280,
+                    "url": "https://t.co/Qbu65NpQIA"
+                },
+                {
+                    "display_url": "pic.twitter.com/Qbu65NpQIA",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1687070831489187841/photo/1",
+                    "media_key": "3_1687070828016340993",
+                    "start": 280,
+                    "url": "https://t.co/Qbu65NpQIA"
+                }
+            ]
+        },
+        "id": "1687070831489187841",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 879,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Children are playing detective as part of the ongoing Mission Masterpiece research challenge at the @rijksmuseum in Amsterdam. The youngsters pull on AkzoNobel lab coats and use the latest scientific techniques to try and figure out what makes a masterpiece. \n#MissionMasterpiece https://t.co/Qbu65NpQIA"
+    }
+}

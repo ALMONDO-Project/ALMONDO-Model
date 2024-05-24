@@ -1,0 +1,89 @@
+{
+    "1712755144163545282": {
+        "attachments": {
+            "media_keys": [
+                "13_1712755054757732353"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-10-13T09:00:22.000Z",
+        "edit_history_tweet_ids": [
+            "1712755144163545282"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Mignon d\u2019Arnaud",
+                    "probability": 0.6473,
+                    "start": 5,
+                    "type": "Person"
+                },
+                {
+                    "end": 237,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.5818,
+                    "start": 229,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 238,
+                    "start": 228,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 254,
+                    "start": 239,
+                    "tag": "PaintTheFuture"
+                },
+                {
+                    "end": 266,
+                    "start": 255,
+                    "tag": "Innovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 61,
+                    "id": "1057227104356626432",
+                    "start": 45,
+                    "username": "letspaintfuture"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Paint the Future: AkzoNobel\u2019s journey to making a sustainable impact through collaboration | AkzoNobel",
+                    "display_url": "akzo.no/paint-the-futu\u2026",
+                    "end": 226,
+                    "expanded_url": "https://akzo.no/paint-the-future",
+                    "start": 203,
+                    "status": 200,
+                    "title": "Paint the Future: AkzoNobel\u2019s journey to making a sustainable impact through collaboration | AkzoNobel",
+                    "unwound_url": "https://www.akzonobel.com/en/about-us/-innovation-/innovation-stories/paint-the-future-impact-through-collaboration",
+                    "url": "https://t.co/tt4dIYOb2N"
+                },
+                {
+                    "display_url": "pic.twitter.com/ItmRPK1XsU",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1712755144163545282/video/1",
+                    "media_key": "13_1712755054757732353",
+                    "start": 267,
+                    "url": "https://t.co/ItmRPK1XsU"
+                }
+            ]
+        },
+        "id": "1712755144163545282",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 517,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Meet Mignon d\u2019Arnaud, Program Manager of our @letspaintfuture initiative. In an illuminating interview, she explains her mission to transform the paints and coatings industry and how it\u2019s going so far. \nhttps://t.co/tt4dIYOb2N\n\n#AkzoNobel #PaintTheFuture #Innovation https://t.co/ItmRPK1XsU"
+    }
+}

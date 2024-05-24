@@ -1,0 +1,93 @@
+{
+    "1664195092276543491": {
+        "attachments": {
+            "media_keys": [
+                "3_1664195079689367556",
+                "3_1664195083988500480",
+                "3_1664195088245743618"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-06-01T09:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1664195092276543491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Sarada Samantaray",
+                    "probability": 0.5948,
+                    "start": 29,
+                    "type": "Other"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Mumbai",
+                    "probability": 0.9457,
+                    "start": 108,
+                    "type": "Place"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Bangalore",
+                    "probability": 0.8233,
+                    "start": 141,
+                    "type": "Place"
+                },
+                {
+                    "end": 156,
+                    "normalized_text": "India",
+                    "probability": 0.979,
+                    "start": 152,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 93,
+                    "id": "2989661154",
+                    "start": 80,
+                    "username": "NMIMS_MPSTME"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Gb3cG0p6mc",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1664195092276543491/photo/1",
+                    "media_key": "3_1664195079689367556",
+                    "start": 274,
+                    "url": "https://t.co/Gb3cG0p6mc"
+                },
+                {
+                    "display_url": "pic.twitter.com/Gb3cG0p6mc",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1664195092276543491/photo/1",
+                    "media_key": "3_1664195083988500480",
+                    "start": 274,
+                    "url": "https://t.co/Gb3cG0p6mc"
+                },
+                {
+                    "display_url": "pic.twitter.com/Gb3cG0p6mc",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1664195092276543491/photo/1",
+                    "media_key": "3_1664195088245743618",
+                    "start": 274,
+                    "url": "https://t.co/Gb3cG0p6mc"
+                }
+            ]
+        },
+        "id": "1664195092276543491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 724,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Honored to welcome Professor Sarada Samantaray and colleagues and students from @NMIMS_MPSTME University in Mumbai to our research center in Bangalore, India. They\u2019ve been developing new formulation technologies for us, based on A.I. The initial results are very promising! https://t.co/Gb3cG0p6mc"
+    }
+}

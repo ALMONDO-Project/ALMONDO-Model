@@ -1,0 +1,83 @@
+{
+    "1710210814664204354": {
+        "attachments": {
+            "media_keys": [
+                "16_1710210787929735168"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-10-06T08:30:07.000Z",
+        "edit_history_tweet_ids": [
+            "1710210814664204354"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Transthyretin amyloidosis",
+                    "probability": 0.8949,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 30,
+                    "normalized_text": "ATTR",
+                    "probability": 0.5487,
+                    "start": 27,
+                    "type": "Other"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "ATTR",
+                    "probability": 0.6644,
+                    "start": 217,
+                    "type": "Other"
+                },
+                {
+                    "end": 264,
+                    "normalized_text": "HFSA2023",
+                    "probability": 0.7557,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 265,
+                    "start": 256,
+                    "tag": "HFSA2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "learn.az/6015uM7rB",
+                    "end": 255,
+                    "expanded_url": "https://learn.az/6015uM7rB",
+                    "start": 232,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2022/raising-awareness-attr.html?utm_source=twitter&utm_medium=evergreen+attr+campaign+-+q4+2023&utm_term=12105&utm_content=cvrm",
+                    "url": "https://t.co/8QjcVLYSUp"
+                },
+                {
+                    "display_url": "pic.twitter.com/CLT2SmBhOW",
+                    "end": 289,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1710210814664204354/photo/1",
+                    "media_key": "16_1710210787929735168",
+                    "start": 266,
+                    "url": "https://t.co/CLT2SmBhOW"
+                }
+            ]
+        },
+        "id": "1710210814664204354",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 5317,
+            "like_count": 18,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Transthyretin amyloidosis (ATTR) is a progressive disease with different phenotypes such as cardiomyopathy and neuropathy. Some people experience symptoms of both, known as mixed phenotype.\nLearn more about improving ATTR outcomes: https://t.co/8QjcVLYSUp #HFSA2023 https://t.co/CLT2SmBhOW"
+    }
+}

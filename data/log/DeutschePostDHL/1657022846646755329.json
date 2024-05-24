@@ -1,0 +1,69 @@
+{
+    "1657022846646755329": {
+        "attachments": {
+            "media_keys": [
+                "7_1656982891593707520"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-12T14:00:07.000Z",
+        "edit_history_tweet_ids": [
+            "1657022846646755329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "Africa",
+                    "probability": 0.9711,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "DHLDelivered",
+                    "probability": 0.3546,
+                    "start": 172,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 184,
+                    "start": 171,
+                    "tag": "DHLDelivered"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 170,
+                    "expanded_url": "https://dhl.com/global-en/delivered/globalization/connecting-africa-to-the-world.html",
+                    "start": 147,
+                    "status": 200,
+                    "unwound_url": "https://www.dhl.com/global-en/delivered/globalization/connecting-africa-to-the-world.html",
+                    "url": "https://t.co/RmA2UNJJXt"
+                },
+                {
+                    "display_url": "pic.twitter.com/fmO2yyHyzA",
+                    "end": 208,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1657022846646755329/video/1",
+                    "media_key": "7_1656982891593707520",
+                    "start": 185,
+                    "url": "https://t.co/fmO2yyHyzA"
+                }
+            ]
+        },
+        "id": "1657022846646755329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1561,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Africa's trade boom is here! \ud83c\udf0d Learn how  infrastructure, innovation, and investment are driving the  continent's economic growth. Don't miss out \ud83d\udc49https://t.co/RmA2UNJJXt #DHLDelivered https://t.co/fmO2yyHyzA"
+    }
+}

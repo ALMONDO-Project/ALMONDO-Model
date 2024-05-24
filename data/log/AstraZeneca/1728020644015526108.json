@@ -1,0 +1,68 @@
+{
+    "1728020644015526108": {
+        "attachments": {
+            "media_keys": [
+                "3_1728020641079504896"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-24T12:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1728020644015526108"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Chronic kidney disease",
+                    "probability": 0.6997,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 26,
+                    "normalized_text": "CKD",
+                    "probability": 0.3098,
+                    "start": 24,
+                    "type": "Organization"
+                },
+                {
+                    "end": 203,
+                    "normalized_text": "U.N. General Assembly",
+                    "probability": 0.6107,
+                    "start": 183,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 170,
+                    "id": "50101725",
+                    "start": 164,
+                    "username": "devex"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zltWw57AcU",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1728020644015526108/photo/1",
+                    "media_key": "3_1728020641079504896",
+                    "start": 278,
+                    "url": "https://t.co/zltWw57AcU"
+                }
+            ]
+        },
+        "id": "1728020644015526108",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3560,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Chronic kidney disease (CKD) is one of the world\u2019s biggest health challenges, requiring greater commitment from policymakers across the world. We collaborated with @devex at the 78th U.N. General Assembly to highlight the importance of improving kidney health across the globe. https://t.co/zltWw57AcU"
+    }
+}

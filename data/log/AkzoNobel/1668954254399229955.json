@@ -1,0 +1,63 @@
+{
+    "1668954254399229955": {
+        "attachments": {
+            "media_keys": [
+                "3_1668954250347511808"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-06-14T12:11:16.000Z",
+        "edit_history_tweet_ids": [
+            "1668954254399229955"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 135,
+                    "normalized_text": "Europe",
+                    "probability": 0.965,
+                    "start": 130,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 99,
+                    "id": "1036520879625265152",
+                    "start": 83,
+                    "username": "akzonobelpowder"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Engery-savings\u2026",
+                    "end": 275,
+                    "expanded_url": "http://akzo.no/Engery-savings-calculator",
+                    "start": 252,
+                    "status": 200,
+                    "unwound_url": "https://www.akzonobel.com/en/media/latest-news---media-releases-/online-energy-savings-calculator",
+                    "url": "https://t.co/wZuTXRHw5n"
+                },
+                {
+                    "display_url": "pic.twitter.com/ewuKJnnQe7",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1668954254399229955/photo/1",
+                    "media_key": "3_1668954250347511808",
+                    "start": 276,
+                    "url": "https://t.co/ewuKJnnQe7"
+                }
+            ]
+        },
+        "id": "1668954254399229955",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 751,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "We\u2019ve launched the first openly available online energy savings calculator for all @akzonobelpowder users. Currently available in Europe only, it instantly calculates potential energy and carbon reductions that are possible with our Interpon products. https://t.co/wZuTXRHw5n https://t.co/ewuKJnnQe7"
+    }
+}

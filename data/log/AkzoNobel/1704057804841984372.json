@@ -1,0 +1,103 @@
+{
+    "1704057804841984372": {
+        "attachments": {
+            "media_keys": [
+                "13_1704057752434176000"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-09-19T09:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1704057804841984372"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 184,
+                    "normalized_text": "COTY24",
+                    "probability": 0.7812,
+                    "start": 179,
+                    "type": "Other"
+                },
+                {
+                    "end": 190,
+                    "normalized_text": "CF24",
+                    "probability": 0.499,
+                    "start": 187,
+                    "type": "Other"
+                },
+                {
+                    "end": 215,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4323,
+                    "start": 207,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "Dulux",
+                    "probability": 0.3558,
+                    "start": 218,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 185,
+                    "start": 178,
+                    "tag": "COTY24"
+                },
+                {
+                    "end": 191,
+                    "start": 186,
+                    "tag": "CF24"
+                },
+                {
+                    "end": 205,
+                    "start": 192,
+                    "tag": "SweetEmbrace"
+                },
+                {
+                    "end": 216,
+                    "start": 206,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 223,
+                    "start": 217,
+                    "tag": "Dulux"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/CF24",
+                    "end": 176,
+                    "expanded_url": "https://akzo.no/CF24",
+                    "start": 153,
+                    "status": 200,
+                    "unwound_url": "https://www.akzonobel.com/en/about-us/initiatives/colourfutures",
+                    "url": "https://t.co/dq48Nr6iZS"
+                },
+                {
+                    "display_url": "pic.twitter.com/Pjjrh5W5Bf",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1704057804841984372/video/1",
+                    "media_key": "13_1704057752434176000",
+                    "start": 224,
+                    "url": "https://t.co/Pjjrh5W5Bf"
+                }
+            ]
+        },
+        "id": "1704057804841984372",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 801,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "Our Color of the Year 2024, Sweet Embrace, reflects our need for simplicity and a place to belong. Learn more about our annual trend forecasting process https://t.co/dq48Nr6iZS\n\n#COTY24 #CF24 #SweetEmbrace #AkzoNobel #Dulux https://t.co/Pjjrh5W5Bf"
+    }
+}

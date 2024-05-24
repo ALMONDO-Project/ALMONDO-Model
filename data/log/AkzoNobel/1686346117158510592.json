@@ -1,0 +1,72 @@
+{
+    "1686346117158510592": {
+        "attachments": {
+            "media_keys": [
+                "13_1686346042826952704"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-08-01T12:00:19.000Z",
+        "edit_history_tweet_ids": [
+            "1686346117158510592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "Pontiac Transportation Museum",
+                    "probability": 0.8686,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Michigan",
+                    "probability": 0.8972,
+                    "start": 128,
+                    "type": "Place"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "US",
+                    "probability": 0.9386,
+                    "start": 138,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 267,
+                    "start": 249,
+                    "tag": "PeoplePlanetPaint"
+                },
+                {
+                    "end": 279,
+                    "start": 268,
+                    "tag": "LetsColour"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/8X7XfylphM",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1686346117158510592/video/1",
+                    "media_key": "13_1686346042826952704",
+                    "start": 280,
+                    "url": "https://t.co/8X7XfylphM"
+                }
+            ]
+        },
+        "id": "1686346117158510592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 880,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Colorful wall art marking our role in the region\u2019s automotive history has been unveiled at the Pontiac Transportation Museum in Michigan, US. The vibrant, eye-catching mural is part of our Let\u2019s Colour program, which aims to transform public spaces.#PeoplePlanetPaint #LetsColour https://t.co/8X7XfylphM"
+    }
+}

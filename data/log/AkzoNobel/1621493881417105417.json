@@ -1,0 +1,67 @@
+{
+    "1621493881417105417": {
+        "attachments": {
+            "media_keys": [
+                "13_1621493726383116288"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-02-03T13:00:41.000Z",
+        "edit_history_tweet_ids": [
+            "1621493881417105417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "Aerones",
+                    "probability": 0.6028,
+                    "start": 97,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 22,
+                    "id": "4871308209",
+                    "start": 10,
+                    "username": "aerones_com"
+                },
+                {
+                    "end": 87,
+                    "id": "1057227104356626432",
+                    "start": 71,
+                    "username": "letspaintfuture"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/demo-day",
+                    "end": 276,
+                    "expanded_url": "http://akzo.no/demo-day",
+                    "start": 253,
+                    "url": "https://t.co/qKTMLt269o"
+                },
+                {
+                    "display_url": "pic.twitter.com/ElAf7nGt8Z",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1621493881417105417/video/1",
+                    "media_key": "13_1621493726383116288",
+                    "start": 277,
+                    "url": "https://t.co/ElAf7nGt8Z"
+                }
+            ]
+        },
+        "id": "1621493881417105417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 635,
+            "like_count": 3,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Check out @aerones_com\u2019 Demo Day! We\u2019re proud to be collaborating with @letspaintfuture startup, Aerones, on a joint service offer to customers. Their robot applies our International RELEST coatings to wind turbines \u2013 making life safer for technicians. https://t.co/qKTMLt269o https://t.co/ElAf7nGt8Z"
+    }
+}

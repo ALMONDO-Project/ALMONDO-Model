@@ -1,0 +1,104 @@
+{
+    "1682359788447973377": {
+        "attachments": {
+            "media_keys": [
+                "3_1682359772899672064",
+                "3_1682359779161788416",
+                "3_1682359784991780866"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-07-21T12:00:04.000Z",
+        "edit_history_tweet_ids": [
+            "1682359788447973377"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "Austria",
+                    "probability": 0.9608,
+                    "start": 27,
+                    "type": "Place"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "Sikkens Velotour",
+                    "probability": 0.8108,
+                    "start": 174,
+                    "type": "Other"
+                },
+                {
+                    "end": 241,
+                    "normalized_text": "Christoph Strasser",
+                    "probability": 0.5125,
+                    "start": 224,
+                    "type": "Person"
+                },
+                {
+                    "end": 254,
+                    "normalized_text": "SikkensVR",
+                    "probability": 0.69,
+                    "start": 246,
+                    "type": "Other"
+                },
+                {
+                    "end": 265,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.6475,
+                    "start": 257,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 255,
+                    "start": 245,
+                    "tag": "SikkensVR"
+                },
+                {
+                    "end": 266,
+                    "start": 256,
+                    "tag": "AkzoNobel"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/srOzfa8JN8",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1682359788447973377/photo/1",
+                    "media_key": "3_1682359772899672064",
+                    "start": 267,
+                    "url": "https://t.co/srOzfa8JN8"
+                },
+                {
+                    "display_url": "pic.twitter.com/srOzfa8JN8",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1682359788447973377/photo/1",
+                    "media_key": "3_1682359779161788416",
+                    "start": 267,
+                    "url": "https://t.co/srOzfa8JN8"
+                },
+                {
+                    "display_url": "pic.twitter.com/srOzfa8JN8",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1682359788447973377/photo/1",
+                    "media_key": "3_1682359784991780866",
+                    "start": 267,
+                    "url": "https://t.co/srOzfa8JN8"
+                }
+            ]
+        },
+        "id": "1682359788447973377",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 622,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Shout out to colleagues in Austria, who used pedal power to travel to a recent product launch. In all, 58 cyclists covered 117 kilometers and climbed 2,000 meters during the Sikkens Velotour, accompanied by extreme cyclist, Christoph Strasser.\n\n#SikkensVR #AkzoNobel https://t.co/srOzfa8JN8"
+    }
+}

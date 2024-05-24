@@ -1,0 +1,53 @@
+{
+    "1633827492351078400": {
+        "attachments": {
+            "media_keys": [
+                "3_1633827481449799680"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-03-09T13:50:03.000Z",
+        "edit_history_tweet_ids": [
+            "1633827492351078400"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 161,
+                    "normalized_text": "NASH",
+                    "probability": 0.4674,
+                    "start": 158,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/601630FeC",
+                    "end": 187,
+                    "expanded_url": "http://spr.ly/601630FeC",
+                    "start": 164,
+                    "url": "https://t.co/y9rYiSrU4Q"
+                },
+                {
+                    "display_url": "pic.twitter.com/O2gd2oiAhM",
+                    "end": 211,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1633827492351078400/photo/1",
+                    "media_key": "3_1633827481449799680",
+                    "start": 188,
+                    "url": "https://t.co/O2gd2oiAhM"
+                }
+            ]
+        },
+        "id": "1633827492351078400",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6599,
+            "like_count": 22,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Precision medicine is now a critical part of our approach to drug discovery, and we believe it has the potential to provide novel treatment for patients with NASH. https://t.co/y9rYiSrU4Q https://t.co/O2gd2oiAhM"
+    }
+}

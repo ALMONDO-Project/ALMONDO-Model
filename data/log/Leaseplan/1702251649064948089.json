@@ -1,0 +1,64 @@
+{
+    "1702251649064948089": {
+        "author_id": "897782982425096192",
+        "created_at": "2023-09-14T09:23:14.000Z",
+        "edit_history_tweet_ids": [
+            "1702251649064948089"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 120,
+                    "normalized_text": "EU",
+                    "probability": 0.9758,
+                    "start": 119,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 65,
+                    "id": "724570339435536384",
+                    "start": 52,
+                    "username": "LynkCoGlobal"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "We\u2019re Ayvens, a global leader in sustainable mobility. And in a world that needs more intuitive and more sustainable ways of moving, we\u2019re committed to making life flow better for all our customers, from large corporates to private individuals.",
+                    "display_url": "bit.ly/3PgC2zd",
+                    "end": 279,
+                    "expanded_url": "https://bit.ly/3PgC2zd",
+                    "images": [
+                        {
+                            "height": 1260,
+                            "url": "https://pbs.twimg.com/news_img/1793177721851330560/9CJN9NGl?format=jpg&name=orig",
+                            "width": 2400
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1793177721851330560/9CJN9NGl?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 256,
+                    "status": 200,
+                    "title": "Ayvens - Better with every move",
+                    "unwound_url": "https://www.ayvens.com/en-cp/",
+                    "url": "https://t.co/WMbvg3f575"
+                }
+            ]
+        },
+        "id": "1702251649064948089",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 190,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "We're thrilled to announce our new partnership with @LynkCoGlobal, bringing the best private leasing experience across EU! \nWe're both committed to drive the electric mobility revolution forward, steering us toward a more sustainable and connected world. \nhttps://t.co/WMbvg3f575"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "1641049053470371842": {
+        "author_id": "13065032",
+        "created_at": "2023-03-29T12:05:58.000Z",
+        "edit_history_tweet_ids": [
+            "1641049053470371842"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 131,
+                    "normalized_text": "Wijnand Bruinsma",
+                    "probability": 0.6253,
+                    "start": 116,
+                    "type": "Person"
+                },
+                {
+                    "end": 188,
+                    "normalized_text": "EuropeanCoatingShow",
+                    "probability": 0.5677,
+                    "start": 170,
+                    "type": "Other"
+                },
+                {
+                    "end": 257,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.4175,
+                    "start": 249,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 189,
+                    "start": 169,
+                    "tag": "EuropeanCoatingShow"
+                },
+                {
+                    "end": 258,
+                    "start": 248,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 267,
+                    "start": 259,
+                    "tag": "ECS2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 205,
+                    "id": "62789753",
+                    "start": 190,
+                    "username": "NuernbergMesse"
+                },
+                {
+                    "end": 276,
+                    "id": "64995179",
+                    "start": 268,
+                    "username": "ec_show"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/Lg2gPj5yLK8",
+                    "end": 230,
+                    "expanded_url": "https://youtu.be/Lg2gPj5yLK8",
+                    "start": 207,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=Lg2gPj5yLK8&feature=youtu.be",
+                    "url": "https://t.co/8Lgbzr7Ow4"
+                }
+            ]
+        },
+        "id": "1641049053470371842",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 633,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "What role do paints and coatings play in sustainability? Depends on your vantage point. Get the panoramic view from Wijnand Bruinsma, our Director of Sustainability, at #EuropeanCoatingShow @NuernbergMesse: https://t.co/8Lgbzr7Ow4 (from 16.50min)\n\n#AkzoNobel #ECS2023 @ec_show"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "1678403790540603394": {
+        "attachments": {
+            "media_keys": [
+                "3_1678403746726834179",
+                "3_1678403785780080641"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-07-10T14:00:21.000Z",
+        "edit_history_tweet_ids": [
+            "1678403790540603394"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 128,
+                    "normalized_text": "BritishGP",
+                    "probability": 0.779,
+                    "start": 120,
+                    "type": "Other"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.3817,
+                    "start": 161,
+                    "type": "Other"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "SikkensVR",
+                    "probability": 0.4331,
+                    "start": 184,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "McLaren",
+                    "probability": 0.9068,
+                    "start": 195,
+                    "type": "Organization"
+                },
+                {
+                    "end": 220,
+                    "normalized_text": "FormulaForSuccess",
+                    "probability": 0.5643,
+                    "start": 204,
+                    "type": "Other"
+                },
+                {
+                    "end": 224,
+                    "normalized_text": "F1",
+                    "probability": 0.6567,
+                    "start": 223,
+                    "type": "Organization"
+                },
+                {
+                    "end": 231,
+                    "normalized_text": "MCLXX",
+                    "probability": 0.7263,
+                    "start": 227,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 129,
+                    "start": 119,
+                    "tag": "BritishGP"
+                },
+                {
+                    "end": 170,
+                    "start": 160,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 182,
+                    "start": 171,
+                    "tag": "Automotive"
+                },
+                {
+                    "end": 193,
+                    "start": 183,
+                    "tag": "SikkensVR"
+                },
+                {
+                    "end": 202,
+                    "start": 194,
+                    "tag": "McLaren"
+                },
+                {
+                    "end": 221,
+                    "start": 203,
+                    "tag": "FormulaForSuccess"
+                },
+                {
+                    "end": 225,
+                    "start": 222,
+                    "tag": "F1"
+                },
+                {
+                    "end": 232,
+                    "start": 226,
+                    "tag": "MCLXX"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 31,
+                    "id": "516464106",
+                    "start": 19,
+                    "username": "LandoNorris"
+                },
+                {
+                    "end": 49,
+                    "id": "729748572405694464",
+                    "start": 36,
+                    "username": "OscarPiastri"
+                },
+                {
+                    "end": 89,
+                    "id": "24871896",
+                    "start": 79,
+                    "username": "McLarenF1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/qQKvnxCrFo",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1678403790540603394/photo/1",
+                    "media_key": "3_1678403746726834179",
+                    "start": 233,
+                    "url": "https://t.co/qQKvnxCrFo"
+                },
+                {
+                    "display_url": "pic.twitter.com/qQKvnxCrFo",
+                    "end": 256,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1678403790540603394/photo/1",
+                    "media_key": "3_1678403785780080641",
+                    "start": 233,
+                    "url": "https://t.co/qQKvnxCrFo"
+                }
+            ]
+        },
+        "id": "1678403790540603394",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1075,
+            "like_count": 14,
+            "quote_count": 3,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Congratulations to @LandoNorris and @OscarPiastri. Brilliant P2 and P4 for the @McLarenF1 team at their home race, the #BritishGP. Here\u2019s to many more podiums! #AkzoNobel #Automotive #SikkensVR #McLaren #FormulaForSuccess #F1 #MCLXX https://t.co/qQKvnxCrFo"
+    }
+}

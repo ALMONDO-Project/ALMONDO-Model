@@ -1,0 +1,95 @@
+{
+    "1636306480331628545": {
+        "attachments": {
+            "media_keys": [
+                "13_1636306349830160385"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-03-16T10:00:40.000Z",
+        "edit_history_tweet_ids": [
+            "1636306480331628545"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "OperationNightWatch",
+                    "probability": 0.7191,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.5774,
+                    "start": 202,
+                    "type": "Other"
+                },
+                {
+                    "end": 259,
+                    "normalized_text": "Rijksmuseum",
+                    "probability": 0.4114,
+                    "start": 249,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 85,
+                    "start": 65,
+                    "tag": "OperationNightWatch"
+                },
+                {
+                    "end": 211,
+                    "start": 201,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 232,
+                    "start": 212,
+                    "tag": "OperationNightWatch"
+                },
+                {
+                    "end": 247,
+                    "start": 233,
+                    "tag": "ProudPartners"
+                },
+                {
+                    "end": 260,
+                    "start": 248,
+                    "tag": "Rijksmuseum"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 107,
+                    "id": "109515460",
+                    "start": 95,
+                    "username": "rijksmuseum"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/SEpUfPiEKI",
+                    "end": 284,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1636306480331628545/video/1",
+                    "media_key": "13_1636306349830160385",
+                    "start": 261,
+                    "url": "https://t.co/SEpUfPiEKI"
+                }
+            ]
+        },
+        "id": "1636306480331628545",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1500,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Celebrating the power of partnerships after nearly four years of #OperationNightWatch with the @rijksmuseum. We invited three of those involved since the start to reflect on the achievements so far. \n\n#AkzoNobel #OperationNightWatch #ProudPartners #Rijksmuseum https://t.co/SEpUfPiEKI"
+    }
+}

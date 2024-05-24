@@ -1,0 +1,83 @@
+{
+    "1696790230097973709": {
+        "attachments": {
+            "media_keys": [
+                "3_1696790182714855424"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-08-30T07:41:30.000Z",
+        "edit_history_tweet_ids": [
+            "1696790230097973709"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "Gartner ReimagineHR",
+                    "probability": 0.8662,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 157,
+                    "normalized_text": "Vanessa Govi",
+                    "probability": 0.695,
+                    "start": 146,
+                    "type": "Other"
+                },
+                {
+                    "end": 201,
+                    "normalized_text": "ALD Automotive",
+                    "probability": 0.5233,
+                    "start": 188,
+                    "type": "Organization"
+                },
+                {
+                    "end": 213,
+                    "normalized_text": "LeasePlan",
+                    "probability": 0.7276,
+                    "start": 205,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "London",
+                    "probability": 0.98,
+                    "start": 245,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "gtnr.it/3PiVZGX",
+                    "end": 277,
+                    "expanded_url": "https://gtnr.it/3PiVZGX",
+                    "start": 254,
+                    "status": 200,
+                    "unwound_url": "https://www.gartner.com/en/conferences/emea/human-resource-uk/agenda",
+                    "url": "https://t.co/veuuJQyay5"
+                },
+                {
+                    "display_url": "pic.twitter.com/F9yd5yUorR",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1696790230097973709/photo/1",
+                    "media_key": "3_1696790182714855424",
+                    "start": 278,
+                    "url": "https://t.co/F9yd5yUorR"
+                }
+            ]
+        },
+        "id": "1696790230097973709",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 225,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We'll be present for the 1st time as a sponsor at Gartner ReimagineHR Conference 2023, renowned international conference dedicated to HR leaders. Vanessa Govi, Chief Innovation Officer at ALD Automotive | LeasePlan, will go on stage! Join us in London! \ud83d\udc49https://t.co/veuuJQyay5 https://t.co/F9yd5yUorR"
+    }
+}

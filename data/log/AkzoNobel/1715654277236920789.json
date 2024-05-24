@@ -1,0 +1,79 @@
+{
+    "1715654277236920789": {
+        "attachments": {
+            "media_keys": [
+                "13_1715654156751364096"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-10-21T09:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1715654277236920789"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Alfred Nobel",
+                    "probability": 0.9631,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 170,
+                    "normalized_text": "Alfred Nobel",
+                    "probability": 0.8103,
+                    "start": 159,
+                    "type": "Person"
+                },
+                {
+                    "end": 238,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.42,
+                    "start": 230,
+                    "type": "Other"
+                },
+                {
+                    "end": 250,
+                    "normalized_text": "NobelPrize",
+                    "probability": 0.8837,
+                    "start": 241,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 239,
+                    "start": 229,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 251,
+                    "start": 240,
+                    "tag": "NobelPrize"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7klLWPKeY8",
+                    "end": 275,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1715654277236920789/video/1",
+                    "media_key": "13_1715654156751364096",
+                    "start": 252,
+                    "url": "https://t.co/7klLWPKeY8"
+                }
+            ]
+        },
+        "id": "1715654277236920789",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 798,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "Alfred Nobel was born on this day (October 21) in 1833. To mark the birth of one of our founding fathers, we invited some of our colleagues to take part in an Alfred Nobel true or false challenge. Take a look at what happened. \n\n#AkzoNobel #NobelPrize https://t.co/7klLWPKeY8"
+    }
+}

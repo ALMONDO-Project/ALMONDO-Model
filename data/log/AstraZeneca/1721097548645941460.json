@@ -1,0 +1,88 @@
+{
+    "1721097548645941460": {
+        "attachments": {
+            "media_keys": [
+                "13_1721097524864286720"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-11-05T09:30:06.000Z",
+        "edit_history_tweet_ids": [
+            "1721097548645941460"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Hyperkalaemia",
+                    "probability": 0.5508,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 16,
+                    "normalized_text": "HK",
+                    "probability": 0.7948,
+                    "start": 15,
+                    "type": "Place"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "disease",
+                    "probability": 0.5918,
+                    "start": 80,
+                    "type": "Other"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "HK",
+                    "probability": 0.3916,
+                    "start": 128,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "CKD",
+                    "probability": 0.4352,
+                    "start": 156,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "ASN2023",
+                    "probability": 0.2865,
+                    "start": 174,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 181,
+                    "start": 173,
+                    "tag": "ASN2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/APaoqPebkW",
+                    "end": 205,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1721097548645941460/video/1",
+                    "media_key": "13_1721097524864286720",
+                    "start": 182,
+                    "url": "https://t.co/APaoqPebkW"
+                }
+            ]
+        },
+        "id": "1721097548645941460",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 8412,
+            "like_count": 13,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 8
+        },
+        "text": "Hyperkalaemia (HK) can be a recurring condition in patients with chronic kidney disease (CKD), and new data are revealing how a HK event is associated with CKD progression. #ASN2023 https://t.co/APaoqPebkW"
+    }
+}

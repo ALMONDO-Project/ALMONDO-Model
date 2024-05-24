@@ -1,0 +1,68 @@
+{
+    "1630245506046910466": {
+        "attachments": {
+            "media_keys": [
+                "7_1630245441999716353"
+            ]
+        },
+        "author_id": "897782982425096192",
+        "created_at": "2023-02-27T16:36:31.000Z",
+        "edit_history_tweet_ids": [
+            "1630245506046910466"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "LeasePlan",
+                    "probability": 0.4212,
+                    "start": 81,
+                    "type": "Other"
+                },
+                {
+                    "end": 256,
+                    "normalized_text": "WhatsNext",
+                    "probability": 0.8303,
+                    "start": 248,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 257,
+                    "start": 247,
+                    "tag": "WhatsNext"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 29,
+                    "id": "897782982425096192",
+                    "start": 19,
+                    "username": "Leaseplan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/OakQxhW5D8",
+                    "end": 282,
+                    "expanded_url": "https://twitter.com/Leaseplan/status/1630245506046910466/video/1",
+                    "media_key": "7_1630245441999716353",
+                    "start": 259,
+                    "url": "https://t.co/OakQxhW5D8"
+                }
+            ]
+        },
+        "id": "1630245506046910466",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 274,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "From\u00a0the\u00a0launch\u00a0of @LeasePlan\u00a0Digital\u00a0\u2728 to\u00a0becoming\u00a0a\u00a0founding\u00a0member\u00a0of\u00a0EV100\u00a0\ud83d\udcaa LeasePlan has proven\u00a0itself more than a match for the challenges of climate change and digitalisation. We\u2019ve achieved a lot since 2010 \u2013 and we\u2019re excited to deliver #WhatsNext! https://t.co/OakQxhW5D8"
+    }
+}

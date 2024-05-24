@@ -1,0 +1,52 @@
+{
+    "1674719426762149888": {
+        "author_id": "62465691",
+        "created_at": "2023-06-30T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1674719426762149888"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "bronchiectasis",
+                    "probability": 0.7772,
+                    "start": 47,
+                    "type": "Other"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Pseudomonas",
+                    "probability": 0.8813,
+                    "start": 105,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "WorldBronchiectasisDay",
+                    "probability": 0.7231,
+                    "start": 187,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 209,
+                    "start": 186,
+                    "tag": "WorldBronchiectasisDay"
+                }
+            ]
+        },
+        "id": "1674719426762149888",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2871,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "There are currently no approved treatments for bronchiectasis. We are aiming to change this by targeting Pseudomonas aeruginosa, one of the key bacteria that drives disease progression. #WorldBronchiectasisDay"
+    }
+}

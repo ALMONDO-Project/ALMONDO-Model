@@ -1,0 +1,62 @@
+{
+    "1672892459158732801": {
+        "attachments": {
+            "media_keys": [
+                "13_1672892390846103552"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-06-25T09:00:17.000Z",
+        "edit_history_tweet_ids": [
+            "1672892459158732801"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "haemorrhages",
+                    "probability": 0.5764,
+                    "start": 66,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 255,
+                    "start": 246,
+                    "tag": "ISTH2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "spr.ly/6018O72Nu",
+                    "end": 245,
+                    "expanded_url": "http://spr.ly/6018O72Nu",
+                    "start": 222,
+                    "status": 200,
+                    "unwound_url": "https://www.astrazeneca.com/media-centre/articles/2023/care-management-life-threatening-uncontrolled-bleeds.html?utm_source=twitter&utm_medium=isth+congress+2023&utm_term=11952&utm_content=cvrm",
+                    "url": "https://t.co/zDW3PlaSLJ"
+                },
+                {
+                    "display_url": "pic.twitter.com/sOF6EKsuPo",
+                    "end": 279,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1672892459158732801/video/1",
+                    "media_key": "13_1672892390846103552",
+                    "start": 256,
+                    "url": "https://t.co/sOF6EKsuPo"
+                }
+            ]
+        },
+        "id": "1672892459158732801",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11749,
+            "like_count": 16,
+            "quote_count": 3,
+            "reply_count": 15,
+            "retweet_count": 5
+        },
+        "text": "Major bleeds, including intracerebral and severe gastrointestinal haemorrhages, can become life-threatening emergencies requiring hospitalisation.\n\nLearn more about the need for clear protocols and fast, coordinated care: https://t.co/zDW3PlaSLJ #ISTH2023 https://t.co/sOF6EKsuPo"
+    }
+}

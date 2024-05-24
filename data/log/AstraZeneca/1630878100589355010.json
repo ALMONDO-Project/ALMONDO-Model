@@ -1,0 +1,67 @@
+{
+    "1630878100589355010": {
+        "attachments": {
+            "media_keys": [
+                "13_1630878050798784512"
+            ]
+        },
+        "author_id": "62465691",
+        "created_at": "2023-03-01T10:30:14.000Z",
+        "edit_history_tweet_ids": [
+            "1630878100589355010"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 14,
+                    "normalized_text": "cardiorenal",
+                    "probability": 0.7719,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 59,
+                    "normalized_text": "kidney disease",
+                    "probability": 0.5107,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Alfonso Valle",
+                    "probability": 0.6978,
+                    "start": 114,
+                    "type": "Person"
+                },
+                {
+                    "end": 218,
+                    "normalized_text": "CKD",
+                    "probability": 0.6255,
+                    "start": 216,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/EaTT48XkQR",
+                    "end": 296,
+                    "expanded_url": "https://twitter.com/AstraZeneca/status/1630878100589355010/video/1",
+                    "media_key": "13_1630878050798784512",
+                    "start": 273,
+                    "url": "https://t.co/EaTT48XkQR"
+                }
+            ]
+        },
+        "id": "1630878100589355010",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 4577,
+            "like_count": 27,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 9
+        },
+        "text": "The cardiorenal connection means that chronic kidney disease (CKD) and heart failure (HF) are interconnected. Dr. Alfonso Valle recommends working with patients to prevent both conditions at the same time because as CKD progresses, cardiovascular complications can worsen. https://t.co/EaTT48XkQR"
+    }
+}

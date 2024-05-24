@@ -1,0 +1,74 @@
+{
+    "1683718788485718018": {
+        "attachments": {
+            "media_keys": [
+                "13_1683718725357252608"
+            ]
+        },
+        "author_id": "13065032",
+        "created_at": "2023-07-25T06:00:15.000Z",
+        "edit_history_tweet_ids": [
+            "1683718788485718018"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 66,
+                    "normalized_text": "Greg Poux-Guillaume",
+                    "probability": 0.86,
+                    "start": 48,
+                    "type": "Person"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "AkzoNobel",
+                    "probability": 0.5483,
+                    "start": 158,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 167,
+                    "start": 157,
+                    "tag": "AkzoNobel"
+                },
+                {
+                    "end": 185,
+                    "start": 168,
+                    "tag": "FinancialResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "akzo.no/Q2-2023-release",
+                    "end": 155,
+                    "expanded_url": "https://akzo.no/Q2-2023-release",
+                    "start": 132,
+                    "status": 200,
+                    "unwound_url": "https://www.akzonobel.com/en/media/latest-news---media-releases-/q2-2023",
+                    "url": "https://t.co/cJfQ0lI5h2"
+                },
+                {
+                    "display_url": "pic.twitter.com/cNMYOv0fwl",
+                    "end": 209,
+                    "expanded_url": "https://twitter.com/AkzoNobel/status/1683718788485718018/video/1",
+                    "media_key": "13_1683718725357252608",
+                    "start": 186,
+                    "url": "https://t.co/cNMYOv0fwl"
+                }
+            ]
+        },
+        "id": "1683718788485718018",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1647,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Our Q2 results are out. Take a look at our CEO, Greg Poux-Guillaume\u2019s assessment of our progress \u2013 and what lies ahead. Learn more: https://t.co/cJfQ0lI5h2\n\n#AkzoNobel #FinancialResults https://t.co/cNMYOv0fwl"
+    }
+}
