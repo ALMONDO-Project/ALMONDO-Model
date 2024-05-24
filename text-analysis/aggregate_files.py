@@ -1,15 +1,16 @@
 import os
 import json
 import pandas as pd
+from tqdm import tqdm
 from datetime import datetime
 
 def process_json_file(file_path, folder_name):
-    print(f'processing data for user: {folder_name}')
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         try:
             data = json.load(file)
         except json.decoder.JSONDecodeError:
-            print(f"Error reading file: {file_path}")
+            with open('errors.log', 'a') as file:
+                print(f"{file_path}", file=file)
             return []
     tweets = []
     for _, tweet_data in data.items():
@@ -18,28 +19,19 @@ def process_json_file(file_path, folder_name):
             tweet_data['username'] = folder_name.lower()
             tweets.append(tweet_data)
         else:
-            print(f'tweet created at {created_at} for user {folder_name}')
+            continue
     return tweets
 
 def traverse_folders(path):
     valid_tweets_list = []
-    errors = []
     c=0
-    for folders in os.listdir('../data/log/'):
-        if '.' in folders:
-            continue
-        
+    for root, _, files in os.walk(path):
         folder_name = os.path.basename(root)
         c+=1
-        for file in files:
+        for file in tqdm(files):
             if file.endswith('.json') and not file.startswith('page'):
                 file_path = os.path.join(root, file)
-                tweets = process_json_file(file_path, folder_name)
-                if len(tweets) > 0:
-                    valid_tweets_list.extend(tweets)
-                else:
-                    errors.append(file_path)
-    print(errors)    
+                valid_tweets_list.extend(process_json_file(file_path, folder_name))
     print(c)
     return valid_tweets_list
 
