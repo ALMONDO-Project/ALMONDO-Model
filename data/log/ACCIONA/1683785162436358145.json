@@ -1,0 +1,57 @@
+{
+    "1683785162436358145": {
+        "author_id": "15544077",
+        "created_at": "2023-07-25T10:24:00.000Z",
+        "edit_history_tweet_ids": [
+            "1683785162436358145"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "UE",
+                    "probability": 0.9614,
+                    "start": 22,
+                    "type": "Place"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "ACCIONA",
+                    "probability": 0.3908,
+                    "start": 35,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "280027788",
+                    "start": 3,
+                    "username": "javiercerrudo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/Fru",
+                    "end": 116,
+                    "expanded_url": "https://acciona.smh.re/Fru",
+                    "start": 93,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/Fru",
+                    "url": "https://t.co/sHUZHUHs0j"
+                }
+            ]
+        },
+        "id": "1683785162436358145",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @javiercerrudo: La UE encarga a ACCIONA un plan de descarbonizaci\u00f3n para islas remotas \ud83c\udfdd\u2705 https://t.co/sHUZHUHs0j"
+    }
+}

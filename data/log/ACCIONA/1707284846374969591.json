@@ -1,0 +1,58 @@
+{
+    "1707284846374969591": {
+        "author_id": "15544077",
+        "created_at": "2023-09-28T06:43:21.000Z",
+        "edit_history_tweet_ids": [
+            "1707284846374969591"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "Medalla de",
+                    "probability": 0.5352,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 103,
+                    "normalized_text": "Ibex",
+                    "probability": 0.5581,
+                    "start": 100,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "59259189",
+                    "start": 3,
+                    "username": "AlanHenriquez"
+                },
+                {
+                    "end": 46,
+                    "id": "110522065",
+                    "start": 37,
+                    "username": "SPGlobal"
+                },
+                {
+                    "end": 71,
+                    "id": "1410478206604488704",
+                    "start": 56,
+                    "username": "ACCIONAEnergia"
+                }
+            ]
+        },
+        "id": "1707284846374969591",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @AlanHenriquez: \ud83e\udd47\u00a1Medalla de oro! @SPGlobal otorga a @ACCIONAEnergia la nota m\u00e1s alta de todo el Ibex 35 en el Ranking ESG de \n @elEcono\u2026"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1644988521814302722": {
+        "attachments": {
+            "media_keys": [
+                "7_1644002190267150336"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-04-09T09:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1644988521814302722"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "DHL",
+                    "probability": 0.505,
+                    "start": 22,
+                    "type": "Organization"
+                },
+                {
+                    "end": 168,
+                    "normalized_text": "DHL",
+                    "probability": 0.4853,
+                    "start": 166,
+                    "type": "Organization"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "DHLBunny",
+                    "probability": 0.4097,
+                    "start": 198,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 206,
+                    "start": 197,
+                    "tag": "DHLBunny"
+                },
+                {
+                    "end": 222,
+                    "start": 207,
+                    "tag": "EasterDelivery"
+                },
+                {
+                    "end": 236,
+                    "start": 224,
+                    "tag": "HappyEaster"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/yJhlYExrZO",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1644988521814302722/video/1",
+                    "media_key": "7_1644002190267150336",
+                    "start": 237,
+                    "url": "https://t.co/yJhlYExrZO"
+                }
+            ]
+        },
+        "id": "1644988521814302722",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2223,
+            "like_count": 24,
+            "quote_count": 1,
+            "reply_count": 6,
+            "retweet_count": 2
+        },
+        "text": "Hoppy Easter from the DHL bunny! \ud83d\udc30\ud83d\udce6 Watch as the bunny delivers Easter packages with a hop in his step and dance moves to match. \ud83d\udd7a Spread some Easter joy and let the DHL bunny do the delivering! \ud83d\ude9b #DHLBunny #EasterDelivery  #HappyEaster https://t.co/yJhlYExrZO"
+    }
+}

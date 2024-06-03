@@ -1,0 +1,70 @@
+{
+    "1622248685185945601": {
+        "attachments": {
+            "media_keys": [
+                "7_1621506469538705410"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-02-05T15:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1622248685185945601"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 211,
+                    "normalized_text": "BSD",
+                    "probability": 0.3669,
+                    "start": 209,
+                    "type": "Organization"
+                },
+                {
+                    "end": 225,
+                    "normalized_text": "Wintersports",
+                    "probability": 0.4602,
+                    "start": 214,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 207,
+                    "start": 191,
+                    "tag": "ExtremeDelivery"
+                },
+                {
+                    "end": 212,
+                    "start": 208,
+                    "tag": "BSD"
+                },
+                {
+                    "end": 226,
+                    "start": 213,
+                    "tag": "Wintersports"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/pIbxyXGJl0",
+                    "end": 250,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1622248685185945601/video/1",
+                    "media_key": "7_1621506469538705410",
+                    "start": 227,
+                    "url": "https://t.co/pIbxyXGJl0"
+                }
+            ]
+        },
+        "id": "1622248685185945601",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2105,
+            "like_count": 16,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Did you know that we deliver bobsleighs and skeletons to races for the 43 athletes on the German national team? A single bobsleigh weighs around 163kg and they are always handled with care. \u00a0#ExtremeDelivery #BSD #Wintersports https://t.co/pIbxyXGJl0"
+    }
+}

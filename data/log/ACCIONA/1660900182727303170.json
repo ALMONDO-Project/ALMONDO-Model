@@ -1,0 +1,53 @@
+{
+    "1660900182727303170": {
+        "author_id": "15544077",
+        "created_at": "2023-05-23T06:47:16.000Z",
+        "edit_history_tweet_ids": [
+            "1660900182727303170"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "1044978774696235010",
+                    "start": 3,
+                    "username": "ALEJAND78010925"
+                },
+                {
+                    "end": 69,
+                    "id": "15544077",
+                    "start": 61,
+                    "username": "ACCIONA"
+                },
+                {
+                    "end": 100,
+                    "id": "1410202111",
+                    "start": 84,
+                    "username": "acex_asociacion"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/Eml",
+                    "end": 130,
+                    "expanded_url": "https://acciona.smh.re/Eml",
+                    "start": 107,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/Eml",
+                    "url": "https://t.co/RtVZph5YEM"
+                }
+            ]
+        },
+        "id": "1660900182727303170",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @ALEJAND78010925: \u00a1Vota por la candidatura presentada por @ACCIONA a los Premios @acex_asociacion 2023! https://t.co/RtVZph5YEM #ACCIONA\u2026"
+    }
+}

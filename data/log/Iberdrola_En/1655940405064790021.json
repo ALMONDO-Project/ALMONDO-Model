@@ -1,0 +1,76 @@
+{
+    "1655940405064790021": {
+        "attachments": {
+            "media_keys": [
+                "3_1655940391764643840"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-05-09T14:18:53.000Z",
+        "edit_history_tweet_ids": [
+            "1655940405064790021"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 75,
+                    "normalized_text": "EuropeDay",
+                    "probability": 0.4431,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Ignacio Galan",
+                    "probability": 0.9118,
+                    "start": 92,
+                    "type": "Person"
+                },
+                {
+                    "end": 239,
+                    "normalized_text": "Europe",
+                    "probability": 0.9459,
+                    "start": 234,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 76,
+                    "start": 66,
+                    "tag": "EuropeDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "iberdrola.com/press-room/new\u2026",
+                    "end": 266,
+                    "expanded_url": "https://www.iberdrola.com/press-room/news/detail/more-europe-ignacio-galan",
+                    "start": 243,
+                    "status": 200,
+                    "unwound_url": "https://www.iberdrola.com/press-room/news/detail/more-europe-ignacio-galan",
+                    "url": "https://t.co/AYEM2NGvZF"
+                },
+                {
+                    "display_url": "pic.twitter.com/pRtGjIExts",
+                    "end": 290,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1655940405064790021/photo/1",
+                    "media_key": "3_1655940391764643840",
+                    "start": 267,
+                    "url": "https://t.co/pRtGjIExts"
+                }
+            ]
+        },
+        "id": "1655940405064790021",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 799,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "\ud83c\uddea\ud83c\uddfa Key for the \ud835\udc91\ud835\udc93\ud835\udc90\ud835\udc88\ud835\udc93\ud835\udc86\ud835\udc94\ud835\udc94 of ALL and for a shared \ud835\udc87\ud835\udc96\ud835\udc95\ud835\udc96\ud835\udc93\ud835\udc86 \ud83c\uddea\ud83c\uddfa\n \n\ud83d\uddd3\ufe0f On #EuropeDay, our chairman, Ignacio Galan, calls for more common and stable policies.\n \n\ud83d\udde3\ufe0f \"Today's problems are not yesterday's, but the solution remains the same: more Europe\".\nhttps://t.co/AYEM2NGvZF https://t.co/pRtGjIExts"
+    }
+}

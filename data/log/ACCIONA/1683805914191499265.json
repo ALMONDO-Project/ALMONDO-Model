@@ -1,0 +1,52 @@
+{
+    "1683805914191499265": {
+        "author_id": "15544077",
+        "created_at": "2023-07-25T11:46:28.000Z",
+        "edit_history_tweet_ids": [
+            "1683805914191499265"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "Programa Academy",
+                    "probability": 0.6482,
+                    "start": 53,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "M\u00e9xico",
+                    "probability": 0.9455,
+                    "start": 85,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                },
+                {
+                    "end": 81,
+                    "id": "15544077",
+                    "start": 73,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1683805914191499265",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @EduardoSanjurjo: \ud83d\udce2 En s\u00f3lo unos d\u00edas comienza el Programa Academy de @ACCIONA en M\u00e9xico \ud83c\uddf2\ud83c\uddfd\n\nSum\u00e9rgete en los negocios de la compa\u00f1\u00eda, c\u2026"
+    }
+}

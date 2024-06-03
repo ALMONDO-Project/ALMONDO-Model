@@ -1,0 +1,45 @@
+{
+    "1713804947664363802": {
+        "author_id": "15544077",
+        "created_at": "2023-10-16T06:31:55.000Z",
+        "edit_history_tweet_ids": [
+            "1713804947664363802"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 116,
+                    "normalized_text": "FIDIC Project Awards 2023",
+                    "probability": 0.9306,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "78269746",
+                    "start": 3,
+                    "username": "jlblasco"
+                },
+                {
+                    "end": 43,
+                    "id": "15544077",
+                    "start": 35,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1713804947664363802",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @jlblasco: \u00a1Buenas noticias! \ud83c\udfc6\n\n@ACCIONA y sus socios han sido galardonados durante los \u201cFIDIC Project Awards 2023\u201d por el proyecto de d\u2026"
+    }
+}

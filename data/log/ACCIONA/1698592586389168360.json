@@ -1,0 +1,58 @@
+{
+    "1698592586389168360": {
+        "author_id": "15544077",
+        "created_at": "2023-09-04T07:03:25.000Z",
+        "edit_history_tweet_ids": [
+            "1698592586389168360"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 96,
+                    "normalized_text": "Waldo L\u00f3pez",
+                    "probability": 0.9126,
+                    "start": 86,
+                    "type": "Person"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "Ag",
+                    "probability": 0.3663,
+                    "start": 137,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "234043915",
+                    "start": 3,
+                    "username": "Renata_RAlves"
+                },
+                {
+                    "end": 28,
+                    "id": "15544077",
+                    "start": 20,
+                    "username": "ACCIONA"
+                },
+                {
+                    "end": 44,
+                    "id": "63805938",
+                    "start": 32,
+                    "username": "DFinanciero"
+                }
+            ]
+        },
+        "id": "1698592586389168360",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @Renata_RAlves: .@ACCIONA en @DFinanciero: Urgencia en el re\u00faso de aguas tratadas.\nWaldo L\u00f3pez, gerente de Desarrollo de Negocios de #Ag\u2026"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "1683543954162106393": {
+        "author_id": "15544077",
+        "created_at": "2023-07-24T18:25:32.000Z",
+        "edit_history_tweet_ids": [
+            "1683543954162106393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "Per\u00fa",
+                    "probability": 0.9891,
+                    "start": 64,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 68,
+                    "start": 63,
+                    "tag": "Per\u00fa"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "710077400139370497",
+                    "start": 3,
+                    "username": "ACCIONA_CL"
+                },
+                {
+                    "end": 59,
+                    "id": "15544077",
+                    "start": 51,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1683543954162106393",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @ACCIONA_CL: 436 trabajadores y trabajadoras de @ACCIONA en #Per\u00fa se capacitaron sobre la importancia de los procesos de cumplimiento, a\u2026"
+    }
+}

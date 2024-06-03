@@ -1,0 +1,64 @@
+{
+    "1671971317799591939": {
+        "author_id": "15544077",
+        "created_at": "2023-06-22T20:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1671971317799591939"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 134,
+                    "normalized_text": "Afganist\u00e1n",
+                    "probability": 0.9189,
+                    "start": 125,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 49,
+                    "id": "15460048",
+                    "start": 45,
+                    "username": "MIT"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "\ud83e\udd7dUn proyecto de arte virtual impulsado por el MIT que conjuga drones e imagen 3D para poder visitar joyas arquitect\u00f3nicas afganas sin salir de casa.",
+                    "display_url": "imnovation-hub.com/es/transformac\u2026",
+                    "end": 179,
+                    "expanded_url": "https://www.imnovation-hub.com/es/transformacion-digital/arte-virtual-patrimonio-cultural/?utm_source=twitter&utm_medium=social&utm_campaign=202306&utm_content=post",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1774179847159324672/NbrunmxS?format=jpg&name=orig",
+                            "width": 1600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1774179847159324672/NbrunmxS?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 156,
+                    "status": 200,
+                    "title": "El arte virtual preservar\u00e1 la cultura afgana",
+                    "unwound_url": "https://www.imnovation-hub.com/es/transformacion-digital/arte-virtual-patrimonio-cultural/?utm_source=twitter&utm_medium=social&utm_campaign=202306&utm_content=post",
+                    "url": "https://t.co/aRfqnsP2o6"
+                }
+            ]
+        },
+        "id": "1671971317799591939",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 24,
+            "impression_count": 1136622,
+            "like_count": 1246,
+            "quote_count": 5,
+            "reply_count": 27,
+            "retweet_count": 228
+        },
+        "text": "Un proyecto de arte virtual impulsado por el @MIT conjuga drones e imagen 3D para poder visitar las joyas arquitect\u00f3nicas de Afganist\u00e1n sin salir de casa \ud83c\udff0 https://t.co/aRfqnsP2o6"
+    }
+}

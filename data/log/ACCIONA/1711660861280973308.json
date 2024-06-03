@@ -1,0 +1,39 @@
+{
+    "1711660861280973308": {
+        "author_id": "15544077",
+        "created_at": "2023-10-10T08:32:05.000Z",
+        "edit_history_tweet_ids": [
+            "1711660861280973308"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Edith Guedella",
+                    "probability": 0.9671,
+                    "start": 67,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "78269746",
+                    "start": 3,
+                    "username": "jlblasco"
+                }
+            ]
+        },
+        "id": "1711660861280973308",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @jlblasco: \u201cHay que hacer del residuo una nueva materia prima\u201d. Edith Guedella, responsable de sostenibilidad de construcci\u00f3n en @ACCION\u2026"
+    }
+}

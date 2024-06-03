@@ -1,0 +1,51 @@
+{
+    "1693940948776919238": {
+        "author_id": "15544077",
+        "created_at": "2023-08-22T10:59:28.000Z",
+        "edit_history_tweet_ids": [
+            "1693940948776919238"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 137,
+                    "normalized_text": "Carolina",
+                    "probability": 0.7438,
+                    "start": 130,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "234043915",
+                    "start": 3,
+                    "username": "Renata_RAlves"
+                },
+                {
+                    "end": 28,
+                    "id": "15544077",
+                    "start": 20,
+                    "username": "ACCIONA"
+                },
+                {
+                    "end": 44,
+                    "id": "63805938",
+                    "start": 32,
+                    "username": "DFinanciero"
+                }
+            ]
+        },
+        "id": "1693940948776919238",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "RT @Renata_RAlves: .@ACCIONA en @DFinanciero: Industria del hidr\u00f3geno verde requerir\u00e1 aprox 740 mil nuevos trabajadores al 2050.\n\nCarolina\u2026"
+    }
+}

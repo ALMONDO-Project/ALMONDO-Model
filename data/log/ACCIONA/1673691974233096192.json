@@ -1,0 +1,52 @@
+{
+    "1673691974233096192": {
+        "author_id": "15544077",
+        "created_at": "2023-06-27T13:57:17.000Z",
+        "edit_history_tweet_ids": [
+            "1673691974233096192"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 129,
+                    "normalized_text": "ACCIONAJGA23",
+                    "probability": 0.7183,
+                    "start": 118,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 130,
+                    "start": 117,
+                    "tag": "ACCIONAJGA23"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                },
+                {
+                    "end": 30,
+                    "id": "15544077",
+                    "start": 22,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1673691974233096192",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @EduardoSanjurjo: \u201c@ACCIONA es el proveedor de soluciones de infraestructuras sostenibles m\u00e1s completo del mundo\u201d #ACCIONAJGA23 https://\u2026"
+    }
+}

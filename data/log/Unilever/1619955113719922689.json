@@ -1,0 +1,67 @@
+{
+    "1619955113719922689": {
+        "attachments": {
+            "media_keys": [
+                "3_1619954188548456448"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-01-30T07:06:11.000Z",
+        "edit_history_tweet_ids": [
+            "1619955113719922689"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Hein Schumacher",
+                    "probability": 0.7462,
+                    "start": 37,
+                    "type": "Person"
+                },
+                {
+                    "end": 72,
+                    "normalized_text": "Hein",
+                    "probability": 0.2841,
+                    "start": 69,
+                    "type": "Other"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "Alan Jope",
+                    "probability": 0.6086,
+                    "start": 87,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/news/press-and\u2026",
+                    "end": 166,
+                    "expanded_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/unilever-appoints-hein-schumacher-as-new-ceo/",
+                    "start": 143,
+                    "url": "https://t.co/A624VceVKk"
+                },
+                {
+                    "display_url": "pic.twitter.com/8MOopc6QnW",
+                    "end": 190,
+                    "expanded_url": "https://twitter.com/Unilever/status/1619955113719922689/photo/1",
+                    "media_key": "3_1619954188548456448",
+                    "start": 167,
+                    "url": "https://t.co/8MOopc6QnW"
+                }
+            ]
+        },
+        "id": "1619955113719922689",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 33706,
+            "like_count": 124,
+            "quote_count": 10,
+            "reply_count": 16,
+            "retweet_count": 19
+        },
+        "text": "Today we announce the appointment of Hein Schumacher as our new CEO. Hein will replace Alan Jope, who announced his retirement last September.\u00a0https://t.co/A624VceVKk https://t.co/8MOopc6QnW"
+    }
+}

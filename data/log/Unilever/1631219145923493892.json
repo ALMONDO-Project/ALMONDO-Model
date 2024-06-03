@@ -1,0 +1,39 @@
+{
+    "1631219145923493892": {
+        "author_id": "109224937",
+        "created_at": "2023-03-02T09:05:25.000Z",
+        "edit_history_tweet_ids": [
+            "1631219145923493892"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Shibaji",
+                    "probability": 0.7721,
+                    "start": 19,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "595347100",
+                    "start": 0,
+                    "username": "Shibajidotcom"
+                }
+            ]
+        },
+        "id": "1631219145923493892",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 40,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Shibajidotcom Hey Shibaji, We appreciate you reaching out to us.\nPlease send an email to Corporate.Communication.Hul@unilever.com"
+    }
+}

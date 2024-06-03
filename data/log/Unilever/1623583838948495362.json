@@ -1,0 +1,98 @@
+{
+    "1623583838948495362": {
+        "attachments": {
+            "media_keys": [
+                "3_1623583028915195905"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-02-09T07:25:26.000Z",
+        "edit_history_tweet_ids": [
+            "1623583838948495362"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 31,
+                    "normalized_text": "Unilever",
+                    "probability": 0.3715,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 205,
+                    "normalized_text": "ULVR",
+                    "probability": 0.4374,
+                    "start": 202,
+                    "type": "Other"
+                },
+                {
+                    "end": 210,
+                    "normalized_text": "UNA",
+                    "probability": 0.5503,
+                    "start": 208,
+                    "type": "Organization"
+                },
+                {
+                    "end": 214,
+                    "normalized_text": "UL",
+                    "probability": 0.3651,
+                    "start": 213,
+                    "type": "Organization"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 206,
+                    "start": 201,
+                    "tag": "ULVR"
+                },
+                {
+                    "end": 211,
+                    "start": 207,
+                    "tag": "UNA"
+                },
+                {
+                    "end": 215,
+                    "start": 212,
+                    "tag": "UL"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 184,
+                    "tag": "UnileverResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/news/press-and\u2026",
+                    "end": 182,
+                    "expanded_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/strong-sales-growth-and-continued-progress-against-strategy/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_results_FY22",
+                    "start": 159,
+                    "url": "https://t.co/RR8yL75w2P"
+                },
+                {
+                    "display_url": "pic.twitter.com/Z1h1GZ9hVK",
+                    "end": 239,
+                    "expanded_url": "https://twitter.com/Unilever/status/1623583838948495362/photo/1",
+                    "media_key": "3_1623583028915195905",
+                    "start": 216,
+                    "url": "https://t.co/Z1h1GZ9hVK"
+                }
+            ]
+        },
+        "id": "1623583838948495362",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1823,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "2022 full year results\n\nUnilever\u2019s new operating model \u2013 in place since 1 July \u2013 is unlocking bolder, more rapid decision-making and improved accountability.\n\nhttps://t.co/RR8yL75w2P\n\n#UnileverResults $ULVR $UNA $UL https://t.co/Z1h1GZ9hVK"
+    }
+}

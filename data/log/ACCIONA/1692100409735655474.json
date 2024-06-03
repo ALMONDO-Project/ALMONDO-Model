@@ -1,0 +1,50 @@
+{
+    "1692100409735655474": {
+        "author_id": "15544077",
+        "created_at": "2023-08-17T09:05:50.000Z",
+        "edit_history_tweet_ids": [
+            "1692100409735655474"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.9885,
+                    "start": 57,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/GIB",
+                    "end": 87,
+                    "expanded_url": "https://acciona.smh.re/GIB",
+                    "start": 64,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/GIB",
+                    "url": "https://t.co/4QN0d6kzsM"
+                }
+            ]
+        },
+        "id": "1692100409735655474",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @EduardoSanjurjo: Nuevo r\u00e9cord de generaci\u00f3n solar en Espa\u00f1a https://t.co/4QN0d6kzsM"
+    }
+}

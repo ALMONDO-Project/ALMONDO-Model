@@ -1,0 +1,86 @@
+{
+    "1639703705304940545": {
+        "attachments": {
+            "media_keys": [
+                "7_1639271748620148737"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-03-25T19:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1639703705304940545"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 82,
+                    "normalized_text": "DHL",
+                    "probability": 0.5323,
+                    "start": 80,
+                    "type": "Organization"
+                },
+                {
+                    "end": 153,
+                    "normalized_text": "Bonn",
+                    "probability": 0.9371,
+                    "start": 150,
+                    "type": "Place"
+                },
+                {
+                    "end": 178,
+                    "normalized_text": "EarthHour",
+                    "probability": 0.8031,
+                    "start": 170,
+                    "type": "Other"
+                },
+                {
+                    "end": 243,
+                    "normalized_text": "Earth Hour",
+                    "probability": 0.6615,
+                    "start": 234,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 73,
+                    "start": 59,
+                    "tag": "climatechange"
+                },
+                {
+                    "end": 179,
+                    "start": 169,
+                    "tag": "EarthHour"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "earthhour.org",
+                    "end": 269,
+                    "expanded_url": "http://www.earthhour.org",
+                    "start": 246,
+                    "url": "https://t.co/Jf8wzwUQ80"
+                },
+                {
+                    "display_url": "pic.twitter.com/3aToO78ayk",
+                    "end": 293,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1639703705304940545/video/1",
+                    "media_key": "7_1639271748620148737",
+                    "start": 270,
+                    "url": "https://t.co/3aToO78ayk"
+                }
+            ]
+        },
+        "id": "1639703705304940545",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2161,
+            "like_count": 20,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 5
+        },
+        "text": "We're not just a one-hour wonder when it comes to fighting #climatechange. \ud83c\udf0d At DHL, we regularly switch off our lights, like here at our HQ tower in\nBonn. Join us this #EarthHour and let's make a difference together. Read more about Earth Hour: https://t.co/Jf8wzwUQ80 https://t.co/3aToO78ayk"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1658851143361896453": {
+        "attachments": {
+            "media_keys": [
+                "3_1658851125305417734"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-05-17T15:05:07.000Z",
+        "edit_history_tweet_ids": [
+            "1658851143361896453"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "UN",
+                    "probability": 0.6817,
+                    "start": 23,
+                    "type": "Place"
+                },
+                {
+                    "end": 69,
+                    "normalized_text": "Think Lab on Just Transition",
+                    "probability": 0.6922,
+                    "start": 42,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 153,
+                    "start": 138,
+                    "tag": "JustTransition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 40,
+                    "id": "38704343",
+                    "start": 26,
+                    "username": "globalcompact"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unglobalcompact.org/library/6143",
+                    "end": 267,
+                    "expanded_url": "https://unglobalcompact.org/library/6143",
+                    "start": 244,
+                    "status": 200,
+                    "unwound_url": "https://unglobalcompact.org/library/6143",
+                    "url": "https://t.co/KiXsKiXI22"
+                },
+                {
+                    "display_url": "pic.twitter.com/6xwE4LwUqM",
+                    "end": 291,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1658851143361896453/photo/1",
+                    "media_key": "3_1658851125305417734",
+                    "start": 268,
+                    "url": "https://t.co/6xwE4LwUqM"
+                }
+            ]
+        },
+        "id": "1658851143361896453",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1732,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "As participants of the UN @globalcompact 'Think Lab on Just Transition', we're excited to support the launch of the new Business Brief on #JustTransition and Renewable Energy.\n\nDownload now to get actionable guidance that leaves no one behind: https://t.co/KiXsKiXI22 https://t.co/6xwE4LwUqM"
+    }
+}

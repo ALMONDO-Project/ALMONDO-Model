@@ -1,0 +1,96 @@
+{
+    "1653390678657843200": {
+        "attachments": {
+            "media_keys": [
+                "7_1653390332652822532"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-02T13:27:10.000Z",
+        "edit_history_tweet_ids": [
+            "1653390678657843200"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "Andrea",
+                    "probability": 0.6311,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Spreewald",
+                    "probability": 0.8437,
+                    "start": 96,
+                    "type": "Place"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Andrea",
+                    "probability": 0.6383,
+                    "start": 176,
+                    "type": "Other"
+                },
+                {
+                    "end": 252,
+                    "normalized_text": "Kahnzustellung",
+                    "probability": 0.3971,
+                    "start": 239,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "Spreewald",
+                    "probability": 0.6259,
+                    "start": 255,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 105,
+                    "start": 95,
+                    "tag": "Spreewald"
+                },
+                {
+                    "end": 228,
+                    "start": 212,
+                    "tag": "ExtremeDelivery"
+                },
+                {
+                    "end": 253,
+                    "start": 238,
+                    "tag": "Kahnzustellung"
+                },
+                {
+                    "end": 264,
+                    "start": 254,
+                    "tag": "Spreewald"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/L6sAYJOXT1",
+                    "end": 288,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1653390678657843200/video/1",
+                    "media_key": "7_1653390332652822532",
+                    "start": 265,
+                    "url": "https://t.co/L6sAYJOXT1"
+                }
+            ]
+        },
+        "id": "1653390678657843200",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1416,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 6
+        },
+        "text": "Meet Andrea, our delivery woman who has been delivering letters and packages on a barge in the #Spreewald for 12 years! The tradition of water delivery goes back 126 years and Andrea is keeping it alive with her #ExtremeDelivery service. #Kahnzustellung #Spreewald https://t.co/L6sAYJOXT1"
+    }
+}

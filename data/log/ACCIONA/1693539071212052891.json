@@ -1,0 +1,45 @@
+{
+    "1693539071212052891": {
+        "author_id": "15544077",
+        "created_at": "2023-08-21T08:22:33.000Z",
+        "edit_history_tweet_ids": [
+            "1693539071212052891"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 75,
+                    "normalized_text": "Chile",
+                    "probability": 0.9404,
+                    "start": 71,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "234043915",
+                    "start": 3,
+                    "username": "Renata_RAlves"
+                },
+                {
+                    "end": 68,
+                    "id": "15544077",
+                    "start": 60,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1693539071212052891",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @Renata_RAlves: Sostenibilidad y Negocios presentado por @ACCIONA:\n\"Chile requiere un plan estrat\u00e9gico de transformaci\u00f3n digital para av\u2026"
+    }
+}

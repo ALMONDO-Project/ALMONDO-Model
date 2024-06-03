@@ -1,0 +1,64 @@
+{
+    "1658767815241867266": {
+        "author_id": "293455710",
+        "created_at": "2023-05-17T09:34:00.000Z",
+        "edit_history_tweet_ids": [
+            "1658767815241867266"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 96,
+                    "normalized_text": "ScottishPower",
+                    "probability": 0.6224,
+                    "start": 84,
+                    "type": "Organization"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "Keith Anderson",
+                    "probability": 0.9695,
+                    "start": 103,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 176,
+                    "start": 159,
+                    "tag": "energytransition"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 213,
+                    "id": "16219226",
+                    "start": 199,
+                    "username": "intelligence2"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "intelligencesquared.com/events/rethink\u2026",
+                    "end": 254,
+                    "expanded_url": "https://intelligencesquared.com/events/rethinking-the-grid/",
+                    "start": 231,
+                    "status": 200,
+                    "unwound_url": "https://www.intelligencesquared.com/events/rethinking-the-grid/",
+                    "url": "https://t.co/FVN5uA1Tcl"
+                }
+            ]
+        },
+        "id": "1658767815241867266",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2452,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Today is the DAY \ud83d\udcc5\n\nDon't miss a \ud83d\udd1d panel discussion with leading experts, including ScottishPower CEO, Keith Anderson, on why grid networks are pivotal in the #energytransition.\n\nIn partnership with @intelligence2 \ud83d\udc47\ud83c\udffb\n \n\u23f0 15:30CET\n\nhttps://t.co/FVN5uA1Tcl"
+    }
+}

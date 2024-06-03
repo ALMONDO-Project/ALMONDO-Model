@@ -1,0 +1,50 @@
+{
+    "1616126048873185281": {
+        "author_id": "109224937",
+        "created_at": "2023-01-19T17:30:50.000Z",
+        "edit_history_tweet_ids": [
+            "1616126048873185281"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 124,
+                    "normalized_text": "DirtisGood",
+                    "probability": 0.3861,
+                    "start": 115,
+                    "type": "Other"
+                },
+                {
+                    "end": 175,
+                    "normalized_text": "Unilever",
+                    "probability": 0.4311,
+                    "start": 168,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 125,
+                    "start": 114,
+                    "tag": "DirtisGood"
+                },
+                {
+                    "end": 225,
+                    "start": 211,
+                    "tag": "OurCleaFuture"
+                }
+            ]
+        },
+        "id": "1616126048873185281",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3474,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Why worry about getting clothes dirty, when you have products that are guaranteed to get them clean? \n\nThat\u2019s the #DirtisGood philosophy.  \n\nFind out how it\u2019s powering Unilever\u2019s biggest laundry brand here. \ud83d\udc47 \n\n#OurCleaFuture"
+    }
+}

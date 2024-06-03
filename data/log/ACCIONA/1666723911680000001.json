@@ -1,0 +1,71 @@
+{
+    "1666723911680000001": {
+        "author_id": "15544077",
+        "created_at": "2023-06-08T08:28:41.000Z",
+        "edit_history_tweet_ids": [
+            "1666723911680000001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Edward Burtynsky",
+                    "probability": 0.8399,
+                    "start": 35,
+                    "type": "Person"
+                },
+                {
+                    "end": 67,
+                    "normalized_text": "Studies",
+                    "probability": 0.4978,
+                    "start": 61,
+                    "type": "Other"
+                },
+                {
+                    "end": 133,
+                    "normalized_text": "AfricanStudies",
+                    "probability": 0.5451,
+                    "start": 120,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 17,
+                    "tag": "Inauguraci\u00f3nPHE"
+                },
+                {
+                    "end": 134,
+                    "start": 119,
+                    "tag": "AfricanStudies"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "169880157",
+                    "start": 3,
+                    "username": "photoespana"
+                },
+                {
+                    "end": 114,
+                    "id": "599184474",
+                    "start": 101,
+                    "username": "centrocentro"
+                }
+            ]
+        },
+        "id": "1666723911680000001",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 8
+        },
+        "text": "RT @photoespana: #Inauguraci\u00f3nPHE 'Edward Burtynsky: African Studies' \u00a1Os esperamos hoy a las 19h en @centrocentro\n\nEn #AfricanStudies el f\u2026"
+    }
+}

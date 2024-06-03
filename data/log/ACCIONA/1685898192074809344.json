@@ -1,0 +1,70 @@
+{
+    "1685898192074809344": {
+        "author_id": "15544077",
+        "created_at": "2023-07-31T06:20:26.000Z",
+        "edit_history_tweet_ids": [
+            "1685898192074809344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "Amazonas",
+                    "probability": 0.9713,
+                    "start": 66,
+                    "type": "Place"
+                },
+                {
+                    "end": 94,
+                    "normalized_text": "Imnovation",
+                    "probability": 0.4808,
+                    "start": 85,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 95,
+                    "start": 84,
+                    "tag": "Imnovation"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "1330513174630686721",
+                    "start": 3,
+                    "username": "GerardF03277799"
+                },
+                {
+                    "end": 83,
+                    "id": "15544077",
+                    "start": 75,
+                    "username": "ACCIONA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "shar.es/afPBKP",
+                    "end": 119,
+                    "expanded_url": "https://shar.es/afPBKP",
+                    "start": 96,
+                    "status": 200,
+                    "unwound_url": "https://www.imnovation-hub.com/es/sociedad/robot-planta-arboles/?twclid=2l0qy1tg78pmntgfffoxa19it&_adin=1872506581",
+                    "url": "https://t.co/7uZGBKULtG"
+                }
+            ]
+        },
+        "id": "1685898192074809344",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @GerardF03277799: Este robot planta \u00e1rboles para reforestar el Amazonas @ACCIONA #Imnovation https://t.co/7uZGBKULtG"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1664159278003781633": {
+        "author_id": "15544077",
+        "created_at": "2023-06-01T06:37:45.000Z",
+        "edit_history_tweet_ids": [
+            "1664159278003781633"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "Urbil",
+                    "probability": 0.5529,
+                    "start": 80,
+                    "type": "Place"
+                },
+                {
+                    "end": 93,
+                    "normalized_text": "Us\u00farbil",
+                    "probability": 0.6169,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 104,
+                    "normalized_text": "Guip\u00fazcoa",
+                    "probability": 0.4545,
+                    "start": 96,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "Berceo",
+                    "probability": 0.3575,
+                    "start": 108,
+                    "type": "Other"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "Logro\u00f1o",
+                    "probability": 0.4872,
+                    "start": 116,
+                    "type": "Place"
+                },
+                {
+                    "end": 137,
+                    "normalized_text": "Alcora Plaza",
+                    "probability": 0.4641,
+                    "start": 126,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "558089302",
+                    "start": 3,
+                    "username": "misslop1"
+                }
+            ]
+        },
+        "id": "1664159278003781633",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @misslop1: ACCIONA Energ\u00eda se alia con el gestor de los centros comerciales; Urbil (Us\u00farbil, Guip\u00fazcoa), Berceo (Logro\u00f1o), Alcora Plaza\u2026"
+    }
+}

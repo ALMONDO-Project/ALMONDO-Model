@@ -1,0 +1,66 @@
+{
+    "1721431074931081357": {
+        "author_id": "15544077",
+        "created_at": "2023-11-06T07:35:25.000Z",
+        "edit_history_tweet_ids": [
+            "1721431074931081357"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "LaLuzQuePermanece",
+                    "probability": 0.7902,
+                    "start": 52,
+                    "type": "Other"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "YouTube",
+                    "probability": 0.9652,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "ACCIONAtea",
+                    "probability": 0.4617,
+                    "start": 129,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 51,
+                    "tag": "LaLuzQuePermanece"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "119149081",
+                    "start": 3,
+                    "username": "cr_alvarez"
+                },
+                {
+                    "end": 86,
+                    "id": "2968051607",
+                    "start": 74,
+                    "username": "ACCIONA_ORG"
+                }
+            ]
+        },
+        "id": "1721431074931081357",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "RT @cr_alvarez: El primer episodio de la docuserie #LaLuzQuePermanece, de @acciona_org, ya est\u00e1 en YouTube. \u00a1Incre\u00edble trabajo! #ACCIONAtea\u2026"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1636383910941835269": {
+        "attachments": {
+            "poll_ids": [
+                "1636383909809369090"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-03-16T15:08:21.000Z",
+        "edit_history_tweet_ids": [
+            "1636383910941835269"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 60,
+                    "normalized_text": "DHL Global Connectedness Index 2022",
+                    "probability": 0.7319,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "DHLGCI",
+                    "probability": 0.5773,
+                    "start": 241,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 247,
+                    "start": 240,
+                    "tag": "DHLGCI"
+                },
+                {
+                    "end": 262,
+                    "start": 248,
+                    "tag": "globalization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 76,
+                    "id": "158378207",
+                    "start": 67,
+                    "username": "NYUStern"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 239,
+                    "expanded_url": "https://www.dhl.com/global-en/delivered/globalization/global-connectedness-index.html?cid=organic-social_nj8Axl",
+                    "start": 216,
+                    "status": 200,
+                    "unwound_url": "https://www.dhl.com/global-en/delivered/globalization/global-connectedness-index.html?cid=organic-social_nj8Axl",
+                    "url": "https://t.co/YyukXeNaTc"
+                }
+            ]
+        },
+        "id": "1636383910941835269",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6078,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 17,
+            "retweet_count": 3
+        },
+        "text": "Yesterday we released the DHL Global Connectedness Index 2022 with @NYUStern. What do you think are the top 2 most globalized countries? And if you\u2019re curious about how your country ranks, check out the report here:\nhttps://t.co/YyukXeNaTc #DHLGCI #globalization"
+    }
+}

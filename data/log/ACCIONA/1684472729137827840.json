@@ -1,0 +1,73 @@
+{
+    "1684472729137827840": {
+        "author_id": "15544077",
+        "created_at": "2023-07-27T07:56:09.000Z",
+        "edit_history_tweet_ids": [
+            "1684472729137827840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "Calcasieu",
+                    "probability": 0.7144,
+                    "start": 87,
+                    "type": "Place"
+                },
+                {
+                    "end": 107,
+                    "normalized_text": "Luisiana",
+                    "probability": 0.9784,
+                    "start": 100,
+                    "type": "Place"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "EEUU",
+                    "probability": 0.9255,
+                    "start": 110,
+                    "type": "Place"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.3488,
+                    "start": 118,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 129,
+                    "start": 117,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "119149081",
+                    "start": 3,
+                    "username": "cr_alvarez"
+                },
+                {
+                    "end": 25,
+                    "id": "15544077",
+                    "start": 17,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1684472729137827840",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @cr_alvarez: .@ACCIONA, seleccionada para construir y operar el puente sobre el r\u00edo Calcasieu en Luisiana (EEUU). #ACCIONAteam https://t\u2026"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1616003049092222976": {
+        "author_id": "109224937",
+        "created_at": "2023-01-19T09:22:05.000Z",
+        "edit_history_tweet_ids": [
+            "1616003049092222976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "Lesly",
+                    "probability": 0.6596,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "77335803",
+                    "start": 0,
+                    "username": "lesmakhen"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Get in touch with Unilever, find specialist teams and office locations around the world",
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 113,
+                    "expanded_url": "https://bit.ly/2o5hP73",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 90,
+                    "status": 200,
+                    "title": "Contact | Unilever",
+                    "unwound_url": "https://www.unilever.com/contact/?fbclid=IwAR3erUhj7gm7UtRyhGeo7TCmnksiGlql3piSucwsramD7dDxlv52uTb56f8",
+                    "url": "https://t.co/S1C65M0hOe"
+                }
+            ]
+        },
+        "id": "1616003049092222976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 27,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@lesmakhen Hi Lesly, thank you for reaching out to us. Please contact our care line here, https://t.co/S1C65M0hOe, and our experts will be happy to assist you with your inquiry. Thank you."
+    }
+}

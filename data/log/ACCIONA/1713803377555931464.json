@@ -1,0 +1,66 @@
+{
+    "1713803377555931464": {
+        "author_id": "15544077",
+        "created_at": "2023-10-16T06:25:40.000Z",
+        "edit_history_tweet_ids": [
+            "1713803377555931464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Instituto del Hormig\u00f3n",
+                    "probability": 0.5672,
+                    "start": 41,
+                    "type": "Other"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Australia",
+                    "probability": 0.7419,
+                    "start": 67,
+                    "type": "Place"
+                },
+                {
+                    "end": 117,
+                    "normalized_text": "Rookwood Weir",
+                    "probability": 0.6347,
+                    "start": 105,
+                    "type": "Person"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "AC",
+                    "probability": 0.4298,
+                    "start": 137,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "78269746",
+                    "start": 3,
+                    "username": "jlblasco"
+                },
+                {
+                    "end": 23,
+                    "id": "15544077",
+                    "start": 15,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1713803377555931464",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @jlblasco: .@ACCIONA, premiada por el Instituto del Hormig\u00f3n de Australia por su labor en la presa de Rookwood Weir. \u00a1Felicidades al #AC\u2026"
+    }
+}

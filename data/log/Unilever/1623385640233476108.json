@@ -1,0 +1,64 @@
+{
+    "1623385640233476108": {
+        "author_id": "109224937",
+        "created_at": "2023-02-08T18:17:52.000Z",
+        "edit_history_tweet_ids": [
+            "1623385640233476108"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 57,
+                    "normalized_text": "Sunlight",
+                    "probability": 0.931,
+                    "start": 50,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "988704236",
+                    "start": 0,
+                    "username": "mutiinta"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Get in touch with Unilever, find specialist teams and office locations around the world",
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 161,
+                    "expanded_url": "https://bit.ly/2o5hP73",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 138,
+                    "status": 200,
+                    "title": "Contact | Unilever",
+                    "unwound_url": "https://www.unilever.com/contact/?fbclid=IwAR3erUhj7gm7UtRyhGeo7TCmnksiGlql3piSucwsramD7dDxlv52uTb56f8",
+                    "url": "https://t.co/S1C65M0hOe"
+                }
+            ]
+        },
+        "id": "1623385640233476108",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 44,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@mutiinta We're happy to hear about your love for Sunlight! Please consider submitting your feedback using this form on our website here: https://t.co/S1C65M0hOe, so that we can ensure it gets to the right team. Thank you!"
+    }
+}

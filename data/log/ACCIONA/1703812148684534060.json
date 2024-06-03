@@ -1,0 +1,64 @@
+{
+    "1703812148684534060": {
+        "author_id": "15544077",
+        "created_at": "2023-09-18T16:44:06.000Z",
+        "edit_history_tweet_ids": [
+            "1703812148684534060"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Riego",
+                    "probability": 0.6544,
+                    "start": 21,
+                    "type": "Person"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.6438,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 79,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/GhG",
+                    "end": 115,
+                    "expanded_url": "https://acciona.smh.re/GhG",
+                    "start": 92,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/GhG",
+                    "url": "https://t.co/h5AwHbrNX8"
+                }
+            ]
+        },
+        "id": "1703812148684534060",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @EduardoSanjurjo: Riego fotovoltaico: la nueva alianza del campo con el sol #ACCIONAteam https://t.co/h5AwHbrNX8"
+    }
+}

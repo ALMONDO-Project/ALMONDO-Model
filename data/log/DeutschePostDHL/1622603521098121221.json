@@ -1,0 +1,73 @@
+{
+    "1622603521098121221": {
+        "attachments": {
+            "media_keys": [
+                "7_1622551337685639168"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-02-06T14:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1622603521098121221"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 227,
+                    "normalized_text": "DHLDelivered",
+                    "probability": 0.4483,
+                    "start": 216,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 52,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 228,
+                    "start": 215,
+                    "tag": "DHLDelivered"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 186,
+                    "id": "512516588",
+                    "start": 175,
+                    "username": "everstream"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 273,
+                    "expanded_url": "https://www.dhl.com/global-en/delivered/globalization/supply-chain-risks-in-2023.html?cid=organic-social_RNCx8P",
+                    "start": 250,
+                    "url": "https://t.co/HDAmgjHug0"
+                },
+                {
+                    "display_url": "pic.twitter.com/bdMEeYUJQc",
+                    "end": 297,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1622603521098121221/video/1",
+                    "media_key": "7_1622551337685639168",
+                    "start": 274,
+                    "url": "https://t.co/bdMEeYUJQc"
+                }
+            ]
+        },
+        "id": "1622603521098121221",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2603,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "Supply chains today face multiple risk factors that #logistics providers must consider in order to avoid potential disruptions. Find a full report of critical 2023 risks from @Everstream Analytics, with advice from #DHLDelivered on how to dodge them https://t.co/HDAmgjHug0 https://t.co/bdMEeYUJQc"
+    }
+}

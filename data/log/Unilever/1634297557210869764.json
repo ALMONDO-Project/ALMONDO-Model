@@ -1,0 +1,64 @@
+{
+    "1634297557210869764": {
+        "author_id": "109224937",
+        "created_at": "2023-03-10T20:57:56.000Z",
+        "edit_history_tweet_ids": [
+            "1634297557210869764"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Jobe",
+                    "probability": 0.5956,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "982961293614305280",
+                    "start": 0,
+                    "username": "Sihle19975554"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Get in touch with Unilever, find specialist teams and office locations around the world",
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 116,
+                    "expanded_url": "https://bit.ly/2o5hP73",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 93,
+                    "status": 200,
+                    "title": "Contact | Unilever",
+                    "unwound_url": "https://www.unilever.com/contact/?fbclid=IwAR3erUhj7gm7UtRyhGeo7TCmnksiGlql3piSucwsramD7dDxlv52uTb56f8",
+                    "url": "https://t.co/S1C65M0hOe"
+                }
+            ]
+        },
+        "id": "1634297557210869764",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 23,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Sihle19975554 Hi Jobe; thank you for reaching out to us. Please contact our care line here, https://t.co/S1C65M0hOe, and our team will be happy to assist you with your inquiry. Thank you."
+    }
+}

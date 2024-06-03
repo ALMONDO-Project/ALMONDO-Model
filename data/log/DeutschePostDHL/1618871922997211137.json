@@ -1,0 +1,54 @@
+{
+    "1618871922997211137": {
+        "author_id": "197352549",
+        "created_at": "2023-01-27T07:21:58.000Z",
+        "edit_history_tweet_ids": [
+            "1618871922997211137"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 171,
+                    "normalized_text": "DHLDelivered",
+                    "probability": 0.4817,
+                    "start": 160,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 130,
+                    "start": 115,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 172,
+                    "start": 159,
+                    "tag": "DHLDelivered"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 197,
+                    "expanded_url": "https://www.dhl.com/global-en/delivered/sustainability/top-trends-in-sustainable-logistics.html?cid=organic-social_UflGaa",
+                    "start": 174,
+                    "status": 200,
+                    "unwound_url": "https://www.dhl.com/global-en/delivered/sustainability/top-trends-in-sustainable-logistics.html?cid=organic-social_UflGaa",
+                    "url": "https://t.co/9Qt6i9Pgnt"
+                }
+            ]
+        },
+        "id": "1618871922997211137",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1221,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "Most of you believe that Alternative energy has the biggest impact. But what our latest Trend Report reveals about #sustainability trends in logistics here on #DHLDelivered: https://t.co/9Qt6i9Pgnt"
+    }
+}

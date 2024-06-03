@@ -1,0 +1,71 @@
+{
+    "1677945091321626625": {
+        "author_id": "15544077",
+        "created_at": "2023-07-09T07:37:39.000Z",
+        "edit_history_tweet_ids": [
+            "1677945091321626625"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "LAIA",
+                    "probability": 0.5468,
+                    "start": 76,
+                    "type": "Place"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "MATTIAS",
+                    "probability": 0.4456,
+                    "start": 114,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1333166752805638146",
+                    "start": 3,
+                    "username": "AccionaSainz"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "A new fan engagement concept, which allows the team with the most votes to select their spot on the starting line for the final race.",
+                    "display_url": "gridplay.extreme-e.com/LAIASANZ",
+                    "end": 106,
+                    "expanded_url": "https://gridplay.extreme-e.com/LAIASANZ",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1757769024077717504/qdbCSdaK?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1757769024077717504/qdbCSdaK?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 83,
+                    "status": 200,
+                    "title": "GRIDPLAY FROM EXTREME-E",
+                    "unwound_url": "https://gridplay.extreme-e.com/LAIASANZ",
+                    "url": "https://t.co/R3kH1vg4ey"
+                }
+            ]
+        },
+        "id": "1677945091321626625",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "RT @AccionaSainz: \u00a1Ay\u00fadanos a elegir posici\u00f3n de salida en la final!\nVOTA A LAIA:  https://t.co/R3kH1vg4ey\nVOTA A MATTIAS: https://t.co/cEL\u2026"
+    }
+}

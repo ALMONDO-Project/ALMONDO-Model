@@ -1,0 +1,56 @@
+{
+    "1622958358075691009": {
+        "author_id": "197352549",
+        "created_at": "2023-02-07T14:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1622958358075691009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 2,
+                    "normalized_text": "DHL",
+                    "probability": 0.592,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "Handling",
+                    "probability": 0.5054,
+                    "start": 11,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Saxony-Anhalt",
+                    "probability": 0.9177,
+                    "start": 54,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 91,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/dhl-2-mann-handling-opens-a-new-logistics-facility-in-saxony-anhalt.html",
+                    "start": 68,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/dhl-2-mann-handling-opens-a-new-logistics-facility-in-saxony-anhalt.html",
+                    "url": "https://t.co/0zhAhzOliB"
+                }
+            ]
+        },
+        "id": "1622958358075691009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1857,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "DHL 2-Mann-Handling opens a new logistics facility in Saxony-Anhalt\nhttps://t.co/0zhAhzOliB"
+    }
+}

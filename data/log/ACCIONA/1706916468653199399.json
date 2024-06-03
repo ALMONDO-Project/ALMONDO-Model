@@ -1,0 +1,59 @@
+{
+    "1706916468653199399": {
+        "author_id": "15544077",
+        "created_at": "2023-09-27T06:19:33.000Z",
+        "edit_history_tweet_ids": [
+            "1706916468653199399"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "PTAR",
+                    "probability": 0.3515,
+                    "start": 67,
+                    "type": "Other"
+                },
+                {
+                    "end": 126,
+                    "normalized_text": "Per\u00fa",
+                    "probability": 0.9788,
+                    "start": 123,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 127,
+                    "start": 122,
+                    "tag": "Per\u00fa"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "710077400139370497",
+                    "start": 3,
+                    "username": "ACCIONA_CL"
+                },
+                {
+                    "end": 96,
+                    "id": "15544077",
+                    "start": 88,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1706916468653199399",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "RT @ACCIONA_CL: Hasta la Planta de Tratamiento de Aguas Residuales PTAR Pachac\u00fatec, que @ACCIONA construye actualmente en #Per\u00fa, llegaron a\u2026"
+    }
+}

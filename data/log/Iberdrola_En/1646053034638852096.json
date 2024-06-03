@@ -1,0 +1,66 @@
+{
+    "1646053034638852096": {
+        "author_id": "293455710",
+        "created_at": "2023-04-12T07:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1646053034638852096"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "FCC",
+                    "probability": 0.9539,
+                    "start": 21,
+                    "type": "Organization"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "Glencore",
+                    "probability": 0.4564,
+                    "start": 29,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 57,
+                    "start": 49,
+                    "tag": "battery"
+                },
+                {
+                    "end": 68,
+                    "start": 58,
+                    "tag": "recycling"
+                },
+                {
+                    "end": 247,
+                    "start": 230,
+                    "tag": "energytransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "reuters.com/business/susta\u2026",
+                    "end": 272,
+                    "expanded_url": "https://www.reuters.com/business/sustainable-business/glencore-partner-with-iberdrola-fcc-ambito-lithium-ion-battery-recycling-2023-04-11/",
+                    "start": 249,
+                    "status": 200,
+                    "unwound_url": "https://www.reuters.com/business/sustainable-business/glencore-partner-with-iberdrola-fcc-ambito-lithium-ion-battery-recycling-2023-04-11/",
+                    "url": "https://t.co/6MpAREgHUp"
+                }
+            ]
+        },
+        "id": "1646053034638852096",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 6,
+            "impression_count": 593712,
+            "like_count": 415,
+            "quote_count": 5,
+            "reply_count": 20,
+            "retweet_count": 66
+        },
+        "text": "\ud83e\udd1d\ud83c\udffdNew agreement with FCC and Glencore to develop #battery #recycling solutions \ud83d\udd0b\n\n\ud83c\udfaf Our Goal: create a specialist facility supported by sector-leading technology \ud83d\ude4c\ud83c\udffd\n\nAnother step in our commitment to help decarbonize the world \ud83c\udf0e\n\n#energytransition\n\nhttps://t.co/6MpAREgHUp"
+    }
+}

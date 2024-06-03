@@ -1,0 +1,52 @@
+{
+    "1687427713680674816": {
+        "author_id": "15544077",
+        "created_at": "2023-08-04T11:38:12.000Z",
+        "edit_history_tweet_ids": [
+            "1687427713680674816"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 138,
+                    "normalized_text": "ACCI",
+                    "probability": 0.7509,
+                    "start": 135,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 90,
+                    "tag": "newsletter"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                },
+                {
+                    "end": 82,
+                    "id": "15544077",
+                    "start": 74,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1687427713680674816",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @EduardoSanjurjo: Las \u00faltimas novedades y proyectos m\u00e1s impactantes de @ACCIONA, en la #newsletter de julio\ud83d\uddd3\ufe0f No te pierdas nada \ud83d\udcf7 #ACCI\u2026"
+    }
+}

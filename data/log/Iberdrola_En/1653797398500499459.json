@@ -1,0 +1,67 @@
+{
+    "1653797398500499459": {
+        "author_id": "293455710",
+        "created_at": "2023-05-03T16:23:20.000Z",
+        "edit_history_tweet_ids": [
+            "1653797398500499459"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 115,
+                    "normalized_text": "Europe",
+                    "probability": 0.9457,
+                    "start": 110,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 186,
+                    "start": 175,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 222,
+                    "start": 205,
+                    "tag": "energytransition"
+                },
+                {
+                    "end": 239,
+                    "start": 225,
+                    "tag": "climatechange"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 99,
+                    "id": "4898091",
+                    "start": 84,
+                    "username": "FinancialTimes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ft.com/climate-leader\u2026",
+                    "end": 263,
+                    "expanded_url": "https://www.ft.com/climate-leaders-europe-2023",
+                    "start": 240,
+                    "status": 200,
+                    "unwound_url": "https://www.ft.com/climate-leaders-europe-2023",
+                    "url": "https://t.co/bOu9zuSTgr"
+                }
+            ]
+        },
+        "id": "1653797398500499459",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 15,
+            "impression_count": 2005245,
+            "like_count": 1707,
+            "quote_count": 46,
+            "reply_count": 0,
+            "retweet_count": 225
+        },
+        "text": "\u26a0\ufe0f Climate change demands URGENT action from everyone \u23e9 Proud to be included by the @FinancialTimes as one of Europe\u2019s Climate Leaders 2023\u267b\ufe0f\n\n\ud83d\udc9aLet's continue to develop more #renewables to accelerate the #energytransition.\n\n#climatechange\nhttps://t.co/bOu9zuSTgr"
+    }
+}

@@ -11,23 +11,30 @@ import glob
 from datetime import datetime
 from utils import *
 
-class TweetAlreadyDumpedException():
-    pass
+class LimitsExceededError(Exception): 
+    def __init__(self): 
+        super().__init__("Max tweet limit exceeded. Set a lower count.")
 
-#class definition
+class TweetAlreadyDumpedException(Exception): 
+    def __init__(self): 
+        super().__init__("Tweet is already saved in user directory. Moving to next one.")
+
 
 BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAB6rAEAAAAAUETTBU7ohCCUuzTnRu1VHgYw4Vk%3DN5I6Yq9m16CwhIjwHsFrYx87qsqBeHxwD1lA6bksneT5IlsIvS'
 
 class UserDataDownload():
     def __init__(self,
                  bearer_token = BEARER_TOKEN,
+                 datapath='../data',
                  username='',
                  expansions='attachments.media_keys,geo.place_id,author_id',
                  tweet_fields='text,id,attachments,created_at,lang,author_id,entities,geo,public_metrics',
                  media_fields='media_key,type,url,variants,preview_image_url',
                  user_fields='id,username,description,public_metrics,verified',
-                 start_time =datetime(year=2023, month=1, day=1, hour = 0, minute = 0, second = 0)):
+                 start_time =datetime(year=2023, month=1, day=1, hour = 0, minute = 0, second = 0),
+                 count = 0):
         # Initialize UserDataDownload object with required parameters and default values
+        self.datapath = datapath
         self.bearer_token = bearer_token
         self.username = username.replace('@', '')  # Remove '@' from username if present
         self.tweet_fields = tweet_fields.split(',')  # Split tweet fields into list
@@ -35,6 +42,9 @@ class UserDataDownload():
         self.expansions = expansions.split(',')  # Split expansions into list
         self.user_fields = user_fields.split(',')  # Split user fields into list
         self.start_time = start_time
+        self.count = count
+        if self.count > compute_max_tweets(BEARER_TOKEN):
+            raise LimitsExceededError
         
     def set_client(self, wait_on_rate_limit=True):
         # Set Twitter API client with specified parameters
@@ -50,19 +60,12 @@ class UserDataDownload():
     def make_dirs(self):
         try:
             # Create necessary directories for storing data and logs
-            self.datapath = 'data/'
             if not os.path.exists(self.datapath):
                 os.makedirs(self.datapath)
-            self.outdatapath = 'data/out'
-            if not os.path.exists(self.outdatapath):
-                os.makedirs(self.outdatapath)
-            self.useroutdatapath = f'data/out/{self.username}'
-            if not os.path.exists(self.useroutdatapath):
-                os.makedirs(self.useroutdatapath)
-            self.logpath = 'data/log'
+            self.logpath = f'{self.datapath}/log'
             if not os.path.exists(self.logpath):
                 os.makedirs(self.logpath)
-            self.userlogpath = f'data/log/{self.username}'
+            self.userlogpath = f'{self.logpath}/{self.username}'
             if not os.path.exists(self.userlogpath):
                 os.makedirs(self.userlogpath) 
             log_message('>>> necessary directories created')
@@ -73,9 +76,17 @@ class UserDataDownload():
         if not os.path.exists(f'{self.userlogpath}/{tweet.id}.json'):
             with open(f'{self.userlogpath}/{tweet.id}.json', 'w') as file:
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
-        else:
-            raise TweetAlreadyDumpedException
-        
+        elif  os.path.exists(f'{self.userlogpath}/{tweet.id}.json'):
+            try:
+                with open(f'{self.userlogpath}/{tweet.id}.json', 'r') as file:
+                    data = json.load(file)
+                    if data:
+                        raise TweetAlreadyDumpedException
+            except ValueError:
+                print('Existing file is empty.')
+                with open(f'{self.userlogpath}/{tweet.id}.json', 'w') as file:
+                    json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)
+                
     def set_limits(self, max_tweets_per_session, max_tweets_per_call=100, max_num_calls=None):
         self.max_tweets_per_session = max_tweets_per_session
         self.max_tweets_per_call = max_tweets_per_call
@@ -85,7 +96,6 @@ class UserDataDownload():
     
     def get_oldest_tweet_date(self):
         filenames = []
-        print(self.userlogpath)
         for filename in os.listdir(f'{self.userlogpath}'):
             if filename.endswith('.json') and not filename.startswith('page_meta_'):
                 filenames.append(int(filename.replace('.json', '')))
@@ -103,20 +113,20 @@ class UserDataDownload():
     
     def set_end_time(self):
         oldest_date = self.get_oldest_tweet_date()
-        print(type(oldest_date))
-        print(type(self.start_time))
         if oldest_date < self.start_time:
             raise ValueError("Tweets have been retrieved beyond 1 jan 2023")
         else:
             self.end_time = oldest_date
-
-                        
-    def set_paginator(self):        
-        self.set_end_time()   
+               
+    def set_paginator(self, end_time=None):       
+        if end_time is None: 
+            self.set_end_time()
+        else:
+            self.end_time = end_time   
         self.next_token = self.set_last_pagination_token()
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                             self.user_id,
-                            exclude = ['retweets', 'replies'],
+                            exclude = ['retweets'],
                             expansions = self.expansions,
                             tweet_fields = self.tweet_fields,
                             media_fields = self.media_fields,
@@ -152,23 +162,19 @@ class UserDataDownload():
         else:
             # If no JSON files found, return None
             return None
-        
-    def write_on_file(what, where):
-        with open(where, 'w') as file:
-            file.write(what)
-    
+            
     def get_tweets(self, page):
         if len(page.data) > 0:
             for tweet in page.data: 
-                tweet_data = {tweet.data['id']: tweet.data}
-                self.dump_tweets(tweet, tweet_data) 
+                if self.count > 0:
+                    tweet_data = {tweet.data['id']: tweet.data}
+                    self.dump_tweets(tweet, tweet_data) 
+                    self.count -= 1
+                    print(f'{self.count} tweets left to download')
         else:
             raise ValueError("No more tweets to download")
     
     def configureSession(self):
-        self.set_client()
-        self.set_user_data()
-        self.make_dirs()
         paginator = self.set_paginator()
         return paginator
         
@@ -191,4 +197,10 @@ class UserDataDownload():
         for page in paginator:
             self.save_page(page)
             self.get_tweets(page)    
-            time.sleep(2 * 60)
+            print('>>> going to sleep for 2 minutes')
+            for i in tqdm.tqdm(range(60)):
+                time.sleep(2)
+    
+    def get_count(self):
+        return self.count
+            

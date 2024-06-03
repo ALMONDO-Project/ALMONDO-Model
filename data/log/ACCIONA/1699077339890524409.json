@@ -1,0 +1,60 @@
+{
+    "1699077339890524409": {
+        "author_id": "15544077",
+        "created_at": "2023-09-05T15:09:39.000Z",
+        "edit_history_tweet_ids": [
+            "1699077339890524409"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 76,
+                    "normalized_text": "Alberto Sanz",
+                    "probability": 0.9058,
+                    "start": 65,
+                    "type": "Person"
+                },
+                {
+                    "end": 82,
+                    "normalized_text": "ICEX",
+                    "probability": 0.5537,
+                    "start": 79,
+                    "type": "Organization"
+                },
+                {
+                    "end": 98,
+                    "normalized_text": "Spain",
+                    "probability": 0.8838,
+                    "start": 94,
+                    "type": "Place"
+                },
+                {
+                    "end": 127,
+                    "normalized_text": "\u00d3scar Cantalejo",
+                    "probability": 0.6967,
+                    "start": 113,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "843788507709689856",
+                    "start": 3,
+                    "username": "StartupOle"
+                }
+            ]
+        },
+        "id": "1699077339890524409",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 5
+        },
+        "text": "RT @StartupOle: Mesa redonda \u2018Corporaciones disruptivas\u2019. Modera Alberto Sanz (ICEX-Invest in Spain). Participan \u00d3scar Cantalejo (@iberdrol\u2026"
+    }
+}

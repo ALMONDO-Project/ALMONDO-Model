@@ -1,0 +1,48 @@
+{
+    "1633168095987773440": {
+        "author_id": "109224937",
+        "created_at": "2023-03-07T18:09:51.000Z",
+        "edit_history_tweet_ids": [
+            "1633168095987773440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "John",
+                    "probability": 0.8115,
+                    "start": 17,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1022922019",
+                    "start": 0,
+                    "username": "Jaybee_74"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 127,
+                    "expanded_url": "https://bit.ly/2o5hP73",
+                    "start": 104,
+                    "url": "https://t.co/S1C65M0PDM"
+                }
+            ]
+        },
+        "id": "1633168095987773440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 88,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Jaybee_74 Hello John. We ask that you please contact our careline, using the form on our website here: https://t.co/S1C65M0PDM You will be connected to your local careline, and we will be able to better assist you! Thank you."
+    }
+}

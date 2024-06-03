@@ -1,0 +1,52 @@
+{
+    "1616116450221084672": {
+        "author_id": "109224937",
+        "created_at": "2023-01-19T16:52:42.000Z",
+        "edit_history_tweet_ids": [
+            "1616116450221084672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Thandeka",
+                    "probability": 0.5988,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1388466451682635776",
+                    "start": 0,
+                    "username": "Abundance_Nol"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "With more than 400 brands in over 100 countries, there are many prospects at Unilever. Global or local, career starters to experienced professionals.",
+                    "display_url": "unilever.com/careers",
+                    "end": 146,
+                    "expanded_url": "http://www.unilever.com/careers",
+                    "start": 123,
+                    "status": 200,
+                    "title": "Careers | Unilever",
+                    "unwound_url": "https://www.unilever.com/careers/",
+                    "url": "https://t.co/KO2XdfVHt6"
+                }
+            ]
+        },
+        "id": "1616116450221084672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 219,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Abundance_Nol Hi Thandeka, thank you for your interest in being a part of the team. Please look at our careers page here, https://t.co/KO2XdfVHt6, to see all of our openings. Good luck"
+    }
+}

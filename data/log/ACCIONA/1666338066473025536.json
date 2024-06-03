@@ -1,0 +1,52 @@
+{
+    "1666338066473025536": {
+        "author_id": "15544077",
+        "created_at": "2023-06-07T06:55:28.000Z",
+        "edit_history_tweet_ids": [
+            "1666338066473025536"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Javier Cerrudo",
+                    "probability": 0.4659,
+                    "start": 19,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Madrid",
+                    "probability": 0.5578,
+                    "start": 118,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "1554776220004487170",
+                    "start": 3,
+                    "username": "ifm_community"
+                },
+                {
+                    "end": 86,
+                    "id": "15544077",
+                    "start": 78,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1666338066473025536",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @ifm_community: Javier Cerrudo, Technical Area &amp; Innovation Manager en @ACCIONA , nos acompa\u00f1\u00f3 en el Summit de Madrid para hablarnos sob\u2026"
+    }
+}

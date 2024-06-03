@@ -1,0 +1,52 @@
+{
+    "1661649159995129856": {
+        "author_id": "15544077",
+        "created_at": "2023-05-25T08:23:26.000Z",
+        "edit_history_tweet_ids": [
+            "1661649159995129856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Academy",
+                    "probability": 0.3958,
+                    "start": 55,
+                    "type": "Other"
+                },
+                {
+                    "end": 83,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.9814,
+                    "start": 78,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 18,
+                    "id": "103793493",
+                    "start": 3,
+                    "username": "ACCIONACareers"
+                },
+                {
+                    "end": 74,
+                    "id": "15544077",
+                    "start": 66,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1661649159995129856",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @ACCIONACareers: \u00bfQuieres formar parte del Programa Academy de @ACCIONA en Espa\u00f1a? \n\nPrep\u00e1rate para tener tu primer contacto con el mund\u2026"
+    }
+}

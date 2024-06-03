@@ -1,0 +1,52 @@
+{
+    "1713569243571102077": {
+        "author_id": "15544077",
+        "created_at": "2023-10-15T14:55:18.000Z",
+        "edit_history_tweet_ids": [
+            "1713569243571102077"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "AccionaOpen",
+                    "probability": 0.3797,
+                    "start": 93,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 104,
+                    "start": 92,
+                    "tag": "AccionaOpen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1151399927626510337",
+                    "start": 3,
+                    "username": "accionaopen"
+                },
+                {
+                    "end": 48,
+                    "id": "15544077",
+                    "start": 40,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1713569243571102077",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @accionaopen: \u267b\ufe0f M\u00e1s sostenible \u267b\ufe0f \n\n@ACCIONA aplica un paquete de medidas que hacen del #AccionaOpen un torneo respetuoso con el medio\u2026"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "1618266348387438592": {
+        "author_id": "197352549",
+        "created_at": "2023-01-25T15:15:38.000Z",
+        "edit_history_tweet_ids": [
+            "1618266348387438592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 245,
+                    "normalized_text": "DHLDelivered",
+                    "probability": 0.3979,
+                    "start": 234,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 15,
+                    "start": 0,
+                    "tag": "Sustainability"
+                },
+                {
+                    "end": 184,
+                    "start": 174,
+                    "tag": "logistics"
+                },
+                {
+                    "end": 246,
+                    "start": 233,
+                    "tag": "DHLDelivered"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dhl.com/global-en/deli\u2026",
+                    "end": 271,
+                    "expanded_url": "https://www.dhl.com/global-en/delivered/sustainability/top-trends-in-sustainable-logistics.html?cid=organic-social_UflGaa",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.dhl.com/global-en/delivered/sustainability/top-trends-in-sustainable-logistics.html?cid=organic-social_UflGaa",
+                    "url": "https://t.co/9Qt6i9Pgnt"
+                }
+            ]
+        },
+        "id": "1618266348387438592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3063,
+            "like_count": 8,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "#Sustainability is a top priority for us all. But which actions can produce the biggest change for the environment? And what sustainability trends are progressing fastest in #logistics? Vote and find out what our research reveals on #DHLDelivered: https://t.co/9Qt6i9Pgnt"
+    }
+}

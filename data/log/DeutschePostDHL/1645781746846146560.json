@@ -1,0 +1,100 @@
+{
+    "1645781746846146560": {
+        "attachments": {
+            "media_keys": [
+                "7_1645721520214351872"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-04-11T13:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1645781746846146560"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 177,
+                    "normalized_text": "F1",
+                    "probability": 0.7113,
+                    "start": 176,
+                    "type": "Organization"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "DHL",
+                    "probability": 0.673,
+                    "start": 180,
+                    "type": "Organization"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "DHLF1",
+                    "probability": 0.3497,
+                    "start": 218,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 178,
+                    "start": 175,
+                    "tag": "F1"
+                },
+                {
+                    "end": 183,
+                    "start": 179,
+                    "tag": "DHL"
+                },
+                {
+                    "end": 194,
+                    "start": 184,
+                    "tag": "Logistics"
+                },
+                {
+                    "end": 204,
+                    "start": 195,
+                    "tag": "Teamwork"
+                },
+                {
+                    "end": 216,
+                    "start": 205,
+                    "tag": "Excellence"
+                },
+                {
+                    "end": 223,
+                    "start": 217,
+                    "tag": "DHLF1"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 100,
+                    "id": "69009066",
+                    "start": 91,
+                    "username": "Formula1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/9tZI5l0F6g",
+                    "end": 247,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1645781746846146560/video/1",
+                    "media_key": "7_1645721520214351872",
+                    "start": 224,
+                    "url": "https://t.co/9tZI5l0F6g"
+                }
+            ]
+        },
+        "id": "1645781746846146560",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1336,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "The ultimate team on and off the track! \ud83c\udfc1\ud83d\udcaa\ud83d\udce6 \nProud to be the Official Logistics Partner of @Formula1, helping to deliver excellence, speed and excitement around the world! \ud83c\udf0d\ud83d\ude9b #F1 #DHL #Logistics #Teamwork #Excellence #DHLF1 https://t.co/9tZI5l0F6g"
+    }
+}

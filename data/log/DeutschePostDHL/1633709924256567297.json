@@ -1,0 +1,70 @@
+{
+    "1633709924256567297": {
+        "author_id": "197352549",
+        "created_at": "2023-03-09T06:02:53.000Z",
+        "edit_history_tweet_ids": [
+            "1633709924256567297"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Deutsche Post",
+                    "probability": 0.7938,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 22,
+                    "normalized_text": "DHL Group",
+                    "probability": 0.5063,
+                    "start": 14,
+                    "type": "Organization"
+                },
+                {
+                    "end": 86,
+                    "normalized_text": "DHL",
+                    "probability": 0.5961,
+                    "start": 84,
+                    "type": "Organization"
+                },
+                {
+                    "end": 140,
+                    "normalized_text": "DPDHLresults",
+                    "probability": 0.5744,
+                    "start": 129,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 141,
+                    "start": 128,
+                    "tag": "DPDHLresults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 165,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/annual-earnings-2022-deutsche-post-dhl-group.html",
+                    "start": 142,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/annual-earnings-2022-deutsche-post-dhl-group.html",
+                    "url": "https://t.co/rMXo1nOwHk"
+                }
+            ]
+        },
+        "id": "1633709924256567297",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2292,
+            "like_count": 20,
+            "quote_count": 3,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "Deutsche Post DHL Group concludes 2022 with new records thanks to its international DHL business and is well prepared for 2023. #DPDHLresults https://t.co/rMXo1nOwHk"
+    }
+}

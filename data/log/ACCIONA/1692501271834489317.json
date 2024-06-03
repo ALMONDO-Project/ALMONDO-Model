@@ -1,0 +1,59 @@
+{
+    "1692501271834489317": {
+        "author_id": "15544077",
+        "created_at": "2023-08-18T11:38:43.000Z",
+        "edit_history_tweet_ids": [
+            "1692501271834489317"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 122,
+                    "normalized_text": "Canad\u00e1",
+                    "probability": 0.9343,
+                    "start": 117,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.678,
+                    "start": 125,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 136,
+                    "start": 124,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                },
+                {
+                    "end": 75,
+                    "id": "1410478206604488704",
+                    "start": 60,
+                    "username": "ACCIONAEnergia"
+                }
+            ]
+        },
+        "id": "1692501271834489317",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @EduardoSanjurjo: Es una de las noticias del verano para @ACCIONAEnergia. Construye un nuevo proyecto de 280MW en Canad\u00e1 #ACCIONAteam ht\u2026"
+    }
+}

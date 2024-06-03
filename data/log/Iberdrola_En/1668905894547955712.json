@@ -1,0 +1,93 @@
+{
+    "1668905894547955712": {
+        "author_id": "293455710",
+        "created_at": "2023-06-14T08:59:06.000Z",
+        "edit_history_tweet_ids": [
+            "1668905894547955712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "netzero",
+                    "probability": 0.5425,
+                    "start": 50,
+                    "type": "Other"
+                },
+                {
+                    "end": 123,
+                    "normalized_text": "Puertollano",
+                    "probability": 0.8418,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 130,
+                    "normalized_text": "Spain",
+                    "probability": 0.9397,
+                    "start": 126,
+                    "type": "Place"
+                },
+                {
+                    "end": 159,
+                    "normalized_text": "Europe",
+                    "probability": 0.9506,
+                    "start": 154,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 26,
+                    "start": 8,
+                    "tag": "RenewableHydrogen"
+                },
+                {
+                    "end": 57,
+                    "start": 49,
+                    "tag": "netzero"
+                },
+                {
+                    "end": 216,
+                    "start": 205,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 246,
+                    "start": 232,
+                    "tag": "GreenHydrogen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 81,
+                    "id": "18949452",
+                    "start": 78,
+                    "username": "FT"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/v7UwbJ8n9L0?t=\u2026",
+                    "end": 271,
+                    "expanded_url": "https://youtu.be/v7UwbJ8n9L0?t=26",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?t=26&v=v7UwbJ8n9L0&feature=youtu.be",
+                    "url": "https://t.co/DKoKrnoIxI"
+                }
+            ]
+        },
+        "id": "1668905894547955712",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 3469,
+            "like_count": 151,
+            "quote_count": 9,
+            "reply_count": 6,
+            "retweet_count": 20
+        },
+        "text": "How can #RenewableHydrogen\ud83d\udd0b help the world reach #netzero? \n\n\ud83d\udcfaDon't miss this @FT film featuring our facility in Puertollano, Spain. The largest plant in Europe. \n\nLet's continue leading the REVOLUTION of #renewables, together with #GreenHydrogen\ud83d\udc9a\nhttps://t.co/DKoKrnoIxI"
+    }
+}

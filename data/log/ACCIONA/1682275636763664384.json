@@ -1,0 +1,53 @@
+{
+    "1682275636763664384": {
+        "author_id": "15544077",
+        "created_at": "2023-07-21T06:25:41.000Z",
+        "edit_history_tweet_ids": [
+            "1682275636763664384"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 103,
+                    "normalized_text": "Filipinas",
+                    "probability": 0.9582,
+                    "start": 95,
+                    "type": "Place"
+                },
+                {
+                    "end": 116,
+                    "normalized_text": "East Bay 2",
+                    "probability": 0.9277,
+                    "start": 107,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 91,
+                    "start": 76,
+                    "tag": "potabilizadora"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "1582012471",
+                    "start": 3,
+                    "username": "agalavillares"
+                }
+            ]
+        },
+        "id": "1682275636763664384",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @agalavillares: \u00a1Buenas noticias! Llevamos a cabo nuestra tercera planta #potabilizadora en Filipinas ''East Bay 2'', y su posterior ope\u2026"
+    }
+}

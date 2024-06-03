@@ -1,0 +1,60 @@
+{
+    "1683736647186231298": {
+        "author_id": "15544077",
+        "created_at": "2023-07-25T07:11:13.000Z",
+        "edit_history_tweet_ids": [
+            "1683736647186231298"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "ParqueE\u00f3lico",
+                    "probability": 0.6084,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 120,
+                    "normalized_text": "Juan de Marcona",
+                    "probability": 0.6161,
+                    "start": 106,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Per\u00fa",
+                    "probability": 0.9796,
+                    "start": 126,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 88,
+                    "tag": "ParqueE\u00f3lico"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "944686582019354624",
+                    "start": 3,
+                    "username": "Amanda_SandN"
+                }
+            ]
+        },
+        "id": "1683736647186231298",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @Amanda_SandN: As\u00ed de impresionante es el transporte de las palas que conformar\u00e1n el #ParqueE\u00f3lico San Juan de Marcona, en Per\u00fa. \u00bfConoc\u00ed\u2026"
+    }
+}

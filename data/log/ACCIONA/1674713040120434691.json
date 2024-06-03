@@ -1,0 +1,46 @@
+{
+    "1674713040120434691": {
+        "author_id": "15544077",
+        "created_at": "2023-06-30T09:34:38.000Z",
+        "edit_history_tweet_ids": [
+            "1674713040120434691"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 63,
+                    "normalized_text": "AcademyACCIONA",
+                    "probability": 0.7536,
+                    "start": 50,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 64,
+                    "start": 49,
+                    "tag": "AcademyACCIONA"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "280027788",
+                    "start": 3,
+                    "username": "javiercerrudo"
+                }
+            ]
+        },
+        "id": "1674713040120434691",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @javiercerrudo: \u00bfQuieres vivir la experiencia #AcademyACCIONA? \ud83d\udc40 \n\nUn programa que impulsa el talento joven, adapt\u00e1ndose a tus necesidad\u2026"
+    }
+}

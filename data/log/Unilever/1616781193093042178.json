@@ -1,0 +1,64 @@
+{
+    "1616781193093042178": {
+        "author_id": "109224937",
+        "created_at": "2023-01-21T12:54:09.000Z",
+        "edit_history_tweet_ids": [
+            "1616781193093042178"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "Heena",
+                    "probability": 0.4898,
+                    "start": 15,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1076155290",
+                    "start": 0,
+                    "username": "PlantShift"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Get in touch with Unilever, find specialist teams and office locations around the world",
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 114,
+                    "expanded_url": "https://bit.ly/2o5hP73",
+                    "images": [
+                        {
+                            "height": 1080,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=orig",
+                            "width": 1920
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1770454231322931200/KL8c21hh?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 91,
+                    "status": 200,
+                    "title": "Contact | Unilever",
+                    "unwound_url": "https://www.unilever.com/contact/?fbclid=IwAR3erUhj7gm7UtRyhGeo7TCmnksiGlql3piSucwsramD7dDxlv52uTb56f8",
+                    "url": "https://t.co/S1C65M0hOe"
+                }
+            ]
+        },
+        "id": "1616781193093042178",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 39,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@PlantShift Hi Heena, thank you for reaching out to us. Please contact our care line here, https://t.co/S1C65M0hOe, and our team will be happy to assist you with your inquiry. Thank you."
+    }
+}

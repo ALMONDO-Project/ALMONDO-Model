@@ -1,0 +1,70 @@
+{
+    "1661315603301568512": {
+        "author_id": "293455710",
+        "created_at": "2023-05-24T10:18:00.000Z",
+        "edit_history_tweet_ids": [
+            "1661315603301568512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "Germany",
+                    "probability": 0.869,
+                    "start": 83,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "Baltic Eagle",
+                    "probability": 0.582,
+                    "start": 162,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 188,
+                    "start": 175,
+                    "tag": "offshorewind"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Spanish energy company\u00a0Iberdrola has signed a power purchase agreement (PPA) with Switzerland-headquartered Holcim for electricity generated at the Baltic Eagle offshore wind farm currently under construction in the German Baltic Sea.",
+                    "display_url": "offshorewind.biz/2023/05/24/ibe\u2026",
+                    "end": 262,
+                    "expanded_url": "https://www.offshorewind.biz/2023/05/24/iberdrola-and-holcim-sign-baltic-eagle-power-deal/",
+                    "images": [
+                        {
+                            "height": 475,
+                            "url": "https://pbs.twimg.com/news_img/1795278368432406529/MoxRfep_?format=jpg&name=orig",
+                            "width": 664
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1795278368432406529/MoxRfep_?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 239,
+                    "status": 200,
+                    "title": "Iberdrola and Holcim Sign Baltic Eagle Power Deal",
+                    "unwound_url": "https://www.offshorewind.biz/2023/05/24/iberdrola-and-holcim-sign-baltic-eagle-power-deal/",
+                    "url": "https://t.co/xQOWCMAhGd"
+                }
+            ]
+        },
+        "id": "1661315603301568512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 9,
+            "impression_count": 20740,
+            "like_count": 1910,
+            "quote_count": 19,
+            "reply_count": 1,
+            "retweet_count": 197
+        },
+        "text": "\ud835\udc6e\ud835\udc93\ud835\udc86\ud835\udc86\ud835\udc8f \ud835\udc86\ud835\udc8f\ud835\udc86\ud835\udc93\ud835\udc88\ud835\udc9a \ud83c\udf3f  for the construction materials industry \ud83d\udc49 New contract with Holcim Germany for the supply of 250 GWh over 15 years\n\nThe energy will come from our Baltic Eagle #offshorewind farm \u23e9 The first monopiles are already in place \ud83c\udf0a\nhttps://t.co/xQOWCMAhGd"
+    }
+}

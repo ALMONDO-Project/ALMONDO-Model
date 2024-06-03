@@ -1,0 +1,45 @@
+{
+    "1688857412080447488": {
+        "author_id": "15544077",
+        "created_at": "2023-08-08T10:19:19.000Z",
+        "edit_history_tweet_ids": [
+            "1688857412080447488"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 120,
+                    "normalized_text": "Chile",
+                    "probability": 0.9804,
+                    "start": 116,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "234043915",
+                    "start": 3,
+                    "username": "Renata_RAlves"
+                },
+                {
+                    "end": 66,
+                    "id": "2968051607",
+                    "start": 54,
+                    "username": "ACCIONA_ORG"
+                }
+            ]
+        },
+        "id": "1688857412080447488",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @Renata_RAlves: \u00a1Buenas noticias para la fundaci\u00f3n @acciona_org! Acaba de anunciar su primer proyecto de agua en Chile. Conoce los detal\u2026"
+    }
+}
