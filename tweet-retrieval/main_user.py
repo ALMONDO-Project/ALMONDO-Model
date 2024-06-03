@@ -35,4 +35,4 @@ def main(count, username):
         return
          
 if __name__ == "__main__":
-    main(291, 'heineken')
+    main(0, 'heineken')
