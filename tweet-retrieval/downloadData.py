@@ -116,7 +116,7 @@ class UserDataDownload():
         self.next_token = self.set_last_pagination_token()
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                             self.user_id,
-                            exclude = ['retweets'],
+                            exclude = ['retweets', 'replies'],
                             expansions = self.expansions,
                             tweet_fields = self.tweet_fields,
                             media_fields = self.media_fields,
