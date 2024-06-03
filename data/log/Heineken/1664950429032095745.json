@@ -1,0 +1,79 @@
+{
+    "1664950429032095745": {
+        "attachments": {
+            "media_keys": [
+                "7_1664950370546663424"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-06-03T11:01:30.000Z",
+        "edit_history_tweet_ids": [
+            "1664950429032095745"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "UEFA Women",
+                    "probability": 0.7516,
+                    "start": 10,
+                    "type": "Other"
+                },
+                {
+                    "end": 21,
+                    "normalized_text": "s",
+                    "probability": 0.5268,
+                    "start": 21,
+                    "type": "Other"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "champions League Final",
+                    "probability": 0.7054,
+                    "start": 23,
+                    "type": "Other"
+                },
+                {
+                    "end": 73,
+                    "normalized_text": "WUCLFinal",
+                    "probability": 0.5005,
+                    "start": 65,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 63,
+                    "start": 47,
+                    "tag": "CheersToAllFans"
+                },
+                {
+                    "end": 74,
+                    "start": 64,
+                    "tag": "WUCLFinal"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/eY2dMjJ6aa",
+                    "end": 98,
+                    "expanded_url": "https://twitter.com/Heineken/status/1664950429032095745/video/1",
+                    "media_key": "7_1664950370546663424",
+                    "start": 75,
+                    "url": "https://t.co/eY2dMjJ6aa"
+                }
+            ]
+        },
+        "id": "1664950429032095745",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7393,
+            "like_count": 34,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 8
+        },
+        "text": "Enjoy the UEFA Women\u2019s champions League Final! #CheersToAllFans #WUCLFinal https://t.co/eY2dMjJ6aa"
+    }
+}

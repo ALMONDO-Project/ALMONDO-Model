@@ -31,7 +31,8 @@ class UserDataDownload():
                  tweet_fields='text,id,attachments,created_at,lang,author_id,entities,geo,public_metrics',
                  media_fields='media_key,type,url,variants,preview_image_url',
                  user_fields='id,username,description,public_metrics,verified',
-                 start_time =datetime(year=2023, month=1, day=1, hour = 0, minute = 0, second = 0),
+                 start_time =None,
+                 end_time = None,
                  count = 0):
         # Initialize UserDataDownload object with required parameters and default values
         self.datapath = datapath
@@ -42,6 +43,7 @@ class UserDataDownload():
         self.expansions = expansions.split(',')  # Split expansions into list
         self.user_fields = user_fields.split(',')  # Split user fields into list
         self.start_time = start_time
+        self.end_time = end_time
         self.count = count
         if self.count > compute_max_tweets(BEARER_TOKEN):
             raise LimitsExceededError
@@ -118,11 +120,15 @@ class UserDataDownload():
         else:
             self.end_time = oldest_date
                
-    def set_paginator(self, end_time=None):       
+    def set_paginator(self, start_time=None, end_time=None):       
         if end_time is None: 
             self.set_end_time()
         else:
             self.end_time = end_time   
+        if start_time is None: 
+            self.start_time = datetime(2023,1,1,0,0)
+        else:
+            self.start_time = start_time  
         self.next_token = self.set_last_pagination_token()
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                             self.user_id,

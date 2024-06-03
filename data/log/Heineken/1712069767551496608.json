@@ -1,0 +1,39 @@
+{
+    "1712069767551496608": {
+        "author_id": "29191062",
+        "created_at": "2023-10-11T11:36:55.000Z",
+        "edit_history_tweet_ids": [
+            "1712069767551496608"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "Heineken Silver",
+                    "probability": 0.8366,
+                    "start": 37,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1563209620386385920",
+                    "start": 0,
+                    "username": "chekwaphiri"
+                }
+            ]
+        },
+        "id": "1712069767551496608",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 103,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@chekwaphiri Thanks for the love for Heineken Silver! \ud83c\udf7b"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1712798418806972505": {
+        "attachments": {
+            "media_keys": [
+                "7_1712796177018519552"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-10-13T11:52:19.000Z",
+        "edit_history_tweet_ids": [
+            "1712798418806972505"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "walkingintoworklike",
+                    "probability": 0.5988,
+                    "start": 43,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 62,
+                    "start": 42,
+                    "tag": "walkingintoworklike"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/zb0WLu7SfB",
+                    "end": 86,
+                    "expanded_url": "https://twitter.com/Heineken/status/1712798418806972505/video/1",
+                    "media_key": "7_1712796177018519552",
+                    "start": 63,
+                    "url": "https://t.co/zb0WLu7SfB"
+                }
+            ]
+        },
+        "id": "1712798418806972505",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10734,
+            "like_count": 29,
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 6
+        },
+        "text": "When my mind is already at that first sip #walkingintoworklike https://t.co/zb0WLu7SfB"
+    }
+}

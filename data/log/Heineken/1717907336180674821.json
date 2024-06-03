@@ -1,0 +1,45 @@
+{
+    "1717907336180674821": {
+        "author_id": "29191062",
+        "created_at": "2023-10-27T14:13:20.000Z",
+        "edit_history_tweet_ids": [
+            "1717907336180674821"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Champions League",
+                    "probability": 0.9697,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1418819670",
+                    "start": 0,
+                    "username": "tholudee"
+                },
+                {
+                    "end": 26,
+                    "id": "627673190",
+                    "start": 10,
+                    "username": "ChampionsLeague"
+                }
+            ]
+        },
+        "id": "1717907336180674821",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1472,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@tholudee @ChampionsLeague We had a fantastic week of Champions League, yep!"
+    }
+}

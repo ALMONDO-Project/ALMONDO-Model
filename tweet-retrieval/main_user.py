@@ -23,7 +23,7 @@ def main(count, username):
         user_data.set_client()
         user_data.set_user_data()
         user_data.make_dirs()
-        user_data.set_paginator()
+        user_data.set_paginator(start_time = datetime(2023,1,1), end_time = datetime(2023,11,5))
         user_data.download_user_tweets()
         count = user_data.get_count()
         print(f'tweets left to download:', count)
@@ -35,4 +35,4 @@ def main(count, username):
         return
          
 if __name__ == "__main__":
-    main(293, 'DeutschePostDHL')
+    main(291, 'heineken')

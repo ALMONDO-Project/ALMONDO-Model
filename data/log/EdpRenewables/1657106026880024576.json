@@ -1,0 +1,110 @@
+{
+    "1657106026880024576": {
+        "attachments": {
+            "media_keys": [
+                "3_1657105998413287437",
+                "3_1657106009528082432",
+                "3_1657106018839547912"
+            ]
+        },
+        "author_id": "1112667704010436609",
+        "created_at": "2023-05-12T19:30:39.000Z",
+        "edit_history_tweet_ids": [
+            "1657106026880024576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 71,
+                    "normalized_text": "Windfloat Atlantic",
+                    "probability": 0.4572,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": "EDPWeChooseEarth",
+                    "probability": 0.3356,
+                    "start": 218,
+                    "type": "Other"
+                },
+                {
+                    "end": 246,
+                    "normalized_text": "EUGreenDeal",
+                    "probability": 0.3736,
+                    "start": 236,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 234,
+                    "start": 217,
+                    "tag": "EDPWeChooseEarth"
+                },
+                {
+                    "end": 247,
+                    "start": 235,
+                    "tag": "EUGreenDeal"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 36,
+                    "id": "23951122",
+                    "start": 24,
+                    "username": "KadriSimson"
+                },
+                {
+                    "end": 168,
+                    "id": "1054715566156644354",
+                    "start": 154,
+                    "username": "europeanunion"
+                },
+                {
+                    "end": 262,
+                    "id": "157981564",
+                    "start": 248,
+                    "username": "EU_Commission"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/GH70JPnYoL",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1657106026880024576/photo/1",
+                    "media_key": "3_1657105998413287437",
+                    "start": 263,
+                    "url": "https://t.co/GH70JPnYoL"
+                },
+                {
+                    "display_url": "pic.twitter.com/GH70JPnYoL",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1657106026880024576/photo/1",
+                    "media_key": "3_1657106009528082432",
+                    "start": 263,
+                    "url": "https://t.co/GH70JPnYoL"
+                },
+                {
+                    "display_url": "pic.twitter.com/GH70JPnYoL",
+                    "end": 286,
+                    "expanded_url": "https://twitter.com/EdpRenewables/status/1657106026880024576/photo/1",
+                    "media_key": "3_1657106018839547912",
+                    "start": 263,
+                    "url": "https://t.co/GH70JPnYoL"
+                }
+            ]
+        },
+        "id": "1657106026880024576",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4132,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 0
+        },
+        "text": "Thank you, commissioner @KadriSimson for visiting our Windfloat Atlantic, after an insightful discussion of the importance of renewables in achieving the @europeanunion climate goals, to which EDP is fully committed.\n#EDPWeChooseEarth #EUGreenDeal @EU_Commission https://t.co/GH70JPnYoL"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "1716354792774058379": {
+        "author_id": "29191062",
+        "created_at": "2023-10-23T07:24:05.000Z",
+        "edit_history_tweet_ids": [
+            "1716354792774058379"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 56,
+                    "normalized_text": "Max",
+                    "probability": 0.5677,
+                    "start": 54,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "556260847",
+                    "start": 0,
+                    "username": "Max33Verstappen"
+                },
+                {
+                    "end": 31,
+                    "id": "226087776",
+                    "start": 17,
+                    "username": "redbullracing"
+                }
+            ]
+        },
+        "id": "1716354792774058379",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3181,
+            "like_count": 19,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Max33Verstappen @redbullracing Nice number, congrats Max!"
+    }
+}

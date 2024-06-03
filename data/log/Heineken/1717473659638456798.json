@@ -1,0 +1,45 @@
+{
+    "1717473659638456798": {
+        "author_id": "29191062",
+        "created_at": "2023-10-26T09:30:04.000Z",
+        "edit_history_tweet_ids": [
+            "1717473659638456798"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Sehun",
+                    "probability": 0.6753,
+                    "start": 46,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "2763667308",
+                    "start": 0,
+                    "username": "yeppichorong"
+                },
+                {
+                    "end": 26,
+                    "id": "873115441303924736",
+                    "start": 14,
+                    "username": "weareoneEXO"
+                }
+            ]
+        },
+        "id": "1717473659638456798",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 124,
+            "impression_count": 359731,
+            "like_count": 4549,
+            "quote_count": 388,
+            "reply_count": 47,
+            "retweet_count": 2315
+        },
+        "text": "@yeppichorong @weareoneEXO We are siding with Sehun"
+    }
+}
