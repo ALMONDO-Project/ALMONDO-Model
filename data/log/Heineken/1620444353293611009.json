@@ -1,0 +1,39 @@
+{
+    "1620444353293611009": {
+        "author_id": "29191062",
+        "created_at": "2023-01-31T15:30:14.000Z",
+        "edit_history_tweet_ids": [
+            "1620444353293611009"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Meimei",
+                    "probability": 0.671,
+                    "start": 45,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1503247463695925252",
+                    "start": 0,
+                    "username": "truckmeimei"
+                }
+            ]
+        },
+        "id": "1620444353293611009",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 541,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@truckmeimei Enjoy the food together, cheers Meimei! \ud83c\udf7b"
+    }
+}

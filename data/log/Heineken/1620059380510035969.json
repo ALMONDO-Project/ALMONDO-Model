@@ -1,0 +1,66 @@
+{
+    "1620059380510035969": {
+        "attachments": {
+            "media_keys": [
+                "7_1620058657894420483"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-30T14:00:30.000Z",
+        "edit_history_tweet_ids": [
+            "1620059380510035969"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "GreenComet",
+                    "probability": 0.3669,
+                    "start": 23,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 33,
+                    "start": 22,
+                    "tag": "GreenComet"
+                },
+                {
+                    "end": 52,
+                    "start": 35,
+                    "tag": "ForAFresherWorld"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 5,
+                    "id": "11348282",
+                    "start": 0,
+                    "username": "NASA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/psJifVmAgH",
+                    "end": 76,
+                    "expanded_url": "https://twitter.com/Heineken/status/1620059380510035969/video/1",
+                    "media_key": "7_1620058657894420483",
+                    "start": 53,
+                    "url": "https://t.co/psJifVmAgH"
+                }
+            ]
+        },
+        "id": "1620059380510035969",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1367,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "@Nasa is this on us? \n#GreenComet \n#ForAFresherWorld https://t.co/psJifVmAgH"
+    }
+}

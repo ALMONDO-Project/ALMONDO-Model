@@ -1,0 +1,65 @@
+{
+    "1625555478536409092": {
+        "attachments": {
+            "media_keys": [
+                "7_1625079839039397891"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-02-14T18:00:02.000Z",
+        "edit_history_tweet_ids": [
+            "1625555478536409092"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "UCL",
+                    "probability": 0.7916,
+                    "start": 33,
+                    "type": "Other"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "ValentinesDay",
+                    "probability": 0.6375,
+                    "start": 38,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 32,
+                    "tag": "UCL"
+                },
+                {
+                    "end": 51,
+                    "start": 37,
+                    "tag": "ValentinesDay"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/innrJd1VKl",
+                    "end": 75,
+                    "expanded_url": "https://twitter.com/Heineken/status/1625555478536409092/video/1",
+                    "media_key": "7_1625079839039397891",
+                    "start": 52,
+                    "url": "https://t.co/innrJd1VKl"
+                }
+            ]
+        },
+        "id": "1625555478536409092",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 54746,
+            "like_count": 87,
+            "quote_count": 12,
+            "reply_count": 542,
+            "retweet_count": 15
+        },
+        "text": "Enjoy the best of both worlds. \n#UCL #ValentinesDay https://t.co/innrJd1VKl"
+    }
+}

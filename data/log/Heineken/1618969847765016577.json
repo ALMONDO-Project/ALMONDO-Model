@@ -1,0 +1,39 @@
+{
+    "1618969847765016577": {
+        "author_id": "29191062",
+        "created_at": "2023-01-27T13:51:05.000Z",
+        "edit_history_tweet_ids": [
+            "1618969847765016577"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Heineken",
+                    "probability": 0.9407,
+                    "start": 28,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "1191788225041444869",
+                    "start": 0,
+                    "username": "svtmen"
+                }
+            ]
+        },
+        "id": "1618969847765016577",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 892,
+            "like_count": 2,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@svtmen Imagine them on the Heineken bikes \ud83e\udd23"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1618632339298603010": {
+        "author_id": "29191062",
+        "created_at": "2023-01-26T15:29:57.000Z",
+        "edit_history_tweet_ids": [
+            "1618632339298603010"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Heineken Silver",
+                    "probability": 0.4702,
+                    "start": 21,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "95211986",
+                    "start": 0,
+                    "username": "Oinx_roy"
+                }
+            ]
+        },
+        "id": "1618632339298603010",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 314,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Oinx_roy Enjoy your Heineken Silver! \ud83d\ude0e"
+    }
+}
