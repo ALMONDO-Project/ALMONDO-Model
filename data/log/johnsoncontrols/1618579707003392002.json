@@ -1,0 +1,60 @@
+{
+    "1618579707003392002": {
+        "attachments": {
+            "media_keys": [
+                "3_1618579705799507974"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-26T12:00:48.000Z",
+        "edit_history_tweet_ids": [
+            "1618579707003392002"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 64,
+                    "normalized_text": "Forrester",
+                    "probability": 0.4064,
+                    "start": 56,
+                    "type": "Organization"
+                },
+                {
+                    "end": 114,
+                    "normalized_text": "Johnson Controls",
+                    "probability": 0.5901,
+                    "start": 99,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3XS1T2Y",
+                    "end": 275,
+                    "expanded_url": "https://on.jci.com/3XS1T2Y",
+                    "start": 252,
+                    "url": "https://t.co/50axCOi8Fb"
+                },
+                {
+                    "display_url": "pic.twitter.com/cBf6IugOP6",
+                    "end": 299,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1618579707003392002/photo/1",
+                    "media_key": "3_1618579705799507974",
+                    "start": 276,
+                    "url": "https://t.co/cBf6IugOP6"
+                }
+            ]
+        },
+        "id": "1618579707003392002",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 582,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "72% of respondents in a commissioned study conducted by Forrester, developed in collaboration with Johnson Controls, indicated that implementing or maturing their sustainability programs is not only a top priority but has also increased in importance: https://t.co/50axCOi8Fb https://t.co/cBf6IugOP6"
+    }
+}

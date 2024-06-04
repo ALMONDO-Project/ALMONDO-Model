@@ -1,0 +1,64 @@
+{
+    "1706276752991871115": {
+        "author_id": "15544077",
+        "created_at": "2023-09-25T11:57:33.000Z",
+        "edit_history_tweet_ids": [
+            "1706276752991871115"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 70,
+                    "normalized_text": "ForwardFaster2023",
+                    "probability": 0.8703,
+                    "start": 54,
+                    "type": "Other"
+                },
+                {
+                    "end": 112,
+                    "normalized_text": "ODS",
+                    "probability": 0.4999,
+                    "start": 110,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 71,
+                    "start": 53,
+                    "tag": "ForwardFaster2023"
+                },
+                {
+                    "end": 113,
+                    "start": 109,
+                    "tag": "ODS"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "280027788",
+                    "start": 3,
+                    "username": "javiercerrudo"
+                },
+                {
+                    "end": 28,
+                    "id": "15544077",
+                    "start": 20,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1706276752991871115",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @javiercerrudo: .@ACCIONA se suma a la iniciativa #ForwardFaster2023, para acelerar la consecuci\u00f3n de los #ODS. La compa\u00f1\u00eda se ha compro\u2026"
+    }
+}

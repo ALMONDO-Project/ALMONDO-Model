@@ -1,0 +1,53 @@
+{
+    "1673583118828158976": {
+        "author_id": "15544077",
+        "created_at": "2023-06-27T06:44:43.000Z",
+        "edit_history_tweet_ids": [
+            "1673583118828158976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Castilla",
+                    "probability": 0.6929,
+                    "start": 20,
+                    "type": "Place"
+                },
+                {
+                    "end": 34,
+                    "normalized_text": "Le\u00f3n",
+                    "probability": 0.6031,
+                    "start": 31,
+                    "type": "Place"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.942,
+                    "start": 37,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "152451165",
+                    "start": 0,
+                    "username": "raulitolindo"
+                }
+            ]
+        },
+        "id": "1673583118828158976",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1447,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 0
+        },
+        "text": "@raulitolindo Es en Castilla y Le\u00f3n, Espa\u00f1a :)"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "1681551132353523712": {
+        "author_id": "15544077",
+        "created_at": "2023-07-19T06:26:46.000Z",
+        "edit_history_tweet_ids": [
+            "1681551132353523712"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 69,
+                    "normalized_text": "Embalse Car\u00e9n",
+                    "probability": 0.6702,
+                    "start": 57,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "710077400139370497",
+                    "start": 3,
+                    "username": "ACCIONA_CL"
+                },
+                {
+                    "end": 82,
+                    "id": "15544077",
+                    "start": 74,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1681551132353523712",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @ACCIONA_CL: Trabajadores y trabajadoras del proyecto Embalse Car\u00e9n de @ACCIONA, apoyaron con una donaci\u00f3n de tapitas para la campa\u00f1a \u201cJ\u2026"
+    }
+}

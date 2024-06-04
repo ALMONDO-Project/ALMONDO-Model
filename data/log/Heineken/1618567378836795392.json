@@ -1,0 +1,45 @@
+{
+    "1618567378836795392": {
+        "author_id": "29191062",
+        "created_at": "2023-01-26T11:11:49.000Z",
+        "edit_history_tweet_ids": [
+            "1618567378836795392"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "Checo",
+                    "probability": 0.7636,
+                    "start": 44,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "226087776",
+                    "start": 0,
+                    "username": "redbullracing"
+                },
+                {
+                    "end": 27,
+                    "id": "78502161",
+                    "start": 15,
+                    "username": "SChecoPerez"
+                }
+            ]
+        },
+        "id": "1618567378836795392",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4910,
+            "like_count": 92,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "@redbullracing @SChecoPerez Happy birthday, Checo! \ud83c\udf89"
+    }
+}

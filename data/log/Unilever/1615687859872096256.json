@@ -1,0 +1,48 @@
+{
+    "1615687859872096256": {
+        "author_id": "109224937",
+        "created_at": "2023-01-18T12:29:38.000Z",
+        "edit_history_tweet_ids": [
+            "1615687859872096256"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Michael",
+                    "probability": 0.7095,
+                    "start": 39,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "2164126967",
+                    "start": 0,
+                    "username": "usaflourish"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 128,
+                    "expanded_url": "http://bit.ly/2o5hP73",
+                    "start": 105,
+                    "url": "https://t.co/A4Ao6jTyLW"
+                }
+            ]
+        },
+        "id": "1615687859872096256",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 30,
+            "like_count": 0,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@usaflourish We're sorry to hear this, Michael. We ask that you please contact your local careline here: https://t.co/A4Ao6jTyLW. You'll be connected to the right team, and they'll be able to better assist you."
+    }
+}

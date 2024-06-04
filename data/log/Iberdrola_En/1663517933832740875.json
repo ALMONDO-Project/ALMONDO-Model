@@ -1,0 +1,66 @@
+{
+    "1663517933832740875": {
+        "author_id": "293455710",
+        "created_at": "2023-05-30T12:09:16.000Z",
+        "edit_history_tweet_ids": [
+            "1663517933832740875"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 93,
+                    "normalized_text": "Vineyard Wind",
+                    "probability": 0.5436,
+                    "start": 81,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "US",
+                    "probability": 0.9594,
+                    "start": 121,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 183,
+                    "tag": "renewables"
+                },
+                {
+                    "end": 208,
+                    "start": 195,
+                    "tag": "offshorewind"
+                },
+                {
+                    "end": 222,
+                    "start": 209,
+                    "tag": "biodiversity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "offshorewind.biz/2023/05/12/vin\u2026",
+                    "end": 248,
+                    "expanded_url": "https://www.offshorewind.biz/2023/05/12/vineyard-wind-to-deploy-us-based-suppliers-bubble-curtain-during-foundation-installation/",
+                    "start": 225,
+                    "status": 200,
+                    "unwound_url": "https://www.offshorewind.biz/2023/05/12/vineyard-wind-to-deploy-us-based-suppliers-bubble-curtain-during-foundation-installation/",
+                    "url": "https://t.co/BIGNBx4b18"
+                }
+            ]
+        },
+        "id": "1663517933832740875",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 7,
+            "impression_count": 2269,
+            "like_count": 679,
+            "quote_count": 7,
+            "reply_count": 7,
+            "retweet_count": 80
+        },
+        "text": "Protecting marine biodiversity \ud83c\udf0a\ud83d\udc2c\n\n\ud83d\udcaa\ud83c\udffd Bubble curtain pilot programme launched at Vineyard Wind offshore wind farm in the US.\n\nThey will reduce noise during foundation installation \u2705\n\n#renewables #offshorewind #biodiversity \n\nhttps://t.co/BIGNBx4b18"
+    }
+}

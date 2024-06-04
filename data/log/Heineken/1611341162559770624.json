@@ -1,0 +1,46 @@
+{
+    "1611341162559770624": {
+        "author_id": "29191062",
+        "created_at": "2023-01-06T12:37:25.000Z",
+        "edit_history_tweet_ids": [
+            "1611341162559770624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "TryHei",
+                    "probability": 0.6005,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 29,
+                    "tag": "TryHei"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "971440767272214529",
+                    "start": 0,
+                    "username": "vongani_Novela"
+                }
+            ]
+        },
+        "id": "1611341162559770624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 75,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@vongani_Novela Green gems \u2705 #TryHei"
+    }
+}

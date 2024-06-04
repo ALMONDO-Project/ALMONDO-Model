@@ -1,0 +1,71 @@
+{
+    "1623267897354371079": {
+        "author_id": "293455710",
+        "created_at": "2023-02-08T10:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1623267897354371079"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 121,
+                    "normalized_text": "Asturias",
+                    "probability": 0.8686,
+                    "start": 114,
+                    "type": "Place"
+                },
+                {
+                    "end": 128,
+                    "normalized_text": "Spain",
+                    "probability": 0.9616,
+                    "start": 124,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 24,
+                    "start": 7,
+                    "tag": "startupchallenge"
+                },
+                {
+                    "end": 110,
+                    "start": 93,
+                    "tag": "energytransition"
+                },
+                {
+                    "end": 195,
+                    "start": 184,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 204,
+                    "start": 196,
+                    "tag": "startup"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "iberdrola.com/innovation/int\u2026",
+                    "end": 244,
+                    "expanded_url": "https://www.iberdrola.com/innovation/international-startup-program-perseo/energy-transition-projects-asturias?utm_source=twitter&utm_medium=social&utm_campaign=challenge",
+                    "start": 221,
+                    "status": 200,
+                    "unwound_url": "https://www.iberdrola.com/innovation/international-startup-program-perseo/energy-transition-projects-asturias?utm_source=twitter&utm_medium=social&utm_campaign=challenge",
+                    "url": "https://t.co/1ap7UZI1WU"
+                }
+            ]
+        },
+        "id": "1623267897354371079",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 118123,
+            "like_count": 22,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 4
+        },
+        "text": "\u26a0A NEW #startupchallenge is coming\u26a0\n\n\ud83d\udc49\ud83c\udffcWe are looking for bussiness initiatives to boost the #energytransition in Asturias (Spain).\u00a0\n\n\ud83d\ude80Let's promote together the energy of the future. #innovation #startup\u00a0\n\nMore info \u2b07: \nhttps://t.co/1ap7UZI1WU"
+    }
+}

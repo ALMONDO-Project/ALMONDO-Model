@@ -1,0 +1,67 @@
+{
+    "1635594946521579520": {
+        "author_id": "293455710",
+        "created_at": "2023-03-14T10:53:17.000Z",
+        "edit_history_tweet_ids": [
+            "1635594946521579520"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "WorldsMostEthicalCompanies",
+                    "probability": 0.771,
+                    "start": 77,
+                    "type": "Other"
+                },
+                {
+                    "end": 142,
+                    "normalized_text": "ESG",
+                    "probability": 0.3965,
+                    "start": 140,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 103,
+                    "start": 76,
+                    "tag": "WorldsMostEthicalCompanies"
+                },
+                {
+                    "end": 143,
+                    "start": 139,
+                    "tag": "ESG"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 60,
+                    "id": "14353224",
+                    "start": 49,
+                    "username": "ethisphere"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/ethisphere/sta\u2026",
+                    "end": 167,
+                    "expanded_url": "https://twitter.com/ethisphere/status/1635249708364095488",
+                    "start": 144,
+                    "url": "https://t.co/JvKL6lHaXK"
+                }
+            ]
+        },
+        "id": "1635594946521579520",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 600,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "INTEGRITY above all \ud83d\udc49\ud83c\udffb Proud to be recognized by @ethisphere\n as one of the #WorldsMostEthicalCompanies for the tenth consecutive year \ud83d\ude4f\ud83c\udffe. #ESG https://t.co/JvKL6lHaXK"
+    }
+}

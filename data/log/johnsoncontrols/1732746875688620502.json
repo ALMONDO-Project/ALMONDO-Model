@@ -1,0 +1,76 @@
+{
+    "1732746875688620502": {
+        "attachments": {
+            "media_keys": [
+                "7_1732746006041604096"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-12-07T13:00:22.000Z",
+        "edit_history_tweet_ids": [
+            "1732746875688620502"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "George Oliver",
+                    "probability": 0.8808,
+                    "start": 0,
+                    "type": "Person"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "COP28",
+                    "probability": 0.8735,
+                    "start": 104,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 67,
+                    "id": "251730830",
+                    "start": 51,
+                    "username": "_katiechambers_"
+                },
+                {
+                    "end": 100,
+                    "id": "228981999",
+                    "start": 89,
+                    "username": "DubaiOneTV"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/48nWjej",
+                    "end": 271,
+                    "expanded_url": "https://on.jci.com/48nWjej",
+                    "start": 248,
+                    "status": 200,
+                    "unwound_url": "https://www.youtube.com/watch?v=LxZQzu1g5QI&feature=youtu.be",
+                    "url": "https://t.co/YNpTGMNofU"
+                },
+                {
+                    "display_url": "pic.twitter.com/zpMothjXtp",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1732746875688620502/video/1",
+                    "media_key": "7_1732746006041604096",
+                    "start": 272,
+                    "url": "https://t.co/zpMothjXtp"
+                }
+            ]
+        },
+        "id": "1732746875688620502",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 965,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "George Oliver, our chairman and CEO, sat down with @_katiechambers_ Senior Reporter from @DubaiOneTV at COP28 to discuss why buildings are one of the biggest opportunities to achieve global decarbonization goals. Watch the full interview for more: https://t.co/YNpTGMNofU https://t.co/zpMothjXtp"
+    }
+}

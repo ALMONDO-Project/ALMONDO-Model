@@ -1,0 +1,67 @@
+{
+    "1635722503426375693": {
+        "attachments": {
+            "media_keys": [
+                "3_1635722501778014221"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-03-14T19:20:09.000Z",
+        "edit_history_tweet_ids": [
+            "1635722503426375693"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 140,
+                    "normalized_text": "OpenBlue",
+                    "probability": 0.5831,
+                    "start": 133,
+                    "type": "Other"
+                },
+                {
+                    "end": 149,
+                    "normalized_text": "Zero",
+                    "probability": 0.6907,
+                    "start": 146,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 141,
+                    "start": 132,
+                    "tag": "OpenBlue"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3YS2Kkq",
+                    "end": 277,
+                    "expanded_url": "https://on.jci.com/3YS2Kkq",
+                    "start": 254,
+                    "url": "https://t.co/6xRPLMc3W5"
+                },
+                {
+                    "display_url": "pic.twitter.com/hIrmkLAoZp",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1635722503426375693/photo/1",
+                    "media_key": "3_1635722501778014221",
+                    "start": 278,
+                    "url": "https://t.co/hIrmkLAoZp"
+                }
+            ]
+        },
+        "id": "1635722503426375693",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 540,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Building managers can now easily assess their buildings\u2019 carbon footprints, set targets, and manage and track emissions. Announcing #OpenBlue Net Zero Advisor, an all-in-one digital solution for managing emissions while saving time, effort, &amp; money: https://t.co/6xRPLMc3W5 https://t.co/hIrmkLAoZp"
+    }
+}

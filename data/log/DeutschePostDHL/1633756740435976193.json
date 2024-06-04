@@ -1,0 +1,62 @@
+{
+    "1633756740435976193": {
+        "attachments": {
+            "media_keys": [
+                "7_1633756555806900224"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-03-09T09:08:55.000Z",
+        "edit_history_tweet_ids": [
+            "1633756740435976193"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 91,
+                    "normalized_text": "DPDHLResults",
+                    "probability": 0.7087,
+                    "start": 80,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 92,
+                    "start": 79,
+                    "tag": "DPDHLResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 78,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/annual-earnings-2022-deutsche-post-dhl-group.html",
+                    "start": 55,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/annual-earnings-2022-deutsche-post-dhl-group.html",
+                    "url": "https://t.co/rMXo1nOwHk"
+                },
+                {
+                    "display_url": "pic.twitter.com/BDKmvekA4T",
+                    "end": 116,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1633756740435976193/video/1",
+                    "media_key": "7_1633756555806900224",
+                    "start": 93,
+                    "url": "https://t.co/BDKmvekA4T"
+                }
+            ]
+        },
+        "id": "1633756740435976193",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1497,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Here are our FY 2022 results in detail. Find out more: https://t.co/rMXo1nOwHk #DPDHLResults https://t.co/BDKmvekA4T"
+    }
+}

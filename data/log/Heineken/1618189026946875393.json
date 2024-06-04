@@ -1,0 +1,39 @@
+{
+    "1618189026946875393": {
+        "author_id": "29191062",
+        "created_at": "2023-01-25T10:08:23.000Z",
+        "edit_history_tweet_ids": [
+            "1618189026946875393"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 15,
+                    "normalized_text": "Heineken",
+                    "probability": 0.9287,
+                    "start": 8,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 7,
+                    "id": "483821460",
+                    "start": 0,
+                    "username": "Sprekk"
+                }
+            ]
+        },
+        "id": "1618189026946875393",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 194,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Sprekk Heineken in the air tonight \ud83c\udfb6"
+    }
+}

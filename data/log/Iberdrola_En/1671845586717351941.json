@@ -1,0 +1,49 @@
+{
+    "1671845586717351941": {
+        "author_id": "293455710",
+        "created_at": "2023-06-22T11:40:23.000Z",
+        "edit_history_tweet_ids": [
+            "1671845586717351941"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Kyoto",
+                    "probability": 0.9058,
+                    "start": 41,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 224,
+                    "start": 207,
+                    "tag": "EnergyTransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "iberdrola.com/press-room/new\u2026",
+                    "end": 249,
+                    "expanded_url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-invests-in-norwegian-kyoto-group-to-accelerate-industry-decarbonisation",
+                    "start": 226,
+                    "status": 200,
+                    "unwound_url": "https://www.iberdrola.com/press-room/news/detail/iberdrola-invests-in-norwegian-kyoto-group-to-accelerate-industry-decarbonisation",
+                    "url": "https://t.co/rUDiFIyTIp"
+                }
+            ]
+        },
+        "id": "1671845586717351941",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2097,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 8,
+            "retweet_count": 2
+        },
+        "text": "Investment to be made in Norwegian group Kyoto to accelerate industrial decarbonisation \ud83d\udd0b.\n\n\ud83d\udc4d\ud83c\udffc A further step in our mission to decarbonise the economy through electrification.\n\n\ud83d\udc4d\ud83c\udffcLet's continue to lead the #EnergyTransition.\nhttps://t.co/rUDiFIyTIp"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "1704125365982056540": {
+        "author_id": "29191062",
+        "created_at": "2023-09-19T13:28:43.000Z",
+        "edit_history_tweet_ids": [
+            "1704125365982056540"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Heineken",
+                    "probability": 0.9155,
+                    "start": 51,
+                    "type": "Organization"
+                }
+            ]
+        },
+        "id": "1704125365982056540",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 151,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@BSM_ShinyK And now on to a 'light' September with Heineken 0.0! Cheers!"
+    }
+}

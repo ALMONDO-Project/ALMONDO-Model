@@ -1,0 +1,110 @@
+{
+    "1646502136442679296": {
+        "attachments": {
+            "media_keys": [
+                "7_1646501423704678403"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-04-13T13:14:34.000Z",
+        "edit_history_tweet_ids": [
+            "1646502136442679296"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Esteban",
+                    "probability": 0.5122,
+                    "start": 37,
+                    "type": "Other"
+                },
+                {
+                    "end": 74,
+                    "normalized_text": "Ecuador",
+                    "probability": 0.9709,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "DHL",
+                    "probability": 0.5728,
+                    "start": 136,
+                    "type": "Organization"
+                },
+                {
+                    "end": 154,
+                    "normalized_text": "GoTrade",
+                    "probability": 0.5045,
+                    "start": 148,
+                    "type": "Other"
+                },
+                {
+                    "end": 192,
+                    "normalized_text": "Esteban",
+                    "probability": 0.5209,
+                    "start": 186,
+                    "type": "Other"
+                },
+                {
+                    "end": 258,
+                    "normalized_text": "DHLGoTrade",
+                    "probability": 0.3918,
+                    "start": 249,
+                    "type": "Organization"
+                },
+                {
+                    "end": 277,
+                    "normalized_text": "EcuadorianVanilla",
+                    "probability": 0.4031,
+                    "start": 261,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 9,
+                    "tag": "PlantAppreciationDay"
+                },
+                {
+                    "end": 247,
+                    "start": 233,
+                    "tag": "VanillaFarmer"
+                },
+                {
+                    "end": 259,
+                    "start": 248,
+                    "tag": "DHLGoTrade"
+                },
+                {
+                    "end": 278,
+                    "start": 260,
+                    "tag": "EcuadorianVanilla"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/7Y2QSNW3Sz",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1646502136442679296/video/1",
+                    "media_key": "7_1646501423704678403",
+                    "start": 279,
+                    "url": "https://t.co/7Y2QSNW3Sz"
+                }
+            ]
+        },
+        "id": "1646502136442679296",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1206,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Today is #PlantAppreciationDay! Meet Esteban, a\nvanilla farmer from Ecuador who has grown his vanilla business by 300 percent thanks to DHL and our GoTrade program. Support farmers like Esteban and celebrate the beauty of plants! \ud83c\udf31\ud83c\udf0e\n#VanillaFarmer #DHLGoTrade #EcuadorianVanilla https://t.co/7Y2QSNW3Sz"
+    }
+}

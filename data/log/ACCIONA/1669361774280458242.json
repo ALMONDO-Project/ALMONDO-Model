@@ -1,0 +1,45 @@
+{
+    "1669361774280458242": {
+        "author_id": "15544077",
+        "created_at": "2023-06-15T15:10:36.000Z",
+        "edit_history_tweet_ids": [
+            "1669361774280458242"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 85,
+                    "normalized_text": "Bilbao",
+                    "probability": 0.9202,
+                    "start": 80,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "944686582019354624",
+                    "start": 3,
+                    "username": "Amanda_SandN"
+                },
+                {
+                    "end": 45,
+                    "id": "15544077",
+                    "start": 37,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1669361774280458242",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @Amanda_SandN: \u00a1Grandes noticias! @ACCIONA se adjudica un tramo del metro de Bilbao, favoreciendo as\u00ed la movilidad sostenible en la ciud\u2026"
+    }
+}

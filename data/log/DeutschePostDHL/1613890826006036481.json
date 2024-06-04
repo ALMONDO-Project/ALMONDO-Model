@@ -1,0 +1,65 @@
+{
+    "1613890826006036481": {
+        "attachments": {
+            "media_keys": [
+                "3_1613890220524728321"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-01-13T13:28:52.000Z",
+        "edit_history_tweet_ids": [
+            "1613890826006036481"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": " #dogsontwitt",
+                    "probability": 0.6928,
+                    "start": 39,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": " #dogsoftwitt",
+                    "probability": 0.6558,
+                    "start": 54,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 40,
+                    "tag": "dogsontwitter"
+                },
+                {
+                    "end": 69,
+                    "start": 55,
+                    "tag": "dogsoftwitter"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/O8xWZgExia",
+                    "end": 93,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1613890826006036481/photo/1",
+                    "media_key": "3_1613890220524728321",
+                    "start": 70,
+                    "url": "https://t.co/O8xWZgExia"
+                }
+            ]
+        },
+        "id": "1613890826006036481",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2205,
+            "like_count": 17,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "Our VIPs: Very important puppies \ud83d\udc36\ud83d\udc15\u200d\ud83e\uddba\ud83e\uddae\ud83d\udc15 #dogsontwitter #dogsoftwitter https://t.co/O8xWZgExia"
+    }
+}

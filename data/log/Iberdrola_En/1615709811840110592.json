@@ -1,0 +1,72 @@
+{
+    "1615709811840110592": {
+        "author_id": "293455710",
+        "created_at": "2023-01-18T13:56:52.000Z",
+        "edit_history_tweet_ids": [
+            "1615709811840110592"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "Global100",
+                    "probability": 0.7137,
+                    "start": 92,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "ESG",
+                    "probability": 0.3377,
+                    "start": 200,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 91,
+                    "tag": "Global100"
+                },
+                {
+                    "end": 130,
+                    "start": 115,
+                    "tag": "sustainability"
+                },
+                {
+                    "end": 203,
+                    "start": 199,
+                    "tag": "ESG"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 87,
+                    "id": "39692025",
+                    "start": 71,
+                    "username": "corporateknight"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "x.com/corporateknigh\u2026",
+                    "end": 227,
+                    "expanded_url": "https://twitter.com/corporateknight/status/1615703153009364992",
+                    "start": 204,
+                    "url": "https://t.co/AYBnb4YGLP"
+                }
+            ]
+        },
+        "id": "1615709811840110592",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 514,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Proud to be ranked as one of the world\u2019s most sustainable companies by @corporateknight in #Global100 \ud83d\ude4c\ud83c\udffb.\n\nBecause #sustainability \ud83c\udf43 is and always will be good for business... and for the planet \ud83c\udf0d! \n#ESG https://t.co/AYBnb4YGLP"
+    }
+}

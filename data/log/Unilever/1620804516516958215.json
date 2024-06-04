@@ -1,0 +1,47 @@
+{
+    "1620804516516958215": {
+        "author_id": "109224937",
+        "created_at": "2023-02-01T15:21:24.000Z",
+        "edit_history_tweet_ids": [
+            "1620804516516958215"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 23,
+                    "normalized_text": "Richard",
+                    "probability": 0.8399,
+                    "start": 17,
+                    "type": "Person"
+                },
+                {
+                    "end": 71,
+                    "normalized_text": "Bovril",
+                    "probability": 0.4703,
+                    "start": 66,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/contact/?fbcli\u2026",
+                    "end": 213,
+                    "expanded_url": "https://www.unilever.com/contact/?fbclid=IwAR3erUhj7gm7UtRyhGeo7TCmnksiGlql3piSucwsramD7dDxlv52uTb56f8",
+                    "start": 190,
+                    "url": "https://t.co/gzxcWiLsRQ"
+                }
+            ]
+        },
+        "id": "1620804516516958215",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 23,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@TheBoyConker Hi Richard! We're happy to hear about your love for Bovril. Please contact your local careline using this form on our website so that our team can better assist you with this: https://t.co/gzxcWiLsRQ. Thank you!"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "1651972036846317568": {
+        "attachments": {
+            "media_keys": [
+                "7_1651945246006149120"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-04-28T15:30:00.000Z",
+        "edit_history_tweet_ids": [
+            "1651972036846317568"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 161,
+                    "normalized_text": "ElectricVehicles",
+                    "probability": 0.6883,
+                    "start": 146,
+                    "type": "Other"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "ElectricFleet",
+                    "probability": 0.6312,
+                    "start": 164,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 162,
+                    "start": 145,
+                    "tag": "ElectricVehicles"
+                },
+                {
+                    "end": 177,
+                    "start": 163,
+                    "tag": "ElectricFleet"
+                },
+                {
+                    "end": 198,
+                    "start": 178,
+                    "tag": "ChooseYourCharacter"
+                },
+                {
+                    "end": 202,
+                    "start": 199,
+                    "tag": "EV"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/bMBMSxCV9S",
+                    "end": 226,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1651972036846317568/video/1",
+                    "media_key": "7_1651945246006149120",
+                    "start": 203,
+                    "url": "https://t.co/bMBMSxCV9S"
+                }
+            ]
+        },
+        "id": "1651972036846317568",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1420,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Choose your character in the race to zero emissions! \nThey all have their own unique superpower! \nWhich of our zero-emission vehicles are you? \n\n#ElectricVehicles #ElectricFleet #ChooseYourCharacter #EV https://t.co/bMBMSxCV9S"
+    }
+}

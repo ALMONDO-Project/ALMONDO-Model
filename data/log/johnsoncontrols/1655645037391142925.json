@@ -1,0 +1,62 @@
+{
+    "1655645037391142925": {
+        "attachments": {
+            "media_keys": [
+                "3_1655645029107392520"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-05-08T18:45:11.000Z",
+        "edit_history_tweet_ids": [
+            "1655645037391142925"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "NFPA",
+                    "probability": 0.5598,
+                    "start": 123,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 94,
+                    "start": 83,
+                    "tag": "compliance"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3VI7YiI",
+                    "end": 184,
+                    "expanded_url": "https://on.jci.com/3VI7YiI",
+                    "start": 161,
+                    "status": 200,
+                    "unwound_url": "https://www.johnsoncontrols.com/events/webcast/itm-code-update-webinar?utm_campaign=FS-GEN-23-MAY-LFTL-NFPA-25-and-72-Webinar-664&utm_medium=social&utm_source=Twitter",
+                    "url": "https://t.co/O9ZyUAYovK"
+                },
+                {
+                    "display_url": "pic.twitter.com/nr999v6pZU",
+                    "end": 208,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1655645037391142925/photo/1",
+                    "media_key": "3_1655645029107392520",
+                    "start": 185,
+                    "url": "https://t.co/nr999v6pZU"
+                }
+            ]
+        },
+        "id": "1655645037391142925",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 806,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Don\u2019t let \u2705 fire inspection and testing requirements overwhelm you. Start managing #compliance like a pro by attending our NFPA 25 and 72 webinar. Register now: https://t.co/O9ZyUAYovK https://t.co/nr999v6pZU"
+    }
+}

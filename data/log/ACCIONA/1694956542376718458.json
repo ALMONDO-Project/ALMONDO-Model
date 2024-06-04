@@ -1,0 +1,59 @@
+{
+    "1694956542376718458": {
+        "author_id": "15544077",
+        "created_at": "2023-08-25T06:15:05.000Z",
+        "edit_history_tweet_ids": [
+            "1694956542376718458"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 77,
+                    "normalized_text": "Programa Academy",
+                    "probability": 0.5244,
+                    "start": 62,
+                    "type": "Other"
+                },
+                {
+                    "end": 85,
+                    "normalized_text": "Per\u00fa",
+                    "probability": 0.9543,
+                    "start": 82,
+                    "type": "Place"
+                },
+                {
+                    "end": 122,
+                    "normalized_text": "PTAR Pachac\u00fatec",
+                    "probability": 0.5596,
+                    "start": 108,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "944686582019354624",
+                    "start": 3,
+                    "username": "Amanda_SandN"
+                },
+                {
+                    "end": 27,
+                    "id": "15544077",
+                    "start": 19,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1694956542376718458",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @Amanda_SandN: .@ACCIONA finaliza la segunda versi\u00f3n de su Programa Academy en Per\u00fa.\nUn recorrido por la PTAR Pachac\u00fatec fue la activida\u2026"
+    }
+}

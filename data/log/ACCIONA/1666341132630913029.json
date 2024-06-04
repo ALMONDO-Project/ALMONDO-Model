@@ -1,0 +1,46 @@
+{
+    "1666341132630913029": {
+        "author_id": "15544077",
+        "created_at": "2023-06-07T07:07:39.000Z",
+        "edit_history_tweet_ids": [
+            "1666341132630913029"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 126,
+                    "normalized_text": "ACCIONAen1min",
+                    "probability": 0.4726,
+                    "start": 114,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 127,
+                    "start": 113,
+                    "tag": "ACCIONAen1min"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "2755472610",
+                    "start": 3,
+                    "username": "mariovicente_"
+                }
+            ]
+        },
+        "id": "1666341132630913029",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @mariovicente_: Descubre todas las noticias que ha vivido nuestra compa\u00f1\u00eda durante el mes de mayo de 2023 \ud83d\udc40 | #ACCIONAen1min https://t.c\u2026"
+    }
+}

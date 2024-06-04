@@ -1,0 +1,46 @@
+{
+    "1689522979716091904": {
+        "author_id": "15544077",
+        "created_at": "2023-08-10T06:24:02.000Z",
+        "edit_history_tweet_ids": [
+            "1689522979716091904"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "Grado",
+                    "probability": 0.4712,
+                    "start": 74,
+                    "type": "Other"
+                },
+                {
+                    "end": 87,
+                    "normalized_text": "M\u00e1ster",
+                    "probability": 0.5914,
+                    "start": 82,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 18,
+                    "id": "103793493",
+                    "start": 3,
+                    "username": "ACCIONACareers"
+                }
+            ]
+        },
+        "id": "1689522979716091904",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @ACCIONACareers: \u2705 Si has terminado o est\u00e1s terminando tus estudios de Grado o M\u00e1ster, esto te interesa \u27a1 Muy pronto estar\u00e1n abiertas la\u2026"
+    }
+}

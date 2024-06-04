@@ -1,0 +1,74 @@
+{
+    "1651576133001916417": {
+        "attachments": {
+            "media_keys": [
+                "7_1651575251711455234"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-04-27T13:16:49.000Z",
+        "edit_history_tweet_ids": [
+            "1651576133001916417"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "China",
+                    "probability": 0.97,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 32,
+                    "normalized_text": "Vietnam",
+                    "probability": 0.9811,
+                    "start": 26,
+                    "type": "Place"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "Sweden",
+                    "probability": 0.9886,
+                    "start": 37,
+                    "type": "Place"
+                },
+                {
+                    "end": 95,
+                    "normalized_text": "DHL Industrial Projects",
+                    "probability": 0.5084,
+                    "start": 73,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 237,
+                    "start": 211,
+                    "tag": "EraOfSustainableLogistics"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/jEznwnfb60",
+                    "end": 261,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1651576133001916417/video/1",
+                    "media_key": "7_1651575251711455234",
+                    "start": 238,
+                    "url": "https://t.co/jEznwnfb60"
+                }
+            ]
+        },
+        "id": "1651576133001916417",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1305,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Travelling from China and Vietnam to Sweden with 374,682 CBM of luggage? DHL Industrial Projects is powering green energy with a transport of 90 turbines including towers, rotor blades and all other components. #EraOfSustainableLogistics https://t.co/jEznwnfb60"
+    }
+}

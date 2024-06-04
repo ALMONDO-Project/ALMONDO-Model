@@ -1,0 +1,53 @@
+{
+    "1667108430836801538": {
+        "author_id": "15544077",
+        "created_at": "2023-06-09T09:56:37.000Z",
+        "edit_history_tweet_ids": [
+            "1667108430836801538"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 51,
+                    "normalized_text": "CentroCentro",
+                    "probability": 0.5301,
+                    "start": 40,
+                    "type": "Place"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "African Studies",
+                    "probability": 0.6384,
+                    "start": 94,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 52,
+                    "start": 39,
+                    "tag": "CentroCentro"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "599184474",
+                    "start": 3,
+                    "username": "centrocentro"
+                }
+            ]
+        },
+        "id": "1667108430836801538",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @centrocentro: \u00a1Nueva exposici\u00f3n en #CentroCentro!\n\u00a0\n\ud83d\udcf7\u200a Esta tarde se inaugura la muestra \"African Studies\", que presenta el trabajo fot\u2026"
+    }
+}

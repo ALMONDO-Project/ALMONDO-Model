@@ -1,0 +1,45 @@
+{
+    "1669067868229476357": {
+        "author_id": "15544077",
+        "created_at": "2023-06-14T19:42:44.000Z",
+        "edit_history_tweet_ids": [
+            "1669067868229476357"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 62,
+                    "normalized_text": "Jos\u00e9 Manuel Entrecanales",
+                    "probability": 0.7236,
+                    "start": 39,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 18,
+                    "id": "1410478206604488704",
+                    "start": 3,
+                    "username": "ACCIONAEnergia"
+                },
+                {
+                    "end": 89,
+                    "id": "404718735",
+                    "start": 82,
+                    "username": "enagas"
+                }
+            ]
+        },
+        "id": "1669067868229476357",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "RT @ACCIONAEnergia: Nuestro Presidente Jos\u00e9 Manuel Entrecanales y nuestros socios @enagas, tuvieron oportunidad ayer de presentar el proyec\u2026"
+    }
+}

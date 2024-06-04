@@ -1,0 +1,72 @@
+{
+    "1676886705276698624": {
+        "attachments": {
+            "media_keys": [
+                "7_1676885498868953090"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-07-06T09:32:00.000Z",
+        "edit_history_tweet_ids": [
+            "1676886705276698624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 40,
+                    "normalized_text": "France",
+                    "probability": 0.9826,
+                    "start": 35,
+                    "type": "Place"
+                },
+                {
+                    "end": 100,
+                    "normalized_text": "Saint-Brieuc",
+                    "probability": 0.9736,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "France",
+                    "probability": 0.9777,
+                    "start": 203,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 21,
+                    "start": 12,
+                    "tag": "offshore"
+                },
+                {
+                    "end": 254,
+                    "start": 237,
+                    "tag": "energytransition"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/IBZsAF9ZbR",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1676886705276698624/video/1",
+                    "media_key": "7_1676885498868953090",
+                    "start": 272,
+                    "url": "https://t.co/IBZsAF9ZbR"
+                }
+            ]
+        },
+        "id": "1676886705276698624",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 10,
+            "impression_count": 3384125,
+            "like_count": 1897,
+            "quote_count": 27,
+            "reply_count": 1,
+            "retweet_count": 249
+        },
+        "text": "\ud83d\udd1d Our FIRST #offshore wind farm in France... Up and running!\n\nThe first wind turbines in Saint-Brieuc start producing electricity \u26a1\n \nIt will provide 100% clean and homegrown energy to 835.000 people in France.\n \nWe continue to lead the #energytransition around the world https://t.co/IBZsAF9ZbR"
+    }
+}

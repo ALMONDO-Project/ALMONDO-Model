@@ -1,0 +1,60 @@
+{
+    "1720192794877100243": {
+        "author_id": "15544077",
+        "created_at": "2023-11-02T21:34:56.000Z",
+        "edit_history_tweet_ids": [
+            "1720192794877100243"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 72,
+                    "normalized_text": "Broadway",
+                    "probability": 0.8901,
+                    "start": 65,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "Canad\u00e1",
+                    "probability": 0.8858,
+                    "start": 75,
+                    "type": "Place"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.4825,
+                    "start": 126,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 137,
+                    "start": 125,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "119149081",
+                    "start": 3,
+                    "username": "cr_alvarez"
+                }
+            ]
+        },
+        "id": "1720192794877100243",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @cr_alvarez: Las tuneladoras gemelas del proyecto de metro de Broadway (Canad\u00e1) llegan a la cuarta estaci\u00f3n. Enhorabuena, #ACCIONAteam :\u2026"
+    }
+}

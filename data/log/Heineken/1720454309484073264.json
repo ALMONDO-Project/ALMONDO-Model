@@ -1,0 +1,39 @@
+{
+    "1720454309484073264": {
+        "author_id": "29191062",
+        "created_at": "2023-11-03T14:54:06.000Z",
+        "edit_history_tweet_ids": [
+            "1720454309484073264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "F1",
+                    "probability": 0.8574,
+                    "start": 36,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 3,
+                    "id": "69008563",
+                    "start": 0,
+                    "username": "F1"
+                }
+            ]
+        },
+        "id": "1720454309484073264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 870,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@F1 Hands-up for a great weekend of F1 \ud83d\ude4b\u200d\u2640\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f"
+    }
+}

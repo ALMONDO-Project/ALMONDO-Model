@@ -1,0 +1,63 @@
+{
+    "1616372511695929344": {
+        "author_id": "29191062",
+        "created_at": "2023-01-20T09:50:12.000Z",
+        "edit_history_tweet_ids": [
+            "1616372511695929344"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 67,
+                    "normalized_text": "DryJan",
+                    "probability": 0.4613,
+                    "start": 62,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 68,
+                    "start": 61,
+                    "tag": "DryJan"
+                },
+                {
+                    "end": 79,
+                    "start": 69,
+                    "tag": "NowYouCan"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "14963756",
+                    "start": 0,
+                    "username": "franksskintags"
+                },
+                {
+                    "end": 32,
+                    "id": "188036336",
+                    "start": 16,
+                    "username": "GuinnessIreland"
+                },
+                {
+                    "end": 46,
+                    "id": "870680989",
+                    "start": 33,
+                    "username": "budweiserusa"
+                }
+            ]
+        },
+        "id": "1616372511695929344",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 281,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@franksskintags @GuinnessIreland @budweiserusa We got you! \ud83d\udcaa #DryJan #NowYouCan"
+    }
+}

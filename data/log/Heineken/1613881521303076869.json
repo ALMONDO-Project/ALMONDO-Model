@@ -1,0 +1,39 @@
+{
+    "1613881521303076869": {
+        "author_id": "29191062",
+        "created_at": "2023-01-13T12:51:53.000Z",
+        "edit_history_tweet_ids": [
+            "1613881521303076869"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "Agust D",
+                    "probability": 0.5754,
+                    "start": 29,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1256287663595769856",
+                    "start": 0,
+                    "username": "rejectmeyoongi"
+                }
+            ]
+        },
+        "id": "1613881521303076869",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 11,
+            "impression_count": 18490,
+            "like_count": 652,
+            "quote_count": 10,
+            "reply_count": 2,
+            "retweet_count": 174
+        },
+        "text": "@rejectmeyoongi Dunkin' with Agust D \ud83d\udcaf\ud83c\udfc0"
+    }
+}

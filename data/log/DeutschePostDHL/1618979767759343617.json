@@ -1,0 +1,68 @@
+{
+    "1618979767759343617": {
+        "author_id": "197352549",
+        "created_at": "2023-01-27T14:30:30.000Z",
+        "edit_history_tweet_ids": [
+            "1618979767759343617"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 49,
+                    "normalized_text": "CO2",
+                    "probability": 0.6883,
+                    "start": 47,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 108,
+                    "start": 87,
+                    "tag": "SustainableLogistics"
+                },
+                {
+                    "end": 122,
+                    "start": 109,
+                    "tag": "oceanfreight"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1320478684235632640",
+                    "start": 1,
+                    "username": "dhl_forwarding"
+                },
+                {
+                    "end": 36,
+                    "id": "23611028",
+                    "start": 27,
+                    "username": "grundfos"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 147,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/dhl-global-forwarding-supports-grundfos-to-reduce-co2-emissions-along-its-supply-chains.html",
+                    "start": 124,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/dhl-global-forwarding-supports-grundfos-to-reduce-co2-emissions-along-its-supply-chains.html",
+                    "url": "https://t.co/burRdLMRVo"
+                }
+            ]
+        },
+        "id": "1618979767759343617",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1833,
+            "like_count": 4,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": ".@dhl_forwarding  supports @grundfos to reduce CO2 emissions along its supply chains.  #SustainableLogistics #oceanfreight  https://t.co/burRdLMRVo"
+    }
+}

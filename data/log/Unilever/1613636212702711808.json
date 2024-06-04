@@ -1,0 +1,39 @@
+{
+    "1613636212702711808": {
+        "author_id": "109224937",
+        "created_at": "2023-01-12T20:37:07.000Z",
+        "edit_history_tweet_ids": [
+            "1613636212702711808"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 24,
+                    "normalized_text": "Kelly",
+                    "probability": 0.6002,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "924040387836239874",
+                    "start": 0,
+                    "username": "SportsFanKelly1"
+                }
+            ]
+        },
+        "id": "1613636212702711808",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 45,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@SportsFanKelly1 Hi Kelly \u2013 Thank you for bringing this to our attention. If you still haven\u2019t received your refund, we can check on the status for you. Can you please share the email address associated with your request via DM?"
+    }
+}

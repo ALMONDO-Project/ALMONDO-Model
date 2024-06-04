@@ -1,0 +1,65 @@
+{
+    "1618187295714152449": {
+        "attachments": {
+            "media_keys": [
+                "7_1617853517833592832"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-01-25T10:01:30.000Z",
+        "edit_history_tweet_ids": [
+            "1618187295714152449"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "ZACZYNAMY",
+                    "probability": 0.6783,
+                    "start": 2,
+                    "type": "Other"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "POLAND",
+                    "probability": 0.8808,
+                    "start": 36,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 141,
+                    "start": 124,
+                    "tag": "energytransition"
+                },
+                {
+                    "end": 158,
+                    "start": 147,
+                    "tag": "renewables"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/GbHKTkNHJO",
+                    "end": 183,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1618187295714152449/video/1",
+                    "media_key": "7_1617853517833592832",
+                    "start": 160,
+                    "url": "https://t.co/GbHKTkNHJO"
+                }
+            ]
+        },
+        "id": "1618187295714152449",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 18,
+            "impression_count": 1701932,
+            "like_count": 3677,
+            "quote_count": 22,
+            "reply_count": 80,
+            "retweet_count": 465
+        },
+        "text": "\ud83d\udd1d ZACZYNAMY! Our third wind farm in POLAND is up and running\u2705\n\nClean and local energy for 40,000 families \ud83d\udc68\ud83d\udc68\ud83d\udc67\ud83d\udc67\n\nLeading the #energytransition with #renewables. https://t.co/GbHKTkNHJO"
+    }
+}

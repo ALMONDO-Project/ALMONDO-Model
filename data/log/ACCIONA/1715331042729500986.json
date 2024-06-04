@@ -1,0 +1,46 @@
+{
+    "1715331042729500986": {
+        "author_id": "15544077",
+        "created_at": "2023-10-20T11:36:04.000Z",
+        "edit_history_tweet_ids": [
+            "1715331042729500986"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 185,
+                    "normalized_text": "CO2",
+                    "probability": 0.8789,
+                    "start": 183,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 273,
+                    "start": 256,
+                    "tag": "EmisionesBajoPar"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 56,
+                    "id": "1151399927626510337",
+                    "start": 44,
+                    "username": "accionaopen"
+                }
+            ]
+        },
+        "id": "1715331042729500986",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 838,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Patrocinamos por tercera vez consecutiva el @accionaopen, uno de los torneos de golf m\u00e1s prestigiosos, con el objetivo de impulsar un deporte regenerativo reduciendo las emisiones de CO2, apostando por las energ\u00edas renovables y mejorando el entorno \ud83c\udfcc\ufe0f\u200d\u2640\ufe0f\ud83c\udf31 #EmisionesBajoPar"
+    }
+}

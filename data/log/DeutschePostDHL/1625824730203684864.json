@@ -1,0 +1,56 @@
+{
+    "1625824730203684864": {
+        "author_id": "197352549",
+        "created_at": "2023-02-15T11:49:56.000Z",
+        "edit_history_tweet_ids": [
+            "1625824730203684864"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "Italy",
+                    "probability": 0.9428,
+                    "start": 74,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "4027469481",
+                    "start": 1,
+                    "username": "WOHASU"
+                },
+                {
+                    "end": 101,
+                    "id": "869879920645865472",
+                    "start": 90,
+                    "username": "DHLexpress"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 127,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/wohasu-2023-arrives-in-italy-thanks-to-dhl-express.html",
+                    "start": 104,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/wohasu-2023-arrives-in-italy-thanks-to-dhl-express.html",
+                    "url": "https://t.co/57PDhZ8UEX"
+                }
+            ]
+        },
+        "id": "1625824730203684864",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 975,
+            "like_count": 1,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": ".@WOHASU 2023, the international event dedicated to happiness, arrives in Italy thanks to @DHLexpress. \nhttps://t.co/57PDhZ8UEX"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1614608463824359424": {
+        "attachments": {
+            "media_keys": [
+                "7_1614603136357879808"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-15T13:00:30.000Z",
+        "edit_history_tweet_ids": [
+            "1614608463824359424"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 38,
+                    "normalized_text": "DryJanuary",
+                    "probability": 0.7965,
+                    "start": 29,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 39,
+                    "start": 28,
+                    "tag": "DryJanuary"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/dYJDbpIimR",
+                    "end": 63,
+                    "expanded_url": "https://twitter.com/Heineken/status/1614608463824359424/video/1",
+                    "media_key": "7_1614603136357879808",
+                    "start": 40,
+                    "url": "https://t.co/dYJDbpIimR"
+                }
+            ]
+        },
+        "id": "1614608463824359424",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 8221,
+            "like_count": 26,
+            "quote_count": 3,
+            "reply_count": 4,
+            "retweet_count": 4
+        },
+        "text": "There are 0.0% more choices #DryJanuary https://t.co/dYJDbpIimR"
+    }
+}

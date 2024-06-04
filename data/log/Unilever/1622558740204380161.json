@@ -1,0 +1,45 @@
+{
+    "1622558740204380161": {
+        "author_id": "109224937",
+        "created_at": "2023-02-06T11:32:04.000Z",
+        "edit_history_tweet_ids": [
+            "1622558740204380161"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 8,
+                    "normalized_text": "Hindustan",
+                    "probability": 0.3971,
+                    "start": 0,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 28,
+                    "id": "1703704490",
+                    "start": 19,
+                    "username": "HUL_News"
+                },
+                {
+                    "end": 44,
+                    "id": "1088422554",
+                    "start": 33,
+                    "username": "UNDP_India"
+                }
+            ]
+        },
+        "id": "1622558740204380161",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 5408,
+            "like_count": 32,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 11
+        },
+        "text": "Hindustan Unilever @HUL_News and @UNDP_India have launched a project to create a circular economy for plastic.\n\nA key focus is helping thousands of workers within the informal waste-picking sector to access government welfare schemes."
+    }
+}

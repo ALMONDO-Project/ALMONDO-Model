@@ -1,0 +1,58 @@
+{
+    "1618609840099627015": {
+        "attachments": {
+            "media_keys": [
+                "7_1617878727383474179"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-26T14:00:32.000Z",
+        "edit_history_tweet_ids": [
+            "1618609840099627015"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 35,
+                    "normalized_text": "DryJan",
+                    "probability": 0.437,
+                    "start": 30,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 36,
+                    "start": 29,
+                    "tag": "DryJan"
+                },
+                {
+                    "end": 45,
+                    "start": 37,
+                    "tag": "newyear"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/ahx9V3Ff3w",
+                    "end": 69,
+                    "expanded_url": "https://twitter.com/Heineken/status/1618609840099627015/video/1",
+                    "media_key": "7_1617878727383474179",
+                    "start": 46,
+                    "url": "https://t.co/ahx9V3Ff3w"
+                }
+            ]
+        },
+        "id": "1618609840099627015",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 14662,
+            "like_count": 34,
+            "quote_count": 3,
+            "reply_count": 23,
+            "retweet_count": 4
+        },
+        "text": "Stay inside with a cold one.\n#DryJan\n#newyear https://t.co/ahx9V3Ff3w"
+    }
+}

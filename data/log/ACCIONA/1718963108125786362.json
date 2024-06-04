@@ -1,0 +1,52 @@
+{
+    "1718963108125786362": {
+        "author_id": "15544077",
+        "created_at": "2023-10-30T12:08:36.000Z",
+        "edit_history_tweet_ids": [
+            "1718963108125786362"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 100,
+                    "normalized_text": "paperless",
+                    "probability": 0.4462,
+                    "start": 92,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 101,
+                    "start": 91,
+                    "tag": "paperless"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 18,
+                    "id": "103793493",
+                    "start": 3,
+                    "username": "ACCIONACareers"
+                },
+                {
+                    "end": 31,
+                    "id": "15544077",
+                    "start": 23,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1718963108125786362",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @ACCIONACareers: En @ACCIONA somos parte de la revoluci\u00f3n ecol\u00f3gica. Nuestra iniciativa #paperless supone una menor impresi\u00f3n de documen\u2026"
+    }
+}

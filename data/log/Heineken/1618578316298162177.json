@@ -1,0 +1,52 @@
+{
+    "1618578316298162177": {
+        "author_id": "29191062",
+        "created_at": "2023-01-26T11:55:16.000Z",
+        "edit_history_tweet_ids": [
+            "1618578316298162177"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 32,
+                    "normalized_text": "Sergio",
+                    "probability": 0.605,
+                    "start": 27,
+                    "type": "Person"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "The Mexican Way' P\u00e9rez",
+                    "probability": 0.7294,
+                    "start": 35,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 3,
+                    "id": "69008563",
+                    "start": 0,
+                    "username": "F1"
+                },
+                {
+                    "end": 16,
+                    "id": "78502161",
+                    "start": 4,
+                    "username": "SChecoPerez"
+                }
+            ]
+        },
+        "id": "1618578316298162177",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 11127,
+            "like_count": 408,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 22
+        },
+        "text": "@F1 @SChecoPerez Here's to Sergio 'The Mexican Way' P\u00e9rez! \ud83c\udf7b\ud83c\udf8a"
+    }
+}

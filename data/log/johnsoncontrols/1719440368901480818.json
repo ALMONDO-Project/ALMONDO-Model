@@ -1,0 +1,62 @@
+{
+    "1719440368901480818": {
+        "attachments": {
+            "media_keys": [
+                "7_1719439218210914305"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-10-31T19:45:04.000Z",
+        "edit_history_tweet_ids": [
+            "1719440368901480818"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "OpenBlue Innovation Center",
+                    "probability": 0.7999,
+                    "start": 28,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "North American HQ",
+                    "probability": 0.5107,
+                    "start": 74,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3FDkJ70",
+                    "end": 278,
+                    "expanded_url": "https://on.jci.com/3FDkJ70",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.johnsoncontrols.com/openblue/innovation-centers",
+                    "url": "https://t.co/Bs8JS6PUE6"
+                },
+                {
+                    "display_url": "pic.twitter.com/P5YoqYBOKr",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1719440368901480818/video/1",
+                    "media_key": "7_1719439218210914305",
+                    "start": 279,
+                    "url": "https://t.co/P5YoqYBOKr"
+                }
+            ]
+        },
+        "id": "1719440368901480818",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 843,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Exciting update: our newest OpenBlue Innovation Center is now open at our North American HQ! Step inside to experience interactive product demonstrations that provide insights into ways to improve your building\u2019s health, sustainability &amp; performance. https://t.co/Bs8JS6PUE6 https://t.co/P5YoqYBOKr"
+    }
+}

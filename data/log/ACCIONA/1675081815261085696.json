@@ -1,0 +1,70 @@
+{
+    "1675081815261085696": {
+        "author_id": "15544077",
+        "created_at": "2023-07-01T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1675081815261085696"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 139,
+                    "normalized_text": "FV",
+                    "probability": 0.3575,
+                    "start": 138,
+                    "type": "Other"
+                },
+                {
+                    "end": 171,
+                    "normalized_text": "Sierra Brava",
+                    "probability": 0.509,
+                    "start": 160,
+                    "type": "Organization"
+                },
+                {
+                    "end": 182,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.9743,
+                    "start": 177,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "\u2600\ufe0fLa fotovoltaica flotante se erige en una energ\u00eda limpia con ventajas adicionales, tal como prueba la planta de Sierra Brava.",
+                    "display_url": "imnovation-hub.com/es/energia/pla\u2026",
+                    "end": 212,
+                    "expanded_url": "https://www.imnovation-hub.com/es/energia/placas-solares-pantanos/?utm_source=twitter&utm_medium=social&utm_campaign=202307&utm_content=post",
+                    "images": [
+                        {
+                            "height": 900,
+                            "url": "https://pbs.twimg.com/news_img/1746253331578683392/5fmq9g4K?format=jpg&name=orig",
+                            "width": 1600
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1746253331578683392/5fmq9g4K?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 189,
+                    "status": 200,
+                    "title": "Energ\u00eda renovable flotante: el futuro de las placas solares tambi\u00e9n en los pantanos",
+                    "unwound_url": "https://www.imnovation-hub.com/es/energia/placas-solares-pantanos/?utm_source=twitter&utm_medium=social&utm_campaign=202307&utm_content=post",
+                    "url": "https://t.co/L2zAbBa7iV"
+                }
+            ]
+        },
+        "id": "1675081815261085696",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 43134,
+            "like_count": 37,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 7
+        },
+        "text": "La fotovoltaica flotante se erige en una energ\u00eda limpia con ventajas adicionales \ud83d\ude0e Como prueba, no un bot\u00f3n, sino directamente una planta FV real: la planta de Sierra Brava, en Espa\u00f1a \u2600\ufe0f\ud83d\udca6  https://t.co/L2zAbBa7iV"
+    }
+}

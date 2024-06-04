@@ -1,0 +1,98 @@
+{
+    "1623582839894687744": {
+        "attachments": {
+            "media_keys": [
+                "3_1623582377304784899"
+            ]
+        },
+        "author_id": "109224937",
+        "created_at": "2023-02-09T07:21:28.000Z",
+        "edit_history_tweet_ids": [
+            "1623582839894687744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 41,
+                    "normalized_text": "Euro",
+                    "probability": 0.5085,
+                    "start": 38,
+                    "type": "Other"
+                },
+                {
+                    "end": 180,
+                    "normalized_text": "ULVR",
+                    "probability": 0.4517,
+                    "start": 177,
+                    "type": "Other"
+                },
+                {
+                    "end": 185,
+                    "normalized_text": "UNA",
+                    "probability": 0.5635,
+                    "start": 183,
+                    "type": "Organization"
+                },
+                {
+                    "end": 189,
+                    "normalized_text": "UL",
+                    "probability": 0.389,
+                    "start": 188,
+                    "type": "Other"
+                }
+            ],
+            "cashtags": [
+                {
+                    "end": 181,
+                    "start": 176,
+                    "tag": "ULVR"
+                },
+                {
+                    "end": 186,
+                    "start": 182,
+                    "tag": "UNA"
+                },
+                {
+                    "end": 190,
+                    "start": 187,
+                    "tag": "UL"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 175,
+                    "start": 159,
+                    "tag": "UnileverResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "unilever.com/news/press-and\u2026",
+                    "end": 157,
+                    "expanded_url": "https://www.unilever.com/news/press-and-media/press-releases/2023/strong-sales-growth-and-continued-progress-against-strategy/?utm_source=UT&utm_medium=Social&utm_campaign=OSM_results_FY22",
+                    "start": 134,
+                    "url": "https://t.co/RR8yL75w2P"
+                },
+                {
+                    "display_url": "pic.twitter.com/ePz8vTAo16",
+                    "end": 214,
+                    "expanded_url": "https://twitter.com/Unilever/status/1623582839894687744/photo/1",
+                    "media_key": "3_1623582377304784899",
+                    "start": 191,
+                    "url": "https://t.co/ePz8vTAo16"
+                }
+            ]
+        },
+        "id": "1623582839894687744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1399,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "2022 full year results:\n\nOur billion+ Euro brands, accounting for 53% of Group turnover, delivered underlying sales growth of 10.9%.\n\nhttps://t.co/RR8yL75w2P\n\n#UnileverResults $ULVR $UNA $UL https://t.co/ePz8vTAo16"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "1726951153194201303": {
+        "attachments": {
+            "media_keys": [
+                "7_1726949952104841216"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-11-21T13:10:14.000Z",
+        "edit_history_tweet_ids": [
+            "1726951153194201303"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 5,
+                    "normalized_text": "COP28",
+                    "probability": 0.9283,
+                    "start": 1,
+                    "type": "Other"
+                },
+                {
+                    "end": 27,
+                    "normalized_text": "Dubai",
+                    "probability": 0.991,
+                    "start": 23,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Museum of the Future",
+                    "probability": 0.6168,
+                    "start": 56,
+                    "type": "Place"
+                },
+                {
+                    "end": 158,
+                    "normalized_text": "COP28",
+                    "probability": 0.9247,
+                    "start": 154,
+                    "type": "Other"
+                },
+                {
+                    "end": 222,
+                    "normalized_text": "\ufffd\ufffdMO",
+                    "probability": 0.534,
+                    "start": -1,
+                    "type": "Other"
+                },
+                {
+                    "end": 255,
+                    "normalized_text": " #OpenBlue Pione",
+                    "probability": 0.5209,
+                    "start": 240,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 6,
+                    "start": 0,
+                    "tag": "COP28"
+                },
+                {
+                    "end": 250,
+                    "start": 241,
+                    "tag": "OpenBlue"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/3ovaxJGzPU",
+                    "end": 295,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1726951153194201303/video/1",
+                    "media_key": "7_1726949952104841216",
+                    "start": 272,
+                    "url": "https://t.co/3ovaxJGzPU"
+                }
+            ]
+        },
+        "id": "1726951153194201303",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1551,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "#COP28 will convene in Dubai, which is also home to the Museum of the Future, a model of building technology innovation. We\u2019re proud to host an exclusive COP28 event at this iconic destination. Learn more about why the @\u200cMOTF was awarded an #OpenBlue Pioneer designation. https://t.co/3ovaxJGzPU"
+    }
+}

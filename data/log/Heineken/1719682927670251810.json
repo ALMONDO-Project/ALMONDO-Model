@@ -1,0 +1,69 @@
+{
+    "1719682927670251810": {
+        "author_id": "29191062",
+        "created_at": "2023-11-01T11:48:54.000Z",
+        "edit_history_tweet_ids": [
+            "1719682927670251810"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 95,
+                    "normalized_text": "F1",
+                    "probability": 0.6424,
+                    "start": 94,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "28985530",
+                    "start": 0,
+                    "username": "gameroomtheater"
+                },
+                {
+                    "end": 20,
+                    "id": "69008563",
+                    "start": 17,
+                    "username": "F1"
+                },
+                {
+                    "end": 35,
+                    "id": "1537120586735960064",
+                    "start": 21,
+                    "username": "f1multiviewer"
+                },
+                {
+                    "end": 47,
+                    "id": "1493944420890292226",
+                    "start": 36,
+                    "username": "F1LasVegas"
+                },
+                {
+                    "end": 55,
+                    "id": "140409019",
+                    "start": 48,
+                    "username": "ESPNF1"
+                },
+                {
+                    "end": 68,
+                    "id": "368276033",
+                    "start": 56,
+                    "username": "SkySportsF1"
+                }
+            ]
+        },
+        "id": "1719682927670251810",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 385,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@gameroomtheater @F1 @f1multiviewer @F1LasVegas @ESPNF1 @SkySportsF1 The place to be to watch F1 with friends while enjoying a drink! 10/10 \ud83d\udc4f"
+    }
+}

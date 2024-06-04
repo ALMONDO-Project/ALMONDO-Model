@@ -1,0 +1,56 @@
+{
+    "1683807500154335232": {
+        "author_id": "15544077",
+        "created_at": "2023-07-25T11:52:46.000Z",
+        "edit_history_tweet_ids": [
+            "1683807500154335232"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 105,
+                    "normalized_text": "Castilla y Le\u00f3n",
+                    "probability": 0.9116,
+                    "start": 91,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "478568637",
+                    "start": 3,
+                    "username": "eiriartem"
+                },
+                {
+                    "end": 23,
+                    "id": "15544077",
+                    "start": 15,
+                    "username": "ACCIONA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/FsM",
+                    "end": 130,
+                    "expanded_url": "https://acciona.smh.re/FsM",
+                    "start": 107,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/FsM",
+                    "url": "https://t.co/H7aHatAhkf"
+                }
+            ]
+        },
+        "id": "1683807500154335232",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @eiriartem: @ACCIONA llevar\u00e1 a cabo obras para la prevenci\u00f3n de incendios forestales en Castilla y Le\u00f3n https://t.co/H7aHatAhkf"
+    }
+}

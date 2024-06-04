@@ -1,0 +1,39 @@
+{
+    "1717903589358682271": {
+        "author_id": "29191062",
+        "created_at": "2023-10-27T13:58:27.000Z",
+        "edit_history_tweet_ids": [
+            "1717903589358682271"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Donghae",
+                    "probability": 0.7637,
+                    "start": 40,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "2367356648",
+                    "start": 0,
+                    "username": "pyeehae"
+                }
+            ]
+        },
+        "id": "1717903589358682271",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 520,
+            "like_count": 7,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@pyeehae In the world of foam drinking, Donghae reigns! \ud83e\udd72"
+    }
+}

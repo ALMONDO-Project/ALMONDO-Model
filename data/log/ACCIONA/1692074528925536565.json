@@ -1,0 +1,41 @@
+{
+    "1692074528925536565": {
+        "author_id": "15544077",
+        "created_at": "2023-08-17T07:22:59.000Z",
+        "edit_history_tweet_ids": [
+            "1692074528925536565"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "2755472610",
+                    "start": 3,
+                    "username": "mariovicente_"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/GHk",
+                    "end": 106,
+                    "expanded_url": "https://acciona.smh.re/GHk",
+                    "start": 83,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/GHk",
+                    "url": "https://t.co/rFFLgkUxsB"
+                }
+            ]
+        },
+        "id": "1692074528925536565",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @mariovicente_: Hibridaci\u00f3n renovable: cuando el viento y el sol se dan la mano https://t.co/rFFLgkUxsB"
+    }
+}

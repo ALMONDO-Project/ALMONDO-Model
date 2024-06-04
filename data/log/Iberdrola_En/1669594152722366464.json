@@ -1,0 +1,94 @@
+{
+    "1669594152722366464": {
+        "author_id": "293455710",
+        "created_at": "2023-06-16T06:34:00.000Z",
+        "edit_history_tweet_ids": [
+            "1669594152722366464"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 78,
+                    "normalized_text": "Europe",
+                    "probability": 0.9642,
+                    "start": 73,
+                    "type": "Place"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Spain",
+                    "probability": 0.938,
+                    "start": 125,
+                    "type": "Place"
+                },
+                {
+                    "end": 139,
+                    "normalized_text": "Portugal",
+                    "probability": 0.9539,
+                    "start": 132,
+                    "type": "Place"
+                },
+                {
+                    "end": 151,
+                    "normalized_text": "Germany",
+                    "probability": 0.9743,
+                    "start": 145,
+                    "type": "Place"
+                },
+                {
+                    "end": 217,
+                    "normalized_text": "REPowerEU",
+                    "probability": 0.4531,
+                    "start": 209,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 52,
+                    "tag": "energytransition"
+                },
+                {
+                    "end": 102,
+                    "start": 92,
+                    "tag": "renewable"
+                },
+                {
+                    "end": 218,
+                    "start": 208,
+                    "tag": "REPowerEU"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 33,
+                    "id": "74720323",
+                    "start": 29,
+                    "username": "EIB"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/86314/eib-iber\u2026",
+                    "end": 242,
+                    "expanded_url": "https://renews.biz/86314/eib-iberdrola-agree-1bn-financing-deal/",
+                    "start": 219,
+                    "unwound_url": "https://renews.biz/86314/eib-iberdrola-agree-1bn-financing-deal/",
+                    "url": "https://t.co/cRfD3HBoGQ"
+                }
+            ]
+        },
+        "id": "1669594152722366464",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 875,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "New \u20ac1bn green loan with the @EIB to accelerate the #energytransition in Europe.\n \n\u2705 For 22 #renewable plants with 2.2 GW in Spain, Portugal and Germany.\n \n\u2705 Green energy for more than 1 million households.\n\n#REPowerEU\nhttps://t.co/cRfD3HBoGQ"
+    }
+}

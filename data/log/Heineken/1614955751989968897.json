@@ -1,0 +1,58 @@
+{
+    "1614955751989968897": {
+        "attachments": {
+            "media_keys": [
+                "3_1614901322247012352"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-16T12:00:30.000Z",
+        "edit_history_tweet_ids": [
+            "1614955751989968897"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 27,
+                    "normalized_text": "Bluemonday",
+                    "probability": 0.5061,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 28,
+                    "start": 17,
+                    "tag": "Bluemonday"
+                },
+                {
+                    "end": 40,
+                    "start": 29,
+                    "tag": "Brewmonday"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/v0st11H0WO",
+                    "end": 64,
+                    "expanded_url": "https://twitter.com/Heineken/status/1614955751989968897/photo/1",
+                    "media_key": "3_1614901322247012352",
+                    "start": 41,
+                    "url": "https://t.co/v0st11H0WO"
+                }
+            ]
+        },
+        "id": "1614955751989968897",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 10330,
+            "like_count": 70,
+            "quote_count": 2,
+            "reply_count": 14,
+            "retweet_count": 9
+        },
+        "text": "Cheers to that! \n#Bluemonday #Brewmonday https://t.co/v0st11H0WO"
+    }
+}

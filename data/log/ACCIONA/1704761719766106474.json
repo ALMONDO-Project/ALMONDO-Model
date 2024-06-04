@@ -1,0 +1,55 @@
+{
+    "1704761719766106474": {
+        "attachments": {
+            "media_keys": [
+                "3_1704761650341933056"
+            ],
+            "media_source_tweet_id": [
+                "1704761656549470569"
+            ]
+        },
+        "author_id": "15544077",
+        "created_at": "2023-09-21T07:37:21.000Z",
+        "edit_history_tweet_ids": [
+            "1704761719766106474"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 20,
+                    "tag": "AccionaOpen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1151399927626510337",
+                    "start": 3,
+                    "username": "accionaopen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/49BPcbyDcH",
+                    "end": 56,
+                    "expanded_url": "https://twitter.com/accionaopen/status/1704761656549470569/photo/1",
+                    "media_key": "3_1704761650341933056",
+                    "start": 33,
+                    "url": "https://t.co/49BPcbyDcH"
+                }
+            ]
+        },
+        "id": "1704761719766106474",
+        "lang": "qme",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @accionaopen: \ud83e\udd19\n\n#AccionaOpen https://t.co/49BPcbyDcH"
+    }
+}

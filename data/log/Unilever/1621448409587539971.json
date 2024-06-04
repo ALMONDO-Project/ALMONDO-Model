@@ -1,0 +1,52 @@
+{
+    "1621448409587539971": {
+        "author_id": "109224937",
+        "created_at": "2023-02-03T10:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1621448409587539971"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "Vaccine Alliance",
+                    "probability": 0.8018,
+                    "start": 43,
+                    "type": "Other"
+                },
+                {
+                    "end": 129,
+                    "normalized_text": "Indonesia",
+                    "probability": 0.9848,
+                    "start": 121,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 37,
+                    "id": "97219875",
+                    "start": 32,
+                    "username": "gavi"
+                },
+                {
+                    "end": 79,
+                    "id": "2992489715",
+                    "start": 65,
+                    "username": "FundNutrition"
+                }
+            ]
+        },
+        "id": "1621448409587539971",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 4689,
+            "like_count": 21,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 3
+        },
+        "text": "Our new programme, working with @Gavi, the Vaccine Alliance, and @FundNutrition, will help protect 1 million children in Indonesia from preventable childhood illness. Find out how."
+    }
+}

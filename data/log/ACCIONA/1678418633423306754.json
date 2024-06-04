@@ -1,0 +1,93 @@
+{
+    "1678418633423306754": {
+        "attachments": {
+            "media_keys": [
+                "3_1678418593908678656"
+            ]
+        },
+        "author_id": "15544077",
+        "created_at": "2023-07-10T14:59:20.000Z",
+        "edit_history_tweet_ids": [
+            "1678418633423306754"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 84,
+                    "normalized_text": "Executive Programme",
+                    "probability": 0.6042,
+                    "start": 66,
+                    "type": "Other"
+                },
+                {
+                    "end": 90,
+                    "normalized_text": "iGEP",
+                    "probability": 0.3897,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "PeopleACCIONA",
+                    "probability": 0.5863,
+                    "start": 251,
+                    "type": "Other"
+                },
+                {
+                    "end": 276,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.5067,
+                    "start": 266,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 264,
+                    "start": 250,
+                    "tag": "PeopleACCIONA"
+                },
+                {
+                    "end": 277,
+                    "start": 265,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 127,
+                    "id": "2821311508",
+                    "start": 114,
+                    "username": "goheadspring"
+                },
+                {
+                    "end": 230,
+                    "id": "15544077",
+                    "start": 222,
+                    "username": "ACCIONA"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/nRJ6P4H3xd",
+                    "end": 301,
+                    "expanded_url": "https://twitter.com/ACCIONA/status/1678418633423306754/photo/1",
+                    "media_key": "3_1678418593908678656",
+                    "start": 278,
+                    "url": "https://t.co/nRJ6P4H3xd"
+                }
+            ]
+        },
+        "id": "1678418633423306754",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2886,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 3
+        },
+        "text": "El viernes pasado celebramos el final de la II edici\u00f3n del Global Executive Programme (iGEP), en colaboraci\u00f3n con @goheadspring \u2705\n\nNuestros directivos participaron activamente en el programa, en l\u00ednea con el compromiso de @ACCIONA con las personas \ud83d\udc4f #PeopleACCIONA #ACCIONAteam https://t.co/nRJ6P4H3xd"
+    }
+}

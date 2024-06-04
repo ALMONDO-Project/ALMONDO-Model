@@ -1,0 +1,67 @@
+{
+    "1635944377691299840": {
+        "attachments": {
+            "media_keys": [
+                "3_1635944375808081921"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-03-15T10:01:48.000Z",
+        "edit_history_tweet_ids": [
+            "1635944377691299840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Europe",
+                    "probability": 0.9712,
+                    "start": 21,
+                    "type": "Place"
+                },
+                {
+                    "end": 173,
+                    "normalized_text": "South Europe",
+                    "probability": 0.6354,
+                    "start": 162,
+                    "type": "Place"
+                },
+                {
+                    "end": 228,
+                    "normalized_text": "Roland Billeter",
+                    "probability": 0.4258,
+                    "start": 214,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 280,
+                    "start": 270,
+                    "tag": "mipim2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/AJZeyA6k5V",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1635944377691299840/photo/1",
+                    "media_key": "3_1635944375808081921",
+                    "start": 281,
+                    "url": "https://t.co/AJZeyA6k5V"
+                }
+            ]
+        },
+        "id": "1635944377691299840",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 11386,
+            "like_count": 11,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "\"90% of buildings in Europe are retrofit, so the 1st step to achieving sustainability targets is to audit their energy consumption\" our VP &amp; General Manager, South Europe, Building Technologies &amp; Solutions Roland Billeter talking to Il Quotidiano Immobiliare at #mipim2023 https://t.co/AJZeyA6k5V"
+    }
+}

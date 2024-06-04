@@ -1,0 +1,59 @@
+{
+    "1660929967717249024": {
+        "author_id": "15544077",
+        "created_at": "2023-05-23T08:45:37.000Z",
+        "edit_history_tweet_ids": [
+            "1660929967717249024"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 108,
+                    "normalized_text": "Miguel \u00c1ngel Rodr\u00edguez",
+                    "probability": 0.7831,
+                    "start": 87,
+                    "type": "Person"
+                },
+                {
+                    "end": 138,
+                    "normalized_text": "Intel",
+                    "probability": 0.6778,
+                    "start": 134,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 82,
+                    "start": 65,
+                    "tag": "EncuentroDigital"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "368889720",
+                    "start": 3,
+                    "username": "voz_populi"
+                },
+                {
+                    "end": 119,
+                    "id": "15544077",
+                    "start": 111,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1660929967717249024",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @voz_populi: No te pierdas hoy, a partir de las 11 am nuestro #EncuentroDigital con Miguel \u00c1ngel Rodr\u00edguez (@ACCIONA), experto en #Intel\u2026"
+    }
+}

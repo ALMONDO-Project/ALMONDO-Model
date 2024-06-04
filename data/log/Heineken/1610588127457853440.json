@@ -1,0 +1,46 @@
+{
+    "1610588127457853440": {
+        "author_id": "29191062",
+        "created_at": "2023-01-04T10:45:07.000Z",
+        "edit_history_tweet_ids": [
+            "1610588127457853440"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "DryJanuary",
+                    "probability": 0.757,
+                    "start": 24,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 23,
+                    "tag": "DryJanuary"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "3050007082",
+                    "start": 0,
+                    "username": "Mulligans6"
+                }
+            ]
+        },
+        "id": "1610588127457853440",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 246,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@Mulligans6 Let's go \ud83d\udcaa #DryJanuary"
+    }
+}

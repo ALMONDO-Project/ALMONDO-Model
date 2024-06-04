@@ -1,0 +1,39 @@
+{
+    "1616448956581482496": {
+        "author_id": "29191062",
+        "created_at": "2023-01-20T14:53:58.000Z",
+        "edit_history_tweet_ids": [
+            "1616448956581482496"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 45,
+                    "normalized_text": "Ya",
+                    "probability": 0.5478,
+                    "start": 44,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "2998097850",
+                    "start": 0,
+                    "username": "milkteus"
+                }
+            ]
+        },
+        "id": "1616448956581482496",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 30,
+            "impression_count": 122435,
+            "like_count": 2228,
+            "quote_count": 207,
+            "reply_count": 54,
+            "retweet_count": 861
+        },
+        "text": "@milkteus Going into the weekend like Ya Ya Ya \ud83c\udf7b"
+    }
+}

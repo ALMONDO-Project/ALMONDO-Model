@@ -1,0 +1,60 @@
+{
+    "1610269801141641218": {
+        "attachments": {
+            "media_keys": [
+                "3_1610269799153651714"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-03T13:40:12.000Z",
+        "edit_history_tweet_ids": [
+            "1610269801141641218"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 79,
+                    "normalized_text": "World Economic Forum",
+                    "probability": 0.6783,
+                    "start": 60,
+                    "type": "Other"
+                },
+                {
+                    "end": 136,
+                    "normalized_text": "George Oliver",
+                    "probability": 0.9525,
+                    "start": 124,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3v8qWmd",
+                    "end": 235,
+                    "expanded_url": "https://on.jci.com/3v8qWmd",
+                    "start": 212,
+                    "url": "https://t.co/YaZf0FnsLv"
+                },
+                {
+                    "display_url": "pic.twitter.com/pKb1eGCrxg",
+                    "end": 259,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1610269801141641218/photo/1",
+                    "media_key": "3_1610269799153651714",
+                    "start": 236,
+                    "url": "https://t.co/pKb1eGCrxg"
+                }
+            ]
+        },
+        "id": "1610269801141641218",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 765,
+            "like_count": 10,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Technology drives every aspect of our lives. Listen to this World Economic Forum podcast featuring world leaders along with George Oliver, our CEO, discussing how leaders can prepare their teams for uncertainty: https://t.co/YaZf0FnsLv https://t.co/pKb1eGCrxg"
+    }
+}

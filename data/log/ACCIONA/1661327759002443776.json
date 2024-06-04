@@ -1,0 +1,45 @@
+{
+    "1661327759002443776": {
+        "author_id": "15544077",
+        "created_at": "2023-05-24T11:06:18.000Z",
+        "edit_history_tweet_ids": [
+            "1661327759002443776"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 138,
+                    "normalized_text": "Empres",
+                    "probability": 0.5422,
+                    "start": 133,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 18,
+                    "id": "1579801424",
+                    "start": 3,
+                    "username": "Espanha_Brasil"
+                },
+                {
+                    "end": 41,
+                    "id": "15544077",
+                    "start": 33,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1661327759002443776",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @Espanha_Brasil: \ud83c\udfc6Premio para @ACCIONA por su pol\u00edtica de prevenci\u00f3n de riesgos: recibe el Reconocimiento al M\u00e9rito en la Gesti\u00f3n Empres\u2026"
+    }
+}

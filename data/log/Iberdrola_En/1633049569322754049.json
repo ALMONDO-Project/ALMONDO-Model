@@ -1,0 +1,91 @@
+{
+    "1633049569322754049": {
+        "attachments": {
+            "media_keys": [
+                "3_1633049496820019201",
+                "3_1633049526545051648"
+            ]
+        },
+        "author_id": "293455710",
+        "created_at": "2023-03-07T10:18:52.000Z",
+        "edit_history_tweet_ids": [
+            "1633049569322754049"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 20,
+                    "normalized_text": "France",
+                    "probability": 0.9801,
+                    "start": 15,
+                    "type": "Place"
+                },
+                {
+                    "end": 111,
+                    "normalized_text": "Iberdrola",
+                    "probability": 0.4111,
+                    "start": 103,
+                    "type": "Place"
+                },
+                {
+                    "end": 118,
+                    "normalized_text": "France",
+                    "probability": 0.7434,
+                    "start": 113,
+                    "type": "Place"
+                },
+                {
+                    "end": 227,
+                    "normalized_text": "France",
+                    "probability": 0.9748,
+                    "start": 222,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 84,
+                    "id": "828870475635970048",
+                    "start": 76,
+                    "username": "ERollin"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "renews.biz/84238/iberdrol\u2026",
+                    "end": 256,
+                    "expanded_url": "https://renews.biz/84238/iberdrola-appoints-new-france-chief/",
+                    "start": 233,
+                    "url": "https://t.co/bOSgDv22QR"
+                },
+                {
+                    "display_url": "pic.twitter.com/sBozzjXYpd",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1633049569322754049/photo/1",
+                    "media_key": "3_1633049496820019201",
+                    "start": 257,
+                    "url": "https://t.co/sBozzjXYpd"
+                },
+                {
+                    "display_url": "pic.twitter.com/sBozzjXYpd",
+                    "end": 280,
+                    "expanded_url": "https://twitter.com/Iberdrola_En/status/1633049569322754049/photo/1",
+                    "media_key": "3_1633049526545051648",
+                    "start": 257,
+                    "url": "https://t.co/sBozzjXYpd"
+                }
+            ]
+        },
+        "id": "1633049569322754049",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 674,
+            "like_count": 12,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 4
+        },
+        "text": "\ud83c\udd95 New phase in France \ud83c\uddeb\ud83c\uddf7  to continue building the energy of the future.\n\n\ud83d\udd0a @ERollin, appointed CEO of Iberdrola France. Congratulations \ud83c\udf89!\n\nCommitted to boosting energy sovereignty and the fight against climate change in France \ud83c\udf3f.\n\nhttps://t.co/bOSgDv22QR https://t.co/sBozzjXYpd"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1653643677850271744": {
+        "attachments": {
+            "media_keys": [
+                "3_1653642907855859715"
+            ]
+        },
+        "author_id": "197352549",
+        "created_at": "2023-05-03T06:12:30.000Z",
+        "edit_history_tweet_ids": [
+            "1653643677850271744"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 43,
+                    "normalized_text": "Tobias Meyer",
+                    "probability": 0.8953,
+                    "start": 32,
+                    "type": "Person"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "Melanie Kreis",
+                    "probability": 0.8255,
+                    "start": 51,
+                    "type": "Person"
+                },
+                {
+                    "end": 193,
+                    "normalized_text": "DPDHLresults",
+                    "probability": 0.4609,
+                    "start": 182,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 194,
+                    "start": 181,
+                    "tag": "DPDHLresults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "reporting-hub.dpdhl.com/en/",
+                    "end": 180,
+                    "expanded_url": "https://reporting-hub.dpdhl.com/en/",
+                    "start": 157,
+                    "status": 200,
+                    "unwound_url": "https://reporting-hub.dpdhl.com/en/",
+                    "url": "https://t.co/nPmWWeiJin"
+                },
+                {
+                    "display_url": "pic.twitter.com/Qpl0sGkphg",
+                    "end": 218,
+                    "expanded_url": "https://twitter.com/DeutschePostDHL/status/1653643677850271744/photo/1",
+                    "media_key": "3_1653642907855859715",
+                    "start": 195,
+                    "url": "https://t.co/Qpl0sGkphg"
+                }
+            ]
+        },
+        "id": "1653643677850271744",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1110,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Resilient business performance: Tobias Meyer &amp; Melanie Kreis will host an investor call discussing our Q1 performance at 10 am CEST today. Tune in here: https://t.co/nPmWWeiJin #DPDHLresults https://t.co/Qpl0sGkphg"
+    }
+}

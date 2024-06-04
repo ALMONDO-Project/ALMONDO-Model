@@ -1,0 +1,58 @@
+{
+    "1705175244317634590": {
+        "attachments": {
+            "media_keys": [
+                "7_1705175180752932864"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-09-22T11:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1705175244317634590"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "SummerRecap",
+                    "probability": 0.5259,
+                    "start": 43,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 54,
+                    "start": 42,
+                    "tag": "SummerRecap"
+                },
+                {
+                    "end": 62,
+                    "start": 55,
+                    "tag": "autumn"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/kESWFRArwt",
+                    "end": 86,
+                    "expanded_url": "https://twitter.com/Heineken/status/1705175244317634590/video/1",
+                    "media_key": "7_1705175180752932864",
+                    "start": 63,
+                    "url": "https://t.co/kESWFRArwt"
+                }
+            ]
+        },
+        "id": "1705175244317634590",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 9359,
+            "like_count": 46,
+            "quote_count": 0,
+            "reply_count": 3,
+            "retweet_count": 11
+        },
+        "text": "Bye bye green summer, hello golden season #SummerRecap #autumn https://t.co/kESWFRArwt"
+    }
+}

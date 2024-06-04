@@ -1,0 +1,45 @@
+{
+    "1668946737430511616": {
+        "author_id": "15544077",
+        "created_at": "2023-06-14T11:41:24.000Z",
+        "edit_history_tweet_ids": [
+            "1668946737430511616"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Elena",
+                    "probability": 0.4612,
+                    "start": 18,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "370674809",
+                    "start": 3,
+                    "username": "Silviajfra"
+                },
+                {
+                    "end": 95,
+                    "id": "15544077",
+                    "start": 87,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1668946737430511616",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @Silviajfra: \ud83d\udce2 Elena es Digital Business Development &amp; Smart Society Manager en @ACCIONA. Ingeniera, innovadora y madre, est\u00e1 impulsando\u2026"
+    }
+}

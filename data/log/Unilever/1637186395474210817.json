@@ -1,0 +1,39 @@
+{
+    "1637186395474210817": {
+        "author_id": "109224937",
+        "created_at": "2023-03-18T20:17:08.000Z",
+        "edit_history_tweet_ids": [
+            "1637186395474210817"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "Kristen",
+                    "probability": 0.666,
+                    "start": 20,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1637160246597541888",
+                    "start": 0,
+                    "username": "Kristen45552433"
+                }
+            ]
+        },
+        "id": "1637186395474210817",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 46,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "@Kristen45552433 Hi Kristen, we appreciate you reaching out and bringing this to our attention. Can you please send us your contact information in a direct message so we can help?"
+    }
+}

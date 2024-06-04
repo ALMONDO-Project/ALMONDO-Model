@@ -1,0 +1,39 @@
+{
+    "1688857327602958336": {
+        "author_id": "15544077",
+        "created_at": "2023-08-08T10:18:59.000Z",
+        "edit_history_tweet_ids": [
+            "1688857327602958336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 25,
+                    "normalized_text": "Sevilla",
+                    "probability": 0.8695,
+                    "start": 19,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "2755472610",
+                    "start": 3,
+                    "username": "mariovicente_"
+                }
+            ]
+        },
+        "id": "1688857327602958336",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @mariovicente_: Sevilla planea instalar marquesinas de autob\u00fas refrigeradas y alimentadas con energ\u00eda solar en 2024 como una de las solu\u2026"
+    }
+}

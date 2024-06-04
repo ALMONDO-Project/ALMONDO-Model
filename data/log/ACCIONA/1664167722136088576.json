@@ -1,0 +1,53 @@
+{
+    "1664167722136088576": {
+        "author_id": "15544077",
+        "created_at": "2023-06-01T07:11:18.000Z",
+        "edit_history_tweet_ids": [
+            "1664167722136088576"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 48,
+                    "normalized_text": "AcademyACCIONA",
+                    "probability": 0.58,
+                    "start": 35,
+                    "type": "Other"
+                },
+                {
+                    "end": 58,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.9854,
+                    "start": 53,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 34,
+                    "tag": "AcademyACCIONA"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 18,
+                    "id": "103793493",
+                    "start": 3,
+                    "username": "ACCIONACareers"
+                }
+            ]
+        },
+        "id": "1664167722136088576",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @ACCIONACareers: \ud83d\udce2 El Programa #AcademyACCIONA en Espa\u00f1a ya est\u00e1 aqu\u00ed \ud83d\udca1 2 semanas de formaci\u00f3n intensivas que te preparar\u00e1n para el mund\u2026"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "1708729117888205095": {
+        "attachments": {
+            "media_keys": [
+                "3_1708559258684424193"
+            ],
+            "media_source_tweet_id": [
+                "1708559265038770376"
+            ]
+        },
+        "author_id": "15544077",
+        "created_at": "2023-10-02T06:22:23.000Z",
+        "edit_history_tweet_ids": [
+            "1708729117888205095"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "AccionaOpen",
+                    "probability": 0.7435,
+                    "start": 58,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 69,
+                    "start": 57,
+                    "tag": "AccionaOpen"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "1151399927626510337",
+                    "start": 3,
+                    "username": "accionaopen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/shqUvSkvIJ",
+                    "end": 93,
+                    "expanded_url": "https://twitter.com/accionaopen/status/1708559265038770376/photo/1",
+                    "media_key": "3_1708559258684424193",
+                    "start": 70,
+                    "url": "https://t.co/shqUvSkvIJ"
+                }
+            ]
+        },
+        "id": "1708729117888205095",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @accionaopen: \u00bfQui\u00e9n ser\u00e1 su nuevo due\u00f1o en 2023? \ud83d\ude0f \n\n#AccionaOpen https://t.co/shqUvSkvIJ"
+    }
+}

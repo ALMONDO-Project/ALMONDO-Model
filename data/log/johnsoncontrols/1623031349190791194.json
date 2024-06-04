@@ -1,0 +1,60 @@
+{
+    "1623031349190791194": {
+        "attachments": {
+            "media_keys": [
+                "7_1623030169882529803"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-02-07T18:50:02.000Z",
+        "edit_history_tweet_ids": [
+            "1623031349190791194"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "AHRexpo",
+                    "probability": 0.7991,
+                    "start": 5,
+                    "type": "Other"
+                },
+                {
+                    "end": 226,
+                    "normalized_text": "Booths",
+                    "probability": 0.4697,
+                    "start": 221,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 12,
+                    "start": 4,
+                    "tag": "AHRexpo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/bsWldqMIw7",
+                    "end": 268,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1623031349190791194/video/1",
+                    "media_key": "7_1623030169882529803",
+                    "start": 245,
+                    "url": "https://t.co/bsWldqMIw7"
+                }
+            ]
+        },
+        "id": "1623031349190791194",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 867,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "The #AHRexpo show floor is buzzing! Come find the latest Building Automation &amp; Controls solutions at Booth C5442. And don\u2019t miss out on other leading building products, technologies, software and services featured at Booths B1617 and B1629. https://t.co/bsWldqMIw7"
+    }
+}

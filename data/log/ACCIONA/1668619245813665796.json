@@ -1,0 +1,59 @@
+{
+    "1668619245813665796": {
+        "author_id": "15544077",
+        "created_at": "2023-06-13T14:00:04.000Z",
+        "edit_history_tweet_ids": [
+            "1668619245813665796"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "M\u00e1laga",
+                    "probability": 0.6898,
+                    "start": 16,
+                    "type": "Place"
+                },
+                {
+                    "end": 125,
+                    "normalized_text": "Aitor Gonz\u00e1lez",
+                    "probability": 0.5195,
+                    "start": 112,
+                    "type": "Other"
+                },
+                {
+                    "end": 145,
+                    "normalized_text": "CPO Summit",
+                    "probability": 0.667,
+                    "start": 136,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 30,
+                    "id": "112463963",
+                    "start": 24,
+                    "username": "Fycma"
+                },
+                {
+                    "end": 162,
+                    "id": "3608316077",
+                    "start": 153,
+                    "username": "DES_show"
+                }
+            ]
+        },
+        "id": "1668619245813665796",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 635,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\ud83d\udcc5 15 de junio\n\ud83d\udccd M\u00e1laga (@Fycma)\n\nNo te pierdas a nuestro Gerente Responsable de Procesos y Sistemas de Compras, Aitor Gonz\u00e1lez, en el ''CPO Summit'' del @DES_show \ud83d\udce3\n\nM\u00e1s informaci\u00f3n y registro aqu\u00ed \ud83d\udc47"
+    }
+}

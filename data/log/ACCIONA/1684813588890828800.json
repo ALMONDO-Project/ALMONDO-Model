@@ -1,0 +1,41 @@
+{
+    "1684813588890828800": {
+        "author_id": "15544077",
+        "created_at": "2023-07-28T06:30:36.000Z",
+        "edit_history_tweet_ids": [
+            "1684813588890828800"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "59259189",
+                    "start": 3,
+                    "username": "AlanHenriquez"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/Fyo",
+                    "end": 126,
+                    "expanded_url": "https://acciona.smh.re/Fyo",
+                    "start": 103,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/Fyo",
+                    "url": "https://t.co/zB2wt43tfa"
+                }
+            ]
+        },
+        "id": "1684813588890828800",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @AlanHenriquez: Lecciones de regeneraci\u00f3n sostenible: La generosa e inteligente vida de las plantas https://t.co/zB2wt43tfa"
+    }
+}

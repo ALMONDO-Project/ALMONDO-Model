@@ -1,0 +1,39 @@
+{
+    "1720337263496753355": {
+        "author_id": "29191062",
+        "created_at": "2023-11-03T07:09:00.000Z",
+        "edit_history_tweet_ids": [
+            "1720337263496753355"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "brewmaster",
+                    "probability": 0.7764,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1096987405",
+                    "start": 0,
+                    "username": "sciencegirlkati"
+                }
+            ]
+        },
+        "id": "1720337263496753355",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 52,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@sciencegirlkati We hope he's having a blast exploring the brewmaster's world! \ud83c\udf7a"
+    }
+}

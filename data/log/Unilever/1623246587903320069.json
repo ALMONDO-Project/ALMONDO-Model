@@ -1,0 +1,48 @@
+{
+    "1623246587903320069": {
+        "author_id": "109224937",
+        "created_at": "2023-02-08T09:05:19.000Z",
+        "edit_history_tweet_ids": [
+            "1623246587903320069"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Ukweli",
+                    "probability": 0.6122,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "750644066115842049",
+                    "start": 0,
+                    "username": "milton_chege"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2o5hP73",
+                    "end": 105,
+                    "expanded_url": "http://bit.ly/2o5hP73",
+                    "start": 82,
+                    "url": "https://t.co/A4Ao6jTyLW"
+                }
+            ]
+        },
+        "id": "1623246587903320069",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 32,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@milton_chege Hi Ukweli, we ask that you please contact your local careline here: https://t.co/A4Ao6jTyLW. You'll be connected to the right team, and they'll be able to look into this for you."
+    }
+}

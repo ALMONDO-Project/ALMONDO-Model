@@ -1,0 +1,57 @@
+{
+    "1695737926716403965": {
+        "author_id": "15544077",
+        "created_at": "2023-08-27T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1695737926716403965"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 145,
+                    "normalized_text": "Amazon\u00eda peruana",
+                    "probability": 0.3959,
+                    "start": 130,
+                    "type": "Other"
+                },
+                {
+                    "end": 208,
+                    "normalized_text": "Per\u00fa",
+                    "probability": 0.9776,
+                    "start": 205,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 30,
+                    "id": "2968051607",
+                    "start": 18,
+                    "username": "ACCIONA_ORG"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "experience.acciona.com/es/sostenibili\u2026",
+                    "end": 235,
+                    "expanded_url": "https://experience.acciona.com/es/sostenibilidad/luz-en-casa-viaje-de-la-luz-amazonia/?utm_source=twitter&utm_medium=social&utm_campaign=202308&utm_content=post",
+                    "start": 212,
+                    "status": 200,
+                    "unwound_url": "https://experience.acciona.com/es/sostenibilidad/luz-en-casa-viaje-de-la-luz-amazonia/?utm_source=twitter&utm_medium=social&utm_campaign=202308&utm_content=post",
+                    "url": "https://t.co/Afjcl9hOgA"
+                }
+            ]
+        },
+        "id": "1695737926716403965",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 37582,
+            "like_count": 279,
+            "quote_count": 0,
+            "reply_count": 6,
+            "retweet_count": 36
+        },
+        "text": "Nuestra fundaci\u00f3n @ACCIONA_ORG lleva electricidad limpia y social y econ\u00f3micamente sostenible a las poblaciones m\u00e1s remotas de la Amazon\u00eda peruana \u26a1\ufe0f\ud83c\uddf5\ud83c\uddea\n\nDescubre el viaje de la luz en este reportaje desde Per\u00fa \ud83d\udc47 https://t.co/Afjcl9hOgA"
+    }
+}

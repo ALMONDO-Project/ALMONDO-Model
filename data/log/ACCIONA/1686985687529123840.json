@@ -1,0 +1,71 @@
+{
+    "1686985687529123840": {
+        "author_id": "15544077",
+        "created_at": "2023-08-03T06:21:45.000Z",
+        "edit_history_tweet_ids": [
+            "1686985687529123840"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 94,
+                    "normalized_text": "Nordex",
+                    "probability": 0.8114,
+                    "start": 89,
+                    "type": "Organization"
+                },
+                {
+                    "end": 108,
+                    "normalized_text": "ACCIONA1S23",
+                    "probability": 0.5343,
+                    "start": 98,
+                    "type": "Other"
+                },
+                {
+                    "end": 121,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.5095,
+                    "start": 111,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 109,
+                    "start": 97,
+                    "tag": "ACCIONA1S23"
+                },
+                {
+                    "end": 122,
+                    "start": 110,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "280027788",
+                    "start": 3,
+                    "username": "javiercerrudo"
+                },
+                {
+                    "end": 28,
+                    "id": "15544077",
+                    "start": 20,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1686985687529123840",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @javiercerrudo: .@ACCIONA gana \u20ac467 millones, acelera en infraestructuras y consolida Nordex. #ACCIONA1S23 #ACCIONAteam https://t.co/4Cv\u2026"
+    }
+}

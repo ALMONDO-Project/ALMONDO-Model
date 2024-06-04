@@ -1,0 +1,77 @@
+{
+    "1667573182386130945": {
+        "attachments": {
+            "media_keys": [
+                "3_1667573172865040385"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-06-10T16:43:23.000Z",
+        "edit_history_tweet_ids": [
+            "1667573182386130945"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "UCLFinal",
+                    "probability": 0.8685,
+                    "start": 14,
+                    "type": "Other"
+                },
+                {
+                    "end": 30,
+                    "normalized_text": "ManCity",
+                    "probability": 0.4525,
+                    "start": 24,
+                    "type": "Organization"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "InterCity",
+                    "probability": 0.6419,
+                    "start": 33,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 22,
+                    "start": 13,
+                    "tag": "UCLFinal"
+                },
+                {
+                    "end": 31,
+                    "start": 23,
+                    "tag": "ManCity"
+                },
+                {
+                    "end": 42,
+                    "start": 32,
+                    "tag": "InterCity"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/qbXxjLONdH",
+                    "end": 66,
+                    "expanded_url": "https://twitter.com/Heineken/status/1667573182386130945/photo/1",
+                    "media_key": "3_1667573172865040385",
+                    "start": 43,
+                    "url": "https://t.co/qbXxjLONdH"
+                }
+            ]
+        },
+        "id": "1667573182386130945",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9841,
+            "like_count": 63,
+            "quote_count": 1,
+            "reply_count": 9,
+            "retweet_count": 14
+        },
+        "text": "Who\u2019s ready? #UCLFinal #ManCity #InterCity https://t.co/qbXxjLONdH"
+    }
+}

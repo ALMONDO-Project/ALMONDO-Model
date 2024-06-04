@@ -1,0 +1,39 @@
+{
+    "1615335081559703553": {
+        "author_id": "29191062",
+        "created_at": "2023-01-17T13:07:49.000Z",
+        "edit_history_tweet_ids": [
+            "1615335081559703553"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 16,
+                    "normalized_text": "BeerTube",
+                    "probability": 0.8986,
+                    "start": 9,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "10228272",
+                    "start": 0,
+                    "username": "YouTube"
+                }
+            ]
+        },
+        "id": "1615335081559703553",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2327,
+            "like_count": 26,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@YouTube BeerTube"
+    }
+}

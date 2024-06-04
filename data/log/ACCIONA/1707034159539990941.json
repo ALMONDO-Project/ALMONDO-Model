@@ -1,0 +1,52 @@
+{
+    "1707034159539990941": {
+        "author_id": "15544077",
+        "created_at": "2023-09-27T14:07:13.000Z",
+        "edit_history_tweet_ids": [
+            "1707034159539990941"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 89,
+                    "normalized_text": "UNEFE",
+                    "probability": 0.5065,
+                    "start": 85,
+                    "type": "Organization"
+                },
+                {
+                    "end": 101,
+                    "normalized_text": "urjc",
+                    "probability": 0.5807,
+                    "start": 98,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "731085269215154176",
+                    "start": 3,
+                    "username": "IngIndURJC"
+                },
+                {
+                    "end": 59,
+                    "id": "15544077",
+                    "start": 51,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1707034159539990941",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 4
+        },
+        "text": "RT @IngIndURJC: Ahora es el turno de compa\u00f1eros de @ACCIONA y nuestro director de la UNEFE de la (urjc) que nos presenta el proyecto de efi\u2026"
+    }
+}

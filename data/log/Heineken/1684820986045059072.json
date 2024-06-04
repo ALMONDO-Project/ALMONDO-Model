@@ -1,0 +1,58 @@
+{
+    "1684820986045059072": {
+        "attachments": {
+            "media_keys": [
+                "7_1684197324594053120"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-07-28T07:00:00.000Z",
+        "edit_history_tweet_ids": [
+            "1684820986045059072"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 101,
+                    "normalized_text": "Heineken00",
+                    "probability": 0.4945,
+                    "start": 92,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 90,
+                    "start": 67,
+                    "tag": "WhenYouDriveNeverDrink"
+                },
+                {
+                    "end": 102,
+                    "start": 91,
+                    "tag": "Heineken00"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/cOebCnrsXP",
+                    "end": 126,
+                    "expanded_url": "https://twitter.com/Heineken/status/1684820986045059072/video/1",
+                    "media_key": "7_1684197324594053120",
+                    "start": 103,
+                    "url": "https://t.co/cOebCnrsXP"
+                }
+            ]
+        },
+        "id": "1684820986045059072",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 6021,
+            "like_count": 28,
+            "quote_count": 0,
+            "reply_count": 8,
+            "retweet_count": 2
+        },
+        "text": "The best driver to choose is obvious: the one who is not drinking. #WhenYouDriveNeverDrink #Heineken00 https://t.co/cOebCnrsXP"
+    }
+}

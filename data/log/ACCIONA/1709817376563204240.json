@@ -1,0 +1,45 @@
+{
+    "1709817376563204240": {
+        "author_id": "15544077",
+        "created_at": "2023-10-05T06:26:44.000Z",
+        "edit_history_tweet_ids": [
+            "1709817376563204240"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 123,
+                    "normalized_text": "FIDIC Project Awards 2023",
+                    "probability": 0.9394,
+                    "start": 99,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "2896266245",
+                    "start": 3,
+                    "username": "DiegoramiroPini"
+                },
+                {
+                    "end": 50,
+                    "id": "15544077",
+                    "start": 42,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1709817376563204240",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @DiegoramiroPini: \u00a1Buenas noticias! \ud83c\udfc6\n\n@ACCIONA y sus socios han sido galardonados durante los \u201cFIDIC Project Awards 2023\u201d por el proyec\u2026"
+    }
+}

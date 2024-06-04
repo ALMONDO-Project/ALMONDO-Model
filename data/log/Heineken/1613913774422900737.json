@@ -1,0 +1,53 @@
+{
+    "1613913774422900737": {
+        "attachments": {
+            "media_keys": [
+                "7_1613861018186153985"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-13T15:00:03.000Z",
+        "edit_history_tweet_ids": [
+            "1613913774422900737"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "DryJanuary",
+                    "probability": 0.6958,
+                    "start": 28,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 38,
+                    "start": 27,
+                    "tag": "DryJanuary"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/6ovGGnqTIa",
+                    "end": 62,
+                    "expanded_url": "https://twitter.com/Heineken/status/1613913774422900737/video/1",
+                    "media_key": "7_1613861018186153985",
+                    "start": 39,
+                    "url": "https://t.co/6ovGGnqTIa"
+                }
+            ]
+        },
+        "id": "1613913774422900737",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 7057,
+            "like_count": 20,
+            "quote_count": 2,
+            "reply_count": 3,
+            "retweet_count": 2
+        },
+        "text": "Give it 0.0%. Now you can. #DryJanuary https://t.co/6ovGGnqTIa"
+    }
+}

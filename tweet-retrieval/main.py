@@ -29,7 +29,6 @@ def main():
                 user_data.download_user_tweets()
                 count = min(2500, compute_max_tweets(BEARER_TOKEN))  
         except ValueError as e:
-            users_data = users_update(users_data, username, DATA)
             print(e)
             continue
         

@@ -1,0 +1,39 @@
+{
+    "1623662707458117632": {
+        "author_id": "29191062",
+        "created_at": "2023-02-09T12:38:50.000Z",
+        "edit_history_tweet_ids": [
+            "1623662707458117632"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Green",
+                    "probability": 0.4292,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "73359920",
+                    "start": 0,
+                    "username": "MaisonValentino"
+                }
+            ]
+        },
+        "id": "1623662707458117632",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1054,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@MaisonValentino Green suits him \ud83d\udc9a"
+    }
+}

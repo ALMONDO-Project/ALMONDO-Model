@@ -1,0 +1,72 @@
+{
+    "1683374706886426625": {
+        "attachments": {
+            "media_keys": [
+                "7_1683374565857034240"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-07-24T07:13:00.000Z",
+        "edit_history_tweet_ids": [
+            "1683374706886426625"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 182,
+                    "normalized_text": "Heineken00",
+                    "probability": 0.5689,
+                    "start": 173,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 171,
+                    "start": 148,
+                    "tag": "WhenYouDriveNeverDrink"
+                },
+                {
+                    "end": 183,
+                    "start": 172,
+                    "tag": "Heineken00"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 142,
+                    "id": "29191062",
+                    "start": 133,
+                    "username": "Heineken"
+                },
+                {
+                    "end": 200,
+                    "id": "556260847",
+                    "start": 184,
+                    "username": "Max33Verstappen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/5Dv0VGq8N6",
+                    "end": 224,
+                    "expanded_url": "https://twitter.com/Heineken/status/1683374706886426625/video/1",
+                    "media_key": "7_1683374565857034240",
+                    "start": 201,
+                    "url": "https://t.co/5Dv0VGq8N6"
+                }
+            ]
+        },
+        "id": "1683374706886426625",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 349,
+            "impression_count": 618811,
+            "like_count": 5081,
+            "quote_count": 481,
+            "reply_count": 97,
+            "retweet_count": 901
+        },
+        "text": "When it comes to choosing who the best driver is, the answer is pretty obvious\u2026 the one who is not drinking of course. Unless it\u2019s a @heineken 0.0. #WhenYouDriveNeverDrink #Heineken00 @Max33Verstappen https://t.co/5Dv0VGq8N6"
+    }
+}

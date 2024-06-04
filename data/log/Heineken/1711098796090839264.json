@@ -1,0 +1,61 @@
+{
+    "1711098796090839264": {
+        "attachments": {
+            "media_keys": [
+                "3_1711098793427415040"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-10-08T19:18:38.000Z",
+        "edit_history_tweet_ids": [
+            "1711098796090839264"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 52,
+                    "normalized_text": "F1",
+                    "probability": 0.8193,
+                    "start": 51,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 53,
+                    "start": 50,
+                    "tag": "F1"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 48,
+                    "id": "556260847",
+                    "start": 32,
+                    "username": "Max33Verstappen"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/z75wHyJbTF",
+                    "end": 77,
+                    "expanded_url": "https://twitter.com/Heineken/status/1711098796090839264/photo/1",
+                    "media_key": "3_1711098793427415040",
+                    "start": 54,
+                    "url": "https://t.co/z75wHyJbTF"
+                }
+            ]
+        },
+        "id": "1711098796090839264",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 9617,
+            "like_count": 66,
+            "quote_count": 2,
+            "reply_count": 5,
+            "retweet_count": 11
+        },
+        "text": "Huge CONGRATS to the unbeatable @Max33Verstappen. #F1 https://t.co/z75wHyJbTF"
+    }
+}

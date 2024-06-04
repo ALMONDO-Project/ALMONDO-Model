@@ -1,0 +1,52 @@
+{
+    "1634252785914109952": {
+        "author_id": "109224937",
+        "created_at": "2023-03-10T18:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1634252785914109952"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 158,
+                    "normalized_text": "SXSW",
+                    "probability": 0.5678,
+                    "start": 155,
+                    "type": "Other"
+                },
+                {
+                    "end": 202,
+                    "normalized_text": "Sam Samaras",
+                    "probability": 0.6405,
+                    "start": 192,
+                    "type": "Other"
+                },
+                {
+                    "end": 248,
+                    "normalized_text": "Hilton Austin Downtown",
+                    "probability": 0.4036,
+                    "start": 227,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 159,
+                    "start": 154,
+                    "tag": "SXSW"
+                }
+            ]
+        },
+        "id": "1634252785914109952",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2287,
+            "like_count": 11,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Ever think about quantum computing in the shower? \ud83d\udebf \n\nProbably not. But it might have helped create the products you use while you\u2019re there. \n\nJoin us at #SXSW to hear more from Unilever\u2019s Dr Sam Samaras. \n\n13 March, 4pm CT at Hilton Austin Downtown \ud83d\udccd"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "1707284686467211646": {
+        "author_id": "15544077",
+        "created_at": "2023-09-28T06:42:43.000Z",
+        "edit_history_tweet_ids": [
+            "1707284686467211646"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 93,
+                    "normalized_text": "ACCIONAteam",
+                    "probability": 0.6871,
+                    "start": 83,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 94,
+                    "start": 82,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "280027788",
+                    "start": 3,
+                    "username": "javiercerrudo"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.smh.re/Gta",
+                    "end": 118,
+                    "expanded_url": "https://acciona.smh.re/Gta",
+                    "start": 95,
+                    "status": 200,
+                    "unwound_url": "https://acciona.smh.re/Gta",
+                    "url": "https://t.co/fMeNYXq7ij"
+                }
+            ]
+        },
+        "id": "1707284686467211646",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @javiercerrudo: El mar como fuente de agua potable y sostenible para las islas #ACCIONAteam https://t.co/fMeNYXq7ij"
+    }
+}

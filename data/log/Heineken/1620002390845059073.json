@@ -1,0 +1,39 @@
+{
+    "1620002390845059073": {
+        "author_id": "29191062",
+        "created_at": "2023-01-30T10:14:02.000Z",
+        "edit_history_tweet_ids": [
+            "1620002390845059073"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Bartender",
+                    "probability": 0.5713,
+                    "start": 13,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "17703567",
+                    "start": 0,
+                    "username": "pravesteyn"
+                }
+            ]
+        },
+        "id": "1620002390845059073",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 359,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@pravesteyn 'Bartender, an Inek please' does not have the same ring to it \ud83e\udd72"
+    }
+}

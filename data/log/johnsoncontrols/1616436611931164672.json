@@ -1,0 +1,68 @@
+{
+    "1616436611931164672": {
+        "attachments": {
+            "media_keys": [
+                "3_1616436608772997120"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-20T14:04:54.000Z",
+        "edit_history_tweet_ids": [
+            "1616436611931164672"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 74,
+                    "normalized_text": "U.S.",
+                    "probability": 0.8142,
+                    "start": 71,
+                    "type": "Place"
+                },
+                {
+                    "end": 147,
+                    "normalized_text": "Drucker Institute",
+                    "probability": 0.9105,
+                    "start": 131,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 174,
+                    "id": "3108351",
+                    "start": 170,
+                    "username": "WSJ"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3XmdvLU",
+                    "end": 205,
+                    "expanded_url": "https://on.jci.com/3XmdvLU",
+                    "start": 182,
+                    "url": "https://t.co/pUdxvjnaIu"
+                },
+                {
+                    "display_url": "pic.twitter.com/RC2w33mRI0",
+                    "end": 229,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1616436611931164672/photo/1",
+                    "media_key": "3_1616436608772997120",
+                    "start": 206,
+                    "url": "https://t.co/RC2w33mRI0"
+                }
+            ]
+        },
+        "id": "1616436611931164672",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 660,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Pleased to share we\u2019ve been named one of the best-run companies in the U.S. for the 6th straight year according to a survey by the Drucker Institute and published in the @WSJ. More: https://t.co/pUdxvjnaIu https://t.co/RC2w33mRI0"
+    }
+}

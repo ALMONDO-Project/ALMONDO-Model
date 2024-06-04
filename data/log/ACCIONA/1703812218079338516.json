@@ -1,0 +1,39 @@
+{
+    "1703812218079338516": {
+        "author_id": "15544077",
+        "created_at": "2023-09-18T16:44:22.000Z",
+        "edit_history_tweet_ids": [
+            "1703812218079338516"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 80,
+                    "normalized_text": "Extremadura I-II-III",
+                    "probability": 0.5112,
+                    "start": 61,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 19,
+                    "id": "455133178",
+                    "start": 3,
+                    "username": "EduardoSanjurjo"
+                }
+            ]
+        },
+        "id": "1703812218079338516",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "RT @EduardoSanjurjo: \u00bfQuieres conocer la planta fotovoltaica Extremadura I-II-III de una forma diferente? Sobrevuela la instalaci\u00f3n con un\u2026"
+    }
+}

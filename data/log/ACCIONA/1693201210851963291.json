@@ -1,0 +1,60 @@
+{
+    "1693201210851963291": {
+        "attachments": {
+            "media_keys": [
+                "13_1689566659835527168"
+            ]
+        },
+        "author_id": "15544077",
+        "created_at": "2023-08-20T10:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1693201210851963291"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 176,
+                    "normalized_text": "Nansa",
+                    "probability": 0.4916,
+                    "start": 172,
+                    "type": "Place"
+                },
+                {
+                    "end": 184,
+                    "normalized_text": "Espa\u00f1a",
+                    "probability": 0.9191,
+                    "start": 179,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 107,
+                    "start": 98,
+                    "tag": "salmones"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/AzOoP7E8z2",
+                    "end": 221,
+                    "expanded_url": "https://twitter.com/ACCIONA/status/1693201210851963291/video/1",
+                    "media_key": "13_1689566659835527168",
+                    "start": 198,
+                    "url": "https://t.co/AzOoP7E8z2"
+                }
+            ]
+        },
+        "id": "1693201210851963291",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 8,
+            "impression_count": 220896,
+            "like_count": 1101,
+            "quote_count": 3,
+            "reply_count": 38,
+            "retweet_count": 239
+        },
+        "text": "Esta es una de las historias que m\u00e1s nos gusta compartir contigo. As\u00ed contribuye este ascensor de #salmones \ud83d\udc1f a restablecer su hist\u00f3rico viaje de ida y vuelta entre el r\u00edo Nansa (Espa\u00f1a) y el mar \ud83c\udf05 https://t.co/AzOoP7E8z2"
+    }
+}

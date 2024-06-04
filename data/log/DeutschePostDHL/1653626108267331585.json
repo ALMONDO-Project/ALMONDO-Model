@@ -1,0 +1,63 @@
+{
+    "1653626108267331585": {
+        "author_id": "197352549",
+        "created_at": "2023-05-03T05:02:41.000Z",
+        "edit_history_tweet_ids": [
+            "1653626108267331585"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 12,
+                    "normalized_text": "Deutsche Post",
+                    "probability": 0.616,
+                    "start": 0,
+                    "type": "Other"
+                },
+                {
+                    "end": 22,
+                    "normalized_text": "DHL Group",
+                    "probability": 0.6281,
+                    "start": 14,
+                    "type": "Organization"
+                },
+                {
+                    "end": 113,
+                    "normalized_text": "DPDHLResults",
+                    "probability": 0.6086,
+                    "start": 102,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 114,
+                    "start": 101,
+                    "tag": "DPDHLResults"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "dpdhl.com/en/media-relat\u2026",
+                    "end": 138,
+                    "expanded_url": "https://www.dpdhl.com/en/media-relations/press-releases/2023/deutsche-post-dhl-group-financial-figures-q1-2023.html",
+                    "start": 115,
+                    "status": 200,
+                    "unwound_url": "https://group.dhl.com/en/media-relations/press-releases/2023/deutsche-post-dhl-group-financial-figures-q1-2023.html",
+                    "url": "https://t.co/JUF4Ywfxfy"
+                }
+            ]
+        },
+        "id": "1653626108267331585",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1157,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Deutsche Post DHL Group proves itself even in challenging market environment and confirms forecasts. #DPDHLResults https://t.co/JUF4Ywfxfy"
+    }
+}

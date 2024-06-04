@@ -1,0 +1,56 @@
+{
+    "1671907973981978624": {
+        "author_id": "15544077",
+        "created_at": "2023-06-22T15:48:18.000Z",
+        "edit_history_tweet_ids": [
+            "1671907973981978624"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 138,
+                    "normalized_text": "de",
+                    "probability": 0.4966,
+                    "start": 137,
+                    "type": "Other"
+                },
+                {
+                    "end": 233,
+                    "normalized_text": " #ACCIONAte",
+                    "probability": 0.5214,
+                    "start": 223,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 236,
+                    "start": 224,
+                    "tag": "ACCIONAteam"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "acciona.com/es/actualidad/\u2026",
+                    "end": 261,
+                    "expanded_url": "https://www.acciona.com/es/actualidad/articulos/acciona-premiada-internacionalmente-promocion-gestion-innovadora-seguridad-salud-laboral/?utm_source=twitter&utm_medium=social&utm_campaign=202206&utm_content=post",
+                    "start": 238,
+                    "status": 200,
+                    "unwound_url": "https://www.acciona.com/es/actualidad/articulos/acciona-premiada-internacionalmente-promocion-gestion-innovadora-seguridad-salud-laboral/?utm_source=twitter&utm_medium=social&utm_campaign=202206&utm_content=post",
+                    "url": "https://t.co/uyZ4dOdOar"
+                }
+            ]
+        },
+        "id": "1671907973981978624",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 898,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Somos reconocidos por nuestro proyecto \u201cDigitalizaci\u00f3n de la gesti\u00f3n de Seguridad y Salud en proyectos a trav\u00e9s de un Centro de An\u00e1lisis de Datos (Centro Inteligente) y estamos muy felices de compartirlo \ud83d\udc77\u200d\u2640\ufe0f\ud83d\udc77 \u00a1Enhorabuena, #ACCIONAteam! https://t.co/uyZ4dOdOar"
+    }
+}

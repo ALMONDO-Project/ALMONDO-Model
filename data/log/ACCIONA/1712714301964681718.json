@@ -1,0 +1,52 @@
+{
+    "1712714301964681718": {
+        "author_id": "15544077",
+        "created_at": "2023-10-13T06:18:04.000Z",
+        "edit_history_tweet_ids": [
+            "1712714301964681718"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 121,
+                    "normalized_text": "Suburban Rail Loop East",
+                    "probability": 0.5212,
+                    "start": 99,
+                    "type": "Other"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Australia",
+                    "probability": 0.9721,
+                    "start": 127,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 17,
+                    "id": "59259189",
+                    "start": 3,
+                    "username": "AlanHenriquez"
+                },
+                {
+                    "end": 28,
+                    "id": "15544077",
+                    "start": 20,
+                    "username": "ACCIONA"
+                }
+            ]
+        },
+        "id": "1712714301964681718",
+        "lang": "es",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "RT @AlanHenriquez: .@ACCIONA, licitador preferente del primer gran paquete de t\u00faneles del proyecto Suburban Rail Loop East, en Australia \ud83d\ude4c\ud83d\ude87\u2026"
+    }
+}
