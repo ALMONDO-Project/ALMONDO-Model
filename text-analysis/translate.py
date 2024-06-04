@@ -1,11 +1,6 @@
-import json
 import tqdm
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib import rcParams
 from deep_translator import GoogleTranslator
-from langdetect import detect
 from tqdm.notebook import tqdm
 
 def format_username(username):
