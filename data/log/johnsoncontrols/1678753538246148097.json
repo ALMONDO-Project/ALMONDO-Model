@@ -1,0 +1,55 @@
+{
+    "1678753538246148097": {
+        "attachments": {
+            "poll_ids": [
+                "1678753537990197254"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-07-11T13:10:07.000Z",
+        "edit_history_tweet_ids": [
+            "1678753538246148097"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 42,
+                    "normalized_text": "DNA",
+                    "probability": 0.8811,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 70,
+                    "normalized_text": "Open Globe",
+                    "probability": 0.8604,
+                    "start": 61,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 32,
+                    "start": 21,
+                    "tag": "innovation"
+                },
+                {
+                    "end": 156,
+                    "start": 139,
+                    "tag": "MeetOurOpenGlobe"
+                }
+            ]
+        },
+        "id": "1678753538246148097",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 566,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "We\u2019re powered by the #innovation in our DNA and story of our Open Globe. Guess how many countries our global team of experts is based in.  #MeetOurOpenGlobe"
+    }
+}

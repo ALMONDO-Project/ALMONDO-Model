@@ -1,0 +1,39 @@
+{
+    "1610268503994503170": {
+        "author_id": "29191062",
+        "created_at": "2023-01-03T13:35:03.000Z",
+        "edit_history_tweet_ids": [
+            "1610268503994503170"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Heineken",
+                    "probability": 0.5614,
+                    "start": 15,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "14395530",
+                    "start": 0,
+                    "username": "carbmac"
+                }
+            ]
+        },
+        "id": "1610268503994503170",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 59,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@carbmac Happy Heineken New Year!"
+    }
+}

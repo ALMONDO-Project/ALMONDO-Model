@@ -1,0 +1,39 @@
+{
+    "1610267547416547329": {
+        "author_id": "29191062",
+        "created_at": "2023-01-03T13:31:15.000Z",
+        "edit_history_tweet_ids": [
+            "1610267547416547329"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "Heineken",
+                    "probability": 0.9555,
+                    "start": 22,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1136498605",
+                    "start": 0,
+                    "username": "frumfree"
+                }
+            ]
+        },
+        "id": "1610267547416547329",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 120,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@frumfree See how the Heineken uses it's natural color to blend in \ud83d\udcaf"
+    }
+}

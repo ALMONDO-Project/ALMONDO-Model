@@ -1,0 +1,68 @@
+{
+    "1628381644666052612": {
+        "attachments": {
+            "media_keys": [
+                "3_1628381643026141185"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-02-22T13:10:12.000Z",
+        "edit_history_tweet_ids": [
+            "1628381644666052612"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 121,
+                    "normalized_text": "George Oliver",
+                    "probability": 0.9505,
+                    "start": 109,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 0,
+                    "tag": "Technology"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 65,
+                    "id": "5120691",
+                    "start": 61,
+                    "username": "wef"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3v8qWmd",
+                    "end": 220,
+                    "expanded_url": "https://on.jci.com/3v8qWmd",
+                    "start": 197,
+                    "url": "https://t.co/YaZf0FnsLv"
+                },
+                {
+                    "display_url": "pic.twitter.com/l6HRrrlHb5",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1628381644666052612/photo/1",
+                    "media_key": "3_1628381643026141185",
+                    "start": 221,
+                    "url": "https://t.co/l6HRrrlHb5"
+                }
+            ]
+        },
+        "id": "1628381644666052612",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 2,
+            "impression_count": 829,
+            "like_count": 14,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "#Technology drives every aspect of our lives. Listen to this @wef podcast featuring world leaders along with George Oliver, our CEO, discussing how leaders can prepare their teams for uncertainty: https://t.co/YaZf0FnsLv https://t.co/l6HRrrlHb5"
+    }
+}

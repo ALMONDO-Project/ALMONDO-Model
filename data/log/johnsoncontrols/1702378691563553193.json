@@ -1,0 +1,62 @@
+{
+    "1702378691563553193": {
+        "attachments": {
+            "media_keys": [
+                "3_1702378689281785856"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-09-14T17:48:03.000Z",
+        "edit_history_tweet_ids": [
+            "1702378691563553193"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 26,
+                    "normalized_text": "TIME",
+                    "probability": 0.4276,
+                    "start": 23,
+                    "type": "Organization"
+                },
+                {
+                    "end": 44,
+                    "normalized_text": "World",
+                    "probability": 0.4962,
+                    "start": 40,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/46ePUkv",
+                    "end": 236,
+                    "expanded_url": "https://on.jci.com/46ePUkv",
+                    "start": 213,
+                    "status": 200,
+                    "unwound_url": "https://www.johnsoncontrols.com/insights/2023/feature-story/times-inaugural-worlds-best-companies-list?utm_source=twitter&utm_medium=organic-social&utm_term=time-best-companies-list-2023&utm_content=5c487dd8-48e2-4b2d-8311-54f2f924c942&utm_campaign=Ent+-+PR",
+                    "url": "https://t.co/Pojh8Fkw9p"
+                },
+                {
+                    "display_url": "pic.twitter.com/smBqGTWQQC",
+                    "end": 260,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1702378691563553193/photo/1",
+                    "media_key": "3_1702378689281785856",
+                    "start": 237,
+                    "url": "https://t.co/smBqGTWQQC"
+                }
+            ]
+        },
+        "id": "1702378691563553193",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 846,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Honored to be named to TIME\u2019s Inaugural World\u2019s Best Companies list. Thank you to global employees and customers for their focus on excellence, improving well-being and accelerating the journey to net-zero. More: https://t.co/Pojh8Fkw9p https://t.co/smBqGTWQQC"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "1675853153302896641": {
+        "attachments": {
+            "media_keys": [
+                "7_1675851987257049089"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-07-03T13:05:02.000Z",
+        "edit_history_tweet_ids": [
+            "1675853153302896641"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 11,
+                    "normalized_text": "Pepsi Co",
+                    "probability": 0.6639,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 18,
+                    "normalized_text": "Poland",
+                    "probability": 0.7937,
+                    "start": 13,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Europe",
+                    "probability": 0.9671,
+                    "start": 70,
+                    "type": "Place"
+                },
+                {
+                    "end": 110,
+                    "normalized_text": "HVAC",
+                    "probability": 0.5802,
+                    "start": 107,
+                    "type": "Other"
+                },
+                {
+                    "end": 240,
+                    "normalized_text": "Europe",
+                    "probability": 0.9577,
+                    "start": 235,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 268,
+                    "start": 252,
+                    "tag": "foodandbeverage"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/CP6jfAIWt0",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1675853153302896641/video/1",
+                    "media_key": "7_1675851987257049089",
+                    "start": 280,
+                    "url": "https://t.co/CP6jfAIWt0"
+                }
+            ]
+        },
+        "id": "1675853153302896641",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1278,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "The Pepsi Co Poland factory is the most innovative factory complex in Europe. We supplied a groundbreaking HVAC cooling solution by installing 5 best-in-class chillers. More than 54,000 m2 in size &amp; with 450 employees, it\u2019s one of Europe's largest #foodandbeverage factories. https://t.co/CP6jfAIWt0"
+    }
+}

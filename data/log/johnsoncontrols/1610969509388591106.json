@@ -1,0 +1,61 @@
+{
+    "1610969509388591106": {
+        "attachments": {
+            "media_keys": [
+                "7_1610968156805136384"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-01-05T12:00:36.000Z",
+        "edit_history_tweet_ids": [
+            "1610969509388591106"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 73,
+                    "normalized_text": "San Francisco",
+                    "probability": 0.9806,
+                    "start": 61,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 57,
+                    "id": "4836530927",
+                    "start": 45,
+                    "username": "ChaseCenter"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3jRLxsE",
+                    "end": 254,
+                    "expanded_url": "https://on.jci.com/3jRLxsE",
+                    "start": 231,
+                    "url": "https://t.co/LuqxoM6E7n"
+                },
+                {
+                    "display_url": "pic.twitter.com/K1k6AmWQRf",
+                    "end": 278,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1610969509388591106/video/1",
+                    "media_key": "7_1610968156805136384",
+                    "start": 255,
+                    "url": "https://t.co/K1k6AmWQRf"
+                }
+            ]
+        },
+        "id": "1610969509388591106",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1700,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "At the world-class live entertainment venue, @ChaseCenter in San Francisco, cutting-edge technologies have been deployed to make it smart, efficient and adaptable. Find out how this approach helps operators prepare for the future: https://t.co/LuqxoM6E7n https://t.co/K1k6AmWQRf"
+    }
+}

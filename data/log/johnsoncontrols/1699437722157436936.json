@@ -1,0 +1,76 @@
+{
+    "1699437722157436936": {
+        "attachments": {
+            "media_keys": [
+                "3_1699437718705438720"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-09-06T15:01:41.000Z",
+        "edit_history_tweet_ids": [
+            "1699437722157436936"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 142,
+                    "normalized_text": "WTL",
+                    "probability": 0.7291,
+                    "start": 140,
+                    "type": "Other"
+                },
+                {
+                    "end": 183,
+                    "normalized_text": "BAS",
+                    "probability": 0.4427,
+                    "start": 181,
+                    "type": "Other"
+                },
+                {
+                    "end": 245,
+                    "normalized_text": "DDC",
+                    "probability": 0.5531,
+                    "start": 243,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 27,
+                    "start": 17,
+                    "tag": "pneumatic"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "ow.ly/zeZO50P9Ty7",
+                    "end": 278,
+                    "expanded_url": "https://ow.ly/zeZO50P9Ty7",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.johnsoncontrols.com/building-automation-and-controls/hvac-controls/thermostats/wtl-series",
+                    "url": "https://t.co/bNLDslroNz"
+                },
+                {
+                    "display_url": "pic.twitter.com/U4YVv3tNke",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1699437722157436936/photo/1",
+                    "media_key": "3_1699437718705438720",
+                    "start": 279,
+                    "url": "https://t.co/U4YVv3tNke"
+                }
+            ]
+        },
+        "id": "1699437722157436936",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 561,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Facilities using #pneumatic controls can pivot into building automation without significant capital. Digital Pneumatic thermostats like the WTL Series can help you transform into a BAS-connected site at a fraction of the cost of a traditional DDC system: https://t.co/bNLDslroNz https://t.co/U4YVv3tNke"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1617854867531251716": {
+        "attachments": {
+            "media_keys": [
+                "7_1617802611427532800"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-24T12:00:33.000Z",
+        "edit_history_tweet_ids": [
+            "1617854867531251716"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 29,
+                    "normalized_text": "DryJan",
+                    "probability": 0.6886,
+                    "start": 24,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 30,
+                    "start": 23,
+                    "tag": "DryJan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/pf752WAxYh",
+                    "end": 89,
+                    "expanded_url": "https://twitter.com/Heineken/status/1617854867531251716/video/1",
+                    "media_key": "7_1617802611427532800",
+                    "start": 66,
+                    "url": "https://t.co/pf752WAxYh"
+                }
+            ]
+        },
+        "id": "1617854867531251716",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 13128,
+            "like_count": 70,
+            "quote_count": 2,
+            "reply_count": 20,
+            "retweet_count": 10
+        },
+        "text": "Have a cold one during #DryJan never felt so possible (and good). https://t.co/pf752WAxYh"
+    }
+}

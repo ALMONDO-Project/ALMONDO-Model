@@ -1,0 +1,62 @@
+{
+    "1716794267820064880": {
+        "attachments": {
+            "media_keys": [
+                "3_1716794266448519168"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-10-24T12:30:24.000Z",
+        "edit_history_tweet_ids": [
+            "1716794267820064880"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 68,
+                    "normalized_text": "California Energy Commission",
+                    "probability": 0.8668,
+                    "start": 41,
+                    "type": "Organization"
+                },
+                {
+                    "end": 176,
+                    "normalized_text": "California",
+                    "probability": 0.9768,
+                    "start": 167,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/46vkTck",
+                    "end": 279,
+                    "expanded_url": "https://on.jci.com/46vkTck",
+                    "start": 256,
+                    "status": 200,
+                    "unwound_url": "https://www.energy.ca.gov/news/2023-10/top-global-building-appliance-manufacturers-and-distributors-commit-help",
+                    "url": "https://t.co/KdNbemqxQU"
+                },
+                {
+                    "display_url": "pic.twitter.com/Tk6kONXmvx",
+                    "end": 303,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1716794267820064880/photo/1",
+                    "media_key": "3_1716794266448519168",
+                    "start": 280,
+                    "url": "https://t.co/Tk6kONXmvx"
+                }
+            ]
+        },
+        "id": "1716794267820064880",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 716,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Sharing the recent announcement from the California Energy Commission that we are one of 10 global companies to sign an agreement committing to actions that will help California achieve its goal of installing six million electric heat pumps by 2030. More: https://t.co/KdNbemqxQU https://t.co/Tk6kONXmvx"
+    }
+}

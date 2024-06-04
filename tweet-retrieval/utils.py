@@ -23,7 +23,7 @@ def compute_max_tweets(bearer_token: str):
     if response.status_code == 200:
         responsedict = response.json()
         # Process the response data here
-        max_tweets_left = int(responsedict['data']['project_cap']) - int(responsedict['data']['project_usage']) - 1000
+        max_tweets_left = int(responsedict['data']['project_cap']) - int(responsedict['data']['project_usage'])
         return max_tweets_left
     else:
         print("Error:", response.status_code)

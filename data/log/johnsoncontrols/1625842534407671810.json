@@ -1,0 +1,61 @@
+{
+    "1625842534407671810": {
+        "attachments": {
+            "media_keys": [
+                "3_1625842532818079746"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-02-15T13:00:41.000Z",
+        "edit_history_tweet_ids": [
+            "1625842534407671810"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 201,
+                    "normalized_text": "ESG",
+                    "probability": 0.6225,
+                    "start": 199,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 92,
+                    "id": "43078165",
+                    "start": 88,
+                    "username": "CDP"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/3K3UKJh",
+                    "end": 259,
+                    "expanded_url": "https://on.jci.com/3K3UKJh",
+                    "start": 236,
+                    "url": "https://t.co/Kwi3eBxQ8P"
+                },
+                {
+                    "display_url": "pic.twitter.com/SjLpX70sXp",
+                    "end": 283,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1625842534407671810/photo/1",
+                    "media_key": "3_1625842532818079746",
+                    "start": 260,
+                    "url": "https://t.co/SjLpX70sXp"
+                }
+            ]
+        },
+        "id": "1625842534407671810",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 936,
+            "like_count": 5,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Proud to share we\u2019ve again been distinguished for our environmental best practices. The @CDP rates companies annually based on progress towards sustainability targets. Read more about this and other ESG and sustainability recognitions: https://t.co/Kwi3eBxQ8P https://t.co/SjLpX70sXp"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1704526807561572513": {
+        "attachments": {
+            "media_keys": [
+                "3_1704526805808332800"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-09-20T16:03:54.000Z",
+        "edit_history_tweet_ids": [
+            "1704526807561572513"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 10,
+                    "normalized_text": "GSX2023",
+                    "probability": 0.7838,
+                    "start": 4,
+                    "type": "Other"
+                },
+                {
+                    "end": 45,
+                    "normalized_text": "Ensuring Security",
+                    "probability": 0.5128,
+                    "start": 29,
+                    "type": "Other"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "OpenBlue",
+                    "probability": 0.5984,
+                    "start": 71,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 11,
+                    "start": 3,
+                    "tag": "GSX2023"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/46iSyFV",
+                    "end": 278,
+                    "expanded_url": "https://on.jci.com/46iSyFV",
+                    "start": 255,
+                    "status": 200,
+                    "unwound_url": "https://www.johnsoncontrols.com/media-center/news/press-releases/2023/09/12/johnson-controls-launches-new-openblue-service-ensuring-security-device-performance",
+                    "url": "https://t.co/D352ZVeX7R"
+                },
+                {
+                    "display_url": "pic.twitter.com/ceazMZcUAf",
+                    "end": 302,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1704526807561572513/photo/1",
+                    "media_key": "3_1704526805808332800",
+                    "start": 279,
+                    "url": "https://t.co/ceazMZcUAf"
+                }
+            ]
+        },
+        "id": "1704526807561572513",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1233,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 0
+        },
+        "text": "At #GSX2023, we launched the Ensuring Security Device Performance with OpenBlue Services. This digital service solution is designed to help customers enhance building safety, manage risk, and maximize the value of investments made in security technology: https://t.co/D352ZVeX7R https://t.co/ceazMZcUAf"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1653051873400696835": {
+        "attachments": {
+            "media_keys": [
+                "3_1653051871462846465"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-05-01T15:00:53.000Z",
+        "edit_history_tweet_ids": [
+            "1653051873400696835"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 154,
+                    "normalized_text": "Facility Explorer",
+                    "probability": 0.7368,
+                    "start": 138,
+                    "type": "Other"
+                },
+                {
+                    "end": 181,
+                    "normalized_text": "Environment",
+                    "probability": 0.599,
+                    "start": 171,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "on.jci.com/41zKNJO",
+                    "end": 276,
+                    "expanded_url": "https://on.jci.com/41zKNJO",
+                    "start": 253,
+                    "status": 200,
+                    "unwound_url": "https://ctrls.johnsoncontrols.com/2023-fx-webinar-series?utm_source=twitter&utm_medium=organic-social&utm_term=&utm_content=6c10328f-0773-4e68-8763-39ade9d43af6&utm_campaign=Metasys",
+                    "url": "https://t.co/6iZbExHs9M"
+                },
+                {
+                    "display_url": "pic.twitter.com/MS3m1nERJ6",
+                    "end": 300,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1653051873400696835/photo/1",
+                    "media_key": "3_1653051871462846465",
+                    "start": 277,
+                    "url": "https://t.co/MS3m1nERJ6"
+                }
+            ]
+        },
+        "id": "1653051873400696835",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 736,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 3
+        },
+        "text": "Install and commission critical environments with ease. Join us for the last installment of our webinar series on May 3 and get a peek at Facility Explorer\u2019s new Critical Environment controls that allow you to do just that\u2014and create healthy buildings: https://t.co/6iZbExHs9M https://t.co/MS3m1nERJ6"
+    }
+}

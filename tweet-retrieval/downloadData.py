@@ -52,7 +52,7 @@ class UserDataDownload():
         # Set Twitter API client with specified parameters
         self.client = tweepy.Client(self.bearer_token, 
                                     wait_on_rate_limit=wait_on_rate_limit)
-        log_message('>>> client initialized')
+        print('>>> client initialized')
         
     def set_user_data(self):
         # Get user data using Twitter API client
@@ -70,23 +70,26 @@ class UserDataDownload():
             self.userlogpath = f'{self.logpath}/{self.username}'
             if not os.path.exists(self.userlogpath):
                 os.makedirs(self.userlogpath) 
-            log_message('>>> necessary directories created')
+            print('>>> necessary directories created')
         except OSError as e:
             print(e)      
             
     def dump_tweets(self, tweet, tweet_data):
         if not os.path.exists(f'{self.userlogpath}/{tweet.id}.json'):
             with open(f'{self.userlogpath}/{tweet.id}.json', 'w') as file:
+                print('>>> tweet dumped')
                 json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)  # Write tweet data to file
         elif  os.path.exists(f'{self.userlogpath}/{tweet.id}.json'):
             try:
                 with open(f'{self.userlogpath}/{tweet.id}.json', 'r') as file:
                     data = json.load(file)
                     if data:
-                        raise TweetAlreadyDumpedException
+                        print('Tweet already dumped moving forward')
+                        return
             except ValueError:
-                print('Existing file is empty.')
+                print('Existing file is empty. Rewriting the file.')
                 with open(f'{self.userlogpath}/{tweet.id}.json', 'w') as file:
+                    print('>>> tweet dumped')
                     json.dump(tweet_data, file, indent=4, sort_keys=True, default=str)
                 
     def set_limits(self, max_tweets_per_session, max_tweets_per_call=100, max_num_calls=None):
@@ -95,41 +98,16 @@ class UserDataDownload():
         self.max_num_calls = max_num_calls
         if not self.max_num_calls:
             self.max_num_calls = math.ceil(self.max_tweets_per_session / self.max_tweets_per_call)
-    
-    def get_oldest_tweet_date(self):
-        filenames = []
-        for filename in os.listdir(f'{self.userlogpath}'):
-            if filename.endswith('.json') and not filename.startswith('page_meta_'):
-                filenames.append(int(filename.replace('.json', '')))
-        filenames.sort(reverse=False)
-        if len(filenames) <= 0:
-            return datetime(2023, 12, 31, 23, 59, 59)
-        oldest_id = filenames[0]
-        oldest_date = ''
-        with open(f'{self.userlogpath}/{oldest_id}.json', 'r') as file:
-            oldest = json.load(file)
-        oldest_date = oldest[str(oldest_id)]['created_at']
-        oldest_date = datetime.strptime(oldest_date, '%Y-%m-%dT%H:%M:%S.%fZ')
-        # oldest_date = oldest_date.strftime('%Y-%m-%dT%H:%M:%SZ')
-        return oldest_date
-    
-    def set_end_time(self):
-        oldest_date = self.get_oldest_tweet_date()
-        if oldest_date < self.start_time:
-            raise ValueError("Tweets have been retrieved beyond 1 jan 2023")
-        else:
-            self.end_time = oldest_date
-               
+                  
     def set_paginator(self, start_time=None, end_time=None):       
         if end_time is None: 
-            self.set_end_time()
+            self.end_time = datetime(2023,12,31,23,59)
         else:
             self.end_time = end_time   
         if start_time is None: 
             self.start_time = datetime(2023,1,1,0,0)
         else:
             self.start_time = start_time  
-        self.next_token = self.set_last_pagination_token()
         self.paginator = tweepy.Paginator(self.client.get_users_tweets,
                             self.user_id,
                             exclude = ['retweets'],
@@ -140,35 +118,9 @@ class UserDataDownload():
                             start_time = self.start_time,
                             end_time = self.end_time,
                             limit = self.max_num_calls,
-                            max_results = self.max_tweets_per_call,
-                            pagination_token = self.next_token)
+                            max_results = self.max_tweets_per_call)
         return self.paginator
     
-    def set_last_pagination_token(self):
-        # Get a list of all JSON files in the directory
-        json_files = [file for file in os.listdir(self.userlogpath) if file.startswith("page_meta_") and file.endswith(".json")]
-        # Sort files by modification time (most recent first)
-        json_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.userlogpath, x)), reverse=True)
-        # Check if there are any JSON files
-        if json_files:
-            page_file = json_files[0]
-            # Open the most recent JSON file
-            with open(f'{self.userlogpath}/{page_file}', 'r') as file:
-                data = json.load(file)
-                # Return the value for the key "next_token"
-            # page_file = page_file.split('_')
-            newest_id = data['newest_id']
-            oldest_id = data['oldest_id']
-            if os.path.exists(f'{self.userlogpath}/{oldest_id}.json'):
-                print('tweets in last saved page have been already dumped, can move to next page')            
-                return data.get("next_token", None)
-            else:
-                print('tweets in this page still need to be retrieved'.capitalize())
-                return None
-        else:
-            # If no JSON files found, return None
-            return None
-            
     def get_tweets(self, page):
         if len(page.data) > 0:
             for tweet in page.data: 
@@ -178,30 +130,16 @@ class UserDataDownload():
                     self.count -= 1
                     print(f'{self.count} tweets left to download')
         else:
-            raise ValueError("No more tweets to download")
+            raise ValueError("Empty page. No more tweets to download")
     
     def configureSession(self):
         paginator = self.set_paginator()
         return paginator
         
-    def save_page(self, page):
-        if page.data is not None:
-            newest_id = page.meta['newest_id']
-            oldest_id = page.meta['oldest_id']
-            with open(f'{self.userlogpath}/page_meta_{newest_id}_{oldest_id}.json', 'w') as file:
-                json.dump(page.meta, file)
-            try:
-                page.meta['next_token']
-            except KeyError:
-                self.get_tweets(page)
-                raise ValueError("No more pages to download")
-        else:
-            raise ValueError("Empty page. No more tweets for this user. Moving to next user.")
-        
     def download_user_tweets(self):
         paginator = self.configureSession()
         for page in paginator:
-            self.save_page(page)
+            # self.save_page(page)
             self.get_tweets(page)    
             print('>>> going to sleep for 2 minutes')
             for i in tqdm.tqdm(range(60)):

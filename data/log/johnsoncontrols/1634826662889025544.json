@@ -1,0 +1,57 @@
+{
+    "1634826662889025544": {
+        "author_id": "1280469980",
+        "created_at": "2023-03-12T08:00:24.000Z",
+        "edit_history_tweet_ids": [
+            "1634826662889025544"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 1,
+                    "normalized_text": "US",
+                    "probability": 0.9677,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 196,
+                    "normalized_text": "Europe",
+                    "probability": 0.9445,
+                    "start": 191,
+                    "type": "Place"
+                },
+                {
+                    "end": 216,
+                    "normalized_text": "Asia",
+                    "probability": 0.9162,
+                    "start": 213,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 282,
+                    "start": 266,
+                    "tag": "DaylightSavings"
+                },
+                {
+                    "end": 289,
+                    "start": 283,
+                    "tag": "IYKYK"
+                }
+            ]
+        },
+        "id": "1634826662889025544",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 960,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "US &amp; Canadian followers: how long will it take you to switch the time on your coffee pot &amp; microwave?\u23f0 \u23e9\ud83c\udf37\n\nBonus tip: Daylight-saving time varies by &amp; sometimes within countries. Europe &amp; parts of Asia won't change their clocks for a few more weeks. #DaylightSavings #IYKYK"
+    }
+}

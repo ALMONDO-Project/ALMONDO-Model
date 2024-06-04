@@ -1,0 +1,53 @@
+{
+    "1616390209649664001": {
+        "attachments": {
+            "media_keys": [
+                "3_1615275130766123009"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-20T11:00:31.000Z",
+        "edit_history_tweet_ids": [
+            "1616390209649664001"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 19,
+                    "normalized_text": "DryJan",
+                    "probability": 0.5423,
+                    "start": 14,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 20,
+                    "start": 13,
+                    "tag": "DryJan"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/C1D4VpLO9Y",
+                    "end": 44,
+                    "expanded_url": "https://twitter.com/Heineken/status/1616390209649664001/photo/1",
+                    "media_key": "3_1615275130766123009",
+                    "start": 21,
+                    "url": "https://t.co/C1D4VpLO9Y"
+                }
+            ]
+        },
+        "id": "1616390209649664001",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 11530,
+            "like_count": 41,
+            "quote_count": 0,
+            "reply_count": 9,
+            "retweet_count": 5
+        },
+        "text": "Easy choice \n#DryJan https://t.co/C1D4VpLO9Y"
+    }
+}

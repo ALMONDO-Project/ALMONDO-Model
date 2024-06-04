@@ -1,0 +1,39 @@
+{
+    "1616053443868725248": {
+        "author_id": "29191062",
+        "created_at": "2023-01-19T12:42:20.000Z",
+        "edit_history_tweet_ids": [
+            "1616053443868725248"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 50,
+                    "normalized_text": "Seb",
+                    "probability": 0.6797,
+                    "start": 48,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 3,
+                    "id": "69008563",
+                    "start": 0,
+                    "username": "F1"
+                }
+            ]
+        },
+        "id": "1616053443868725248",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1114,
+            "like_count": 9,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@F1 Someone is still cutting onions.. Here's to Seb! \ud83c\udf7b"
+    }
+}

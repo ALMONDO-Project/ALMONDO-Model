@@ -1,0 +1,39 @@
+{
+    "1617863151013466118": {
+        "author_id": "29191062",
+        "created_at": "2023-01-24T12:33:28.000Z",
+        "edit_history_tweet_ids": [
+            "1617863151013466118"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Heineken",
+                    "probability": 0.919,
+                    "start": 39,
+                    "type": "Organization"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 4,
+                    "id": "56377143",
+                    "start": 0,
+                    "username": "KLM"
+                }
+            ]
+        },
+        "id": "1617863151013466118",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 452,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@KLM Off to where you can enjoy a cold Heineken \ud83d\ude0e"
+    }
+}

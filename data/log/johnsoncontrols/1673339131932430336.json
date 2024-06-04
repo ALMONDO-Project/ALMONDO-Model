@@ -1,0 +1,101 @@
+{
+    "1673339131932430336": {
+        "attachments": {
+            "media_keys": [
+                "3_1673339128333705220",
+                "3_1673339128358871041",
+                "3_1673339128501477384",
+                "3_1673339128144879622"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-06-26T14:35:12.000Z",
+        "edit_history_tweet_ids": [
+            "1673339131932430336"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 55,
+                    "normalized_text": "Johnson Controls",
+                    "probability": 0.5808,
+                    "start": 40,
+                    "type": "Other"
+                },
+                {
+                    "end": 66,
+                    "normalized_text": "Cork",
+                    "probability": 0.8842,
+                    "start": 63,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "Ireland",
+                    "probability": 0.9798,
+                    "start": 69,
+                    "type": "Place"
+                },
+                {
+                    "end": 270,
+                    "normalized_text": "Dan",
+                    "probability": 0.6988,
+                    "start": 268,
+                    "type": "Person"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 223,
+                    "tag": "BuildingTomorrowTogether"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/oR1NmDjpZp",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1673339131932430336/photo/1",
+                    "media_key": "3_1673339128333705220",
+                    "start": 284,
+                    "url": "https://t.co/oR1NmDjpZp"
+                },
+                {
+                    "display_url": "pic.twitter.com/oR1NmDjpZp",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1673339131932430336/photo/1",
+                    "media_key": "3_1673339128358871041",
+                    "start": 284,
+                    "url": "https://t.co/oR1NmDjpZp"
+                },
+                {
+                    "display_url": "pic.twitter.com/oR1NmDjpZp",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1673339131932430336/photo/1",
+                    "media_key": "3_1673339128501477384",
+                    "start": 284,
+                    "url": "https://t.co/oR1NmDjpZp"
+                },
+                {
+                    "display_url": "pic.twitter.com/oR1NmDjpZp",
+                    "end": 307,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1673339131932430336/photo/1",
+                    "media_key": "3_1673339128144879622",
+                    "start": 284,
+                    "url": "https://t.co/oR1NmDjpZp"
+                }
+            ]
+        },
+        "id": "1673339131932430336",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1382,
+            "like_count": 6,
+            "quote_count": 1,
+            "reply_count": 2,
+            "retweet_count": 2
+        },
+        "text": "We wanted to get a sense of life at the Johnson Controls HQ in Cork, Ireland &amp; asked employees to describe it. One standout theme was that our people feel like they\u2019re making a difference, something we value as we keep #BuildingTomorrowTogether. Click to see what Dan had to say. https://t.co/oR1NmDjpZp"
+    }
+}

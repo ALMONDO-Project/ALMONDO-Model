@@ -1,0 +1,53 @@
+{
+    "1613173892482228226": {
+        "attachments": {
+            "media_keys": [
+                "7_1613130204347523075"
+            ]
+        },
+        "author_id": "29191062",
+        "created_at": "2023-01-11T14:00:01.000Z",
+        "edit_history_tweet_ids": [
+            "1613173892482228226"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 33,
+                    "normalized_text": "DryJanuary",
+                    "probability": 0.682,
+                    "start": 24,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 34,
+                    "start": 23,
+                    "tag": "DryJanuary"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/FdXjh6wSDE",
+                    "end": 58,
+                    "expanded_url": "https://twitter.com/Heineken/status/1613173892482228226/video/1",
+                    "media_key": "7_1613130204347523075",
+                    "start": 35,
+                    "url": "https://t.co/FdXjh6wSDE"
+                }
+            ]
+        },
+        "id": "1613173892482228226",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 6794,
+            "like_count": 29,
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 5
+        },
+        "text": "Judgement rate is 0.0% #DryJanuary https://t.co/FdXjh6wSDE"
+    }
+}

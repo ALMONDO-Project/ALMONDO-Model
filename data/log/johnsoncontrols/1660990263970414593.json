@@ -1,0 +1,53 @@
+{
+    "1660990263970414593": {
+        "attachments": {
+            "media_keys": [
+                "3_1660990259855802369"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-05-23T12:45:13.000Z",
+        "edit_history_tweet_ids": [
+            "1660990263970414593"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "DNA",
+                    "probability": 0.7139,
+                    "start": 26,
+                    "type": "Other"
+                },
+                {
+                    "end": 241,
+                    "normalized_text": "OpenBlue",
+                    "probability": 0.6394,
+                    "start": 234,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/AxLPVD4QDV",
+                    "end": 305,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1660990263970414593/photo/1",
+                    "media_key": "3_1660990259855802369",
+                    "start": 282,
+                    "url": "https://t.co/AxLPVD4QDV"
+                }
+            ]
+        },
+        "id": "1660990263970414593",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1150,
+            "like_count": 7,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 3
+        },
+        "text": "Innovation is core to our DNA. To build a sustainable future for our customers, ourselves, and our planet, we\u2019ve set ambitious R&amp;D goals. Whether we\u2019re developing energy-efficient products, or enhancing digital capabilities, like OpenBlue, we\u2019re proud to push net zero forward. https://t.co/AxLPVD4QDV"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1715322313023926300": {
+        "attachments": {
+            "media_keys": [
+                "3_1715322310582824960",
+                "3_1715322309995560960",
+                "3_1715322310628909056",
+                "3_1715322310515634176"
+            ]
+        },
+        "author_id": "1280469980",
+        "created_at": "2023-10-20T11:01:23.000Z",
+        "edit_history_tweet_ids": [
+            "1715322313023926300"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 34,
+                    "normalized_text": "Costa Rica",
+                    "probability": 0.9458,
+                    "start": 25,
+                    "type": "Place"
+                },
+                {
+                    "end": 78,
+                    "normalized_text": "United Way Costa Rica",
+                    "probability": 0.591,
+                    "start": 58,
+                    "type": "Organization"
+                },
+                {
+                    "end": 92,
+                    "normalized_text": "F\u00fatbol",
+                    "probability": 0.5674,
+                    "start": 87,
+                    "type": "Other"
+                },
+                {
+                    "end": 115,
+                    "normalized_text": "Pa\u00eds Foundation",
+                    "probability": 0.5187,
+                    "start": 101,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/BoP7wushq6",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1715322313023926300/photo/1",
+                    "media_key": "3_1715322310582824960",
+                    "start": 207,
+                    "url": "https://t.co/BoP7wushq6"
+                },
+                {
+                    "display_url": "pic.twitter.com/BoP7wushq6",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1715322313023926300/photo/1",
+                    "media_key": "3_1715322309995560960",
+                    "start": 207,
+                    "url": "https://t.co/BoP7wushq6"
+                },
+                {
+                    "display_url": "pic.twitter.com/BoP7wushq6",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1715322313023926300/photo/1",
+                    "media_key": "3_1715322310628909056",
+                    "start": 207,
+                    "url": "https://t.co/BoP7wushq6"
+                },
+                {
+                    "display_url": "pic.twitter.com/BoP7wushq6",
+                    "end": 230,
+                    "expanded_url": "https://twitter.com/johnsoncontrols/status/1715322313023926300/photo/1",
+                    "media_key": "3_1715322310515634176",
+                    "start": 207,
+                    "url": "https://t.co/BoP7wushq6"
+                }
+            ]
+        },
+        "id": "1715322313023926300",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 685,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Shout out to our team in Costa Rica for volunteering with United Way Costa Rica at the F\u00fatbol por mi Pa\u00eds Foundation. Together they painted bleachers, collected trash and played with the foundation\u2019s youth. https://t.co/BoP7wushq6"
+    }
+}

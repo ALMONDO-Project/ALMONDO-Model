@@ -1,14 +1,13 @@
 import pandas as pd
 import json
+from tqdm.notebook import tqdm
 
 # Load the JSON file into a DataFrame
-with open('../data/out/filtered_tweets_3.json', 'r', encoding='utf-8') as file:
+with open('../data/out/filtered_tweets_4.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Create a DataFrame from the JSON data
 df = pd.DataFrame(data)  # Transpose to set tweets as rows
-
-from tqdm.notebook import tqdm
 
 with tqdm(total=len(df)) as pbar:
     # Iterate over each row in the DataFrame
@@ -73,4 +72,4 @@ with tqdm(total=len(df)) as pbar:
                         df[f'urls_{key}'] = pd.Series([value if i == index else None for i in range(len(df))])
         pbar.update(1)
 
-df.to_csv('data.csv')
+df.to_csv('data_2.csv')
