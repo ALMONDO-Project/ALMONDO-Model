@@ -1,0 +1,39 @@
+{
+    "1720074520311324959": {
+        "author_id": "92224801",
+        "created_at": "2023-11-02T13:44:57.000Z",
+        "edit_history_tweet_ids": [
+            "1720074520311324959"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 137,
+                    "normalized_text": "karsten",
+                    "probability": 0.5772,
+                    "start": 131,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "193438864",
+                    "start": 0,
+                    "username": "mitchvdl"
+                }
+            ]
+        },
+        "id": "1720074520311324959",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 30,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@mitchvdl We are working on it! By 2026 at the latest, there should be no more gaps in long-distance and regional rail transport. ^karsten"
+    }
+}

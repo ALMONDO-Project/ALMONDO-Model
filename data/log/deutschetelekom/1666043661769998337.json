@@ -1,0 +1,39 @@
+{
+    "1666043661769998337": {
+        "author_id": "92224801",
+        "created_at": "2023-06-06T11:25:37.000Z",
+        "edit_history_tweet_ids": [
+            "1666043661769998337"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 37,
+                    "normalized_text": "karsten",
+                    "probability": 0.7985,
+                    "start": 31,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "556945740",
+                    "start": 0,
+                    "username": "rob_mets13"
+                }
+            ]
+        },
+        "id": "1666043661769998337",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 604,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@rob_mets13 No \ud83e\udde2, real fact. \ud83d\udca1^karsten"
+    }
+}

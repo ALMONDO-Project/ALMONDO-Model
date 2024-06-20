@@ -1,0 +1,63 @@
+{
+    "1718975624587464976": {
+        "attachments": {
+            "media_keys": [
+                "3_1718974594340491264"
+            ]
+        },
+        "author_id": "24389524",
+        "created_at": "2023-10-30T12:58:20.000Z",
+        "edit_history_tweet_ids": [
+            "1718975624587464976"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 172,
+                    "normalized_text": "World",
+                    "probability": 0.4763,
+                    "start": 168,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 154,
+                    "id": "91478624",
+                    "start": 147,
+                    "username": "Forbes"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "group.skanska.com/media/press-re\u2026",
+                    "end": 221,
+                    "expanded_url": "https://group.skanska.com/media/press-releases-articles/276321/Skanska-one-of-worlds-best-employers%2c-says-Forbes-Magazine",
+                    "start": 198,
+                    "status": 200,
+                    "unwound_url": "https://group.skanska.com/media/press-releases-articles/276321/Skanska-one-of-worlds-best-employers%2c-says-Forbes-Magazine",
+                    "url": "https://t.co/rLmhhsXkeo"
+                },
+                {
+                    "display_url": "pic.twitter.com/6SbeSw9baf",
+                    "end": 245,
+                    "expanded_url": "https://twitter.com/SkanskaGroup/status/1718975624587464976/photo/1",
+                    "media_key": "3_1718974594340491264",
+                    "start": 222,
+                    "url": "https://t.co/6SbeSw9baf"
+                }
+            ]
+        },
+        "id": "1718975624587464976",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1046,
+            "like_count": 15,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "It\u2019s not every day you get ranked as one of the best places in the world to work. So, we\u2019re humbled to be included for the second year in a row in @Forbes  Magazine\u2019s \u201cWorld\u2019s Best Employers\u201d list. https://t.co/rLmhhsXkeo https://t.co/6SbeSw9baf"
+    }
+}

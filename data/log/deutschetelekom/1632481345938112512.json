@@ -1,0 +1,60 @@
+{
+    "1632481345938112512": {
+        "author_id": "92224801",
+        "created_at": "2023-03-05T20:40:57.000Z",
+        "edit_history_tweet_ids": [
+            "1632481345938112512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 22,
+                    "normalized_text": "Jose",
+                    "probability": 0.6418,
+                    "start": 19,
+                    "type": "Person"
+                },
+                {
+                    "end": 68,
+                    "normalized_text": "Germany",
+                    "probability": 0.9687,
+                    "start": 62,
+                    "type": "Place"
+                },
+                {
+                    "end": 169,
+                    "normalized_text": "Fadi",
+                    "probability": 0.5866,
+                    "start": 166,
+                    "type": "Other"
+                },
+                {
+                    "end": 293,
+                    "normalized_text": "Leona W",
+                    "probability": 0.6528,
+                    "start": 287,
+                    "type": "Person"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "637071305",
+                    "start": 0,
+                    "username": "JoseCGlezGcia"
+                }
+            ]
+        },
+        "id": "1632481345938112512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 24,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@JoseCGlezGcia Hey Jose, I'm sorry to read that your start in Germany seems to be so difficult concerning the issue of having internet connection. :/ As my colleague Fadi said, please provide your callback number via DM in order to look at the incidence and find a solution.Kind regards Leona W."
+    }
+}

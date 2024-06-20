@@ -1,0 +1,39 @@
+{
+    "1734166759962284496": {
+        "author_id": "12786932",
+        "created_at": "2023-12-11T11:02:29.000Z",
+        "edit_history_tweet_ids": [
+            "1734166759962284496"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 18,
+                    "normalized_text": "3D",
+                    "probability": 0.511,
+                    "start": 17,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "1732321022479597568",
+                    "start": 0,
+                    "username": "druck3dFVSS"
+                }
+            ]
+        },
+        "id": "1734166759962284496",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 14,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@druck3dFVSS The 3D models may not be passed on to third parties. Thank you for your understanding."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1706922687602278483": {
+        "author_id": "92224801",
+        "created_at": "2023-09-27T06:44:16.000Z",
+        "edit_history_tweet_ids": [
+            "1706922687602278483"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 10,
+                    "id": "1695083138479755264",
+                    "start": 0,
+                    "username": "wokemuckl"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "t-online ist ein Angebot der Str\u00f6er Content Group",
+                    "display_url": "t-online.de/id_12511434/im\u2026",
+                    "end": 119,
+                    "expanded_url": "https://t-online.de/id_12511434/impressum.html",
+                    "start": 96,
+                    "status": 200,
+                    "title": "Dies ist das Impressum von t-online.",
+                    "unwound_url": "https://www.t-online.de/id_12511434/impressum-von-t-online-.html",
+                    "url": "https://t.co/UfMkAOdhUF"
+                }
+            ]
+        },
+        "id": "1706922687602278483",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 61,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@wokemuckl Verantwortlich f\u00fcr den Inhalt von t-online ist die Str\u00f6er Digital Publishing GmbH. \ud83d\udc49 https://t.co/UfMkAOdhUF ^karsten"
+    }
+}

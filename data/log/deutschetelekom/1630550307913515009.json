@@ -1,0 +1,43 @@
+{
+    "1630550307913515009": {
+        "author_id": "92224801",
+        "created_at": "2023-02-28T12:47:42.000Z",
+        "edit_history_tweet_ids": [
+            "1630550307913515009"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "2847877337",
+                    "start": 0,
+                    "username": "djnic10"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "t-online ist ein Angebot der Str\u00f6er Content Group",
+                    "display_url": "t-online.de/id_12511434/im\u2026",
+                    "end": 115,
+                    "expanded_url": "https://www.t-online.de/id_12511434/impressum.html",
+                    "start": 92,
+                    "status": 200,
+                    "title": "Dies ist das Impressum von t-online.",
+                    "unwound_url": "https://www.t-online.de/id_12511434/impressum-von-t-online-.html",
+                    "url": "https://t.co/CzHuHTef1X"
+                }
+            ]
+        },
+        "id": "1630550307913515009",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 18,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@djnic10 \"t-online\" ist ein Angebot der Str\u00f6er Content Group, nicht von uns. Weitere Infos: https://t.co/CzHuHTef1X ^ren\u00e9"
+    }
+}

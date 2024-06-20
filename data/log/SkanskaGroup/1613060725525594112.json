@@ -1,0 +1,56 @@
+{
+    "1613060725525594112": {
+        "author_id": "24389524",
+        "created_at": "2023-01-11T06:30:20.000Z",
+        "edit_history_tweet_ids": [
+            "1613060725525594112"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.8339,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 42,
+                    "normalized_text": "New York",
+                    "probability": 0.941,
+                    "start": 35,
+                    "type": "Place"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "USA",
+                    "probability": 0.9427,
+                    "start": 45,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 104,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-improves-subway-station-in-new-york--usa--for-usd-74-2m--about-sek-750m,c3695418",
+                    "start": 81,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-improves-subway-station-in-new-york--usa--for-usd-74-2m--about-sek-750m,c3695418",
+                    "url": "https://t.co/MeA0qFHDGU"
+                }
+            ]
+        },
+        "id": "1613060725525594112",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 1071,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Skanska improves subway station in New York, USA, for USD 74.2M, about SEK 750M  https://t.co/MeA0qFHDGU"
+    }
+}

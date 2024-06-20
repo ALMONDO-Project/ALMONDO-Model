@@ -1,0 +1,63 @@
+{
+    "1640288567426523136": {
+        "author_id": "92224801",
+        "created_at": "2023-03-27T09:44:04.000Z",
+        "edit_history_tweet_ids": [
+            "1640288567426523136"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 205,
+                    "normalized_text": "julia",
+                    "probability": 0.8237,
+                    "start": 201,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "969128829611585537",
+                    "start": 0,
+                    "username": "Encrypt_ed"
+                },
+                {
+                    "end": 24,
+                    "id": "1300740060829159427",
+                    "start": 12,
+                    "username": "ger_service"
+                },
+                {
+                    "end": 37,
+                    "id": "16695590",
+                    "start": 25,
+                    "username": "vodafone_de"
+                },
+                {
+                    "end": 47,
+                    "id": "385323163",
+                    "start": 38,
+                    "username": "postbank"
+                },
+                {
+                    "end": 55,
+                    "id": "56723894",
+                    "start": 48,
+                    "username": "DKB_de"
+                }
+            ]
+        },
+        "id": "1640288567426523136",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 67,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@Encrypt_ed @ger_service @vodafone_de @postbank @DKB_de Thanks for sharing your impression with the DT services - We are sorry for this experience! We will discuss this matter internally. Best wishes ^julia"
+    }
+}

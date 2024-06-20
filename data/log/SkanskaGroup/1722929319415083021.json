@@ -1,0 +1,95 @@
+{
+    "1722929319415083021": {
+        "attachments": {
+            "media_keys": [
+                "3_1722929058353123328"
+            ]
+        },
+        "author_id": "24389524",
+        "created_at": "2023-11-10T10:48:54.000Z",
+        "edit_history_tweet_ids": [
+            "1722929319415083021"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 54,
+                    "normalized_text": "Europe",
+                    "probability": 0.9791,
+                    "start": 49,
+                    "type": "Place"
+                },
+                {
+                    "end": 135,
+                    "normalized_text": "Warsaw",
+                    "probability": 0.6647,
+                    "start": 130,
+                    "type": "Place"
+                },
+                {
+                    "end": 143,
+                    "normalized_text": "Poland",
+                    "probability": 0.8749,
+                    "start": 138,
+                    "type": "Place"
+                },
+                {
+                    "end": 199,
+                    "normalized_text": "DevelopedbySkanska",
+                    "probability": 0.3346,
+                    "start": 182,
+                    "type": "Organization"
+                },
+                {
+                    "end": 211,
+                    "normalized_text": "RealEstate",
+                    "probability": 0.3196,
+                    "start": 202,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 200,
+                    "start": 181,
+                    "tag": "DevelopedbySkanska"
+                },
+                {
+                    "end": 212,
+                    "start": 201,
+                    "tag": "RealEstate"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "group.skanska.com/media/press-re\u2026",
+                    "end": 180,
+                    "expanded_url": "https://group.skanska.com/media/press-releases-articles/276563/Skanska-invests-EUR-100M%2c-about-SEK-1.2-billion%2c-in-the-second-phase-of-the-Studio-office-project-in-Warsaw%2c-Poland-",
+                    "start": 157,
+                    "status": 200,
+                    "unwound_url": "https://group.skanska.com/media/press-releases-articles/276563/Skanska-invests-EUR-100M%2c-about-SEK-1.2-billion%2c-in-the-second-phase-of-the-Studio-office-project-in-Warsaw%2c-Poland-",
+                    "url": "https://t.co/sB9M0N0zab"
+                },
+                {
+                    "display_url": "pic.twitter.com/AMH6mLckIr",
+                    "end": 236,
+                    "expanded_url": "https://twitter.com/SkanskaGroup/status/1722929319415083021/photo/1",
+                    "media_key": "3_1722929058353123328",
+                    "start": 213,
+                    "url": "https://t.co/AMH6mLckIr"
+                }
+            ]
+        },
+        "id": "1722929319415083021",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 543,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Big news from our commercial development team in Europe. We\u2019re excited to launch the second phase of the Studio office complex in Warsaw, Poland. Read more: https://t.co/sB9M0N0zab #DevelopedbySkanska #RealEstate https://t.co/AMH6mLckIr"
+    }
+}

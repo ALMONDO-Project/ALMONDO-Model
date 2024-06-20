@@ -1,0 +1,49 @@
+{
+    "1648589144749137920": {
+        "author_id": "92224801",
+        "created_at": "2023-04-19T07:27:36.000Z",
+        "edit_history_tweet_ids": [
+            "1648589144749137920"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Fiber",
+                    "probability": 0.6183,
+                    "start": 24,
+                    "type": "Other"
+                },
+                {
+                    "end": 166,
+                    "normalized_text": "susann",
+                    "probability": 0.4723,
+                    "start": 161,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2QL9JsZ",
+                    "end": 159,
+                    "expanded_url": "https://bit.ly/2QL9JsZ",
+                    "start": 136,
+                    "status": 200,
+                    "unwound_url": "https://www.telekom.com/en/company/topic-specials/networks",
+                    "url": "https://t.co/c5R7uanVBJ"
+                }
+            ]
+        },
+        "id": "1648589144749137920",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 23,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@SebastienSciboz Right. Fiber costs less energy - that's why we strive to expand the fiber network as fast as possible.  Find out more: https://t.co/c5R7uanVBJ ^susann"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1682283785386176512": {
+        "attachments": {
+            "media_keys": [
+                "3_1682283764481773568"
+            ]
+        },
+        "author_id": "24389524",
+        "created_at": "2023-07-21T06:58:04.000Z",
+        "edit_history_tweet_ids": [
+            "1682283785386176512"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 92,
+                    "normalized_text": "U.S.",
+                    "probability": 0.8067,
+                    "start": 89,
+                    "type": "Place"
+                },
+                {
+                    "end": 105,
+                    "normalized_text": "Norway",
+                    "probability": 0.9796,
+                    "start": 100,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2Y38QnB",
+                    "end": 280,
+                    "expanded_url": "https://bit.ly/2Y38QnB",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://group.skanska.com/investors/reports-publications/interim-reports/",
+                    "url": "https://t.co/ehfVAHfdQY"
+                },
+                {
+                    "display_url": "pic.twitter.com/E1LGYzrdjI",
+                    "end": 304,
+                    "expanded_url": "https://twitter.com/SkanskaGroup/status/1682283785386176512/photo/1",
+                    "media_key": "3_1682283764481773568",
+                    "start": 281,
+                    "url": "https://t.co/E1LGYzrdjI"
+                }
+            ]
+        },
+        "id": "1682283785386176512",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 504,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "Highlights Q2 2023:\n\n\u2022 Record order bookings @ SEK 63.2 bn, \n   large civil contracts in U.S. &amp; Norway \n\n\u2022 Op. margin Construction 3.4%,\n   R-12 margin above target @ 3.8%\n\n\u2022 Project Development volumes \n   affected by low market activity\n\nFull report: https://t.co/ehfVAHfdQY https://t.co/E1LGYzrdjI"
+    }
+}

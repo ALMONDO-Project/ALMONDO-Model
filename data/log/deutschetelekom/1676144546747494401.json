@@ -1,0 +1,41 @@
+{
+    "1676144546747494401": {
+        "author_id": "92224801",
+        "created_at": "2023-07-04T08:22:55.000Z",
+        "edit_history_tweet_ids": [
+            "1676144546747494401"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "1979097900",
+                    "start": 0,
+                    "username": "moortalk"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "telekom.com/de/blog/netz/a\u2026",
+                    "end": 190,
+                    "expanded_url": "https://www.telekom.com/de/blog/netz/artikel/disaster-recovery-management-so-fit-ist-die-telekom-fuer-katastrophen-489508",
+                    "start": 167,
+                    "status": 200,
+                    "unwound_url": "https://www.telekom.com/de/blog/netz/artikel/disaster-recovery-management-so-fit-ist-die-telekom-fuer-katastrophen-489508",
+                    "url": "https://t.co/VUeK7vkime"
+                }
+            ]
+        },
+        "id": "1676144546747494401",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 219,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 1
+        },
+        "text": "@moortalk Wir werden bald mehr Details zu dem Prototyp verraten. Du kannst dir gerne in der Zwischenzeit unseren Artikel zum Disaster Recovery Management anschauen. \ud83d\udc49 https://t.co/VUeK7vkime ^karsten"
+    }
+}

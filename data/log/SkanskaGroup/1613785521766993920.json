@@ -1,0 +1,63 @@
+{
+    "1613785521766993920": {
+        "author_id": "24389524",
+        "created_at": "2023-01-13T06:30:25.000Z",
+        "edit_history_tweet_ids": [
+            "1613785521766993920"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.4995,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 51,
+                    "normalized_text": "Virginia",
+                    "probability": 0.7674,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 56,
+                    "normalized_text": "USA",
+                    "probability": 0.9358,
+                    "start": 54,
+                    "type": "Place"
+                },
+                {
+                    "end": 84,
+                    "normalized_text": "1B",
+                    "probability": 0.5334,
+                    "start": 83,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 110,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-builds-academic-commons-building-in-virginia--usa--for-usd-103m--about-sek-1b,c3696977",
+                    "start": 87,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-builds-academic-commons-building-in-virginia--usa--for-usd-103m--about-sek-1b,c3696977",
+                    "url": "https://t.co/sy4BgjBtmg"
+                }
+            ]
+        },
+        "id": "1613785521766993920",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 480,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Skanska builds academic commons building in Virginia, USA, for USD 103M, about SEK 1B  https://t.co/sy4BgjBtmg"
+    }
+}

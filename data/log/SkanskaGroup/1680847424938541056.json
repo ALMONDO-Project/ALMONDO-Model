@@ -1,0 +1,56 @@
+{
+    "1680847424938541056": {
+        "author_id": "24389524",
+        "created_at": "2023-07-17T07:50:29.000Z",
+        "edit_history_tweet_ids": [
+            "1680847424938541056"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 46,
+                    "normalized_text": "Volkswagen AG",
+                    "probability": 0.6308,
+                    "start": 34,
+                    "type": "Organization"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Ericsson AB",
+                    "probability": 0.6412,
+                    "start": 52,
+                    "type": "Organization"
+                },
+                {
+                    "end": 96,
+                    "normalized_text": "European Union",
+                    "probability": 0.5833,
+                    "start": 83,
+                    "type": "Organization"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bloom.bg/3OeyoGG",
+                    "end": 280,
+                    "expanded_url": "https://bloom.bg/3OeyoGG",
+                    "start": 257,
+                    "status": 200,
+                    "unwound_url": "https://www.bloomberg.com/news/articles/2023-07-12/ceos-urge-eu-to-clear-red-tape-bogging-down-bloc-s-green-shift#xj4y7vzkg",
+                    "url": "https://t.co/s8FjYTvzqx"
+                }
+            ]
+        },
+        "id": "1680847424938541056",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 449,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "(2) \"Executives from the likes of Volkswagen AG and Ericsson AB are calling on the European Union to remove cumbersome bureaucracy that\u2019s putting the region at risk of falling behind in the intensifying race to attract clean-energy investments\". More here: https://t.co/s8FjYTvzqx"
+    }
+}

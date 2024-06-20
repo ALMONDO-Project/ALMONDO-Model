@@ -1,0 +1,56 @@
+{
+    "1612698307842695168": {
+        "author_id": "24389524",
+        "created_at": "2023-01-10T06:30:13.000Z",
+        "edit_history_tweet_ids": [
+            "1612698307842695168"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.731,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "New York",
+                    "probability": 0.8932,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 40,
+                    "normalized_text": "USA",
+                    "probability": 0.9357,
+                    "start": 38,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 96,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-builds-bus-depot-in-new-york--usa--for-usd-480m--about-sek-4-9b,c3694967",
+                    "start": 73,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-builds-bus-depot-in-new-york--usa--for-usd-480m--about-sek-4-9b,c3694967",
+                    "url": "https://t.co/Yl9A5b7QSl"
+                }
+            ]
+        },
+        "id": "1612698307842695168",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 468,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Skanska builds bus depot in New York, USA, for USD 480M, about SEK 4.9B  https://t.co/Yl9A5b7QSl"
+    }
+}
