@@ -3,26 +3,7 @@ import tqdm
 import pandas as pd
 from deep_translator import GoogleTranslator
 
-def format_username(username):
-    # Dictionary for specific replacements
-    specific_replacements = {
-        'lego_group': 'Lego Group',
-        'hm': 'H&M',
-        'detushepostdhl': 'DHL',
-        'iberdrola_en': 'Iberdrola'
-    }
-    # Apply specific replacements if available
-    if username in specific_replacements:
-        return specific_replacements[username]
-    # General case for handling 'group'
-    if 'group' in username.lower():
-        parts = username.split('group')
-        return ' '.join([part.capitalize() for part in parts if part]) + ' Group'
-    # Capitalize other usernames
-    return username.capitalize()
-
-df = pd.read_csv('data_2.csv', index_col=[0])
-df = df[['username', 'lang', 'text', 'created_at']]
+df = pd.read_csv('data/data_3.csv', index_col=[0])
 
 #remove qme #media links 
 df = df.loc[df.lang != 'qme']
@@ -54,10 +35,10 @@ for index, row in tqdm.tqdm(df.loc[df.lang != "en"].iterrows(), total=len(df.loc
     translated = GoogleTranslator(source="auto", target="en").translate(row.text)
     english_texts[index] = translated
 
-with open('translated_texts.json', 'w') as file:
+with open('data/translated_texts_2.json', 'w') as file:
     json.dump(english_texts, file)
     
 for idx, text in english_texts.items():
     df.loc[idx, "text"] = text
 
-df[['username', 'text', 'created_at']].to_csv('translated_2.csv')
+df.to_csv('data/translated_3.csv')
