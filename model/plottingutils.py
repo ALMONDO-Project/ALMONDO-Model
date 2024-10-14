@@ -1,14 +1,49 @@
-from ndlib.models.DiffusionModel import DiffusionModel
-import ndlib.models.ModelConfig as mc
-import ndlib.models.opinions as op
-import numpy as np
-import networkx as nx
-import gzip
-import pickle
 import os
 import seaborn as sns
-import future.utils
+import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib import rcParams
+from matplotlib.colors import LinearSegmentedColormap
+from cycler import cycler
+import future.utils
+
+#rcParams default settings
+"https://matplotlib.org/stable/tutorials/introductory/customizing.html"
+
+#rcParams settings
+plt.style.use('ggplot')
+
+rcParams['font.family'] = 'sans-serif'
+rcParams['font.style'] = 'normal'
+
+rcParams['figure.facecolor'] = 'white'
+
+rcParams['savefig.bbox'] = 'tight'
+rcParams['savefig.dpi'] = 300
+rcParams['savefig.transparent'] = True
+
+rcParams['axes.spines.right'] = False
+rcParams['axes.spines.top'] = False
+rcParams['axes.labelsize'] = 20
+rcParams['axes.labelcolor'] = 'black'
+rcParams['axes.edgecolor'] = 'grey'
+rcParams['axes.linewidth'] = 3
+rcParams['axes.facecolor'] = 'white'
+rcParams['axes.titlepad'] = 4
+
+rcParams['xtick.color'] = 'grey'
+rcParams['ytick.color'] = 'grey'
+rcParams['xtick.major.width'] = 2
+rcParams['ytick.major.width'] = 0
+rcParams['xtick.major.size'] = 5
+rcParams['ytick.major.size'] = 0
+
+rcParams['lines.linewidth'] = 3
+rcParams['lines.markersize'] = 10
+
+rcParams['grid.color'] = 'grey'
+rcParams['grid.linewidth'] = 0.1
+
 from matplotlib.colors import LinearSegmentedColormap
 
 def hex_to_rgb(value):
@@ -53,10 +88,11 @@ def get_continuous_cmap(hex_list, float_list=None):
     cmp = LinearSegmentedColormap('my_cmp', segmentdata=cdict, N=256)
     return cmp
 
+spaghetti_hex_list = ['#357db0', '#18A558', '#ce2626']
+spaghetti_cmap=get_continuous_cmap(spaghetti_hex_list)
 
-def plotevolution(iterations, p_o, p_p, save_dir):
-    spaghetti_hex_list = ['#357db0', '#18A558', '#ce2626']
-    spaghetti_cmap=get_continuous_cmap(spaghetti_hex_list)
+
+def plotevolution(iterations, p_o, p_p, save_dir, name='evolution', run=0):
     
     fig, ax = plt.subplots()
 
@@ -112,50 +148,36 @@ def plotevolution(iterations, p_o, p_p, save_dir):
     plt.ylabel(r'$p_{i,t}$')
     plt.title('Optimist model probability evolution')
     plt.tight_layout()
-    file_name = os.path.join(save_dir, f'evolution_{run}.png')
-    plt.savefig(file_name, bbox_inches='tight', facecolor='white')
+    
+    if name:
+        plt.savefig(os.path.join(save_dir, name+str(run)+'.png'))
+    else:
+        plt.show()
     plt.close()
-
-def weights_plot(iterations, save_dir):
+    
+def plot_output(params, iterations, save_dir, logger):
+    plt.figure(figsize=(10, 6))
     weights = iterations[-1]['status']
     ax = sns.histplot(weights, bins=50, color='lightblue', alpha=1.0)
     ax.set_xlabel(r'$w_{i,T}$')
     ax.set_ylabel('% agents')
     ax.set_title('Final weights distribution of optimist model')
-    plt.tight_layout()
-    file_name = os.path.join(save_dir, f'finalweights_{run}.png')
-    plt.savefig(file_name, bbox_inches='tight', facecolor='white')
-    
-def probabilites_plot(iterations, p_o, p_p, save_dir):
-    weights = iterations[-1]['status']
-    probabilities = p_o * weights + p_p * (1-weights)  # update conditional probabilities of event will occur
-    ax = sns.histplot(probabilities, bins = 50, color='lightblue', alpha=1.0, stat='percent')
-    # sns.kdeplot(probabilities, color='tab:blue', cut=0, ax=ax)
+    plt.savefig(os.path.join(save_dir, 'final_weights_distribution.png'))
+    logger.info("Final status distribution plot saved.")
+    probabilities = params['p_o'] * weights + params['p_p'] * (1-weights)  # update conditional probabilities of event will occur
+    ax = sns.histplot(probabilities, bins=50, color='lightblue', alpha=1.0, stat='percent')
     ax.set_xlabel(r'$p_{i,T}$')
     ax.set_ylabel('% agents')
     ax.set_title('Final probability distribution of optimist model')
     ax.set_xlim(0.0, 1.0)
-    plt.tight_layout()
-    file_name = os.path.join(save_dir, f'finalprobabilities_{run}.png')
-    plt.savefig(file_name, bbox_inches='tight', facecolor='white')
-
-nruns = 100
-save_dir = 'results/lobbyist'
-
-pars = [0.01, 0.99, 0.8, 1000, 0.01, 5]
-
-g = nx.erdos_renyi_graph(pars[3],pars[4])
-initial_status = np.random.rand(pars[3])
-
-folder = '_'.join([str(e) for e in pars])
-save_dir = os.path.join(save_dir, folder)
-
-for run in range(nruns):
-    file_name = os.path.join(save_dir, f'iterations_{run}')
-    with gzip.open(file_name, 'rb') as f:
-        iterations = pickle.load(f)
-    weights_plot(iterations, save_dir)
-    probabilites_plot(iterations, pars[0], pars[1], save_dir)
-    plotevolution(iterations, pars[0], pars[1], save_dir)
-
-
+    plt.savefig(os.path.join(save_dir, 'final_probabilities_distribution.png'))
+    probabilities = 1-probabilities
+    ax = sns.histplot(probabilities, bins=50, color='lightblue', alpha=1.0, stat='percent')
+    ax.set_xlabel(r'$1 - p_{i,T}$')
+    ax.set_ylabel('% agents')
+    ax.set_title('Final probability distribution of pessimist model')
+    ax.set_xlim(0.0, 1.0)
+    plt.savefig(os.path.join(save_dir, 'final_complementary_probabilities_distribution.png'))
+    logger.info("Final probabilities distribution plot saved.")
+    plotevolution(iterations, params['p_o'], params['p_p'], save_dir, name='evolution', run=0)
+    logger.info("Opinion evolution plot saved.")
