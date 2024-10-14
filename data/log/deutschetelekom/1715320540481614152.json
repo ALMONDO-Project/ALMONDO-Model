@@ -1,0 +1,39 @@
+{
+    "1715320540481614152": {
+        "author_id": "92224801",
+        "created_at": "2023-10-20T10:54:20.000Z",
+        "edit_history_tweet_ids": [
+            "1715320540481614152"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 30,
+                    "normalized_text": "karsten",
+                    "probability": 0.7415,
+                    "start": 24,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "925706686060523520",
+                    "start": 0,
+                    "username": "handyhase_de"
+                }
+            ]
+        },
+        "id": "1715320540481614152",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 114,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@handyhase_de Enjoy! \ud83d\ude09 ^karsten"
+    }
+}

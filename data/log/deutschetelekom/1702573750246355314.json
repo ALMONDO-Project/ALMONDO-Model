@@ -1,0 +1,36 @@
+{
+    "1702573750246355314": {
+        "author_id": "92224801",
+        "created_at": "2023-09-15T06:43:09.000Z",
+        "edit_history_tweet_ids": [
+            "1702573750246355314"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 9,
+                    "id": "21882639",
+                    "start": 0,
+                    "username": "madwurst"
+                },
+                {
+                    "end": 73,
+                    "id": "3002862341",
+                    "start": 64,
+                    "username": "BBK_Bund"
+                }
+            ]
+        },
+        "id": "1702573750246355314",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 26,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@madwurst Probewarnungen, die im Rahmen eines Probewarntags von @BBK_Bund durchgef\u00fchrt werden, sind nicht zu deaktivieren, da i.d.R. die h\u00f6chste Warnstufe genutzt wird. Testwarnungen aufgrund Funktionstests k\u00f6nnen in den Einstellungen unter \"Testwarnungen\" deaktiviert werden. ^karsten"
+    }
+}

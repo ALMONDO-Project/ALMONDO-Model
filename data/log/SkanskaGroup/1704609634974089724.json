@@ -1,0 +1,70 @@
+{
+    "1704609634974089724": {
+        "attachments": {
+            "media_keys": [
+                "3_1704609619291656193"
+            ]
+        },
+        "author_id": "24389524",
+        "created_at": "2023-09-20T21:33:01.000Z",
+        "edit_history_tweet_ids": [
+            "1704609634974089724"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 247,
+                    "normalized_text": "ClimateWeekNYC",
+                    "probability": 0.5298,
+                    "start": 234,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 248,
+                    "start": 233,
+                    "tag": "ClimateWeekNYC"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 187,
+                    "id": "475601324",
+                    "start": 179,
+                    "username": "Lenahok"
+                },
+                {
+                    "end": 200,
+                    "id": "91374604",
+                    "start": 188,
+                    "username": "saintgobain"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "pic.twitter.com/Kjla3Hzklp",
+                    "end": 272,
+                    "expanded_url": "https://twitter.com/SkanskaGroup/status/1704609634974089724/photo/1",
+                    "media_key": "3_1704609619291656193",
+                    "start": 249,
+                    "url": "https://t.co/Kjla3Hzklp"
+                }
+            ]
+        },
+        "geo": {
+            "place_id": "94965b2c45386f87"
+        },
+        "id": "1704609634974089724",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 325,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\u201cThis transformation is not just done project by project, building to building, bridge to bridge, we need the complexity of all the systems working together to accelerate impact\u201d @Lenahok @saintgobain Sustainable Construction Talks. #ClimateWeekNYC https://t.co/Kjla3Hzklp"
+    }
+}

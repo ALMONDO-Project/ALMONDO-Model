@@ -1,0 +1,56 @@
+{
+    "1635536357572374528": {
+        "author_id": "24389524",
+        "created_at": "2023-03-14T07:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1635536357572374528"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.3961,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 35,
+                    "normalized_text": "Ullersmo",
+                    "probability": 0.5828,
+                    "start": 28,
+                    "type": "Place"
+                },
+                {
+                    "end": 50,
+                    "normalized_text": "Norway",
+                    "probability": 0.9664,
+                    "start": 45,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 106,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-builds-extension-to-ullersmo-prison--norway--for-nok-324m--about-sek-335m,c3733033",
+                    "start": 83,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-builds-extension-to-ullersmo-prison--norway--for-nok-324m--about-sek-335m,c3733033",
+                    "url": "https://t.co/nmxQS83QaL"
+                }
+            ]
+        },
+        "id": "1635536357572374528",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 627,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Skanska builds extension to Ullersmo prison, Norway, for NOK 324M, about SEK 335M  https://t.co/nmxQS83QaL"
+    }
+}

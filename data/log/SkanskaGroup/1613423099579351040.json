@@ -1,0 +1,56 @@
+{
+    "1613423099579351040": {
+        "author_id": "24389524",
+        "created_at": "2023-01-12T06:30:17.000Z",
+        "edit_history_tweet_ids": [
+            "1613423099579351040"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.4436,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 36,
+                    "normalized_text": "Arizona",
+                    "probability": 0.8513,
+                    "start": 30,
+                    "type": "Place"
+                },
+                {
+                    "end": 41,
+                    "normalized_text": "USA",
+                    "probability": 0.965,
+                    "start": 39,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 96,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-builds-data-center-in-arizona--usa--for-usd-98m--about-sek-990m,c3696291",
+                    "start": 73,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-builds-data-center-in-arizona--usa--for-usd-98m--about-sek-990m,c3696291",
+                    "url": "https://t.co/CNSZTjtJJn"
+                }
+            ]
+        },
+        "id": "1613423099579351040",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 637,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Skanska builds data center in Arizona, USA, for USD 98M, about SEK 990M  https://t.co/CNSZTjtJJn"
+    }
+}

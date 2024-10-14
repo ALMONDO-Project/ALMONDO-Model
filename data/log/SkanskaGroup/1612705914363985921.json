@@ -1,0 +1,56 @@
+{
+    "1612705914363985921": {
+        "author_id": "24389524",
+        "created_at": "2023-01-10T07:00:27.000Z",
+        "edit_history_tweet_ids": [
+            "1612705914363985921"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.6154,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 47,
+                    "normalized_text": "Virginia",
+                    "probability": 0.6468,
+                    "start": 40,
+                    "type": "Place"
+                },
+                {
+                    "end": 52,
+                    "normalized_text": "USA",
+                    "probability": 0.9281,
+                    "start": 50,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 109,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-builds-life-science-building-in-virginia--usa--for-usd-83-6m--about-sek-850m,c3694973",
+                    "start": 86,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-builds-life-science-building-in-virginia--usa--for-usd-83-6m--about-sek-850m,c3694973",
+                    "url": "https://t.co/K6V0PhqYqN"
+                }
+            ]
+        },
+        "id": "1612705914363985921",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 446,
+            "like_count": 3,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Skanska builds life science building in Virginia, USA, for USD 83.6M, about SEK 850M  https://t.co/K6V0PhqYqN"
+    }
+}

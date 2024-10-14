@@ -1,0 +1,31 @@
+{
+    "1651207324361535491": {
+        "author_id": "92224801",
+        "created_at": "2023-04-26T12:51:18.000Z",
+        "edit_history_tweet_ids": [
+            "1651207324361535491"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 92,
+                    "normalized_text": "Germany",
+                    "probability": 0.9723,
+                    "start": 86,
+                    "type": "Place"
+                }
+            ]
+        },
+        "id": "1651207324361535491",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 50,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@SebastienSciboz We firstly aimed to provide many people with fast internet troughout Germany. Not little people with very fast internet. And now we are focusing on fiber - with different regulatory frameworks than in other countries. That also effects the price. ^susann"
+    }
+}

@@ -57,7 +57,9 @@ class UserDataDownload():
     def set_user_data(self):
         # Get user data using Twitter API client
         self.user = self.client.get_user(username=self.username)
+        print(self.user)
         self.user_id = self.user.data.id
+        print(self.user_id)
 
     def make_dirs(self):
         try:
@@ -122,6 +124,7 @@ class UserDataDownload():
         return self.paginator
     
     def get_tweets(self, page):
+        print(page)
         if len(page.data) > 0:
             for tweet in page.data: 
                 if self.count > 0:

@@ -1,0 +1,41 @@
+{
+    "1631640479287635969": {
+        "author_id": "92224801",
+        "created_at": "2023-03-03T12:59:39.000Z",
+        "edit_history_tweet_ids": [
+            "1631640479287635969"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1578055144071200776",
+                    "start": 0,
+                    "username": "bdanpersonal"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "telekom.de/kundencenter/i\u2026",
+                    "end": 81,
+                    "expanded_url": "https://www.telekom.de/kundencenter/informationsservice",
+                    "start": 58,
+                    "status": 200,
+                    "unwound_url": "https://accounts.login.idm.telekom.com/oauth2/auth?scope=openid&response_type=code&client_id=10LIVESAM30000004901PHOENIXCSC0000000000&claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A+%7B%22essential%22%3A+true%7D%7D%7D&redirect_uri=https%3A%2F%2Fwww.telekom.de%2Fkundencenter%2Fredirecturi&state=dMikAqsZL9tKaXTbcYu7NC1u1pJID5hl&nonce=y5i3zVwn2Bb4PVKrnQ3p0uyIsCuJt8Wt",
+                    "url": "https://t.co/Zj56F8Nr2U"
+                }
+            ]
+        },
+        "id": "1631640479287635969",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 42,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@bdanpersonal Hi, den Informationsservice kannst du unter https://t.co/Zj56F8Nr2U abbestellen. \ud83d\ude42 Liebe Gr\u00fc\u00dfe Anna K. von Telekom hilft"
+    }
+}

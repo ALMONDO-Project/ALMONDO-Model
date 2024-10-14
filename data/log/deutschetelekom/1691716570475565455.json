@@ -1,0 +1,52 @@
+{
+    "1691716570475565455": {
+        "author_id": "92224801",
+        "created_at": "2023-08-16T07:40:35.000Z",
+        "edit_history_tweet_ids": [
+            "1691716570475565455"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 28,
+                    "normalized_text": "Lara",
+                    "probability": 0.4995,
+                    "start": 25,
+                    "type": "Person"
+                },
+                {
+                    "end": 77,
+                    "normalized_text": "ren\u00e9",
+                    "probability": 0.691,
+                    "start": 74,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 12,
+                    "id": "335104805",
+                    "start": 0,
+                    "username": "LaraLunardi"
+                },
+                {
+                    "end": 70,
+                    "id": "19596174",
+                    "start": 61,
+                    "username": "SKGaming"
+                }
+            ]
+        },
+        "id": "1691716570475565455",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 59,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@LaraLunardi Thank you , Lara! Love to see your support from @SKGaming \ud83c\udf08 ^ren\u00e9"
+    }
+}

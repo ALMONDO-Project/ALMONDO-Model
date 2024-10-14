@@ -1,0 +1,55 @@
+{
+    "1732701558716891264": {
+        "author_id": "92224801",
+        "created_at": "2023-12-07T10:00:18.000Z",
+        "edit_history_tweet_ids": [
+            "1732701558716891264"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "958795434360819718",
+                    "start": 0,
+                    "username": "ynnus86"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Mit \u201eMein Telekom Techniker\u201c erhalten Kunden Transparenz \u00fcber den Technikerbesuch.",
+                    "display_url": "telekom.com/de/konzern/the\u2026",
+                    "end": 168,
+                    "expanded_url": "https://www.telekom.com/de/konzern/themenspecials/special-kundenservice/details/wissen-wann-der-techniker-kommt-521202",
+                    "images": [
+                        {
+                            "height": 1500,
+                            "url": "https://pbs.twimg.com/news_img/1788168506384482304/z1Qhwa0R?format=jpg&name=orig",
+                            "width": 3000
+                        },
+                        {
+                            "height": 150,
+                            "url": "https://pbs.twimg.com/news_img/1788168506384482304/z1Qhwa0R?format=jpg&name=150x150",
+                            "width": 150
+                        }
+                    ],
+                    "start": 145,
+                    "status": 200,
+                    "title": "Wissen, wann der Techniker kommt",
+                    "unwound_url": "https://www.telekom.com/de/konzern/themenspecials/special-kundenservice/details/wissen-wann-der-techniker-kommt-521202",
+                    "url": "https://t.co/UnugijKctD"
+                }
+            ]
+        },
+        "id": "1732701558716891264",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 525,
+            "like_count": 5,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@ynnus86 Mit unserer Web-App \"Mein Telekom Techniker\" wei\u00dft du ganz genau, wann unser Techniker bei dir zu Hause vor Ort sein wird. Mehr Infos \ud83d\udc49 https://t.co/UnugijKctD ^karsten"
+    }
+}

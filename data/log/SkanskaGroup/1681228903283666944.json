@@ -1,0 +1,49 @@
+{
+    "1681228903283666944": {
+        "author_id": "24389524",
+        "created_at": "2023-07-18T09:06:20.000Z",
+        "edit_history_tweet_ids": [
+            "1681228903283666944"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 178,
+                    "normalized_text": "EU",
+                    "probability": 0.9617,
+                    "start": 177,
+                    "type": "Place"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "Skanska",
+                    "probability": 0.4231,
+                    "start": 189,
+                    "type": "Other"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "bit.ly/3K4JX0C",
+                    "end": 237,
+                    "expanded_url": "https://bit.ly/3K4JX0C",
+                    "start": 214,
+                    "status": 200,
+                    "unwound_url": "https://www.globalconstructionreview.com/sweden-trials-europes-first-all-electric-building-site/",
+                    "url": "https://t.co/Vav2oWnLoj"
+                }
+            ]
+        },
+        "id": "1681228903283666944",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 852,
+            "like_count": 6,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Did you know that a Swedish municipality has begun work on a kindergarten that will be built using only electric equipment \u2013 the first time such a project has been tried in the EU. Done by Skanska.\nRead more here:\nhttps://t.co/Vav2oWnLoj"
+    }
+}

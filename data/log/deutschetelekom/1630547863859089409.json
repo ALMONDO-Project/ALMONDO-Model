@@ -1,0 +1,64 @@
+{
+    "1630547863859089409": {
+        "author_id": "92224801",
+        "created_at": "2023-02-28T12:37:59.000Z",
+        "edit_history_tweet_ids": [
+            "1630547863859089409"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "magenta rocket",
+                    "probability": 0.5502,
+                    "start": 45,
+                    "type": "Other"
+                },
+                {
+                    "end": 195,
+                    "normalized_text": "MWC2023",
+                    "probability": 0.806,
+                    "start": 189,
+                    "type": "Other"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 196,
+                    "start": 188,
+                    "tag": "MWC2023"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 16,
+                    "id": "1162303316438724608",
+                    "start": 0,
+                    "username": "EsportsPlayerF1"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "telekom.com/de/medien/medi\u2026",
+                    "end": 220,
+                    "expanded_url": "https://www.telekom.com/de/medien/medieninformationen/detail/magenta-herzschlag-das-zeigt-die-telekom-beim-mwc-2023-1027640",
+                    "start": 197,
+                    "status": 200,
+                    "unwound_url": "https://www.telekom.com/de/medien/medieninformationen/detail/magenta-herzschlag-das-zeigt-die-telekom-beim-mwc-2023-1027640",
+                    "url": "https://t.co/L5JqfkP2mv"
+                }
+            ]
+        },
+        "id": "1630547863859089409",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 46,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@EsportsPlayerF1 @AugeBrawlstars Nice! \ud83d\ude80 The magenta rocket certainly stands for the rocket science that is available in the stream? \ud83d\udd0e\"Know your role.\" We are still busy until then on the #MWC2023 https://t.co/L5JqfkP2mv^ren\u00e9"
+    }
+}

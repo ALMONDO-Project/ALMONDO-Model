@@ -1,0 +1,63 @@
+{
+    "1729070456727302432": {
+        "author_id": "92224801",
+        "created_at": "2023-11-27T09:31:36.000Z",
+        "edit_history_tweet_ids": [
+            "1729070456727302432"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 45,
+                    "start": 34,
+                    "tag": "Bundeswehr"
+                },
+                {
+                    "end": 77,
+                    "start": 74,
+                    "tag": "5G"
+                },
+                {
+                    "end": 89,
+                    "start": 78,
+                    "tag": "Standalone"
+                },
+                {
+                    "end": 226,
+                    "start": 218,
+                    "tag": "Roboter"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 15,
+                    "id": "53367525",
+                    "start": 4,
+                    "username": "HSUHamburg"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "telekom.com/de/medien/medi\u2026",
+                    "end": 264,
+                    "expanded_url": "https://www.telekom.com/de/medien/medieninformationen/detail/5g-standalone-netz-fuer-universitaet-der-bundeswehr-hamburg-1053400",
+                    "start": 241,
+                    "status": 200,
+                    "unwound_url": "https://www.telekom.com/de/medien/medieninformationen/detail/5g-standalone-netz-fuer-universitaet-der-bundeswehr-hamburg-1053400",
+                    "url": "https://t.co/0cwZzVML8e"
+                }
+            ]
+        },
+        "id": "1729070456727302432",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 2590,
+            "like_count": 7,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Die @HSUHamburg / Universit\u00e4t der #Bundeswehr Hamburg bekommt ein eigenes #5G-#Standalone-Netz \ud83d\udcf6\ud83d\udd2c. Wissenschaft &amp; Industrie k\u00f6nnen so digitale Anwendungen testen. Z.B. Drohnen-Abwehrsysteme\ud83d\udee1\ufe0foder autonom agierende #Roboter \ud83e\udd16\nMehr Infos: https://t.co/0cwZzVML8e"
+    }
+}

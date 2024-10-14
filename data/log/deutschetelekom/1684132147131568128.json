@@ -1,0 +1,45 @@
+{
+    "1684132147131568128": {
+        "author_id": "92224801",
+        "created_at": "2023-07-26T09:22:48.000Z",
+        "edit_history_tweet_ids": [
+            "1684132147131568128"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 102,
+                    "normalized_text": "Germany",
+                    "probability": 0.9626,
+                    "start": 96,
+                    "type": "Place"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 14,
+                    "id": "1641719232",
+                    "start": 0,
+                    "username": "daniel3001944"
+                },
+                {
+                    "end": 74,
+                    "id": "17338082",
+                    "start": 66,
+                    "username": "TMobile"
+                }
+            ]
+        },
+        "id": "1684132147131568128",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 37,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@daniel3001944 Glad to hear it. However, I think your love is for @TMobile. Sent with love from Germany. \ud83d\udc97 ^karsten"
+    }
+}

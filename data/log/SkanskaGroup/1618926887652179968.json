@@ -1,0 +1,42 @@
+{
+    "1618926887652179968": {
+        "author_id": "24389524",
+        "created_at": "2023-01-27T11:00:22.000Z",
+        "edit_history_tweet_ids": [
+            "1618926887652179968"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 61,
+                    "normalized_text": "Skanska",
+                    "probability": 0.6494,
+                    "start": 55,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/invi\u2026",
+                    "end": 124,
+                    "expanded_url": "https://news.cision.com/skanska/r/invitation-to-press-and-telephone-conference-regarding-skanska-s-year-end-report-2022-on-february-3,c3704403",
+                    "start": 101,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/invitation-to-press-and-telephone-conference-regarding-skanska-s-year-end-report-2022-on-february-3,c3704403",
+                    "url": "https://t.co/Vaiimkd0gy"
+                }
+            ]
+        },
+        "id": "1618926887652179968",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 836,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 1
+        },
+        "text": "Invitation to press-and telephone conference regarding Skanska\u2019s Year-end report 2022 on February 3  https://t.co/Vaiimkd0gy"
+    }
+}

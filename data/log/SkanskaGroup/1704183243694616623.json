@@ -1,0 +1,45 @@
+{
+    "1704183243694616623": {
+        "author_id": "24389524",
+        "created_at": "2023-09-19T17:18:42.000Z",
+        "edit_history_tweet_ids": [
+            "1704183243694616623"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 58,
+                    "normalized_text": "CO2",
+                    "probability": 0.7869,
+                    "start": 56,
+                    "type": "Other"
+                },
+                {
+                    "end": 263,
+                    "normalized_text": "Lena H\u00f6k",
+                    "probability": 0.9571,
+                    "start": 256,
+                    "type": "Person"
+                },
+                {
+                    "end": 275,
+                    "normalized_text": "Skanska",
+                    "probability": 0.6538,
+                    "start": 269,
+                    "type": "Person"
+                }
+            ]
+        },
+        "id": "1704183243694616623",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 220,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "\"The built environment is responsible for 40% of global CO2 emissions, resource use and waste streams. Only a systemic approach, deep collab of all actors towards a common vision, and a focus on the full life-cycle emissions can help lower the emissions\", Lena H\u00f6k EVP Skanska"
+    }
+}

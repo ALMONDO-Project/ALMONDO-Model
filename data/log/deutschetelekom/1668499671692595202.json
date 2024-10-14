@@ -1,0 +1,43 @@
+{
+    "1668499671692595202": {
+        "author_id": "92224801",
+        "created_at": "2023-06-13T06:04:55.000Z",
+        "edit_history_tweet_ids": [
+            "1668499671692595202"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 13,
+                    "id": "1550123216055635971",
+                    "start": 0,
+                    "username": "KlausTotales"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "t-online ist ein Angebot der Str\u00f6er Content Group",
+                    "display_url": "t-online.de/id_12511434/im\u2026",
+                    "end": 122,
+                    "expanded_url": "https://t-online.de/id_12511434/impressum.html",
+                    "start": 99,
+                    "status": 200,
+                    "title": "Dies ist das Impressum von t-online.",
+                    "unwound_url": "https://www.t-online.de/id_12511434/impressum-von-t-online-.html",
+                    "url": "https://t.co/UfMkAOdhUF"
+                }
+            ]
+        },
+        "id": "1668499671692595202",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 114,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@KlausTotales Verantwortlich f\u00fcr den Inhalt von t-online ist die Str\u00f6er Digital Publishing GmbH. \ud83d\udc49 https://t.co/UfMkAOdhUF ^karsten"
+    }
+}

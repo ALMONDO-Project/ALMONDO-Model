@@ -1,0 +1,43 @@
+{
+    "1638545543101050880": {
+        "author_id": "92224801",
+        "created_at": "2023-03-22T14:17:54.000Z",
+        "edit_history_tweet_ids": [
+            "1638545543101050880"
+        ],
+        "entities": {
+            "mentions": [
+                {
+                    "end": 11,
+                    "id": "1451291235851853836",
+                    "start": 0,
+                    "username": "EricMetzen"
+                }
+            ],
+            "urls": [
+                {
+                    "description": "Aktuelle News aus Politik, Sport, Unterhaltung, Wirtschaft & Finanzen | Ratgeber Leben, Gesundheit und Heim & Garten | E-Mail und Shopping bei t-online.de.",
+                    "display_url": "t-online.de",
+                    "end": 62,
+                    "expanded_url": "http://t-online.de",
+                    "start": 39,
+                    "status": 200,
+                    "title": "News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber",
+                    "unwound_url": "https://www.t-online.de/",
+                    "url": "https://t.co/xowLJrujUI"
+                }
+            ]
+        },
+        "id": "1638545543101050880",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 54,
+            "like_count": 0,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 0
+        },
+        "text": "@EricMetzen Das ist nicht unsere Nase: https://t.co/xowLJrujUI wird von Stroer betrieben. ^suzie"
+    }
+}

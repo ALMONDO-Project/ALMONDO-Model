@@ -1,0 +1,49 @@
+{
+    "1614880338643193856": {
+        "author_id": "24389524",
+        "created_at": "2023-01-16T07:00:50.000Z",
+        "edit_history_tweet_ids": [
+            "1614880338643193856"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.4314,
+                    "start": 0,
+                    "type": "Place"
+                },
+                {
+                    "end": 62,
+                    "normalized_text": "Kristianstad",
+                    "probability": 0.9424,
+                    "start": 51,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 114,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-builds-multi-family-houses-and-premises-in-kristianstad-for-about-sek-380-million,c3697799",
+                    "start": 91,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-builds-multi-family-houses-and-premises-in-kristianstad-for-about-sek-380-million,c3697799",
+                    "url": "https://t.co/gnztQP3Uiz"
+                }
+            ]
+        },
+        "id": "1614880338643193856",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 745,
+            "like_count": 4,
+            "quote_count": 0,
+            "reply_count": 4,
+            "retweet_count": 0
+        },
+        "text": "Skanska builds multi-family houses and premises in Kristianstad for about SEK 380 million  https://t.co/gnztQP3Uiz"
+    }
+}

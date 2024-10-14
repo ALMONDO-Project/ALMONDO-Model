@@ -1,0 +1,46 @@
+{
+    "1704433934027588016": {
+        "author_id": "92224801",
+        "created_at": "2023-09-20T09:54:51.000Z",
+        "edit_history_tweet_ids": [
+            "1704433934027588016"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 53,
+                    "normalized_text": "DigitalX",
+                    "probability": 0.7163,
+                    "start": 46,
+                    "type": "Other"
+                },
+                {
+                    "end": 65,
+                    "normalized_text": "karsten",
+                    "probability": 0.6603,
+                    "start": 59,
+                    "type": "Other"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 8,
+                    "id": "20973065",
+                    "start": 0,
+                    "username": "DZipfel"
+                }
+            ]
+        },
+        "id": "1704433934027588016",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 43,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "@DZipfel Enjoy and many good conversations at DigitalX. \ud83d\ude42 ^karsten"
+    }
+}

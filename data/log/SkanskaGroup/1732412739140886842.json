@@ -1,0 +1,63 @@
+{
+    "1732412739140886842": {
+        "author_id": "24389524",
+        "created_at": "2023-12-06T14:52:38.000Z",
+        "edit_history_tweet_ids": [
+            "1732412739140886842"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 21,
+                    "normalized_text": "Skanska",
+                    "probability": 0.4801,
+                    "start": 15,
+                    "type": "Place"
+                },
+                {
+                    "end": 63,
+                    "normalized_text": "LaGuardia Terminal B",
+                    "probability": 0.3869,
+                    "start": 44,
+                    "type": "Place"
+                },
+                {
+                    "end": 75,
+                    "normalized_text": "New York",
+                    "probability": 0.9286,
+                    "start": 68,
+                    "type": "Place"
+                },
+                {
+                    "end": 80,
+                    "normalized_text": "USA",
+                    "probability": 0.9498,
+                    "start": 78,
+                    "type": "Place"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "group.skanska.com/media/press-re\u2026",
+                    "end": 142,
+                    "expanded_url": "https://group.skanska.com/media/press-releases-articles/277032/Skanska-divests-ownership-of-LaGuardia-Terminal-B-in-New-York%2c-USA%2c-for-USD-115M%2c-about-SEK-1.2-billion",
+                    "start": 119,
+                    "status": 200,
+                    "unwound_url": "https://group.skanska.com/media/press-releases-articles/277032/Skanska-divests-ownership-of-LaGuardia-Terminal-B-in-New-York%2c-USA%2c-for-USD-115M%2c-about-SEK-1.2-billion",
+                    "url": "https://t.co/LEZZ1lgfcS"
+                }
+            ]
+        },
+        "id": "1732412739140886842",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 507,
+            "like_count": 2,
+            "quote_count": 0,
+            "reply_count": 2,
+            "retweet_count": 1
+        },
+        "text": "Press release: Skanska divests ownership of LaGuardia Terminal B in New York, USA, for USD 115M, about SEK 1.2 billion https://t.co/LEZZ1lgfcS"
+    }
+}

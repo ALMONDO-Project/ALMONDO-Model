@@ -1,0 +1,42 @@
+{
+    "1633452629471666178": {
+        "author_id": "24389524",
+        "created_at": "2023-03-08T13:00:29.000Z",
+        "edit_history_tweet_ids": [
+            "1633452629471666178"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 6,
+                    "normalized_text": "Skanska",
+                    "probability": 0.4978,
+                    "start": 0,
+                    "type": "Person"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "news.cision.com/skanska/r/skan\u2026",
+                    "end": 113,
+                    "expanded_url": "https://news.cision.com/skanska/r/skanska-publishes-annual-and-sustainability-report-2022--strong-performance-in-spotlight,c3729491",
+                    "start": 90,
+                    "status": 200,
+                    "unwound_url": "https://news.cision.com/skanska/r/skanska-publishes-annual-and-sustainability-report-2022--strong-performance-in-spotlight,c3729491",
+                    "url": "https://t.co/0jQAKggaC9"
+                }
+            ]
+        },
+        "id": "1633452629471666178",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 511,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Skanska publishes Annual and Sustainability Report 2022: Strong performance in spotlight  https://t.co/0jQAKggaC9"
+    }
+}

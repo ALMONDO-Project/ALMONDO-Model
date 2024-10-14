@@ -1,0 +1,71 @@
+{
+    "1719290626745741409": {
+        "attachments": {
+            "media_keys": [
+                "3_1719290624828952576"
+            ]
+        },
+        "author_id": "12786932",
+        "created_at": "2023-10-31T09:50:02.000Z",
+        "edit_history_tweet_ids": [
+            "1719290626745741409"
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "end": 49,
+                    "start": 44,
+                    "tag": "Wind"
+                },
+                {
+                    "end": 207,
+                    "start": 199,
+                    "tag": "onshore"
+                },
+                {
+                    "end": 220,
+                    "start": 208,
+                    "tag": "windenergie"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 159,
+                    "id": "57350105",
+                    "start": 155,
+                    "username": "ZDF"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "zdf.de/nachrichten/dr\u2026",
+                    "end": 198,
+                    "expanded_url": "https://www.zdf.de/nachrichten/drehscheibe",
+                    "start": 175,
+                    "status": 200,
+                    "unwound_url": "https://www.zdf.de/nachrichten/drehscheibe",
+                    "url": "https://t.co/ZKiCV25GSI"
+                },
+                {
+                    "display_url": "pic.twitter.com/dAoXnQCijb",
+                    "end": 244,
+                    "expanded_url": "https://twitter.com/EnBW/status/1719290626745741409/photo/1",
+                    "media_key": "3_1719290624828952576",
+                    "start": 221,
+                    "url": "https://t.co/dAoXnQCijb"
+                }
+            ]
+        },
+        "id": "1719290626745741409",
+        "lang": "de",
+        "public_metrics": {
+            "bookmark_count": 1,
+            "impression_count": 1296,
+            "like_count": 8,
+            "quote_count": 0,
+            "reply_count": 1,
+            "retweet_count": 2
+        },
+        "text": "Windenergieanlagen stehen still, obwohl der #Wind weht? Welche Gr\u00fcnde es daf\u00fcr gibt, erl\u00e4utert unser Windenergieexperte Michael Soukup ab Minute 19 in der @zdf \"Drehscheibe\": https://t.co/ZKiCV25GSI\n#onshore #windenergie https://t.co/dAoXnQCijb"
+    }
+}

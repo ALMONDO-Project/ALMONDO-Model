@@ -1,0 +1,101 @@
+{
+    "1722517530139304005": {
+        "attachments": {
+            "media_keys": [
+                "16_1722517490683584512",
+                "3_1722517490662576128",
+                "3_1722517490654179328",
+                "3_1722517490670903296"
+            ]
+        },
+        "author_id": "92224801",
+        "created_at": "2023-11-09T07:32:36.000Z",
+        "edit_history_tweet_ids": [
+            "1722517530139304005"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 7,
+                    "normalized_text": "Deutsche",
+                    "probability": 0.4645,
+                    "start": 0,
+                    "type": "Organization"
+                },
+                {
+                    "end": 16,
+                    "normalized_text": "Telekom",
+                    "probability": 0.7538,
+                    "start": 10,
+                    "type": "Organization"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 17,
+                    "start": 9,
+                    "tag": "Telekom"
+                },
+                {
+                    "end": 216,
+                    "start": 209,
+                    "tag": "DT23Q3"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "telekom.com/en/media/media\u2026",
+                    "end": 208,
+                    "expanded_url": "https://www.telekom.com/en/media/media-information/archive/third-quarter-report-2023-1052344",
+                    "start": 185,
+                    "status": 200,
+                    "unwound_url": "https://www.telekom.com/en/media/media-information/archive/third-quarter-report-2023-1052344",
+                    "url": "https://t.co/IBbX6JHc6w"
+                },
+                {
+                    "display_url": "pic.twitter.com/QfaOoXJmwW",
+                    "end": 240,
+                    "expanded_url": "https://twitter.com/deutschetelekom/status/1722517530139304005/photo/1",
+                    "media_key": "16_1722517490683584512",
+                    "start": 217,
+                    "url": "https://t.co/QfaOoXJmwW"
+                },
+                {
+                    "display_url": "pic.twitter.com/QfaOoXJmwW",
+                    "end": 240,
+                    "expanded_url": "https://twitter.com/deutschetelekom/status/1722517530139304005/photo/1",
+                    "media_key": "3_1722517490662576128",
+                    "start": 217,
+                    "url": "https://t.co/QfaOoXJmwW"
+                },
+                {
+                    "display_url": "pic.twitter.com/QfaOoXJmwW",
+                    "end": 240,
+                    "expanded_url": "https://twitter.com/deutschetelekom/status/1722517530139304005/photo/1",
+                    "media_key": "3_1722517490654179328",
+                    "start": 217,
+                    "url": "https://t.co/QfaOoXJmwW"
+                },
+                {
+                    "display_url": "pic.twitter.com/QfaOoXJmwW",
+                    "end": 240,
+                    "expanded_url": "https://twitter.com/deutschetelekom/status/1722517530139304005/photo/1",
+                    "media_key": "3_1722517490670903296",
+                    "start": 217,
+                    "url": "https://t.co/QfaOoXJmwW"
+                }
+            ]
+        },
+        "id": "1722517530139304005",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 3446,
+            "like_count": 12,
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 2
+        },
+        "text": "Deutsche #Telekom raises annual guidance after strong third quarter and plans dividend increase. All details on the figures for the past quarter are available in our media information: https://t.co/IBbX6JHc6w #DT23Q3 https://t.co/QfaOoXJmwW"
+    }
+}

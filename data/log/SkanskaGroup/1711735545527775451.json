@@ -1,0 +1,80 @@
+{
+    "1711735545527775451": {
+        "attachments": {
+            "media_keys": [
+                "3_1711735323317731328"
+            ]
+        },
+        "author_id": "24389524",
+        "created_at": "2023-10-10T13:28:51.000Z",
+        "edit_history_tweet_ids": [
+            "1711735545527775451"
+        ],
+        "entities": {
+            "annotations": [
+                {
+                    "end": 107,
+                    "normalized_text": "UK",
+                    "probability": 0.976,
+                    "start": 106,
+                    "type": "Place"
+                }
+            ],
+            "hashtags": [
+                {
+                    "end": 215,
+                    "start": 203,
+                    "tag": "datacentres"
+                },
+                {
+                    "end": 228,
+                    "start": 216,
+                    "tag": "engineering"
+                },
+                {
+                    "end": 242,
+                    "start": 229,
+                    "tag": "construction"
+                }
+            ],
+            "mentions": [
+                {
+                    "end": 153,
+                    "id": "26271439",
+                    "start": 143,
+                    "username": "TELEHOUSE"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "lnkd.in/d_Dw_UXg",
+                    "end": 202,
+                    "expanded_url": "https://lnkd.in/d_Dw_UXg",
+                    "start": 179,
+                    "status": 200,
+                    "unwound_url": "https://lnkd.in/d_Dw_UXg",
+                    "url": "https://t.co/5lGRRUgYWY"
+                },
+                {
+                    "display_url": "pic.twitter.com/5jUOty6sES",
+                    "end": 266,
+                    "expanded_url": "https://twitter.com/SkanskaGroup/status/1711735545527775451/photo/1",
+                    "media_key": "3_1711735323317731328",
+                    "start": 243,
+                    "url": "https://t.co/5jUOty6sES"
+                }
+            ]
+        },
+        "id": "1711735545527775451",
+        "lang": "en",
+        "public_metrics": {
+            "bookmark_count": 0,
+            "impression_count": 427,
+            "like_count": 1,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0
+        },
+        "text": "Today we are happy to announce the signing of a GBP 158M, approx. SEK 2.1 billion fit out contract in the UK with leading data centre provider @Telehouse.\n\nRead the release here: https://t.co/5lGRRUgYWY\n#datacentres #engineering #construction https://t.co/5jUOty6sES"
+    }
+}
