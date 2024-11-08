@@ -124,14 +124,15 @@ class UserDataDownload():
         return self.paginator
     
     def get_tweets(self, page):
-        print(page)
-        if len(page.data) > 0:
-            for tweet in page.data: 
-                if self.count > 0:
-                    tweet_data = {tweet.data['id']: tweet.data}
-                    self.dump_tweets(tweet, tweet_data) 
-                    self.count -= 1
-                    print(f'{self.count} tweets left to download')
+        print('page is: ', page)
+        if page.data:
+            if len(page.data) > 0:
+                for tweet in page.data: 
+                    if self.count > 0:
+                        tweet_data = {tweet.data['id']: tweet.data}
+                        self.dump_tweets(tweet, tweet_data) 
+                        self.count -= 1
+                        print(f'{self.count} tweets left to download')
         else:
             raise ValueError("Empty page. No more tweets to download")
     
