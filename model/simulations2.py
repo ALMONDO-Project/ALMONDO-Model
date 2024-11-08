@@ -38,6 +38,10 @@ def generate_graph(graph_type='erdos_renyi', **kwargs):
         seed = kwargs.get('seed', None)
         G = nx.erdos_renyi_graph(N, p_er, seed=seed)
     
+    elif graph_type == 'complete_graph':
+        N = kwargs.get('N', 1000)
+        G = nx.complete_graph(N)
+    
     elif graph_type == 'barabasi_albert':
         N = kwargs.get('N', 1000)
         m = kwargs.get('m', 5)  # Number of edges to attach from a new node to existing nodes
