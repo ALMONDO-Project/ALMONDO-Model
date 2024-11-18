@@ -4,18 +4,6 @@ This repository contains a simulation framework based on the **AlmondoModel** to
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Parameters](#parameters)
-6. [Outputs](#outputs)
-7. [Contributing](#contributing)
-8. [License](#license)
-
----
-
 ## Overview
 The simulation models a network of agents whose opinions evolve under:
 - Interpersonal influence based on network structure.
