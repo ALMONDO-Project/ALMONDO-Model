@@ -13,47 +13,77 @@ import random
 nruns = 100
 save_dir = 'results/lobbyist'
 
+model_pars = {
+    "po": 0.01,
+    "pp": 0.99,
+    "alpha": 0.2,
+    "graphtype": "ER",
+    "N": 1000,
+    "per": 0.01,
+    "nlobbyists": 2,
+    "initial_distr": "uniform",
+    "T": 100
+}
 
-p_o = 0.01
-p_p = 0.99
-l = 0.8
-N = 1000
-p_er = 0.01
-n_lobbyists = 5
-max_iterations = 10000
+save_dir = [f"{k}{v}" for k,v in model_pars.items()]
+save_dir = '_'.join(save_dir)
 
-folder = '_'.join([str(e) for e in pars])
-save_dir = os.path.join(save_dir, folder)
+sim_pars = {
+    "nruns": 10,
+    "save_dir": save_dir
+}
+
+save_dir = os.path.join("results/", save_dir)
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
-for run in range(nruns):
-    file_name = os.path.join(save_dir, f'iterations_{run}')
-    if not os.path.exists(file_name):
-        g = nx.erdos_renyi_graph(pars[3], pars[4])
-        initial_status = np.random.rand(pars[3])
+for run in range(sim_pars['nruns']):
+    run_dir = os.path.join(save_dir, f'run{run}')
+    if not os.path.exists(run_dir):
+        os.makedirs(run_dir)
+    
+    plot_dir = os.path.join(run_dir, f'plots')
+    if not os.path.exists(plot_dir):
+        os.makedirs(plot_dir)
 
-        # Create lobbyist agents
-        lobbyists = []
-        for _ in range(pars[5]):
-            model_type = random.choice(['optimistic', 'pessimistic'])
-            #given the budget and maybe some other input parameters create the signal matrix and pass it to the LobbyistAgent
-            
-            lobbyist = LobbyistAgent(self, model=model_type, graph=g, signalmatrix = None, seed=None)
-            lobbyists.append(lobbyist)
+    G = nx.erdos_renyi_graph(n=model_pars['N'], p=model_pars['per'])
+    nx.write_edgelist(G, f"{run_dir}/graph.edgelist", delimiter=',')
+    
+    model = AlmondoModel(graph=G, seed=4)
 
-        # Model selection
-        model = AlmondoModel(graph=g, seed=4, lobbyists=lobbyists)
+    # Model configuration
+    config = mc.Configuration()
+    config.add_model_parameter("p_o", model_pars['po'])
+    config.add_model_parameter("p_p", model_pars['pp'])
+    config.add_model_parameter("alpha", model_pars['alpha'])
+    model.set_initial_status(configuration=config, kind=model_pars['initial_distr'])
 
-        # Model configuration
-        config = mc.Configuration()
-        config.add_model_parameter("p_o", pars[0])
-        config.add_model_parameter("p_p", pars[1])
-        config.add_model_parameter("l", pars[2])
-        model.set_initial_status(configuration=config, status=initial_status)
-        
-        iterations = model.steady_state(max_iterations=1000000, nsteady=1000, sensibility=0.0001)
-        with gzip.open(file_name, 'wb') as f:
-            pickle.dump(iterations, f)
-    else:
-        continue
+    models = [0, 1]
+    matrix1 = np.random.randint(0, 2, size=(model_pars['T'], model_pars['N']))
+    matrix2 = np.random.randint(0, 2, size=(model_pars['T'], model_pars['N']))
+
+    matrices = [matrix1, matrix2]
+
+    for id in range(2):
+        model.add_lobbyist(id)
+        model.set_lobbyist_model(id, models[id])
+        model.set_lobbyist_strategy(id, matrix = matrices[id])
+
+    iterations = model.iteration_bunch(T=model_pars['T'])
+    
+    model.save_all_status(run_dir, filename='status', format='json')
+    model.save_final_state(run_dir, filename='final', format='csv')
+    model.plot_evolution(path=f"{plot_dir}/evolution.png")
+    model.visualize_initial_weights(path=f"{plot_dir}/initial.png")
+    model.visualize_final_weights(path=f"{plot_dir}/final.png")
+    model.visualize_final_probabilities(path=f"{plot_dir}/final_probabilities.png")
+    
+    iterations = model.steady_state()
+    
+    model.save_all_status(run_dir, filename='status', format='json')
+    model.save_final_state(run_dir, filename='final', format='csv')
+    model.plot_evolution(path=f"{plot_dir}/evolution.png")
+    model.visualize_initial_weights(path=f"{plot_dir}/initial.png")
+    model.visualize_final_weights(path=f"{plot_dir}/final.png")
+    model.visualize_final_probabilities(path=f"{plot_dir}/final_probabilities.png")
+    
