@@ -47,7 +47,12 @@ class AlmondoModel(DiffusionModel):
                 "alpha": {
                     "descr": "???",
                     "range": [0,1],
-                    "optional": False
+                    "optional": True
+                }, 
+                "lambda": {
+                    "descr": "???",
+                    "range": [0,1],
+                    "optional": True
                 }
             },
             "nodes": {},  # Node-specific parameters (empty for now)
@@ -122,7 +127,10 @@ class AlmondoModel(DiffusionModel):
 
     def generate_lambda(self, w, s):
         c = 0.1 #deve essere un parametro del modello? della simulazione? lo settiamo noi a 0.1
-        return np.abs((1 - s) - w)**self.params['model']['alpha'] #alpha deve essere un parametro del modello passato dall'utente
+        try: 
+            lambda = np.abs((1 - s) - w)**self.params['model']['alpha'] #alpha deve essere un parametro del modello passato dall'utente
+        except:
+            lambda = self.params['model']['lambda']
 
     # Function to update node status based on a signal and current status (without lobbyist influence)
     def update(self, receivers, s):
