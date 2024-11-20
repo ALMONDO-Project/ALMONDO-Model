@@ -131,12 +131,14 @@ class AlmondoModel(DiffusionModel):
 
     def generate_lambda(self, w, s):
         c = 0.1 #deve essere un parametro del modello? della simulazione? lo settiamo noi a 0.1
-        try: 
+        if self.params['model']['alpha'] is not None:
             l = np.abs((1 - s) - w)**self.params['model']['alpha'] #alpha deve essere un parametro del modello passato dall'utente
             return l
-        except:
+        elif self.params['model']['lambda'] is not None:
             l = self.params['model']['lambda']
             return l 
+        else:
+            raise ValueError("Set either lambda or alpha")
         
 
     # Function to update node status based on a signal and current status (without lobbyist influence)
@@ -217,14 +219,12 @@ class AlmondoModel(DiffusionModel):
         return self.system_status
 
     # Run the model until a steady state is reached or a maximum number of iterations
-    def steady_state(self, max_iterations=1000000, nsteady=1000, sensibility=0.00001, node_status=True, progress_bar=True, drop_evolution=True):
+    def steady_state(self, max_iterations=1000000, nsteady=1000, sensibility=0.00001, node_status=True, progress_bar=True, drop_evolution=False):
         self.T = max_iterations
         steady_it = 0  # Counter for consecutive steady iterations
-
         # Iterate until reaching a steady state or max_iterations
         for it in tqdm(range(max_iterations)):
             its = self.iteration(node_status=True)
-
             # Check if the difference between consecutive states is below the threshold
             if it > 0:
                 old = np.array([el for el in self.system_status[-1]['status'].values()]) # Previous status
@@ -241,6 +241,9 @@ class AlmondoModel(DiffusionModel):
             if steady_it == nsteady:
                 print(f'Convergence reached after {it} iterations')
                 return self.system_status
+            
+            if drop_evolution:
+              self.system_status = [its]
 
         # Return the status of the system at each iteration (if no steady state is reached)
         return self.system_status
@@ -248,7 +251,8 @@ class AlmondoModel(DiffusionModel):
 ##################### SAVE FUNCTIONS ##############################################################################################################
 
     def save_all_status(self, save_dir, filename='status', format='json'):
-        output_file = os.path.join(save_dir, f'{filename}.{format}')        
+        iteration_count = self.actual_iteration
+        output_file = os.path.join(save_dir, f'{filename}_{iteration_count}.{format}')        
         if format == 'json':
             with open(output_file, 'w') as ofile:
                 json.dump(self.system_status, ofile)
@@ -257,7 +261,7 @@ class AlmondoModel(DiffusionModel):
                 pickle.dump(self.system_status, ofile)
 
     def save_final_state(self, save_dir, filename='final', format='csv'):
-        iteration_count = len(self.system_status)  # Total iterations completed
+        iteration_count = self.actual_iteration
         output_file = os.path.join(save_dir, f'{filename}_{iteration_count}.{format}')
         final_status = [el for el in self.system_status[-1]['status'].values()]
         np.savetxt(output_file, final_status, delimiter=',')
@@ -382,7 +386,8 @@ class AlmondoModel(DiffusionModel):
         if path is None:
             plt.show()
         else:
-            plt.savefig(path, bbox_inches='tight', facecolor='white')
+            iteration_count = self.actual_iteration
+            plt.savefig(path+f'_{iteration_count}.png', bbox_inches='tight', facecolor='white')
         plt.close()
 
     def visualize_initial_weights(self, path=None):
@@ -397,7 +402,8 @@ class AlmondoModel(DiffusionModel):
         if path is None:
             plt.show()
         else:
-            plt.savefig(path, bbox_inches='tight', facecolor='white')
+            iteration_count = self.actual_iteration
+            plt.savefig(path+f'_{iteration_count}.png', bbox_inches='tight', facecolor='white')        
         plt.close()
 
     def visualize_final_weights(self, path=None):
@@ -412,7 +418,8 @@ class AlmondoModel(DiffusionModel):
         if path is None:
             plt.show()
         else:
-            plt.savefig(path, bbox_inches='tight', facecolor='white')
+            iteration_count = self.actual_iteration
+            plt.savefig(path+f'_{iteration_count}.png', bbox_inches='tight', facecolor='white')
         plt.close()
     
     def visualize_final_probabilities(self, path=None):
@@ -427,7 +434,8 @@ class AlmondoModel(DiffusionModel):
         if path is None:
             plt.show()
         else:
-            plt.savefig(path, bbox_inches='tight', facecolor='white')
+            iteration_count = self.actual_iteration
+            plt.savefig(path+f'_{iteration_count}.png', bbox_inches='tight', facecolor='white')
         plt.close()
     
 
