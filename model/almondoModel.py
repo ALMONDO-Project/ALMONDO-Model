@@ -48,13 +48,13 @@ class AlmondoModel(DiffusionModel):
                     "descr": "???",
                     "range": [0,1],
                     "optional": True,
-                    "default": 0
+                    "default": None
                 }, 
                 "lambda": {
                     "descr": "???",
                     "range": [0,1],
                     "optional": True,
-                    "default": 1
+                    "default": None
                 }
             },
             "nodes": {},  # Node-specific parameters (empty for now)
