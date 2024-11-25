@@ -130,7 +130,6 @@ class AlmondoModel(DiffusionModel):
         print(self.params['model'])
 
     def generate_lambda(self, w, s):
-        c = 0.1 #deve essere un parametro del modello? della simulazione? lo settiamo noi a 0.1
         if self.params['model']['alpha'] is not None:
             l = np.abs((1 - s) - w)**self.params['model']['alpha'] #alpha deve essere un parametro del modello passato dall'utente
             return l
