@@ -49,21 +49,20 @@ def nits(status):
     return int(status[-1]['iterations'])
 
 
-# -*- coding: utf-8 -*-
-"""
-This function computes the expected average relative entropy of final beliefs 
-with respect to the model the lobbyist supports.
-This can be considered as a performance index for the lobbyist with respect 
-to its communication strategy.
- 
-# Author information
-__author__ = ["Verdiana Del Rosso"]
-__email__ = [
-    "verdiana.delrosso@unicam.it",
-]
-"""
-
 def lobbyist_performance(opinions, model, p_o, p_p):
+    # -*- coding: utf-8 -*-
+    """
+    This function computes the expected average relative entropy of final beliefs 
+    with respect to the model the lobbyist supports.
+    This can be considered as a performance index for the lobbyist with respect 
+    to its communication strategy.
+    
+    # Author information
+    __author__ = ["Verdiana Del Rosso"]
+    __email__ = [
+        "verdiana.delrosso@unicam.it",
+    ]
+    """
     
     """ 
     Perform relative entropy of final beliefs 

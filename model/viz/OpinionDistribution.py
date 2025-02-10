@@ -6,23 +6,28 @@ import seaborn as sns
 import json
 
 class OpinionDistribution(object):
-    def __init__(self, model, trends, iteration='last', values = 'probabilities'):
+    def __init__(self, 
+                 model: object, 
+                 trends: dict, 
+                 iteration: int | str, 
+                 values: str):
+        
         """
         :param model: The model object
         :param trends: The computed simulation trends
+        :param iteration: The iteration number or the string "last" for plotting final state
         """
+        
         self.system_status = trends
         self.model = model
         self.trends = trends
         self.iteration = iteration
         
         if iteration == 'last':
-            self.it = -1
-            self.it = self.trends[self.it]['iteration']
-            self.ops = self.trends[self.it]['status']
+            self.it = self.trends[-1]['iteration']
+            self.ops = self.trends[-1]['status']
         else:
-            self.it = iteration
-            self.ops = self.trends[self.it]['status'].values()
+            self.ops = self.trends[iteration]['status'].values()
         
         if values == 'probabilities':
             weights = np.array([el for el in self.ops])
@@ -31,14 +36,13 @@ class OpinionDistribution(object):
             self.values = np.array([el for el in self.ops])
         
         
-    def plot(self, filename=None, ax = None):
-        if ax is None:
-            fig, ax = plt.subplots(figsize=(10, 6))       
-        sns.histplot(self.values, color='lightblue', alpha=1.0, stat='percent')
+    def plot(self, filename=None, ax = None):        
+        plt.hist(self.values(), bins=30, edgecolor='black')
         plt.xlabel(r'$p_{i,T}$')
         plt.ylabel('% agents')
         plt.title('Final probability distribution of optimist model')
         plt.xlim(0.0, 1.0)
+        plt.ylim(0.0, 100.0)
         plt.tight_layout()
         if filename is None:
             plt.show()

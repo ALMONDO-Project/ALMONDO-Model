@@ -1,59 +1,17 @@
-from classes.simulator import ALMONDOSimulator
 from viz.OpinionEvolution import OpinionEvolution
 from viz.OpinionDistribution import OpinionDistribution
+
 from classes.metrics import AverageMetrics
+from classes.simulator import ALMONDOSimulator
+
+from functions.strategies import generate_ms, generate_strategies, read_random_strategies
+from functions.utils import transform
+
 import networkx as nx
 import numpy as np
 import json
 import pickle
 import os
-import random
-
-
-def generate_ms(n_lobbyists: int) -> list[int]:
-    return [nl % 2 for nl in range(n_lobbyists)] #numero "ugale" di lobbisti ottimisti e pessimisti (se il totale è pari, altrimenti c'è un 1 in più)
-    
-def generate_strategies(folder_path: str,
-                        n_possibilites: int, 
-                        N: int,         # numero nodi 
-                        T: int = 3000,  # timestep totali 
-                        B: int = 30000, # budget
-                        c: int = 1      # costo unitario
-                        ) -> None:
-    """
-    Creare una lista di n_possibilities (uguale a NRUNS?) matrici e salvare su file.
-    Le matrici sono binarie e di forma timestep x n_lobbisti.
-    Ogni entrata (t, i) indica se il lobbista interagisce
-    con il nodo i al tempo t o no. Il numero totale di interazioni
-    moltiplicato per il costo unitario sia uguale il budget.
-    Temporaneamente assumiamo che i timestep abbiano un numero
-    costante di interazioni
-    """
-    inter_per_time = B // (c * T)
-    for i in range(n_possibilites):
-        m = np.zeros((T, N), dtype=int)
-        for t in range(T):
-            indices = np.random.choice(N, inter_per_time, replace=False)
-            m[t, indices] = 1
-        
-        np.savetxt(os.path.join(folder_path, f"strategy_{i}.txt"), m, fmt="%i")
-    return
-
-def read_random_strategies(strategies_path: str, n_lobbyists: int) -> list[np.ndarray]:
-    strategy_names = random.sample(os.listdir(strategies_path), n_lobbyists)
-    strategies = []
-    for strategy_name in strategy_names:
-        filepath = os.path.join(strategies_path, strategy_name)
-        print(f"Reading f{filepath}")
-        strategies.append(np.loadtxt(filepath).astype(int))
-    return strategies
-
-def transform(w: list, settings: dict):
-    w = np.array(w)
-    p = w * settings['p_o'] + (1 - w) * settings['p_p']
-    p = p.tolist()
-    return p
-
 
 def main(scenario, n_lobbyists):
     SCENARIO = scenario
@@ -97,7 +55,7 @@ def main(scenario, n_lobbyists):
     
     for _, (lambda_v, phi_v) in enumerate([(l, p) for l in lambda_values for p in phi_values]):
             # Parameters specific to the execution of a simulation
-            simparams = {}
+            #simparams = {}
             
             configparams = {
                 'lambdas': lambda_v,
@@ -107,7 +65,7 @@ def main(scenario, n_lobbyists):
             configpath = os.path.join(scenario_path, f'{lambda_v}_{phi_v}/')
             os.makedirs(configpath, exist_ok=True)
 
-            paramsdict = {**settings, **configparams, **simparams}
+            paramsdict = {**settings, **configparams}
             with open(configpath + 'params.pkl', 'wb') as f:
                 pickle.dump(paramsdict, f)        
             
@@ -169,19 +127,6 @@ def main(scenario, n_lobbyists):
                 with open(configpath+f'/{kind}_metrics.json', 'w') as f:
                     json.dump(metrics, f, indent=4)
             
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            #  with open(BASE + SCENARIO + CONFIG + RUN + 'final_weights.csv', 'w') as f:
-            #         f.write(','.join([str(el) for el in final_weights_run]))
-                    
-
+    
 if __name__ == "__main__":
     main("2_lobbyists", 2)
