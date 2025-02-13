@@ -5,43 +5,27 @@ import networkx as nx
 import os
 import pandas as pd
 
-def main(scenario, n_lobbyists):
+def main(scenario, n_lobbyists, nruns):
+    
+    NRUNS = nruns
+    
     SCENARIO = scenario
     scenario_path = os.path.join("simulations", SCENARIO)
+    os.makedirs(scenario_path, exist_ok=True)
     
-    settings = {
-        'p_o': 0.01,
-        'p_p': 0.99,
-        'initial_distribution': 'uniform',
-        'path': scenario_path,
-        'T': 10000,
-        'n_lobbyists': n_lobbyists,    # SINGLE LOBBYIST!
-        'ms': None,
-        'strategies': None
-    }
+    #settings = {}
     
-    NRUNS = 100
+    
 
-    graphparams = {
-        'N': 500,
-        'type': 'complete'
-    }
 
-    N = graphparams['N']
-    graph = nx.complete_graph(N)
+    #graph = nx.complete_graph(N)
 
     # Define the possible values of lambdas and phis to test 
-    lambda_values = [0.0, 0.5, 1.0]
-    phi_values = [0.0, 0.5, 1.0]
+    
     
     data = []
     
     for _, (lambda_v, phi_v) in enumerate([(l, p) for l in lambda_values for p in phi_values]):
-            
-            configparams = {
-                'lambdas': lambda_v,
-                'phis': phi_v
-            }
             
             for kind in ['weights', 'probabilities']:    
                 
