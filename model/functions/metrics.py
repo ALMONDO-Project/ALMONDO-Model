@@ -82,10 +82,8 @@ def lobbyist_performance(opinions, model, p_o, p_p):
         p_lob = p_p
     elif model == 1:
         p_lob = p_o
-        
-    p = np.array(opinions) * p_o + (1 - np.array(opinions)) * p_p # final beliefs of agents
     
-    rel_entropy = p_lob*np.log(p_lob/p)+(1-p_lob)*np.log((1-p_lob)/(1-p))
+    rel_entropy = p_lob*np.log(p_lob/opinions)+(1-p_lob)*np.log((1-p_lob)/(1-opinions))
     
     #strategy_performance = sum(rel_entropy)/N # mean
     strategy_performance = np.mean(rel_entropy) # mean

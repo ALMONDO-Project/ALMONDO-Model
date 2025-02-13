@@ -9,8 +9,8 @@ class OpinionDistribution(object):
     def __init__(self, 
                  model: object, 
                  trends: dict, 
-                 iteration: int | str, 
-                 values: str):
+                 iteration: int | str = -1, 
+                 values: str = "probabilities"):
         
         """
         :param model: The model object
@@ -37,7 +37,7 @@ class OpinionDistribution(object):
         
         
     def plot(self, filename=None, ax = None):        
-        plt.hist(self.values(), bins=30, edgecolor='black')
+        plt.hist(self.values, bins=30, edgecolor='black')
         plt.xlabel(r'$p_{i,T}$')
         plt.ylabel('% agents')
         plt.title('Final probability distribution of optimist model')

@@ -21,7 +21,6 @@ def main(scenario, n_lobbyists):
     os.makedirs(scenario_path, exist_ok=True)  
     
     ########### CONSTANT SETTINGS FOR EACH EXPERIMENT ###########
-    # Define the main settings for the simulation
     settings = {
         'p_o': 0.01,
         'p_p': 0.99,
@@ -31,7 +30,7 @@ def main(scenario, n_lobbyists):
         'n_lobbyists': n_lobbyists    # SINGLE LOBBYIST!
     }
     
-    NRUNS = 100
+    NRUNS = 10
 
     # Define the graph used for the simulation
     graphparams = {
@@ -55,7 +54,6 @@ def main(scenario, n_lobbyists):
     
     for _, (lambda_v, phi_v) in enumerate([(l, p) for l in lambda_values for p in phi_values]):
             # Parameters specific to the execution of a simulation
-            #simparams = {}
             
             configparams = {
                 'lambdas': lambda_v,
@@ -88,7 +86,6 @@ def main(scenario, n_lobbyists):
                 fps = transform(fws, settings)
                 
                 final_data.append(
-                    
                     {
                         'final_weights': fws,
                         'final_probabilities': fps,
@@ -129,4 +126,4 @@ def main(scenario, n_lobbyists):
             
     
 if __name__ == "__main__":
-    main("2_lobbyists", 2)
+    main("3_lobbyists", 3)

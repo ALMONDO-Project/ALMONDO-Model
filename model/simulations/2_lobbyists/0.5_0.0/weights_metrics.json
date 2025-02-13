@@ -1,0 +1,32 @@
+{
+    "effective_number_clusters": {
+        "avg": 1.0,
+        "std": 0.0
+    },
+    "number_iterations": {
+        "avg": 49.87,
+        "std": 6.077260896160374
+    },
+    "average_pairwise_distance": {
+        "avg": 8.835786681643675e-08,
+        "std": 3.6144175217144396e-08
+    },
+    "mean_opinion_distrib": {
+        "avg": 0.5299999950561736,
+        "std": 0.4990991443153782
+    },
+    "variance_opinion_distrib": {
+        "avg": 4.951072374826809e-13,
+        "std": 2.508905400181321e-13
+    },
+    "lobbyists_performance": {
+        "0": {
+            "avg": 2.3867028561013814,
+            "std": 2.2475499221736723
+        },
+        "1": {
+            "avg": 2.1165102882601476,
+            "std": 2.247550143387256
+        }
+    }
+}

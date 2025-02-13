@@ -24,9 +24,9 @@ class AverageMetrics(object):
                 lambdas: float | list, 
                 phis: float | list,
                 
-                n_lobbyists: int,
-                ms: list,
-                strategies: list):
+                n_lobbyists: int = 0,
+                ms: list = None,
+                strategies: list = None):
         
         
         self.seed = 1
@@ -45,7 +45,8 @@ class AverageMetrics(object):
         self.n_lobbyists = n_lobbyists
         self.ms = ms
         self.strategies = strategies
-        assert len(self.ms) == len(self.strategies), "Lengths of ms and strategies must be the same!"
+        if self.ms is not None and self.strategies is not None and self.n_lobbyists > 0:
+            assert len(self.ms) == len(self.strategies) == self.n_lobbyists, "Lengths of ms and strategies must be the same and equal to the number of lobbyists!"
     
         
         def _convert(data, kind):
@@ -83,7 +84,7 @@ class AverageMetrics(object):
         
         
         
-        with open(path+'/final_data.json', 'r') as f:
+        with open(self.path+'final_data.json', 'r') as f:
             data = json.load(f)
         self.data, self.iterations = _convert(data, kind) #list of list and list of integers
         
@@ -100,15 +101,30 @@ class AverageMetrics(object):
         
         for l_id in range(n_lobbyists):
             self.metrics['lobbyists_performance'][l_id] = {'avg': 0, 'std': 0}
+            
+        self.output_path = os.path.join(self.path, "metrics")
+        os.makedirs(self.output_path, exist_ok=True)
+        
+        print(self.output_path + " directory created!")
         
     def compute(self, threshold: float = 0.0001):
+        print('computing average metrics')
         self.avg_enc()
         self.avg_nit()
         self.avg_pwdist()
         self.avg_meanprob()
         self.avg_varprob()
         self.avg_lobbyist_performance()
+        print('done')
         return self  
+    
+    def save(self, path=None):
+        if path is None:
+            with open(f'{self.output_path}/{self.kind}_metrics.json', 'w') as f:
+                json.dump(self.metrics, f)
+        else:
+            with open(path, 'w') as f:
+                json.dump(self.metrics, f)
        
     def avg_enc(self, threshold: float = 0.2): #threshold scelta più o meno a caso?
         ncs = []
@@ -186,7 +202,9 @@ class AverageMetrics(object):
                 
                 self.metrics['lobbyists_performance'][l_id]['avg'] = avg
                 self.metrics['lobbyists_performance'][l_id]['std'] = std
+        
         else:
+            
             self.metrics['lobbyists_performance'] = None
             self.metrics['lobbyists_performance'] = None
 
@@ -202,9 +220,6 @@ class AverageMetrics(object):
     
     
     
-    def save(self, filename: str):
-        with open(filename, 'w') as f:
-            json.dump(self.metrics, f, indent=4)
     
     def load(self, file_path: str):
         if os.path.exists(file_path):
