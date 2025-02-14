@@ -7,87 +7,71 @@ import os
 class AverageMetrics(object):
     
     def __init__(self,
-                path: str,
-
                 nruns: int, 
                 kind: Literal["weights", "probabilities"], 
-                
-                 
-                graph: object, 
-        
-                initial_distribution: str,
-                T: int,
                 
                 p_o: float,
                 p_p: float,
                 
-                lambdas: float | list, 
-                phis: float | list,
-                
                 n_lobbyists: int = 0,
                 ms: list = None,
-                strategies: list = None):
-        
+                
+                data: dict = None,
+                #path: str = None,
+                ):
         
         self.seed = 1
-        self.path = path
+        #self.path = path
         
         self.nruns = nruns
         self.kind = kind
         
-        self.graph = graph
         self.p_o = p_o
         self.p_p = p_p
-        self.lambdas = lambdas
-        self.phis = phis
-        self.T = T
-        self.initial_distribution = initial_distribution
+
         self.n_lobbyists = n_lobbyists
         self.ms = ms
-        self.strategies = strategies
-        if self.ms is not None and self.strategies is not None and self.n_lobbyists > 0:
-            assert len(self.ms) == len(self.strategies) == self.n_lobbyists, "Lengths of ms and strategies must be the same and equal to the number of lobbyists!"
-    
+
         
         def _convert(data, kind):
             newdata = []
             newits = []
+            if data is not None:
+                for run, d in enumerate(data):
+                    print(run)
+                    if kind == 'weights':
+                        ops = d.get('final_weights', None)
+                    elif kind == 'probabilities':
+                        ops = d.get('final_probabilities', None)
+                    else:
+                        raise ValueError(f"Invalid kind: {kind}. Expected 'weights' or 'probabilities'.")
+                    if ops is None:
+                        raise KeyError(f"Missing key '{kind}' in run {run}.")
+                    if not isinstance(ops, list):
+                        ops = list(ops) if hasattr(ops, '__iter__') else None  # Convert iterables to lists
+                    if ops is None:
+                        raise TypeError(f"Could not convert '{kind}' data into a list for run {run}.")
+                    try:
+                        ops = [float(x) for x in ops]
+                    except (ValueError, TypeError):
+                        raise TypeError(f"All elements in ops must be convertible to float, but got {ops} for run {run}.")
+                    
+                    try:
+                        its = int(d.get('final_iterations', None))
+                    except(ValueError, TypeError):
+                        raise TypeError(f"Iterations must be convertible to integers but got {its} for run {run}")
+                    
+                    newits.append(its)
+                    newdata.append(ops)
+                    
+                return newdata, newits
             
-            for run, d in enumerate(data):
-                print(run)
-                if kind == 'weights':
-                    ops = d.get('final_weights', None)
-                elif kind == 'probabilities':
-                    ops = d.get('final_probabilities', None)
-                else:
-                    raise ValueError(f"Invalid kind: {kind}. Expected 'weights' or 'probabilities'.")
-                if ops is None:
-                    raise KeyError(f"Missing key '{kind}' in run {run}.")
-                if not isinstance(ops, list):
-                    ops = list(ops) if hasattr(ops, '__iter__') else None  # Convert iterables to lists
-                if ops is None:
-                    raise TypeError(f"Could not convert '{kind}' data into a list for run {run}.")
-                try:
-                    ops = [float(x) for x in ops]
-                except (ValueError, TypeError):
-                    raise TypeError(f"All elements in ops must be convertible to float, but got {ops} for run {run}.")
+            else:
                 
-                try:
-                    its = int(d.get('final_iterations', None))
-                except(ValueError, TypeError):
-                    raise TypeError(f"Iterations must be convertible to integers but got {its} for run {run}")
-                
-                newits.append(its)
-                newdata.append(ops)
-                 
-            return newdata, newits
+                return None, None
         
         
-        
-        with open(self.path+'final_data.json', 'r') as f:
-            data = json.load(f)
         self.data, self.iterations = _convert(data, kind) #list of list and list of integers
-        
         
         
         self.metrics = {
@@ -101,11 +85,7 @@ class AverageMetrics(object):
         
         for l_id in range(n_lobbyists):
             self.metrics['lobbyists_performance'][l_id] = {'avg': 0, 'std': 0}
-            
-        self.output_path = os.path.join(self.path, "metrics")
-        os.makedirs(self.output_path, exist_ok=True)
         
-        print(self.output_path + " directory created!")
         
     def compute(self, threshold: float = 0.0001):
         print('computing average metrics')

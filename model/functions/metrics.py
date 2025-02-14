@@ -78,6 +78,8 @@ def lobbyist_performance(opinions, model, p_o, p_p):
     strategy_performance: Relative entropy of final beliefs
     """
     
+    opinions = np.array(opinions)
+    
     if model == 0:
         p_lob = p_p
     elif model == 1:

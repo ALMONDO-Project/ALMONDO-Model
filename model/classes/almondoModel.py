@@ -23,6 +23,9 @@ class LobbyistAgent:
     def get_model(self):
         return self.m
     
+    def get_strategy(self):
+        return self.strategy
+    
     def get_current_strategy(self, t):
         return self.strategy[t]
 
@@ -86,6 +89,26 @@ class AlmondoModel(DiffusionModel):
     def add_lobbyist(self, m, strategy):
         newl = LobbyistAgent(m, strategy)
         self.lobbyists.append(newl)
+    
+    def get_lobbyists(self, strategy=False):
+        ls = []
+        if len(self.lobbyists) > 0:
+            if strategy:
+                for i, l in enumerate(self.lobbyists):
+                    ls.append({
+                        'id': i,
+                        'model': l.get_model(),
+                        'strategy': l.get_strategy()
+                    })
+            else:
+                for i, l in enumerate(self.lobbyists):
+                    ls.append({
+                        'id': i,
+                        'model': l.get_model()
+                    })
+            return ls
+        else:
+            return None
           
 ######################################################################################################################        
         
