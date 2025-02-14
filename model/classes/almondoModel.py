@@ -14,26 +14,24 @@ __email__ = [
     "valentina.pansanella@isti.cnr.it",
 ]
 
-class LobbyistAgent:
-        
-    def __init__(self, m, strategy):        
-        self.m = m #è uno 0 o un 1
-        self.strategy = strategy #è una matrice T x N
-    
-    def get_model(self):
-        return self.m
-    
-    def get_strategy(self):
-        return self.strategy
-    
-    def get_current_strategy(self, t):
-        return self.strategy[t]
-
 
 # Define the AlmondoModel class, which extends ndlib's DiffusionModel
 class AlmondoModel(DiffusionModel):
+    class LobbyistAgent:
+        
+        def __init__(self, m, strategy):        
+            self.m = m #è uno 0 o un 1
+            self.strategy = strategy #è una matrice T x N
+        
+        def get_model(self):
+            return self.m
+        
+        def get_strategy(self):
+            return self.strategy
+        
+        def get_current_strategy(self, t):
+            return self.strategy[t]
 
-#################################### MODEL INITIALIZATION FUNCTIONS ##################################################################        
     # Initialization of the model, setting up the graph, and model parameters
     def __init__(self, graph, seed=None):
         super(self.__class__, self).__init__(graph, seed)
@@ -44,11 +42,13 @@ class AlmondoModel(DiffusionModel):
         # Define model parameters with descriptions, ranges, and whether they are optional
         self.parameters = {
             "model": {
+                
                 "p_o": {  # Probability of an optimistic event
                     "descr": "Probability of event optimist model",
                     "range": [0, 1],
                     "optional": False
                 },
+                
                 "p_p": {  # Probability of a pessimistic event
                     "descr": "Probability of event pessimist model",
                     "range": [0, 1],
@@ -56,16 +56,19 @@ class AlmondoModel(DiffusionModel):
                 }
             },
             "nodes": {
+                
                 "lambda":{
                     "descr": "...",
                     "range": [0,1],
                     "optional": False
                     },
+                
                 "phi":{
                     "descr":"...",
                     "range":[0,1],
                     "optional":False}
                 },  # Node-specific parameters (empty for now)
+            
             "edges": {}   # Edge-specific parameters (empty for now)
         }
             
@@ -87,7 +90,7 @@ class AlmondoModel(DiffusionModel):
         self.system_status = []
     
     def add_lobbyist(self, m, strategy):
-        newl = LobbyistAgent(m, strategy)
+        newl = self.LobbyistAgent(m, strategy)
         self.lobbyists.append(newl)
     
     def get_lobbyists(self, strategy=False):
@@ -226,3 +229,4 @@ class AlmondoModel(DiffusionModel):
 
         # Return the status of the system at each iteration (if no steady state is reached)
         return self.system_status
+
