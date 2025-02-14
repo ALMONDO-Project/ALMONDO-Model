@@ -34,6 +34,12 @@ class AverageMetrics(object):
 
         
         def _convert(data, kind):
+            
+            """
+            :Args:data (list): List of dictionary of final statuses and final iteration for the nruns
+            :Args:kind (str): "Probabilities" or "Weights" indicating on which value to compute the metrics
+            """
+            
             newdata = []
             newits = []
             if data is not None:
@@ -98,13 +104,9 @@ class AverageMetrics(object):
         print('done')
         return self  
     
-    def save(self, path=None):
-        if path is None:
-            with open(f'{self.output_path}/{self.kind}_metrics.json', 'w') as f:
-                json.dump(self.metrics, f)
-        else:
-            with open(path, 'w') as f:
-                json.dump(self.metrics, f)
+    def save(self, path):
+        with open(path, 'w') as f:
+            json.dump(self.metrics, f)
        
     def avg_enc(self, threshold: float = 0.2): #threshold scelta più o meno a caso?
         ncs = []

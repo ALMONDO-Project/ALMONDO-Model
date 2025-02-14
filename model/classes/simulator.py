@@ -1,12 +1,11 @@
 from .almondoModel import AlmondoModel #questo poi sarà un import da ndlib una volta che il modello sarà caricato lì
 import ndlib.models.ModelConfig as mc
-from functions.strategies import read_random_strategies
+from functions.strategies import read_random_strategies, generate_strategies
 from functions.utils import transform
-from .metrics import AverageMetrics
 
 import json
 import os
-import networkx as nx
+
 
 class ALMONDOSimulator(object):
     def __init__(
@@ -20,7 +19,9 @@ class ALMONDOSimulator(object):
         phi_values: float | list,
         n_lobbyists: int,
         ms: list,
-        base_path: str = 'model/simulations/',
+        base_path: str = 'simulations/',
+        scenario_path: str = None,
+        nruns: int = 100
     ):
         self.graph = graph
         
@@ -34,32 +35,41 @@ class ALMONDOSimulator(object):
         self.n_lobbyists = n_lobbyists
         self.ms = ms
         
+        self.nruns = nruns
+        
         self.base_path = base_path
-        self.scenario_path = os.path.join(base_path, f'{n_lobbyists}_lobbyists')
+        if scenario_path is None:
+            self.scenario_path = os.path.join(base_path, f'{n_lobbyists}_lobbyists')
         
         os.makedirs(self.base_path, exist_ok=True)
         os.makedirs(self.scenario_path, exist_ok=True)
         
+        self.strategies_path = os.path.join(self.scenario_path, "strategies")
+        os.makedirs(self.strategies_path, exist_ok=True)
+        generate_strategies(self.strategies_path, self.nruns, self.graph.number_of_nodes())
+    
         print('simulator created')
     
-    def execute_experiments(self, nruns):
+    def execute_experiments(self):
         for _, (lambda_v, phi_v) in enumerate([(l, p) for l in self.lambdas for p in self.phis]):
             print(f'starting configuration lambda={lambda_v}, phi={phi_v}')
             
             self.config_path = os.path.join(self.scenario_path, f'{lambda_v}_{phi_v}/')            
             os.makedirs(self.config_path, exist_ok=True)
             
-            self.runs(nruns, lambda_v, phi_v)
+            self.runs(lambda_v, phi_v)
         
-    def runs(self, nruns, lambda_v, phi_v):
+        return self
+        
+    def runs(self, lambda_v, phi_v):
         runs_data = []
         
-        for run in range(nruns):
+        for run in range(self.nruns):
             
             self.runpath = os.path.join(self.config_path, f'{run}')
             
             if os.path.exists(f'{self.runpath}/status.json'):
-                print(f'run {run}/{nruns} already performed and saved, going to the next one')
+                print(f'run {run}/{self.nruns} already performed and saved, going to the next one')
                 continue
             else:
                 os.makedirs(self.runpath)
@@ -70,17 +80,15 @@ class ALMONDOSimulator(object):
         
         with open(self.config_path+'/runs_data.json', 'w') as f:
             json.dump(runs_data, f)
-            
+    
+    def save_system_status(self, path):
+        if not hasattr(self, "system_status"):
+            raise RuntimeError("You must single_run() before calling save()")
+        
+        with open(path + '/status.json', 'w') as f:
+            json.dump(self.system_status, f)        
                 
     def single_run(self, lambda_v, phi_v):
-        
-        def save_system_status(path):
-            if not hasattr(self, "system_status"):
-                raise RuntimeError("You must single_run() before calling save()")
-            
-            with open(path + '/status.json', 'w') as f:
-                json.dump(self.system_status, f)
-                
         #config part
         config = self.createConfig(lambda_v, phi_v)
         self.model = AlmondoModel(self.graph, seed=1)
@@ -152,6 +160,54 @@ class ALMONDOSimulator(object):
                 self.model.add_lobbyist(m, strategy)
         else:
             self.strategies = None
+
+    def save_config(self):
+        
+        import networkx as nx
+        
+        d = {
+            'p_o': self.p_o,
+            'p_p': self.p_p,
+            'lambda_values': self.lambdas,
+            'phi_values': self.phis,
+            'T': self.T,
+            'n_lobbyists': self.n_lobbyists,
+            'ms': self.ms,
+            
+        }
+
+        lobbyists = self.model.get_lobbyists(strategy=False)
+        
+        d['lobbyists_data'] = lobbyists
+        
+        d['nruns'] = self.nruns
+        
+        nx.write_edgelist(self.graph, self.scenario_path+'graph.csv', delimiter=",", data=False)
+        with open(self.scenario_path+'config.json', 'w') as f:
+            json.dump(d, f)      
+                
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     # def saveConfig(self, lambda_v, phi_v, filename="config.json"):
