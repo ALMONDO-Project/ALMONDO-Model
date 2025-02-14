@@ -72,7 +72,7 @@ class ALMONDOSimulator(object):
                 print(f'run {run}/{self.nruns} already performed and saved, going to the next one')
                 continue
             else:
-                os.makedirs(self.runpath)
+                os.makedirs(self.runpath, exist_ok=True)
             
             status, fd = self.single_run(lambda_v, phi_v)
             
@@ -85,7 +85,8 @@ class ALMONDOSimulator(object):
         if not hasattr(self, "system_status"):
             raise RuntimeError("You must single_run() before calling save()")
         
-        with open(path + '/status.json', 'w') as f:
+        filename = os.path.join(path, 'status.json')
+        with open(filename, 'w') as f:
             json.dump(self.system_status, f)        
                 
     def single_run(self, lambda_v, phi_v):
@@ -101,7 +102,7 @@ class ALMONDOSimulator(object):
         self.system_status = self.model.steady_state(max_iterations=self.T)
         
         #Dump status to json file
-        self.save_system_status()
+        self.save_system_status(self.runpath)
         
         fws = [el for el in self.system_status[-1]['status'].values()]
         fps = transform(fws, self.p_o, self.p_p)
