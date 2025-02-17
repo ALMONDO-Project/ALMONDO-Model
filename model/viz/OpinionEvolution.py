@@ -1,24 +1,34 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.ticker import MaxNLocator
 import future.utils
 
 class OpinionEvolution(object):
-    def __init__(self, model, trends):
+    def __init__(self, trends, p_o, p_p):
+        
         """
-        :param model: The model object
-        :param trends: The computed simulation trends
+        :param p_o: The model p_o parameter
+        :param p_p: The model p_p parameter
+        :param trends: The computed simulation trends (status.json in the run folder)
         """
-
+        
+        print(type(trends))
+        print(trends)
+        
         self.node2col = {}
         self.nodes2opinions = {}
             
         self.last_it = trends[-1]['iteration'] + 1
         self.last_seen = {}
+        
+        def transform(w: list, p_o: int, p_p: int):
+            w = np.array(w)
+            p = w * p_o + (1 - w) * p_p
+            p = p.tolist()
+            return p
 
         for it in trends:
             weights = np.array([el for el in it['status'].values()])
-            sts = model.params['model']['p_o'] * weights + model.params['model']['p_p'] * (1-weights)  # update conditional probabilities of event will occur
+            sts = transform(weights, p_o, p_p)  # update conditional probabilities of event will occur
             its = it['iteration']
             for n, v in enumerate(sts):
                 if n in self.nodes2opinions:

@@ -7,8 +7,9 @@ import json
 
 class OpinionDistribution(object):
     def __init__(self, 
-                 model: object, 
                  trends: dict, 
+                 p_o,
+                 p_p,
                  iteration: int | str = -1, 
                  values: str = "probabilities"):
         
@@ -19,7 +20,6 @@ class OpinionDistribution(object):
         """
         
         self.system_status = trends
-        self.model = model
         self.trends = trends
         self.iteration = iteration
         
@@ -31,7 +31,8 @@ class OpinionDistribution(object):
         
         if values == 'probabilities':
             weights = np.array([el for el in self.ops])
-            self.values = self.model.params['model']['p_o'] * weights + self.model.params['model']['p_p'] * (1-weights)
+            self.values = p_o * weights + p_p * (1-weights)
+            
         elif values == 'weights':
             self.values = np.array([el for el in self.ops])
         
