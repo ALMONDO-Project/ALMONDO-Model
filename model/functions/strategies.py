@@ -13,7 +13,7 @@ def generate_strategies(folder_path: str,
                         n_possibilites: int, 
                         N: int,         # numero nodi 
                         T: int = 3000,  # timestep totali 
-                        B: int = 30000, # budget
+                        B: int = 300000, # budget
                         c: int = 1
                         ) -> None:
     """

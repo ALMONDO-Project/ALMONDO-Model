@@ -5,6 +5,8 @@ import json
 import os
 
 def main(n_lobbyists, nruns):
+    
+    base_path = 'results/'
         
     params = {
         'p_o': 0.01,
@@ -22,9 +24,9 @@ def main(n_lobbyists, nruns):
     
     params['ms'] = generate_ms(params['n_lobbyists'])
     
-    simulator = ALMONDOSimulator(**params, graph=graph)     
+    simulator = ALMONDOSimulator(**params, base_path = 'results/', graph=graph)     
     simulator.execute_experiments().save_config()      
     
                     
 if __name__ == "__main__":
-    main(0, 3)
+    main(2, 3)
