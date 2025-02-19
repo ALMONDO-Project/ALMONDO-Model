@@ -1,4 +1,4 @@
-from functions.metrics import nclusters, pwdist, lobbyist_performance
+from model.analysis.metrics import nclusters, pwdist, lobbyist_performance
 from typing import Literal
 import numpy as np
 import json
