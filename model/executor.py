@@ -13,8 +13,8 @@ def main(n_lobbyists, nruns):
         'p_p': 0.99,
         'initial_distribution': 'uniform',
         'T': 10000,
-        'lambda_values': [0.0, 0.5, 1.0],
-        'phi_values': [0.0, 0.5, 1.0],
+        'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
         'base_path': 'results',
         'N': 500
     }
@@ -27,4 +27,7 @@ def main(n_lobbyists, nruns):
         json.dump(params, f)
                     
 if __name__ == "__main__":
+    main(0, 3)
+    main(1, 3)
     main(2, 3)
+    main(3, 3)
