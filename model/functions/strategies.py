@@ -13,18 +13,9 @@ def generate_strategies(folder_path: str,
                         n_possibilites: int, 
                         N: int,         # numero nodi 
                         T: int = 3000,  # timestep totali 
-                        B: int = 30000, # budget
+                        B: int = 300000, # budget
                         c: int = 1
                         ) -> None:
-    """
-    Creare una lista di n_possibilities (uguale a NRUNS?) matrici e salvare su file.
-    Le matrici sono binarie e di forma timestep x n_lobbisti.
-    Ogni entrata (t, i) indica se il lobbista interagisce
-    con il nodo i al tempo t o no. Il numero totale di interazioni
-    moltiplicato per il costo unitario sia uguale il budget.
-    Temporaneamente assumiamo che i timestep abbiano un numero
-    costante di interazioni
-    """
     
     print('Gnerating strategies')
     
@@ -51,3 +42,12 @@ def read_random_strategies(strategies_path: str, n_lobbyists: int) -> list[np.nd
         print(f"Reading f{filepath}")
         strategies.append(np.loadtxt(filepath).astype(int))
     return strategies
+
+
+def read_random_strategy(strategies_path: str) -> np.ndarray:
+    print(f'Strategies path = {strategies_path}')
+    strategy_name = random.choice(os.listdir(strategies_path))
+    filepath = os.path.join(strategies_path, strategy_name)
+    print(f"Reading {filepath}")
+    return np.loadtxt(filepath).astype(int), strategy_name
+
