@@ -1,1 +1,0 @@
-{"p_o": 0.01, "p_p": 0.99, "lambda_values": [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0], "phi_values": [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0], "T": 10000, "n_lobbyists": 2, "lobbyists": {"0": {"m": 0, "strategy": "strategy_2.txt"}, "1": {"m": 1, "strategy": "strategy_0.txt"}}, "nruns": 3}

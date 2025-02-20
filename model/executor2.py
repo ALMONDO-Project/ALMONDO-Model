@@ -48,11 +48,11 @@ def main(nruns):
         'lambda_values': [0.0, 1.0],
         'phi_values': [0.0, 1.0],
         'base': 'results',
-        'scenario': 'unbalanced_budgets',
+        'scenario': 'balanced_budgets/2_lobbyists',
         'N': 500,
         'lobbyists_data': {
-            0: {'m': 1, 'B': 200000, 'c': 1, 'strategies': [], 'T': 3000},
-            1: {'m': 0, 'B': 400000, 'c': 1, 'strategies': [], 'T': 3000}
+            0: {'m': 1, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000},
+            1: {'m': 0, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
         },
         'n_lobbyists': 2
     }    

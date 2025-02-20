@@ -1,8 +1,11 @@
 from .almondoModel import AlmondoModel #questo poi sarà un import da ndlib una volta che il modello sarà caricato lì
 import ndlib.models.ModelConfig as mc
-from functions.strategies import read_random_strategy, generate_strategies
 from functions.utils import transform
 import networkx as nx 
+import numpy as np
+from tqdm import tqdm
+import string
+import random
 import json
 import os
 
@@ -10,22 +13,22 @@ import os
 class ALMONDOSimulator(object):
     def __init__(
         self, 
-        N, 
+        N: int, 
         initial_distribution: str,
         T: int,
         p_o: float,
         p_p: float,
         lambda_values: float | list, 
         phi_values: float | list,
-        n_lobbyists: int,
-        base_path: str = 'simulations/',
-        scenario_path: str = None,
-        nruns: int = 100
+        base: str = 'results/',
+        scenario: str = None,
+        nruns: int = 100,
+        n_lobbyists: int = 0,
+        lobbyists_data: dict = {}
     ):
         
-        self.base_path = base_path
-        if scenario_path is None:
-            self.scenario_path = os.path.join(base_path, f'{n_lobbyists}_lobbyists')
+        self.base_path = base
+        self.scenario_path = os.path.join(base, scenario)
         os.makedirs(self.base_path, exist_ok=True)
         os.makedirs(self.scenario_path, exist_ok=True)
         self.strategies_path = os.path.join(self.scenario_path, "strategies")
@@ -39,14 +42,17 @@ class ALMONDOSimulator(object):
         self.phis = phi_values
         self.T = T
         self.initial_distribution = initial_distribution
-        self.n_lobbyists = n_lobbyists      
         self.nruns = nruns     
+        self.lobbyists_data = lobbyists_data
+        self.n_lobbyists =  n_lobbyists    
         
-        generate_strategies(self.strategies_path, self.nruns, self.graph.number_of_nodes())
-                
+        if self.n_lobbyists > 0:
+            self.create_strategies()
+             
         print('simulator created')
-
-    def createConfig(self, lambda_v, phi_v):
+    
+        
+    def config_model(self, lambda_v, phi_v):
         
         config = mc.Configuration()
         
@@ -72,32 +78,26 @@ class ALMONDOSimulator(object):
         else:
             raise ValueError
 
-        return config    
-    
-    def add_lobbyists(self):  
-        
-        self.lobbyists_data = {}      
-        
-        for id in range(self.n_lobbyists):
-            
-            m = id%2
-            strategy, name = read_random_strategy(self.strategies_path)            
-            self.model.add_lobbyist(m, strategy)
-
-            self.lobbyists_data[id] = {}
-            self.lobbyists_data[id]['m'] = m
-            self.lobbyists_data[id]['strategy'] = name
-        
-    def single_run(self, lambda_v, phi_v):
-        
-        #config part
-        config = self.createConfig(lambda_v, phi_v)
+        print('configuring model: assigning graph, parameters and initial distribution of weights')
         self.model = AlmondoModel(self.graph, seed=1)
         self.model.set_initial_status(config, kind=self.initial_distribution)
         
-        #Lobbyists 
-        self.add_lobbyists()
-
+        if self.n_lobbyists > 0:
+            print('assigning random strategies to lobbyists')
+            for id in self.lobbyists_data:
+                data = self.lobbyists_data[id]
+                B = data['B']
+                m = data['m']
+                matrix, name = self.read_random_strategy(B)          
+                print(f'assigning strategy {name} to lobbyist {id}')  
+                #add lobbyist with model and strategy
+                self.model.add_lobbyist(m, matrix)
+                self.lobbyists_data[id]['strategies'].append(name)
+            
+    def single_run(self, lambda_v, phi_v):
+        #Creating a new configuration at each run: changing initial distr, and lobbyists strategies which are random
+        self.config_model(lambda_v, phi_v)
+        
         #Execution 
         self.system_status = self.model.steady_state(max_iterations=self.T)
         
@@ -115,46 +115,60 @@ class ALMONDOSimulator(object):
         
         return self.system_status, fd
     
-    def runs(self, lambda_v, phi_v):
+    def runs(self, lambda_v, phi_v, overwrite=False):
+        
+        print('Starting montecarlo runs')
+        
         runs_data = []
         
+        #erase strategies from previous runs which is the only thing that changes about lobbyists across simulations
+        for id in range(self.n_lobbyists):
+            self.lobbyists_data[id]['strategies'] = []
+            
         for run in range(self.nruns):
             
             self.runpath = os.path.join(self.config_path, f'{run}')
             
-            if os.path.exists(f'{self.runpath}/status.json'):
-                print(f'run {run}/{self.nruns} already performed and saved, going to the next one')
-                continue
+            if not overwrite:
+                if os.path.exists(f'{self.runpath}/status.json'):
+                    #run is completely executed, move on
+                    print(f'run {run}/{self.nruns} already performed and saved, going to the next one')
+                    continue
+                else:
+                    #run is partially executed or not at all but do not erase existing files 
+                    os.makedirs(self.runpath, exist_ok=True)
             else:
+                #overwrite existing files if any
                 os.makedirs(self.runpath, exist_ok=True)
+
+            _, final_distributions = self.single_run(lambda_v, phi_v)
             
-            status, fd = self.single_run(lambda_v, phi_v)
+            runs_data.append(final_distributions)
             
-            runs_data.append(fd)
-            
-            self.save_config(filename = f'{self.runpath}/config.json')
+        self.save_config()
         
-        with open(self.config_path+'/runs_data.json', 'w') as f:
+        filename = os.path.join(self.config_path, 'runs_data.json')
+        with open(filename, 'w') as f:
             json.dump(runs_data, f)
     
-    def execute_experiments(self):
-    
+    def execute_experiments(self, overwrite_runs=False):
+        
+        print('Starting experiments')
+        
         for _, (lambda_v, phi_v) in enumerate([(l, p) for l in self.lambdas for p in self.phis]):
-            print(f'starting configuration lambda={lambda_v}, phi={phi_v}')
+            print(f'Starting configuration lambda={lambda_v}, phi={phi_v}')
             
-            self.config_path = os.path.join(self.scenario_path, f'{lambda_v}_{phi_v}/')            
+            self.config_path = os.path.join(self.scenario_path, f'{lambda_v}_{phi_v}')            
             os.makedirs(self.config_path, exist_ok=True)
             
-            self.runs(lambda_v, phi_v)
-        
-        return self
-        
+            self.runs(lambda_v, phi_v, overwrite=overwrite_runs)
 
-    def get_results(self):
-        if not hasattr(self, "system_status"):
-            raise RuntimeError("No results available. Did you call run()?")
-        return self.model, self.system_status, self.model.lobbyists
-
+    
+    
+    
+    
+    
+    
     def save_config(self, filename=None):
         
         import networkx as nx
@@ -166,32 +180,65 @@ class ALMONDOSimulator(object):
             'phi_values': self.phis,
             'T': self.T,
             'n_lobbyists': self.n_lobbyists,
-            'lobbyists': self.lobbyists_data
+            'lobbyists_data': self.lobbyists_data
         }
         
         d['nruns'] = self.nruns
         
-        nx.write_edgelist(self.graph, self.scenario_path+'graph.csv', delimiter=",", data=False)
+        nx.write_edgelist(self.graph, os.path.join(self.scenario_path, 'graph.csv'), delimiter=",", data=False)
 
         if filename is None:
-            for id in d['lobbyists']:
-                d['lobbyists'][id]['strategy'] = ''
-            with open(self.scenario_path+'config.json', 'w') as f:
-                json.dump(d, f)      
+            with open(os.path.join(self.scenario_path, 'config.json'), 'w') as f:
+                json.dump(d, f, indent=4)      
         else:
             with open(filename, 'w') as f:
-                json.dump(d, f)
+                json.dump(d, f, indent=4)
 
+    
+    
+    
+    
+    
     def save_system_status(self, path):
         if not hasattr(self, "system_status"):
             raise RuntimeError("You must single_run() before calling save()")
         
         filename = os.path.join(path, 'status.json')
         with open(filename, 'w') as f:
-            json.dump(self.system_status, f)        
+            json.dump(self.system_status, f)    
+            
+    def create_strategies(self):
+        print('creating strategies')
+        for id in range(self.n_lobbyists):
+            data = self.lobbyists_data[id]
+            B = data['B']
+            c = data['c']
+            folder = os.path.join(self.strategies_path, str(B))
+            print(folder)
+            os.makedirs(folder, exist_ok=True)
+            for run in range(self.nruns):
+                inter_per_time = B // (c * 3000)
+                matrix = np.zeros((3000, self.N), dtype=int)
+                for t in range(3000):
+                    indices = np.random.choice(self.N, inter_per_time, replace=False)
+                    matrix[t, indices] = 1
+                print('saving strategy to file')
+                filename = f'strategy_{run}.txt'
+                path = os.path.join(folder, filename)
+                np.savetxt(path, matrix, fmt="%i")
+        print('strategies created')             
         
-        
+    def read_random_strategy(self, B):
+        path = os.path.join(self.strategies_path, str(B))
+        strategy_name = random.choice(os.listdir(path))
+        filepath = os.path.join(path, strategy_name)
+        print(f"Reading {filepath}")
+        return np.loadtxt(filepath).astype(int), filepath    
 
+    def get_results(self):
+        if not hasattr(self, "system_status"):
+            raise RuntimeError("No results available. Did you call run()?")
+        return self.model, self.system_status, self.model.lobbyists
 
 
 
