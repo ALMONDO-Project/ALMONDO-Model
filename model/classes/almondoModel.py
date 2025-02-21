@@ -289,13 +289,10 @@ class AlmondoModel(DiffusionModel):
         p_p = self.params['model']['p_p']
         
         self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration)
-        
         if np.any(np.isnan(self.actual_status)):
             print(f"NaN found in actual_status after applying lobbyist influence after iteration {self.actual_iteration}")
-            return
-        
+            return None
         sender = random.randint(0, self.n - 1)
-        
         try:        
             p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p
             signal = np.random.binomial(1, p)
@@ -305,6 +302,7 @@ class AlmondoModel(DiffusionModel):
             print('p = ',p)
             print('sender = ', sender)
             print('sender actual status = ', self.actual_status[sender])
+            return None
             
         receivers = np.array(list(self.graph.neighbors(sender)))
         if len(receivers) > 0:
@@ -365,6 +363,10 @@ class AlmondoModel(DiffusionModel):
         # Iterate until reaching a steady state or max_iterations
         for it in tqdm(range(max_iterations), disable=not progress_bar):
             its = self.iteration(node_status=True)
+            if its is None:
+                print('Something went wrong in the current iteration!')
+                return
+            
             # Check if the difference between consecutive states is below the threshold
             if it > 0:
                 old = np.array([el for el in self.system_status[-1]['status'].values()]) # Previous status
