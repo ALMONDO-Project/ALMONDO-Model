@@ -48,8 +48,6 @@ def main(nruns):
         'T': 10000,
         'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
         'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        # 'lambda_values': [0.0, 1.0],
-        # 'phi_values': [0.0, 1.0],
         'base': 'results',
         'scenario': 'unbalanced_budgets',
         'N': 500,
@@ -72,4 +70,4 @@ def main(nruns):
 
                     
 if __name__ == "__main__":
-    main(3)
+    main(100)
