@@ -40,6 +40,11 @@ class AlmondoModel(DiffusionModel):
             """
             self.m = m  # 0 (pessimistic) or 1 (optimistic)
             self.strategy = strategy  # Strategy matrix
+            self.max_t, self.N = self.strategy.shape
+            
+        def get_max_t(self) -> int:
+            """Returns the lobbyists' maximum number of active iterations"""
+            return self.max_t
 
         def get_model(self) -> int:
             """Returns the model of the lobbyist (0 or 1)."""
@@ -255,8 +260,10 @@ class AlmondoModel(DiffusionModel):
         Returns:
             np.ndarray: The updated statuses after lobbyist influence.
         """
-        for lobbyist in self.lobbyists:
-            w = self.lupdate(w, lobbyist, t)
+        if len(self.lobbyists) > 0:
+            for lobbyist in self.lobbyists:
+                if lobbyist.get_max_t() <= self.actual_iteration:
+                    w = self.lupdate(w, lobbyist, t)
         return w
 
     def iteration(self, node_status: bool = True) -> dict:
@@ -280,15 +287,25 @@ class AlmondoModel(DiffusionModel):
 
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
-
-        try:
-            self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration)
-        except IndexError:
-            pass
+        
+        self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration)
+        
+        if np.any(np.isnan(self.actual_status)):
+            print(f"NaN found in actual_status after applying lobbyist influence after iteration {self.actual_iteration}")
+            return
         
         sender = random.randint(0, self.n - 1)
-        p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p
-        signal = np.random.binomial(1, p)
+        
+        try:        
+            p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p
+            signal = np.random.binomial(1, p)
+        except ValueError as e:
+            print('Info about code that causes the error -->')
+            print('Error = ', e)
+            print('p = ',p)
+            print('sender = ', sender)
+            print('sender actual status = ', self.actual_status[sender])
+            
         receivers = np.array(list(self.graph.neighbors(sender)))
         if len(receivers) > 0:
             self.actual_status[receivers] = self.update(receivers, signal)
