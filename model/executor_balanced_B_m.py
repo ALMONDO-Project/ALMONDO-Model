@@ -1,6 +1,4 @@
 from classes.simulator import ALMONDOSimulator
-from functions.strategies import generate_ms, generate_strategies
-from functions.strategies import read_random_strategy
 import networkx as nx
 import json
 import os
@@ -38,10 +36,12 @@ def main(nruns):
     In these experiments we are going to create a population of nl lobbyists where 1/2 of lobbyists are optimist and 1/2 of lobbyists are pessimists. Each lobbyist
     has a budget of 300000 and is active for 3000 iterations. The cost of a single signal is 1. 
     
+    0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 
+    
     """      
     
-    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
-    
+    #NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
+    NLs = [20]
     params = {
         'N': 500,
         'p_o': 0.01,
@@ -49,9 +49,7 @@ def main(nruns):
         'initial_distribution': 'uniform',
         'T': 10000,
         'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        # 'lambda_values': [0.0, 1.0],
-        # 'phi_values': [0.0, 1.0],
+        'phi_values': [0.7, 0.8, 0.9, 1.0],
         'base': 'results'
     }    
     
@@ -78,13 +76,4 @@ def main(nruns):
 
                     
 if __name__ == "__main__":
-    
-    import argparse
-
-    parser = argparse.ArgumentParser(description='')
-    
-    parser.add_argument('--nruns', metavar='nruns', required=True,
-                        help='Number of montecarlo runs')
-    args = parser.parse_args()
-    
-    main(nruns=int(args.nruns))
+    main(nruns=2)

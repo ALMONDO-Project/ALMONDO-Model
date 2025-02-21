@@ -60,6 +60,7 @@ class ALMONDOSimulator(object):
         - n_lobbyists: The number of lobbyists to be added to the model.
         - lobbyists_data: Data related to lobbyists' strategies and characteristics.
         """
+        
         self.base_path = base
         self.scenario_path = os.path.join(base, scenario)
         os.makedirs(self.base_path, exist_ok=True)
@@ -72,7 +73,9 @@ class ALMONDOSimulator(object):
         self.p_o = p_o
         self.p_p = p_p
         self.lambdas = lambda_values
+        print(f'explored lambda values are {lambda_values}')
         self.phis = phi_values
+        print(f'explored phi values are {phi_values}')
         self.T = T
         self.initial_distribution = initial_distribution
         self.nruns = nruns
@@ -92,17 +95,20 @@ class ALMONDOSimulator(object):
         - lambda_v: Lambda values for the agents (either a single value or a list for each agent).
         - phi_v: Phi values for the agents (either a single value or a list for each agent).
         """
+        print('Creating configuration object')
         config = mc.Configuration()
 
-        # Set general parameters for the model
+        print('Assigning p_o and p_p parameters')
         config.add_model_parameter("p_o", self.p_o)
         config.add_model_parameter("p_p", self.p_p)
+        print(f'p_o={self.p_o}, p_p={self.p_p}')
 
         # Configure lambda values for each agent
         if isinstance(lambda_v, list):
             for i in self.graph.nodes():
                 config.add_node_configuration("lambda", i, lambda_v[i])
         elif isinstance(lambda_v, float):
+            print('Assigning homogeneous lambda')
             for i in self.graph.nodes():
                 config.add_node_configuration("lambda", i, lambda_v)
         else:
@@ -113,6 +119,7 @@ class ALMONDOSimulator(object):
             for i in self.graph.nodes():
                 config.add_node_configuration("phi", i, phi_v[i])
         elif isinstance(phi_v, float):
+            print('Assigning homogeneous phi')
             for i in self.graph.nodes():
                 config.add_node_configuration("phi", i, phi_v)
         else:
@@ -123,18 +130,19 @@ class ALMONDOSimulator(object):
         self.model = AlmondoModel(self.graph, seed=1)
         self.model.set_initial_status(config, kind=self.initial_distribution)
 
-        # Assign strategies to lobbyists if any
+        print('Assign strategies to lobbyists if any')
         if self.n_lobbyists > 0:
-            print('Assigning random strategies to lobbyists')
-            for id in self.lobbyists_data:
+            for id in tqdm(self.lobbyists_data):
                 data = self.lobbyists_data[id]
                 B = data['B']
                 m = data['m']
                 matrix, name = self.read_random_strategy(B)
-                print(f'Assigning strategy {name} to lobbyist {id}')
+                # print(f'Assigning strategy {name} to lobbyist {id}')
                 # Add lobbyist with strategy to the model
                 self.model.add_lobbyist(m, matrix)
                 self.lobbyists_data[id]['strategies'].append(name)
+        
+        print('Configuration ended')
 
     def single_run(self, lambda_v: float | list, phi_v: float | list) -> tuple:
         """
@@ -147,6 +155,7 @@ class ALMONDOSimulator(object):
         Returns:
         - tuple: A tuple containing system status and final distribution data.
         """
+        
         self.config_model(lambda_v, phi_v)
 
         # Execute the system until steady state is reached
@@ -185,6 +194,7 @@ class ALMONDOSimulator(object):
             self.lobbyists_data[id]['strategies'] = []
 
         for run in range(self.nruns):
+            print(f'Starting run {run+1}/{self.nruns}')
             self.runpath = os.path.join(self.config_path, f'{run}')
 
             if not overwrite:
@@ -200,9 +210,10 @@ class ALMONDOSimulator(object):
 
             runs_data.append(final_distributions)
 
-        # Save configuration and results
+        print('Saving configuration to file')
         self.save_config()
 
+        print('Saving final distributions to file')
         filename = os.path.join(self.config_path, 'runs_data.json')
         with open(filename, 'w') as f:
             json.dump(runs_data, f)
@@ -217,6 +228,7 @@ class ALMONDOSimulator(object):
         print('Starting experiments')
 
         for _, (lambda_v, phi_v) in enumerate([(l, p) for l in self.lambdas for p in self.phis]):
+
             print(f'Starting configuration lambda={lambda_v}, phi={phi_v}')
 
             self.config_path = os.path.join(self.scenario_path, f'{lambda_v}_{phi_v}')
@@ -231,6 +243,7 @@ class ALMONDOSimulator(object):
         Arguments:
         - filename: The filename to save the configuration. If None, it saves to a default path.
         """
+        
         d = {
             'p_o': self.p_o,
             'p_p': self.p_p,
@@ -307,7 +320,6 @@ class ALMONDOSimulator(object):
         path = os.path.join(self.strategies_path, str(B))
         strategy_name = random.choice(os.listdir(path))
         filepath = os.path.join(path, strategy_name)
-        print(f"Reading {filepath}")
         return np.loadtxt(filepath).astype(int), filepath
 
     def get_results(self) -> tuple:
