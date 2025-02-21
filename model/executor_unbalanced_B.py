@@ -35,6 +35,9 @@ def main(nruns):
     
     Use the method ALMONDOSimulator.execute_experiments() to run the simulations. Use the attribute overwrite_runs to overwrite existing runs. 
     
+    In these experiments we are going to create a population of 2 lobbyists where 1/2 of lobbyists are optimist and 1/2 of lobbyists are pessimists.
+    One lobbyist has a budget of 400000 and the other of 200000. The cost of a single signal is 1. 
+    
     """      
       
     params = {
@@ -43,16 +46,16 @@ def main(nruns):
         'p_p': 0.99,
         'initial_distribution': 'uniform',
         'T': 10000,
-        #'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        #'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'lambda_values': [0.0, 1.0],
-        'phi_values': [0.0, 1.0],
+        'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        # 'lambda_values': [0.0, 1.0],
+        # 'phi_values': [0.0, 1.0],
         'base': 'results',
-        'scenario': 'balanced_budgets/2_lobbyists',
+        'scenario': 'unbalanced_budgets',
         'N': 500,
         'lobbyists_data': {
-            0: {'m': 1, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000},
-            1: {'m': 0, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
+            0: {'m': 1, 'B': 200000, 'c': 1, 'strategies': [], 'T': 3000},
+            1: {'m': 0, 'B': 400000, 'c': 1, 'strategies': [], 'T': 3000}
         },
         'n_lobbyists': 2
     }    

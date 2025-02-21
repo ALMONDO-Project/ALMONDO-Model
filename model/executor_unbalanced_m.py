@@ -1,10 +1,6 @@
 from classes.simulator import ALMONDOSimulator
-from functions.strategies import generate_ms, generate_strategies
-from functions.strategies import read_random_strategy
-import networkx as nx
 import json
 import os
-import ast
 
 
     
@@ -35,6 +31,9 @@ def main(nruns):
     
     Use the method ALMONDOSimulator.execute_experiments() to run the simulations. Use the attribute overwrite_runs to overwrite existing runs. 
     
+    In these experiments we are going to create a population of 20 lobbyists where 15 of lobbyists are optimist and 5 of lobbyists are pessimists. Each lobbyist
+    has a budget of 300000 and is active for 3000 iterations. The cost of a single signal is 1. 
+    
     """      
       
     params = {
@@ -43,20 +42,27 @@ def main(nruns):
         'p_p': 0.99,
         'initial_distribution': 'uniform',
         'T': 10000,
-        #'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        #'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'lambda_values': [0.0, 1.0],
-        'phi_values': [0.0, 1.0],
+        'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.0, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        # 'lambda_values': [0.0, 1.0],
+        # 'phi_values': [0.0, 1.0],
         'base': 'results',
-        'scenario': 'unbalanced_budgets',
+        'scenario': 'unbalanced_models',
         'N': 500,
-        'lobbyists_data': {
-            0: {'m': 1, 'B': 200000, 'c': 1, 'strategies': [], 'T': 3000},
-            1: {'m': 0, 'B': 400000, 'c': 1, 'strategies': [], 'T': 3000}
-        },
-        'n_lobbyists': 2
+        'lobbyists_data': {},
+        'n_lobbyists': 20
     }    
     
+    for id in range(15):
+        params['lobbyists_data'][id] = dict()
+        params['lobbyists_data'][id] = {'m': 1, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
+    
+    for id in range (15, 20):
+        params['lobbyists_data'][id] = dict()
+        params['lobbyists_data'][id] = {'m': 0, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
+    
+    params['n_lobbyists'] = len(params['lobbyists_data'])
+        
     os.makedirs(params['base'], exist_ok=True)
     path = os.path.join(params['base'], params['scenario'])
     os.makedirs(path, exist_ok=True)
@@ -69,4 +75,4 @@ def main(nruns):
 
                     
 if __name__ == "__main__":
-    main(3)
+    main(2)
