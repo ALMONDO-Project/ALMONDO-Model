@@ -36,7 +36,7 @@ def main(nruns):
     
     """      
     
-    NLs = [4, 3] #number of lobbyists in the simulations
+    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
     params = {
         'N': 500,
         'p_o': 0.01,
