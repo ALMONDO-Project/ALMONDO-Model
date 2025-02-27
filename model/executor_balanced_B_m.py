@@ -36,7 +36,7 @@ def main(nruns):
     
     """      
     
-    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
+    NLs = [4, 3] #number of lobbyists in the simulations
     params = {
         'N': 500,
         'p_o': 0.01,
@@ -64,7 +64,7 @@ def main(nruns):
         with open(os.path.join(path, 'initial_config.json'), 'w') as f:
             json.dump(params, f, indent=4)
         
-        print(f'performing simulations for {nl} lobbyists with balanced budgets 300000')
+        print(f'performing simulations for {params["scenario"]}')
                     
         simulator = ALMONDOSimulator(**params, nruns=nruns)
         simulator.execute_experiments(overwrite_runs=False)     

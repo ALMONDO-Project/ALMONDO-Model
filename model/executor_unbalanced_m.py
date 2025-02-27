@@ -69,7 +69,7 @@ def main(nruns):
         json.dump(params, f, indent=4)
                 
     simulator = ALMONDOSimulator(**params, nruns=nruns)
-    simulator.execute_experiments(overwrite_runs=True)     
+    simulator.execute_experiments(overwrite_runs=False)     
 
                     
 if __name__ == "__main__":
