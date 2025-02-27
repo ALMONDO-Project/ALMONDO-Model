@@ -64,9 +64,9 @@ class AlmondoModel(DiffusionModel):
             Returns:
                 float: The strategy value for time step t.
             """
-            if t < self.max_t:
+            try:
                 return self.strategy[t]
-            else:
+            except IndexError:
                 return None
 
     def __init__(self, graph, seed: int = None):
