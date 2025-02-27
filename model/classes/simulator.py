@@ -155,7 +155,7 @@ class ALMONDOSimulator(object):
         Returns:
         - tuple: A tuple containing system status and final distribution data.
         """
-        
+                
         self.config_model(lambda_v, phi_v)
 
         # Execute the system until steady state is reached
@@ -194,6 +194,7 @@ class ALMONDOSimulator(object):
             self.lobbyists_data[id]['strategies'] = []
 
         for run in range(self.nruns):
+            print(f"Running simulation with lambda={lambda_v}, phi={phi_v}, nl={self.n_lobbyists}")
             print(f'Starting run {run+1}/{self.nruns}')
             self.runpath = os.path.join(self.config_path, f'{run}')
 
