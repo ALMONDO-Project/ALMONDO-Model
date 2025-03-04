@@ -38,33 +38,6 @@ class AlmondoModel(DiffusionModel):
             self.m = m  # 0 (pessimistic) or 1 (optimistic)
             self.strategy = strategy  # Strategy matrix
             self.max_t, self.N = self.strategy.shape
-            
-        def get_max_t(self) -> int:
-            """Returns the lobbyists' maximum number of active iterations"""
-            return self.max_t
-
-        def get_model(self) -> int:
-            """Returns the model of the lobbyist (0 or 1)."""
-            return self.m
-        
-        def get_strategy(self) -> np.ndarray:
-            """Returns the full strategy matrix of the lobbyist."""
-            return self.strategy
-        
-        def get_current_strategy(self, t: int) -> float:
-            """
-            Get the strategy of the lobbyist at time t.
-
-            Arguments:
-                t (int): The time step for which the strategy is required.
-
-            Returns:
-                float: The strategy value for time step t.
-            """
-            try:
-                return self.strategy[t]
-            except IndexError:
-                return None
 
     def __init__(self, graph, seed: int = None):
         """
@@ -108,26 +81,6 @@ class AlmondoModel(DiffusionModel):
         self.seed = seed
         self.T = None
         self.status = None  # Initial status, will be assigned later
-    
-    def get_param_values(
-        self,
-        param_name: str,
-        model: bool = False,
-        node: bool = False,
-        edge: bool = False
-    ):
-        if model:
-            return self.params['model'][param_name]
-        elif node:
-            for k, v in self.params['nodes'].items():
-                if k == param_name:
-                    return v
-        elif edge:
-            for k, v in self.params['edges'].items():
-                if k == param_name:
-                    return v
-        else:
-            return None
         
 
     def set_initial_status(
@@ -185,6 +138,7 @@ class AlmondoModel(DiffusionModel):
         self.lobbyists.append(new_lobbyist)
 
     def get_lobbyists(self, strategy: bool = False) -> list:
+        
         """
         Retrieves the list of lobbyists.
 
@@ -194,26 +148,28 @@ class AlmondoModel(DiffusionModel):
         Returns:
             list: A list of dictionaries with lobbyist details.
         """
+        
         ls = []
         if len(self.lobbyists) > 0:
             if strategy:
                 for i, l in enumerate(self.lobbyists):
                     ls.append({
                         'id': i,
-                        'model': l.get_model(),
-                        'strategy': l.get_strategy()
+                        'model': l.m,
+                        'strategy': l.strategy
                     })
             else:
                 for i, l in enumerate(self.lobbyists):
                     ls.append({
                         'id': i,
-                        'model': l.get_model()
+                        'model': l.m
                     })
             return ls
         else:
             return None
 
     def generate_lambda(self, w: np.ndarray, s: float, phi: np.ndarray, lam: np.ndarray) -> np.ndarray:
+       
         """
         Generates a lambda value for each node based on the current status and parameters.
 
@@ -226,14 +182,14 @@ class AlmondoModel(DiffusionModel):
         Returns:
             np.ndarray: The calculated lambda values for the nodes.
         """
+       
         f = np.abs((1 - s) - w)  # Difference between current state and strategy
         lambdas = phi * f + (1 - phi) * lam
-        
-        assert(len(lambdas) == len(w)), f"Length of lambdas {len(lambdas)} does not match the number of nodes {len(w)}."
-        
+                
         return lambdas  # Weighted influence
 
     def update(self, receivers: np.ndarray, s: float) -> np.ndarray:
+        
         """
         Updates the status of receiver nodes based on a signal and their current status.
 
@@ -244,22 +200,27 @@ class AlmondoModel(DiffusionModel):
         Returns:
             np.ndarray: Updated statuses for the receiver nodes.
         """
+       
         w = self.actual_status[receivers]  # Current status of the receiver nodes
         
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
+        
         p = w * p_o + (1 - w) * p_p  # Combined probability based on current node's status
+        
         phi = self.phis[receivers]
         lam = self.lambdas[receivers]
+        
         l = self.generate_lambda(self.actual_status[receivers], s, phi, lam)
         
         updated_w = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
-        
-        assert(len(updated_w) == len(w)), f"Length of updated_w {len(updated_w)} does not match the number of receivers {len(w)}."
-        
+                
         return np.clip(updated_w, 0, 1)
 
+
+
     def lupdate(self, w: np.ndarray, lobbyist: LobbyistAgent, t: int) -> np.ndarray:
+        
         """
         Updates the status of nodes with the influence of a given lobbyist.
 
@@ -271,20 +232,32 @@ class AlmondoModel(DiffusionModel):
         Returns:
             np.ndarray: Updated node statuses considering lobbyist influence.
         """
-        m = lobbyist.get_model()
-        s = lobbyist.get_current_strategy(t)
+        
+        m = lobbyist.m
+        s = lobbyist.strategy[t]
         
         if s is not None:
-            
-            c = m * s  # Create a signal from the lobbyist at time t
+                        
             p_o = self.params['model']['p_o']
             p_p = self.params['model']['p_p']
-            p = w * p_o + (1 - w) * p_p
-            phi = self.phis #array of phi values for all nodes
-            lam = self.lambdas #array of lambda values for all nodes
-            l = self.generate_lambda(w, s, phi, lam)
-            updated_w = (1 - s) * w + s * w * (l + (1 - l) * (c * (p_o / p) + (1 - c) * ((1 - p_o) / (1 - p))))
-            assert(len(updated_w) == len(w)), f"Length of updated_w {len(updated_w)} does not match the number of nodes {len(w)}."
+            
+            p = w * p_o + (1 - w) * p_p #subjective probability
+            
+            
+            phi = self.phis #parametro phi della popolazione, per ora testati solo omogenei
+            lam = self.lambdas #parametro lambda della popolazione, per ora testati solo omogenei
+                        
+            l1 = phi * w + (1 - phi) * lam #lambda per lobbista pessimista
+            l2 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista ottimista 
+                
+            if m == 0:
+                updated_w = s * (l1 * w + (1-l1) * w * (p_o / p)) + (1-s) * w #update with pessimist lobbyist
+            
+            elif m == 1:
+                updated_w = s * (l2 * w + (1-l2) * w * ((1 - p_o) / (1 - p))) + (1-s) * w  #update with optimist lobbyist
+            
+            else:
+                raise ValueError("Invalid model type for lobbyist")
             
             return np.clip(updated_w, 0, 1)
         
@@ -292,7 +265,9 @@ class AlmondoModel(DiffusionModel):
             
             return np.clip(w, 0, 1)
 
+
     def apply_lobbyist_influence(self, w: np.ndarray, t: int) -> np.ndarray:
+       
         """
         Applies the influence of all lobbyists to the current node statuses.
 
@@ -304,17 +279,16 @@ class AlmondoModel(DiffusionModel):
             np.ndarray: The updated statuses after lobbyist influence.
         """
                 
-        lobbyist_list = self.lobbyists.copy()
-                
+        lobbyist_list = self.lobbyists.copy()        
         random.shuffle(lobbyist_list)
         
         if len(self.lobbyists) > 0:
             for lobbyist in lobbyist_list:
-                if self.actual_iteration < lobbyist.get_max_t():
+                if self.actual_iteration < lobbyist.max_t:
                     w = self.lupdate(w, lobbyist, t)
         return w
 
-    def iteration(self, node_status: bool = True) -> dict:
+    def iteration(self) -> dict:
         """
         Performs one iteration of the diffusion process, updating node statuses.
 
@@ -324,55 +298,41 @@ class AlmondoModel(DiffusionModel):
         Returns:
             dict: Information about the current iteration, including updated node statuses.
         """
-        self.actual_status = self.status.copy()
+        
+        self.actual_status = self.status.copy() #copio lo stato iniziale per aggiornarlo a step durante il singolo time step, gli aggiornamenti interni non verranno salvati nello stato del sistema
 
         if self.actual_iteration == 0:
             self.actual_iteration += 1
-            if node_status:
-                return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status)}}
-            else:
-                return {"iteration": 0, "status": {}}
+            return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status)}} #metto in system_status lo stato iniziale come iterazione 0 e vado all'iterazione successiva
 
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         
-        self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration)
-        
-        assert(np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1)), "Status values should be between 0 and 1."
-        assert(len(self.actual_status) == self.n), f"Length of actual_status {len(self.actual_status)} does not match the number of nodes {self.n}."
+        self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration) #interazioni con tutti i lobbisti in ordine casuale
         
         if np.any(np.isnan(self.actual_status)):
-            print(f"NaN found in actual_status after applying lobbyist influence after iteration {self.actual_iteration}")
-            return None
+            raise ValueError("NaN found in actual_status after applying lobbyist influence")
         
-        sender = random.randint(0, self.n - 1)
+        sender = random.randint(0, self.n - 1) #scelgo un nodo che invierà un segnale a caso nel grafo
         
         try:        
-            p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p
-            assert(p >= 0 and p <= 1), f"Probability should be between 0 and 1, not {p}."
-            signal = np.random.binomial(1, p)
-            assert(signal == 0 or signal == 1), f"Signal should be 0 or 1, not {signal}."
-        
-        except ValueError as e:
-            print('Error = ', e)
+            p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p #calcolo la probabilità soggettiva del sender
+            signal = np.random.binomial(1, p) #genero il segnale con una binomiale in base alla probabilità soggettiva       
+        except ValueError:
             return None
             
-        receivers = np.array(list(self.graph.neighbors(sender)))
+        receivers = np.array(list(self.graph.neighbors(sender))) #i nodi che ricevono il segnale sono i vicini del sender 
         if len(receivers) > 0:
-            self.actual_status[receivers] = self.update(receivers, signal)
+            self.actual_status[receivers] = self.update(receivers, signal) #aggiorno lo stato dei nodi che ricevono il segnale
 
-        assert(np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1)), "Status values should be between 0 and 1."
-        assert(len(self.actual_status) == self.n), f"Length of actual_status {len(self.actual_status)} does not match the number of nodes {self.n}."
         
-        self.actual_iteration += 1
-        self.status = self.actual_status
+        self.actual_iteration += 1 #incremento il contatore delle iterazioni
+        self.status = self.actual_status #aggiorno lo stato del sistema
 
-        if node_status:
-            return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status)}}
-        else:
-            return {"iteration": self.actual_iteration - 1, "status": {}}
+        return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status)}} #ritorno lo stato aggiornato
 
     def iteration_bunch(self, T: int = 100) -> list:
+        
         """
         Runs the model for a specified number of iterations.
 
@@ -382,11 +342,15 @@ class AlmondoModel(DiffusionModel):
         Returns:
             list: A list of the system status (dictionaries) at each iteration.
         """
+        
         self.T = T
         random.seed(self.seed)
+        
         for _ in tqdm(range(T)):
+        
             its = self.iteration()
             self.system_status.append(its)
+        
         return self.system_status
 
     # Run the model until a steady state is reached or a maximum number of iterations
@@ -394,7 +358,6 @@ class AlmondoModel(DiffusionModel):
                      max_iterations: int=1000000, 
                      nsteady:int=1000, 
                      sensibility:float=0.00001, 
-                     node_status:bool=True, 
                      progress_bar:bool=True, 
                      drop_evolution:bool=False) -> list:
         
@@ -405,7 +368,6 @@ class AlmondoModel(DiffusionModel):
             max_iterations (optional, int): stopping condition
             nsteady (optional, int): number of iterations with minimum number of opinion changes to declare convergence
             sensibility (optional, float): maximum opinion change tollerated to compute convergence
-            node_status (optional, bool): keep node statues
             progress_bar (optional, bool): show progress bar
             drop_evolution (optional, bool): keep in memory iterations dictionary (keep true if you want evolution plots in the end)
             
@@ -418,10 +380,9 @@ class AlmondoModel(DiffusionModel):
         steady_it = 0  # Counter for consecutive steady iterations
         # Iterate until reaching a steady state or max_iterations
         for it in tqdm(range(max_iterations), disable=not progress_bar):
-            its = self.iteration(node_status)
+            its = self.iteration()
             if its is None:
-                print('Something went wrong in the current iteration!')
-                return
+                raise ValueError("Error in iteration")                
             
             # Check if the difference between consecutive states is below the threshold
             if it > 0:
