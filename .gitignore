@@ -156,5 +156,4 @@ almondo-venv/
 data/
 model/results/
 model/results_tests/
-model/*.py
-
+model/executor_*
