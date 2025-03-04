@@ -2,9 +2,6 @@ from ndlib.models.DiffusionModel import DiffusionModel
 from tqdm import tqdm
 import numpy as np
 import random
-import os
-import json
-import pickle
 
 # Author information
 __author__ = ["Alina Sirbu", "Giulio Rossetti", "Valentina Pansanella"]
@@ -111,11 +108,33 @@ class AlmondoModel(DiffusionModel):
         self.seed = seed
         self.T = None
         self.status = None  # Initial status, will be assigned later
+    
+    def get_param_values(
+        self,
+        param_name: str,
+        model: bool = False,
+        node: bool = False,
+        edge: bool = False
+    ):
+        if model:
+            return self.params['model'][param_name]
+        elif node:
+            for k, v in self.params['nodes'].items():
+                if k == param_name:
+                    return v
+        elif edge:
+            for k, v in self.params['edges'].items():
+                if k == param_name:
+                    return v
+        else:
+            return None
+        
 
     def set_initial_status(
         self, 
         configuration=None, 
-        kind: str = 'uniform'
+        kind: str = 'uniform',
+        status: list = None
     ) -> None:
         
         """
@@ -133,10 +152,14 @@ class AlmondoModel(DiffusionModel):
         Returns:
             None
         """
+        
         super().set_initial_status(configuration)
         
         if kind == 'uniform':
             self.status = np.random.uniform(low=0, high=1, size=self.n)  # Random uniform status for each node
+        elif kind == 'custom':
+            assert(len(status) == self.n),  f"The length of the status list {len(status)} does not match the number of nodes {self.n}."
+            self.status = np.array(status)
         else:
             raise ValueError("Other types of initial distributions are not implemented yet.")
         
@@ -204,7 +227,11 @@ class AlmondoModel(DiffusionModel):
             np.ndarray: The calculated lambda values for the nodes.
         """
         f = np.abs((1 - s) - w)  # Difference between current state and strategy
-        return phi * f + (1 - phi) * lam  # Weighted influence
+        lambdas = phi * f + (1 - phi) * lam
+        
+        assert(len(lambdas) == len(w)), f"Length of lambdas {len(lambdas)} does not match the number of nodes {len(w)}."
+        
+        return lambdas  # Weighted influence
 
     def update(self, receivers: np.ndarray, s: float) -> np.ndarray:
         """
@@ -218,13 +245,19 @@ class AlmondoModel(DiffusionModel):
             np.ndarray: Updated statuses for the receiver nodes.
         """
         w = self.actual_status[receivers]  # Current status of the receiver nodes
+        
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         p = w * p_o + (1 - w) * p_p  # Combined probability based on current node's status
         phi = self.phis[receivers]
         lam = self.lambdas[receivers]
         l = self.generate_lambda(self.actual_status[receivers], s, phi, lam)
-        return l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
+        
+        updated_w = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
+        
+        assert(len(updated_w) == len(w)), f"Length of updated_w {len(updated_w)} does not match the number of receivers {len(w)}."
+        
+        return np.clip(updated_w, 0, 1)
 
     def lupdate(self, w: np.ndarray, lobbyist: LobbyistAgent, t: int) -> np.ndarray:
         """
@@ -240,17 +273,24 @@ class AlmondoModel(DiffusionModel):
         """
         m = lobbyist.get_model()
         s = lobbyist.get_current_strategy(t)
+        
         if s is not None:
+            
             c = m * s  # Create a signal from the lobbyist at time t
             p_o = self.params['model']['p_o']
             p_p = self.params['model']['p_p']
             p = w * p_o + (1 - w) * p_p
-            phi = self.phis
-            lam = self.lambdas
+            phi = self.phis #array of phi values for all nodes
+            lam = self.lambdas #array of lambda values for all nodes
             l = self.generate_lambda(w, s, phi, lam)
-            return (1 - s) * w + s * w * (l + (1 - l) * (c * (p_o / p) + (1 - c) * ((1 - p_o) / (1 - p))))
+            updated_w = (1 - s) * w + s * w * (l + (1 - l) * (c * (p_o / p) + (1 - c) * ((1 - p_o) / (1 - p))))
+            assert(len(updated_w) == len(w)), f"Length of updated_w {len(updated_w)} does not match the number of nodes {len(w)}."
+            
+            return np.clip(updated_w, 0, 1)
+        
         else:
-            return w
+            
+            return np.clip(w, 0, 1)
 
     def apply_lobbyist_influence(self, w: np.ndarray, t: int) -> np.ndarray:
         """
@@ -263,9 +303,14 @@ class AlmondoModel(DiffusionModel):
         Returns:
             np.ndarray: The updated statuses after lobbyist influence.
         """
+                
+        lobbyist_list = self.lobbyists.copy()
+                
+        random.shuffle(lobbyist_list)
+        
         if len(self.lobbyists) > 0:
-            for lobbyist in self.lobbyists:
-                if lobbyist.get_max_t() <= self.actual_iteration:
+            for lobbyist in lobbyist_list:
+                if self.actual_iteration < lobbyist.get_max_t():
                     w = self.lupdate(w, lobbyist, t)
         return w
 
@@ -292,25 +337,33 @@ class AlmondoModel(DiffusionModel):
         p_p = self.params['model']['p_p']
         
         self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration)
+        
+        assert(np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1)), "Status values should be between 0 and 1."
+        assert(len(self.actual_status) == self.n), f"Length of actual_status {len(self.actual_status)} does not match the number of nodes {self.n}."
+        
         if np.any(np.isnan(self.actual_status)):
             print(f"NaN found in actual_status after applying lobbyist influence after iteration {self.actual_iteration}")
             return None
+        
         sender = random.randint(0, self.n - 1)
+        
         try:        
             p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p
+            assert(p >= 0 and p <= 1), f"Probability should be between 0 and 1, not {p}."
             signal = np.random.binomial(1, p)
+            assert(signal == 0 or signal == 1), f"Signal should be 0 or 1, not {signal}."
+        
         except ValueError as e:
-            print('Info about code that causes the error -->')
             print('Error = ', e)
-            print('p = ',p)
-            print('sender = ', sender)
-            print('sender actual status = ', self.actual_status[sender])
             return None
             
         receivers = np.array(list(self.graph.neighbors(sender)))
         if len(receivers) > 0:
             self.actual_status[receivers] = self.update(receivers, signal)
 
+        assert(np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1)), "Status values should be between 0 and 1."
+        assert(len(self.actual_status) == self.n), f"Length of actual_status {len(self.actual_status)} does not match the number of nodes {self.n}."
+        
         self.actual_iteration += 1
         self.status = self.actual_status
 
@@ -365,7 +418,7 @@ class AlmondoModel(DiffusionModel):
         steady_it = 0  # Counter for consecutive steady iterations
         # Iterate until reaching a steady state or max_iterations
         for it in tqdm(range(max_iterations), disable=not progress_bar):
-            its = self.iteration(node_status=True)
+            its = self.iteration(node_status)
             if its is None:
                 print('Something went wrong in the current iteration!')
                 return
