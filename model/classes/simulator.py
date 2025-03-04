@@ -127,7 +127,7 @@ class ALMONDOSimulator(object):
 
         # Initialize the model with the graph and configuration
         print('Configuring model: assigning graph, parameters, and initial distribution of weights')
-        self.model = AlmondoModel(self.graph, seed=1)
+        self.model = AlmondoModel(self.graph)
         self.model.set_initial_status(config, kind=self.initial_distribution)
 
         print('Assign strategies to lobbyists if any')
@@ -334,3 +334,6 @@ class ALMONDOSimulator(object):
             raise RuntimeError("No results available. Did you call run()?")
 
         return self.model, self.system_status, self.model.lobbyists
+    
+    def get_model(self):
+        return self.model
