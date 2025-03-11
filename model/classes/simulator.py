@@ -144,13 +144,14 @@ class ALMONDOSimulator(object):
         
         print('Configuration ended')
 
-    def single_run(self, lambda_v: float | list, phi_v: float | list) -> tuple:
+    def single_run(self, lambda_v: float | list, phi_v: float | list, drop_ev: bool = False) -> tuple:
         """
         Run a single simulation with given lambda and phi values.
 
         Arguments:
         - lambda_v: Lambda value(s) for the agents.
         - phi_v: Phi value(s) for the agents.
+        - drop_ev (optional, bool): keep in memory iterations dictionary (keep true if you want evolution plots in the end)
 
         Returns:
         - tuple: A tuple containing system status and final distribution data.
@@ -159,7 +160,7 @@ class ALMONDOSimulator(object):
         self.config_model(lambda_v, phi_v)
 
         # Execute the system until steady state is reached
-        self.system_status = self.model.steady_state(max_iterations=self.T)
+        self.system_status = self.model.steady_state(max_iterations=self.T,drop_evolution = drop_ev)
 
         # Save system status to a file
         self.save_system_status(self.runpath)
@@ -176,7 +177,7 @@ class ALMONDOSimulator(object):
 
         return self.system_status, fd
 
-    def runs(self, lambda_v: float | list, phi_v: float | list, overwrite: bool = False):
+    def runs(self, lambda_v: float | list, phi_v: float | list, overwrite: bool = False, drop_ev: bool = False):
         """
         Perform multiple simulation runs (Monte Carlo simulations).
 
@@ -184,6 +185,7 @@ class ALMONDOSimulator(object):
         - lambda_v: Lambda values for the agents.
         - phi_v: Phi values for the agents.
         - overwrite: Whether to overwrite existing runs (default is False).
+        - drop_evolution (optional, bool): keep in memory iterations dictionary (keep true if you want evolution plots in the end)
         """
         print('Starting Monte Carlo runs')
 
@@ -206,8 +208,11 @@ class ALMONDOSimulator(object):
                     os.makedirs(self.runpath, exist_ok=True)
             else:
                 os.makedirs(self.runpath, exist_ok=True)
-
-            _, final_distributions = self.single_run(lambda_v, phi_v)
+            
+            if run<4: #in any case keeps first 4 runs for evolution plots
+                _, final_distributions = self.single_run(lambda_v, phi_v,drop_ev=False)
+            else:
+                _, final_distributions = self.single_run(lambda_v, phi_v, drop_ev=drop_ev)
 
             runs_data.append(final_distributions)
 
@@ -219,12 +224,13 @@ class ALMONDOSimulator(object):
         with open(filename, 'w') as f:
             json.dump(runs_data, f)
 
-    def execute_experiments(self, overwrite_runs: bool = False):
+    def execute_experiments(self, overwrite_runs: bool = False, drop_evolution: bool = False):
         """
         Execute experiments for all lambda and phi configurations.
 
         Arguments:
         - overwrite_runs: Whether to overwrite previous runs (default is False).
+        - drop_evolution (optional, bool): keep in memory iterations dictionary (keep true if you want evolution plots in the end)
         """
         print('Starting experiments')
 
@@ -235,7 +241,7 @@ class ALMONDOSimulator(object):
             self.config_path = os.path.join(self.scenario_path, f'{lambda_v}_{phi_v}')
             os.makedirs(self.config_path, exist_ok=True)
 
-            self.runs(lambda_v, phi_v, overwrite=overwrite_runs)
+            self.runs(lambda_v, phi_v, overwrite=overwrite_runs, drop_ev=drop_evolution)
 
     def save_config(self, filename: str = None):
         """

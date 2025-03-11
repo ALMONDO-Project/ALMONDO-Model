@@ -396,13 +396,16 @@ class AlmondoModel(DiffusionModel):
 
             self.system_status.append(its)  # Append current iteration status
 
+            if drop_evolution:
+              self.system_status = [its]            
+
             # If steady state is achieved for nsteady consecutive iterations, stop
             if steady_it == nsteady:
                 print(f'Convergence reached after {it} iterations')
-                return self.system_status[:-nsteady]
-            
-            if drop_evolution:
-              self.system_status = [its]
+                if drop_evolution:
+                    return self.system_status
+                else:
+                    return self.system_status[:-nsteady]
 
         # Return the status of the system at each iteration (if no steady state is reached)
         return self.system_status
