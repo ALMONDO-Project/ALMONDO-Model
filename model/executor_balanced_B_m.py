@@ -67,7 +67,7 @@ def main(nruns):
         print(f'performing simulations for {params["scenario"]}')
                     
         simulator = ALMONDOSimulator(**params, nruns=nruns)
-        simulator.execute_experiments(overwrite_runs=False,drop_evolution=True)     
+        simulator.execute_experiments(overwrite_runs=False,drop_evolution=False)     
 
                     
 if __name__ == "__main__":

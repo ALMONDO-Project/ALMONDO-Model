@@ -53,11 +53,11 @@ def main(nruns):
     
     for id in range(15):
         params['lobbyists_data'][id] = dict()
-        params['lobbyists_data'][id] = {'m': 1, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
+        params['lobbyists_data'][id] = {'m': 1, 'B': 30000, 'c': 1, 'strategies': [], 'T': 3000}
     
     for id in range (15, 20):
         params['lobbyists_data'][id] = dict()
-        params['lobbyists_data'][id] = {'m': 0, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
+        params['lobbyists_data'][id] = {'m': 0, 'B': 30000, 'c': 1, 'strategies': [], 'T': 3000}
     
     params['n_lobbyists'] = len(params['lobbyists_data'])
         
@@ -69,8 +69,8 @@ def main(nruns):
         json.dump(params, f, indent=4)
                 
     simulator = ALMONDOSimulator(**params, nruns=nruns)
-    simulator.execute_experiments(overwrite_runs=False)     
+    simulator.execute_experiments(overwrite_runs=False, drop_evolution=True)     
 
                     
 if __name__ == "__main__":
-    main(100)
+    main(150)

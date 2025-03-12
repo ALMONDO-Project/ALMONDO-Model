@@ -16,6 +16,7 @@ class OpinionDistribution(object):
         :param model: The model object
         :param trends: The computed simulation trends
         :param iteration: The iteration number or the string "last" for plotting final state
+        :param values: The type of values to extract ("probabilities" or "weights").
         """
         
         self.trends = trends
@@ -36,3 +37,19 @@ class OpinionDistribution(object):
     
     def get_values(self):
         return self.values
+
+    def plot(self, filename=None, ax = None, values: str = "probabilities"):   
+              if ax is None:
+                  fig, ax = plt.subplots(figsize=(10, 6))    
+              ax = sns.histplot(self.get_values(), bins = 50, color='lightblue', alpha=1.0, stat='percent')
+              ax.set_xlabel(r'$p_{i,T}$')
+              ax.set_ylabel('% agents')
+              ax.set_title(f'Final {values} distribution of optimist model')
+              ax.set_xlim(0.0, 1.0)
+              plt.tight_layout()
+              if filename is not None:
+                  plt.savefig(filename, dpi=300, facecolor='white', bbox_inches='tight')
+              else:
+                  plt.show()
+                  
+              plt.close()

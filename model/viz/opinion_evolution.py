@@ -9,6 +9,7 @@ class OpinionEvolution(object):
         :param p_o: The model p_o parameter
         :param p_p: The model p_p parameter
         :param trends: The computed simulation trends (status.json in the run folder)
+        :param values: The type of values to extract ("probabilities" or "weights").
         """
         
         self.kind = kind
