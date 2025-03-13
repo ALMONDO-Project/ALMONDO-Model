@@ -68,7 +68,6 @@ class Metrics(object):
                         kind:str):
         # Total iterations for tqdm
         total_iterations = len(self.lambda_values) * len(self.phi_values) * self.nruns
-        nruns = self.nruns
 
         with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
             for _, (lambda_v, phi_v) in enumerate([(l, p) for l in self.lambda_values for p in self.phi_values]):    
@@ -106,7 +105,7 @@ class Metrics(object):
                         ops, it = self.get_data(trends, kind=kind)
                         ops_array = np.array(ops)
                         
-                        metrics['effective_number_clusters'].append(nclusters(ops, 0.0001))
+                        metrics['effective_number_clusters'].append(nclusters(ops, 0.0001)) 
                         metrics['number_iterations'].append(it)
                         metrics['average_pairwise_distance'].append(pwdist(ops))
                         metrics['average_opinions'].append(ops_array.mean())
@@ -114,7 +113,7 @@ class Metrics(object):
 
                         for id, lob in self.lobbyists_data.items():
                             metrics['lobbyists_performance'][int(id)].append(lobbyist_performance(ops, lob['m'], self.p_o, self.p_p))
-                            
+
                         pbar.update(1)
 
                     # Compute average metrics

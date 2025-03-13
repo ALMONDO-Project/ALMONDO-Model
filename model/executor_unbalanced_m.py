@@ -42,8 +42,8 @@ def main(nruns):
         'p_p': 0.99,
         'initial_distribution': 'uniform',
         'T': 10000,
-        'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+        'lambda_values': [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9,0.95, 1.0],
+        'phi_values': [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 1.0],
         'base': 'results',
         'scenario': 'unbalanced_models',
         'N': 500,
@@ -53,11 +53,11 @@ def main(nruns):
     
     for id in range(15):
         params['lobbyists_data'][id] = dict()
-        params['lobbyists_data'][id] = {'m': 1, 'B': 30000, 'c': 1, 'strategies': [], 'T': 3000}
+        params['lobbyists_data'][id] = {'m': 1, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
     
     for id in range (15, 20):
         params['lobbyists_data'][id] = dict()
-        params['lobbyists_data'][id] = {'m': 0, 'B': 30000, 'c': 1, 'strategies': [], 'T': 3000}
+        params['lobbyists_data'][id] = {'m': 0, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}
     
     params['n_lobbyists'] = len(params['lobbyists_data'])
         
