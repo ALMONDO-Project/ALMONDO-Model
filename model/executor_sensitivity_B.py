@@ -36,8 +36,8 @@ def main(nruns):
     
     """      
     
-    NLs = [1, 2, 3, 4, 20] #number of lobbyists in the simulations
-    Bs = [60, 150, 300, 500, 750, 1000]  # lobbyists budget in the simulation
+    NLs = [2] #[1, 2, 3, 4, 20] #number of lobbyists in the simulations
+    Bs = [30, 60, 150, 300, 500] #[30, 60, 150, 300, 500, 750, 1000]  # lobbyists budget in the simulation
     params = {
         'N': 500,
         'p_o': 0.01,
@@ -46,7 +46,7 @@ def main(nruns):
         'T': 20000,
         'lambda_values': [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 1.0],
         'phi_values': [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 1.0],
-        'base': 'results'
+        'base': 'C:/Users/verdi/Desktop/results'
     }    
     
     
@@ -73,4 +73,4 @@ def main(nruns):
 
                     
 if __name__ == "__main__":
-    main(nruns=100)
+    main(nruns=150)
