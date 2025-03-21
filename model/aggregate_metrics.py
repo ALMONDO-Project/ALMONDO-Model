@@ -17,7 +17,7 @@ def main():
             
             metrics = Metrics(nl=nl, basepath=basepath, filename=filename)
             
-            metrics.compute_metrics(kind='probabilities')
+            metrics.compute_metrics(kind='probabilities', Overwrite=True)
     
                     
 if __name__ == "__main__":
