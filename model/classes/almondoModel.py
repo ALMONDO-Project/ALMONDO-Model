@@ -280,7 +280,7 @@ class AlmondoModel(DiffusionModel):
         """
                 
         lobbyist_list = self.lobbyists.copy()        
-        random.shuffle(lobbyist_list)
+        np.random.shuffle(lobbyist_list)
         
         if len(self.lobbyists) > 0:
             for lobbyist in lobbyist_list:
@@ -313,7 +313,7 @@ class AlmondoModel(DiffusionModel):
         if np.any(np.isnan(self.actual_status)):
             raise ValueError("NaN found in actual_status after applying lobbyist influence")
         
-        sender = random.randint(0, self.n - 1) #scelgo un nodo che invierà un segnale a caso nel grafo
+        sender = np.random.randint(0, self.n - 1) #scelgo un nodo che invierà un segnale a caso nel grafo
         
         try:        
             p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p #calcolo la probabilità soggettiva del sender
@@ -344,7 +344,7 @@ class AlmondoModel(DiffusionModel):
         """
         
         self.T = T
-        random.seed(self.seed)
+        np.random.seed(self.seed)
         
         for _ in tqdm(range(T)):
         
