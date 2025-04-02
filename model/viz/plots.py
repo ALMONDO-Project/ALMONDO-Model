@@ -7,14 +7,17 @@ from opinion_evolution import OpinionEvolution
 
 values = ['weights', 'probabilities']
 
-nl = 0
+nl = 0  #number of lobbyists in the simulations
 print(f'doing {nl} lobbyists')
 
-path = f'../results/balanced_budgets/{nl}_lobbyists/'
+path = f'C:/Users/verdi/Desktop/results/balanced_budgets/model_updated/{nl}_lobbyists_pess_model/' #'E:/[ALMONDO]/results/sensitivity_budgets/2_lobbyists/300k_budget'# f'../results/balanced_budgets/{nl}_lobbyists/'
 filename = os.path.join(path, 'config.json')
     
 with open(filename, 'r') as f: #qua va messo il path del file initial_config.json
     params = json.load(f)
+
+params['lambda_values'] = [0.98] # [0.5, 0.55, 0.6, 0.65, 0.7]
+params['phi_values'] = [0.0] # [0.0, 0.05, 0.1, 0.15, 0.2]
 
 total_iterations = len(values) * len(params['lambda_values']) * len(params['phi_values']) * params['nruns']
 with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
@@ -22,17 +25,19 @@ with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
     for value in values:
         for _, (lambda_v, phi_v) in enumerate([(l, p) for l in params['lambda_values'] for p in params['phi_values']]):    
             paramspath = os.path.join(path, f'{lambda_v}_{phi_v}/')        
-            for run in range(params['nruns']):
+            for run in range(4,150): # range(params['nruns']):
                 runpath = os.path.join(paramspath, str(run))
-                if not os.path.exists(runpath+f'/{value}_final_distribution.png'):
-                    with open(runpath+'/status.json', 'r') as f:
-                        trends = json.load(f)
-                    
-                    od = OpinionDistribution(trends, params['p_o'], params['p_p'], values=value)
-                    od.plot(runpath+f'/{value}_final_distribution.png',values=value)
-                if not os.path.exists(runpath+f'/{value}_evolution.png'):
-                    with open(runpath+'/status.json', 'r') as f:
-                        trends = json.load(f)    
-                    oe = OpinionEvolution(trends, params['p_o'], params['p_p'])
-                    oe.plot(runpath+f'/{value}_evolution.png')
-                pbar.update(1)
+                print(runpath+f'/{value}_final_distribution.png')
+                #if not os.path.exists(runpath+f'/{value}_final_distribution.png'):
+                with open(runpath+'/status.json', 'r') as f:
+                    trends = json.load(f)
+                
+                od = OpinionDistribution(trends, params['p_o'], params['p_p'], values=value)
+                od.plot(runpath+f'/{value}_final_distribution.png',values=value)
+                # if not os.path.exists(runpath+f'/{value}_evolution.png'):
+                with open(runpath+'/status.json', 'r') as f:
+                    trends = json.load(f)    
+                #oe = OpinionEvolution(trends, params['p_o'], params['p_p'], kind=value)
+                #oe.plot(runpath+f'/{value}_evolution.png')
+            
+            pbar.update(1)

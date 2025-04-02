@@ -8,11 +8,11 @@ def main():
     
     """      
     
-    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations  
-    Bs = [30, 60, 150, 300, 500, 750, 1000]  # lobbyists budget in the simulation
+    NLs = [0] #[0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations  
+    Bs = [30] #[30, 60, 150, 300, 500, 750, 1000]  # lobbyists budget in the simulation
     for nl in NLs:
         for b in Bs:  
-            basepath = f'../results/balanced_budgets/{nl}_lobbyists/{b}_budget/'
+            basepath = f'C:/Users/verdi/Desktop/results/balanced_budgets/model_updated/{nl}_lobbyists_pess_model/'#/{b}_budget/'
             filename = 'config.json'
             
             metrics = Metrics(nl=nl, basepath=basepath, filename=filename)

@@ -22,13 +22,14 @@ class OpinionEvolution(object):
         
         def transform(w: list, p_o: int, p_p: int):
             w = np.array(w)
-            p = w * p_o + (1 - w) * p_p
+            # p = w * p_o + (1 - w) * p_p
+            p = (1 - w) * p_o + w * p_p
             p = p.tolist()
             return p
 
         for it in trends:
             weights = np.array([el for el in it['status'].values()])
-            if kind == 'probability':
+            if kind == 'probabilities':
                 sts = transform(weights, p_o, p_p)  # update conditional probabilities of event will occur
             else:
                 sts = weights

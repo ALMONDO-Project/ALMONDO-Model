@@ -36,21 +36,21 @@ def main(nruns):
     
     """      
     
-    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
+    NLs = [0] #[0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
     params = {
         'N': 500,
         'p_o': 0.01,
         'p_p': 0.99,
         'initial_distribution': 'uniform',
-        'T': 10000,
-        'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'base': 'results'
+        'T': 50000,
+        'lambda_values': [0.98],# [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 1.0],
+        'phi_values': [0.0], # [0.0, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 1.0],
+        'base': 'C:/Users/verdi/Desktop/results'
     }    
     
     
     for nl in NLs:
-        params['scenario'] = f'balanced_budgets/{nl}_lobbyists'
+        params['scenario'] = f'balanced_budgets/model_updated/{nl}_lobbyists_pess_model'
         params['n_lobbyists'] = nl
         if nl > 0:
             params['lobbyists_data'] = dict()
@@ -71,4 +71,4 @@ def main(nruns):
 
                     
 if __name__ == "__main__":
-    main(nruns=100)
+    main(nruns=150)
