@@ -22,7 +22,7 @@ with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
     for value in values:
         for _, (lambda_v, phi_v) in enumerate([(l, p) for l in params['lambda_values'] for p in params['phi_values']]):    
             paramspath = os.path.join(path, f'{lambda_v}_{phi_v}/')        
-            for run in range(params['nruns']):
+            for run in range(0,4): #range(params['nruns']):
                 runpath = os.path.join(paramspath, str(run))
                 if not os.path.exists(runpath+f'/{value}_final_distribution.png'):
                     with open(runpath+'/status.json', 'r') as f:

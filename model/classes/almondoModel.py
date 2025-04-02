@@ -183,7 +183,8 @@ class AlmondoModel(DiffusionModel):
             np.ndarray: The calculated lambda values for the nodes.
         """
        
-        f = np.abs((1 - s) - w)  # Difference between current state and strategy
+        f = np.abs((1 - s) - w)  # Difference between current state and strategy (opt model)
+        # f = np.abs(s - w)  # Difference between current state and strategy (pess model)
         lambdas = phi * f + (1 - phi) * lam
                 
         return lambdas  # Weighted influence
@@ -206,16 +207,28 @@ class AlmondoModel(DiffusionModel):
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         
-        p = w * p_o + (1 - w) * p_p  # Combined probability based on current node's status
+        p = w * p_o + (1 - w) * p_p  # Combined probability based on current node's status (opt model)
+        # p = (1-w) * p_o + w * p_p  # Combined probability based on current node's status (pess model)
         
         phi = self.phis[receivers]
         lam = self.lambdas[receivers]
         
         l = self.generate_lambda(self.actual_status[receivers], s, phi, lam)
-        
-        updated_w = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
-                
-        return np.clip(updated_w, 0, 1)
+         
+        # opt model
+        w1 = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
+ 
+        w2 = l * (1 - w) + (1 - l) * (1 - w) * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
+ 
+        # pess model
+        # w1 = l * (1-w) + (1 - l) * (1-w) * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
+ 
+        # w2 = l * w + (1 - l) * w * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
+ 
+        updated_w = w1 / ( w1 + w2 ) # opt model
+        # updated_w = w2 / ( w1 + w2 ) # pess model 
+               
+        return updated_w
 
 
 
@@ -241,29 +254,55 @@ class AlmondoModel(DiffusionModel):
             p_o = self.params['model']['p_o']
             p_p = self.params['model']['p_p']
             
-            p = w * p_o + (1 - w) * p_p #subjective probability
-            
+            p = w * p_o + (1 - w) * p_p #subjective probability opt model
+            # p = (1 - w) * p_o + w * p_p #subjective probability pess model
             
             phi = self.phis #parametro phi della popolazione, per ora testati solo omogenei
             lam = self.lambdas #parametro lambda della popolazione, per ora testati solo omogenei
-                        
+                     
+            # opt model
             l1 = phi * w + (1 - phi) * lam #lambda per lobbista pessimista
             l2 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista ottimista 
-                
-            if m == 0:
-                updated_w = s * (l1 * w + (1-l1) * w * (p_o / p)) + (1-s) * w #update with pessimist lobbyist
-            
-            elif m == 1:
-                updated_w = s * (l2 * w + (1-l2) * w * ((1 - p_o) / (1 - p))) + (1-s) * w  #update with optimist lobbyist
-            
+                      
+            # pess model
+            # l1 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista pessimista
+            # l2 = phi * w + (1 - phi) * lam #lambda per lobbista ottimista 
+ 
+  
+            if m == 0: # update with pessimist lobbyist
+                # opt model
+                w1 =  s * (l1 * w + (1-l1) * w * (p_o / p)) + (1-s) * w
+ 
+                w2 =  s * (l1 * (1 - w) + (1 - l1) * (1 - w) * (p_p / p)) + (1 - s) * (1 - w)
+ 
+                # pess model
+                # w1 =  s * (l1 * (1-w) + (1-l1) * (1-w) * (p_o / p)) + (1-s) * (1-w)
+ 
+                # w2 =  s * (l1 * w + (1 - l1) * w * (p_p / p)) + (1 - s) * w
+ 
+                updated_w = w1 / (w1 + w2) #opt model
+                # updated_w = w2 / (w1 + w2) # pess model
+            elif m == 1: # update with optimist lobbyist
+                # opt model
+                w1 = s * (l2 * w + (1 - l2) * w * ((1 - p_o) / (1 - p))) + (1 - s) * w
+ 
+                w2 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_p) / (1 - p))) + (1 - s) * (1 - w)
+ 
+                # pess model
+                # w1 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_o) / (1 - p))) + (1 - s) * (1 - w)
+ 
+                # w2 = s * (l2 * w + (1 - l2) * w * ((1 - p_p) / (1 - p))) + (1 - s) * w
+ 
+                updated_w = w1 / (w1 + w2) # opt model
+                # updated_w = w2 / (w1 + w2) # pess model
             else:
                 raise ValueError("Invalid model type for lobbyist")
             
-            return np.clip(updated_w, 0, 1)
+            return updated_w
         
         else:
             
-            return np.clip(w, 0, 1)
+            return w
 
 
     def apply_lobbyist_influence(self, w: np.ndarray, t: int) -> np.ndarray:
@@ -310,13 +349,27 @@ class AlmondoModel(DiffusionModel):
         
         self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration) #interazioni con tutti i lobbisti in ordine casuale
         
+
         if np.any(np.isnan(self.actual_status)):
             raise ValueError("NaN found in actual_status after applying lobbyist influence")
         
+        if np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1):
+             pass  
+        else:
+            indici_up = np.where(self.actual_status > 1)
+            indici_down = np.where(self.actual_status < 0)                   
+            if  np.any(indici_down):
+                print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
+            if np.any(indici_up):
+                print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")      
+            raise ValueError("After applying lobbyist influence find status values less than 0 or grater than 1.")
+ 
+
         sender = np.random.randint(0, self.n - 1) #scelgo un nodo che invierà un segnale a caso nel grafo
         
         try:        
-            p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p #calcolo la probabilità soggettiva del sender
+            p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p #calcolo la probabilità soggettiva del sender opt model
+            # p = (1 - self.actual_status[sender]) * p_o + self.actual_status[sender] * p_p #calcolo la probabilità soggettiva del sender pess model
             signal = np.random.binomial(1, p) #genero il segnale con una binomiale in base alla probabilità soggettiva       
         except ValueError:
             return None
@@ -324,7 +377,17 @@ class AlmondoModel(DiffusionModel):
         receivers = np.array(list(self.graph.neighbors(sender))) #i nodi che ricevono il segnale sono i vicini del sender 
         if len(receivers) > 0:
             self.actual_status[receivers] = self.update(receivers, signal) #aggiorno lo stato dei nodi che ricevono il segnale
-
+        
+        if np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1):
+             pass  
+        else:
+            indici_up = np.where(self.actual_status > 1)
+            indici_down = np.where(self.actual_status < 0)                       
+            if  np.any(indici_down):
+                print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
+            if np.any(indici_up):
+                print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")
+            raise ValueError("Find status values less than 0 or grater than 1.")
         
         self.actual_iteration += 1 #incremento il contatore delle iterazioni
         self.status = self.actual_status #aggiorno lo stato del sistema

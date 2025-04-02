@@ -56,7 +56,8 @@ class Metrics(object):
 
         # Compute values based on type
         if kind == 'probabilities':
-            ops = self.p_o * ops + self.p_p * (1 - ops)
+            ops = self.p_o * ops + self.p_p * (1 - ops)  # optimistic model
+            # ops = self.p_o * (1-ops) + self.p_p * ops  # pessimistic model
             ops = np.array(ops, dtype=float)
         elif kind == 'weights':
             np.array(ops, dtype=float)
