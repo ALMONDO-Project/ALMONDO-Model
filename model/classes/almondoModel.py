@@ -321,11 +321,13 @@ class AlmondoModel(DiffusionModel):
         lobbyist_list = self.lobbyists.copy()        
         np.random.shuffle(lobbyist_list)
         
+        order = []
         if len(self.lobbyists) > 0:
             for lobbyist in lobbyist_list:
+                order.append(lobbyist.m)
                 if self.actual_iteration < lobbyist.max_t:
                     w = self.lupdate(w, lobbyist, t)
-        return w
+        return w, order
 
     def iteration(self) -> dict:
         """
@@ -342,12 +344,12 @@ class AlmondoModel(DiffusionModel):
 
         if self.actual_iteration == 0:
             self.actual_iteration += 1
-            return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status)}} #metto in system_status lo stato iniziale come iterazione 0 e vado all'iterazione successiva
+            return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status)},"sender": {"node": -1, "signal": -1}, "lobb_model_order":[]} #metto in system_status lo stato iniziale come iterazione 0 e vado all'iterazione successiva
 
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         
-        self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration) #interazioni con tutti i lobbisti in ordine casuale
+        self.actual_status, order = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration) #interazioni con tutti i lobbisti in ordine casuale
         
 
         if np.any(np.isnan(self.actual_status)):
@@ -392,7 +394,7 @@ class AlmondoModel(DiffusionModel):
         self.actual_iteration += 1 #incremento il contatore delle iterazioni
         self.status = self.actual_status #aggiorno lo stato del sistema
 
-        return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status)}} #ritorno lo stato aggiornato
+        return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status)}, "sender": {"node": sender, "signal": signal}, "lobb_model_order": order} #ritorno lo stato aggiornato
 
     def iteration_bunch(self, T: int = 100) -> list:
         
