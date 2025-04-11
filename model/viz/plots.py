@@ -33,6 +33,6 @@ with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
                 if not os.path.exists(runpath+f'/{value}_evolution.png'):
                     with open(runpath+'/status.json', 'r') as f:
                         trends = json.load(f)    
-                    oe = OpinionEvolution(trends, params['p_o'], params['p_p'])
+                    oe = OpinionEvolution(trends, params['p_o'], params['p_p'],kind=value)
                     oe.plot(runpath+f'/{value}_evolution.png')
                 pbar.update(1)
