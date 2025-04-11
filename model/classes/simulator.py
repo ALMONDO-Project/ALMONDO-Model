@@ -297,15 +297,16 @@ class ALMONDOSimulator(object):
             data = self.lobbyists_data[id]
             B = data['B']
             c = data['c']
+            T = data['T']
             folder = os.path.join(self.strategies_path, str(B))
             os.makedirs(folder, exist_ok=True)
             for run in range(self.nruns):
                 filename = f'strategy_{run}.txt'
                 path = os.path.join(folder, filename)
                 if not os.path.exists(path):
-                    inter_per_time = B // (c * 3000)
-                    matrix = np.zeros((3000, self.N), dtype=int)
-                    for t in range(3000):
+                    inter_per_time = B // (c * T)
+                    matrix = np.zeros((T, self.N), dtype=int)
+                    for t in range(T):
                         indices = np.random.choice(self.N, inter_per_time, replace=False)
                         matrix[t, indices] = 1
                     print('Saving strategy to file')
