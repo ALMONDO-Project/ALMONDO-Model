@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import future.utils
 
 class OpinionEvolution(object):
-    def __init__(self, trends, p_o, p_p, kind='probability'):
+    def __init__(self, trends, p_o, p_p, kind='probabilities'):
         
         """
         :param p_o: The model p_o parameter

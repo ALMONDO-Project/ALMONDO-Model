@@ -1,6 +1,7 @@
 from classes.simulator import ALMONDOSimulator
 import json
 import os
+import numpy as np
 
 
     
