@@ -40,6 +40,7 @@ class ALMONDOSimulator(object):
         base: str = 'results/',
         scenario: str = None,
         nruns: int = 100,
+        initial_status: list = None,
         n_lobbyists: int = 0,
         lobbyists_data: dict = {}
     ):
@@ -78,6 +79,7 @@ class ALMONDOSimulator(object):
         print(f'explored phi values are {phi_values}')
         self.T = T
         self.initial_distribution = initial_distribution
+        self.initial_status = initial_status
         self.nruns = nruns
         self.lobbyists_data = lobbyists_data
         self.n_lobbyists = n_lobbyists
@@ -128,7 +130,7 @@ class ALMONDOSimulator(object):
         # Initialize the model with the graph and configuration
         print('Configuring model: assigning graph, parameters, and initial distribution of weights')
         self.model = AlmondoModel(self.graph)
-        self.model.set_initial_status(config, kind=self.initial_distribution)
+        self.model.set_initial_status(config, kind=self.initial_distribution, status=self.initial_status)
 
         print('Assign strategies to lobbyists if any')
         if self.n_lobbyists > 0:
