@@ -37,9 +37,9 @@ def main(nruns):
     
     """      
     
-    NLs = [2] #[1, 2, 3, 4, 20] #number of lobbyists in the simulations
-    Ts = [100, 200, 300, 500, 1000]  # number of iterations where lobbyists are active  in the simulation
-    b = 10 # budget of lobbyists in the simulation (in k)
+    NLs = [1, 2, 3, 4, 20] #number of lobbyists in the simulations
+    Ts = [200, 300, 500, 750, 1000]  # number of iterations where lobbyists are active  in the simulation
+    int_rate = 0.2 # interaction rate of the lobbyists per time-step
     params = {
         'N': 500,
         'p_o': 0.01,
@@ -54,12 +54,13 @@ def main(nruns):
     
     for nl in NLs:
         for t in Ts: 
-            params['scenario'] = f'sensitivity_strategy/{nl}_lobbyists/{t}_steps_strategy/'
+            params['scenario'] = f'sensitivity_analysis_strategy_length/{nl}_lobbyists/{t}_steps_strategy_zoom/'
             params['n_lobbyists'] = nl
+            b = int(int_rate*params['N']*t) # budget of lobbyists in the simulation 
             if nl > 0:
                 params['lobbyists_data'] = dict()
                 for id in range(nl):
-                    params['lobbyists_data'][id] = {'m': id%2, 'B': b*1000, 'c': 1, 'strategies': [], 'T': t}    
+                    params['lobbyists_data'][id] = {'m': id%2, 'B': b, 'c': 1, 'strategies': [], 'T': t}    
     
             os.makedirs(params['base'], exist_ok=True)
             path = os.path.join(params['base'], params['scenario'])
