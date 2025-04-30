@@ -365,7 +365,7 @@ class AlmondoModel(DiffusionModel):
             raise ValueError("After applying lobbyist influence find status values less than 0 or grater than 1.")
  
 
-        sender = np.random.randint(0, self.n - 1) #scelgo un nodo che invierà un segnale a caso nel grafo
+        sender = np.random.randint(0, self.n) #scelgo un nodo che invierà un segnale a caso nel grafo
         
         try:        
             p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p #calcolo la probabilità soggettiva del sender opt model

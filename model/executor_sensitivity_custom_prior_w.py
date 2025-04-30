@@ -72,7 +72,7 @@ def main(nruns):
             initial_status = [w]*params['N']
             params['initial_status'] = initial_status
             simulator = ALMONDOSimulator(**params, nruns=nruns)
-            simulator.execute_experiments(overwrite_runs=False,drop_evolution=True,)     
+            simulator.execute_experiments(overwrite_runs=False,drop_evolution=True)     
 
                     
 if __name__ == "__main__":
