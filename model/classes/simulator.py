@@ -289,6 +289,63 @@ class ALMONDOSimulator(object):
         with open(filename, 'w') as f:
             json.dump(self.system_status, f)
 
+    def create_single_random_strategy(self, B: int, T: int, c: int =1) -> tuple[np.ndarray, list[tuple[int, int]]]:
+        """
+        Create the strategy matrix TxN and randomly selects B/c signals in the TxN matrix to set equals to 1.
+
+        Args:
+            B (int): The total budget of lobbyist
+            T (int): The number of active time steps of lobbyist
+            c (int): The cost to send a signal
+
+        Returns:
+            numpy.ndarray: A matrix TxN of 0s with B/c randomly selected elements set to 1.
+            list: A list of the (row, column) indices that were set to 1, i.e. the list of (time_step, agent) of sent signals
+        """
+        matrix = np.zeros((T, self.N), dtype=int)
+        total_elements = T * self.N
+        num_signals = B//c  # number of signals
+        if num_signals > total_elements:
+            print("Number of signals is greater than the total number of elements in the matrix."
+                "Lobbyist will always send signals to all agents at each iteration.")
+            num_signals = total_elements
+            
+
+        # Generate k unique random linear indices
+        linear_indices = np.random.choice(total_elements, size=num_signals, replace=False)
+
+        # Convert linear indices to row and column indices
+        row_indices, col_indices = np.unravel_index(linear_indices, (T, self.N))
+
+        # Create a list of (row, column) index pairs
+        selected_indices = list(zip(row_indices, col_indices))
+
+        # Set the corresponding elements in the matrix to 1
+        matrix[row_indices, col_indices] = 1
+
+        return matrix
+
+    def create_single_random_strategy_per_time(self, B: int, T: int, c: int =1) -> np.ndarray:
+        """
+        Create the strategy matrix TxN, randomly selects fixed number of signals at each time step in the TxN matrix
+        and sets them equals to 1. Per time step, the number of signals is fixed B/(c*T).
+
+        Args:
+            B (int): The total budget of lobbyist
+            T (int): The number of active time steps of lobbyist
+            c (int): The cost to send a signal
+
+        Returns:
+            numpy.ndarray: A matrix TxN of 0s with randomly selected elements set to 1. Per time step, the number of signals is fixed B/(c*T).
+            list: A list of the (row, column) indices that were set to 1, i.e. the list of (time_step, agent) of sent signals
+        """
+        inter_per_time = B // (c * T)
+        matrix = np.zeros((T, self.N), dtype=int)
+        for t in range(T):
+            indices = np.random.choice(self.N, inter_per_time, replace=False)
+            matrix[t, indices] = 1
+        return matrix
+
     def create_strategies(self):
         """
         Generate and save strategies for the lobbyists.
@@ -306,16 +363,13 @@ class ALMONDOSimulator(object):
                 filename = f'strategy_{run}.txt'
                 path = os.path.join(folder, filename)
                 if not os.path.exists(path):
-                    inter_per_time = B // (c * T)
-                    matrix = np.zeros((T, self.N), dtype=int)
-                    for t in range(T):
-                        indices = np.random.choice(self.N, inter_per_time, replace=False)
-                        matrix[t, indices] = 1
+                    matrix = self.create_single_random_strategy(B, T, c)
                     print('Saving strategy to file')
                     np.savetxt(path, matrix, fmt="%i")
                 else:
                     continue
         print('Strategies created')
+
 
     def read_random_strategy(self, B: int) -> tuple:
         """
