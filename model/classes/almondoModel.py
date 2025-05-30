@@ -49,7 +49,7 @@ class AlmondoModel(DiffusionModel):
         """
         super().__init__(graph, seed)
         self.discrete_state = False  # Use continuous state model
-        self.params = {
+        self.parameters = {
             "model": {
                 "p_o": {  # Probability of optimistic events
                     "descr": "Probability of event optimist model",
