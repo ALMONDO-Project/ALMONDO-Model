@@ -42,7 +42,8 @@ class ALMONDOSimulator(object):
         nruns: int = 100,
         initial_status: list = None,
         n_lobbyists: int = 0,
-        lobbyists_data: dict = {}
+        lobbyists_data: dict = {},
+        verbose: bool = True
     ):
         """
         Initialize the simulator with necessary configurations, directories, and data.
@@ -62,6 +63,7 @@ class ALMONDOSimulator(object):
         - lobbyists_data: Data related to lobbyists' strategies and characteristics.
         """
         
+        self.verbose = verbose
         self.base_path = base
         self.scenario_path = os.path.join(base, scenario)
         os.makedirs(self.base_path, exist_ok=True)
@@ -74,9 +76,11 @@ class ALMONDOSimulator(object):
         self.p_o = p_o
         self.p_p = p_p
         self.lambdas = lambda_values
-        print(f'explored lambda values are {lambda_values}')
+        if self.verbose:
+            print(f'explored lambda values are {lambda_values}')
         self.phis = phi_values
-        print(f'explored phi values are {phi_values}')
+        if self.verbose:
+            print(f'explored phi values are {phi_values}')
         self.T = T
         self.initial_distribution = initial_distribution
         self.initial_status = initial_status
@@ -86,8 +90,14 @@ class ALMONDOSimulator(object):
         
         if self.n_lobbyists > 0:
             self.create_strategies()  # Generate strategies for lobbyists if any exist
-             
-        print('Simulator created')
+
+        if self.verbose:
+            print('Simulator created')
+
+    def _print(self, *args, **kwargs):
+        """Custom print method that respects verbose setting"""
+        if self.verbose:
+            print(*args, **kwargs)
 
     def config_model(self, lambda_v: float | list, phi_v: float | list):
         """
@@ -97,20 +107,20 @@ class ALMONDOSimulator(object):
         - lambda_v: Lambda values for the agents (either a single value or a list for each agent).
         - phi_v: Phi values for the agents (either a single value or a list for each agent).
         """
-        print('Creating configuration object')
+        self._print('Creating configuration object')
         config = mc.Configuration()
 
-        print('Assigning p_o and p_p parameters')
+        self._print('Assigning p_o and p_p parameters')
         config.add_model_parameter("p_o", self.p_o)
         config.add_model_parameter("p_p", self.p_p)
-        print(f'p_o={self.p_o}, p_p={self.p_p}')
+        self._print(f'p_o={self.p_o}, p_p={self.p_p}')
 
         # Configure lambda values for each agent
         if isinstance(lambda_v, list):
             for i in self.graph.nodes():
                 config.add_node_configuration("lambda", i, lambda_v[i])
         elif isinstance(lambda_v, float):
-            print('Assigning homogeneous lambda')
+            self._print('Assigning homogeneous lambda')
             for i in self.graph.nodes():
                 config.add_node_configuration("lambda", i, lambda_v)
         else:
@@ -121,30 +131,30 @@ class ALMONDOSimulator(object):
             for i in self.graph.nodes():
                 config.add_node_configuration("phi", i, phi_v[i])
         elif isinstance(phi_v, float):
-            print('Assigning homogeneous phi')
+            self._print('Assigning homogeneous phi')
             for i in self.graph.nodes():
                 config.add_node_configuration("phi", i, phi_v)
         else:
             raise ValueError("phi_v must be a float or a list")
 
         # Initialize the model with the graph and configuration
-        print('Configuring model: assigning graph, parameters, and initial distribution of weights')
+        self._print('Configuring model: assigning graph, parameters, and initial distribution of weights')
         self.model = AlmondoModel(self.graph)
         self.model.set_initial_status(config, kind=self.initial_distribution, status=self.initial_status)
 
-        print('Assign strategies to lobbyists if any')
+        self._print('Assign strategies to lobbyists if any')
         if self.n_lobbyists > 0:
             for id in tqdm(self.lobbyists_data):
                 data = self.lobbyists_data[id]
                 B = data['B']
                 m = data['m']
                 matrix, name = self.read_random_strategy(B)
-                # print(f'Assigning strategy {name} to lobbyist {id}')
+                # self._print(f'Assigning strategy {name} to lobbyist {id}')
                 # Add lobbyist with strategy to the model
                 self.model.add_lobbyist(m, matrix)
                 self.lobbyists_data[id]['strategies'].append(name)
         
-        print('Configuration ended')
+        self._print('Configuration ended')
 
     def single_run(self, lambda_v: float | list, phi_v: float | list, drop_ev: bool = False) -> tuple:
         """
@@ -189,7 +199,7 @@ class ALMONDOSimulator(object):
         - overwrite: Whether to overwrite existing runs (default is False).
         - drop_evolution (optional, bool): keep in memory iterations dictionary (keep true if you want evolution plots in the end)
         """
-        print('Starting Monte Carlo runs')
+        self._print('Starting Monte Carlo runs')
 
         runs_data = []
 
@@ -198,13 +208,13 @@ class ALMONDOSimulator(object):
             self.lobbyists_data[id]['strategies'] = []
 
         for run in range(self.nruns):
-            print(f"Running simulation with lambda={lambda_v}, phi={phi_v}, nl={self.n_lobbyists}")
-            print(f'Starting run {run+1}/{self.nruns}')
+            self._print(f"Running simulation with lambda={lambda_v}, phi={phi_v}, nl={self.n_lobbyists}")
+            self._print(f'Starting run {run+1}/{self.nruns}')
             self.runpath = os.path.join(self.config_path, f'{run}')
 
             if not overwrite:
                 if os.path.exists(f'{self.runpath}/status.json'):
-                    print(f'Run {run+1}/{self.nruns} already performed, moving to next')
+                    self._print(f'Run {run+1}/{self.nruns} already performed, moving to next')
                     continue
                 else:
                     os.makedirs(self.runpath, exist_ok=True)
@@ -218,10 +228,10 @@ class ALMONDOSimulator(object):
 
             runs_data.append(final_distributions)
 
-        print('Saving configuration to file')
+        self._print('Saving configuration to file')
         self.save_config()
 
-        print('Saving final distributions to file')
+        self._print('Saving final distributions to file')
         filename = os.path.join(self.config_path, 'runs_data.json')
         with open(filename, 'w') as f:
             json.dump(runs_data, f)
@@ -234,11 +244,11 @@ class ALMONDOSimulator(object):
         - overwrite_runs: Whether to overwrite previous runs (default is False).
         - drop_evolution (optional, bool): keep in memory iterations dictionary (keep true if you want evolution plots in the end)
         """
-        print('Starting experiments')
+        self._print('Starting experiments')
 
         for _, (lambda_v, phi_v) in enumerate([(l, p) for l in self.lambdas for p in self.phis]):
 
-            print(f'Starting configuration lambda={lambda_v}, phi={phi_v}')
+            self._print(f'Starting configuration lambda={lambda_v}, phi={phi_v}')
 
             self.config_path = os.path.join(self.scenario_path, f'{lambda_v}_{phi_v}')
             os.makedirs(self.config_path, exist_ok=True)
@@ -306,7 +316,7 @@ class ALMONDOSimulator(object):
         total_elements = T * self.N
         num_signals = B//c  # number of signals
         if num_signals > total_elements:
-            print("Number of signals is greater than the total number of elements in the matrix."
+            self._print("Number of signals is greater than the total number of elements in the matrix."
                 "Lobbyist will always send signals to all agents at each iteration.")
             num_signals = total_elements
             
@@ -350,7 +360,7 @@ class ALMONDOSimulator(object):
         """
         Generate and save strategies for the lobbyists.
         """
-        print('Creating strategies')
+        self._print('Creating strategies')
 
         for id in range(self.n_lobbyists):
             data = self.lobbyists_data[id]
@@ -364,11 +374,11 @@ class ALMONDOSimulator(object):
                 path = os.path.join(folder, filename)
                 if not os.path.exists(path):
                     matrix = self.create_single_random_strategy(B, T, c)
-                    print('Saving strategy to file')
+                    self._print('Saving strategy to file')
                     np.savetxt(path, matrix, fmt="%i")
                 else:
                     continue
-        print('Strategies created')
+        self._print('Strategies created')
 
 
     def read_random_strategy(self, B: int) -> tuple:
