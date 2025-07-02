@@ -43,9 +43,11 @@ class OpinionDistribution(object):
               if ax is None:
                   fig, ax = plt.subplots(figsize=(10, 6))    
               ax = sns.histplot(self.get_values(), bins = 50, color='lightblue', alpha=1.0, stat='percent')
-              ax.set_xlabel(r'$p_{i,T}$')
-              ax.set_ylabel('% agents')
-              ax.set_title(f'Final {values} distribution of optimist model')
+              ax.set_xlabel(r'$p_{i,T}$', fontsize=12)
+              ax.set_ylabel('% agents',fontsize=12)
+              plt.xticks(fontsize=11)
+              plt.yticks(fontsize=11)
+              ax.set_title(f'Final {values} distribution of optimist model',fontsize=14)
               ax.set_xlim(0.0, 1.0)
               ax.text(
                  0.99,

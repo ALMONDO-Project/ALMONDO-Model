@@ -65,8 +65,10 @@ class OpinionEvolution(object):
             x = list(range(0, self.last_seen[k]))
             y = l[0:self.last_seen[k]]
             ax.plot(x, y, lw=1.5, alpha=0.5, color=self.node2col[k])
-        plt.xlabel("Iterations")
-        plt.ylabel(f"{self.kind.capitalize()}")
+        plt.xlabel("Iterations", fontsize=12)
+        plt.ylabel(f"{self.kind.capitalize()}",fontsize=12)
+        plt.xticks(fontsize=11)
+        plt.yticks(fontsize=11)
         if filename is not None:
             plt.savefig(filename, dpi=300, facecolor='white', bbox_inches='tight')
         else:
