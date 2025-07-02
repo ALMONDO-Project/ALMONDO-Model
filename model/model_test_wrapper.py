@@ -73,8 +73,8 @@ class SimulationWrapper(object):
             raise ValueError("phi_v must be a float or a list")
 
         # Initialize the model with the graph and configuration
-        self._print('Configuring model: assigning graph, parameters, and initial distribution of weights')
-        self.model.model = AlmondoModel(self.model.graph, seed=random_seed)
+        self._print('Configuring model: assigning graph, parameters, and initial distributions of weights')
+        self.model.model = AlmondoModel(self.model.graph, seed=random_seed, verbose=self.model.verbose)
         self.model.model.set_initial_status(config, kind=self.model.initial_distribution, status=self.model.initial_status)
 
         self._print('Assign strategies to lobbyists if any')
@@ -120,7 +120,9 @@ class SimulationWrapper(object):
     # "whole simulation"
     # (i.e., until a stopping condition is found by the simulator)
     def performWholeSimulation(self):
-        print('Not supported\n')  
+        """Perform the whole simulation until a stopping condition is met."""
+        # self.model.system_status = self.model.model.steady_state(max_iterations=self.model.T,drop_evolution = True)
+        self.model.system_status = self.model.model.iteration_bunch(T = 100, progress_bar=False)
         # Here you should replace 'performWholeSimulation()' with
         # your method to perform a whole simulation, i.e. iteration_bunch() to perform
         # multiple steps of simulation
@@ -150,9 +152,6 @@ class SimulationWrapper(object):
         # observation = specific agent
         # eval = subjective probability of the specific agent
 
-    class Java:
-        implements = ['vesta.python.IPythonSimulatorWrapper']
-
 
 if __name__ == '__main__':
     #Here you should put any initialization code you need to create an instance of
@@ -170,7 +169,7 @@ if __name__ == '__main__':
         'T': 10000,
         'lambda_values': [0.29],
         'phi_values': [0.0], 
-        'base': 'prova-transfer/results',
+        'base': 'results',
     }    
     
 
@@ -202,6 +201,7 @@ if __name__ == '__main__':
 
     for i in range(5):
         wrapper.performOneStepOfSimulation()
+        # wrapper.performWholeSimulation()
         for a in range(wrapper.model.N):
             print(f'Agent {a}: Probability = {wrapper.rval(f"p_{a}")}')
 
@@ -209,5 +209,6 @@ if __name__ == '__main__':
 
     for i in range(5):
         wrapper.performOneStepOfSimulation()
+        # wrapper.performWholeSimulation()
         for a in range(wrapper.model.N):
             print(f'Agent {a}: Probability = {wrapper.rval(f"p_{a}")}')

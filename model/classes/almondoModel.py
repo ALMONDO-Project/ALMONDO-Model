@@ -39,7 +39,7 @@ class AlmondoModel(DiffusionModel):
             self.strategy = strategy  # Strategy matrix
             self.max_t, self.N = self.strategy.shape
 
-    def __init__(self, graph, seed: int = None):
+    def __init__(self, graph, seed: int = None, verbose: bool = True):
         """
         Initialize the Almondo diffusion model.
 
@@ -81,7 +81,12 @@ class AlmondoModel(DiffusionModel):
         self.seed = seed
         self.T = None
         self.status = None  # Initial status, will be assigned later
+        self.verbose = verbose  # Verbose output for debugging
         
+    def _print(self, *args, **kwargs):
+        """Custom print method that respects verbose setting"""
+        if self.verbose:
+            print(*args, **kwargs)
 
     def set_initial_status(
         self, 
@@ -359,9 +364,9 @@ class AlmondoModel(DiffusionModel):
             indici_up = np.where(self.actual_status > 1)
             indici_down = np.where(self.actual_status < 0)                   
             if  np.any(indici_down):
-                print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
+                self._print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
             if np.any(indici_up):
-                print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")      
+                self._print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")
             raise ValueError("After applying lobbyist influence find status values less than 0 or grater than 1.")
  
 
@@ -384,9 +389,9 @@ class AlmondoModel(DiffusionModel):
             indici_up = np.where(self.actual_status > 1)
             indici_down = np.where(self.actual_status < 0)                       
             if  np.any(indici_down):
-                print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
+                self._print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
             if np.any(indici_up):
-                print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")
+                self._print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")
             raise ValueError("Find status values less than 0 or grater than 1.")
         
         self.actual_iteration += 1 #incremento il contatore delle iterazioni
@@ -394,7 +399,7 @@ class AlmondoModel(DiffusionModel):
 
         return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status)}} #ritorno lo stato aggiornato
 
-    def iteration_bunch(self, T: int = 100) -> list:
+    def iteration_bunch(self, T: int = 100, progress_bar:bool=True) -> list:
         
         """
         Runs the model for a specified number of iterations.
@@ -409,7 +414,7 @@ class AlmondoModel(DiffusionModel):
         self.T = T
         np.random.seed(self.seed)
         
-        for _ in tqdm(range(T)):
+        for _ in tqdm(range(T), disable=not progress_bar):
         
             its = self.iteration()
             self.system_status.append(its)
@@ -461,7 +466,7 @@ class AlmondoModel(DiffusionModel):
 
             # If steady state is achieved for nsteady consecutive iterations, stop
             if steady_it == nsteady:
-                print(f'Convergence reached after {it} iterations')
+                self._print(f'Convergence reached after {it} iterations')
                 if drop_evolution:
                     return [self.system_status[-nsteady]]
                 else:
