@@ -21,9 +21,7 @@ import random
 from tqdm import tqdm
 import json
 import os
-import sys
-sys.path.append('C:\\Users\\verdi\\Desktop\\Assegno_ricerca-INFORMATICA\\ALMONDO\\MODELLO\\Code\\PY-CODE\\ALMONDOModel_NDlib\\ALMONDO-model\\almondo-tweets-retrieval\\model')
-# from classes.almondoModel import AlmondoModel
+from classes.almondoModel import AlmondoModel
 from classes.simulator import ALMONDOSimulator
 from classes.almondoModel import AlmondoModel # This will be imported from ndlib once the model is loaded there
 from functions.metrics_functions import nclusters
@@ -39,7 +37,7 @@ class SimulationWrapper(object):
         if self.model.verbose:
             print(*args, **kwargs)
 
-    # code to let multivesta initialize the simulator for a new simulation
+    # code to let initialize the simulator for a new simulation
     # that is, re-initialize the model to its initial state, and set the
     # new random seed
     def setSimulatorForNewSimulation(self, random_seed): 
@@ -90,16 +88,16 @@ class SimulationWrapper(object):
                 B = data['B']
                 m = data['m']
                 matrix, name = self.model.read_random_strategy(B)
-                # print(f'Assigning strategy {name} to lobbyist {id}')
                 # Add lobbyist with strategy to the model
                 self.model.model.add_lobbyist(m, matrix)
                 self.model.lobbyists_data[id]['strategies'].append(name)
 
         self._print('Configuration ended')
 
-    # code to let multivesta ask the simulator to perform a step of simulation
+    # code to let ask the simulator to perform a step of simulation
     def performOneStepOfSimulation(self):
-        its = self.model.model.iteration() #(node_status=True) Meglio sotituire con 'iteration_bunch(1)' per fare un passo alla volta?
+        """Perform one step of simulation."""
+        its = self.model.model.iteration() 
         self.model.model.system_status.append(its)
         self.model.system_status = self.model.model.system_status
         # print('config_path: ', self.model.config_path)
@@ -120,10 +118,9 @@ class SimulationWrapper(object):
         except Exception as e:
             print(f"Error saving file: {e}")
         """            
-        #Here you should replace 'one_step()' with
-        # your method to perform a step of simulation 
 
-    # code to let multivesta ask the simulator to perform a
+
+    # code to let ask the simulator to perform a
     # "whole simulation"
     # (i.e., until a stopping condition is found by the simulator)
     def performWholeSimulation(self):
@@ -137,7 +134,7 @@ class SimulationWrapper(object):
         return float(self.model.model.actual_iteration -1)
 
 
-    # code to let multivesta ask the simulator to return the value of the
+    # code to let ask the simulator to return the value of the
     # specified observation in the current state of the simulation
     def rval(self, observation):
         # Model configuration
@@ -151,8 +148,7 @@ class SimulationWrapper(object):
             weight = self.model.model.actual_status[agent]
             probability = self.model.model.params['model']['p_o']*weight + self.model.model.params['model']['p_p']*(1-weight)
             return float(probability)
-        #return float(self.model.eval(observation))
-        #Here you should replace 'eval(observation)' with
+        #Here you should replace with
         # your method to evaluate an observation in the 
         # current simulation step 
         # observation = specific agent
@@ -166,8 +162,6 @@ if __name__ == '__main__':
     #Here you should put any initialization code you need to create an instance of
     #your model_file_name class
     
-    #NLs = [0, 1, 2, 3, 4, 20] # number of lobbyists in the simulations
-    # Ns = [2, 3, 4, 5] # number of agents in the simulations
     nl = 0 # number of lobbyists in the simulations
     n = 2 # number of agents in the simulations
     # nruns = 1 # number of runs for the simulations
@@ -206,10 +200,6 @@ if __name__ == '__main__':
     print(f'Starting configuration lambda={params['lambda_values'][0]}, phi={params['phi_values'][0]}')
     simulator.config_path = os.path.join(simulator.scenario_path, f'{params['lambda_values'][0]}_{params['phi_values'][0]}')
     os.makedirs(simulator.config_path, exist_ok=True)
-    # model= AlmondoModel(graph=G, seed=4)
-
-    # gateway.entry_point.playWithState(SimulationWrapper(model))
-    # gateway.entry_point.playWithState(SimulationWrapper(simulator))
 
     wrapper = SimulationWrapper(simulator)
     wrapper.setSimulatorForNewSimulation(random_seed=42)  # Initialize with a random seed
@@ -219,7 +209,7 @@ if __name__ == '__main__':
         for a in range(wrapper.model.N):
             print(f'Agent {a}: Probability = {wrapper.rval(f"p_{a}")}')
 
-    wrapper.setSimulatorForNewSimulation(random_seed=42)  # Initialize with a random seed
+    wrapper.setSimulatorForNewSimulation(random_seed=42)  # Initialize with same random seed to check consistency
 
     for i in range(5):
         wrapper.performOneStepOfSimulation()
