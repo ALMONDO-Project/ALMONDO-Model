@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Test to integrate the Almondo model into MultiVeSTa (Statistical Model Checker) tool 
+Test to Almondo model and its wrapper for the simulator. 
 
 # Author information
 __author__ = ["Fabrizio Fornari", "Verdiana Del Rosso"]
@@ -9,11 +9,7 @@ __email__ = [
     "verdiana.delrosso@unicam.it",
 ]
 """
-
-from py4j.java_gateway import JavaGateway, GatewayParameters, CallbackServerParameters
-
-#Here you should replace 'model_file_name' with the name of the .py file containing your model (without .py)
-# import AlmondoModel
+# Import necessary libraries
 import ndlib.models.ModelConfig as mc
 import networkx as nx
 import numpy as np
