@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import os
 import seaborn as sns
-import json
 
 class OpinionDistribution(object):
     def __init__(self, 

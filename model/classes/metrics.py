@@ -2,7 +2,7 @@ import os
 import json
 import numpy as np
 from typing import Union
-from functions.metrics_functions import nclusters, pwdist, lobbyist_performance
+from model.functions.metrics_functions import nclusters, pwdist, lobbyist_performance
 import json
 import os
 import numpy as np

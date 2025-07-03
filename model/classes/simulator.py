@@ -1,10 +1,9 @@
-from .almondoModel import AlmondoModel # This will be imported from ndlib once the model is loaded there
+from model.classes.almondoModel import AlmondoModel # This will be imported from ndlib once the model is loaded there
 import ndlib.models.ModelConfig as mc
-from functions.utils import transform
+from model.functions.utils import transform
 import networkx as nx
 import numpy as np
 from tqdm import tqdm
-import string
 import random
 import json
 import os

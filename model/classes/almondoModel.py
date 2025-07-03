@@ -1,7 +1,6 @@
 from ndlib.models.DiffusionModel import DiffusionModel
 from tqdm import tqdm
 import numpy as np
-import random
 
 # Author information
 __author__ = ["Alina Sirbu", "Giulio Rossetti", "Valentina Pansanella"]
