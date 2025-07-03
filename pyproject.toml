@@ -60,12 +60,6 @@ Repository = "https://github.com/ALMONDO-Project/ALMONDO-Model"
 [tool.setuptools.packages.find]
 # This tells setuptools to look for packages under the 'src' directory
 # and include 'my_awesome_package' (and its subpackages like 'my_awesome_package.utils')
-<<<<<<< HEAD
 #find = {where = ["src/almondo_model"]}
 where = ["src"]
 include = ["almondo_model*"]
-=======
-#find = {where = ["src/almondo-model"]}
-where = ["src/almondo-model"]
-include = ["model*"]
->>>>>>> c2ff1bbd2450485b7cdfa8d7e5c2e343826d848d
