@@ -45,6 +45,7 @@ class AlmondoModel(DiffusionModel):
         Arguments:
             graph (networkx.Graph): The graph representing the network of nodes.
             seed (int, optional): Random seed for reproducibility.
+            verbose (bool, optional): Whether to print debug information.
         """
         super().__init__(graph, seed)
         self.discrete_state = False  # Use continuous state model

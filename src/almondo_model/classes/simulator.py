@@ -25,6 +25,7 @@ class ALMONDOSimulator(object):
     - nruns (int, default=100): The number of simulation runs.
     - n_lobbyists (int, default=0): The number of lobbyists in the simulation.
     - lobbyists_data (dict, default={}): A dictionary containing data for the lobbyists (e.g., strategies, parameters).
+    - verbose (bool, default=True): Whether to print debug information during the simulation.
     """
 
     def __init__(
