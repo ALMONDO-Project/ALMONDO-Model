@@ -40,20 +40,20 @@ After installation, you can import in various ways:
 
 ```python
 # Import specific classes
-from model import AlmondoModel, ALMONDOSimulator
+from almondo_model import AlmondoModel, ALMONDOSimulator
 
 # Import from submodules
-from model.classes import AlmondoModel, ALMONDOSimulator, Metrics
-from model.functions import transform, nclusters, pwdist, lobbyist_performance
-from model.viz import OpinionDistribution, OpinionEvolution
+from almondo_model.classes import AlmondoModel, ALMONDOSimulator, Metrics
+from almondo_model.functions import transform, nclusters, pwdist, lobbyist_performance
+from almondo_model.viz import OpinionDistribution, OpinionEvolution
 
 
 # Import entire submodules
-from model import classes, funtions, viz
+from almondo_model import classes, funtions, viz
 model = classes.almondoModel.AlmondoModel()
 
 # Traditional import
-import model.classes.almondoModel as almondoModel
+import almondo_model.classes.almondoModel as almondoModel
 user = almondoModel.AlmondoModel()
 ```
 
