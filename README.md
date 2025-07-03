@@ -49,7 +49,7 @@ from model.viz import OpinionDistribution, OpinionEvolution
 
 
 # Import entire submodules
-from models import classes, funtions, viz
+from model import classes, funtions, viz
 model = classes.almondoModel.AlmondoModel()
 
 # Traditional import
