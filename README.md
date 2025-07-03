@@ -17,9 +17,44 @@ Python 3.x
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/almondomodel.git
-cd almondomodel
+git clone https://github.com/ALMONDO-Project/ALMONDO-Model.git
+cd ALMONDO-Model
 pip install -r requirements.txt
+```
+
+### Installation as a package
+Execute one of the following commands:
+
+```bash
+# Direct from Git
+pip install git+https://github.com/ALMONDO-Project/ALMONDO-Model.git
+
+# Or in requirements.txt
+git+https://github.com/ALMONDO-Project/ALMONDO-Model.git
+
+# Development mode
+pip install -e git+https://github.com/ALMONDO-Project/ALMONDO-Model.git#egg=almondo-model
+```
+### Usage in Your New Repository
+After installation, you can import in various ways:
+
+```python
+# Import specific classes
+from model import User, Product, Order
+
+# Import from submodules
+from model.classes import AlmondoModel, ALMONDOSimulator, Metrics
+from model.functions import transform, nclusters, pwdist, lobbyist_performance
+from model.viz import OpinionDistribution, OpinionEvolution
+
+
+# Import entire submodules
+from models import classes, funtions, viz
+model = classes.almondoModel.AlmondoModel()
+
+# Traditional import
+import model.classes.almondoModel as almondoModel
+user = almondoModel.AlmondoModel()
 ```
 
 ## Example of model usage
