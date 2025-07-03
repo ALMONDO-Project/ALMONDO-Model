@@ -40,7 +40,7 @@ After installation, you can import in various ways:
 
 ```python
 # Import specific classes
-from model import User, Product, Order
+from model import AlmondoModel, ALMONDOSimulator
 
 # Import from submodules
 from model.classes import AlmondoModel, ALMONDOSimulator, Metrics
