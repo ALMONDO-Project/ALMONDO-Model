@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "AlmondoModel is a diffusion model designed to simulate the diffusion of influence across a network with the influence of lobbyists having different strategies. It extends the DiffusionModel class from the ndlib library, enabling the simulation of opinion evolution and the effects of lobbying activities over time. The model can be customized with various parameters such as probabilities for optimistic and pessimistic events, node influence factors, and more."
 authors = [{name = "Alina Sirbu", email = "alina.sirbu@unibo.it"},{name = "Gulio Rossetti", email = "giulio.rossetti@isti.cnr.it"}, {name = "Valentina Pansanella", email = "valentina.pansanella@isti.cnr.it"}]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
     # Add any dependencies your classes need
     "bokeh==3.6.3",
