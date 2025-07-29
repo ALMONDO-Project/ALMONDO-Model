@@ -55,7 +55,16 @@ class OpinionEvolution(object):
                     else:
                         self.node2col[n] = '#ce2626'
     
-    def plot(self, filename=None, ax = None):   
+    def plot(self, filename=None, ax = None, 
+             transparent_bg: bool = False, transparent_plot_area: bool = False):
+        """
+        This method plots the evolution of agents' opinions over iterations.
+        Arguments:
+        - filename: The file path to save the plot, if None, it will show the plot instead.
+        - ax: The matplotlib axis to plot on, if None, it creates a new one
+        - transparent_bg: If True, the background of the figure will be transparent.
+        - transparent_plot_area: If True, the plot area will have a transparent background.
+        """
         if ax is None:
             fig, ax = plt.subplots(figsize=(10, 6))    
         mx = 0
@@ -65,12 +74,26 @@ class OpinionEvolution(object):
             x = list(range(0, self.last_seen[k]))
             y = l[0:self.last_seen[k]]
             ax.plot(x, y, lw=1.5, alpha=0.5, color=self.node2col[k])
+        
+        # Set figure and plot area background
+        if transparent_bg:
+            fig.patch.set_facecolor('none')
+        else:
+            fig.patch.set_facecolor('white')
+            
+        if transparent_plot_area:
+            ax.set_facecolor('none')
+        else:
+            ax.set_facecolor('white')  # default value
+        
         plt.xlabel("Iterations", fontsize=12)
-        plt.ylabel(f"{self.kind.capitalize()}",fontsize=12)
+        plt.ylabel(f"Agents' {self.kind.capitalize()}",fontsize=12)
         plt.xticks(fontsize=11)
         plt.yticks(fontsize=11)
+        
         if filename is not None:
-            plt.savefig(filename, dpi=300, facecolor='white', bbox_inches='tight')
+            bg_color = 'none' if transparent_bg else 'white'
+            plt.savefig(filename, dpi=300, facecolor=bg_color, bbox_inches='tight')
         else:
             plt.show()
             

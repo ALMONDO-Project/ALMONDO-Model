@@ -27,9 +27,9 @@ with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
                 if not os.path.exists(runpath+f'/{value}_final_distribution.png'):
                     with open(runpath+'/status.json', 'r') as f:
                         trends = json.load(f)
-                    
                     od = OpinionDistribution(trends, params['p_o'], params['p_p'], values=value)
-                    od.plot(runpath+f'/{value}_final_distribution.png',values=value)
+                    od.plot(runpath+f'/{value}_final_distribution.png',values=value, 
+                            stat=True, title=True, transparent_bg=False, transparent_plot_area=False)
                 if not os.path.exists(runpath+f'/{value}_evolution.png'):
                     with open(runpath+'/status.json', 'r') as f:
                         trends = json.load(f)    
