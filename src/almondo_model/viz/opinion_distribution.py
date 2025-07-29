@@ -43,7 +43,7 @@ class OpinionDistribution(object):
         """
         This method plots the distribution of the final agent values.
         Arguments:
-        - filename: The file path to save the plot, if None, it will show the plot instead.
+        - filename: The file path to save the plot, if None, it will show the plot instead and return the figure.
         - ax: The matplotlib axis to plot on, if None, it creates a new one.
         - values: The type of values to plot ("probabilities" or "weights").
         - stat: If True, it shows the mean and standard deviation on the plot.
@@ -52,7 +52,10 @@ class OpinionDistribution(object):
         - transparent_plot_area: If True, the plot area will have a transparent background.
         """
         if ax is None:
-            fig, ax = plt.subplots(figsize=(10, 6))    
+            fig, ax = plt.subplots(figsize=(10, 6))
+        else:
+            fig = ax.get_figure()
+
         data = self.get_values()
         
         # Check if all values are the same (or nearly the same) to properly adjust bin width
@@ -101,5 +104,6 @@ class OpinionDistribution(object):
             plt.savefig(filename, dpi=300, facecolor=bg_color, bbox_inches='tight')
         else:
             plt.show()
+            return fig
             
         plt.close()

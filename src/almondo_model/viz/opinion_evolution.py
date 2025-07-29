@@ -60,13 +60,16 @@ class OpinionEvolution(object):
         """
         This method plots the evolution of agents' opinions over iterations.
         Arguments:
-        - filename: The file path to save the plot, if None, it will show the plot instead.
+        - filename: The file path to save the plot, if None, it will show the plot instead and return the figure.
         - ax: The matplotlib axis to plot on, if None, it creates a new one
         - transparent_bg: If True, the background of the figure will be transparent.
         - transparent_plot_area: If True, the plot area will have a transparent background.
         """
         if ax is None:
-            fig, ax = plt.subplots(figsize=(10, 6))    
+            fig, ax = plt.subplots(figsize=(10, 6))
+        else:
+            fig = ax.get_figure()
+
         mx = 0
         for k, l in future.utils.iteritems(self.nodes2opinions):
             if mx < self.last_seen[k]:
@@ -80,7 +83,7 @@ class OpinionEvolution(object):
             fig.patch.set_facecolor('none')
         else:
             fig.patch.set_facecolor('white')
-            
+
         if transparent_plot_area:
             ax.set_facecolor('none')
         else:
@@ -96,5 +99,6 @@ class OpinionEvolution(object):
             plt.savefig(filename, dpi=300, facecolor=bg_color, bbox_inches='tight')
         else:
             plt.show()
+            return fig
             
         plt.close()
