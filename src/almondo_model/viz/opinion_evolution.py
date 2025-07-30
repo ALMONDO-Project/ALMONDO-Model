@@ -55,18 +55,21 @@ class OpinionEvolution(object):
                     else:
                         self.node2col[n] = '#ce2626'
     
-    def plot(self, filename=None, ax = None, 
+    def plot(self, filename=None, ax = None,
+             figure_size=(10, 6), grid: bool = False,
              transparent_bg: bool = False, transparent_plot_area: bool = False):
         """
         This method plots the evolution of agents' opinions over iterations.
         Arguments:
         - filename: The file path to save the plot, if None, it will show the plot instead and return the figure.
         - ax: The matplotlib axis to plot on, if None, it creates a new one
+        - figure_size: The size of the figure.
+        - grid: f True, it adds the horizontal grid to the plot.
         - transparent_bg: If True, the background of the figure will be transparent.
         - transparent_plot_area: If True, the plot area will have a transparent background.
         """
         if ax is None:
-            fig, ax = plt.subplots(figsize=(10, 6))
+            fig, ax = plt.subplots(figsize=figure_size)
         else:
             fig = ax.get_figure()
 
@@ -93,6 +96,8 @@ class OpinionEvolution(object):
         plt.ylabel(f"Agents' {self.kind.capitalize()}",fontsize=12)
         plt.xticks(fontsize=11)
         plt.yticks(fontsize=11)
+        if grid:
+            ax.grid(axis='y')
         
         if filename is not None:
             bg_color = 'none' if transparent_bg else 'white'

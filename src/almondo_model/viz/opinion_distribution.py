@@ -37,8 +37,9 @@ class OpinionDistribution(object):
     def get_values(self):
         return self.values
 
-    def plot(self, filename=None, ax = None, values: str = "probabilities", 
+    def plot(self, filename=None, ax = None, values: str = "probabilities",
              stat: bool = True, title: bool = True, 
+             figure_size=(10, 6), grid: bool = False,
              transparent_bg: bool = False, transparent_plot_area: bool = False):
         """
         This method plots the distribution of the final agent values.
@@ -48,11 +49,13 @@ class OpinionDistribution(object):
         - values: The type of values to plot ("probabilities" or "weights").
         - stat: If True, it shows the mean and standard deviation on the plot.
         - title: If True, it adds a title to the plot.
+        - figure_size: The size of the figure.
+        - grid: If True, it adds the horizontal grid to the plot.
         - transparent_bg: If True, the background of the figure will be transparent.
         - transparent_plot_area: If True, the plot area will have a transparent background.
         """
         if ax is None:
-            fig, ax = plt.subplots(figsize=(10, 6))
+            fig, ax = plt.subplots(figsize=figure_size)
         else:
             fig = ax.get_figure()
 
@@ -87,6 +90,8 @@ class OpinionDistribution(object):
         plt.yticks(fontsize=11)
         if title:
             ax.set_title(f'Final {values} distribution of optimist model',fontsize=14)
+        if grid:
+            ax.grid(axis='y')
         
         if stat:
             ax.text(
