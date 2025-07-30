@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import future.utils
 
 class OpinionEvolution(object):
@@ -77,9 +78,11 @@ class OpinionEvolution(object):
         for k, l in future.utils.iteritems(self.nodes2opinions):
             if mx < self.last_seen[k]:
                 mx = self.last_seen[k]
-            x = list(range(0, self.last_seen[k]))
-            y = l[0:self.last_seen[k]]
+            x = list(range(0, self.last_seen[k]+1))
+            y = l[0:(self.last_seen[k]+1)]
             ax.plot(x, y, lw=1.5, alpha=0.5, color=self.node2col[k])
+        ax.xaxis.set_major_locator(MaxNLocator(integer=True))  # to plot only integer data (iterations cannot be float)
+        ax.set_ylim(0.0, 1.0)
         
         # Set figure and plot area background
         if transparent_bg:
