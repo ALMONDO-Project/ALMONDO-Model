@@ -158,7 +158,7 @@ class AlmondoModel(DiffusionModel):
         Returns:
             None
         """
-        if strategy: 
+        if isinstance(strategy, np.ndarray) and strategy.size > 0:
             if np.shape(strategy)[1] != self.graph.number_of_nodes():
                 raise ValueError(f"Strategy matrix for lobbyist does not match the number of agents in the graph. Expected {self.graph.number_of_nodes()} columns, got {np.shape(strategy)[1]}.")
         new_lobbyist = self.LobbyistAgent(m, strategy)
