@@ -34,7 +34,18 @@ class AlmondoModel(DiffusionModel):
                 m (int): Model type, 0 for pessimistic, 1 for optimistic.
                 strategy (np.ndarray): The strategy matrix (T x N) for the agent's influence.
             """
+            if not isinstance(m, int):
+                raise TypeError("Lobbyist model must be an integer.")
+            if m != 0 and m != 1:
+                raise ValueError("Lobbyist's model 'm' must be an integer 0 (for pessimistic) or 1 (for optimistic).")
             self.m = m  # 0 (pessimistic) or 1 (optimistic)
+
+            if not isinstance(strategy, np.ndarray):
+                raise TypeError("Lobbyist strategy must be a numpy array.")
+            
+            if not np.all(np.isin(strategy, [0, 1])):
+                raise ValueError(f"Strategy matrix for lobbyist contains values other than 0 and 1.")
+            
             self.strategy = strategy  # Strategy matrix
             self.max_t, self.N = self.strategy.shape
 
@@ -116,12 +127,20 @@ class AlmondoModel(DiffusionModel):
         if kind == 'uniform':
             self.status = np.random.uniform(low=0, high=1, size=self.n)  # Random uniform status for each node
         elif kind == 'custom':
-            assert(len(status) == self.n),  f"The length of the status list {len(status)} does not match the number of nodes {self.n}."
+            if len(status) != self.n:
+                raise ValueError(f"The length of the status list {len(status)} does not match the number of nodes {self.n}.")
             self.status = np.array(status)
+            if not all(0 <= val <= 1 for val in self.status):
+                raise ValueError("All initial status values must be between 0 and 1.")
         else:
             raise ValueError("Other types of initial distributions are not implemented yet.")
         
         # Set node-specific parameters (lambda and phi)
+        if not all(0 <= val <= 1 for val in self.params['nodes']['lambda'].values()):
+                raise ValueError("All initial lambdas values must be between 0 and 1.")
+        if not all(0 <= val <= 1 for val in self.params['nodes']['phi'].values()):
+                raise ValueError("All initial phis values must be between 0 and 1.")
+        
         self.lambdas = np.array([el for el in self.params['nodes']['lambda'].values()])
         self.phis = np.array([el for el in self.params['nodes']['phi'].values()])
 
@@ -139,6 +158,9 @@ class AlmondoModel(DiffusionModel):
         Returns:
             None
         """
+        if strategy: 
+            if np.shape(strategy)[1] != self.graph.number_of_nodes():
+                raise ValueError(f"Strategy matrix for lobbyist does not match the number of agents in the graph. Expected {self.graph.number_of_nodes()} columns, got {np.shape(strategy)[1]}.")
         new_lobbyist = self.LobbyistAgent(m, strategy)
         self.lobbyists.append(new_lobbyist)
 
@@ -349,6 +371,10 @@ class AlmondoModel(DiffusionModel):
             self.actual_iteration += 1
             return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status)}} #metto in system_status lo stato iniziale come iterazione 0 e vado all'iterazione successiva
 
+        if self.params['model']['p_o'] < 0 or self.params['model']['p_o'] > 1:
+            raise ValueError("Invalid value for p_o. It must be between 0 and 1.")
+        if self.params['model']['p_p'] < 0 or self.params['model']['p_p'] > 1:
+            raise ValueError("Invalid value for p_p. It must be between 0 and 1.")
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         
@@ -415,10 +441,14 @@ class AlmondoModel(DiffusionModel):
         np.random.seed(self.seed)
         
         for _ in tqdm(range(T), disable=not progress_bar):
-        
-            its = self.iteration()
-            self.system_status.append(its)
-        
+            
+            try: 
+                its = self.iteration()
+                self.system_status.append(its)
+            except ValueError as e:
+                self._print(f"Error in iteration: {e}")
+                return self.system_status
+
         return self.system_status
 
     # Run the model until a steady state is reached or a maximum number of iterations
