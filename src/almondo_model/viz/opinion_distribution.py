@@ -13,18 +13,39 @@ class OpinionDistribution(object):
         """
         :param model: The model object
         :param trends: The computed simulation trends
+        :param p_o: The optimistic model probability p_o parameter
+        :param p_p: The pessimistic model probability p_p parameter
         :param iteration: The iteration number or the string "last" for plotting final state
         :param values: The type of values to extract ("probabilities" or "weights").
         """
+        if values not in ['probabilities', 'weights']:
+            raise ValueError("Invalid value type. Choose 'probabilities' or 'weights'.")
+        
+        if not isinstance(trends, list):
+            raise ValueError("Trends should be a list of dictionaries containing 'iteration' and 'status'.")
+        for trend in trends:
+            if not isinstance(trend, dict) or 'iteration' not in trend or 'status' not in trend:
+                raise ValueError("Each trend must be a dictionary with 'iteration' and 'status' keys.")
+        
+        if p_o < 0 or p_o > 1 or p_p < 0 or p_p > 1:
+            raise ValueError("Invalid prior probabilities. They must be between 0 and 1.")
+        
+        if isinstance(iteration, str) and iteration != 'last':
+                    raise ValueError("Invalid iteration type. Choose an integer or 'last'.")
+        if isinstance(iteration, int) and (iteration < -1 or iteration >= len(trends)):
+            raise ValueError("Invalid iteration index.")
         
         self.trends = trends
         self.iteration = iteration
-        
-        if iteration == 'last':
-            self.it = self.trends[-1]['iteration']
-            self.ops = self.trends[-1]['status']
-        else:
-            self.ops = self.trends[iteration]['status'].values()
+
+        try:
+            if iteration == 'last':
+                self.it = self.trends[-1]['iteration']
+                self.ops = self.trends[-1]['status']
+            else:
+                self.ops = self.trends[iteration]['status'].values()
+        except Exception as e:
+            raise ValueError(f"Error extracting trends: {e}")
         
         if values == 'probabilities':
             weights = np.array([el for el in self.ops])
@@ -40,11 +61,12 @@ class OpinionDistribution(object):
     def plot(self, filename=None, ax = None, values: str = "probabilities",
              stat: bool = True, title: bool = True, 
              figure_size=(10, 6), grid: bool = False,
-             transparent_bg: bool = False, transparent_plot_area: bool = False):
+             transparent_bg: bool = False, transparent_plot_area: bool = False,
+             bins: int = 50):
         """
         This method plots the distribution of the final agent values.
         Arguments:
-        - filename: The file path to save the plot, if None, it will show the plot instead and return the figure.
+        - filename: The file path to save the plot, if None, behaviour depends on return_format -- it will show the plot instead and return the figure.
         - ax: The matplotlib axis to plot on, if None, it creates a new one.
         - values: The type of values to plot ("probabilities" or "weights").
         - stat: If True, it shows the mean and standard deviation on the plot.
@@ -53,11 +75,14 @@ class OpinionDistribution(object):
         - grid: If True, it adds the horizontal grid to the plot.
         - transparent_bg: If True, the background of the figure will be transparent.
         - transparent_plot_area: If True, the plot area will have a transparent background.
+    - bins: Number of bins for histogram (used for both matplotlib and JSON output)
         """
         if ax is None:
             fig, ax = plt.subplots(figsize=figure_size)
+            created_fig = True
         else:
             fig = ax.get_figure()
+            created_fig = False
 
         data = self.get_values()
         
@@ -66,12 +91,12 @@ class OpinionDistribution(object):
             # For constant data, create custom bins with desired width to avoid a single line
             unique_val = data[0]
             bin_width = 0.015  # Adjust this to control bar width
-            bins = [unique_val - bin_width/2, unique_val + bin_width/2]
+            custom_bins = [unique_val - bin_width/2, unique_val + bin_width/2]
         else:
             # For distributed data, use regular binning
-            bins = 50
+            custom_bins = bins
             
-        ax = sns.histplot(data, bins = bins, color='lightblue', alpha=1.0, stat='percent',ax=ax)
+        ax = sns.histplot(data, bins = custom_bins, color='lightblue', alpha=1.0, stat='percent',ax=ax)
         # Set figure and plot area background
         if transparent_bg: # figure background
             fig.patch.set_facecolor('none')
@@ -107,8 +132,11 @@ class OpinionDistribution(object):
         if filename is not None:
             bg_color = 'none' if transparent_bg else 'white'
             plt.savefig(filename, dpi=300, facecolor=bg_color, bbox_inches='tight')
+            if created_fig:
+                plt.close(fig)
+            return filename
         else:
             plt.show()
             return fig
             
-        plt.close()
+        # plt.close()

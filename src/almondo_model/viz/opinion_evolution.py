@@ -7,12 +7,23 @@ class OpinionEvolution(object):
     def __init__(self, trends, p_o, p_p, kind='probabilities'):
         
         """
-        :param p_o: The model p_o parameter
-        :param p_p: The model p_p parameter
+        :param p_o: The optimistic model probability p_o parameter
+        :param p_p: The pessimistic model probability p_p parameter
         :param trends: The computed simulation trends (status.json in the run folder)
         :param values: The type of values to extract ("probabilities" or "weights").
         """
+        if kind not in ['probabilities', 'weights']:
+            raise ValueError("Invalid kind. Choose 'probabilities' or 'weights'.")
         
+        if not isinstance(trends, list):
+            raise ValueError("Invalid trends format. Expected a list.")
+        for trend in trends:
+            if not isinstance(trend, dict) or 'iteration' not in trend or 'status' not in trend:
+                raise ValueError("Each trend must be a dictionary with 'iteration' and 'status' keys.")
+        
+        if p_o < 0 or p_o > 1 or p_p < 0 or p_p > 1:
+            raise ValueError("Invalid prior probabilities. They must be between 0 and 1.")
+
         self.kind = kind
         
         self.node2col = {}
@@ -29,11 +40,15 @@ class OpinionEvolution(object):
             return p
 
         for it in trends:
-            weights = np.array([el for el in it['status'].values()])
-            if kind == 'probabilities':
-                sts = transform(weights, p_o, p_p)  # update conditional probabilities of event will occur
-            else:
-                sts = weights
+            try: 
+                weights = np.array([el for el in it['status'].values()])
+                if kind == 'probabilities':
+                    sts = transform(weights, p_o, p_p)  # update conditional probabilities of event will occur
+                else:
+                    sts = weights
+            except Exception as e:
+                raise ValueError(f"Error processing trend at iteration {it['iteration']}: {e}")
+            
             its = it['iteration']
             for n, v in enumerate(sts):
                 if n in self.nodes2opinions:
@@ -71,8 +86,10 @@ class OpinionEvolution(object):
         """
         if ax is None:
             fig, ax = plt.subplots(figsize=figure_size)
+            created_fig = True
         else:
             fig = ax.get_figure()
+            created_fig = False
 
         mx = 0
         for k, l in future.utils.iteritems(self.nodes2opinions):
@@ -105,8 +122,11 @@ class OpinionEvolution(object):
         if filename is not None:
             bg_color = 'none' if transparent_bg else 'white'
             plt.savefig(filename, dpi=300, facecolor=bg_color, bbox_inches='tight')
+            if created_fig:
+                plt.close(fig)
+            return filename
         else:
             plt.show()
             return fig
             
-        plt.close()
+        # plt.close()
