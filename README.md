@@ -250,5 +250,11 @@ for nl in NLs:
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgements
-This simulator was created as part of ongoing research into opinion dynamics and lobbying influence. It relies on ndlib for network-based modeling and networkx for graph management.
+## Acknowledgements and funding declaration
+This simulator was created as part of ongoing research into opinion dynamics and lobbying influence. It relies on ndlib for network-based modeling and networkx for graph management. See references for project website.
+
+This study received funding from the European Union - Next-GenerationEU -National Recovery and Resilience Plan (NRRP) – MISSION 4 COMPONENT 2, INVESTMENT N. 1.1, CALL PRIN 2022 PNRR D.D. 1409 14-09-2022 – ALMONDO Project, CUP N. J53D23015400001.
+
+## References
+- Giachini, D., Del Rosso, V., Ciambezi, L., Fornari, F., Pansanella, V., Popoyan, L., & Sîrbu, A. (2025). "Navigating the Lobbying Landscape: Insights from Opinion Dynamics Models." *arXiv preprint arXiv:2507.13767*.
+- ALMONDO project website: https://almondo-project.github.io/ 
