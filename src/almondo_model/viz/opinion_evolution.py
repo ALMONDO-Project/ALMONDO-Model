@@ -73,7 +73,7 @@ class OpinionEvolution(object):
     
     def plot(self, filename=None, ax = None,
              figure_size=(10, 6), grid: bool = False,
-             transparent_bg: bool = False, transparent_plot_area: bool = False):
+             transparent_bg: bool = False, transparent_plot_area: bool = False, show: bool=True):
         """
         This method plots the evolution of agents' opinions over iterations.
         Arguments:
@@ -83,6 +83,7 @@ class OpinionEvolution(object):
         - grid: f True, it adds the horizontal grid to the plot.
         - transparent_bg: If True, the background of the figure will be transparent.
         - transparent_plot_area: If True, the plot area will have a transparent background.
+        - show: If True, plot is shown.
         """
         if ax is None:
             fig, ax = plt.subplots(figsize=figure_size)
@@ -125,8 +126,9 @@ class OpinionEvolution(object):
             if created_fig:
                 plt.close(fig)
             return filename
-        else:
+        
+        if show:
             plt.show()
-            return fig
             
+        return fig    
         # plt.close()

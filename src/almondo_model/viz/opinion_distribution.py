@@ -62,7 +62,7 @@ class OpinionDistribution(object):
              stat: bool = True, title: bool = True, 
              figure_size=(10, 6), grid: bool = False,
              transparent_bg: bool = False, transparent_plot_area: bool = False,
-             bins: int = 50):
+             bins: int = 50, show: bool=True):
         """
         This method plots the distribution of the final agent values.
         Arguments:
@@ -75,6 +75,7 @@ class OpinionDistribution(object):
         - grid: If True, it adds the horizontal grid to the plot.
         - transparent_bg: If True, the background of the figure will be transparent.
         - transparent_plot_area: If True, the plot area will have a transparent background.
+        - show: If True the plot is shown
     - bins: Number of bins for histogram (used for both matplotlib and JSON output)
         """
         if ax is None:
@@ -135,8 +136,8 @@ class OpinionDistribution(object):
             if created_fig:
                 plt.close(fig)
             return filename
-        else:
+        if show:
             plt.show()
-            return fig
             
+        return fig
         # plt.close()
