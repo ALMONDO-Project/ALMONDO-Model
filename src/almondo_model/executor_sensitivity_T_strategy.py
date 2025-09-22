@@ -60,7 +60,9 @@ def main(nruns):
             if nl > 0:
                 params['lobbyists_data'] = dict()
                 for id in range(nl):
-                    params['lobbyists_data'][id] = {'m': id%2, 'B': b, 'c': 1, 'strategies': [], 'T': t}    
+                    # strategy type can be 'random', 'frontloading' or 'backloading'
+                    params['lobbyists_data'][id] = {'m': id%2, 'B': b, 'c': 1, 'strategies': [], 'T': t, 'strategy_type': 'random'}
+
     
             os.makedirs(params['base'], exist_ok=True)
             path = os.path.join(params['base'], params['scenario'])

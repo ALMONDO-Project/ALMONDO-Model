@@ -61,6 +61,7 @@ def main(nruns):
             if nl > 0:
                 params['lobbyists_data'] = dict()
                 for id in range(nl):
+                    # 'strategy_type' can be 'random', 'frontloading' or 'backloading'; default is 'random'
                     params['lobbyists_data'][id] = {'m': id%2, 'B': b, 'c': 1, 'strategies': [], 'T': T}    
 
             os.makedirs(params['base'], exist_ok=True)

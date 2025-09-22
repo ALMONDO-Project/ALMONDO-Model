@@ -355,7 +355,82 @@ class ALMONDOSimulator(object):
             indices = np.random.choice(self.N, inter_per_time, replace=False)
             matrix[t, indices] = 1
         return matrix
+    
+    def create_frontloading_strategy(self, B: int, T: int, c: int =1) -> np.ndarray:
+        """
+        Create the strategy matrix TxN with the first B/c signals in the TxN matrix set equals to 1 in row order.
+        If the row of the last signals is not complete, the remaining signals are randomly distributed in the same row.
 
+        Args:
+            B (int): The total budget of lobbyist
+            T (int): The number of active time steps of lobbyist
+            c (int): The cost to send a signal
+
+        Returns:
+            numpy.ndarray: A matrix TxN of 0s with B/c randomly selected elements set to 1.
+        """
+        matrix = np.zeros((T, self.N), dtype=int)
+        total_elements = T * self.N
+        num_signals = B//c  # number of signals
+        if num_signals > total_elements:
+            print("Number of signals is greater than the total number of elements in the matrix."
+                "Lobbyist will always send signals to all agents at each iteration.")
+            num_signals = total_elements
+            matrix = np.ones((T, self.N), dtype=int)
+            return matrix
+        # Determine how many complete rows can be filled and how many signals remain
+        num_rows_filled = num_signals // self.N
+        remaining_signals = num_signals % self.N
+        # Fill complete rows
+        for i in range(num_rows_filled):
+            matrix[i, :] = 1
+        # Fill remaining signals in the next row
+        if remaining_signals > 0 and num_rows_filled < T:
+            row = num_rows_filled
+            # Randomly select 'remaining_signals' unique columns in the row
+            cols = np.random.choice(self.N, size=remaining_signals, replace=False)
+            matrix[row, cols] = 1
+
+        return matrix
+
+    def create_backloading_strategy(self, B: int, T: int, c: int =1) -> np.ndarray:
+        """
+        Create the strategy matrix TxN with the last B/c signals in the TxN matrix set equals to 1 in row order.
+        If the row of the fisrt signals is not complete, the remaining signals are randomly distributed in the same row.
+
+        Args:
+            B (int): The total budget of lobbyist
+            T (int): The number of active time steps of lobbyist
+            c (int): The cost to send a signal
+
+        Returns:
+            numpy.ndarray: A matrix TxN of 0s with B/c randomly selected elements set to 1.
+        """
+        matrix = np.zeros((T, self.N), dtype=int)
+        total_elements = T * self.N
+        num_signals = B//c  # number of signals
+        if num_signals > total_elements:
+            print("Number of signals is greater than the total number of elements in the matrix."
+                "Lobbyist will always send signals to all agents at each iteration.")
+            num_signals = total_elements
+            matrix = np.ones((T, self.N), dtype=int)
+            return matrix
+        # Determine how many complete rows can be filled and how many signals remain
+        num_rows_filled = num_signals // self.N
+        remaining_signals = num_signals % self.N
+        # Fill complete rows
+        for i in range(num_rows_filled):
+            matrix[-i-1, :] = 1
+        # Fill remaining signals in the next row
+        if remaining_signals > 0 and num_rows_filled < T:
+            row = num_rows_filled
+            # Randomly select 'remaining_signals' unique columns in the row
+            cols = np.random.choice(self.N, size=remaining_signals, replace=False)
+            matrix[-row-1, cols] = 1
+
+        return matrix
+
+    
     def create_strategies(self):
         """
         Generate and save strategies for the lobbyists.
@@ -367,13 +442,21 @@ class ALMONDOSimulator(object):
             B = data['B']
             c = data['c']
             T = data['T']
+            strategy_type = data['strategy_type'] if 'strategy_type' in data else 'random'
             folder = os.path.join(self.strategies_path, str(B))
             os.makedirs(folder, exist_ok=True)
             for run in range(self.nruns):
                 filename = f'strategy_{run}.txt'
                 path = os.path.join(folder, filename)
                 if not os.path.exists(path):
-                    matrix = self.create_single_random_strategy(B, T, c)
+                    if strategy_type == 'random':
+                        matrix = self.create_single_random_strategy(B, T, c)
+                    elif strategy_type == 'frontloading':
+                        matrix = self.create_frontloading_strategy(B, T, c)
+                    elif strategy_type == 'backloading':
+                        matrix = self.create_backloading_strategy(B, T, c)
+                    else:
+                        raise ValueError(f"Unknown strategy type: {strategy_type}")
                     self._print('Saving strategy to file')
                     np.savetxt(path, matrix, fmt="%i")
                 else:
