@@ -91,7 +91,8 @@ class AlmondoModel(DiffusionModel):
         self.n = self.graph.number_of_nodes()  # Number of nodes in the graph
         self.seed = seed
         self.T = None
-        self.status = None  # Initial status, will be assigned later
+        self.status_o = None  # Initial status, will be assigned later
+        self.status_p = None  # Initial status, will be assigned later
         self.verbose = verbose  # Verbose output for debugging
         
     def _print(self, *args, **kwargs):
@@ -125,12 +126,14 @@ class AlmondoModel(DiffusionModel):
         super().set_initial_status(configuration)
         
         if kind == 'uniform':
-            self.status = np.random.uniform(low=0, high=1, size=self.n)  # Random uniform status for each node
+            self.status_o = np.random.uniform(low=0, high=1, size=self.n)  # Random uniform status for each node
+            self.status_p = (1- self.status_o.copy())  # Pessimistic status is complementary
         elif kind == 'custom':
             if len(status) != self.n:
                 raise ValueError(f"The length of the status list {len(status)} does not match the number of nodes {self.n}.")
-            self.status = np.array(status)
-            if not all(0 <= val <= 1 for val in self.status):
+            self.status_o = np.array(status)
+            self.status_p = np.array(1-status)
+            if not all(0 <= val <= 1 for val in self.status_o) or not all(0 <= val <= 1 for val in self.status_p):
                 raise ValueError("All initial status values must be between 0 and 1.")
         else:
             raise ValueError("Other types of initial distributions are not implemented yet.")
@@ -195,13 +198,14 @@ class AlmondoModel(DiffusionModel):
         else:
             return None
 
-    def generate_lambda(self, w: np.ndarray, s: float, phi: np.ndarray, lam: np.ndarray) -> np.ndarray:
+    def generate_lambda(self, wo: np.ndarray, wp: np.ndarray, s: float, phi: np.ndarray, lam: np.ndarray) -> np.ndarray:
        
         """
         Generates a lambda value for each node based on the current status and parameters.
 
         Arguments:
-            w (np.ndarray): The current status of nodes.
+            wo (np.ndarray): The current status of nodes for optimistic model.
+            wp (np.ndarray): The current status of nodes for pessimistic model.
             s (float): Strategy value for influence.
             phi (np.ndarray): The phi parameter for nodes.
             lam (np.ndarray): The lambda parameter for nodes.
@@ -210,11 +214,12 @@ class AlmondoModel(DiffusionModel):
             np.ndarray: The calculated lambda values for the nodes.
         """
        
-        f = np.abs((1 - s) - w)  # Difference between current state and strategy (opt model)
-        # f = np.abs(s - w)  # Difference between current state and strategy (pess model)
-        lambdas = phi * f + (1 - phi) * lam
+        fo = np.abs((1 - s) - wo)  # Difference between current state and strategy (opt model)
+        fp = np.abs(s - wp)  # Difference between current state and strategy (pess model)
+        lambdas_o = phi * fo + (1 - phi) * lam
+        lambdas_p = phi * fp + (1 - phi) * lam
                 
-        return lambdas  # Weighted influence
+        return lambdas_o, lambdas_p  # Weighted influence
 
     def update(self, receivers: np.ndarray, s: float) -> np.ndarray:
         
@@ -229,43 +234,41 @@ class AlmondoModel(DiffusionModel):
             np.ndarray: Updated statuses for the receiver nodes.
         """
        
-        w = self.actual_status[receivers]  # Current status of the receiver nodes
+        wo = self.actual_status_o[receivers]  # Current status of the receiver nodes
+        wp = self.actual_status_p[receivers]  # Current status of the receiver nodes
         
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         
-        p = w * p_o + (1 - w) * p_p  # Combined probability based on current node's status (opt model)
+        p = wo * p_o + wp * p_p  # Combined probability based on current node's status (opt model)
         # p = (1-w) * p_o + w * p_p  # Combined probability based on current node's status (pess model)
         
         phi = self.phis[receivers]
         lam = self.lambdas[receivers]
         
-        l = self.generate_lambda(self.actual_status[receivers], s, phi, lam)
+        
+        lo, lp = self.generate_lambda(self.actual_status_o[receivers],self.actual_status_p[receivers], s, phi, lam)
          
         # opt model
-        w1 = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
+        w1 = lo * wo + (1 - lo) * wo * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
  
-        w2 = l * (1 - w) + (1 - l) * (1 - w) * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
+        w2 = lp * (1 - wp) + (1 - lp) * (1 - wp) * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
  
-        # pess model
-        # w1 = l * (1-w) + (1 - l) * (1-w) * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
- 
-        # w2 = l * w + (1 - l) * w * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
- 
-        updated_w = w1 / ( w1 + w2 ) # opt model
-        # updated_w = w2 / ( w1 + w2 ) # pess model 
+        updated_wo = 0.5 * ( w1 + w2 ) # opt model
+        updated_wp = 1 - updated_wo # pess model
                
-        return updated_w
+        return updated_wo, updated_wp
 
 
 
-    def lupdate(self, w: np.ndarray, lobbyist: LobbyistAgent, t: int) -> np.ndarray:
+    def lupdate(self, wo: np.ndarray, wp: np.ndarray, lobbyist: LobbyistAgent, t: int) -> np.ndarray:
         
         """
         Updates the status of nodes with the influence of a given lobbyist.
 
         Arguments:
-            w (np.ndarray): The current status of nodes.
+            wo (np.ndarray): The current status of nodes for optimistic model.
+            wp (np.ndarray): The current status of nodes for pessimistic model.
             lobbyist (LobbyistAgent): The lobbyist influencing the nodes.
             t (int): Current time step for the lobbyist's strategy.
 
@@ -281,64 +284,57 @@ class AlmondoModel(DiffusionModel):
             p_o = self.params['model']['p_o']
             p_p = self.params['model']['p_p']
             
-            p = w * p_o + (1 - w) * p_p #subjective probability opt model
+            p = wo * p_o + wp * p_p #subjective probability opt model
             # p = (1 - w) * p_o + w * p_p #subjective probability pess model
             
             phi = self.phis #parametro phi della popolazione, per ora testati solo omogenei
             lam = self.lambdas #parametro lambda della popolazione, per ora testati solo omogenei
                      
-            # opt model
-            l1 = phi * w + (1 - phi) * lam #lambda per lobbista pessimista
-            l2 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista ottimista 
+            # use for opt model
+            lo1 = phi * wo + (1 - phi) * lam #lambda per lobbista pessimista
+            lo2 = phi * (1 - wo) + (1 - phi) * lam #lambda per lobbista ottimista
                       
-            # pess model
-            # l1 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista pessimista
-            # l2 = phi * w + (1 - phi) * lam #lambda per lobbista ottimista 
- 
-  
+            # use for pess model
+            lp1 = phi * (1 - wp) + (1 - phi) * lam #lambda per lobbista pessimista
+            lp2 = phi * wp + (1 - phi) * lam #lambda per lobbista ottimista
+
+
             if m == 0: # update with pessimist lobbyist
                 # opt model
-                w1 =  s * (l1 * w + (1-l1) * w * (p_o / p)) + (1-s) * w
+                w1 =  s * (lo1 * wo + (1-lo1) * wo * (p_o / p)) + (1-s) * wo
  
-                w2 =  s * (l1 * (1 - w) + (1 - l1) * (1 - w) * (p_p / p)) + (1 - s) * (1 - w)
+                w2 =  s * (lp1 * (1 - wp) + (1 - lp1) * (1 - wp) * (p_o / p)) + (1 - s) * (1 - wp)
  
-                # pess model
-                # w1 =  s * (l1 * (1-w) + (1-l1) * (1-w) * (p_o / p)) + (1-s) * (1-w)
- 
-                # w2 =  s * (l1 * w + (1 - l1) * w * (p_p / p)) + (1 - s) * w
- 
-                updated_w = w1 / (w1 + w2) #opt model
-                # updated_w = w2 / (w1 + w2) # pess model
+                updated_wo = 0.5 * ( w1 + w2 ) # opt model
+                updated_wp = 1 - updated_wo # pess model
+
             elif m == 1: # update with optimist lobbyist
                 # opt model
-                w1 = s * (l2 * w + (1 - l2) * w * ((1 - p_o) / (1 - p))) + (1 - s) * w
+                w1 = s * (lo2 * wo + (1 - lo2) * wo * ((1 - p_o) / (1 - p))) + (1 - s) * wo
  
-                w2 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_p) / (1 - p))) + (1 - s) * (1 - w)
+                w2 = s * (lp2 * (1 - wp) + (1 - lp2) * (1 - wp) * ((1 - p_o) / (1 - p))) + (1 - s) * (1 - wp)
  
-                # pess model
-                # w1 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_o) / (1 - p))) + (1 - s) * (1 - w)
- 
-                # w2 = s * (l2 * w + (1 - l2) * w * ((1 - p_p) / (1 - p))) + (1 - s) * w
- 
-                updated_w = w1 / (w1 + w2) # opt model
-                # updated_w = w2 / (w1 + w2) # pess model
+                updated_wo = 0.5 * ( w1 + w2 ) # opt model
+                updated_wp = 1 - updated_wo # pess model
+
             else:
                 raise ValueError("Invalid model type for lobbyist")
             
-            return updated_w
+            return updated_wo, updated_wp
         
         else:
             
-            return w
+            return wo, wp
 
 
-    def apply_lobbyist_influence(self, w: np.ndarray, t: int) -> np.ndarray:
+    def apply_lobbyist_influence(self, wo: np.ndarray, wp: np.ndarray, t: int) -> np.ndarray:
        
         """
         Applies the influence of all lobbyists to the current node statuses.
 
         Arguments:
-            w (np.ndarray): The current status of nodes.
+            wo (np.ndarray): The current status of nodes for optimistic model.
+            wp (np.ndarray): The current status of nodes for pessimistic model.
             t (int): The current time step.
 
         Returns:
@@ -351,8 +347,8 @@ class AlmondoModel(DiffusionModel):
         if len(self.lobbyists) > 0:
             for lobbyist in lobbyist_list:
                 if self.actual_iteration < lobbyist.max_t:
-                    w = self.lupdate(w, lobbyist, t)
-        return w
+                    wo, wp = self.lupdate(wo, wp, lobbyist, t)
+        return wo, wp
 
     def iteration(self) -> dict:
         """
@@ -365,11 +361,12 @@ class AlmondoModel(DiffusionModel):
             dict: Information about the current iteration, including updated node statuses.
         """
         
-        self.actual_status = self.status.copy() #copio lo stato iniziale per aggiornarlo a step durante il singolo time step, gli aggiornamenti interni non verranno salvati nello stato del sistema
+        self.actual_status_o = self.status_o.copy() #copio lo stato iniziale per aggiornarlo a step durante il singolo time step, gli aggiornamenti interni non verranno salvati nello stato del sistema
+        self.actual_status_p = self.status_p.copy() 
 
         if self.actual_iteration == 0:
             self.actual_iteration += 1
-            return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status)}} #metto in system_status lo stato iniziale come iterazione 0 e vado all'iterazione successiva
+            return {"iteration": 0, "status": {i: value for i, value in enumerate(self.actual_status_o)}} #metto in system_status lo stato iniziale come iterazione 0 e vado all'iterazione successiva
 
         if self.params['model']['p_o'] < 0 or self.params['model']['p_o'] > 1:
             raise ValueError("Invalid value for p_o. It must be between 0 and 1.")
@@ -378,52 +375,53 @@ class AlmondoModel(DiffusionModel):
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
         
-        self.actual_status = self.apply_lobbyist_influence(self.actual_status, self.actual_iteration) #interazioni con tutti i lobbisti in ordine casuale
+        self.actual_status_o, self.actual_status_p = self.apply_lobbyist_influence(self.actual_status_o, self.actual_status_p, 
+                                                                                   self.actual_iteration) #interazioni con tutti i lobbisti in ordine casuale
         
 
-        if np.any(np.isnan(self.actual_status)):
+        if np.any(np.isnan(self.actual_status_o)) or np.any(np.isnan(self.actual_status_p)):
             raise ValueError("NaN found in actual_status after applying lobbyist influence")
-        
-        if np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1):
-             pass  
+
+        if np.all(self.actual_status_o >= 0) and np.all(self.actual_status_o <= 1) and np.all(self.actual_status_p >= 0) and np.all(self.actual_status_p <= 1):
+             pass
         else:
-            indici_up = np.where(self.actual_status > 1)
-            indici_down = np.where(self.actual_status < 0)                   
+            indici_up = np.where(self.actual_status_o > 1 or self.actual_status_p > 1)
+            indici_down = np.where(self.actual_status_o < 0 or self.actual_status_p < 0)
             if  np.any(indici_down):
-                self._print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
+                self._print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status_o[indici_down]}, {self.actual_status_p[indici_down]}")
             if np.any(indici_up):
-                self._print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")
+                self._print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status_o[indici_up]}, {self.actual_status_p[indici_up]}")
             raise ValueError("After applying lobbyist influence find status values less than 0 or grater than 1.")
  
 
         sender = np.random.randint(0, self.n) #scelgo un nodo che invierà un segnale a caso nel grafo
         
         try:        
-            p = self.actual_status[sender] * p_o + (1 - self.actual_status[sender]) * p_p #calcolo la probabilità soggettiva del sender opt model
-            # p = (1 - self.actual_status[sender]) * p_o + self.actual_status[sender] * p_p #calcolo la probabilità soggettiva del sender pess model
+            p = self.actual_status_o[sender] * p_o + self.actual_status_p[sender] * p_p #calcolo la probabilità soggettiva del sender opt model
             signal = np.random.binomial(1, p) #genero il segnale con una binomiale in base alla probabilità soggettiva       
         except ValueError:
             return None
             
         receivers = np.array(list(self.graph.neighbors(sender))) #i nodi che ricevono il segnale sono i vicini del sender 
         if len(receivers) > 0:
-            self.actual_status[receivers] = self.update(receivers, signal) #aggiorno lo stato dei nodi che ricevono il segnale
-        
-        if np.all(self.actual_status >= 0) and np.all(self.actual_status <= 1):
-             pass  
+            self.actual_status_o[receivers], self.actual_status_p[receivers] = self.update(receivers, signal) #aggiorno lo stato dei nodi che ricevono il segnale
+
+        if np.all(self.actual_status_o >= 0) and np.all(self.actual_status_o <= 1) and np.all(self.actual_status_p >= 0) and np.all(self.actual_status_p <= 1):
+             pass
         else:
-            indici_up = np.where(self.actual_status > 1)
-            indici_down = np.where(self.actual_status < 0)                       
+            indici_up = np.where(self.actual_status_o > 1 or self.actual_status_p > 1)
+            indici_down = np.where(self.actual_status_o < 0 or self.actual_status_p < 0)                       
             if  np.any(indici_down):
-                self._print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status[indici_down]}")
+                self._print(f"Nodes with weights <0 are: {indici_down};\n Values of weights < 0 are: {self.actual_status_o[indici_down]}, {self.actual_status_p[indici_down]}")
             if np.any(indici_up):
-                self._print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status[indici_up]}")
+                self._print(f"Nodes with weights >1 are: {indici_up};\n Values of weights >1 are: {self.actual_status_o[indici_up]}, {self.actual_status_p[indici_up]}")
             raise ValueError("Find status values less than 0 or grater than 1.")
         
         self.actual_iteration += 1 #incremento il contatore delle iterazioni
-        self.status = self.actual_status #aggiorno lo stato del sistema
+        self.status_o = self.actual_status_o #aggiorno lo stato del sistema
+        self.status_p = self.actual_status_p #aggiorno lo stato del sistema
 
-        return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status)}} #ritorno lo stato aggiornato
+        return {"iteration": self.actual_iteration - 1, "status": {i: value for i, value in enumerate(self.actual_status_o)}} #ritorno lo stato aggiornato
 
     def iteration_bunch(self, T: int = 100, progress_bar:bool=True) -> list:
         
