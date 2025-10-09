@@ -16,6 +16,8 @@ class AlmondoModel(DiffusionModel):
     A class to model diffusion in a network, with additional functionality 
     for lobbying agents influencing node states. Extends DiffusionModel from ndlib.
     """
+    # Small epsilon to prevent division by zero and extreme values
+    EPSILON = 1e-15
 
     class LobbyistAgent:
         """
@@ -213,6 +215,9 @@ class AlmondoModel(DiffusionModel):
         f = np.abs((1 - s) - w)  # Difference between current state and strategy (opt model)
         # f = np.abs(s - w)  # Difference between current state and strategy (pess model)
         lambdas = phi * f + (1 - phi) * lam
+
+        # Ensure lambda stays in valid range
+        lambdas = np.clip(lambdas, 0, 1)
                 
         return lambdas  # Weighted influence
 
@@ -220,6 +225,7 @@ class AlmondoModel(DiffusionModel):
         
         """
         Updates the status of receiver nodes based on a signal and their current status.
+        Added numerical stability with EPSILON to avoid division by zero.
 
         Arguments:
             receivers (np.ndarray): List of nodes to receive the signal.
@@ -233,28 +239,81 @@ class AlmondoModel(DiffusionModel):
         
         p_o = self.params['model']['p_o']
         p_p = self.params['model']['p_p']
+
+        # Clip probabilities to avoid extreme values (0 or 1) - numerical stability: it should not happen but just in case
+        p_o = np.clip(p_o, self.EPSILON, 1 - self.EPSILON)
+        p_p = np.clip(p_p, self.EPSILON, 1 - self.EPSILON)
         
         p = w * p_o + (1 - w) * p_p  # Combined probability based on current node's status (opt model)
         # p = (1-w) * p_o + w * p_p  # Combined probability based on current node's status (pess model)
+        p = np.clip(p, self.EPSILON, 1 - self.EPSILON) # clipping to avoid extreme values
         
         phi = self.phis[receivers]
         lam = self.lambdas[receivers]
-        
+
+        # Generate lambda with bounds checking
         l = self.generate_lambda(self.actual_status[receivers], s, phi, lam)
-         
+        l = np.clip(l, 0, 1)  # Ensure lambda is in [0, 1]
+
+        # Calculate update components with numerical stability
+        # Using log-space for very small probabilities could be an option,
+        # but for now we use careful clipping
+
+        # For w1 calculation
+        ratio_o_p = p_o / p
+        ratio_not_o_not_p = (1 - p_o) / (1 - p)
+        
+        # Clip ratios to prevent overflow
+        ratio_o_p = np.clip(ratio_o_p, self.EPSILON, 1/self.EPSILON)
+        ratio_not_o_not_p = np.clip(ratio_not_o_not_p, self.EPSILON, 1/self.EPSILON)
+
         # opt model
-        w1 = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
- 
-        w2 = l * (1 - w) + (1 - l) * (1 - w) * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
- 
+        w1 = l * w + (1 - l) * w * (s * ratio_o_p + (1 - s) * ratio_not_o_not_p)
+
+        # For w2 calculation
+        ratio_p_p = p_p / p
+        ratio_not_p_not_p = (1 - p_p) / (1 - p)
+        
+        # Clip ratios to prevent overflow
+        ratio_p_p = np.clip(ratio_p_p, self.EPSILON, 1/self.EPSILON)
+        ratio_not_p_not_p = np.clip(ratio_not_p_not_p, self.EPSILON, 1/self.EPSILON)
+
+
+        w2 = l * (1 - w) + (1 - l) * (1 - w) * (s * ratio_p_p + (1 - s) * ratio_not_p_not_p)
+
         # pess model
-        # w1 = l * (1-w) + (1 - l) * (1-w) * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
- 
-        # w2 = l * w + (1 - l) * w * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
- 
-        updated_w = w1 / ( w1 + w2 ) # opt model
-        # updated_w = w2 / ( w1 + w2 ) # pess model 
-               
+        # w1 = l * (1-w) + (1 - l) * (1-w) * (s * ratio_o_p + (1 - s) * ratio_not_o_not_p)
+
+        # w2 = l * w + (1 - l) * w * (s * ratio_p_p + (1 - s) * ratio_not_p_not_p)
+
+        # Ensure denominator is not too small
+        denominator = w1 + w2
+        
+        # Check for numerical issues
+        if np.any(denominator < self.EPSILON):
+            self._print(f"WARNING: Near-zero denominator in update()")
+            self._print(f"min denominator: {np.min(denominator)}")
+            self._print(f"Affected nodes: {np.sum(denominator < self.EPSILON)}")
+            denominator = np.clip(denominator, self.EPSILON, None)
+        
+        # Check for NaN before division
+        if np.any(np.isnan(w1)) or np.any(np.isnan(w2)):
+            self._print(f"ERROR: NaN detected before division in update()")
+            self._print(f"w1 NaN count: {np.sum(np.isnan(w1))}")
+            self._print(f"w2 NaN count: {np.sum(np.isnan(w2))}")
+            raise ValueError("NaN values detected in update calculation")
+
+        updated_w = w1 / denominator # opt model
+        # updated_w = w2 / denominator # pess model
+        
+        # Final clipping to ensure valid probability range
+        updated_w = np.clip(updated_w, 0, 1)
+        
+        # Check for NaN in result
+        if np.any(np.isnan(updated_w)):
+            self._print(f"ERROR: NaN detected in updated_w")
+            raise ValueError("NaN values in update result")
+        
         return updated_w
 
 
@@ -262,7 +321,7 @@ class AlmondoModel(DiffusionModel):
     def lupdate(self, w: np.ndarray, lobbyist: LobbyistAgent, t: int) -> np.ndarray:
         
         """
-        Updates the status of nodes with the influence of a given lobbyist.
+        Updates the status of nodes with the influence of a given lobbyist with numerical stability.
 
         Arguments:
             w (np.ndarray): The current status of nodes.
@@ -276,61 +335,112 @@ class AlmondoModel(DiffusionModel):
         m = lobbyist.m
         s = lobbyist.strategy[t]
         
-        if s is not None:
-                        
-            p_o = self.params['model']['p_o']
-            p_p = self.params['model']['p_p']
-            
-            p = w * p_o + (1 - w) * p_p #subjective probability opt model
-            # p = (1 - w) * p_o + w * p_p #subjective probability pess model
-            
-            phi = self.phis #parametro phi della popolazione, per ora testati solo omogenei
-            lam = self.lambdas #parametro lambda della popolazione, per ora testati solo omogenei
-                     
-            # opt model
-            l1 = phi * w + (1 - phi) * lam #lambda per lobbista pessimista
-            l2 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista ottimista 
-                      
-            # pess model
-            # l1 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista pessimista
-            # l2 = phi * w + (1 - phi) * lam #lambda per lobbista ottimista 
- 
-  
-            if m == 0: # update with pessimist lobbyist
-                # opt model
-                w1 =  s * (l1 * w + (1-l1) * w * (p_o / p)) + (1-s) * w
- 
-                w2 =  s * (l1 * (1 - w) + (1 - l1) * (1 - w) * (p_p / p)) + (1 - s) * (1 - w)
- 
-                # pess model
-                # w1 =  s * (l1 * (1-w) + (1-l1) * (1-w) * (p_o / p)) + (1-s) * (1-w)
- 
-                # w2 =  s * (l1 * w + (1 - l1) * w * (p_p / p)) + (1 - s) * w
- 
-                updated_w = w1 / (w1 + w2) #opt model
-                # updated_w = w2 / (w1 + w2) # pess model
-            elif m == 1: # update with optimist lobbyist
-                # opt model
-                w1 = s * (l2 * w + (1 - l2) * w * ((1 - p_o) / (1 - p))) + (1 - s) * w
- 
-                w2 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_p) / (1 - p))) + (1 - s) * (1 - w)
- 
-                # pess model
-                # w1 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_o) / (1 - p))) + (1 - s) * (1 - w)
- 
-                # w2 = s * (l2 * w + (1 - l2) * w * ((1 - p_p) / (1 - p))) + (1 - s) * w
- 
-                updated_w = w1 / (w1 + w2) # opt model
-                # updated_w = w2 / (w1 + w2) # pess model
-            else:
-                raise ValueError("Invalid model type for lobbyist")
-            
-            return updated_w
-        
-        else:
-            
+        if s is None:
             return w
+                        
+        p_o = self.params['model']['p_o']
+        p_p = self.params['model']['p_p']
 
+        # Clip probabilities to avoid extreme values
+        p_o = np.clip(p_o, self.EPSILON, 1 - self.EPSILON)
+        p_p = np.clip(p_p, self.EPSILON, 1 - self.EPSILON)
+        
+        p = w * p_o + (1 - w) * p_p #subjective probability opt model
+        # p = (1 - w) * p_o + w * p_p #subjective probability pess model
+        p = np.clip(p, self.EPSILON, 1 - self.EPSILON) # clipping to avoid extreme values
+
+        # Check for potential numerical issues
+        if np.any(p < 1e-10) or np.any(p > 1 - 1e-10):
+            self._print(f"WARNING: p very close to boundary in lupdate()")
+            self._print(f"p range: [{np.min(p):.2e}, {np.max(p):.2e}]")
+            self._print(f"w range: [{np.min(w):.2e}, {np.max(w):.2e}]")
+
+        phi = self.phis #parametro phi della popolazione, per ora testati solo omogenei
+        lam = self.lambdas #parametro lambda della popolazione, per ora testati solo omogenei
+                    
+        # opt model
+        l1 = phi * w + (1 - phi) * lam #lambda per lobbista pessimista
+        l2 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista ottimista 
+                    
+        # pess model
+        # l1 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista pessimista
+        # l2 = phi * w + (1 - phi) * lam #lambda per lobbista ottimista 
+
+        l1 = np.clip(l1, 0, 1)
+        l2 = np.clip(l2, 0, 1)
+
+        if m == 0: # update with pessimist lobbyist
+            # opt model
+
+            # Calculate ratios with clipping to prevent overflow
+            ratio_o_p = np.clip(p_o / p, self.EPSILON, 1/self.EPSILON)
+            ratio_p_p = np.clip(p_p / p, self.EPSILON, 1/self.EPSILON)
+
+            w1 =  s * (l1 * w + (1-l1) * w * ratio_o_p) + (1-s) * w
+
+            w2 =  s * (l1 * (1 - w) + (1 - l1) * (1 - w) * ratio_p_p) + (1 - s) * (1 - w)
+
+            # pess model
+            # w1 =  s * (l1 * (1-w) + (1-l1) * (1-w) * ratio_o_p) + (1-s) * (1-w)
+
+            # w2 =  s * (l1 * w + (1 - l1) * w * ratio_p_p) + (1 - s) * w
+
+        elif m == 1: # update with optimist lobbyist
+            # Calculate ratios with clipping to prevent overflow
+            ratio_not_o_not_p = np.clip((1 - p_o) / (1 - p), self.EPSILON, 1/self.EPSILON)
+            ratio_not_p_not_p = np.clip((1 - p_p) / (1 - p), self.EPSILON, 1/self.EPSILON)
+            # opt model
+            w1 = s * (l2 * w + (1 - l2) * w * ratio_not_o_not_p) + (1 - s) * w
+
+            w2 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ratio_not_p_not_p) + (1 - s) * (1 - w)
+
+            # pess model
+            # w1 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ratio_not_o_not_p) + (1 - s) * (1 - w)
+
+            # w2 = s * (l2 * w + (1 - l2) * w * ratio_not_p_not_p) + (1 - s) * w
+
+        else:
+            raise ValueError("Invalid model type for lobbyist")
+        
+        # Check for NaN before division
+        if np.any(np.isnan(w1)) or np.any(np.isnan(w2)):
+            self._print(f"ERROR: NaN detected before division in lupdate()")
+            self._print(f"Lobbyist type: {m}")
+            self._print(f"w1 NaN count: {np.sum(np.isnan(w1))}")
+            self._print(f"w2 NaN count: {np.sum(np.isnan(w2))}")
+            raise ValueError("NaN values detected in lupdate calculation")
+        
+        # Ensure denominator is not too small
+        denominator = w1 + w2
+        
+        if np.any(denominator < self.EPSILON):
+            self._print(f"WARNING: Near-zero denominator in lupdate()")
+            self._print(f"min denominator: {np.min(denominator):.2e}")
+            self._print(f"Lobbyist type: {m}")
+            self._print(f"Affected nodes: {np.sum(denominator < self.EPSILON)}")
+            denominator = np.clip(denominator, self.EPSILON, None)
+        
+        # Check for very large ratios that might indicate numerical issues
+        max_ratio = np.max(w1 / denominator)
+        min_ratio = np.min(w1 / denominator)
+        if max_ratio > 1.0 + self.EPSILON or min_ratio < -self.EPSILON:
+            self._print(f"WARNING: Division ratio outside [0,1] before clipping")
+            self._print(f"Ratio range: [{min_ratio:.6f}, {max_ratio:.6f}]")
+        
+        # Perform division
+        updated_w = w1 / denominator # opt model
+        # updated_w = w2 / (w1 + w2) # pess model
+        
+        # Final clipping to ensure valid probability range
+        updated_w = np.clip(updated_w, 0, 1)
+        
+        # Check for NaN in result
+        if np.any(np.isnan(updated_w)):
+            self._print(f"ERROR: NaN detected in updated_w")
+            raise ValueError("NaN values in lupdate result")
+        
+        return updated_w
+        
 
     def apply_lobbyist_influence(self, w: np.ndarray, t: int) -> np.ndarray:
        
@@ -507,3 +617,40 @@ class AlmondoModel(DiffusionModel):
         # Return the status of the system at each iteration (if no steady state is reached)
         return self.system_status
 
+
+    # Additional utility functions for numerical health checks
+    def check_numerical_health(self):
+        """
+        Diagnostic function to check for numerical issues in the current state.
+        Call this periodically during simulation if you suspect problems.
+        """
+        print("\n" + "="*60)
+        print("NUMERICAL HEALTH CHECK")
+        print("="*60)
+
+        # Check current status
+        print(f"Status range: [{np.min(self.status):.6f}, {np.max(self.status):.6f}]")
+        print(f"Status mean: {np.mean(self.status):.6f}")
+        print(f"Status std: {np.std(self.status):.6f}")
+
+        # Check for values very close to boundaries
+        near_zero = np.sum(self.status < 0.01)
+        near_one = np.sum(self.status > 0.99)
+        print(f"Nodes near 0 (< 0.01): {near_zero}")
+        print(f"Nodes near 1 (> 0.99): {near_one}")
+
+        # Check parameters
+        print(f"\nParameters:")
+        print(f"  p_o: {self.params['model']['p_o']}")
+        print(f"  p_p: {self.params['model']['p_p']}")
+        print(f"  lambda range: [{np.min(self.lambdas):.6f}, {np.max(self.lambdas):.6f}]")
+        print(f"  phi range: [{np.min(self.phis):.6f}, {np.max(self.phis):.6f}]")
+
+        # Check for NaN
+        if np.any(np.isnan(self.status)):
+            print("\nWARNING: NaN detected in status!")
+            print(f" Number of NaN values: {np.sum(np.isnan(self.status))}")
+        else:
+            print("\nNo NaN values detected")
+
+        print("="*60 + "\n")
