@@ -16,6 +16,8 @@ class AlmondoModel(DiffusionModel):
     A class to model diffusion in a network, with additional functionality 
     for lobbying agents influencing node states. Extends DiffusionModel from ndlib.
     """
+    # Small epsilon to prevent division by zero and extreme values
+    EPSILON = 1e-10
 
     class LobbyistAgent:
         """
@@ -241,18 +243,25 @@ class AlmondoModel(DiffusionModel):
         lam = self.lambdas[receivers]
         
         l = self.generate_lambda(self.actual_status[receivers], s, phi, lam)
-         
+        
+
         # opt model
         w1 = l * w + (1 - l) * w * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
  
-        w2 = l * (1 - w) + (1 - l) * (1 - w) * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
+        # w2 = l * (1 - w) + (1 - l) * (1 - w) * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
+        small_wo = (w1 < self.EPSILON)
+        w1[small_wo] = 0.0
+        large_wo = (w1 > 1 - self.EPSILON)
+        w1[large_wo] = 1.0
+
  
         # pess model
         # w1 = l * (1-w) + (1 - l) * (1-w) * (s * (p_o / p) + (1 - s) * ((1 - p_o) / (1 - p)))
  
         # w2 = l * w + (1 - l) * w * (s * (p_p / p) + (1 - s) * ((1 - p_p) / (1 - p)))
  
-        updated_w = w1 / ( w1 + w2 ) # opt model
+        # updated_w = w1 / ( w1 + w2 ) # opt model
+        updated_w = w1.copy()
         # updated_w = w2 / ( w1 + w2 ) # pess model 
                
         return updated_w
@@ -300,27 +309,37 @@ class AlmondoModel(DiffusionModel):
                 # opt model
                 w1 =  s * (l1 * w + (1-l1) * w * (p_o / p)) + (1-s) * w
  
-                w2 =  s * (l1 * (1 - w) + (1 - l1) * (1 - w) * (p_p / p)) + (1 - s) * (1 - w)
+                # w2 =  s * (l1 * (1 - w) + (1 - l1) * (1 - w) * (p_p / p)) + (1 - s) * (1 - w)
  
                 # pess model
                 # w1 =  s * (l1 * (1-w) + (1-l1) * (1-w) * (p_o / p)) + (1-s) * (1-w)
  
                 # w2 =  s * (l1 * w + (1 - l1) * w * (p_p / p)) + (1 - s) * w
+                small_wo = (w1 < self.EPSILON)
+                w1[small_wo] = 0.0
+                large_wo = (w1 > 1 - self.EPSILON)
+                w1[large_wo] = 1.0
  
-                updated_w = w1 / (w1 + w2) #opt model
+                # updated_w = w1 / (w1 + w2) #opt model
+                updated_w = w1.copy() #opt model
                 # updated_w = w2 / (w1 + w2) # pess model
             elif m == 1: # update with optimist lobbyist
                 # opt model
                 w1 = s * (l2 * w + (1 - l2) * w * ((1 - p_o) / (1 - p))) + (1 - s) * w
  
-                w2 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_p) / (1 - p))) + (1 - s) * (1 - w)
+                # w2 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_p) / (1 - p))) + (1 - s) * (1 - w)
  
                 # pess model
                 # w1 = s * (l2 * (1 - w) + (1 - l2) * (1 - w) * ((1 - p_o) / (1 - p))) + (1 - s) * (1 - w)
  
                 # w2 = s * (l2 * w + (1 - l2) * w * ((1 - p_p) / (1 - p))) + (1 - s) * w
- 
-                updated_w = w1 / (w1 + w2) # opt model
+                small_wo = (w1 < self.EPSILON)
+                w1[small_wo] = 0.0
+                large_wo = (w1 > 1 - self.EPSILON)
+                w1[large_wo] = 1.0
+                
+                # updated_w = w1 / (w1 + w2) # opt model
+                updated_w = w1.copy()
                 # updated_w = w2 / (w1 + w2) # pess model
             else:
                 raise ValueError("Invalid model type for lobbyist")
