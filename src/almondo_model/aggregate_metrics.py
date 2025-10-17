@@ -1,3 +1,4 @@
+from almondo_model.classes import MetricsPhiC
 from classes.metrics import Metrics
 
 def main():
@@ -8,14 +9,18 @@ def main():
     
     """      
     
-    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations  
-    Bs = [30, 60, 150, 300, 500, 750, 1000]  # lobbyists budget in the simulation
-    for nl in NLs:
-        for b in Bs:  
-            basepath = f'../results/balanced_budgets/{nl}_lobbyists/{b}_budget/'
+    #NLs = [2] #number of lobbyists in the simulations
+    #Bs = [10]  # lobbyists budget in the simulation
+
+    paths = [
+        '/home/leonardo/PycharmProjects/ALMONDO-Model/src/almondo_model/results/balanced_budgets/phi_c_SA_1_lobbyists'
+    ]
+
+    for path in paths:
+            basepath = path
             filename = 'config.json'
             
-            metrics = Metrics(nl=nl, basepath=basepath, filename=filename)
+            metrics = MetricsPhiC(nl=1, basepath=basepath, filename=filename)
             
             metrics.compute_metrics(kind='probabilities', Overwrite=True)
     

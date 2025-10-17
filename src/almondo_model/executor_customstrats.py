@@ -1,0 +1,119 @@
+from almondo_model.classes.simulator import ALMONDOSimulator
+import json
+import os
+
+
+def main(nruns):
+    """
+    Set up an experiment here. 
+    With the 'params' dictionaries you can specify immutable parameters across experiments.
+    Such parameters are:
+    p_o (float): probability of optimist model
+    p_p (float): probability of pessimist model
+    initial_distribution (string): kind of initial distribution (customizable distributions are not implemented at the present time, only uniform initial distirbution can be used)
+    lambda_values (list): list of lambda_v to test in the experiments, a lamdba value can be a float or a list of length N
+    phi_values (list): list of phi_v to test in the experiment, a phi_v can be a float or a list of length N
+    base (str): folder where results are stored
+    scenario (str): folder where you want this set of experiments to be stored
+    N (int): number of agents in the population
+    lobbyists_data (dict): each key is the id of a lobbyist, each value is the information for that lobbyist
+        a single lobbyist is identified by:
+         - m (int): model, where 1 = optimist and 0 = pessimist
+         - B (int): budget
+         - c (int): cost of a signal
+         - strategies (list): list of strategies to use (filenames to retrieve the strategies form)
+         - T (int): number of active time steps 
+
+    In this Script, strategies are assigned according to lobbyist orientation (m)
+    Pass these parameters to ALMONDOSimulator, specifying the number of runs nruns you want to perform. 
+
+    Use the method ALMONDOSimulator.execute_experiments() to run the simulations. Use the attribute overwrite_runs to overwrite existing runs. 
+
+    In these experiments we are going to create a population of nl lobbyists where 1/2 of lobbyists are optimist and 1/2 of lobbyists are pessimists. Each lobbyist
+    has a budget of 300000 and is active for 3000 iterations. The cost of a single signal is 1. 
+
+    """
+
+    params = {
+            'N': 500,
+            'p_o': 0.01,
+            'p_p': 0.99,
+            'initial_distribution': 'uniform',
+            'T': 20000,
+            'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+            'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+            'base': 'results'
+        }
+
+    NLs = [2] #number of lobbyists in the simulations
+
+    paths = [
+            '/home/leonardo/PycharmProjects/ALMONDO-Model/results/balanced_budgets/2_lobbyists_frontload_frontload',
+            '/home/leonardo/PycharmProjects/ALMONDO-Model/results/balanced_budgets/2_lobbyists_frontload_random',
+            '/home/leonardo/PycharmProjects/ALMONDO-Model/results/balanced_budgets/2_lobbyists_backload_random'
+        ]
+
+    for nl in NLs:
+        for path in paths:
+            params['scenario'] = path
+            params['n_lobbyists'] = nl
+            if nl > 0:
+                params['lobbyists_data'] = dict()
+                if path == paths[0]:
+                    for id in range(nl):
+                        if id % 2 == 0:  # pessimist frontloading
+                            strategy_type = 'frontloading'
+                        else:            # optimist frontloading
+                            strategy_type = 'frontloading'
+                        params['lobbyists_data'][id] = {
+                            'm': id % 2,
+                            'B': 10000,
+                            'c': 1,
+                            'T': 100,
+                            'strategy_type': strategy_type
+                        }
+
+                elif path == paths[1]:
+                    for id in range(nl):
+                        if id % 2 == 0:  # pessimist frontloading
+                            strategy_type = 'frontloading'
+                        else:  # optimist random
+                            strategy_type = 'random'
+                        params['lobbyists_data'][id] = {
+                            'm': id % 2,
+                            'B': 10000,
+                            'c': 1,
+                            'T': 100,
+                            'strategy_type': strategy_type
+                        }
+
+                elif path == paths[2]:
+                    for id in range(nl):
+                        if id % 2 == 0:  # pessimist backloading
+                            strategy_type = 'backloading'
+                        else:  # optimist random
+                            strategy_type = 'random'
+                        params['lobbyists_data'][id] = {
+                            'm': id % 2,
+                            'B': 10000,
+                            'c': 1,
+                            'T': 100,
+                            'strategy_type': strategy_type
+                        }
+
+
+            os.makedirs(params['base'], exist_ok=True)
+            path = os.path.join(params['base'], params['scenario'])
+            os.makedirs(path, exist_ok=True)
+
+            with open(os.path.join(path, 'initial_config.json'), 'w') as f:
+                json.dump(params, f, indent=4)
+
+            print(f'performing simulations for {params["scenario"]}')
+
+            simulator = ALMONDOSimulator(**params, nruns=nruns)
+            simulator.execute_experiments(overwrite_runs=False, drop_evolution=False)
+
+
+if __name__ == "__main__":
+    main(nruns=100)

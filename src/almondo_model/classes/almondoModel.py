@@ -17,6 +17,28 @@ class AlmondoModel(DiffusionModel):
     for lobbying agents influencing node states. Extends DiffusionModel from ndlib.
     """
 
+    @staticmethod
+    def set_credibility(gw: float, B: int, k: float, gw0: float) -> float:
+
+        """
+        Sets the credibility of the lobbyist.
+        Arguments:
+            lobbyist (LobbyistAgent): Lobbyist agent to set credibility.
+
+        Returns:
+            float: The credibility of the lobbyist.
+        """
+
+        B = float(B)                  #Lobbyist total budget
+        gw = float(gw)                #Lobbyist reputational investment share
+        k  = float(k)                 #Credibility function slope
+        gw0 = float(gw0)              #Credibility function midpoint
+
+        cred = 1.0 / (1.0 + np.exp(-k * (gw - gw0)))     #Credibility
+        return float(np.clip(cred, 1e-5, 1.0 - 1e-5))
+
+
+
     class LobbyistAgent:
         """
         A class to represent a lobbyist agent influencing nodes in the network.
@@ -24,15 +46,23 @@ class AlmondoModel(DiffusionModel):
         Attributes:
             m: Model of the lobbyist (0 for pessimistic, 1 for optimistic).
             strategy: A matrix representing the strategy for node influence over time.
+            gw (float): Lobbyist's budget share allotted to reputational gain.
+            B (int): Lobbyist's total budget.
         """
 
-        def __init__(self, m: int, strategy: np.ndarray):
+        def __init__(self, m: int, strategy: np.ndarray,
+                     gw: float, B: int, credibility: float):
+
             """
             Initialize a LobbyistAgent.
             
             Arguments:
                 m (int): Model type, 0 for pessimistic, 1 for optimistic.
                 strategy (np.ndarray): The strategy matrix (T x N) for the agent's influence.
+                gw (float): Lobbyist's budget share allotted to reputational gain.
+                B (int): Lobbyist's total budget.
+                credibility (float): Lobbyist's calculated credibility.
+
             """
             if not isinstance(m, int):
                 raise TypeError("Lobbyist model must be an integer.")
@@ -48,6 +78,27 @@ class AlmondoModel(DiffusionModel):
             
             self.strategy = strategy  # Strategy matrix
             self.max_t, self.N = self.strategy.shape
+
+            if not isinstance(gw, (float)):
+                raise TypeError("Reputational investment share must be a float.")
+            if gw > 1 or gw < 0:
+                raise ValueError("Reputational investment share must be between 0 and 1.")
+
+            self.gw = gw  #Lobbyist's budget share allotted to reputational gain.
+
+            if not isinstance(B, int):
+                raise TypeError("Lobbyist's total budget must be an integer.")
+            if B < 0:
+                raise ValueError("Lobbyist's total budget must be greater than 0.")
+
+            self.B = B
+
+            # Assign credibility
+            if not isinstance(credibility, float):
+                raise TypeError("Credibility must be a float.")
+            if not 0 <= credibility <= 1:
+                raise ValueError("Credibility must be between 0 and 1.")
+            self.credibility = float(credibility)
 
     def __init__(self, graph, seed: int = None, verbose: bool = True):
         """
@@ -93,7 +144,16 @@ class AlmondoModel(DiffusionModel):
         self.T = None
         self.status = None  # Initial status, will be assigned later
         self.verbose = verbose  # Verbose output for debugging
-        
+        self.params['model'] = dict()
+        self.params['model']['p_o'] = 0.01  # default or pass from simulator
+        self.params['model']['p_p'] = 0.99  # default or pass from simulator
+        self.params['model']['k'] = 1.0  # default slope for credibility function
+        self.params['model']['gw0'] = 0.5  # default midpoint for credibility function
+        self.params['nodes'] = {
+            'lambda': {},
+            'phi': {}
+        }
+
     def _print(self, *args, **kwargs):
         """Custom print method that respects verbose setting"""
         if self.verbose:
@@ -147,13 +207,16 @@ class AlmondoModel(DiffusionModel):
         self.lobbyists = []  # Empty list of lobbyists initially
         self.system_status = []  # Empty list to store system status over time
 
-    def add_lobbyist(self, m: int, strategy: np.ndarray) -> None:
+    def add_lobbyist(self, m: int, strategy: np.ndarray,
+                     gw: float, B: int) -> None:
         """
         Adds a lobbyist agent to the model.
 
         Arguments:
             m (int): Model type of the lobbyist (0 for pessimistic, 1 for optimistic).
             strategy (np.ndarray): Strategy matrix for the lobbyist.
+            gw (float): Lobbyist's budget share allotted to reputational gain.
+            B (int): Lobbyist's total budget.
 
         Returns:
             None
@@ -161,7 +224,12 @@ class AlmondoModel(DiffusionModel):
         if isinstance(strategy, np.ndarray) and strategy.size > 0:
             if np.shape(strategy)[1] != self.graph.number_of_nodes():
                 raise ValueError(f"Strategy matrix for lobbyist does not match the number of agents in the graph. Expected {self.graph.number_of_nodes()} columns, got {np.shape(strategy)[1]}.")
-        new_lobbyist = self.LobbyistAgent(m, strategy)
+
+        k = float(self.params['model']['k'])
+        gw0 = float(self.params['model']['gw0'])
+        credibility = AlmondoModel.set_credibility(gw, B, k, gw0)
+
+        new_lobbyist = self.LobbyistAgent(m, strategy, gw, B, credibility)
         self.lobbyists.append(new_lobbyist)
 
     def get_lobbyists(self, strategy: bool = False) -> list:
@@ -285,11 +353,11 @@ class AlmondoModel(DiffusionModel):
             # p = (1 - w) * p_o + w * p_p #subjective probability pess model
             
             phi = self.phis #parametro phi della popolazione, per ora testati solo omogenei
-            lam = self.lambdas #parametro lambda della popolazione, per ora testati solo omogenei
-                     
+            cred = lobbyist.credibility  # scalar in (0,1): credibility of lobbyist
+
             # opt model
-            l1 = phi * w + (1 - phi) * lam #lambda per lobbista pessimista
-            l2 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista ottimista 
+            l1 = phi * w + (1 - phi) * (1 - cred) #lambda per lobbista pessimista
+            l2 = phi * (1-w) + (1 - phi) * (1 - cred) #lambda per lobbista ottimista
                       
             # pess model
             # l1 = phi * (1-w) + (1 - phi) * lam #lambda per lobbista pessimista

@@ -34,19 +34,21 @@ def main(nruns):
     In these experiments we are going to create a population of nl lobbyists where 1/2 of lobbyists are optimist and 1/2 of lobbyists are pessimists. Each lobbyist
     has a budget of 300000 and is active for 3000 iterations. The cost of a single signal is 1. 
     
-    """      
-    
-    NLs = [0, 1, 2, 3, 4, 20] #number of lobbyists in the simulations
+    """
+
+    NLs = [1] #number of lobbyists in the simulations
     params = {
         'N': 500,
         'p_o': 0.01,
         'p_p': 0.99,
         'initial_distribution': 'uniform',
         'T': 10000,
-        'lambda_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'phi_values': [0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
-        'base': 'results'
-    }    
+        'lambda_values': [0.0, 0.25, 0.5, 0.75, 1.0],
+        'phi_values': [0.0, 0.25, 0.5, 0.75, 1.0],
+        'base': 'results',
+        'gw0': 0.5,  # midpoint for credibility function
+        'k': 10
+    }
     
     
     for nl in NLs:
@@ -55,7 +57,7 @@ def main(nruns):
         if nl > 0:
             params['lobbyists_data'] = dict()
             for id in range(nl):
-                params['lobbyists_data'][id] = {'m': id%2, 'B': 300000, 'c': 1, 'strategies': [], 'T': 3000}    
+                params['lobbyists_data'][id] = {'m': id%2, 'B': 10000, 'c': 1, 'strategies': [], 'T': 100, 'gw': 0.5}
 
         os.makedirs(params['base'], exist_ok=True)
         path = os.path.join(params['base'], params['scenario'])
@@ -67,7 +69,7 @@ def main(nruns):
         print(f'performing simulations for {params["scenario"]}')
                     
         simulator = ALMONDOSimulator(**params, nruns=nruns)
-        simulator.execute_experiments(overwrite_runs=False,drop_evolution=False)     
+        simulator.execute_experiments_lambda_phi(overwrite_runs=False,drop_evolution=False)
 
                     
 if __name__ == "__main__":

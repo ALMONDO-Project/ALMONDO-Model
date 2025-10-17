@@ -180,3 +180,256 @@ class Metrics(object):
                 else:
                     if not os.path.exists(path+f'{kind}_metrics_distributions.json') and not os.path.exists(path+f'{kind}_average_metrics.json'):
                         self.collect_metrics(kind, pbar, path, metrics, avg_metrics)
+
+
+
+class MetricsLambdaGW(object):
+    def __init__(
+            self,
+            nl: int = 0,
+            basepath: str = f'../results/lambda_gw_grid/',
+            filename: str = 'config.json',
+    ):
+        self.nl = nl
+        self.basepath = basepath
+        self.filename = filename
+
+        with open(os.path.join(basepath, filename), 'r') as f:
+            params = json.load(f)
+
+        self.p_o = params['p_o']
+        self.p_p = params['p_p']
+        self.lambda_values = params['lambda_values']
+        self.gw_values = params.get('gw_values', [0.5])  # default if not present
+        self.n_lobbyists = params['n_lobbyists']
+        self.nruns = params['nruns']
+        self.lobbyists_data = params['lobbyists_data']
+        self.params = params
+
+    def get_data(self, trends: dict, kind: str, iteration: Union[int, str] = -1):
+        if isinstance(iteration, int) and -1 <= iteration < len(trends):
+            it = trends[iteration]['iteration']
+            ops = np.array(list(trends[iteration]['status'].values()), dtype=float)
+        else:
+            raise ValueError(f"Invalid iteration index: {iteration}")
+
+        if kind == 'probabilities':
+            ops = self.p_o * ops + self.p_p * (1 - ops)
+            ops = np.array(ops, dtype=float)
+        elif kind == 'weights':
+            np.array(ops, dtype=float)
+        else:
+            raise ValueError("`values` must be either 'probabilities' or 'weights'.")
+
+        return ops, it
+
+    def collect_metrics(self, kind: str, pbar, path: str, metrics: dict, avg_metrics: dict):
+        for run in range(self.nruns):
+            runpath = os.path.join(path, str(run))
+            try:
+                with open(runpath + '/status.json', 'r') as f:
+                    trends = json.load(f)
+            except json.decoder.JSONDecodeError as e:
+                print(f'Error reading {runpath}/status.json: {e}')
+                continue
+
+            ops, it = self.get_data(trends, kind=kind)
+            ops_array = np.array(ops)
+
+            metrics['effective_number_clusters'].append(nclusters(ops, 0.0001))
+            metrics['number_iterations'].append(it)
+            metrics['average_pairwise_distance'].append(pwdist(ops))
+            metrics['average_opinions'].append(ops_array.mean())
+            metrics['std_opinions'].append(ops_array.std())
+
+            for id, lob in self.lobbyists_data.items():
+                metrics['lobbyists_performance'][int(id)].append(
+                    lobbyist_performance(ops, lob['m'], self.p_o, self.p_p))
+
+            pbar.update(1)
+
+        # Compute averages
+        for k, v in metrics.items():
+            if k != 'lobbyists_performance':
+                avg_metrics[k]['avg'] = np.mean(v)
+                avg_metrics[k]['std'] = np.std(v)
+            else:
+                for id in range(self.n_lobbyists):
+                    avg_metrics[k][id]['avg'] = np.mean(v[id])
+                    avg_metrics[k][id]['std'] = np.std(v[id])
+
+        # t-test for average opinions
+        p_hat = avg_metrics['average_opinions']['avg']
+        n = self.nruns
+        p_0 = 0.5
+        t_stat = (p_hat - p_0) / np.sqrt((p_hat * (1 - p_hat)) / n)
+        df = n - 1
+        p_value = 2 * (1 - t.cdf(abs(t_stat), df))
+
+        avg_metrics['average_opinions']['t_statistic'] = t_stat
+        avg_metrics['average_opinions']['p_value'] = p_value
+
+        # Save results
+        with open(os.path.join(path, f'{kind}_metrics_distributions.json'), 'w') as f:
+            json.dump(metrics, f)
+        with open(os.path.join(path, f'{kind}_average_metrics.json'), 'w') as f:
+            json.dump(avg_metrics, f)
+
+    def compute_metrics(self, kind: str, Overwrite: bool = False):
+        total_iterations = len(self.lambda_values) * len(self.gw_values) * self.nruns
+
+        with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
+            for _, (lambda_v, gw_v) in enumerate([(l, g) for l in self.lambda_values for g in self.gw_values]):
+                path = os.path.join(self.basepath, f'{lambda_v}_{gw_v}/')
+
+                metrics = {
+                    'effective_number_clusters': [],
+                    'number_iterations': [],
+                    'average_pairwise_distance': [],
+                    'average_opinions': [],
+                    'std_opinions': [],
+                    'lobbyists_performance': {k: [] for k in range(self.n_lobbyists)}
+                }
+
+                avg_metrics = {
+                    'effective_number_clusters': {'avg': -1, 'std': -1},
+                    'number_iterations': {'avg': -1, 'std': -1},
+                    'average_pairwise_distance': {'avg': -1, 'std': -1},
+                    'average_opinions': {'avg': -1, 'std': -1, 't_statistic': -1, 'p_value': -1},
+                    'std_opinions': {'avg': -1, 'std': -1},
+                    'lobbyists_performance': {k: {'avg': -1, 'std': -1} for k in range(self.n_lobbyists)}
+                }
+
+                if Overwrite:
+                    self.collect_metrics(kind, pbar, path, metrics, avg_metrics)
+                else:
+                    if not os.path.exists(os.path.join(path, f'{kind}_metrics_distributions.json')) and \
+                            not os.path.exists(os.path.join(path, f'{kind}_average_metrics.json')):
+                        self.collect_metrics(kind, pbar, path, metrics, avg_metrics)
+
+
+class MetricsPhiC(object):
+    def __init__(
+            self,
+            nl: int = 0,
+            basepath: str = f'../results/phi_c_grid/',
+            filename: str = 'config.json',
+    ):
+        self.nl = nl
+        self.basepath = basepath
+        self.filename = filename
+
+        with open(os.path.join(basepath, filename), 'r') as f:
+            params = json.load(f)
+
+        self.p_o = params['p_o']
+        self.p_p = params['p_p']
+        self.lambda_values = params['lambda_values']
+        self.phi_values = params['phi_values']
+        self.gw_values = params.get('gw_values', [0.5])  # default if not present
+        self.c_values = params.get('c_values', [1.0])  # default if not present
+        self.n_lobbyists = params['n_lobbyists']
+        self.nruns = params['nruns']
+        self.lobbyists_data = params['lobbyists_data']
+        self.params = params
+
+    def get_data(self, trends: dict, kind: str, iteration: Union[int, str] = -1):
+        if isinstance(iteration, int) and -1 <= iteration < len(trends):
+            it = trends[iteration]['iteration']
+            ops = np.array(list(trends[iteration]['status'].values()), dtype=float)
+        else:
+            raise ValueError(f"Invalid iteration index: {iteration}")
+
+        if kind == 'probabilities':
+            ops = self.p_o * ops + self.p_p * (1 - ops)
+            ops = np.array(ops, dtype=float)
+        elif kind == 'weights':
+            np.array(ops, dtype=float)
+        else:
+            raise ValueError("`values` must be either 'probabilities' or 'weights'.")
+
+        return ops, it
+
+    def collect_metrics(self, kind: str, pbar, path: str, metrics: dict, avg_metrics: dict):
+        for run in range(self.nruns):
+            runpath = os.path.join(path, str(run))
+            try:
+                with open(runpath + '/status.json', 'r') as f:
+                    trends = json.load(f)
+            except json.decoder.JSONDecodeError as e:
+                print(f'Error reading {runpath}/status.json: {e}')
+                continue
+
+            ops, it = self.get_data(trends, kind=kind)
+            ops_array = np.array(ops)
+
+            metrics['effective_number_clusters'].append(nclusters(ops, 0.0001))
+            metrics['number_iterations'].append(it)
+            metrics['average_pairwise_distance'].append(pwdist(ops))
+            metrics['average_opinions'].append(ops_array.mean())
+            metrics['std_opinions'].append(ops_array.std())
+
+            for id, lob in self.lobbyists_data.items():
+                metrics['lobbyists_performance'][int(id)].append(
+                    lobbyist_performance(ops, lob['m'], self.p_o, self.p_p))
+
+            pbar.update(1)
+
+        # Compute averages
+        for k, v in metrics.items():
+            if k != 'lobbyists_performance':
+                avg_metrics[k]['avg'] = np.mean(v)
+                avg_metrics[k]['std'] = np.std(v)
+            else:
+                for id in range(self.n_lobbyists):
+                    avg_metrics[k][id]['avg'] = np.mean(v[id])
+                    avg_metrics[k][id]['std'] = np.std(v[id])
+
+        # t-test for average opinions
+        p_hat = avg_metrics['average_opinions']['avg']
+        n = self.nruns
+        p_0 = 0.5
+        t_stat = (p_hat - p_0) / np.sqrt((p_hat * (1 - p_hat)) / n)
+        df = n - 1
+        p_value = 2 * (1 - t.cdf(abs(t_stat), df))
+
+        avg_metrics['average_opinions']['t_statistic'] = t_stat
+        avg_metrics['average_opinions']['p_value'] = p_value
+
+        # Save results
+        with open(os.path.join(path, f'{kind}_metrics_distributions.json'), 'w') as f:
+            json.dump(metrics, f)
+        with open(os.path.join(path, f'{kind}_average_metrics.json'), 'w') as f:
+            json.dump(avg_metrics, f)
+
+    def compute_metrics(self, kind: str, Overwrite: bool = False):
+        total_iterations = len(self.phi_values) * len(self.c_values) * self.nruns
+
+        with tqdm(total=total_iterations, desc="Processing", unit="iteration") as pbar:
+            for _, (phi_v, c_v) in enumerate([(p, c) for p in self.phi_values for c in self.c_values]):
+                path = os.path.join(self.basepath, f'{phi_v}_{c_v}/')
+
+                metrics = {
+                    'effective_number_clusters': [],
+                    'number_iterations': [],
+                    'average_pairwise_distance': [],
+                    'average_opinions': [],
+                    'std_opinions': [],
+                    'lobbyists_performance': {k: [] for k in range(self.n_lobbyists)}
+                }
+
+                avg_metrics = {
+                    'effective_number_clusters': {'avg': -1, 'std': -1},
+                    'number_iterations': {'avg': -1, 'std': -1},
+                    'average_pairwise_distance': {'avg': -1, 'std': -1},
+                    'average_opinions': {'avg': -1, 'std': -1, 't_statistic': -1, 'p_value': -1},
+                    'std_opinions': {'avg': -1, 'std': -1},
+                    'lobbyists_performance': {k: {'avg': -1, 'std': -1} for k in range(self.n_lobbyists)}
+                }
+
+                if Overwrite:
+                    self.collect_metrics(kind, pbar, path, metrics, avg_metrics)
+                else:
+                    if not os.path.exists(os.path.join(path, f'{kind}_metrics_distributions.json')) and \
+                            not os.path.exists(os.path.join(path, f'{kind}_average_metrics.json')):
+                        self.collect_metrics(kind, pbar, path, metrics, avg_metrics)
