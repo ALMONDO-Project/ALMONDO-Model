@@ -17,7 +17,7 @@ class AlmondoModel(DiffusionModel):
     for lobbying agents influencing node states. Extends DiffusionModel from ndlib.
     """
     # Small epsilon to prevent division by zero and extreme values
-    EPSILON = 1e-10
+    EPSILON = 1e-12
 
     class LobbyistAgent:
         """
