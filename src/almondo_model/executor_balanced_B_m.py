@@ -43,8 +43,8 @@ def main(nruns):
         'p_p': 0.99,
         'initial_distribution': 'uniform',
         'T': 10000,
-        'lambda_values': [0.0, 0.25, 0.5, 0.75, 1.0],
-        'phi_values': [0.0, 0.25, 0.5, 0.75, 1.0],
+        'lambda_values': [0.0],
+        'phi_values': [0.0],
         'base': 'results',
         'gw0': 0.5,  # midpoint for credibility function
         'k': 10
@@ -73,4 +73,4 @@ def main(nruns):
 
                     
 if __name__ == "__main__":
-    main(nruns=100)
+    main(nruns=2)

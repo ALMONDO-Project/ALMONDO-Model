@@ -62,7 +62,7 @@ class ALMONDOSimulator(object):
 
     def __init__(
         self, 
-        N: int, 
+        N: int,
         initial_distribution: str,
         T: int,
         p_o: float,
@@ -106,8 +106,10 @@ class ALMONDOSimulator(object):
         os.makedirs(self.strategies_path, exist_ok=True)        
         
         self.N = N
-        self.graph = nx.complete_graph(N)  # Create a complete graph of N nodes
+        #self.graph = nx.complete_graph(N)  # Create a complete graph of N nodes
         #self.graph = nx.erdos_renyi_graph(N, 0.1)
+        # Generate a scale-free network
+        self.graph = nx.barabasi_albert_graph(N, 7)
         self.p_o = p_o
         self.p_p = p_p
         self.k = k
@@ -218,6 +220,18 @@ class ALMONDOSimulator(object):
                     matrix, _ = self.create_uncommitted_target_strategy(data['T'], B, actual_status = actual_status, c = c)
                     name = 'uncommitted'
                     self._print('Assign uncommitted strategy')
+                elif strategy_type == 'centrality':
+                    actual_status = np.array([self.model.status[i] for i in range(self.N)])
+                    matrix, _ = self.create_centrality_target_strategy(data['T'], B, G = self.graph, c=c)
+                    name = 'centrality'
+                    self._print('Assign centrality strategy')
+                elif strategy_type == 'centrality_2':
+                    actual_status = np.array([self.model.status[i] for i in range(self.N)])
+                    matrix, _ = self.create_centrality_target_strategy_v2(data['T'], B, G = self.graph, c=c)
+                    name = 'centrality_2'
+                    self._print('Assign centrality strategy with single contact')
+
+
 
                 else:
                     # fallback to default random strategy
@@ -416,6 +430,8 @@ class ALMONDOSimulator(object):
                 # note: adjust phi handling later if you want to sweep phi as well
                 self.runs(lambda_v, phi_v=0.0, overwrite=overwrite_runs, drop_ev=drop_evolution)
 
+
+
     def execute_experiments_phi_c(self,
                                       c_values: list = None,
                                       overwrite_runs: bool = False,
@@ -475,7 +491,7 @@ class ALMONDOSimulator(object):
 
                 # run the batch for this configuration
                 # note: adjust phi handling later if you want to sweep phi as well
-                self.runs(lambda_v=0.8, phi_v = phi_v, overwrite=overwrite_runs, drop_ev=drop_evolution)
+                self.runs(lambda_v=0.0, phi_v = phi_v, overwrite=overwrite_runs, drop_ev=drop_evolution)
 
 
     def save_config(self, filename: str = None):
@@ -559,6 +575,103 @@ class ALMONDOSimulator(object):
         matrix[row_indices, col_indices] = 1
 
         return matrix
+
+    def create_centrality_target_strategy(self, T: int, B: int, G, c: float = 1.0) -> tuple:
+        """
+        Centrality-targeted strategy:
+        - Pre-select the nodes with highest degree centrality (most connected)
+        - Send signals only to them
+        - Uniform number of signals per period
+
+        Args:
+            T (int): Number of iterations
+            B (int): Total budget
+            G (networkx.Graph): The network
+            c (float): Unit cost per signal
+
+        Returns:
+            tuple: (strategy_matrix, name)
+        """
+        import numpy as np
+        import networkx as nx
+
+        N = len(G.nodes)
+        matrix = np.zeros((T, N), dtype=int)
+
+        # Total signals affordable
+        total_signals = int(B / c)
+        if total_signals == 0:
+            return matrix, 'centrality'
+
+        # Signals per iteration
+        signals_per_t = max(1, total_signals // T)
+
+        # Compute degree centrality
+        degree_centrality = np.array([val for _, val in G.degree()])
+        sorted_nodes = np.argsort(-degree_centrality)  # descending order
+        target_nodes = sorted_nodes[:signals_per_t]
+
+        # SANITY CHECK: print signals per iteration and target nodes
+        print(f"[SANITY] signals_per_t={signals_per_t}, target_nodes={target_nodes}")
+
+        # SANITY CHECK 2: verify these are indeed the most connected nodes
+        if set(degree_centrality[target_nodes]) != set(np.sort(degree_centrality)[-signals_per_t:]):
+            print("[SANITY WARNING] Target nodes do not match the highest degrees!")
+        else:
+            print("[SANITY] Target nodes correctly correspond to highest degrees.")
+
+        # Assign signals uniformly across T periods
+        for t in range(T):
+            matrix[t, target_nodes] = 1
+
+        return matrix, 'centrality'
+
+    def create_centrality_target_strategy_v2(self, T: int, B: int, G, c: float = 1.0) -> tuple:
+        """
+        Centrality-targeted strategy version 2:
+        - Rank nodes by degree centrality (descending)
+        - Each node can be contacted only once across the entire run
+        - Lobbyist proceeds down the centrality ranking
+        - One signal per period until budget is exhausted
+        - When the ranked list is exhausted, remaining periods are zeros
+
+        Args:
+            T (int): Number of iterations
+            B (int): Total budget
+            G (networkx.Graph): The network
+            c (float): Unit cost per signal
+
+        Returns:
+            tuple: (strategy_matrix, name)
+        """
+
+        N = len(G.nodes)
+        matrix = np.zeros((T, N), dtype=int)
+
+        # Total number of affordable signals
+        total_signals = int(B / c)
+        if total_signals == 0:
+            return matrix, 'centrality_2'
+
+        # Degree centrality values
+        degree_centrality = np.array([val for _, val in G.degree()])
+        sorted_nodes = np.argsort(-degree_centrality)  # highest degree first
+
+        # Only contact each node once
+        max_contactable = min(total_signals, N)
+
+        # Assign exactly one new node per period (if any contacts left)
+        # We stop either when we run out of signals or when we run out of nodes
+        counter = 0
+        for t in range(T):
+            if counter < max_contactable:
+                node = sorted_nodes[counter]
+                matrix[t, node] = 1
+                counter += 1
+            else:
+                break  # no more nodes/signals to distribute
+
+        return matrix, 'centrality_2'
 
     def create_pessimist_target_strategy(self, T: int, B: int, actual_status: np.ndarray, c: float = 1.0) -> tuple:
         """
