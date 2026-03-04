@@ -2,6 +2,9 @@
 
 AlmondoModel is a diffusion model designed to simulate the diffusion of influence across a network with the influence of lobbyists having different strategies. It extends the `DiffusionModel` class from the `ndlib` library, enabling the simulation of opinion evolution and the effects of lobbying activities over time. The model can be customized with various parameters such as probabilities for optimistic and pessimistic events, node influence factors, and more.
 
+
+The model has been empirically calibrated using experimental survey data collected within the ALMONDO project. See the **Empirical Calibration (ALMONDO Survey Experiment)** section below for details and calibrated parameter values.
+
 ## Features
 
 - **Agent-based simulation**: Simulates a network of nodes influenced by lobbyists with varying strategies.
@@ -245,6 +248,43 @@ for nl in NLs:
                 
     simulator = ALMONDOSimulator(**params, nruns=nruns)
     simulator.execute_experiments(overwrite_runs=False)   
+```
+
+## Empirical Calibration (ALMONDO Survey Experiment)
+
+The parameters `lambda_values` (influence susceptibility) and `phi_values` (resistance to influence) can be calibrated using empirical evidence collected within the ALMONDO project.
+
+We conducted a detailed experimental survey study to estimate these parameters from observed behavioral data.  
+The full experimental report is publicly available at:
+
+https://almondo-project.github.io/publications/2024/11/29/ALMONDO-Survey-Report.html
+
+Based on the results of this experiment, we derived empirically calibrated parameter values that align the model with the observed dynamics.
+
+For simulations calibrated to the experimental evidence, use:
+
+- `lambda = 0.8989`
+- `phi = 0.1209`
+
+### Using empirically calibrated values in the simulator
+
+When initializing the `ALMONDOSimulator`, set:
+
+```python
+simulator = ALMONDOSimulator(
+    N=100,
+    initial_distribution='random',
+    T=100,
+    p_o=0.1,
+    p_p=0.5,
+    lambda_values=[0.8989],
+    phi_values=[0.1209],
+    base='results/',
+    scenario='empirically_calibrated',
+    nruns=100,
+    n_lobbyists=5,
+    lobbyists_data={}
+)
 ```
 
 ## License
