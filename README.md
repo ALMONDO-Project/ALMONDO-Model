@@ -255,6 +255,7 @@ for nl in NLs:
 The parameters `lambda_values` (influence susceptibility) and `phi_values` (resistance to influence) can be calibrated using empirical evidence collected within the ALMONDO project.
 
 We conducted a detailed experimental survey study to estimate these parameters from observed behavioral data.  
+
 The procedure adopted to obtain the calibrated parameters is explained here:
 
 https://almondo-project.github.io/publications/2026/03/20/ALMONDO-Data-Model-Software-Report.html
