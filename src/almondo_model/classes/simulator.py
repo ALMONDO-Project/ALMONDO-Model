@@ -77,6 +77,7 @@ class ALMONDOSimulator(object):
         initial_status: list = None,
         n_lobbyists: int = 0,
         lobbyists_data: dict = {},
+        mba=7,
         verbose: bool = True
     ):
         """
@@ -109,7 +110,9 @@ class ALMONDOSimulator(object):
         #self.graph = nx.complete_graph(N)  # Create a complete graph of N nodes
         #self.graph = nx.erdos_renyi_graph(N, 0.1)
         # Generate a scale-free network
-        self.graph = nx.barabasi_albert_graph(N, 7)
+        self.mba = mba
+        self.graph = nx.barabasi_albert_graph(N, mba)
+        ###
         self.p_o = p_o
         self.p_p = p_p
         self.k = k
@@ -428,7 +431,7 @@ class ALMONDOSimulator(object):
 
                 # run the batch for this configuration
                 # note: adjust phi handling later if you want to sweep phi as well
-                self.runs(lambda_v, phi_v=0.0, overwrite=overwrite_runs, drop_ev=drop_evolution)
+                self.runs(lambda_v, phi_v=1.0, overwrite=overwrite_runs, drop_ev=drop_evolution)
 
 
 
@@ -493,7 +496,112 @@ class ALMONDOSimulator(object):
                 # note: adjust phi handling later if you want to sweep phi as well
                 self.runs(lambda_v=0.0, phi_v = phi_v, overwrite=overwrite_runs, drop_ev=drop_evolution)
 
+    def execute_experiments_mba_c(
+            self,
+            mba_values: list = None,
+            c_values: list = None,
+            overwrite_runs: bool = False,
+            drop_evolution: bool = False
+    ):
+        """
+        Execute experiments for all mba and c configurations.
 
+        Parameters
+        ----------
+        mba_values : list
+            List of Barabasi-Albert attachment parameters.
+
+        c_values : list
+            List of signal costs.
+
+        overwrite_runs : bool
+            Whether to overwrite existing runs.
+
+        drop_evolution : bool
+            Passed to runs().
+        """
+
+        self._print("Starting mba-c experiments")
+
+        # -----------------------------
+        # Determine mba values
+        # -----------------------------
+        if mba_values is None:
+            mba_values = getattr(self, "mba_values", [self.mba])
+
+        mba_values = sorted(set(int(m) for m in mba_values))
+
+        for m in mba_values:
+            if m < 1:
+                raise ValueError(f"mba must be >=1, got {m}")
+
+        self.mba_values = mba_values
+
+        # -----------------------------
+        # Determine c values
+        # -----------------------------
+        if c_values is None:
+            c_values = getattr(self, "c_values", None)
+
+        if c_values is None:
+            if self.n_lobbyists > 0:
+                c_values = list({
+                    float(self.lobbyists_data[id].get("c", 1.0))
+                    for id in self.lobbyists_data
+                })
+            else:
+                c_values = [1.0]
+
+        c_values = sorted(set(float(c) for c in c_values))
+
+        for c in c_values:
+            if c <= 0:
+                raise ValueError(f"c must be > 0, got {c}")
+
+        self.c_values = c_values
+
+        print(
+            f"Will run {len(mba_values) * len(c_values)} configurations"
+        )
+
+        # -----------------------------
+        # Sweep
+        # -----------------------------
+        for mba_v in mba_values:
+
+            self._print(f"Generating BA graph with mba={mba_v}")
+
+            # Rebuild network
+            self.mba = mba_v
+            self.graph = nx.barabasi_albert_graph(self.N, mba_v)
+
+            for c_v in c_values:
+
+                self._print(
+                    f"Starting configuration mba={mba_v}, c={c_v}"
+                )
+
+                self.config_path = os.path.join(
+                    self.scenario_path,
+                    f"{mba_v}_{c_v}"
+                )
+                os.makedirs(self.config_path, exist_ok=True)
+
+                # Update lobbyist costs
+                if self.n_lobbyists > 0:
+                    for lid in self.lobbyists_data:
+                        self.lobbyists_data[lid]["c"] = c_v
+
+                # Regenerate random strategy pool
+                self.create_strategies()
+
+                # Run simulations
+                self.runs(
+                    lambda_v=self.lambdas[0],
+                    phi_v=self.phis[0],
+                    overwrite=overwrite_runs,
+                    drop_ev=drop_evolution
+                )
     def save_config(self, filename: str = None):
         """
         Save the current simulation configuration to a file.

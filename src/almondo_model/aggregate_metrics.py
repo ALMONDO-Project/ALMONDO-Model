@@ -13,7 +13,7 @@ def main():
     #Bs = [10]  # lobbyists budget in the simulation
 
     paths = [
-        '/home/leonardo/PycharmProjects/ALMONDO-Model/src/almondo_model/results/balanced_budgets/phi_c_SA_1_lobbyists'
+        '/home/leonardo/PycharmProjects/ALMONDO-Model/src/almondo_model/results/gw_lambda_SA_1_lobbyists_gw00.5_k10_phi1.0'
     ]
 
     for path in paths:
